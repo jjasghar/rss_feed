@@ -1,0 +1,86 @@
+.fa, .fab {
+    margin-right: .8em;
+}
+
+.fab {
+font-family: 'Font Awesome 5 Brands' !important;
+font-weight: 400;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: gray;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+body {
+    font-family: sans-serif;
+    font-size: small;
+    line-height: 1.7em;
+    background-color: #eee;
+    margin-left: 35px;
+}
+
+.fa ~ .feed {
+    display: none;
+}
+.fa:hover ~ .feed {
+    display: inline;
+}
+.fa:hover ~ .title {
+    display: none;
+}
+
+.story {
+    height: 1.7em;
+    overflow: hidden;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-width: 250px;
+    max-width: 500px;
+}
+.flexholder {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wide {
+    flex-grow: 2;
+    min-width: 250px;
+}
+ul {
+    line-height: 1.4em;
+    font-size: x-small;
+}
+
+h5 {
+    font-size: small;
+}
+
+a.weatherLink {
+    font-size: x-small;
+    margin-left: 3px;
+    font-weight: 100;
+
+}
+
+.weather {
+    margin-left: 3em;
+    color: gray;
+}
+
+i.wi {
+    margin-left: 6px;
+}
+.wiki {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}

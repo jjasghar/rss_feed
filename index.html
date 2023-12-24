@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="feeds.css"/>
+  <script src="https://kit.fontawesome.com/274c12ed2b.js" crossorigin="anonymous"></script>
+  <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+  <meta charset="UTF-8"/>
+  <script src="showdown.min.js"></script>
+  <script>function render() {
+    file = "feeds.md"
+    fetch(file).then(response => response.text()).then((data) => {
+        target = document.getElementById('targetDiv'),
+        converter = new showdown.Converter(),
+        html = converter.makeHtml(data);
+        target.innerHTML = html;
+    })
+
+  }</script>
+<title id="title">Feeds</title>
+</head>
+<body onload="render()">
+    <h3>Headlines</h3>
+    <div id="targetDiv"></div>
+</body>
+</html>

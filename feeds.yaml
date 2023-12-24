@@ -1,0 +1,25 @@
+---
+-   url: http://rss.cnn.com/rss/cnn_topstories.rss
+    freq: 1
+    icon: fa-newspaper
+    title:
+-   url: https://lifehacker.com/rss
+    freq: 1
+    icon: fa-life-ring
+    title:
+-   url: https://gizmodo.com/rss
+    freq: 1
+    icon: fa-computer
+    title:
+-   url: https://kotaku.com/rss
+    freq: 1
+    icon: fa-gamepad
+    title:
+-   url: https://feeds.boingboing.net/boingboing/iBag
+    freq: 1
+    icon: fa-arrow-right
+    title:
+-   url: https://lobste.rs/t/python.rss
+    freq: 1
+    icon: fa-staff-snake
+    title:
