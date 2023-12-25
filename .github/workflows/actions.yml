@@ -1,9 +1,9 @@
 name: run feeds.py
 
 on:
-  push
-  #schedule:
-  #  - cron: '0 0 * * *' # At 00:00 on Monday
+  #push
+  schedule:
+    - cron: '0 0 * * *' # At 00:00 every day
 
 jobs:
   build:
