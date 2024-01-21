@@ -1,0 +1,4 @@
+https://lobste.rs/t/python.rss
+<div class="story"><span class="fa fa-fw fa-arrow-right"></span><span class="title"><a href="https://boingboing.net/2024/01/20/give-your-pc-a-boost-with-microsoft-office-2019-and-windows-11-pro-now-under-50.html">Give your PC a boost with Microsoft Office 2019 and Windows 11 Pro, now under $50</a></span><i class="feed">Boing Boing</i></div>
+<div class="story"><span class="fa fa-fw fa-gamepad"></span><span class="title"><a href="https://kotaku.com/ff7-rebirth-tlou-2-and-more-of-the-weeks-essential-ga-1851180101">FF7 Rebirth, TLOU 2, And More Of The Week's Essential Game Tips</a></span><i class="feed">Kotaku</i></div>
+<div class="story"><span class="fa fa-fw fa-computer"></span><span class="title"><a href="https://gizmodo.com/greg-nicotero-swan-song-novel-tv-adaptation-1851182792">Greg Nicotero is Bringing Horror Novel Swan Song to TV Life</a></span><i class="feed">Gizmodo</i></div>
