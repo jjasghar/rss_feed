@@ -1,0 +1,2 @@
+<div class="story"><span class="fa fa-fw fa-staff-snake"></span><span class="title"><a href="https://www.stuartellis.name/articles/python-modern-practices/">Modern Good Practices for Python Development</a></span><i class="feed">Lobsters: python - Python programming</i></div>
+<div class="story"><span class="fa fa-fw fa-life-ring"></span><span class="title"><a href="https://lifehacker.com/entertainment/wordle-nyt-hint-today-june-29-2024">Today’s Wordle Hints (and Answer) for Saturday, June 29, 2024</a></span><i class="feed">LifeHacker</i></div>
