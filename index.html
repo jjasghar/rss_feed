@@ -1,25 +1,71 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" type="text/css" href="feeds.css"/>
-  <script src="https://kit.fontawesome.com/274c12ed2b.js" crossorigin="anonymous"></script>
-  <link rel="icon" href="favicon.ico" type="image/x-icon"/>
-  <meta charset="UTF-8"/>
-  <script src="showdown.min.js"></script>
-  <script>function render() {
-    file = "feeds.md"
-    fetch(file).then(response => response.text()).then((data) => {
-        target = document.getElementById('targetDiv'),
-        converter = new showdown.Converter(),
-        html = converter.makeHtml(data);
-        target.innerHTML = html;
-    })
-
-  }</script>
-<title id="title">Feeds</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="RSS News Digest - Your personal news aggregator with breaking news, technology, and lifestyle updates">
+    <meta name="keywords" content="RSS, news, technology, breaking news, aggregator">
+    <meta name="author" content="RSS Feed Aggregator">
+    
+    <title>RSS News Digest - Latest Headlines</title>
+    
+    <link rel="stylesheet" type="text/css" href="feeds.css"/>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    
+    <!-- Font Awesome for icons -->
+    <script src="https://kit.fontawesome.com/274c12ed2b.js" crossorigin="anonymous"></script>
+    
+    <!-- Showdown for Markdown rendering -->
+    <script src="showdown.min.js"></script>
+    
+    <script>
+        function render() {
+            const file = "feeds.md";
+            fetch(file)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then((data) => {
+                    const target = document.getElementById('targetDiv');
+                    const converter = new showdown.Converter();
+                    const html = converter.makeHtml(data);
+                    target.innerHTML = html;
+                    
+                    // Add smooth scrolling for navigation links
+                    document.querySelectorAll('.newspaper-nav a').forEach(link => {
+                        link.addEventListener('click', function(e) {
+                            e.preventDefault();
+                            const targetId = this.getAttribute('href').substring(1);
+                            const targetElement = document.getElementById(targetId);
+                            if (targetElement) {
+                                targetElement.scrollIntoView({ 
+                                    behavior: 'smooth',
+                                    block: 'start'
+                                });
+                            }
+                        });
+                    });
+                })
+                .catch(error => {
+                    console.error('Error loading feeds:', error);
+                    document.getElementById('targetDiv').innerHTML = 
+                        '<p style="text-align: center; color: #666; padding: 50px;">Error loading news feeds. Please try again later.</p>';
+                });
+        }
+        
+        // Auto-refresh every 30 minutes
+        setInterval(render, 30 * 60 * 1000);
+    </script>
 </head>
 <body onload="render()">
-    <h3>Headlines</h3>
-    <div id="targetDiv"></div>
+    <div id="targetDiv">
+        <div style="text-align: center; padding: 50px; color: #666;">
+            <i class="fa fa-spinner fa-spin" style="font-size: 2em; margin-bottom: 20px;"></i>
+            <p>Loading latest news...</p>
+        </div>
+    </div>
 </body>
 </html>

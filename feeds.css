@@ -1,86 +1,409 @@
-.fa, .fab {
-    margin-right: .8em;
+/* Traditional Newspaper CSS Design with Images */
+* {
+    box-sizing: border-box;
 }
 
-.fab {
-font-family: 'Font Awesome 5 Brands' !important;
-font-weight: 400;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-a:visited {
-    color: gray;
-}
-a {
-    color: black;
-    text-decoration: none;
-}
 body {
-    font-family: sans-serif;
-    font-size: small;
-    line-height: 1.7em;
-    background-color: #eee;
-    margin-left: 35px;
+    font-family: 'Times New Roman', 'Georgia', serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #000;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-image: 
+        linear-gradient(90deg, transparent 24px, #e0e0e0 25px, #e0e0e0 26px, transparent 27px),
+        linear-gradient(#f9f9f9, #f9f9f9);
 }
 
-.fa ~ .feed {
-    display: none;
-}
-.fa:hover ~ .feed {
-    display: inline;
-}
-.fa:hover ~ .title {
-    display: none;
+/* Newspaper Header */
+.newspaper-header {
+    text-align: center;
+    border-bottom: 4px double #000;
+    border-top: 2px solid #000;
+    margin: 20px 20px 0;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.newspaper-title {
+    font-size: 3.5em;
+    font-weight: bold;
+    margin: 0;
+    font-family: 'Times New Roman', serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000;
+    text-shadow: none;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;
+}
+
+.newspaper-date {
+    font-size: 0.9em;
+    font-style: italic;
+    margin: 8px 0 5px;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.newspaper-subtitle {
+    font-size: 0.8em;
+    color: #666;
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+/* Navigation */
+.newspaper-nav {
+    background-color: #000;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin: 0 20px;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.newspaper-nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
+    transition: color 0.2s ease;
+}
+
+.newspaper-nav a:hover {
+    color: #ccc;
+}
+
+/* News Sections */
+.news-section {
+    margin: 0 20px 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.section-header {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #fff;
+    margin: 0;
+    padding: 12px 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 2px solid rgba(0,0,0,0.1);
+}
+
+/* Section-specific colors - Breaking News stays red, others become newspaper-style */
+.breaking-news .section-header {
+    background: #c41e3a;
+    color: #fff;
+}
+
+.tech-news .section-header {
+    background: #2c3e50;
+    color: #fff;
+}
+
+.dev-news .section-header {
+    background: #34495e;
+    color: #fff;
+}
+
+.security-news .section-header {
+    background: #7d3c98;
+    color: #fff;
+}
+
+.lifestyle-news .section-header {
+    background: #16a085;
+    color: #fff;
+}
+
+.general-news .section-header {
+    background: #555;
+    color: #fff;
+}
+
+.stories-container {
+    padding: 15px 20px;
+    columns: 2;
+    column-gap: 30px;
+    column-rule: 1px solid #ddd;
+}
+
+/* Story Styling with Images */
 .story {
-    height: 1.7em;
+    break-inside: avoid;
+    margin-bottom: 18px;
+    padding-bottom: 15px;
+    border-bottom: 1px dotted #ccc;
+    display: block;
     overflow: hidden;
 }
 
-.news {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    min-width: 250px;
-    max-width: 500px;
-}
-.flexholder {
-    display: flex;
-    flex-wrap: wrap;
-}
-.wide {
-    flex-grow: 2;
-    min-width: 250px;
-}
-ul {
-    line-height: 1.4em;
-    font-size: x-small;
+.story:last-child {
+    border-bottom: none;
 }
 
-h5 {
-    font-size: small;
+/* Story Image */
+.story-image {
+    float: left;
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    margin: 0 12px 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
-a.weatherLink {
-    font-size: x-small;
-    margin-left: 3px;
-    font-weight: 100;
-
+/* Story Content Container */
+.story-content {
+    display: block;
+    overflow: hidden;
 }
 
-.weather {
-    margin-left: 3em;
-    color: gray;
+.fa {
+    font-size: 1em;
+    width: 16px;
+    color: #333;
+    margin-right: 8px;
+    vertical-align: top;
+    margin-top: 2px;
+    float: left;
 }
 
-i.wi {
-    margin-left: 6px;
+.title {
+    display: block;
+    margin-left: 24px;
+    overflow: hidden;
 }
-.wiki {
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+
+.title a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.3;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.title a:hover {
+    text-decoration: underline;
+}
+
+.title a:visited {
+    color: #444;
+}
+
+.feed {
+    font-size: 0.75em;
+    color: #666;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-left: 24px;
+    display: block;
+    margin-bottom: 2px;
+    clear: left;
+}
+
+.time {
+    font-size: 0.7em;
+    color: #888;
+    margin-left: 24px;
+    display: block;
+    font-family: monospace;
+    clear: left;
+}
+
+/* Footer */
+.newspaper-footer {
+    margin: 40px 20px 20px;
+    padding: 20px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    border: 2px solid #000;
+}
+
+.stats {
+    font-size: 0.9em;
+    margin-bottom: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-note {
+    font-size: 0.75em;
+    color: #ccc;
+    font-style: italic;
+}
+
+/* Breaking News Special Styling */
+.breaking-news .story {
+    border-left: 3px solid #c41e3a;
+    padding-left: 10px;
+    margin-left: -13px;
+}
+
+.breaking-news .fa {
+    color: #c41e3a;
+}
+
+.breaking-news .story-image {
+    border-color: #c41e3a;
+    box-shadow: 0 1px 3px rgba(196,30,58,0.3);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        background-image: none;
+    }
+    
+    .newspaper-title {
+        font-size: 2.2em;
+    }
+    
+    .newspaper-nav {
+        padding: 6px;
+        font-size: 0.8em;
+    }
+    
+    .newspaper-nav a {
+        margin: 0 6px;
+        font-size: 0.9em;
+    }
+    
+    .stories-container {
+        columns: 1;
+        column-rule: none;
+    }
+    
+    .story {
+        margin-bottom: 15px;
+    }
+    
+    .story-image {
+        width: 60px;
+        height: 45px;
+        margin-right: 10px;
+    }
+}
+
+/* Tablet Layout */
+@media (max-width: 900px) and (min-width: 769px) {
+    .stories-container {
+        columns: 2;
+    }
+    
+    .story-image {
+        width: 70px;
+        height: 52px;
+    }
+}
+
+/* Print Styles for authentic newspaper look */
+@media print {
+    body {
+        background: white !important;
+        background-image: none !important;
+        font-size: 11pt;
+        max-width: none;
+    }
+    
+    .newspaper-header,
+    .newspaper-footer {
+        background: white !important;
+        color: black !important;
+        border: 2px solid black;
+    }
+    
+    .section-header {
+        background: black !important;
+        color: white !important;
+    }
+    
+    .breaking-news .section-header {
+        background: black !important;
+        color: white !important;
+        text-decoration: underline;
+    }
+    
+    .stories-container {
+        columns: 3;
+        column-gap: 20px;
+    }
+    
+    .story-image {
+        width: 50px;
+        height: 38px;
+        print-color-adjust: exact;
+    }
+}
+
+/* Add newspaper-style typography enhancements */
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif;
+}
+
+/* Small caps for certain elements */
+.newspaper-nav,
+.feed {
+    font-variant: small-caps;
+}
+
+/* Traditional newspaper column styling */
+@media (min-width: 900px) {
+    .stories-container {
+        columns: 3;
+        column-gap: 25px;
+    }
+}
+
+/* Add subtle texture to simulate newsprint */
+.newspaper-header,
+.news-section {
+    position: relative;
+}
+
+.newspaper-header::before,
+.news-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+        radial-gradient(circle at 1px 1px, rgba(0,0,0,0.02) 1px, transparent 0);
+    background-size: 10px 10px;
+    pointer-events: none;
+}
+
+/* Image loading animation */
+.story-image {
+    transition: opacity 0.3s ease;
+}
+
+.story-image[src=""], .story-image:not([src]) {
+    display: none;
+}
+
+/* Hover effects for images */
+.story:hover .story-image {
+    transform: scale(1.02);
+    transition: transform 0.2s ease;
 }

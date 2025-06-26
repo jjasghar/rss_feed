@@ -1,25 +1,131 @@
 ---
+# Breaking News & Major News Sources
 -   url: http://rss.cnn.com/rss/cnn_topstories.rss
     freq: 1
     icon: fa-newspaper
-    title:
--   url: https://lifehacker.com/rss
+    title: CNN Top Stories
+    category: breaking
+
+-   url: https://feeds.npr.org/1001/rss.xml
     freq: 1
-    icon: fa-life-ring
-    title:
--   url: https://gizmodo.com/rss
+    icon: fa-radio
+    title: NPR News
+    category: breaking
+
+-   url: https://rss.cbc.ca/lineup/topstories.xml
     freq: 1
-    icon: fa-computer
-    title:
--   url: https://kotaku.com/rss
+    icon: fa-globe
+    title: CBC News
+    category: breaking
+
+-   url: https://feeds.reuters.com/reuters/topNews
     freq: 1
-    icon: fa-gamepad
-    title:
--   url: https://feeds.boingboing.net/boingboing/iBag
+    icon: fa-chart-line
+    title: Reuters Top News
+    category: breaking
+
+-   url: https://feeds.bbci.co.uk/news/world/rss.xml
     freq: 1
-    icon: fa-arrow-right
-    title:
+    icon: fa-earth-americas
+    title: BBC World News
+    category: breaking
+
+# Technology News
+-   url: https://techcrunch.com/feed/
+    freq: 1
+    icon: fa-microchip
+    title: TechCrunch
+    category: tech
+
+-   url: https://www.theverge.com/rss/index.xml
+    freq: 1
+    icon: fa-laptop
+    title: The Verge
+    category: tech
+
+-   url: https://arstechnica.com/feed/
+    freq: 1
+    icon: fa-cog
+    title: Ars Technica
+    category: tech
+
+-   url: https://feeds.feedburner.com/oreilly/radar
+    freq: 1
+    icon: fa-book
+    title: O'Reilly Radar
+    category: tech
+
+-   url: https://www.wired.com/feed/rss
+    freq: 1
+    icon: fa-bolt
+    title: WIRED
+    category: tech
+
+-   url: https://rss.slashdot.org/Slashdot/slashdotMain
+    freq: 1
+    icon: fa-comments
+    title: Slashdot
+    category: tech
+
+# Developer & Programming
 -   url: https://lobste.rs/t/python.rss
     freq: 1
     icon: fa-staff-snake
-    title:
+    title: Lobsters Python
+    category: dev
+
+-   url: https://news.ycombinator.com/rss
+    freq: 1
+    icon: fa-y
+    title: Hacker News
+    category: dev
+
+-   url: https://dev.to/feed
+    freq: 1
+    icon: fa-code
+    title: Dev.to
+    category: dev
+
+-   url: https://stackoverflow.blog/feed/
+    freq: 1
+    icon: fa-stack-overflow
+    title: StackOverflow Blog
+    category: dev
+
+# Lifestyle & Culture
+-   url: https://lifehacker.com/rss
+    freq: 1
+    icon: fa-life-ring
+    title: Lifehacker
+    category: lifestyle
+
+-   url: https://gizmodo.com/rss
+    freq: 1
+    icon: fa-computer
+    title: Gizmodo
+    category: lifestyle
+
+-   url: https://kotaku.com/rss
+    freq: 1
+    icon: fa-gamepad
+    title: Kotaku
+    category: lifestyle
+
+-   url: https://feeds.boingboing.net/boingboing/iBag
+    freq: 1
+    icon: fa-arrow-right
+    title: Boing Boing
+    category: lifestyle
+
+# Security & Privacy
+-   url: https://krebsonsecurity.com/feed/
+    freq: 1
+    icon: fa-shield-halved
+    title: Krebs on Security
+    category: security
+
+-   url: https://www.schneier.com/blog/atom.xml
+    freq: 1
+    icon: fa-lock
+    title: Schneier on Security
+    category: security
