@@ -1,9 +1,94 @@
 ---
+# Webcomics - Daily dose of humor and creativity
+-   url: https://xkcd.com/rss.xml
+    freq: 1
+    icon: fa-laugh
+    title: XKCD
+    category: webcomics
+
+-   url: https://www.smbc-comics.com/rss.php
+    freq: 1
+    icon: fa-smile
+    title: Saturday Morning Breakfast Cereal
+    category: webcomics
+
+-   url: https://www.penny-arcade.com/feed
+    freq: 1
+    icon: fa-gamepad
+    title: Penny Arcade
+    category: webcomics
+
+-   url: https://feeds.feedburner.com/PoorlyDrawnLines
+    freq: 1
+    icon: fa-pencil
+    title: Poorly Drawn Lines
+    category: webcomics
+
+-   url: https://garfield.com/feed
+    freq: 1
+    icon: fa-cat
+    title: Garfield
+    category: webcomics
+
+-   url: https://dilbert.com/feed
+    freq: 1
+    icon: fa-briefcase
+    title: Dilbert
+    category: webcomics
+
+-   url: https://explosm.net/rss
+    freq: 1
+    icon: fa-bomb
+    title: Cyanide & Happiness
+    category: webcomics
+
+-   url: https://www.questionablecontent.net/QCRSS.xml
+    freq: 1
+    icon: fa-music
+    title: Questionable Content
+    category: webcomics
+
+-   url: https://www.girlgeniusonline.com/ggmain/strips/ggmain.rss
+    freq: 1
+    icon: fa-flask
+    title: Girl Genius
+    category: webcomics
+
+-   url: https://www.dinosaurcomic.com/rss.xml
+    freq: 1
+    icon: fa-dragon
+    title: Dinosaur Comics
+    category: webcomics
+
 # Breaking News & Major News Sources
 -   url: http://rss.cnn.com/rss/cnn_topstories.rss
     freq: 1
     icon: fa-newspaper
     title: CNN Top Stories
+    category: breaking
+
+-   url: http://rss.cnn.com/rss/cnn_breaking.rss
+    freq: 1
+    icon: fa-exclamation-triangle
+    title: CNN Breaking News
+    category: breaking
+
+-   url: https://feeds.bbci.co.uk/news/world/rss.xml
+    freq: 1
+    icon: fa-earth-americas
+    title: BBC World News
+    category: breaking
+
+-   url: https://feeds.bbci.co.uk/news/uk/rss.xml
+    freq: 1
+    icon: fa-flag
+    title: BBC Breaking News
+    category: breaking
+
+-   url: https://www.aljazeera.com/xml/rss/all.xml
+    freq: 1
+    icon: fa-globe
+    title: Al Jazeera Breaking News
     category: breaking
 
 -   url: https://feeds.npr.org/1001/rss.xml
@@ -14,7 +99,7 @@
 
 -   url: https://rss.cbc.ca/lineup/topstories.xml
     freq: 1
-    icon: fa-globe
+    icon: fa-maple-leaf
     title: CBC News
     category: breaking
 
@@ -24,10 +109,40 @@
     title: Reuters Top News
     category: breaking
 
--   url: https://feeds.bbci.co.uk/news/world/rss.xml
+-   url: https://feeds.reuters.com/Reuters/worldNews
     freq: 1
-    icon: fa-earth-americas
-    title: BBC World News
+    icon: fa-earth-europe
+    title: Reuters World News
+    category: breaking
+
+-   url: https://rss.ap.org/atom/apf-topnews
+    freq: 1
+    icon: fa-newspaper-o
+    title: Associated Press Breaking
+    category: breaking
+
+-   url: https://abcnews.go.com/abcnews/topstories
+    freq: 1
+    icon: fa-tv
+    title: ABC News Breaking
+    category: breaking
+
+-   url: https://feeds.nbcnews.com/nbcnews/public/news
+    freq: 1
+    icon: fa-broadcast-tower
+    title: NBC News Breaking
+    category: breaking
+
+-   url: https://feeds.theguardian.com/theguardian/world/rss
+    freq: 1
+    icon: fa-shield
+    title: Guardian World News
+    category: breaking
+
+-   url: https://feeds.skynews.com/feeds/rss/world.xml
+    freq: 1
+    icon: fa-satellite
+    title: Sky News World
     category: breaking
 
 # Technology News
@@ -90,6 +205,90 @@
     freq: 1
     icon: fa-stack-overflow
     title: StackOverflow Blog
+    category: dev
+
+-   url: https://www.phoronix.com/rss.php
+    freq: 1
+    icon: fa-linux
+    title: Phoronix Linux News
+    category: dev
+
+-   url: https://itsfoss.com/rss/
+    freq: 1
+    icon: fa-ubuntu
+    title: It's FOSS
+    category: dev
+
+-   url: https://www.omgubuntu.co.uk/feed
+    freq: 1
+    icon: fa-ubuntu
+    title: OMG! Ubuntu
+    category: dev
+
+-   url: https://distrowatch.com/news/dw.xml
+    freq: 1
+    icon: fa-server
+    title: DistroWatch
+    category: dev
+
+-   url: https://www.linux.com/feed/
+    freq: 1
+    icon: fa-linux
+    title: Linux.com
+    category: dev
+
+-   url: https://www.redhat.com/en/rss/blog
+    freq: 1
+    icon: fa-hat-cowboy
+    title: Red Hat Blog
+    category: dev
+
+-   url: https://ubuntu.com/blog/feed
+    freq: 1
+    icon: fa-ubuntu
+    title: Ubuntu Blog
+    category: dev
+
+-   url: https://github.blog/feed/
+    freq: 1
+    icon: fa-github
+    title: GitHub Blog
+    category: dev
+
+-   url: https://about.gitlab.com/atom.xml
+    freq: 1
+    icon: fa-gitlab
+    title: GitLab Blog
+    category: dev
+
+-   url: https://feed.infoq.com/
+    freq: 1
+    icon: fa-info-circle
+    title: InfoQ
+    category: dev
+
+-   url: https://feeds.dzone.com/dzone/frontpage
+    freq: 1
+    icon: fa-newspaper
+    title: DZone
+    category: dev
+
+-   url: https://martinfowler.com/feed.atom
+    freq: 1
+    icon: fa-feather
+    title: Martin Fowler
+    category: dev
+
+-   url: https://blog.codinghorror.com/rss/
+    freq: 1
+    icon: fa-skull
+    title: Coding Horror
+    category: dev
+
+-   url: https://newsletter.pragmaticengineer.com/feed
+    freq: 1
+    icon: fa-wrench
+    title: The Pragmatic Engineer
     category: dev
 
 # Lifestyle & Culture

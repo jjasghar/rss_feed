@@ -102,6 +102,37 @@ body {
     border-bottom: 2px solid rgba(0,0,0,0.1);
 }
 
+/* Webcomics Section - Special Styling */
+.webcomics-section .section-header {
+    background: linear-gradient(135deg, #ff6b9d, #ffd93d);
+    color: #333;
+    font-size: 1.6em;
+}
+
+.webcomics-section {
+    border: 2px solid #ff6b9d;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+.webcomics-section .story {
+    border-left: 3px solid #ff6b9d;
+    padding-left: 10px;
+    margin-left: -13px;
+    background: linear-gradient(90deg, rgba(255,107,157,0.05), transparent);
+}
+
+.webcomics-section .fa {
+    color: #ff6b9d;
+}
+
+.webcomics-section .story-image {
+    border-color: #ff6b9d;
+    box-shadow: 0 1px 3px rgba(255,107,157,0.3);
+    width: 120px;
+    height: 90px;
+}
+
 /* Section-specific colors - Breaking News stays red, others become newspaper-style */
 .breaking-news .section-header {
     background: #c41e3a;
@@ -138,6 +169,12 @@ body {
     columns: 2;
     column-gap: 30px;
     column-rule: 1px solid #ddd;
+}
+
+/* Special layout for webcomics - single column for better comic display */
+.webcomics-section .stories-container {
+    columns: 1;
+    column-rule: none;
 }
 
 /* Story Styling with Images */
@@ -301,6 +338,11 @@ body {
         height: 45px;
         margin-right: 10px;
     }
+    
+    .webcomics-section .story-image {
+        width: 80px;
+        height: 60px;
+    }
 }
 
 /* Tablet Layout */
@@ -312,6 +354,11 @@ body {
     .story-image {
         width: 70px;
         height: 52px;
+    }
+    
+    .webcomics-section .story-image {
+        width: 100px;
+        height: 75px;
     }
 }
 
@@ -336,6 +383,11 @@ body {
         color: white !important;
     }
     
+    .webcomics-section .section-header {
+        background: black !important;
+        color: white !important;
+    }
+    
     .breaking-news .section-header {
         background: black !important;
         color: white !important;
@@ -345,6 +397,10 @@ body {
     .stories-container {
         columns: 3;
         column-gap: 20px;
+    }
+    
+    .webcomics-section .stories-container {
+        columns: 2;
     }
     
     .story-image {
@@ -370,6 +426,10 @@ h1, h2, h3 {
     .stories-container {
         columns: 3;
         column-gap: 25px;
+    }
+    
+    .webcomics-section .stories-container {
+        columns: 1;
     }
 }
 

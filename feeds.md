@@ -1,21 +1,27 @@
-<!-- Processing 21 RSS feeds at 2025-06-27 16:11:54 UTC -->
+<!-- Processing 41 RSS feeds at 2025-06-27 18:51:22 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Fox News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 12 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 16:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, June 27, 2025 - 18:51 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -24,12 +30,58 @@
     <a href="#tech">Technology</a> |
     <a href="#dev">Development</a> |
     <a href="#security">Security</a> |
-    <a href="#lifestyle">Lifestyle</a>
+    <a href="#lifestyle">Lifestyle</a> |
+    <a href="#webcomics">Comics</a>
 </div>
 
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/trump-iran-stern-1.jpg?ve=1&tl=1" alt="Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite-dish"></span>
+                <span class="title"><a href="https://www.foxnews.com/opinion/trumps-iran-strikes-masterful-dealmaking-skills-critical-stop-another-middle-east-war" target="_blank">Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war</a></span>
+                <span class="feed">Latest & Breaking News on Fox News</span>
+                <span class="time">2025-06-27 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec4/live/51699560-4dec-11f0-86d5-3b52b53af158.jpg" alt="Man who murdered boy with sword jailed for 40 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg977nkl9xo" target="_blank">Man who murdered boy with sword jailed for 40 years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-27 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250627_1751039482727_hpMain_4x3t_384.jpg" alt="Trump touts SCOTUS limiting nationwide injunctions on birthright citizenship order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-celebrates-supreme-court-decision-limiting-nationwide-injunctions/story?id=123272280" target="_blank">Trump touts SCOTUS limiting nationwide injunctions on birthright citizenship order</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-27 18:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/fault-lines/2025/6/27/the-last-lifeline?traffic_source=rss" target="_blank">The Last Lifeline</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-74738/scotus-decisions-birthright-aca" target="_blank">The Supreme Court gives Trump a wave of victories in a blockbuster final week</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-27 17:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -39,38 +91,47 @@
                 <span class="time">2025-06-27 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/26/g-s1-74772/va-benefits-military-veterans" target="_blank">Are you a military veteran who has been charged money to apply for VA benefits?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-26 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdjxy039ln8o" target="_blank">US gained nothing from strikes, Iran&#x27;s supreme leader says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-26 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/26/nx-s1-5447474/anna-wintour-vogue-conde-nast" target="_blank">As Anna Wintour shifts her focus, &#x27;Vogue&#x27; is looking for a new U.S. editor</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-26 20:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/27/techcrunch-mobility-the-tesla-robotaxi-rorschach-test-and-redwoods-next-big-act/" target="_blank">TechCrunch Mobility: The Tesla robotaxi Rorschach test and Redwood’s next big act</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-27 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685d8489d57f740b8264807f/master/pass/Plaintext-Great-Substack-Reckoning-Business--1250144830.jpg" alt="Substack Is Having a Moment—Again. But Time Is Running Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/" target="_blank">Substack Is Having a Moment—Again. But Time Is Running Out</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-27 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-clarence-thomas-500x500.jpg" alt="Supreme Court upholds Texas porn law that caused Pornhub to leave the state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/supreme-court-upholds-texas-porn-law-that-caused-pornhub-to-leave-the-state/" target="_blank">Supreme Court upholds Texas porn law that caused Pornhub to leave the state</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-27 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 18:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/comcast-1-500x500-1745527756.jpg" alt="Stung by customer losses, Comcast says all its new plans have unlimited data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,46 +142,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Zuckerberg&#x27;s Advocacy Group Warns US Families They Can&#x27;t Afford Immigration Policy Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Android 16 Will Tell You When Fake Cell Towers Try To Track Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/25/06/27/1322241/zuckerbergs-advocacy-group-warns-us-families-they-cant-afford-immigration-policy-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Zuckerberg&#x27;s Advocacy Group Warns US Families They Can&#x27;t Afford Immigration Policy Changes</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/" target="_blank">Google launches Doppl, a new app that lets you visualize how an outfit might look on you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-26 21:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-disney-just-threw-a-punch-in-a-major-ai-fight/" target="_blank">Disney Just Threw a Punch in a Major AI Fight</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-26 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/judge-rejects-metas-claim-that-torrenting-is-irrelevant-in-ai-copyright-case/" target="_blank">Judge: Pirate libraries may have profited from Meta torrenting 80TB of books</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-26 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://news.slashdot.org/story/25/06/26/2031231/youtube-search-gets-its-own-version-of-googles-ai-overviews?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">YouTube Search Gets Its Own Version of Google&#x27;s AI Overviews</a></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/25/06/27/1737221/android-16-will-tell-you-when-fake-cell-towers-try-to-track-your-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Android 16 Will Tell You When Fake Cell Towers Try To Track Your Phone</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -130,6 +155,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd4egqingd7dhkga6o5z.jpg" alt="Automating App Version Update With Github Actions and Slack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zach0811/automating-app-version-update-with-github-actions-and-slack-5h49" target="_blank">Automating App Version Update With Github Actions and Slack</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-27 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,15 +209,6 @@
                 <span class="time">2025-06-26 21:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723" target="_blank">Fun with uv and PEP 723</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-06-24 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -222,57 +247,57 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-kills-trade-talks-with-canada-after-it-hits-u-s-with-digital-services-tax-2000621444" target="_blank">Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/653a7406d58e5002167b260f0effd574.jpg" alt="Everything You Need To Know About Death Stranding 2&#x27;s Multiplayer Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-stranding-2-chiral-network-multiplayer-connect-1851785246" target="_blank">Everything You Need To Know About Death Stranding 2&#x27;s Multiplayer Features</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-27 18:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/gavin-newsom.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Gavin Newsom sues Fox News for $787M over Trump call claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/gavin-newsom-sues-fox-news-for-787m-over-trump-call-claims.html" target="_blank">Gavin Newsom sues Fox News for $787M over Trump call claims</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/TraintoBusan.jpg" alt="James Wan Offers a Mildly Discouraging Update on That ‘Train to Busan’ Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-wan-offers-a-mildly-discouraging-update-on-that-train-to-busan-remake-2000621375" target="_blank">James Wan Offers a Mildly Discouraging Update on That ‘Train to Busan’ Remake</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYS09YSGZGKTAC82E17N0K6Q/hero-image.png" alt="Google’s AI ‘Ask Photos’ Feature May Actually Be Usable Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-ai-ask-photos-feature-may-actually-be-usable-now?utm_medium=RSS" target="_blank">Google’s AI ‘Ask Photos’ Feature May Actually Be Usable Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/086235fba386a34fafdc47049e692a39.jpg" alt="Death Stranding 2: How To Connect With The Ghost Hunter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/death-stranding-2-ds2-ghost-hunter-connect-race-deliver-1851785231" target="_blank">Death Stranding 2: How To Connect With The Ghost Hunter</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/DeSantis.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Ron DeSantis shows off Alligator Alcatraz with grim tour (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/ron-desantis-shows-off-alligator-alcatraz-with-a-tour-video.html" target="_blank">Ron DeSantis shows off Alligator Alcatraz with grim tour (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/03aa016c7d6b3a304999ef1bb3971c04.jpg" alt="Target Making Up For Bungled Switch 2 Deliveries With $50 Gift Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/target-switch-2-late-delivery-gift-card-eshop-nintendo-1851785182" target="_blank">Target Making Up For Bungled Switch 2 Deliveries With $50 Gift Cards</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-26 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Surfshark-VPN-Good-Deal.jpg" alt="This Cheap Surfshark VPN + Antivirus Bundle Feels Illegal (But It’s Not)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-cheap-surfshark-vpn-antivirus-bundle-feels-illegal-but-its-not-2000618274" target="_blank">This Cheap Surfshark VPN + Antivirus Bundle Feels Illegal (But It’s Not)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-26 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/apple-deal.jpg" alt="Apple 13.3-Inch MacBook Air Is Going for Peanuts Thanks to 79% Off on a Grade-A Refurbished Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-13-3-inch-macbook-air-is-going-for-peanuts-thanks-to-79-off-on-a-grade-a-refurbished-deal-2000620174" target="_blank">Apple 13.3-Inch MacBook Air Is Going for Peanuts Thanks to 79% Off on a Grade-A Refurbished Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-26 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-26 20:30</span>
             </div>
         </div>
 </div>
@@ -327,11 +352,34 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1750827124-20250627.png" alt="Saturday Morning Breakfast Cereal - Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/matter" target="_blank">Saturday Morning Breakfast Cereal - Matter</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-06-27 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5601.png" alt="No Hugging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5601" target="_blank">No Hugging</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-06-27 02:05</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 7 | 📡 Total Sources: 19 | 📸 With Images: 7 |
-        🔄 Last Updated: 16:12 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 27 | 📡 Total Sources: 28 | 📸 With Images: 25 |
+        🔄 Last Updated: 18:51 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds

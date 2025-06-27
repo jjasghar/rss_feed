@@ -202,7 +202,8 @@ def generate_newspaper_header():
     <a href="#tech">Technology</a> |
     <a href="#dev">Development</a> |
     <a href="#security">Security</a> |
-    <a href="#lifestyle">Lifestyle</a>
+    <a href="#lifestyle">Lifestyle</a> |
+    <a href="#webcomics">Comics</a>
 </div>
 '''
 
@@ -216,14 +217,15 @@ def write_page(state):
     # Print newspaper header
     print(generate_newspaper_header())
     
-    # Category display order and titles
+    # Category display order and titles - webcomics moved to the end!
     category_info = {
         'breaking': ('🚨 Breaking News', 'breaking-news'),
         'tech': ('💻 Technology', 'tech-news'),
         'dev': ('🛠️ Development', 'dev-news'),
         'security': ('🔒 Security', 'security-news'),
         'lifestyle': ('🎮 Lifestyle & Culture', 'lifestyle-news'),
-        'general': ('📰 General News', 'general-news')
+        'general': ('📰 General News', 'general-news'),
+        'webcomics': ('🎨 Daily Comics', 'webcomics-section')
     }
     
     total_displayed = 0
