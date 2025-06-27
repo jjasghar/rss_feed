@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-06-27 19:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-27 20:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 17 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, June 27, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/27/covid-19-origin-still-inconclusive-after-years-long-who-study?traffic_source=rss" target="_blank">COVID-19 origin still ‘inconclusive’ after years-long WHO study</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-27 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250627_1751039482727_hpMain_4x3t_384.jpg" alt="Trump touts Supreme Court limiting nationwide injunctions stopping executive orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-celebrates-supreme-court-decision-limiting-nationwide-injunctions/story?id=123272280" target="_blank">Trump touts Supreme Court limiting nationwide injunctions stopping executive orders</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-27 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23" target="_blank">Questions remain over terms as Rwanda and DRC sign peace deal in US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-06-27 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5448821/universal-injunction-supreme-court-executive-order-birthright" target="_blank">What is a universal injunction and how did the Supreme Court limit its use?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-27 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/trump-iran-stern-1.jpg?ve=1&tl=1" alt="Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,47 +103,47 @@
                 <span class="time">2025-06-27 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec4/live/51699560-4dec-11f0-86d5-3b52b53af158.jpg" alt="Man who murdered boy with sword jailed for 40 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg977nkl9xo" target="_blank">Man who murdered boy with sword jailed for 40 years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-27 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250627_1751039482727_hpMain_4x3t_384.jpg" alt="Trump touts SCOTUS limiting nationwide injunctions on birthright citizenship order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-celebrates-supreme-court-decision-limiting-nationwide-injunctions/story?id=123272280" target="_blank">Trump touts SCOTUS limiting nationwide injunctions on birthright citizenship order</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-27 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/fault-lines/2025/6/27/the-last-lifeline?traffic_source=rss" target="_blank">The Last Lifeline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-74738/scotus-decisions-birthright-aca" target="_blank">The Supreme Court gives Trump a wave of victories in a blockbuster final week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-27 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/cell-towers-500x500.jpg" alt="Future Android phones could warn you about data-stealing fake cell towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/" target="_blank">Future Android phones could warn you about data-stealing fake cell towers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate" target="_blank">Runway is going to let people generate video games with AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/27/prolific-cybercrime-gang-now-targeting-airlines-and-the-transportation-sector/" target="_blank">Prolific cybercrime gang now targeting airlines and the transportation sector</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-27 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6837480c7f38ebcc93957426/master/pass/AI-Labs-Promote-Bottom-Line-Business-2213399161.jpg" alt="OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/" target="_blank">OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-27 19:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -119,47 +162,29 @@
                 <span class="time">2025-06-27 18:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-clarence-thomas-500x500.jpg" alt="Supreme Court upholds Texas porn law that caused Pornhub to leave the state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/supreme-court-upholds-texas-porn-law-that-caused-pornhub-to-leave-the-state/" target="_blank">Supreme Court upholds Texas porn law that caused Pornhub to leave the state</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-27 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-27 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/comcast-1-500x500-1745527756.jpg" alt="Stung by customer losses, Comcast says all its new plans have unlimited data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/stung-by-customer-losses-comcast-says-all-its-new-plans-have-unlimited-data/" target="_blank">Stung by customer losses, Comcast says all its new plans have unlimited data</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-27 15:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Android 16 Will Tell You When Fake Cell Towers Try To Track Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/25/06/27/1737221/android-16-will-tell-you-when-fake-cell-towers-try-to-track-your-phone?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Android 16 Will Tell You When Fake Cell Towers Try To Track Your Phone</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adeoluwa/building-a-wallet-system-part-1-authentication-with-apollo-server-g5o" target="_blank">Building A Wallet System - Part 1: Authentication with Apollo Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-27 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480221&w=600" alt="AI Coding Assistants: Capabilities, Tools, Trends, and Comparisons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-coding-assistants" target="_blank">AI Coding Assistants: Capabilities, Tools, Trends, and Comparisons</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-27 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd4egqingd7dhkga6o5z.jpg" alt="Automating App Version Update With Github Actions and Slack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://jameshard.ing/pilot" target="_blank">Show HN: I&#x27;m an airline pilot – I built interactive graphs/globes of my flights</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-27 13:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/06/27/you-ve-got-99-problems-but-data-shouldn-t-be-one/" target="_blank">You’ve got 99 problems but data shouldn’t be one</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-06-27 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://martinfowler.com/articles/expert-generalist/card.png" alt="Growing Expert Generalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-feather"></span>
-                <span class="title"><a href="https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists" target="_blank">Growing Expert Generalists</a></span>
-                <span class="feed">Martin Fowler</span>
-                
             </div>
         </div>
 </div>
@@ -252,6 +259,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8d9e41fb3ea855c88b11f6a45e09e714.jpg" alt="Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261" target="_blank">Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-27 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-2163296066.jpg" alt="Trump Claims He Built Crypto—Just as His Family Cashes In" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-claims-he-built-crypto-just-as-his-family-cashes-in-2000621519" target="_blank">Trump Claims He Built Crypto—Just as His Family Cashes In</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 19:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -285,24 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/27/gavin-newsom-sues-fox-news-for-787m-over-trump-call-claims.html" target="_blank">Gavin Newsom sues Fox News for $787M over Trump call claims</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-27 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/TraintoBusan.jpg" alt="James Wan Offers a Mildly Discouraging Update on That ‘Train to Busan’ Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-wan-offers-a-mildly-discouraging-update-on-that-train-to-busan-remake-2000621375" target="_blank">James Wan Offers a Mildly Discouraging Update on That ‘Train to Busan’ Remake</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYS09YSGZGKTAC82E17N0K6Q/hero-image.png" alt="Google’s AI ‘Ask Photos’ Feature May Actually Be Usable Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-ai-ask-photos-feature-may-actually-be-usable-now?utm_medium=RSS" target="_blank">Google’s AI ‘Ask Photos’ Feature May Actually Be Usable Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-27 18:00</span>
             </div>
         </div>
 </div>
@@ -383,8 +390,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 32 | 📡 Total Sources: 34 | 📸 With Images: 31 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 46 | 📡 Total Sources: 38 | 📸 With Images: 39 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
