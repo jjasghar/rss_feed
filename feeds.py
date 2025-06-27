@@ -4,7 +4,7 @@ import jsonpickle
 import random
 import feedparser
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 import html
 import socket
@@ -117,16 +117,18 @@ class Feed:
             
             # Get published date if available
             published = getattr(e, 'published', '')
+            published_datetime = None
             if hasattr(e, 'published_parsed') and e.published_parsed:
                 try:
-                    published = datetime(*e.published_parsed[:6]).strftime('%Y-%m-%d %H:%M')
+                    published_datetime = datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
+                    published = published_datetime.strftime('%Y-%m-%d %H:%M')
                 except:
                     published = ''
             
             # Extract image from entry
             image_url = self.extract_image_from_entry(e)
             
-            return Post(e.link, self.icon, t, e.title, self.category, published, image_url)
+            return Post(e.link, self.icon, t, e.title, self.category, published, image_url, published_datetime)
         except Exception as ex:
             print(f"<!-- Error processing {self.url}: {ex} -->")
             return None
@@ -141,6 +143,7 @@ class Post:
     category: str = "general"
     published: str = ""
     image_url: str = None
+    published_datetime: datetime = None
 
     def print(self):
         # Escape HTML in title for safety
@@ -162,6 +165,27 @@ class Post:
             </div>
         </div>'''
         return output
+
+
+def filter_recent_posts(posts, max_articles=6):
+    """Filter posts to show only those from last 24 hours OR max 6 articles, whichever is fewer"""
+    now = datetime.now(timezone.utc)
+    twenty_four_hours_ago = now - timedelta(hours=24)
+    
+    # Filter posts from last 24 hours
+    recent_posts = []
+    for post in posts:
+        if post.published_datetime and post.published_datetime >= twenty_four_hours_ago:
+            recent_posts.append(post)
+        elif not post.published_datetime:
+            # If no datetime available, include it but it will be limited by max_articles
+            recent_posts.append(post)
+    
+    # Sort by published datetime (newest first), handling None values
+    recent_posts.sort(key=lambda x: x.published_datetime or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+    
+    # Return the smaller of: recent posts or max_articles limit
+    return recent_posts[:max_articles]
 
 
 def generate_newspaper_header():
@@ -202,31 +226,42 @@ def write_page(state):
         'general': ('📰 General News', 'general-news')
     }
     
+    total_displayed = 0
     for category, (title, css_class) in category_info.items():
         if category in categories and categories[category]:
-            print(f'<div class="news-section {css_class}" id="{category}">')
-            print(f'<h2 class="section-header">{title}</h2>')
-            print('<div class="stories-container">')
+            # Filter to recent posts (last 24h) or max 6, whichever is fewer
+            filtered_posts = filter_recent_posts(categories[category], max_articles=6)
             
-            # Show up to 15 stories per section
-            for post in categories[category][:15]:
-                print(post.print())
-            
-            print('</div>')
-            print('</div>')
+            if filtered_posts:  # Only show section if it has posts
+                print(f'<div class="news-section {css_class}" id="{category}">')
+                print(f'<h2 class="section-header">{title}</h2>')
+                print('<div class="stories-container">')
+                
+                for post in filtered_posts:
+                    print(post.print())
+                    total_displayed += 1
+                
+                print('</div>')
+                print('</div>')
     
     # Stats footer
     total_posts = len(state['posts'])
     total_sources = len(set(p.site for p in state['posts']))
     images_count = len([p for p in state['posts'] if p.image_url])
+    
+    # Calculate how many posts are from last 24 hours
+    now = datetime.now(timezone.utc)
+    twenty_four_hours_ago = now - timedelta(hours=24)
+    recent_count = len([p for p in state['posts'] if p.published_datetime and p.published_datetime >= twenty_four_hours_ago])
+    
     print(f'''
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Total Articles: {total_posts} | 📡 Sources: {total_sources} | 📸 With Images: {images_count} |
+        📊 Displayed: {total_displayed} | 📅 Last 24h: {recent_count} | 📡 Total Sources: {total_sources} | 📸 With Images: {images_count} |
         🔄 Last Updated: {datetime.now(timezone.utc).strftime('%H:%M UTC')}
     </div>
     <div class="footer-note">
-        Automatically updated every hour • Built with ❤️ using RSS feeds
+        Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
     </div>
 </div>''')
 

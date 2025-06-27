@@ -1,24 +1,21 @@
-<!-- Processing 21 RSS feeds at 2025-06-26 21:34:49 UTC -->
+<!-- Processing 21 RSS feeds at 2025-06-27 16:11:54 UTC -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 15 feeds processed -->
+<!-- Generated 8 new posts out of 12 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, June 26, 2025 - 21:34 UTC</div>
+    <div class="newspaper-date">Friday, June 27, 2025 - 16:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -33,6 +30,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5446132/remembering-war-correspondent-rod-nordland" target="_blank">Remembering war correspondent Rod Nordland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-27 15:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +71,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/comcast-1-500x500-1745527756.jpg" alt="Stung by customer losses, Comcast says all its new plans have unlimited data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/stung-by-customer-losses-comcast-says-all-its-new-plans-have-unlimited-data/" target="_blank">Stung by customer losses, Comcast says all its new plans have unlimited data</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-27 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="Zuckerberg&#x27;s Advocacy Group Warns US Families They Can&#x27;t Afford Immigration Policy Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://news.slashdot.org/story/25/06/27/1322241/zuckerbergs-advocacy-group-warns-us-families-they-cant-afford-immigration-policy-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">Zuckerberg&#x27;s Advocacy Group Warns US Families They Can&#x27;t Afford Immigration Policy Changes</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -101,20 +125,29 @@
                 
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions" target="_blank">Apple overhauls EU App Store rules following penalty</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-26 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jameshard.ing/pilot" target="_blank">Show HN: I&#x27;m an airline pilot – I built interactive graphs/globes of my flights</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-27 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/06/27/you-ve-got-99-problems-but-data-shouldn-t-be-one/" target="_blank">You’ve got 99 problems but data shouldn’t be one</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-06-27 07:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,29 +184,20 @@
                 <span class="time">2025-06-24 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/06/25/not-an-option-but-a-necessity-how-organizations-are-adopting-and-implementing-ai-internally/" target="_blank">Not an option, but a necessity: How organizations are adopting and implementing AI internally</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-06-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html" target="_blank">AI Is Dehumanization Technology</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-26 19:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html" target="_blank">The Age of Integrity</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-06-27 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,6 +221,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/086235fba386a34fafdc47049e692a39.jpg" alt="Death Stranding 2: How To Connect With The Ghost Hunter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-stranding-2-ds2-ghost-hunter-connect-race-deliver-1851785231" target="_blank">Death Stranding 2: How To Connect With The Ghost Hunter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-27 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/DeSantis.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Ron DeSantis shows off Alligator Alcatraz with grim tour (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/ron-desantis-shows-off-alligator-alcatraz-with-a-tour-video.html" target="_blank">Ron DeSantis shows off Alligator Alcatraz with grim tour (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/03aa016c7d6b3a304999ef1bb3971c04.jpg" alt="Target Making Up For Bungled Switch 2 Deliveries With $50 Gift Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -231,15 +273,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-06-26 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/prioritize-game-downloads-internet-router?utm_medium=RSS" target="_blank">You Can Force Your Router to Prioritize Your Game Downloads</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-26 20:00</span>
             </div>
         </div>
 </div>
@@ -297,10 +330,10 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Total Articles: 26 | 📡 Sources: 19 | 📸 With Images: 3 |
-        🔄 Last Updated: 21:34 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 7 | 📡 Total Sources: 19 | 📸 With Images: 7 |
+        🔄 Last Updated: 16:12 UTC
     </div>
     <div class="footer-note">
-        Automatically updated every hour • Built with ❤️ using RSS feeds
+        Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
     </div>
 </div>
