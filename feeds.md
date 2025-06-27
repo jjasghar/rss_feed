@@ -1,14 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-06-27 20:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-06-27 21:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
@@ -17,23 +15,22 @@
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 17 new posts out of 30 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, June 27, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/27/dr-congo-and-rwanda-sign-peace-deal-after-years-of-war?traffic_source=rss" target="_blank">DR Congo and Rwanda sign peace deal after years of war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-27 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +77,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23" target="_blank">Trump eyes mineral wealth as Rwanda and DRC sign controversial peace deal in US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-06-27 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23" target="_blank">Questions remain over terms as Rwanda and DRC sign peace deal in US</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-06-27 19:37</span>
@@ -85,29 +100,29 @@
                 <span class="time">2025-06-27 19:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/trump-iran-stern-1.jpg?ve=1&tl=1" alt="Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite-dish"></span>
-                <span class="title"><a href="https://www.foxnews.com/opinion/trumps-iran-strikes-masterful-dealmaking-skills-critical-stop-another-middle-east-war" target="_blank">Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war</a></span>
-                <span class="feed">Latest & Breaking News on Fox News</span>
-                <span class="time">2025-06-27 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/6/27/trump-says-us-ending-all-negotiations-with-canada-over-digital-tax?traffic_source=rss" target="_blank">Trump says US ending all negotiations with Canada over digital tax</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-27 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/27/as-job-losses-loom-anthropic-launches-program-to-track-ais-economic-fallout/" target="_blank">As job losses loom, Anthropic launches program to track AI’s economic fallout</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-27 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2" target="_blank">Logitech says all its webcams work with Nintendo Switch 2, save one</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/cell-towers-500x500.jpg" alt="Future Android phones could warn you about data-stealing fake cell towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2025-06-27 19:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/27/techcrunch-mobility-the-tesla-robotaxi-rorschach-test-and-redwoods-next-big-act/" target="_blank">TechCrunch Mobility: The Tesla robotaxi Rorschach test and Redwood’s next big act</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-27 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685d8489d57f740b8264807f/master/pass/Plaintext-Great-Substack-Reckoning-Business--1250144830.jpg" alt="Substack Is Having a Moment—Again. But Time Is Running Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/" target="_blank">Substack Is Having a Moment—Again. But Time Is Running Out</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-27 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sebs/extreme-left-shifting-1lnm" target="_blank">Extreme Left Shifting</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-27 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-06-27 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jameshard.ing/pilot" target="_blank">Show HN: I&#x27;m an airline pilot – I built interactive graphs/globes of my flights</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-27 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -259,12 +256,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYSFYPG2ZF6BQCV74W37Q6Y1/hero-image.jpg" alt="Here’s What Will Be on Sale During Home Depot’s Fourth of July Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/home-depot-fourth-of-july-sale-2025?utm_medium=RSS" target="_blank">Here’s What Will Be on Sale During Home Depot’s Fourth of July Event</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-27 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8d9e41fb3ea855c88b11f6a45e09e714.jpg" alt="Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261" target="_blank">Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-27 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/11foot8.jpeg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Moving truck kisses the 11&#x27;8&#x27;+8 bridge (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/moving-truck-kisses-the-1188-bridge-video.html" target="_blank">Moving truck kisses the 11&#x27;8&#x27;+8 bridge (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 19:55</span>
             </div>
         </div>
 <div class="story">
@@ -292,24 +307,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/27/foul-mouthed-parrot-has-no-trouble-getting-adopted.html" target="_blank">Foul-mouthed parrot has no trouble getting adopted</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-27 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/653a7406d58e5002167b260f0effd574.jpg" alt="Everything You Need To Know About Death Stranding 2&#x27;s Multiplayer Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-stranding-2-chiral-network-multiplayer-connect-1851785246" target="_blank">Everything You Need To Know About Death Stranding 2&#x27;s Multiplayer Features</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-27 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/gavin-newsom.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Gavin Newsom sues Fox News for $787M over Trump call claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/gavin-newsom-sues-fox-news-for-787m-over-trump-call-claims.html" target="_blank">Gavin Newsom sues Fox News for $787M over Trump call claims</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 18:11</span>
             </div>
         </div>
 </div>
@@ -390,8 +387,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 46 | 📡 Total Sources: 38 | 📸 With Images: 39 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 55 | 📡 Total Sources: 41 | 📸 With Images: 41 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
