@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-27 21:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-27 22:01:38 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, June 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/27/several-killed-as-flash-floods-sweep-away-dozens-of-people-in-pakistan?traffic_source=rss" target="_blank">Several killed as flash floods sweep away dozens of people in Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-27 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +98,29 @@
                 <span class="time">2025-06-27 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5448821/universal-injunction-supreme-court-executive-order-birthright" target="_blank">What is a universal injunction and how did the Supreme Court limit its use?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-27 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="SCOTUS upholds part of ACA that makes preventive care fully covered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/06/critical-preventive-care-will-remain-free-under-aca-health-plans-scotus-rules/" target="_blank">SCOTUS upholds part of ACA that makes preventive care fully covered</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-27 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk" target="_blank">Tesla recently lost two key execs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2025-06-27 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/27/prolific-cybercrime-gang-now-targeting-airlines-and-the-transportation-sector/" target="_blank">Prolific cybercrime gang now targeting airlines and the transportation sector</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-27 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6837480c7f38ebcc93957426/master/pass/AI-Labs-Promote-Bottom-Line-Business-2213399161.jpg" alt="OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/" target="_blank">OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-27 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/sebs/extreme-left-shifting-1lnm" target="_blank">Extreme Left Shifting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-27 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480260&w=600" alt="The Untold Costs of Automation: Are We Sacrificing Security for Speed?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/costs-of-automation-sacrificing-security-for-speed" target="_blank">The Untold Costs of Automation: Are We Sacrificing Security for Speed?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-27 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +216,20 @@
                 <span class="time">2025-06-27 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/cpp-26-feature-complete/en/headerimage/cpp-26-feature-complete-1751043754882.jpeg" alt="C++26 Draft Finalized with Static Reflection, Contracts, and Sender/Receiver Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/cpp-26-feature-complete/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">C++26 Draft Finalized with Static Reflection, Contracts, and Sender/Receiver Types</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-27 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html" target="_blank">Friday Squid Blogging: What to Do When You Find a Squid “Egg Mop”</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-06-27 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -255,6 +262,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/OldGuard2interview.jpg" alt="‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-old-guard-2-cast-on-making-a-sequel-that-bleeds-thinks-and-fights-harder-2000621424" target="_blank">‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYSFYPG2ZF6BQCV74W37Q6Y1/hero-image.jpg" alt="Here’s What Will Be on Sale During Home Depot’s Fourth of July Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +314,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-kills-trade-talks-with-canada-after-it-hits-u-s-with-digital-services-tax-2000621444" target="_blank">Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-27 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1915139287-scaled.jpg?fit=2560%2C1703&amp;quality=60&amp;ssl=1" alt="Foul-mouthed parrot has no trouble getting adopted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/foul-mouthed-parrot-has-no-trouble-getting-adopted.html" target="_blank">Foul-mouthed parrot has no trouble getting adopted</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 18:30</span>
             </div>
         </div>
 </div>
@@ -387,8 +394,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 55 | 📡 Total Sources: 41 | 📸 With Images: 41 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 63 | 📡 Total Sources: 43 | 📸 With Images: 46 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
