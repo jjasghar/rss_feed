@@ -1,27 +1,32 @@
-<!-- Processing 41 RSS feeds at 2025-06-27 18:51:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-06-27 19:01:32 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Fox News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 18:51 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, June 27, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
                 <span class="title"><a href="https://www.foxnews.com/opinion/trumps-iran-strikes-masterful-dealmaking-skills-critical-stop-another-middle-east-war" target="_blank">Trump&#x27;s Iran strikes were masterful. Now, his dealmaking skills are critical to stop another Middle East war</a></span>
                 <span class="feed">Latest & Breaking News on Fox News</span>
                 <span class="time">2025-06-27 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/6/27/trump-says-us-ending-all-negotiations-with-canada-over-digital-tax?traffic_source=rss" target="_blank">Trump says US ending all negotiations with Canada over digital tax</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-27 18:41</span>
             </div>
         </div>
 <div class="story">
@@ -80,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-74738/scotus-decisions-birthright-aca" target="_blank">The Supreme Court gives Trump a wave of victories in a blockbuster final week</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-27 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5446132/remembering-war-correspondent-rod-nordland" target="_blank">Remembering war correspondent Rod Nordland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-27 15:56</span>
             </div>
         </div>
 </div>
@@ -165,6 +170,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480216&w=600" alt="A Beginner’s Guide to Playwright: End-to-End Testing Made Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beginner-guide-playwright-end-to-end-testing" target="_blank">A Beginner’s Guide to Playwright: End-to-End Testing Made Easy</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/cpp-26-feature-complete/en/headerimage/cpp-26-feature-complete-1751043754882.jpeg" alt="C++26 Draft Finalized with Static Reflection, Contracts, and Sender/Receiver Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/cpp-26-feature-complete/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">C++26 Draft Finalized with Static Reflection, Contracts, and Sender/Receiver Types</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -183,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://martinfowler.com/articles/expert-generalist/card.png" alt="Growing Expert Generalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/" target="_blank">Google DeepMind Releases AlphaGenome</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-26 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts" target="_blank">A.I. Is Homogenizing Our Thoughts</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-26 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lpmi13/remote-homelab-admin-with-tailscale-1jp2" target="_blank">Remote Homelab Admin with Tailscale</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-26 21:02</span>
+                <span class="fa fa-fw fa-feather"></span>
+                <span class="title"><a href="https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists" target="_blank">Growing Expert Generalists</a></span>
+                <span class="feed">Martin Fowler</span>
+                
             </div>
         </div>
 </div>
@@ -256,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_1915139287-scaled.jpg?fit=2560%2C1703&amp;quality=60&amp;ssl=1" alt="Foul-mouthed parrot has no trouble getting adopted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/foul-mouthed-parrot-has-no-trouble-getting-adopted.html" target="_blank">Foul-mouthed parrot has no trouble getting adopted</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 18:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/653a7406d58e5002167b260f0effd574.jpg" alt="Everything You Need To Know About Death Stranding 2&#x27;s Multiplayer Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +303,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/google-ai-ask-photos-feature-may-actually-be-usable-now?utm_medium=RSS" target="_blank">Google’s AI ‘Ask Photos’ Feature May Actually Be Usable Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-06-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/086235fba386a34fafdc47049e692a39.jpg" alt="Death Stranding 2: How To Connect With The Ghost Hunter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-stranding-2-ds2-ghost-hunter-connect-race-deliver-1851785231" target="_blank">Death Stranding 2: How To Connect With The Ghost Hunter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-27 16:00</span>
             </div>
         </div>
 </div>
@@ -378,8 +383,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 27 | 📡 Total Sources: 28 | 📸 With Images: 25 |
-        🔄 Last Updated: 18:51 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 32 | 📡 Total Sources: 34 | 📸 With Images: 31 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
