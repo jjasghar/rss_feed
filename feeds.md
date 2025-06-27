@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-27 22:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-27 23:01:40 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Friday, June 27, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/1254874805/how-russia-sees-itself-in-the-world" target="_blank">How Russia Sees Itself in the World</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-27 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +101,20 @@
                 <span class="time">2025-06-27 19:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23" target="_blank">Questions remain over terms as Rwanda and DRC sign peace deal in US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-06-27 19:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran" target="_blank">How vulnerable is critical infrastructure to cyberattack in the US?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 22:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-supreme-court-500x500-1732556402.jpg" alt="SCOTUS upholds part of ACA that makes preventive care fully covered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -110,6 +122,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/06/critical-preventive-care-will-remain-free-under-aca-health-plans-scotus-rules/" target="_blank">SCOTUS upholds part of ACA that makes preventive care fully covered</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-06-27 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 28 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 28 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-27 21:39</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2" target="_blank">Logitech says all its webcams work with Nintendo Switch 2, save one</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-27 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/cell-towers-500x500.jpg" alt="Future Android phones could warn you about data-stealing fake cell towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/" target="_blank">Future Android phones could warn you about data-stealing fake cell towers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate" target="_blank">Runway is going to let people generate video games with AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-27 19:50</span>
             </div>
         </div>
 </div>
@@ -263,12 +266,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Six-flags-Superman-Batman-Wonder-Woman-io9-Gizmodo.jpg" alt="DC Comics at Theme Parks Has Had a Bizarre History but ‘Superman’ Could Change That" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dc-comics-at-theme-parks-has-had-a-bizarre-history-but-superman-could-change-that-2000620803" target="_blank">DC Comics at Theme Parks Has Had a Bizarre History but ‘Superman’ Could Change That</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/OldGuard2interview.jpg" alt="‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-old-guard-2-cast-on-making-a-sequel-that-bleeds-thinks-and-fights-harder-2000621424" target="_blank">‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-27 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Old PC? No problem! Revamp it for $55 with this Microsoft bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/old-pc-no-problem-revamp-it-for-55-with-this-microsoft-bundle.html" target="_blank">Old PC? No problem! Revamp it for $55 with this Microsoft bundle</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -296,24 +317,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/27/moving-truck-kisses-the-1188-bridge-video.html" target="_blank">Moving truck kisses the 11&#x27;8&#x27;+8 bridge (video)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-27 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-2163296066.jpg" alt="Trump Claims He Built Crypto—Just as His Family Cashes In" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-claims-he-built-crypto-just-as-his-family-cashes-in-2000621519" target="_blank">Trump Claims He Built Crypto—Just as His Family Cashes In</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-kills-trade-talks-with-canada-after-it-hits-u-s-with-digital-services-tax-2000621444" target="_blank">Trump Kills Trade Talks With Canada After It Hits U.S. With Digital Services Tax</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 18:45</span>
             </div>
         </div>
 </div>
@@ -372,6 +375,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/27/urethral-rifling" target="_blank">Urethral Rifling</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-06-27 16:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1750827124-20250627.png" alt="Saturday Morning Breakfast Cereal - Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -394,8 +406,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 63 | 📡 Total Sources: 43 | 📸 With Images: 46 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 36 | 📅 Last 24h: 69 | 📡 Total Sources: 44 | 📸 With Images: 49 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
