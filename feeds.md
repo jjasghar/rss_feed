@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 22:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 23:01:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/28/inter-miami-vs-psg-fifa-club-world-cup-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Inter Miami: FIFA Club World Cup – team news, start time and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +101,20 @@
                 <span class="time">2025-06-28 17:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449648/j-m-smucker-plans-to-remove-artificial-colors-from-its-jams-and-other-products" target="_blank">J.M. Smucker plans to remove artificial colors from its jams and other products</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68604739fe97b5991f97c695/master/pass/2032109653" alt="OpenAI Loses 4 Key Researchers to Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/four-openai-researchers-leave-meta/" target="_blank">OpenAI Loses 4 Key Researchers to Meta</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-28 20:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="fa fa-fw fa-bolt"></span>
                 <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/694710/supreme-court-fsc-paxton-age-verification-questions" target="_blank">The Supreme Court just upended internet law, and I have questions</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-06-28 15:00</span>
             </div>
         </div>
@@ -249,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/Donald-Trump-and-Elon-Musk.jpg" alt="Elon Musk Launches a Scathing New Attack on Trump’s “Big, Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-launches-a-scathing-new-attack-on-trumps-big-beautiful-bill-2000621805" target="_blank">Elon Musk Launches a Scathing New Attack on Trump’s “Big, Beautiful Bill”</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-28 22:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/donald-trump-april-14-2025-GettyImages-2210244280-copy.jpg" alt="Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -291,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/28/a-new-album-of-lost-erik-satie-works-100-years-after-his-death.html" target="_blank">A new album of lost Erik Satie works, 100 years after his death</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-28 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e91f2dfc0caed24a5bb3e7119f2e95d2.jpg" alt="Level Up Your Delivery Game With These Essential Death Stranding 2 Tips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-stranding-2-vehicles-ziplines-pcc-dhv-magellan-1851785247" target="_blank">Level Up Your Delivery Game With These Essential Death Stranding 2 Tips</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-28 14:00</span>
             </div>
         </div>
 </div>
@@ -371,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 80 | 📡 Total Sources: 44 | 📸 With Images: 102 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 79 | 📡 Total Sources: 44 | 📸 With Images: 104 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
