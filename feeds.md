@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 01:29:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-28 02:31:03 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Supreme-Court-6-gty-gmh-250627_1751033977468_hpMain_4x3t_384.jpg" alt="What&#x27;s next for birthright citizenship after SCOTUS limits nationwide injunctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/birthright-citizenship-after-supreme-court-limits-nationwide-injunctions/story?id=123279548" target="_blank">What&#x27;s next for birthright citizenship after SCOTUS limits nationwide injunctions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-28 01:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/27/1254874805/how-russia-sees-itself-in-the-world" target="_blank">How Russia Sees Itself in the World</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-27 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/27/several-killed-as-flash-floods-sweep-away-dozens-of-people-in-pakistan?traffic_source=rss" target="_blank">Several killed as flash floods sweep away dozens of people in Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-27 21:18</span>
             </div>
         </div>
 </div>
@@ -168,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7" target="_blank">🌍 Build My Own Telegram Translator Bot with Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tyr-Rust-DRM-Graphics-Driver" target="_blank">&quot;Tyr&quot; Announced As New Rust-Written Linux Kernel Graphics Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-28 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/danielreiling/story-hero-links-3bhj" target="_blank">Story Hero - Links</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-27 23:54</span>
@@ -183,39 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://koaning.io/posts/giving-mojo-a-spin/" target="_blank">Python can run Mojo now</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-06-27 20:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480260&w=600" alt="The Untold Costs of Automation: Are We Sacrificing Security for Speed?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/costs-of-automation-sacrificing-security-for-speed" target="_blank">The Untold Costs of Automation: Are We Sacrificing Security for Speed?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adeoluwa/building-a-wallet-system-part-1-authentication-with-apollo-server-g5o" target="_blank">Building A Wallet System - Part 1: Authentication with Apollo Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-27 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480221&w=600" alt="AI Coding Assistants: Capabilities, Tools, Trends, and Comparisons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-coding-assistants" target="_blank">AI Coding Assistants: Capabilities, Tools, Trends, and Comparisons</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpd4egqingd7dhkga6o5z.jpg" alt="Automating App Version Update With Github Actions and Slack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zach0811/automating-app-version-update-with-github-actions-and-slack-5h49" target="_blank">Automating App Version Update With Github Actions and Slack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-27 18:25</span>
             </div>
         </div>
 </div>
@@ -391,22 +395,13 @@
                 <span class="time">2025-06-27 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5601.png" alt="No Hugging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5601" target="_blank">No Hugging</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-06-27 02:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 36 | 📅 Last 24h: 78 | 📡 Total Sources: 44 | 📸 With Images: 55 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 82 | 📡 Total Sources: 44 | 📸 With Images: 58 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
