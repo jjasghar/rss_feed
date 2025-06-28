@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 03:21:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 04:03:26 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 04:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc" target="_blank">How to use python pixi with ruff in vscode?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d" target="_blank">Azure Fundamentals: Microsoft.VSOnline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 03:09</span>
@@ -201,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/sebs/extreme-left-shifting-1lnm" target="_blank">Extreme Left Shifting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-27 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://koaning.io/posts/giving-mojo-a-spin/" target="_blank">Python can run Mojo now</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-06-27 20:01</span>
             </div>
         </div>
 </div>
@@ -385,22 +391,13 @@
                 <span class="time">2025-06-27 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/laser_danger.png" alt="Laser Danger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3108/" target="_blank">Laser Danger</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-06-27 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 36 | 📅 Last 24h: 84 | 📡 Total Sources: 44 | 📸 With Images: 59 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 61 |
+        🔄 Last Updated: 04:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
