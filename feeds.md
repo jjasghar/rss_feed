@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 11:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-28 12:01:57 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9927/live/94b5d290-540c-11f0-a2ff-17a82c2e8bc4.jpg" alt="Starmer says fixing welfare is a &#x27;moral imperative&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20wxq3q1x3o" target="_blank">Starmer says fixing welfare is a &#x27;moral imperative&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-28 11:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449587/israel-gaza-haaretz-report" target="_blank">Israel&#x27;s leaders slam a news report on a Gaza &#x27;killing field&#x27; near food sites</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-28 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250615-natanz-iran-mb-1145-418600.jpg" alt="Can Iran secretly build a nuclear bomb without being caught by Israel?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/iran/can-iran-secretly-build-nuclear-bomb-caught-israel-rcna215038" target="_blank">Can Iran secretly build a nuclear bomb without being caught by Israel?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-28 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +101,29 @@
                 <span class="time">2025-06-28 06:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Supreme-Court-6-gty-gmh-250627_1751033977468_hpMain_4x3t_384.jpg" alt="What&#x27;s next for birthright citizenship after SCOTUS limits nationwide injunctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/birthright-citizenship-after-supreme-court-limits-nationwide-injunctions/story?id=123279548" target="_blank">What&#x27;s next for birthright citizenship after SCOTUS limits nationwide injunctions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-28 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/russia-ukraine-war-list-of-key-events-day-1220?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,220</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f3c5a306f1b145ea13b86/master/pass/Review-%20Breville%20Luxe%20Brewer.png" alt="Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/" target="_blank">Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-28 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2190249825-500x500.jpg" alt="Robotic sucker can adapt to surroundings like an actual octopus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/06/robotic-sucker-can-adapt-to-surroundings-like-an-actual-octopus/" target="_blank">Robotic sucker can adapt to surroundings like an actual octopus</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-28 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +160,20 @@
                 <span class="time">2025-06-27 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 28 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 28 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-27 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk" target="_blank">Tesla recently lost two key execs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-27 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.entelligence.ai%2F_next%2Fimage%3Furl%3D%252Fassets%252Flanding%252FBugBot%252Fimg%25201.png%26w%3D1920%26q%3D100%26dpl%3Ddpl_HA46P67KzYE19V3HLwZbNadbcKQ3%2520align%3D" alt="Cursor BugBot vs Entelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/entelligenceai/cursor-bugbot-vs-entelligence-37d9" target="_blank">Cursor BugBot vs Entelligence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 11:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +181,24 @@
                 <span class="title"><a href="https://dev.to/steven_777d5fbebbc30a9384/i-needed-clean-exchange-rate-data-so-i-built-my-own-api-1bap" target="_blank">I Needed Clean Exchange Rate Data, So I Built My Own API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8-Released" target="_blank">LACT 0.8 GPU Configuration &amp; Monitoring Tool Introduces More Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-28 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death" target="_blank">Unheard works by Erik Satie to premiere 100 years after his death</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-28 10:19</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +219,6 @@
                 <span class="time">2025-06-28 05:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/ai-testing-guide/en/headerimage/generatedHeaderImage-1751045012345.jpg" alt="OWASP Launches AI Testing Guide to Address Security, Bias, and Risk in AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/ai-testing-guide/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OWASP Launches AI Testing Guide to Address Security, Bias, and Risk in AI Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-28 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nl_p_/how-to-use-python-pixi-with-ruff-in-vscode-15bc" target="_blank">How to use python pixi with ruff in vscode?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d" target="_blank">Azure Fundamentals: Microsoft.VSOnline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 03:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +231,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html" target="_blank">Friday Squid Blogging: What to Do When You Find a Squid “Egg Mop”</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-06-27 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html" target="_blank">The Age of Integrity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-06-27 11:02</span>
             </div>
         </div>
 <div class="story">
@@ -396,8 +388,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 94 | 📡 Total Sources: 44 | 📸 With Images: 71 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 100 | 📡 Total Sources: 44 | 📸 With Images: 77 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
