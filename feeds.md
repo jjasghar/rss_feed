@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 05:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-06-28 06:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7qrgyq9qflhxjwa9md4n.png" alt="5 Best Issue Tracking Software for Small Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/parizad/5-best-issue-tracking-software-for-small-teams-dk2" target="_blank">5 Best Issue Tracking Software for Small Teams</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/ai-testing-guide/en/headerimage/generatedHeaderImage-1751045012345.jpg" alt="OWASP Launches AI Testing Guide to Address Security, Bias, and Risk in AI Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/ai-testing-guide/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OWASP Launches AI Testing Guide to Address Security, Bias, and Risk in AI Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-28 05:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Tyr-Rust-DRM-Graphics-Driver" target="_blank">&quot;Tyr&quot; Announced As New Rust-Written Linux Kernel Graphics Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-06-28 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/danielreiling/story-hero-links-3bhj" target="_blank">Story Hero - Links</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-27 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sebs/extreme-left-shifting-1lnm" target="_blank">Extreme Left Shifting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-27 20:58</span>
             </div>
         </div>
 </div>
@@ -393,8 +397,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 61 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 64 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
