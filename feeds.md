@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 18:01:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-28 19:01:22 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-side-eye-gty-jt-250626_1750973925540_hpMain_4x3t_384.jpg" alt="A week of shifting descriptions of Iran attack spark ongoing questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/week-shifting-descriptions-iran-attack-spark-ongoing-questions/story?id=123279659" target="_blank">A week of shifting descriptions of Iran attack spark ongoing questions</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-28 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +94,20 @@
                 <span class="time">2025-06-28 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/death-toll-rises-after-pakistan-hit-by-flash-floods-and-heavy-rains?traffic_source=rss" target="_blank">Death toll rises after Pakistan hit by flash floods and heavy rains</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685c0bf8471a9ae1c5d4f444/master/pass/1.jpg" alt="38 Best Early Amazon Prime Day Deals On Products We&#x27;ve Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/" target="_blank">38 Best Early Amazon Prime Day Deals On Products We&#x27;ve Tested (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-28 17:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +153,20 @@
                 <span class="time">2025-06-28 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/copyright-500x500.jpg" alt="In a wild time for copyright law, the US Copyright Office has no leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/in-a-wild-time-for-copyright-law-the-us-copyright-office-has-no-leader/" target="_blank">In a wild time for copyright law, the US Copyright Office has no leader</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-28 13:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig" target="_blank">Redis for Maps and Locations: Understanding Geospatial Indexing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +210,6 @@
                 <span class="title"><a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin" target="_blank">MCP: An (Accidentally) Universal Plugin System</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-28 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e" target="_blank">Python Trending Weekly #108：Will AI Replace Junior Developers?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 13:46</span>
             </div>
         </div>
 </div>
@@ -381,8 +372,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 110 | 📡 Total Sources: 44 | 📸 With Images: 94 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 99 | 📡 Total Sources: 44 | 📸 With Images: 96 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
