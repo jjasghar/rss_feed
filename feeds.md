@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 15:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-28 16:01:34 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,10 +40,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449630/cbp-beagle-kicked-airport" target="_blank">Man kicked and injured a CBP beagle during airport baggage search</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/6/28/why-manufacturing-consent-for-war-with-iran-failed-this-time?traffic_source=rss" target="_blank">Why manufacturing consent for war with Iran failed this time</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/death-toll-rises-after-pakistan-hit-by-flash-floods-and-heavy-rains?traffic_source=rss" target="_blank">Death toll rises after Pakistan hit by flash floods and heavy rains</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-28 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-gaza-israel-strikes_6952514.jpg?20250628133943" alt="At least 60 killed in Israeli strikes across Gaza, health staff say - as Trump makes ceasefire prediction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-60-killed-in-israeli-strikes-across-gaza-health-staff-say-13389711" target="_blank">At least 60 killed in Israeli strikes across Gaza, health staff say - as Trump makes ceasefire prediction</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-06-28 12:06</span>
             </div>
         </div>
 <div class="story">
@@ -76,33 +89,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20wxq3q1x3o" target="_blank">Starmer says fixing welfare is a &#x27;moral imperative&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-28 11:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449587/israel-gaza-haaretz-report" target="_blank">Israel&#x27;s leaders slam a news report on a Gaza &#x27;killing field&#x27; near food sites</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250615-natanz-iran-mb-1145-418600.jpg" alt="Can Iran secretly build a nuclear bomb without being caught by Israel?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/iran/can-iran-secretly-build-nuclear-bomb-caught-israel-rcna215038" target="_blank">Can Iran secretly build a nuclear bomb without being caught by Israel?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/28/g-s1-74962/minnesota-melissa-hortman-funeral-house-speaker" target="_blank">Slain Minnesota lawmaker Melissa Hortman to be laid to rest in private funeral service</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 09:01</span>
             </div>
         </div>
 </div>
@@ -378,22 +364,13 @@
                 <span class="time">2025-06-27 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750827124-20250627.png" alt="Saturday Morning Breakfast Cereal - Matter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/matter" target="_blank">Saturday Morning Breakfast Cereal - Matter</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-06-27 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 114 | 📡 Total Sources: 44 | 📸 With Images: 85 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 109 | 📡 Total Sources: 44 | 📸 With Images: 86 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
