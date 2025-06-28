@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 12:01:57 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-28 13:08:05 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/vuejs-image-optimization-beyond-the-basics-1pch" target="_blank">Vue.js Image Optimization: Beyond the Basics</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-RT-Pointer-Flags-Merged" target="_blank">RADV Ray-Tracing Lands Pointer Flags Support For RDNA3 &amp; Newer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-28 12:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.entelligence.ai%2F_next%2Fimage%3Furl%3D%252Fassets%252Flanding%252FBugBot%252Fimg%25201.png%26w%3D1920%26q%3D100%26dpl%3Ddpl_HA46P67KzYE19V3HLwZbNadbcKQ3%2520align%3D" alt="Cursor BugBot vs Entelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +211,6 @@
                 <span class="title"><a href="https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death" target="_blank">Unheard works by Erik Satie to premiere 100 years after his death</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-28 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bwqyx4o4qx2076oczj4.png" alt="【Journey of HarmonyOS Next】HarmonyOS Development Basics (3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhzlm/journey-of-harmonyos-next-harmonyos-development-basics-3-4bca" target="_blank">【Journey of HarmonyOS Next】HarmonyOS Development Basics (3)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 06:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7qrgyq9qflhxjwa9md4n.png" alt="5 Best Issue Tracking Software for Small Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/parizad/5-best-issue-tracking-software-for-small-teams-dk2" target="_blank">5 Best Issue Tracking Software for Small Teams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 05:49</span>
             </div>
         </div>
 </div>
@@ -388,8 +382,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 100 | 📡 Total Sources: 44 | 📸 With Images: 77 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 101 | 📡 Total Sources: 44 | 📸 With Images: 78 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
