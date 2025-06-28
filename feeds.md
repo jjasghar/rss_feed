@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 09:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-28 10:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 0 new posts out of 27 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 09:01 UTC</div>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/g-s1-74962/minnesota-melissa-hortman-funeral-house-speaker" target="_blank">Slain Minnesota lawmaker Melissa Hortman to be laid to rest in private funeral service</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d2/live/eeb4e3d0-53df-11f0-8e5a-d1b888cdb43d.png" alt="Iran holds state funeral for military leaders killed in Israel conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-70443/trump-law-firm-susman-godfrey-ruling" target="_blank">A fourth judge has blocked a Trump executive order targeting elite law firms</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-27 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751065739884_nn_lja_injunctions_250627_1920x1080-9lvjga.jpg" alt="In a win for Trump, Supreme Court limits nationwide injunctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/in-a-win-for-trump-supreme-court-limits-nationwide-injunctions-242396229833" target="_blank">In a win for Trump, Supreme Court limits nationwide injunctions</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-27 23:09</span>
             </div>
         </div>
 </div>
@@ -396,8 +391,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 89 | 📡 Total Sources: 44 | 📸 With Images: 68 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 90 | 📡 Total Sources: 44 | 📸 With Images: 69 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
