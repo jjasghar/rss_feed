@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 00:04:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-28 01:29:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +49,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/russia-ukraine-war-list-of-key-events-day-1220?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,220</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5448863/birthright-citizenship-supreme-court-ruling" target="_blank">What is birthright citizenship and what happens after the Supreme Court ruling?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 00:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-70443/trump-law-firm-susman-godfrey-ruling" target="_blank">A fourth judge has blocked a Trump executive order targeting elite law firms</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-27 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751065739884_nn_lja_injunctions_250627_1920x1080-9lvjga.jpg" alt="In a win for Trump, Supreme Court limits nationwide injunctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/in-a-win-for-trump-supreme-court-limits-nationwide-injunctions-242396229833" target="_blank">In a win for Trump, Supreme Court limits nationwide injunctions</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-27 23:09</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +100,29 @@
                 <span class="time">2025-06-27 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/27/dr-congo-and-rwanda-sign-peace-deal-after-years-of-war?traffic_source=rss" target="_blank">DR Congo and Rwanda sign peace deal after years of war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-27 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/27/covid-19-origin-still-inconclusive-after-years-long-who-study?traffic_source=rss" target="_blank">COVID-19 origin still ‘inconclusive’ after years-long WHO study</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-27 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250627_1751039482727_hpMain_4x3t_384.jpg" alt="Trump touts Supreme Court limiting nationwide injunctions stopping executive orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-celebrates-supreme-court-decision-limiting-nationwide-injunctions/story?id=123272280" target="_blank">Trump touts Supreme Court limiting nationwide injunctions stopping executive orders</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-27 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/" target="_blank">Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-27 23:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/meta/694685/meta-ai-camera-roll" target="_blank">Facebook is starting to feed its AI with private, unpublished photos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-27 23:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk" target="_blank">Tesla recently lost two key execs</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-27 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/27/as-job-losses-loom-anthropic-launches-program-to-track-ais-economic-fallout/" target="_blank">As job losses loom, Anthropic launches program to track AI’s economic fallout</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-27 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2" target="_blank">Logitech says all its webcams work with Nintendo Switch 2, save one</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-27 20:43</span>
             </div>
         </div>
 </div>
@@ -273,6 +274,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Jurassic-World-Rebirth-interview-3.jpg" alt="Universal Asked That Scenes Be Added Back Into ‘Jurassic World Rebirth’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/universal-asked-that-scenes-be-added-back-into-jurassic-world-rebirth-2000621641" target="_blank">Universal Asked That Scenes Be Added Back Into ‘Jurassic World Rebirth’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-27 23:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYSBC36JA7FHG1R6GCW12GJ5/hero-image.png" alt="Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -306,15 +316,6 @@
                 <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272" target="_blank">Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-27 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Old PC? No problem! Revamp it for $55 with this Microsoft bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/old-pc-no-problem-revamp-it-for-55-with-this-microsoft-bundle.html" target="_blank">Old PC? No problem! Revamp it for $55 with this Microsoft bundle</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 21:00</span>
             </div>
         </div>
 </div>
@@ -404,8 +405,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 36 | 📅 Last 24h: 72 | 📡 Total Sources: 44 | 📸 With Images: 52 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 36 | 📅 Last 24h: 78 | 📡 Total Sources: 44 | 📸 With Images: 55 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
