@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 20:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 21:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/israeli-strikes-on-south-lebanon-kill-three-ministry?traffic_source=rss" target="_blank">Israeli attacks on southern Lebanon kill three people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 20:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-side-eye-gty-jt-250626_1750973925540_hpMain_4x3t_384.jpg" alt="A week of shifting descriptions of Iran attack spark ongoing questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449648/j-m-smucker-plans-to-remove-artificial-colors-from-its-jams-and-other-products" target="_blank">J.M. Smucker plans to remove artificial colors from its jams and other products</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-28 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449630/cbp-beagle-kicked-airport" target="_blank">Man kicked and injured a CBP beagle during airport baggage search</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 15:41</span>
             </div>
         </div>
 </div>
@@ -258,6 +254,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/donald-trump-april-14-2025-GettyImages-2210244280-copy.jpg" alt="Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-and-his-online-alpha-males-have-a-meltdown-over-nycs-newest-socialist-star-2000621801" target="_blank">Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-28 20:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/demonslayer-castle.jpg" alt="The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -300,15 +305,6 @@
                 <span class="title"><a href="https://kotaku.com/death-stranding-2-vehicles-ziplines-pcc-dhv-magellan-1851785247" target="_blank">Level Up Your Delivery Game With These Essential Death Stranding 2 Tips</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/lenovo-legion-s-steamos-review-01.jpg" alt="Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lenovos-legion-go-s-with-steamos-is-the-only-real-alternative-to-a-steam-deck-2000621525" target="_blank">Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-28 11:00</span>
             </div>
         </div>
 </div>
@@ -380,8 +376,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 91 | 📡 Total Sources: 44 | 📸 With Images: 99 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 101 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
