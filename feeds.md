@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-06-27 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 00:04:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, June 27, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-70443/trump-law-firm-susman-godfrey-ruling" target="_blank">A fourth judge has blocked a Trump executive order targeting elite law firms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-27 23:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-celebrates-supreme-court-decision-limiting-nationwide-injunctions/story?id=123272280" target="_blank">Trump touts Supreme Court limiting nationwide injunctions stopping executive orders</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-06-27 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23" target="_blank">Trump eyes mineral wealth as Rwanda and DRC sign controversial peace deal in US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-06-27 19:37</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danielreiling/story-hero-links-3bhj" target="_blank">Story Hero - Links</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-27 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sebs/extreme-left-shifting-1lnm" target="_blank">Extreme Left Shifting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-27 20:58</span>
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/zach0811/automating-app-version-update-with-github-actions-and-slack-5h49" target="_blank">Automating App Version Update With Github Actions and Slack</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-27 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480216&w=600" alt="A Beginner’s Guide to Playwright: End-to-End Testing Made Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beginner-guide-playwright-end-to-end-testing" target="_blank">A Beginner’s Guide to Playwright: End-to-End Testing Made Easy</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-27 18:00</span>
             </div>
         </div>
 </div>
@@ -266,6 +264,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/lotto.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="UK papers keep running dubious stories about people losing lottery tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/27/uk-papers-keep-running-dubious-stories-about-people-losing-lottery-tickets.html" target="_blank">UK papers keep running dubious stories about people losing lottery tickets</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-27 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYSBC36JA7FHG1R6GCW12GJ5/hero-image.png" alt="Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/who-needs-androids-new-advanced-security-protection?utm_medium=RSS" target="_blank">Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Six-flags-Superman-Batman-Wonder-Woman-io9-Gizmodo.jpg" alt="DC Comics at Theme Parks Has Had a Bizarre History but ‘Superman’ Could Change That" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,39 +300,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/51876bd0eaaca4f0f68667643baf8156.jpg" alt="Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272" target="_blank">Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-27 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Old PC? No problem! Revamp it for $55 with this Microsoft bundle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/06/27/old-pc-no-problem-revamp-it-for-55-with-this-microsoft-bundle.html" target="_blank">Old PC? No problem! Revamp it for $55 with this Microsoft bundle</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-27 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYSFYPG2ZF6BQCV74W37Q6Y1/hero-image.jpg" alt="Here’s What Will Be on Sale During Home Depot’s Fourth of July Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/home-depot-fourth-of-july-sale-2025?utm_medium=RSS" target="_blank">Here’s What Will Be on Sale During Home Depot’s Fourth of July Event</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-27 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8d9e41fb3ea855c88b11f6a45e09e714.jpg" alt="Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261" target="_blank">Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-27 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/11foot8.jpeg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Moving truck kisses the 11&#x27;8&#x27;+8 bridge (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/moving-truck-kisses-the-1188-bridge-video.html" target="_blank">Moving truck kisses the 11&#x27;8&#x27;+8 bridge (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 19:55</span>
             </div>
         </div>
 </div>
@@ -406,8 +404,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 36 | 📅 Last 24h: 69 | 📡 Total Sources: 44 | 📸 With Images: 49 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 36 | 📅 Last 24h: 72 | 📡 Total Sources: 44 | 📸 With Images: 52 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
