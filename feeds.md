@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 02:31:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 03:21:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -172,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d" target="_blank">Azure Fundamentals: Microsoft.VSOnline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7" target="_blank">🌍 Build My Own Telegram Translator Bot with Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 02:19</span>
@@ -211,15 +210,6 @@
                 <span class="title"><a href="https://koaning.io/posts/giving-mojo-a-spin/" target="_blank">Python can run Mojo now</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-06-27 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480260&w=600" alt="The Untold Costs of Automation: Are We Sacrificing Security for Speed?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/costs-of-automation-sacrificing-security-for-speed" target="_blank">The Untold Costs of Automation: Are We Sacrificing Security for Speed?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-27 20:00</span>
             </div>
         </div>
 </div>
@@ -395,13 +385,22 @@
                 <span class="time">2025-06-27 15:25</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/laser_danger.png" alt="Laser Danger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3108/" target="_blank">Laser Danger</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-06-27 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 82 | 📡 Total Sources: 44 | 📸 With Images: 58 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 36 | 📅 Last 24h: 84 | 📡 Total Sources: 44 | 📸 With Images: 59 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
