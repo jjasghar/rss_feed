@@ -1,27 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 16:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-28 17:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449648/j-m-smucker-plans-to-remove-artificial-colors-from-its-jams-and-other-products" target="_blank">J.M. Smucker plans to remove artificial colors from its jams and other products</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +95,20 @@
                 <span class="time">2025-06-28 12:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9927/live/94b5d290-540c-11f0-a2ff-17a82c2e8bc4.jpg" alt="Starmer says fixing welfare is a &#x27;moral imperative&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20wxq3q1x3o" target="_blank">Starmer says fixing welfare is a &#x27;moral imperative&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-28 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +154,20 @@
                 <span class="time">2025-06-28 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f3c5a306f1b145ea13b86/master/pass/Review-%20Breville%20Luxe%20Brewer.png" alt="Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/" target="_blank">Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 11:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sheerbittech/white-label-mvno-a-simple-guide-to-starting-your-own-mobile-network-1592" target="_blank">White Label MVNO: A Simple Guide to Starting Your Own Mobile Network</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +213,6 @@
                 <span class="time">2025-06-28 13:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/dotnet-10-preview-5/en/headerimage/twitter_card+%2853%29-1751110443955.jpg" alt=".NET 10 Preview 5 Brings Blazor Observability, XAML Simplification and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/dotnet-10-preview-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Preview 5 Brings Blazor Observability, XAML Simplification and More</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-28 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +251,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/6584438ld.webp?fit=900%2C618&amp;quality=55&amp;ssl=1" alt="Good picks for Windows laptops in the gaming &#x27;n&#x27; creating sweet spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/28/good-picks-for-high-end-windows-laptops.html" target="_blank">Good picks for Windows laptops in the gaming &#x27;n&#x27; creating sweet spot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-28 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0c58c11ff1a63ef10257e6be3d0c9ac6.jpg" alt="Games We&#x27;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#x27;s Takes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245" target="_blank">Games We&#x27;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#x27;s Takes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Erik-Satie.-Photo-Henri-Manuel-public-domain.jpg?fit=1080%2C828&amp;quality=60&amp;ssl=1" alt="A new album of lost Erik Satie works, 100 years after his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -280,24 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/27/uk-papers-keep-running-dubious-stories-about-people-losing-lottery-tickets.html" target="_blank">UK papers keep running dubious stories about people losing lottery tickets</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-27 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Jurassic-World-Rebirth-interview-3.jpg" alt="Universal Asked That Scenes Be Added Back Into ‘Jurassic World Rebirth’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/universal-asked-that-scenes-be-added-back-into-jurassic-world-rebirth-2000621641" target="_blank">Universal Asked That Scenes Be Added Back Into ‘Jurassic World Rebirth’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYSBC36JA7FHG1R6GCW12GJ5/hero-image.png" alt="Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/who-needs-androids-new-advanced-security-protection?utm_medium=RSS" target="_blank">Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-27 23:00</span>
             </div>
         </div>
 </div>
@@ -356,12 +360,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1750827778-20250628.png" alt="Saturday Morning Breakfast Cereal - Humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/27/urethral-rifling" target="_blank">Urethral Rifling</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-06-27 16:55</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/humanity" target="_blank">Saturday Morning Breakfast Cereal - Humanity</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-06-28 15:25</span>
             </div>
         </div>
 </div>
@@ -369,8 +373,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 109 | 📡 Total Sources: 44 | 📸 With Images: 86 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 112 | 📡 Total Sources: 44 | 📸 With Images: 91 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
