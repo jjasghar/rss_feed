@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 14:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-28 15:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/death-toll-rises-after-pakistan-hit-by-flash-floods-and-heavy-rains?traffic_source=rss" target="_blank">Death toll rises after Pakistan hit by flash floods and heavy rains</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/06/1920x1080/skynews-gaza-israel-strikes_6952514.jpg?20250628133943" alt="At least 60 killed in Israeli strikes across Gaza, health staff say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +105,29 @@
                 <span class="time">2025-06-28 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-iran-tehran_6952317.jpg?20250628080112" alt="Chants of &#x27;death to America&#x27; at funeral for Iranian military commanders and scientists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/chants-of-death-to-america-at-funeral-for-iranian-military-commanders-and-scientists-13389648" target="_blank">Chants of &#x27;death to America&#x27; at funeral for Iranian military commanders and scientists</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-28 08:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/694710/supreme-court-fsc-paxton-age-verification-questions" target="_blank">The Supreme Court just upended internet law, and I have questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f347f472f227b69cc9564/master/pass/Great%20Kindle%20Accessories%20for%20Your%20Favorite%20E-Reader.png" alt="Best Kindle Accessories (2025): Kindle Cases, Straps, Charms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kindle-accessories/" target="_blank">Best Kindle Accessories (2025): Kindle Cases, Straps, Charms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-28 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/" target="_blank">FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-28 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/685f3c5a306f1b145ea13b86/master/pass/Review-%20Breville%20Luxe%20Brewer.png" alt="Breville Luxe Brewer Review (2025): Good Drip, Real Cold Brew" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -132,38 +164,38 @@
                 <span class="time">2025-06-28 11:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2190249825-500x500.jpg" alt="Robotic sucker can adapt to surroundings like an actual octopus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/06/robotic-sucker-can-adapt-to-surroundings-like-an-actual-octopus/" target="_blank">Robotic sucker can adapt to surroundings like an actual octopus</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/" target="_blank">Rob Biederman will help founders rethink how to scale at TechCrunch All Stage 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-27 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/meta/694685/meta-ai-camera-roll" target="_blank">Facebook is starting to feed its AI with private, unpublished photos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-27 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hyperkai/string-in-python-3-4o25" target="_blank">String in Python (3)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/floating-mini-panel.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel GNOME Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/floating-mini-panel-gnome-extension" target="_blank">Floating Mini Panel GNOME Extension</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-06-28 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin" target="_blank">MCP: An (Accidentally) Universal Plugin System</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-28 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,33 +221,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/06/dotnet-10-preview-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Preview 5 Brings Blazor Observability, XAML Simplification and More</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-06-28 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/vuejs-image-optimization-beyond-the-basics-1pch" target="_blank">Vue.js Image Optimization: Beyond the Basics</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/" target="_blank">We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-28 12:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-RT-Pointer-Flags-Merged" target="_blank">RADV Ray-Tracing Lands Pointer Flags Support For RDNA3 &amp; Newer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-28 12:04</span>
             </div>
         </div>
 </div>
@@ -256,6 +261,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Erik-Satie.-Photo-Henri-Manuel-public-domain.jpg?fit=1080%2C828&amp;quality=60&amp;ssl=1" alt="A new album of lost Erik Satie works, 100 years after his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/28/a-new-album-of-lost-erik-satie-works-100-years-after-his-death.html" target="_blank">A new album of lost Erik Satie works, 100 years after his death</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-28 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e91f2dfc0caed24a5bb3e7119f2e95d2.jpg" alt="Level Up Your Delivery Game With These Essential Death Stranding 2 Tips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-stranding-2-vehicles-ziplines-pcc-dhv-magellan-1851785247" target="_blank">Level Up Your Delivery Game With These Essential Death Stranding 2 Tips</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/lenovo-legion-s-steamos-review-01.jpg" alt="Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,24 +312,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/who-needs-androids-new-advanced-security-protection?utm_medium=RSS" target="_blank">Here’s Who Needs Android’s New Advanced Security Protection (and Who Probably Doesn’t)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-06-27 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Six-flags-Superman-Batman-Wonder-Woman-io9-Gizmodo.jpg" alt="DC Comics at Theme Parks Has Had a Bizarre History but ‘Superman’ Could Change That" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dc-comics-at-theme-parks-has-had-a-bizarre-history-but-superman-could-change-that-2000620803" target="_blank">DC Comics at Theme Parks Has Had a Bizarre History but ‘Superman’ Could Change That</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/OldGuard2interview.jpg" alt="‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-old-guard-2-cast-on-making-a-sequel-that-bleeds-thinks-and-fights-harder-2000621424" target="_blank">‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-27 21:45</span>
             </div>
         </div>
 </div>
@@ -387,8 +392,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 107 | 📡 Total Sources: 44 | 📸 With Images: 81 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 114 | 📡 Total Sources: 44 | 📸 With Images: 85 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
