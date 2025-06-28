@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 19:01:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 20:01:49 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-pride-budapest-hungary_6952786.jpg?20250628185758" alt="Thousands defy ban to join Pride march in Budapest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thousands-defy-ban-to-join-pride-march-in-budapest-13389870" target="_blank">Thousands defy ban to join Pride march in Budapest</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-06-28 17:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -85,20 +102,29 @@
                 <span class="time">2025-06-28 15:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/6/28/why-manufacturing-consent-for-war-with-iran-failed-this-time?traffic_source=rss" target="_blank">Why manufacturing consent for war with Iran failed this time</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/" target="_blank">Meta reportedly hires four more researchers from OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-28 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi" target="_blank">Tesla says it delivered its first car autonomously from factory to customer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-28 18:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685c0bf8471a9ae1c5d4f444/master/pass/1.jpg" alt="38 Best Early Amazon Prime Day Deals On Products We&#x27;ve Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +161,6 @@
                 <span class="time">2025-06-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f347f472f227b69cc9564/master/pass/Great%20Kindle%20Accessories%20for%20Your%20Favorite%20E-Reader.png" alt="Best Kindle Accessories (2025): Kindle Cases, Straps, Charms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-kindle-accessories/" target="_blank">Best Kindle Accessories (2025): Kindle Cases, Straps, Charms</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tv-reviews/694353/squid-game-season-3-review-netflix" target="_blank">Squid Game&amp;#8217;s uneven season 3 leaves the door wide open</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-28 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj" target="_blank">🎤 The Voice Courier: Meet RTP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig" target="_blank">Redis for Maps and Locations: Understanding Geospatial Indexing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deno.com/blog/deno-v-oracle4" target="_blank">JavaScript Trademark Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-28 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/hyperkai/string-in-python-3-4o25" target="_blank">String in Python (3)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/floating-mini-panel.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel GNOME Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/floating-mini-panel-gnome-extension" target="_blank">Floating Mini Panel GNOME Extension</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-06-28 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin" target="_blank">MCP: An (Accidentally) Universal Plugin System</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-28 14:22</span>
             </div>
         </div>
 </div>
@@ -249,6 +257,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/demonslayer-castle.jpg" alt="The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-demon-slayer-infinity-castle-trailer-locks-in-for-the-end-2000621777" target="_blank">The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-28 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/6584438ld.webp?fit=900%2C618&amp;quality=55&amp;ssl=1" alt="Good picks for Windows laptops in the gaming &#x27;n&#x27; creating sweet spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +309,6 @@
                 <span class="title"><a href="https://gizmodo.com/lenovos-legion-go-s-with-steamos-is-the-only-real-alternative-to-a-steam-deck-2000621525" target="_blank">Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/lotto.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="UK papers keep running dubious stories about people losing lottery tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/27/uk-papers-keep-running-dubious-stories-about-people-losing-lottery-tickets.html" target="_blank">UK papers keep running dubious stories about people losing lottery tickets</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-27 23:35</span>
             </div>
         </div>
 </div>
@@ -372,8 +380,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 99 | 📡 Total Sources: 44 | 📸 With Images: 96 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 91 | 📡 Total Sources: 44 | 📸 With Images: 99 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
