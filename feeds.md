@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 21:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-28 22:01:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi" target="_blank">How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj" target="_blank">🎤 The Voice Courier: Meet RTP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 19:49</span>
@@ -207,29 +220,11 @@
                 <span class="time">2025-06-28 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperkai/string-in-python-3-4o25" target="_blank">String in Python (3)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-what-to-do-when-you-find-a-squid-egg-mop.html" target="_blank">Friday Squid Blogging: What to Do When You Find a Squid “Egg Mop”</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-06-27 21:04</span>
-            </div>
-        </div>
 <div class="story">
             
             <div class="story-content">
@@ -376,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 101 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 80 | 📡 Total Sources: 44 | 📸 With Images: 102 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
