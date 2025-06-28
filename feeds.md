@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 17:01:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-28 18:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449685/hungary-budapest-pride-defies-ban" target="_blank">Around 100,000 march in Budapest Pride event in defiance of Hungary&#x27;s ban</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/pakistan-slams-crisis-of-injustice-as-deadly-flooding-hits?traffic_source=rss" target="_blank">Pakistan slams climate ‘injustice’ as deadly floods hit country again</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-28 17:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +103,20 @@
                 <span class="time">2025-06-28 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-gaza-israel-strikes_6952514.jpg?20250628133943" alt="At least 60 killed in Israeli strikes across Gaza, health staff say - as Trump makes ceasefire prediction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-60-killed-in-israeli-strikes-across-gaza-health-staff-say-13389711" target="_blank">At least 60 killed in Israeli strikes across Gaza, health staff say - as Trump makes ceasefire prediction</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-28 12:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-gaza-israel-strikes_6952514.jpg?20250628133943" alt="At least 60 killed in Israeli strikes across Gaza, health staff say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-60-killed-in-israeli-strikes-across-gaza-health-staff-say-13389711" target="_blank">At least 60 killed in Israeli strikes across Gaza, health staff say</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-28 12:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/28/week-in-review-metas-ai-recruiting-blitz/" target="_blank">Week in Review:  Meta’s AI recruiting blitz</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-28 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,15 +162,6 @@
                 <span class="time">2025-06-28 13:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/" target="_blank">FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-28 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/sheerbittech/white-label-mvno-a-simple-guide-to-starting-your-own-mobile-network-1592" target="_blank">White Label MVNO: A Simple Guide to Starting Your Own Mobile Network</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/cloudflare-containers-beta/en/headerimage/generatedHeaderImage-1751121642456.jpg" alt="Cloudflare Launches Containers in Public Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/cloudflare-containers-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches Containers in Public Beta</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-28 14:55</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/pythoncat/python-trending-weekly-108will-ai-replace-junior-developers-258e" target="_blank">Python Trending Weekly #108：Will AI Replace Junior Developers?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Cleaner-Shader-CDNA-GFX9" target="_blank">Linux 6.16 Extends Cleaner Shader Support To More AMD CDNA/GFX9 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-28 13:27</span>
             </div>
         </div>
 </div>
@@ -373,8 +381,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 112 | 📡 Total Sources: 44 | 📸 With Images: 91 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 110 | 📡 Total Sources: 44 | 📸 With Images: 94 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
