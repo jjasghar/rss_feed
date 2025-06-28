@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 10:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-28 11:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 10:01 UTC</div>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449587/israel-gaza-haaretz-report" target="_blank">Israel&#x27;s leaders slam a news report on a Gaza &#x27;killing field&#x27; near food sites</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-28 10:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/06/28/g-s1-74962/minnesota-melissa-hortman-funeral-house-speaker" target="_blank">Slain Minnesota lawmaker Melissa Hortman to be laid to rest in private funeral service</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-28 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-iran-tehran_6952317.jpg?20250628080112" alt="Chants of &#x27;death to America&#x27; at funeral for Iranian military commanders and scientists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/chants-of-death-to-america-at-funeral-for-iranian-military-commanders-and-scientists-13389648" target="_blank">Chants of &#x27;death to America&#x27; at funeral for Iranian military commanders and scientists</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-06-28 08:58</span>
             </div>
         </div>
 <div class="story">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/russia-ukraine-war-list-of-key-events-day-1220?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,220</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-28 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/nx-s1-5448863/birthright-citizenship-supreme-court-ruling" target="_blank">What is birthright citizenship and what happens after the Supreme Court ruling?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/g-s1-70443/trump-law-firm-susman-godfrey-ruling" target="_blank">A fourth judge has blocked a Trump executive order targeting elite law firms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-27 23:36</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/steven_777d5fbebbc30a9384/i-needed-clean-exchange-rate-data-so-i-built-my-own-api-1bap" target="_blank">I Needed Clean Exchange Rate Data, So I Built My Own API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 10:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1bwqyx4o4qx2076oczj4.png" alt="【Journey of HarmonyOS Next】HarmonyOS Development Basics (3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftvsonline-2m2d" target="_blank">Azure Fundamentals: Microsoft.VSOnline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeancarje/build-my-own-telegram-translator-bot-with-python-23n7" target="_blank">🌍 Build My Own Telegram Translator Bot with Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 02:19</span>
             </div>
         </div>
 </div>
@@ -260,6 +265,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/lenovo-legion-s-steamos-review-01.jpg" alt="Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lenovos-legion-go-s-with-steamos-is-the-only-real-alternative-to-a-steam-deck-2000621525" target="_blank">Lenovo’s Legion Go S With SteamOS Is the Only Real Alternative to a Steam Deck</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-28 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/lotto.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="UK papers keep running dubious stories about people losing lottery tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -302,15 +316,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-old-guard-2-cast-on-making-a-sequel-that-bleeds-thinks-and-fights-harder-2000621424" target="_blank">‘The Old Guard 2’ Cast on Making a Sequel That Bleeds, Thinks, and Fights Harder</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-27 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/51876bd0eaaca4f0f68667643baf8156.jpg" alt="Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272" target="_blank">Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-27 21:35</span>
             </div>
         </div>
 </div>
@@ -391,8 +396,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 90 | 📡 Total Sources: 44 | 📸 With Images: 69 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 94 | 📡 Total Sources: 44 | 📸 With Images: 71 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
