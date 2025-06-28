@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 07:01:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-28 08:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, June 28, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d2/live/eeb4e3d0-53df-11f0-8e5a-d1b888cdb43d.png" alt="Iran holds state funeral for military leaders killed in Israel conflict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg978nkwxro" target="_blank">Iran holds state funeral for military leaders killed in Israel conflict</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-28 06:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Supreme-Court-6-gty-gmh-250627_1751033977468_hpMain_4x3t_384.jpg" alt="What&#x27;s next for birthright citizenship after SCOTUS limits nationwide injunctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/in-a-win-for-trump-supreme-court-limits-nationwide-injunctions-242396229833" target="_blank">In a win for Trump, Supreme Court limits nationwide injunctions</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-06-27 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/27/1254874805/how-russia-sees-itself-in-the-world" target="_blank">How Russia Sees Itself in the World</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-27 22:51</span>
             </div>
         </div>
 </div>
@@ -394,8 +401,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 90 | 📡 Total Sources: 44 | 📸 With Images: 66 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 89 | 📡 Total Sources: 44 | 📸 With Images: 68 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
