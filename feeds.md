@@ -1,31 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 15:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 16:01:26 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +100,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/685f5aa9313641784030d4a6/master/pass/The%20Best%20Power%20Banks%20for%20All%20Your%20Devices_.png" alt="23 Best Power Banks (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-portable-chargers-power-banks/" target="_blank">23 Best Power Banks (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apollo12-500x500-1751113488.jpg" alt="Ars reflects on Apollo 13 turning 30" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/06/ars-reflects-on-apollo-13-turning-30/" target="_blank">Ars reflects on Apollo 13 turning 30</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-29 14:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/685f64ea44ee9a56ca0b2119/master/pass/Buying%20Guide-%20Dash%20June%202025_.png" alt="10 Best Dash Kitchen Appliances (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,29 +153,20 @@
                 <span class="time">2025-06-28 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68604739fe97b5991f97c695/master/pass/2032109653" alt="OpenAI Loses 4 Key Researchers to Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/four-openai-researchers-leave-meta/" target="_blank">OpenAI Loses 4 Key Researchers to Meta</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/" target="_blank">Meta reportedly hires four more researchers from OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-28 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3" target="_blank">Python GIL Removal Reveals Second, Stronger GIL Behind It</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-06-29 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9v5dt6d4158g8vg85n4.png" alt="Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +212,6 @@
                 <span class="time">2025-06-29 11:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/octelium/octelium" target="_blank">Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-29 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/d288a7719904870b2cf82b574bbea3a0.jpg" alt="CEOs Are Quietly Telling Us the Truth: AI Is Replacing You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907" target="_blank">CEOs Are Quietly Telling Us the Truth: AI Is Replacing You</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 15:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="Jon Watts Left ‘Fantastic Four’ to Get His Groove Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/29/church-of-england-bishop-martyn-snow-accused-stalking-victim-of-witchcraft-to-protect-preacher.html" target="_blank">Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-29 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/ankercharger.jpg" alt="Anker Is Going All In, This 3-Port 65W USB-C Charger Is Almost Free Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anker-is-going-all-in-this-3-port-65w-usb-c-charger-is-almost-free-before-prime-day-2000621834" target="_blank">Anker Is Going All In, This 3-Port 65W USB-C Charger Is Almost Free Before Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 12:40</span>
             </div>
         </div>
 </div>
@@ -351,12 +350,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750827778-20250628.png" alt="Saturday Morning Breakfast Cereal - Humanity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1750827927-20250629.png" alt="Saturday Morning Breakfast Cereal - Self" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/humanity" target="_blank">Saturday Morning Breakfast Cereal - Humanity</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/self-4" target="_blank">Saturday Morning Breakfast Cereal - Self</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-06-28 15:25</span>
+                <span class="time">2025-06-29 15:15</span>
             </div>
         </div>
 </div>
@@ -364,8 +363,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 141 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 84 | 📡 Total Sources: 44 | 📸 With Images: 145 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
