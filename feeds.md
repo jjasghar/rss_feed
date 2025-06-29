@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 00:05:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 01:29:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37f/live/ddee1480-5480-11f0-a2ff-17a82c2e8bc4.jpg" alt="Thousands party at Budapest Pride in clear message to Orban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clylnev5y36o" target="_blank">Thousands party at Budapest Pride in clear message to Orban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 00:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/tehran-police-ss-jt-250628_1751131213746_hpMain_4x3t_384.jpg" alt="Iran crackdown deepens with speedy executions and arrests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/iran-crackdown-deepens-speedy-executions-arrests/story?id=123253547" target="_blank">Iran crackdown deepens with speedy executions and arrests</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-28 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751150255164_nn_rno_senate_prepares_to_vote_on_spending_bill_250628_1920x1080-gr1i0k.jpg" alt="Senate Republicans move toward passing Trump spending bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/senate-republicans-move-toward-passing-trump-spending-bill-242423365737" target="_blank">Senate Republicans move toward passing Trump spending bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-28 22:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/week-shifting-descriptions-iran-attack-spark-ongoing-questions/story?id=123279659" target="_blank">A week of shifting descriptions of Iran attack spark ongoing questions</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-06-28 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/28/nx-s1-5449685/hungary-budapest-pride-defies-ban" target="_blank">Around 100,000 march in Budapest Pride event in defiance of Hungary&#x27;s ban</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-28 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-pride-budapest-hungary_6952786.jpg?20250628185758" alt="Thousands defy ban to join Pride march in Budapest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thousands-defy-ban-to-join-pride-march-in-budapest-13389870" target="_blank">Thousands defy ban to join Pride march in Budapest</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-28 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/pakistan-slams-crisis-of-injustice-as-deadly-flooding-hits?traffic_source=rss" target="_blank">Pakistan slams climate ‘injustice’ as deadly floods hit country again</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 17:02</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bstqukaq70q4abb0wsm.png" alt="Move Over LLaMA: Tencent&#x27;s New Open LLM is Ready to Self-Host" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73" target="_blank">Move Over LLaMA: Tencent&#x27;s New Open LLM is Ready to Self-Host</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 00:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhoyipzh6xgcbagles6mo.png" alt="Juggling Memory: Arenas in Golang" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://deno.com/blog/deno-v-oracle4" target="_blank">JavaScript Trademark Update</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-28 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sheerbittech/white-label-mvno-a-simple-guide-to-starting-your-own-mobile-network-1592" target="_blank">White Label MVNO: A Simple Guide to Starting Your Own Mobile Network</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 16:48</span>
             </div>
         </div>
 </div>
@@ -366,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 75 | 📡 Total Sources: 44 | 📸 With Images: 106 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 76 | 📡 Total Sources: 44 | 📸 With Images: 110 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
