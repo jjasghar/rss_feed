@@ -1,18 +1,20 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 02:40:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 03:29:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
@@ -21,12 +23,12 @@
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 02:40 UTC</div>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8d9a8f47/performance-first-web-rust-framework-high-throughput1751166441773800-51pk" target="_blank">Performance First Web Rust Framework High Throughput（1751166441773800）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/digoshirota/i-built-a-free-streaming-ui-with-nextjs-15-tailwind-free-on-github-full-version-on-gumroad-20ea" target="_blank">🎬 I built a free streaming UI with Next.js 15 + Tailwind – free on GitHub, full version on Gumroad!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 01:07</span>
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj" target="_blank">🎤 The Voice Courier: Meet RTP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig" target="_blank">Redis for Maps and Locations: Understanding Geospatial Indexing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 18:57</span>
             </div>
         </div>
 </div>
@@ -366,7 +368,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 32 | 📅 Last 24h: 77 | 📡 Total Sources: 44 | 📸 With Images: 112 |
-        🔄 Last Updated: 02:40 UTC
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
