@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 06:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 07:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/233b2a70-54b1-11f0-a65a-610dfef3e4d6.jpg" alt="Iran could start enriching uranium for bomb within months, UN nuclear chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c79qeqg89g2o" target="_blank">Iran could start enriching uranium for bomb within months, UN nuclear chief says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 06:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/28/g-s1-75158/kisses-yes-bezos-no-protesters-say-as-bezos-wedding-stirs-controversy-in-venice" target="_blank">&#x27;Kisses yes, Bezos No,&#x27; protesters say, as Bezos wedding stirs controversy in Venice</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-29 01:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37f/live/ddee1480-5480-11f0-a2ff-17a82c2e8bc4.jpg" alt="Thousands party at Budapest Pride in clear message to Orban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clylnev5y36o" target="_blank">Thousands party at Budapest Pride in clear message to Orban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 00:56</span>
             </div>
         </div>
 </div>
@@ -371,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 119 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 82 | 📡 Total Sources: 44 | 📸 With Images: 120 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
