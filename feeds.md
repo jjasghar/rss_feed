@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 21:01:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-06-29 22:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc4-Released" target="_blank">Linux 6.16-rc4 Released With AMD Cleaner Shader For More GPUs, Bcachefs Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-29 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dianaappinventor24_unica_/checklist-2l13" target="_blank">checklist</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +215,6 @@
                 <span class="time">2025-06-29 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3" target="_blank">Python GIL Removal Reveals Second, Stronger GIL Behind It</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-06-29 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/residentevil-requiem.jpg" alt="‘Resident Evil: Requiem’ Will Refocus On the Series’ Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/resident-evil-requiem-will-refocus-on-the-series-past-2000621811" target="_blank">‘Resident Evil: Requiem’ Will Refocus On the Series’ Past</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/elon-musk-child-april-13-2025.jpg" alt="Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/jon-watts-left-fantastic-four-to-get-his-groove-back-2000621804" target="_blank">Jon Watts Left ‘Fantastic Four’ to Get His Groove Back</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/pikselstock-Shutterstock.jpg?fit=1080%2C674&amp;quality=60&amp;ssl=1" alt="Apple running ads in Wallet app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/apple-running-ads-in-wallet-app.html" target="_blank">Apple running ads in Wallet app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 14:05</span>
             </div>
         </div>
 </div>
@@ -368,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 155 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 156 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
