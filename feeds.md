@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 03:29:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 04:11:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/29/activists-boniface-mwangi-agather-atuhaire-tanzania" target="_blank">‘We won’t let them get away with this’: activists to sue Tanzania’s government over ‘sexual torture’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-06-29 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: &#x27;One Big Beautiful Bill&#x27; clears 1st procedural hurdle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: &#x27;One Big Beautiful Bill&#x27; clears 1st procedural hurdle</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-29 03:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Procedural vote on spending bill at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/tehran-police-ss-jt-250628_1751131213746_hpMain_4x3t_384.jpg" alt="Iran crackdown deepens with speedy executions and arrests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-serbia-protest-anti-govt-rally_6952907.jpg?20250629030738" alt="Riot police clash with protesters calling for end to Serbian president&#x27;s rule" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/iran-crackdown-deepens-speedy-executions-arrests/story?id=123253547" target="_blank">Iran crackdown deepens with speedy executions and arrests</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-28 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751150255164_nn_rno_senate_prepares_to_vote_on_spending_bill_250628_1920x1080-gr1i0k.jpg" alt="Senate Republicans move toward passing Trump spending bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/senate-republicans-move-toward-passing-trump-spending-bill-242423365737" target="_blank">Senate Republicans move toward passing Trump spending bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-28 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/28/inter-miami-vs-psg-fifa-club-world-cup-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Inter Miami: FIFA Club World Cup – team news, start time and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 22:12</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/riot-police-clash-with-protesters-calling-for-end-to-serbian-presidents-rule-13389950" target="_blank">Riot police clash with protesters calling for end to Serbian president&#x27;s rule</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-06-29 00:15</span>
             </div>
         </div>
 </div>
@@ -163,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lxpydhjtsvhtuvxo2ry.png" alt="¿Cómo Funciona un Agente de Inteligencia Artificial?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj" target="_blank">¿Cómo Funciona un Agente de Inteligencia Artificial?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 03:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/how-to-solve-dependencyfailedexception-on-a-multi-agent-in-aws-bedrock-3fdi" target="_blank">How to Solve dependencyFailedException on a Multi-Agent in AWS Bedrock</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sip_games/the-voice-courier-meet-rtp-5coj" target="_blank">🎤 The Voice Courier: Meet RTP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 19:49</span>
             </div>
         </div>
 </div>
@@ -367,8 +373,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 77 | 📡 Total Sources: 44 | 📸 With Images: 112 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 80 | 📡 Total Sources: 44 | 📸 With Images: 115 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
