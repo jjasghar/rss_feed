@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 12:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-29 13:08:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6456/live/e81b3f80-54e1-11f0-b137-b1f711ab20bb.png" alt="Man arrested over murder of pregnant mother" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl0j2ggr1jo" target="_blank">Man arrested over murder of pregnant mother</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/29/police-clash-with-protesters-in-serbia-as-tens-of-thousands-demand-election?traffic_source=rss" target="_blank">Police clash with protesters in Serbia as tens of thousands demand election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450152/russia-attack-ukraine" target="_blank">Russia launches record aerial attack on Ukraine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-29 11:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-fordow-site-nuclear_6953096.jpg?20250629125005" alt="Iran could begin enriching uranium again in months, says UN nuclear watchdog chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-could-begin-enriching-uranium-again-in-months-says-un-nuclear-watchdog-chief-13390094" target="_blank">Iran could begin enriching uranium again in months, says UN nuclear watchdog chief</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-06-29 11:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9252/live/80037590-54cb-11f0-b4be-8f7caf53b80c.jpg" alt="MP refers himself to commissioner over &#x27;cash for questions&#x27; claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,47 +98,20 @@
                 <span class="time">2025-06-29 10:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/6/29/aftermath-of-deadly-israeli-attack-on-tehrans-evin-prison?traffic_source=rss" target="_blank">Aftermath of deadly Israeli attack on Tehran’s Evin Prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450133/trump-gaza-netanyahu" target="_blank">Trump calls for Gaza deal, slams Netanyahu trial</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-29 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-bayesian-yacht_6953026.jpg?20250629094122" alt="Inside the recovered Bayesian sunken superyacht" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pictures-reveal-inside-of-bayesian-sunken-superyacht-after-it-was-resurfaced-for-full-examination-13390043" target="_blank">Inside the recovered Bayesian sunken superyacht</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-29 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/29/gauff-and-sabalenka-team-up-in-viral-tiktok-dance-before-wimbledon?traffic_source=rss" target="_blank">Gauff and Sabalenka team up in viral TikTok dance before Wimbledon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 08:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f64ea44ee9a56ca0b2119/master/pass/Buying%20Guide-%20Dash%20June%202025_.png" alt="10 Best Dash Kitchen Appliances (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-dash-kitchen-appliances/" target="_blank">10 Best Dash Kitchen Appliances (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-29 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -113,6 +119,15 @@
                 <span class="title"><a href="https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer" target="_blank">Apple’s racing movie is finally here</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Photo-BCI-participant-is-being-connected-to-the-BCI-system-by-researcher-Iacobacci-500x500.jpg" alt="A neural brain implant provides near instantaneous speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/" target="_blank">A neural brain implant provides near instantaneous speech</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-29 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +157,29 @@
                 <span class="time">2025-06-28 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi" target="_blank">Tesla says it delivered its first car autonomously from factory to customer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-28 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685c0bf8471a9ae1c5d4f444/master/pass/1.jpg" alt="38 Best Early Amazon Prime Day Deals On Products We&#x27;ve Tested (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/" target="_blank">38 Best Early Amazon Prime Day Deals On Products We&#x27;ve Tested (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dapphari007/world-environment-action-day-3go3" target="_blank">World-Environment-Action-Day</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-More-Cyan-Skillfish-2025" target="_blank">AMD Prepares Linux Driver Support For New APUs Still Relying On RDNA1 Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-29 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="time">2025-06-29 08:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jamesmcm.github.io/blog/no-ipv4/" target="_blank">Using the Internet without IPv4 connectivity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-29 08:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle" target="_blank">From Scratch to SaaS in 9 Days: A Dev&#x27;s Journey + Free Insights</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Lord-Bishop-Snow-in-his-official-portrait.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/church-of-england-bishop-martyn-snow-accused-stalking-victim-of-witchcraft-to-protect-preacher.html" target="_blank">Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/ankercharger.jpg" alt="Anker Is Going All In, This 3-Port 65W USB-C Charger Is Almost Free Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anker-is-going-all-in-this-3-port-65w-usb-c-charger-is-almost-free-before-prime-day-2000621834" target="_blank">Anker Is Going All In, This 3-Port 65W USB-C Charger Is Almost Free Before Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Aspergillus-flavus.jpg" alt="Notorious Fungus Blamed for ‘Mummy’s Curse’ Is Now a Promising Cancer Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/how-to-watch-the-2025-austrian-gp-on-a-free-channel-2000618906" target="_blank">How to Watch the 2025 F1 Austrian GP on a Free Channel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/NovaCustom.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="NovaCustom touts privacy-oriented custom laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/28/novacustom-touts-privacy-oriented-custom-laptops.html" target="_blank">NovaCustom touts privacy-oriented custom laptops</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Alpine-2.00.png?fit=562%2C406&amp;quality=55&amp;ssl=1" alt="You can still use plain text email—and maybe you should" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/28/you-can-still-use-plain-text-email-and-maybe-you-should.html" target="_blank">You can still use plain text email—and maybe you should</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-28 23:42</span>
             </div>
         </div>
 </div>
@@ -370,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 129 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 90 | 📡 Total Sources: 44 | 📸 With Images: 135 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
