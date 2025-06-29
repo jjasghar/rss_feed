@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 13:08:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 14:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/29/at-least-66-children-in-gaza-have-starved-to-death-during-israels-genocide?traffic_source=rss" target="_blank">At least 66 children in Gaza have starved to death during Israel’s genocide</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt" target="_blank">Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-29 13:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6456/live/e81b3f80-54e1-11f0-b137-b1f711ab20bb.png" alt="Man arrested over murder of pregnant mother" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/crl0j2ggr1jo" target="_blank">Man arrested over murder of pregnant mother</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751199544244_tdy_sun_nobles_senate_spending_bill_250629_1920x1080-bvrh2l.jpg" alt="Senate Advances Trump’s Signature ‘Big, Beautiful’ Spending Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-s-big-beautiful-bill-passes-major-hurdle-in-senate-242430533729" target="_blank">Senate Advances Trump’s Signature ‘Big, Beautiful’ Spending Bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-29 12:19</span>
             </div>
         </div>
 <div class="story">
@@ -69,33 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450152/russia-attack-ukraine" target="_blank">Russia launches record aerial attack on Ukraine</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-29 11:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-fordow-site-nuclear_6953096.jpg?20250629125005" alt="Iran could begin enriching uranium again in months, says UN nuclear watchdog chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-could-begin-enriching-uranium-again-in-months-says-un-nuclear-watchdog-chief-13390094" target="_blank">Iran could begin enriching uranium again in months, says UN nuclear watchdog chief</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-29 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9252/live/80037590-54cb-11f0-b4be-8f7caf53b80c.jpg" alt="MP refers himself to commissioner over &#x27;cash for questions&#x27; claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gdrjqvp0jo" target="_blank">MP refers himself to commissioner over &#x27;cash for questions&#x27; claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Trump-Oval-DB-250629_1751193932308_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump celebrates Senate&#x27;s &#x27;One Big Beautiful Bill&#x27; vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: Trump celebrates Senate&#x27;s &#x27;One Big Beautiful Bill&#x27; vote</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-29 10:56</span>
             </div>
         </div>
 </div>
@@ -192,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/octelium/octelium" target="_blank">Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-29 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/2025-Q2-Highlights" target="_blank">AMD Strix Halo, Snapdragon X &amp; Linux Graphics Were Most Popular This Quarter</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/pratikmahalle/keda-smarter-scaling-for-kubernetes-event-driven-and-effortless-6a8" target="_blank">KEDA: Smarter Scaling for Kubernetes – Event-Driven and Effortless</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n" target="_blank">Exploring High Efficiency Web Analysis Results（1751186924150700）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 08:48</span>
             </div>
         </div>
 </div>
@@ -244,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/02/fenmrzanveycrumkbawt.jpg" alt="Scientists Launch Wild New Project to Build a Human Genome From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-launch-wild-new-project-to-build-a-human-genome-from-scratch-2000620762" target="_blank">Scientists Launch Wild New Project to Build a Human Genome From Scratch</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Lord-Bishop-Snow-in-his-official-portrait.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/if-you-own-an-iphone-amazon-is-offering-a-free-airtag-prime-day-2000619896" target="_blank">If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 08:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-F1-Austrian-GP-on-a-Free-Channel.jpg" alt="How to Watch the 2025 F1 Austrian GP on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-2025-austrian-gp-on-a-free-channel-2000618906" target="_blank">How to Watch the 2025 F1 Austrian GP on a Free Channel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 05:50</span>
             </div>
         </div>
 </div>
@@ -367,8 +373,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 90 | 📡 Total Sources: 44 | 📸 With Images: 135 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 137 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
