@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 14:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-29 15:01:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9v5dt6d4158g8vg85n4.png" alt="Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vetriselvan_11/exploring-replaysubject-in-rxjs-how-to-replay-past-values-in-angular-2eh5" target="_blank">Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hangover-10.11-Released" target="_blank">Wine-Based Hangover Project Drops QEMU In Favor Of FEX &amp; Box64 For Emulation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-29 14:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,24 +213,6 @@
                 <span class="time">2025-06-29 11:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/2025-Q2-Highlights" target="_blank">AMD Strix Halo, Snapdragon X &amp; Linux Graphics Were Most Popular This Quarter</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-29 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pratikmahalle/keda-smarter-scaling-for-kubernetes-event-driven-and-effortless-6a8" target="_blank">KEDA: Smarter Scaling for Kubernetes – Event-Driven and Effortless</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,12 +242,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="Jon Watts Left ‘Fantastic Four’ to Get His Groove Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jon-watts-left-fantastic-four-to-get-his-groove-back-2000621804" target="_blank">Jon Watts Left ‘Fantastic Four’ to Get His Groove Back</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/pikselstock-Shutterstock.jpg?fit=1080%2C674&amp;quality=60&amp;ssl=1" alt="Apple running ads in Wallet app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/apple-running-ads-in-wallet-app.html" target="_blank">Apple running ads in Wallet app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 14:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2021/02/fenmrzanveycrumkbawt.jpg" alt="Scientists Launch Wild New Project to Build a Human Genome From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/scientists-launch-wild-new-project-to-build-a-human-genome-from-scratch-2000620762" target="_blank">Scientists Launch Wild New Project to Build a Human Genome From Scratch</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4dafed9d49dba5935367c97801022129.jpg" alt="The Week&#x27;s Top Tips For Oblivion Remastered, Dune: Awakening, And More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244" target="_blank">The Week&#x27;s Top Tips For Oblivion Remastered, Dune: Awakening, And More</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-29 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -275,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/anker-is-going-all-in-this-3-port-65w-usb-c-charger-is-almost-free-before-prime-day-2000621834" target="_blank">Anker Is Going All In, This 3-Port 65W USB-C Charger Is Almost Free Before Prime Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Aspergillus-flavus.jpg" alt="Notorious Fungus Blamed for ‘Mummy’s Curse’ Is Now a Promising Cancer Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/notorious-fungus-blamed-for-mummys-curse-is-now-a-promising-cancer-treatment-2000620598" target="_blank">Notorious Fungus Blamed for ‘Mummy’s Curse’ Is Now a Promising Cancer Treatment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/young-old-elderly-hands.jpg" alt="How to Slow Down Your Biological Clock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-slow-down-your-biological-clock-2000619194" target="_blank">How to Slow Down Your Biological Clock</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/airtags-apple.jpg" alt="If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/if-you-own-an-iphone-amazon-is-offering-a-free-airtag-prime-day-2000619896" target="_blank">If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 08:28</span>
             </div>
         </div>
 </div>
@@ -373,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 137 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 141 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
