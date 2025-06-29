@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 20:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/29/neves-scores-two-as-psg-thrash-inter-miami-to-reach-club-world-cup-quarters?traffic_source=rss" target="_blank">PSG defeats Messi, Inter Miami in FIFA Club World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 18:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2025-06-29 13:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt" target="_blank">Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-29 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68617afbebd533b57f3bccb2/master/pass/OpenAI-Responds-to-Meta-Business-2213026842.jpg" alt="OpenAI Leadership Responds to Meta Offers: &#x27;Someone Has Broken Into Our Home&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-meta-leadership-talent-rivalry/" target="_blank">OpenAI Leadership Responds to Meta Offers: &#x27;Someone Has Broken Into Our Home&#x27;</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-29 19:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-06-29 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer" target="_blank">Apple’s racing movie is finally here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-29 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dianaappinventor24_unica_/checklist-2l13" target="_blank">checklist</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 19:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/06/nvidia-gb200/en/headerimage/generatedHeaderImage-1751155071629.jpg" alt="Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -172,6 +184,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/06/nvidia-gb200/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-06-29 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.vbang.dk/2025/06/29/tools-i-love-mise/" target="_blank">Tools I love: mise(-en-place)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-29 17:56</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +220,6 @@
                 <span class="title"><a href="https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3" target="_blank">Python GIL Removal Reveals Second, Stronger GIL Behind It</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-06-29 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd9v5dt6d4158g8vg85n4.png" alt="Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vetriselvan_11/exploring-replaysubject-in-rxjs-how-to-replay-past-values-in-angular-2eh5" target="_blank">Exploring ReplaySubject in RxJS: How to Replay Past Values in Angular</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hangover-10.11-Released" target="_blank">Wine-Based Hangover Project Drops QEMU In Favor Of FEX &amp; Box64 For Emulation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-29 14:33</span>
             </div>
         </div>
 </div>
@@ -370,8 +373,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 154 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 155 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
