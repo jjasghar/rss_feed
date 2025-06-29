@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 22:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-29 23:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +45,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/idaho_1751236233662_hpMain_4x3t_384.jpeg" alt="Firefighters ambushed by gunman while responding to brush fire in Idaho: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">Firefighters ambushed by gunman while responding to brush fire in Idaho: Sheriff</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-29 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250625-alligator-alcatraz-se-500p-92aaa4.jpg" alt="Trump expected to visit the &#x27;Alligator Alcatraz&#x27; detention facility this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/immigration/trump-likely-visit-alligator-alcatraz-rcna215851" target="_blank">Trump expected to visit the &#x27;Alligator Alcatraz&#x27; detention facility this week</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-29 22:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/6/29/wildfire-risks-as-climate-change-fuels-extreme-heatwave-in-southern-europe?traffic_source=rss" target="_blank">Wildfire risks as climate change fuels extreme heatwave in Southern Europe</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-29 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632d/live/958c4aa0-54f7-11f0-a063-0547e47ae66c.jpg" alt="Israel orders evacuations in northern Gaza as Trump pushes for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg54klnyy3o" target="_blank">Israel orders evacuations in northern Gaza as Trump pushes for ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 19:13</span>
             </div>
         </div>
 <div class="story">
@@ -68,33 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819" target="_blank">GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-06-29 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis says he&#x27;s not running for re-election in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819" target="_blank">GOP Sen. Thom Tillis says he&#x27;s not running for re-election in North Carolina</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-29 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450282/u-n-nuclear-watchdog-says-iran-could-enrich-uranium-again-in-a-matter-of-months" target="_blank">U.N. nuclear watchdog says Iran could enrich uranium again in &#x27;a matter of months&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-29 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/6/29/will-iran-double-down-on-its-nuclear-programme-after-the-war?traffic_source=rss" target="_blank">Will Iran double down on its nuclear programme after the war?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 16:01</span>
             </div>
         </div>
 </div>
@@ -162,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx815n21ml9zl0my93hb1.png" alt="HarmonyOS Development: Filling the remaining space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5" target="_blank">HarmonyOS Development: Filling the remaining space</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 22:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -206,15 +216,6 @@
                 <span class="time">2025-06-29 17:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/doi/10.1126/sciadv.ads7908" target="_blank">Personal care products disrupt the human oxidation field</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-29 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/NordVPN-Amazon-Gift-Card-Bundle.jpeg" alt="NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nordvpn-is-giving-away-amazon-gift-cards-heres-how-to-claim-yours-2000620103" target="_blank">NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/residentevil-requiem.jpg" alt="‘Resident Evil: Requiem’ Will Refocus On the Series’ Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907" target="_blank">CEOs Are Quietly Telling Us the Truth: AI Is Replacing You</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="Jon Watts Left ‘Fantastic Four’ to Get His Groove Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jon-watts-left-fantastic-four-to-get-his-groove-back-2000621804" target="_blank">Jon Watts Left ‘Fantastic Four’ to Get His Groove Back</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 14:30</span>
             </div>
         </div>
 </div>
@@ -366,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 156 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 162 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
