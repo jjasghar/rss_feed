@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 11:01:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Trump-Oval-DB-250629_1751193932308_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump celebrates Senate&#x27;s &#x27;One Big Beautiful Bill&#x27; vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: Trump celebrates Senate&#x27;s &#x27;One Big Beautiful Bill&#x27; vote</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-29 10:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c79qeqg89g2o" target="_blank">Iran could start enriching uranium for bomb within months, UN nuclear chief says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jun/29/activists-boniface-mwangi-agather-atuhaire-tanzania" target="_blank">‘We won’t let them get away with this’: activists to sue Tanzania’s government over ‘sexual torture’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-06-29 04:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/2025-Q2-Highlights" target="_blank">AMD Strix Halo, Snapdragon X &amp; Linux Graphics Were Most Popular This Quarter</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-29 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pratikmahalle/keda-smarter-scaling-for-kubernetes-event-driven-and-effortless-6a8" target="_blank">KEDA: Smarter Scaling for Kubernetes – Event-Driven and Effortless</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +215,6 @@
                 <span class="time">2025-06-29 04:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lxpydhjtsvhtuvxo2ry.png" alt="¿Cómo Funciona un Agente de Inteligencia Artificial?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj" target="_blank">¿Cómo Funciona un Agente de Inteligencia Artificial?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 03:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/young-old-elderly-hands.jpg" alt="How to Slow Down Your Biological Clock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-slow-down-your-biological-clock-2000619194" target="_blank">How to Slow Down Your Biological Clock</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/airtags-apple.jpg" alt="If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-launches-a-scathing-new-attack-on-trumps-big-beautiful-bill-2000621805" target="_blank">Elon Musk Launches a Scathing New Attack on Trump’s “Big, Beautiful Bill”</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-28 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/donald-trump-april-14-2025-GettyImages-2210244280-copy.jpg" alt="Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-and-his-online-alpha-males-have-a-meltdown-over-nycs-newest-socialist-star-2000621801" target="_blank">Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-28 20:50</span>
             </div>
         </div>
 </div>
@@ -369,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 122 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 125 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
