@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 18:01:43 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-06-29 19:01:25 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819" target="_blank">GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-29 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis says he&#x27;s not running for re-election in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5449064/iran-israel-war-ai-chatgpt" target="_blank">Alone in Tehran, a young Iranian turns to ChatGPT and video games for comfort</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-29 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6456/live/e81b3f80-54e1-11f0-b137-b1f711ab20bb.png" alt="Man arrested over murder of pregnant mother" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl0j2ggr1jo" target="_blank">Man arrested over murder of pregnant mother</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 12:57</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/06/nvidia-gb200/en/headerimage/generatedHeaderImage-1751155071629.jpg" alt="Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/nvidia-gb200/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-29 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +219,6 @@
                 <span class="time">2025-06-29 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dapphari007/world-environment-action-day-3go3" target="_blank">World-Environment-Action-Day</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/elon-musk-child-april-13-2025.jpg" alt="Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-returns-to-politics-by-trolling-iran-and-torching-trumps-big-bill-2000621915" target="_blank">Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 18:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2482773135.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Checking in on Project 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/29/apple-running-ads-in-wallet-app.html" target="_blank">Apple running ads in Wallet app</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-29 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/02/fenmrzanveycrumkbawt.jpg" alt="Scientists Launch Wild New Project to Build a Human Genome From Scratch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-launch-wild-new-project-to-build-a-human-genome-from-scratch-2000620762" target="_blank">Scientists Launch Wild New Project to Build a Human Genome From Scratch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 14:00</span>
             </div>
         </div>
 </div>
@@ -371,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 151 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 154 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
