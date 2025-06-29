@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 05:04:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 06:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/fa6f14d0-54ab-11f0-a2ff-17a82c2e8bc4.jpg" alt="Make healthy food more appealing, government tells supermarkets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5xzpmxzgo" target="_blank">Make healthy food more appealing, government tells supermarkets</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 02:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Procedural vote on spending bill at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/clylnev5y36o" target="_blank">Thousands party at Budapest Pride in clear message to Orban</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-serbia-protest-anti-govt-rally_6952907.jpg?20250629030738" alt="Riot police clash with protesters calling for end to Serbian president&#x27;s rule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/riot-police-clash-with-protesters-calling-for-end-to-serbian-presidents-rule-13389950" target="_blank">Riot police clash with protesters calling for end to Serbian president&#x27;s rule</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-06-29 00:15</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle" target="_blank">From Scratch to SaaS in 9 Days: A Dev&#x27;s Journey + Free Insights</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hackrowdsec/everything-i-learned-in-my-first-year-as-a-security-engineer-47i0" target="_blank">Everything I Learned in My First Year as a Security Engineer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 04:49</span>
@@ -212,15 +220,6 @@
                 <span class="time">2025-06-29 00:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhoyipzh6xgcbagles6mo.png" alt="Juggling Memory: Arenas in Golang" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flew1x/juggling-memory-arenas-in-golang-5bm9" target="_blank">Juggling Memory: Arenas in Golang</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-28 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-F1-Austrian-GP-on-a-Free-Channel.jpg" alt="How to Watch the 2025 F1 Austrian GP on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-2025-austrian-gp-on-a-free-channel-2000618906" target="_blank">How to Watch the 2025 F1 Austrian GP on a Free Channel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/NovaCustom.jpg?fit=1080%2C751&amp;quality=60&amp;ssl=1" alt="NovaCustom touts privacy-oriented custom laptops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/28/novacustom-touts-privacy-oriented-custom-laptops.html" target="_blank">NovaCustom touts privacy-oriented custom laptops</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 00:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Alpine-2.00.png?fit=562%2C406&amp;quality=55&amp;ssl=1" alt="You can still use plain text email—and maybe you should" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-demon-slayer-infinity-castle-trailer-locks-in-for-the-end-2000621777" target="_blank">The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-28 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/6584438ld.webp?fit=900%2C618&amp;quality=55&amp;ssl=1" alt="Good picks for Windows laptops in the gaming &#x27;n&#x27; creating sweet spot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/28/good-picks-for-high-end-windows-laptops.html" target="_blank">Good picks for Windows laptops in the gaming &#x27;n&#x27; creating sweet spot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-28 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0c58c11ff1a63ef10257e6be3d0c9ac6.jpg" alt="Games We&#x27;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#x27;s Takes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245" target="_blank">Games We&#x27;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#x27;s Takes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-28 16:00</span>
             </div>
         </div>
 </div>
@@ -372,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 81 | 📡 Total Sources: 44 | 📸 With Images: 116 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 119 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
