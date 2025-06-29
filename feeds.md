@@ -1,15 +1,16 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 09:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 10:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
@@ -17,18 +18,19 @@
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/6/29/aftermath-of-deadly-israeli-attack-on-tehrans-evin-prison?traffic_source=rss" target="_blank">Aftermath of deadly Israeli attack on Tehran’s Evin Prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450133/trump-gaza-netanyahu" target="_blank">Trump calls for Gaza deal, slams Netanyahu trial</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-29 09:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/jun/29/activists-boniface-mwangi-agather-atuhaire-tanzania" target="_blank">‘We won’t let them get away with this’: activists to sue Tanzania’s government over ‘sexual torture’</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-06-29 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: &#x27;One Big Beautiful Bill&#x27; clears 1st procedural hurdle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: &#x27;One Big Beautiful Bill&#x27; clears 1st procedural hurdle</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-29 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/fa6f14d0-54ab-11f0-a2ff-17a82c2e8bc4.jpg" alt="Make healthy food more appealing, government tells supermarkets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5xzpmxzgo" target="_blank">Make healthy food more appealing, government tells supermarkets</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 02:59</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pratikmahalle/keda-smarter-scaling-for-kubernetes-event-driven-and-effortless-6a8" target="_blank">KEDA: Smarter Scaling for Kubernetes – Event-Driven and Effortless</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 09:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n" target="_blank">Exploring High Efficiency Web Analysis Results（1751186924150700）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 08:48</span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/nube_colectiva_nc/como-funciona-un-agente-de-inteligencia-artificial-38oj" target="_blank">¿Cómo Funciona un Agente de Inteligencia Artificial?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8d9a8f47/performance-first-web-rust-framework-high-throughput1751166441773800-51pk" target="_blank">Performance First Web Rust Framework High Throughput（1751166441773800）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 03:07</span>
             </div>
         </div>
 </div>
@@ -367,8 +369,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 122 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 122 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
