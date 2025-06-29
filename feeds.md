@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 17:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-06-29 18:01:43 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis says he&#x27;s not running for re-election in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819" target="_blank">GOP Sen. Thom Tillis says he&#x27;s not running for re-election in North Carolina</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-29 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450282/u-n-nuclear-watchdog-says-iran-could-enrich-uranium-again-in-a-matter-of-months" target="_blank">U.N. nuclear watchdog says Iran could enrich uranium again in &#x27;a matter of months&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-29 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crl0j2ggr1jo" target="_blank">Man arrested over murder of pregnant mother</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751199544244_tdy_sun_nobles_senate_spending_bill_250629_1920x1080-bvrh2l.jpg" alt="Senate Advances Trump’s Signature ‘Big, Beautiful’ Spending Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-s-big-beautiful-bill-passes-major-hurdle-in-senate-242430533729" target="_blank">Senate Advances Trump’s Signature ‘Big, Beautiful’ Spending Bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-29 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/29/police-clash-with-protesters-in-serbia-as-tens-of-thousands-demand-election?traffic_source=rss" target="_blank">Police clash with protesters in Serbia as tens of thousands demand election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 12:11</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jberesford94/text-based-games-and-how-to-make-them-4igj" target="_blank">Text Based Games and How to Make Them</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/doi/10.1126/sciadv.ads7908" target="_blank">Personal care products disrupt the human oxidation field</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-29 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3" target="_blank">Python GIL Removal Reveals Second, Stronger GIL Behind It</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -203,24 +220,6 @@
                 <span class="time">2025-06-29 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-More-Cyan-Skillfish-2025" target="_blank">AMD Prepares Linux Driver Support For New APUs Still Relying On RDNA1 Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-29 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8d9a8f47/critical-security-importance-digital-age-web-techniques1751197804668800-4g8c" target="_blank">Critical Security Importance Digital Age Web Techniques（1751197804668800）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2482773135.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Checking in on Project 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/checking-in-on-project-2025.html" target="_blank">Checking in on Project 2025</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/tiktok-sign-culver-city-getty.jpg" alt="Trump Says “Very Wealthy People” Are Ready to Buy TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-launch-wild-new-project-to-build-a-human-genome-from-scratch-2000620762" target="_blank">Scientists Launch Wild New Project to Build a Human Genome From Scratch</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4dafed9d49dba5935367c97801022129.jpg" alt="The Week&#x27;s Top Tips For Oblivion Remastered, Dune: Awakening, And More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244" target="_blank">The Week&#x27;s Top Tips For Oblivion Remastered, Dune: Awakening, And More</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-29 13:00</span>
             </div>
         </div>
 </div>
@@ -372,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 148 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 151 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
