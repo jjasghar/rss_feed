@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 16:01:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-29 17:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/6/29/will-iran-double-down-on-its-nuclear-programme-after-the-war?traffic_source=rss" target="_blank">Will Iran double down on its nuclear programme after the war?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +103,29 @@
                 <span class="time">2025-06-29 12:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450152/russia-attack-ukraine" target="_blank">Russia launches record aerial attack on Ukraine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-29 11:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/" target="_blank">Trump says he’s found a buyer for TikTok</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-29 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai" target="_blank">Hollywood&amp;#8217;s pivot to AI video has a prompting problem</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f5aa9313641784030d4a6/master/pass/The%20Best%20Power%20Banks%20for%20All%20Your%20Devices_.png" alt="23 Best Power Banks (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer" target="_blank">Apple’s racing movie is finally here</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-29 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Photo-BCI-participant-is-being-connected-to-the-BCI-system-by-researcher-Iacobacci-500x500.jpg" alt="A neural brain implant provides near instantaneous speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/06/a-neural-brain-implant-provides-near-instantaneous-speech/" target="_blank">A neural brain implant provides near instantaneous speech</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-29 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/" target="_blank">Authors call on publishers to limit their use of AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-28 20:51</span>
             </div>
         </div>
 </div>
@@ -241,6 +250,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/tiktok-sign-culver-city-getty.jpg" alt="Trump Says “Very Wealthy People” Are Ready to Buy TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-says-very-wealthy-people-are-ready-to-buy-tiktok-2000621910" target="_blank">Trump Says “Very Wealthy People” Are Ready to Buy TikTok</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 16:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/d288a7719904870b2cf82b574bbea3a0.jpg" alt="CEOs Are Quietly Telling Us the Truth: AI Is Replacing You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244" target="_blank">The Week&#x27;s Top Tips For Oblivion Remastered, Dune: Awakening, And More</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Lord-Bishop-Snow-in-his-official-portrait.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/church-of-england-bishop-martyn-snow-accused-stalking-victim-of-witchcraft-to-protect-preacher.html" target="_blank">Church of England bishop Martyn Snow accused stalking victim of &quot;witchcraft&quot; to protect preacher</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 12:58</span>
             </div>
         </div>
 </div>
@@ -363,8 +372,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 84 | 📡 Total Sources: 44 | 📸 With Images: 145 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 86 | 📡 Total Sources: 44 | 📸 With Images: 148 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
