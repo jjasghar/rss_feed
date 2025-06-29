@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-06-28 23:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 00:05:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, June 28, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/" target="_blank">Authors call on publishers to limit their use of AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-28 20:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68604739fe97b5991f97c695/master/pass/2032109653" alt="OpenAI Loses 4 Key Researchers to Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -151,20 +156,20 @@
                 <span class="time">2025-06-28 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f1374106fb0cb6e6aa9fb/master/pass/The%20Best%20Mesh%20Wi-Fi%20Systems.png" alt="6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-mesh-wifi-routers/" target="_blank">6 Best Mesh Wi-Fi Systems (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhoyipzh6xgcbagles6mo.png" alt="Juggling Memory: Arenas in Golang" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flew1x/juggling-memory-arenas-in-golang-5bm9" target="_blank">Juggling Memory: Arenas in Golang</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-28 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="time">2025-06-28 16:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/cloudflare-containers-beta/en/headerimage/generatedHeaderImage-1751121642456.jpg" alt="Cloudflare Launches Containers in Public Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/cloudflare-containers-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Launches Containers in Public Beta</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-28 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Alpine-2.00.png?fit=562%2C406&amp;quality=55&amp;ssl=1" alt="You can still use plain text email—and maybe you should" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/28/you-can-still-use-plain-text-email-and-maybe-you-should.html" target="_blank">You can still use plain text email—and maybe you should</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-28 23:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/Donald-Trump-and-Elon-Musk.jpg" alt="Elon Musk Launches a Scathing New Attack on Trump’s “Big, Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245" target="_blank">Games We&#x27;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#x27;s Takes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Erik-Satie.-Photo-Henri-Manuel-public-domain.jpg?fit=1080%2C828&amp;quality=60&amp;ssl=1" alt="A new album of lost Erik Satie works, 100 years after his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/28/a-new-album-of-lost-erik-satie-works-100-years-after-his-death.html" target="_blank">A new album of lost Erik Satie works, 100 years after his death</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-28 14:42</span>
             </div>
         </div>
 </div>
@@ -370,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 79 | 📡 Total Sources: 44 | 📸 With Images: 104 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 75 | 📡 Total Sources: 44 | 📸 With Images: 106 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
