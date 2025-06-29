@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 08:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-06-29 09:01:37 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/29/gauff-and-sabalenka-team-up-in-viral-tiktok-dance-before-wimbledon?traffic_source=rss" target="_blank">Gauff and Sabalenka team up in viral TikTok dance before Wimbledon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 08:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckg5xzpmxzgo" target="_blank">Make healthy food more appealing, government tells supermarkets</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Procedural vote on spending bill at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: Procedural vote on spending bill at risk</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-29 01:50</span>
             </div>
         </div>
 </div>
@@ -171,6 +166,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8d9a8f47/exploring-high-efficiency-web-analysis-results1751186924150700-343n" target="_blank">Exploring High Efficiency Web Analysis Results（1751186924150700）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jamesmcm.github.io/blog/no-ipv4/" target="_blank">Using the Internet without IPv4 connectivity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-29 08:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shreyan_01/from-scratch-to-saas-in-9-days-a-devs-journey-free-insights-1lle" target="_blank">From Scratch to SaaS in 9 Days: A Dev&#x27;s Journey + Free Insights</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-29 05:49</span>
@@ -203,24 +216,6 @@
                 <span class="time">2025-06-29 03:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/digoshirota/i-built-a-free-streaming-ui-with-nextjs-15-tailwind-free-on-github-full-version-on-gumroad-20ea" target="_blank">🎬 I built a free streaming UI with Next.js 15 + Tailwind – free on GitHub, full version on Gumroad!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bstqukaq70q4abb0wsm.png" alt="Move Over LLaMA: Tencent&#x27;s New Open LLM is Ready to Self-Host" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/code42cate/move-over-llama-tencents-new-open-llm-is-ready-to-self-host-a73" target="_blank">Move Over LLaMA: Tencent&#x27;s New Open LLM is Ready to Self-Host</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/airtags-apple.jpg" alt="If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/if-you-own-an-iphone-amazon-is-offering-a-free-airtag-prime-day-2000619896" target="_blank">If You Own an iPhone, Amazon Is Offering a Free AirTag Just Before Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-29 08:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Watch-F1-Austrian-GP-on-a-Free-Channel.jpg" alt="How to Watch the 2025 F1 Austrian GP on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-and-his-online-alpha-males-have-a-meltdown-over-nycs-newest-socialist-star-2000621801" target="_blank">Trump and His Online Alpha Males Have a Meltdown Over NYC’s Newest Socialist Star</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-28 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/demonslayer-castle.jpg" alt="The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-demon-slayer-infinity-castle-trailer-locks-in-for-the-end-2000621777" target="_blank">The ‘Demon Slayer: Infinity Castle’ Trailer Locks In For the End</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-28 18:50</span>
             </div>
         </div>
 </div>
@@ -372,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 83 | 📡 Total Sources: 44 | 📸 With Images: 120 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 85 | 📡 Total Sources: 44 | 📸 With Images: 122 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
