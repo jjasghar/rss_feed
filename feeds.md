@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 01:29:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-29 02:40:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, June 29, 2025 - 02:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-24-ap-gmh-250627_1751045339725_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Procedural vote on spending bill at risk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-trump-meet-national-security/?id=123109893" target="_blank">Trump admin live updates: Procedural vote on spending bill at risk</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-29 01:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/28/g-s1-75158/kisses-yes-bezos-no-protesters-say-as-bezos-wedding-stirs-controversy-in-venice" target="_blank">&#x27;Kisses yes, Bezos No,&#x27; protesters say, as Bezos wedding stirs controversy in Venice</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-29 01:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37f/live/ddee1480-5480-11f0-a2ff-17a82c2e8bc4.jpg" alt="Thousands party at Budapest Pride in clear message to Orban" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/28/inter-miami-vs-psg-fifa-club-world-cup-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Inter Miami: FIFA Club World Cup – team news, start time and lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-28 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/28/israeli-strikes-on-south-lebanon-kill-three-ministry?traffic_source=rss" target="_blank">Israeli attacks on southern Lebanon kill three people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-28 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-side-eye-gty-jt-250626_1750973925540_hpMain_4x3t_384.jpg" alt="A week of shifting descriptions of Iran attack spark ongoing questions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/week-shifting-descriptions-iran-attack-spark-ongoing-questions/story?id=123279659" target="_blank">A week of shifting descriptions of Iran attack spark ongoing questions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-28 18:48</span>
             </div>
         </div>
 </div>
@@ -162,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/digoshirota/i-built-a-free-streaming-ui-with-nextjs-15-tailwind-free-on-github-full-version-on-gumroad-20ea" target="_blank">🎬 I built a free streaming UI with Next.js 15 + Tailwind – free on GitHub, full version on Gumroad!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-29 01:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6bstqukaq70q4abb0wsm.png" alt="Move Over LLaMA: Tencent&#x27;s New Open LLM is Ready to Self-Host" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/rijultp/redis-for-maps-and-locations-understanding-geospatial-indexing-12ig" target="_blank">Redis for Maps and Locations: Understanding Geospatial Indexing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-28 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deno.com/blog/deno-v-oracle4" target="_blank">JavaScript Trademark Update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-28 18:52</span>
             </div>
         </div>
 </div>
@@ -366,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 76 | 📡 Total Sources: 44 | 📸 With Images: 110 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 77 | 📡 Total Sources: 44 | 📸 With Images: 112 |
+        🔄 Last Updated: 02:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
