@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 02:36:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 03:28:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450536/idaho-shooting-coeur-dalene-firefighters" target="_blank">&#x27;Heinous direct assault&#x27; on firefighters kills at least 2 in northern Idaho</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 01:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="&#x27;Heinous&#x27;: 2 dead, others injured after firefighters were ambushed responding to fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +96,6 @@
                 <span class="time">2025-06-29 22:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0de/live/3c326b50-552a-11f0-8485-7bd50fa63665.jpg" alt="US must rule out more strikes before new talks, Iranian minister tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20r18x8x05o" target="_blank">US must rule out more strikes before new talks, Iranian minister tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/" target="_blank">OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-06-29 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68617b3d6a290ee7248f4cb3/master/pass/2218344194" alt="OpenAI Leadership Responds to Meta Offers: ‘Someone Has Broken Into Our Home’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-meta-leadership-talent-rivalry/" target="_blank">OpenAI Leadership Responds to Meta Offers: ‘Someone Has Broken Into Our Home’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-29 19:07</span>
             </div>
         </div>
 <div class="story">
@@ -145,20 +155,20 @@
                 <span class="time">2025-06-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/apollo12-500x500-1751113488.jpg" alt="Ars reflects on Apollo 13 turning 30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/06/ars-reflects-on-apollo-13-turning-30/" target="_blank">Ars reflects on Apollo 13 turning 30</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-29 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/java-news-roundup-jun23-2025/en/headerimage/java-istock-image-01-1751233278153.jpg" alt="Java News Roundup: Jakarta EE 11 Released, Agent2Agent Java SDK, Kotlin, WildFly, JobRunr, Maven" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/java-news-roundup-jun23-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Jakarta EE 11 Released, Agent2Agent Java SDK, Kotlin, WildFly, JobRunr, Maven</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-30 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/06/gemini-agent-mode-android-studio/en/headerimage/gemini-agent-mode-android-studio-1751176618411.jpeg" alt="Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc4-Released" target="_blank">Linux 6.16-rc4 Released With AMD Cleaner Shader For More GPUs, Bcachefs Changes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-06-29 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dianaappinventor24_unica_/checklist-2l13" target="_blank">checklist</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 19:35</span>
             </div>
         </div>
 </div>
@@ -364,8 +365,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 170 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 173 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
