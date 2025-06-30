@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 13:11:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 14:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +110,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source" target="_blank">Why Automattic CEO Matt Mullenweg went to war over WordPress</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f6ebdb1f4b6aafb1586ad/master/pass/lenovo%20chromebook%20plus%2014%20review_.png" alt="Lenovo Chromebook Plus 14 Review: A Game-Changer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lenovo-chromebook-plus-14/" target="_blank">Lenovo Chromebook Plus 14 Review: A Game-Changer</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs" target="_blank">Google bets on fusion power as its greenhouse gas emissions grow</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-30 13:00</span>
@@ -141,29 +160,47 @@
                 <span class="time">2025-06-30 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-500x500-1750868871.jpg" alt="Android 16 review: Post-hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/06/android-16-review-post-hype/" target="_blank">Android 16 review: Post-hype</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/master/pass/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png" alt="13 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-french-press/" target="_blank">13 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-30 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/06/30/reliability-for-unreliable-llms/" target="_blank">Reliability for unreliable LLMs</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-06-30 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/faidterence/adding-flavors-to-your-flutter-app-from-one-codebase-to-multiple-experiences-1972" target="_blank">Adding Flavors to Your Flutter App: From One Codebase to Multiple Experiences</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Clock-Wayland-PIP" target="_blank">KDE Improving Its Clock With Wayland Picture-In-Picture Protocol</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-30 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/M4THYOU/TokenDagger" target="_blank">Show HN: TokenDagger – A tokenizer faster than OpenAI&#x27;s Tiktoken</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 12:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,42 +217,6 @@
                 <span class="title"><a href="https://dev.to/devabdul/smm-cheat-sheet-2025-edition-3bkg" target="_blank">SMM Cheat Sheet – 2025 Edition</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/anthropic-artifacts-app/en/headerimage/generatedHeaderImage-1751235341343.jpg" alt="Anthropic Upgrades App-Building Capabilities to Claude Artifacts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/anthropic-artifacts-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Upgrades App-Building Capabilities to Claude Artifacts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-30 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/docker-size-dive/en/headerimage/docker-size-dive-header-1751012053381.jpg" alt="Article: Why Is My Docker Image So Big? A Deep Dive with ‘dive’ to Find the Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/docker-size-dive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Why Is My Docker Image So Big? A Deep Dive with ‘dive’ to Find the Bloat</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd" target="_blank">Trends in the frontend tech stack in 2025: What you need to know for long-term growth</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Release-Turns-3-Months" target="_blank">It&#x27;s Now Been Three Months Since The Last AerynOS Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-30 10:46</span>
             </div>
         </div>
 </div>
@@ -256,6 +257,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e8f6b5ee68eceefc558de7de2f175854.jpg" alt="Our Favorite Cosplay From Dream Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dream-con-2025-cosplay-x-men-megan-thee-stallion-1851785306" target="_blank">Our Favorite Cosplay From Dream Con 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-30 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/fisk11-edit-1.jpg?fit=1200%2C1757&amp;quality=60&amp;ssl=1" alt="Harold Fisk&#x27;s stunning 1944 maps show how the Mississippi River changed course over thousands of years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/harold-fisks-stunning-1944-maps-show-how-the-mississippi-river-changed-course-over-thousands-of-years.html" target="_blank">Harold Fisk&#x27;s stunning 1944 maps show how the Mississippi River changed course over thousands of years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYZ9R5TNZHNZ6VGPQYARCF4K/hero-image.jpg" alt="Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -289,24 +308,6 @@
                 <span class="title"><a href="https://gizmodo.com/is-crypto-in-a-bubble-again-2000621921" target="_blank">Is Crypto in a Bubble (Again)?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-30 03:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/rfkJr-e1745491682334.jpeg?fit=1218%2C760&amp;quality=60&amp;ssl=1" alt="RFK Jr admits dental cavities may result from his proposed ban on fluoridation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/rfk-jr-admits-dental-cavities-may-result-from-his-proposed-ban-on-fluoridation.html" target="_blank">RFK Jr admits dental cavities may result from his proposed ban on fluoridation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/NordVPN-Amazon-Gift-Card-Bundle.jpeg" alt="NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nordvpn-is-giving-away-amazon-gift-cards-heres-how-to-claim-yours-2000620103" target="_blank">NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 22:45</span>
             </div>
         </div>
 </div>
@@ -374,6 +375,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="Dehumidifier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3109/" target="_blank">Dehumidifier</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-06-30 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1750827927-20250629.png" alt="Saturday Morning Breakfast Cereal - Self" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -387,8 +397,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 97 | 📡 Total Sources: 44 | 📸 With Images: 197 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 104 | 📡 Total Sources: 44 | 📸 With Images: 201 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
