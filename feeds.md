@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 06:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-06-30 07:02:30 UTC -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/30/nx-s1-5451242/canada-us-trade-talks-tech-carney-trump" target="_blank">Canadian prime minister says U.S. trade talks resume after Canada rescinded tech tax</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751260437759_now_brk_idaho_update_shooter_dead_250629_1920x1080-kahl0d.jpg" alt="&#x27;We have one dead shooter&#x27;: Officials give update in Idaho attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/authorities-believe-there-was-only-one-gunman-in-idaho-attack-242446917884" target="_blank">&#x27;We have one dead shooter&#x27;: Officials give update in Idaho attack</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-30 05:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450536/idaho-shooting-coeur-dalene-firefighters" target="_blank">&#x27;Heinous direct assault&#x27; on firefighters kills at least 2 in northern Idaho</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-30 01:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="&#x27;Heinous&#x27;: 2 dead, others injured after firefighters were ambushed responding to fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">&#x27;Heinous&#x27;: 2 dead, others injured after firefighters were ambushed responding to fire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-30 01:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc1/live/151f46b0-536c-11f0-b4be-8f7caf53b80c.jpg" alt="Covid inquiry to look at impact on care services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62dg6xvy6no" target="_blank">Covid inquiry to look at impact on care services</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-30 01:10</span>
             </div>
         </div>
 </div>
@@ -367,8 +369,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 94 | 📡 Total Sources: 44 | 📸 With Images: 182 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 95 | 📡 Total Sources: 44 | 📸 With Images: 183 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
