@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 01:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 02:36:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/06/gemini-agent-mode-android-studio/en/headerimage/gemini-agent-mode-android-studio-1751176618411.jpeg" alt="Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/gemini-agent-mode-android-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-30 01:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
@@ -207,15 +213,6 @@
                 <span class="time">2025-06-29 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/nvidia-gb200/en/headerimage/generatedHeaderImage-1751155071629.jpg" alt="Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/nvidia-gb200/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-29 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -254,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/product_335802_product_shots1-2-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Just like new! This refurbished chromebook works in four modes — 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/just-like-new-this-refurbished-chromebook-works-in-four-modes-84-off.html" target="_blank">Just like new! This refurbished chromebook works in four modes — 84% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/residentevil-requiem.jpg" alt="‘Resident Evil: Requiem’ Will Refocus On the Series’ Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/29/checking-in-on-project-2025.html" target="_blank">Checking in on Project 2025</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-29 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/tiktok-sign-culver-city-getty.jpg" alt="Trump Says “Very Wealthy People” Are Ready to Buy TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-says-very-wealthy-people-are-ready-to-buy-tiktok-2000621910" target="_blank">Trump Says “Very Wealthy People” Are Ready to Buy TikTok</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 16:33</span>
             </div>
         </div>
 </div>
@@ -367,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 168 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 170 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
