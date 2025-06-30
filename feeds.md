@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 04:10:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-30 05:03:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 04:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jun/30/tsolo-thakeli-sam-maketane-lesotho-activist-unemployment-video" target="_blank">Lesotho activist arrested after video on unemployment rates angers prime minister</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-06-30 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62dg6xvy6no" target="_blank">Covid inquiry to look at impact on care services</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-30 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450322/pride-march-new-york-budapest-san-francisco" target="_blank">Marchers cap Pride Month with celebration and protest</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 00:10</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp4lj6yr5nsy5k4oy1au.png" alt="Documentation That Developers Actually Read: The Netflix Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i" target="_blank">Documentation That Developers Actually Read: The Netflix Approach</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 04:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/06/java-news-roundup-jun23-2025/en/headerimage/java-istock-image-01-1751233278153.jpg" alt="Java News Roundup: Jakarta EE 11 Released, Agent2Agent Java SDK, Kotlin, WildFly, JobRunr, Maven" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +219,6 @@
                 <span class="time">2025-06-29 22:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc4-Released" target="_blank">Linux 6.16-rc4 Released With AMD Cleaner Shader For More GPUs, Bcachefs Changes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-29 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Bullies Canada Into Killing Its Big Tech Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-bullies-canada-into-killing-its-big-tech-tax-2000621923" target="_blank">Trump Bullies Canada Into Killing Its Big Tech Tax</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 04:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/11/f49a044d19bd3b833ac04154d28540ee.jpg" alt="Is Crypto in a Bubble (Again)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/resident-evil-requiem-will-refocus-on-the-series-past-2000621811" target="_blank">‘Resident Evil: Requiem’ Will Refocus On the Series’ Past</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/elon-musk-child-april-13-2025.jpg" alt="Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-returns-to-politics-by-trolling-iran-and-torching-trumps-big-bill-2000621915" target="_blank">Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 18:53</span>
             </div>
         </div>
 </div>
@@ -371,8 +370,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 92 | 📡 Total Sources: 44 | 📸 With Images: 178 |
-        🔄 Last Updated: 04:10 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 94 | 📡 Total Sources: 44 | 📸 With Images: 182 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
