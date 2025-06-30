@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 03:28:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 04:10:07 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-30 03:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/us-senate-begins-debate-on-trumps-big-beautiful-bill?traffic_source=rss" target="_blank">US Senate begins debate on Trump’s ‘Big, Beautiful Bill’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 03:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,39 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc1/live/151f46b0-536c-11f0-b4be-8f7caf53b80c.jpg" alt="Covid inquiry to look at impact on care services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62dg6xvy6no" target="_blank">Covid inquiry to look at impact on care services</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-30 01:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450322/pride-march-new-york-budapest-san-francisco" target="_blank">Marchers cap Pride Month with celebration and protest</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-30 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 dead in Idaho after gunman ambushes firefighters responding to brush fire: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">2 dead in Idaho after gunman ambushes firefighters responding to brush fire: Sheriff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-30 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/idaho_1751236233662_hpMain_4x3t_384.jpeg" alt="Firefighters ambushed by gunman while responding to brush fire in Idaho: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">Firefighters ambushed by gunman while responding to brush fire in Idaho: Sheriff</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-29 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250625-alligator-alcatraz-se-500p-92aaa4.jpg" alt="Trump expected to visit the &#x27;Alligator Alcatraz&#x27; detention facility this week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/immigration/trump-likely-visit-alligator-alcatraz-rcna215851" target="_blank">Trump expected to visit the &#x27;Alligator Alcatraz&#x27; detention facility this week</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-29 22:19</span>
             </div>
         </div>
 </div>
@@ -243,6 +249,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/11/f49a044d19bd3b833ac04154d28540ee.jpg" alt="Is Crypto in a Bubble (Again)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/is-crypto-in-a-bubble-again-2000621921" target="_blank">Is Crypto in a Bubble (Again)?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 03:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/rfkJr-e1745491682334.jpeg?fit=1218%2C760&amp;quality=60&amp;ssl=1" alt="RFK Jr admits dental cavities may result from his proposed ban on fluoridation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/rfk-jr-admits-dental-cavities-may-result-from-his-proposed-ban-on-fluoridation.html" target="_blank">RFK Jr admits dental cavities may result from his proposed ban on fluoridation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 03:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/NordVPN-Amazon-Gift-Card-Bundle.jpeg" alt="NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-returns-to-politics-by-trolling-iran-and-torching-trumps-big-bill-2000621915" target="_blank">Elon Musk Returns to Politics by Trolling Iran and Torching Trump’s Big Bill</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/orcas-shutterstock_1081479503.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Love is in the ocean: Killer whales seen French kissing in Norway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/love-is-in-the-ocean-killer-whales-seen-french-kissing-in-norway.html" target="_blank">Love is in the ocean: Killer whales seen French kissing in Norway</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2482773135.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Checking in on Project 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/checking-in-on-project-2025.html" target="_blank">Checking in on Project 2025</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 17:20</span>
             </div>
         </div>
 </div>
@@ -365,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 173 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 92 | 📡 Total Sources: 44 | 📸 With Images: 178 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
