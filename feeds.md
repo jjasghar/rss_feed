@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 14:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 15:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/30/israel-attacks-palestinians-forced-to-evacuate-north-gaza?traffic_source=rss" target="_blank">Israel attacks Palestinians forced to evacuate north Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-30 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/CAP_1-gin1jd.jpg" alt="Senate ‘vote-a-rama’ on GOP agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-senate-vote-a-rama-on-gop-agenda-bill-242456133544" target="_blank">Senate ‘vote-a-rama’ on GOP agenda bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-30 12:19</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +96,29 @@
                 <span class="time">2025-06-30 09:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/6/30/feelings-running-high-over-politics-at-glastonbury-this-year?traffic_source=rss" target="_blank">“Feelings running high” over politics at Glastonbury this year</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 08:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/" target="_blank">Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-500x500.jpg" alt="The second launch of New Glenn will aim for Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/" target="_blank">The second launch of New Glenn will aim for Mars</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 14:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +155,29 @@
                 <span class="time">2025-06-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans" target="_blank">LLMs are optimizing the adult industry</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f6984f3c91f1a1ba5e76a/master/pass/The%20Best%20Wireless%20Chargers%20to%20Refuel%20Your%20Phone.png" alt="25 Best Wireless Chargers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-wireless-chargers/" target="_blank">25 Best Wireless Chargers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-30 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/almalinux-10-rocky-linux-10" target="_blank">The Best Boring Benchmarks: Rocky Linux 10 &amp; AlmaLinux 10 Performance Against RHEL 10</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-30 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18479229&w=600" alt="Transform Settlement Process Using AWS Data Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-data-pipeline-modernization-settlement-etl" target="_blank">Transform Settlement Process Using AWS Data Pipeline</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://github.com/M4THYOU/TokenDagger" target="_blank">Show HN: TokenDagger – A tokenizer faster than OpenAI&#x27;s Tiktoken</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-30 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-get-a-job-at-canonical" target="_blank">How to get a job at Canonical</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-06-30 11:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devabdul/smm-cheat-sheet-2025-edition-3bkg" target="_blank">SMM Cheat Sheet – 2025 Edition</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 11:49</span>
             </div>
         </div>
 </div>
@@ -257,6 +252,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Thunderbolts-home-exclusive.jpg" alt="Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/thunderbolts-exclusive-bts-clip-bob-sentry-void-spoilers-2000620982" target="_blank">Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/mamdani.jpg?fit=1080%2C603&amp;quality=60&amp;ssl=1" alt="Remembering Zohran Mamdani&#x27;s short-lived rap career" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/remembering-zohran-mamdanis-short-lived-rap-career.html" target="_blank">Remembering Zohran Mamdani&#x27;s short-lived rap career</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 14:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e8f6b5ee68eceefc558de7de2f175854.jpg" alt="Our Favorite Cosplay From Dream Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -290,24 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/millions-of-brother-printers-are-full-of-hackable-bugs-2000621683" target="_blank">Millions of Brother Printers Are Full of Hackable Bugs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-30 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Bullies Canada Into Killing Its Big Tech Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-bullies-canada-into-killing-its-big-tech-tax-2000621923" target="_blank">Trump Bullies Canada Into Killing Its Big Tech Tax</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/11/f49a044d19bd3b833ac04154d28540ee.jpg" alt="Is Crypto in a Bubble (Again)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-crypto-in-a-bubble-again-2000621921" target="_blank">Is Crypto in a Bubble (Again)?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 03:32</span>
             </div>
         </div>
 </div>
@@ -397,8 +392,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 104 | 📡 Total Sources: 44 | 📸 With Images: 201 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 35 | 📅 Last 24h: 104 | 📡 Total Sources: 44 | 📸 With Images: 206 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
