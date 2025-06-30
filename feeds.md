@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 16:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 17:01:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd0/live/30fe6f10-55c3-11f0-a1ca-8125e59f5995.jpg" alt="Man, 92, guilty of 1967 rape and murder of woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgk3jyl5prvo" target="_blank">Man, 92, guilty of 1967 rape and murder of woman</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-30 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85b/live/ebccc0d0-55c8-11f0-9074-8989d8c97d87.jpg" alt="Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +99,20 @@
                 <span class="time">2025-06-30 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink" target="_blank">Click, speak, move: These brain implants are poised to help people with disabilities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2212661255-500x500.jpg" alt="Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/meta-tiktok-cant-toss-wrongful-death-suit-from-mom-of-subway-surfing-teen/" target="_blank">Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 16:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2025-06-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/New-Glenn-1-500x500.jpg" alt="The second launch of New Glenn will aim for Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/" target="_blank">The second launch of New Glenn will aim for Mars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 14:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18479287&w=600" alt="Maximizing Productivity: GitHub Copilot With Custom Instructions in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/github-copilot-custom-instructions-vs-code" target="_blank">Maximizing Productivity: GitHub Copilot With Custom Instructions in VS Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +217,6 @@
                 <span class="time">2025-06-30 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/faidterence/adding-flavors-to-your-flutter-app-from-one-codebase-to-multiple-experiences-1972" target="_blank">Adding Flavors to Your Flutter App: From One Codebase to Multiple Experiences</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +255,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/NASA-Mars-Orbiter.jpg" alt="Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-proposed-budget-threatens-key-part-of-mission-to-send-astronauts-to-mars-2000622058" target="_blank">Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4b4525ca641eded69a76077c2d90102a.jpg" alt="Assassin&#x27;s Creed Black Flag Voice Actor Teases Previously Reported Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/assassins-creed-4-black-flag-voice-actor-teases-remake-1851785327" target="_blank">Assassin&#x27;s Creed Black Flag Voice Actor Teases Previously Reported Remake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-30 16:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/ball.jpg?fit=1200%2C767&amp;quality=60&amp;ssl=1" alt="This bouncing ball math problem stumps most people — can you solve it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -286,24 +306,6 @@
                 <span class="title"><a href="https://kotaku.com/dream-con-2025-cosplay-x-men-megan-thee-stallion-1851785306" target="_blank">Our Favorite Cosplay From Dream Con 2025</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-30 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/fisk11-edit-1.jpg?fit=1200%2C1757&amp;quality=60&amp;ssl=1" alt="Harold Fisk&#x27;s stunning 1944 maps show how the Mississippi River changed course over thousands of years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/harold-fisks-stunning-1944-maps-show-how-the-mississippi-river-changed-course-over-thousands-of-years.html" target="_blank">Harold Fisk&#x27;s stunning 1944 maps show how the Mississippi River changed course over thousands of years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYZ9R5TNZHNZ6VGPQYARCF4K/hero-image.jpg" alt="Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/change-meta-ai-photo-permissions-setting?utm_medium=RSS" target="_blank">Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-30 13:00</span>
             </div>
         </div>
 </div>
@@ -384,8 +386,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 108 | 📡 Total Sources: 44 | 📸 With Images: 211 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 110 | 📡 Total Sources: 44 | 📸 With Images: 217 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
