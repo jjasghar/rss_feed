@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 17:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 18:01:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/30/nx-s1-5451732/trump-harvard-civil-rights-jewish-students-investigation" target="_blank">Federal investigation finds Harvard violated civil rights law</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a7d/live/93f48d60-55d8-11f0-a3bc-597520cbf00f.png" alt="Labour MPs press Kendall on rollout of benefit changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg55y84vvlo" target="_blank">Labour MPs press Kendall on rollout of benefit changes</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-30 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd0/live/30fe6f10-55c3-11f0-a1ca-8125e59f5995.jpg" alt="Man, 92, guilty of 1967 rape and murder of woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +100,20 @@
                 <span class="time">2025-06-30 12:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/high-court-allows-uk-to-keep-exporting-f-35-jet-parts-to-israel?traffic_source=rss" target="_blank">High Court allows UK to keep exporting F-35 jet parts to Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250522-budget-bill-RS-bc8625.jpg" alt="Senate to begin voting marathon on GOP agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-agenda-bill-senate-tillis-medicaid-immigration-live-updates-rcna215837" target="_blank">Senate to begin voting marathon on GOP agenda bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-30 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/tailor-a-headless-erp-startup-raises-22m-series-a/" target="_blank">Tailor, a ‘headless’ ERP startup, raises $22M Series A</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2212661255-500x500.jpg" alt="Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,29 @@
                 <span class="time">2025-06-30 15:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/" target="_blank">Tiny AI ERP startup Campfire is winning so many startups from NetSuite, Accel led a $35M Series A</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480809&w=600" alt="DevOps Remediation Architecture for Azure CDN From Edgio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/azure-cdn-edgio-devops-remediation" target="_blank">DevOps Remediation Architecture for Azure CDN From Edgio</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/" target="_blank">I Write Type Safe Generic Data Structures in C</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18479287&w=600" alt="Maximizing Productivity: GitHub Copilot With Custom Instructions in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,29 +218,20 @@
                 <span class="time">2025-06-30 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18479229&w=600" alt="Transform Settlement Process Using AWS Data Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-data-pipeline-modernization-settlement-etl" target="_blank">Transform Settlement Process Using AWS Data Pipeline</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/06/30/reliability-for-unreliable-llms/" target="_blank">Reliability for unreliable LLMs</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-06-30 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/" target="_blank">Senator Chides FBI for Weak Advice on Mobile Security</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-06-30 17:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -254,6 +264,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/81c79847fc856c696737fd4565c0cb9b.png" alt="Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352" target="_blank">Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-30 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/30fe6f10-55c3-11f0-a1ca-8125e59f5995.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="92 year-old man convicted of murder in 58 year-old cold case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/92-year-old-man-convicted-of-murder-in-58-year-old-cold-case.html" target="_blank">92 year-old man convicted of murder in 58 year-old cold case</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 17:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/NASA-Mars-Orbiter.jpg" alt="Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,24 +316,6 @@
                 <span class="title"><a href="https://gizmodo.com/thunderbolts-exclusive-bts-clip-bob-sentry-void-spoilers-2000620982" target="_blank">Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/mamdani.jpg?fit=1080%2C603&amp;quality=60&amp;ssl=1" alt="Remembering Zohran Mamdani&#x27;s short-lived rap career" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/remembering-zohran-mamdanis-short-lived-rap-career.html" target="_blank">Remembering Zohran Mamdani&#x27;s short-lived rap career</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e8f6b5ee68eceefc558de7de2f175854.jpg" alt="Our Favorite Cosplay From Dream Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dream-con-2025-cosplay-x-men-megan-thee-stallion-1851785306" target="_blank">Our Favorite Cosplay From Dream Con 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-30 13:40</span>
             </div>
         </div>
 </div>
@@ -367,6 +377,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/30/gabe-s-reading-list" target="_blank">Gabe&#x27;s Reading List</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-06-30 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1750828004-20250630.png" alt="Saturday Morning Breakfast Cereal - Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/watch" target="_blank">Saturday Morning Breakfast Cereal - Watch</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-06-30 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/06/30/28-decades-later" target="_blank">28 Decades Later</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-06-30 07:01</span>
@@ -386,8 +414,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 110 | 📡 Total Sources: 44 | 📸 With Images: 217 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 112 | 📡 Total Sources: 44 | 📸 With Images: 223 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
