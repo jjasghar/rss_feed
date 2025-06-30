@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 21:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 22:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/30/1255015997/medicaid-cuts-rural-healthcare-tillis-senate-budget" target="_blank">Why a GOP senator says the budget bill breaks Trump&#x27;s promise</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/elon-musk-4-gty-gmh-250630_1751316590659_hpMain_4x3t_384.jpg" alt="Musk threatens to primary members of Congress who vote for Trump&#x27;s megabill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/musk-threatens-primary-members-congress-vote-trumps-megabill/story?id=123354700" target="_blank">Musk threatens to primary members of Congress who vote for Trump&#x27;s megabill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-30 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +100,6 @@
                 <span class="time">2025-06-30 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/30/nx-s1-5451732/trump-harvard-civil-rights-jewish-students-investigation" target="_blank">Federal investigation finds Harvard violated civil rights law</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a7d/live/93f48d60-55d8-11f0-a3bc-597520cbf00f.png" alt="Labour MPs press Kendall on rollout of benefit changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg55y84vvlo" target="_blank">Labour MPs press Kendall on rollout of benefit changes</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-30 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -103,10 +108,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/tesla-sends-driverless-model-y-from-factory-to-customer-to-promote-its-robotaxi-tech/" target="_blank">Tesla sends driverless Model Y from factory to customer to promote its robotaxi tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered" target="_blank">Apple’s AI Siri might be powered by OpenAI</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-06-30 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 36 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 36 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-30 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +159,20 @@
                 <span class="time">2025-06-30 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221649464-500x500.jpg" alt="Nearly 12 million people would lose health insurance under Senate GOP bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/06/nearly-12-million-people-would-lose-health-insurance-under-senate-gop-bill/" target="_blank">Nearly 12 million people would lose health insurance under Senate GOP bill</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale" target="_blank">Jackery&amp;#8217;s capable, solar-powered generator is nearly half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 18:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/logzio-dynatrace-observability/en/headerimage/generatedHeaderImage-1751315152854.jpg" alt="Logz.io and Dynatrace Innovations Shift Observability Into the AI Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/logzio-dynatrace-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Logz.io and Dynatrace Innovations Shift Observability Into the AI Age</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-30 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482863&w=600" alt="Tableau Dashboard Development Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/azure-cdn-edgio-devops-remediation" target="_blank">DevOps Remediation Architecture for Azure CDN From Edgio</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/" target="_blank">I write type-safe generic data structures in C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 16:55</span>
             </div>
         </div>
 </div>
@@ -260,6 +265,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/217361ffc60d494bdd0baaecebe6dc44.jpg" alt="Halo&#x27;s Future Will Be Revealed...In October, Says Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384" target="_blank">Halo&#x27;s Future Will Be Revealed...In October, Says Xbox</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-06-30 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ1836HKRTTQW89VERSTKP11/hero-image.jpg" alt="Seven Changes That Finally Helped Me Stick to My Home Fitness Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/seven-changes-that-helped-me-stick-to-my-home-fitness-routine?utm_medium=RSS" target="_blank">Seven Changes That Finally Helped Me Stick to My Home Fitness Routine</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Pencils-by-Sean.jpg?fit=1080%2C609&amp;quality=60&amp;ssl=1" alt="Tiny carvings in pencil cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -293,24 +316,6 @@
                 <span class="title"><a href="https://gizmodo.com/trumps-proposed-budget-threatens-key-part-of-mission-to-send-astronauts-to-mars-2000622058" target="_blank">Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-30 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4b4525ca641eded69a76077c2d90102a.jpg" alt="Assassin&#x27;s Creed Black Flag Voice Actor Teases Previously Reported Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-4-black-flag-voice-actor-teases-remake-1851785327" target="_blank">Assassin&#x27;s Creed Black Flag Voice Actor Teases Previously Reported Remake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-30 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/ball.jpg?fit=1200%2C767&amp;quality=60&amp;ssl=1" alt="This bouncing ball math problem stumps most people — can you solve it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/this-bouncing-ball-math-problem-stumps-most-people-can-you-solve-it.html" target="_blank">This bouncing ball math problem stumps most people — can you solve it?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 15:42</span>
             </div>
         </div>
 </div>
@@ -409,8 +414,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 119 | 📡 Total Sources: 44 | 📸 With Images: 232 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 126 | 📡 Total Sources: 44 | 📸 With Images: 238 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
