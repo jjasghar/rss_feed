@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 19:01:29 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-06-30 20:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/6/30/who-will-feed-sudanese-refugees?traffic_source=rss" target="_blank">Who will feed Sudanese refugees?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/combs-trial-sketch-05-rt-jef-250630_1751308117744_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +96,29 @@
                 <span class="time">2025-06-30 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85b/live/ebccc0d0-55c8-11f0-9074-8989d8c97d87.jpg" alt="Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62884y1pl5o" target="_blank">Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-30 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/fintech-bolt-progresses-its-turnaround-by-landing-klarna-as-a-partner/" target="_blank">Fintech Bolt progresses its turnaround by landing Klarna as a partner</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit" target="_blank">The government’s Apple antitrust lawsuit is still on</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 19:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +155,29 @@
                 <span class="time">2025-06-30 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2212661255-500x500.jpg" alt="Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/meta-tiktok-cant-toss-wrongful-death-suit-from-mom-of-subway-surfing-teen/" target="_blank">Meta, TikTok can’t toss wrongful death suit from mom of “subway surfing” teen</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/" target="_blank">Ex-Meta engineers have built an AI tool to plan every detail of your trip</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgedztf1q0hpf9n0ku5w.jpg" alt="🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/idavidov13/how-to-build-a-scalable-qa-framework-with-advanced-typescript-patterns-5eh5" target="_blank">🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482831&w=600" alt="Streamlining DevOps: How Containers and Kubernetes Deliver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/streamlining-devops-how-containers-and-kubernetes" target="_blank">Streamlining DevOps: How Containers and Kubernetes Deliver</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482818&w=600" alt="Rust: The Must-Adopt Language for Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/github-copilot-custom-instructions-vs-code" target="_blank">Maximizing Productivity: GitHub Copilot With Custom Instructions in VS Code</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imkarthikeyan/welcome-to-mdx-editor-3gdp" target="_blank">Welcome to MDX Editor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18242867&w=600" alt="Threat Modeling for Developers: Identifying Security Risks in Software Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/threat-modeling-for-developers-identifying-security-risks" target="_blank">Threat Modeling for Developers: Identifying Security Risks in Software Projects</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 15:00</span>
             </div>
         </div>
 </div>
@@ -414,8 +410,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 118 | 📡 Total Sources: 44 | 📸 With Images: 228 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 119 | 📡 Total Sources: 44 | 📸 With Images: 231 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
