@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 12:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 13:11:30 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/30/israel-attacks-palestinians-forced-to-evacuate-north-gaza?traffic_source=rss" target="_blank">Israel attacks Palestinians forced to evacuate north Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 12:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +100,29 @@
                 <span class="time">2025-06-30 08:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/firefighters-in-turkiye-battle-to-contain-wildfires-that-threaten?traffic_source=rss" target="_blank">Turkiye battles wildfires in Izmir for second day, evacuates areas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs" target="_blank">Google bets on fusion power as its greenhouse gas emissions grow</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/google-inks-its-first-fusion-power-deal-with-commonwealth-fusion-systems/" target="_blank">Google inks its first fusion power deal with Commonwealth Fusion Systems</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2025-06-30 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability" target="_blank">Hundreds of Brother printer models have an unpatchable security flaw</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/" target="_blank">Spotify revamps its Discover Weekly playlist after 10 years</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-get-a-job-at-canonical" target="_blank">How to get a job at Canonical</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-06-30 11:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-06-30 10:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/" target="_blank">The provenance memory model for C</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYZ9R5TNZHNZ6VGPQYARCF4K/hero-image.jpg" alt="Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/change-meta-ai-photo-permissions-setting?utm_medium=RSS" target="_blank">Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/db4cf10a6b738d6e0e439947bb1a1f72.jpg" alt="Millions of Brother Printers Are Full of Hackable Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +307,6 @@
                 <span class="title"><a href="https://gizmodo.com/nordvpn-is-giving-away-amazon-gift-cards-heres-how-to-claim-yours-2000620103" target="_blank">NordVPN Is Giving Away Amazon Gift Cards — Here’s How to Claim Yours</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/product_335802_product_shots1-2-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Just like new! This refurbished chromebook works in four modes — 84% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/29/just-like-new-this-refurbished-chromebook-works-in-four-modes-84-off.html" target="_blank">Just like new! This refurbished chromebook works in four modes — 84% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-29 21:00</span>
             </div>
         </div>
 </div>
@@ -390,8 +387,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 34 | 📅 Last 24h: 101 | 📡 Total Sources: 44 | 📸 With Images: 196 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 97 | 📡 Total Sources: 44 | 📸 With Images: 197 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
