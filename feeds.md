@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 00:05:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-06-30 01:29:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="&#x27;Heinous&#x27;: 2 dead, others injured after firefighters were ambushed responding to fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">&#x27;Heinous&#x27;: 2 dead, others injured after firefighters were ambushed responding to fire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-30 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/06/29/nx-s1-5450322/pride-march-new-york-budapest-san-francisco" target="_blank">Marchers cap Pride Month with celebration and protest</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 00:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 dead in Idaho after gunman ambushes firefighters responding to brush fire: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20r18x8x05o" target="_blank">US must rule out more strikes before new talks, Iranian minister tells BBC</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-06-29 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/29/eleven-killed-in-sudan-gold-mine-collapse-as-civil-war-rages?traffic_source=rss" target="_blank">Eleven killed in Sudan gold mine collapse as civil war rages</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/29/wildfire-risks-as-climate-change-fuels-extreme-heatwave-in-southern-europe?traffic_source=rss" target="_blank">Wildfire risks as climate change fuels extreme heatwave in Southern Europe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 20:19</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/" target="_blank">Use keyword-only arguments in Python dataclasses</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-06-30 00:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/09/pipewire-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Rename Audio Devices on Ubuntu with this ‘Simple’ App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/06/nvidia-gb200/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Nvidia&#x27;s GB200 NVL72 Supercomputer Achieves 2.7× Faster Inference on DeepSeek V2</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-06-29 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.vbang.dk/2025/06/29/tools-i-love-mise/" target="_blank">Tools I love: mise(-en-place)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-29 17:56</span>
             </div>
         </div>
 </div>
@@ -276,6 +272,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/orcas-shutterstock_1081479503.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Love is in the ocean: Killer whales seen French kissing in Norway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/29/love-is-in-the-ocean-killer-whales-seen-french-kissing-in-norway.html" target="_blank">Love is in the ocean: Killer whales seen French kissing in Norway</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-29 17:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/shutterstock_2482773135.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Checking in on Project 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -291,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-says-very-wealthy-people-are-ready-to-buy-tiktok-2000621910" target="_blank">Trump Says “Very Wealthy People” Are Ready to Buy TikTok</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-29 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/d288a7719904870b2cf82b574bbea3a0.jpg" alt="CEOs Are Quietly Telling Us the Truth: AI Is Replacing You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907" target="_blank">CEOs Are Quietly Telling Us the Truth: AI Is Replacing You</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 15:52</span>
             </div>
         </div>
 </div>
@@ -371,8 +367,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 165 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 87 | 📡 Total Sources: 44 | 📸 With Images: 168 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
