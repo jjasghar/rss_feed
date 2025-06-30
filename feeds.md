@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 18:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-06-30 19:01:29 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/combs-trial-sketch-05-rt-jef-250630_1751308117744_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-30 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/30/dutch-memorial-honours-palestinian-children-killed-in-gaza?traffic_source=rss" target="_blank">Dutch memorial honours Palestinian children killed in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 18:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +100,38 @@
                 <span class="time">2025-06-30 13:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/30/israel-attacks-palestinians-forced-to-evacuate-north-gaza?traffic_source=rss" target="_blank">Israel attacks Palestinians forced to evacuate north Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/CAP_1-gin1jd.jpg" alt="Senate ‘vote-a-rama’ on GOP agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-senate-vote-a-rama-on-gop-agenda-bill-242456133544" target="_blank">Senate ‘vote-a-rama’ on GOP agenda bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-30 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/netflix-teams-up-with-nasa-to-boost-its-live-tv-offering/" target="_blank">Netflix teams up with NASA to boost its live TV offering</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221649464-500x500.jpg" alt="Nearly 12 million people would lose health insurance under Senate GOP bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/06/nearly-12-million-people-would-lose-health-insurance-under-senate-gop-bill/" target="_blank">Nearly 12 million people would lose health insurance under Senate GOP bill</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale" target="_blank">Jackery&amp;#8217;s capable, solar-powered generator is nearly half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +159,20 @@
                 <span class="time">2025-06-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder" target="_blank">Tumblr’s move to WordPress and fediverse integration is ‘on hold’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f2ecb2b476b828a6e29af/master/pass/Update-%20How%20Do%20Pimple%20Patches%20Work__.png" alt="How Do Pimple Patches Work? Here’s Everything You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-do-pimple-patches-work/" target="_blank">How Do Pimple Patches Work? Here’s Everything You Need to Know</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-30 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2198835420-500x500-1751294554.jpg" alt="Trump’s tariff threat pushes Canada to scrap digital services tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/trumps-tariff-threat-pushes-canada-to-scrap-digital-services-tax/" target="_blank">Trump’s tariff threat pushes Canada to scrap digital services tax</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482818&w=600" alt="Rust: The Must-Adopt Language for Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-rust-modern-software-development" target="_blank">Rust: The Must-Adopt Language for Modern Software Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480809&w=600" alt="DevOps Remediation Architecture for Azure CDN From Edgio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/threat-modeling-for-developers-identifying-security-risks" target="_blank">Threat Modeling for Developers: Identifying Security Risks in Software Projects</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/almalinux-10-rocky-linux-10" target="_blank">The Best Boring Benchmarks: Rocky Linux 10 &amp; AlmaLinux 10 Performance Against RHEL 10</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-30 14:20</span>
             </div>
         </div>
 </div>
@@ -265,6 +265,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Pencils-by-Sean.jpg?fit=1080%2C609&amp;quality=60&amp;ssl=1" alt="Tiny carvings in pencil cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/tiny-carvings-in-pencil-cores.html" target="_blank">Tiny carvings in pencil cores</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 18:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/81c79847fc856c696737fd4565c0cb9b.png" alt="Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -307,15 +316,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/30/this-bouncing-ball-math-problem-stumps-most-people-can-you-solve-it.html" target="_blank">This bouncing ball math problem stumps most people — can you solve it?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-30 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Thunderbolts-home-exclusive.jpg" alt="Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/thunderbolts-exclusive-bts-clip-bob-sentry-void-spoilers-2000620982" target="_blank">Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 15:00</span>
             </div>
         </div>
 </div>
@@ -414,8 +414,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 112 | 📡 Total Sources: 44 | 📸 With Images: 223 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 118 | 📡 Total Sources: 44 | 📸 With Images: 228 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
