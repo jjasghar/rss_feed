@@ -1,33 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 10:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 11:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/06/30/nx-s1-5339708/brain-computer-interface-implants-disabilities-neuralink" target="_blank">Click, speak, move: These brain implants are poised to help people with disabilities</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-06-30 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c9/live/8ef20450-559c-11f0-960d-e9f1088a89fe.jpg" alt="Hundreds of families displaced by wave of Israeli air strikes on Gaza, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62884y1pl5o" target="_blank">Hundreds of families displaced by wave of Israeli air strikes on Gaza, witnesses say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-30 09:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +108,29 @@
                 <span class="time">2025-06-30 05:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jun/30/tsolo-thakeli-sam-maketane-lesotho-activist-unemployment-video" target="_blank">Lesotho activist arrested after video on unemployment rates angers prime minister</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-06-30 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-30 03:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/master/pass/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png" alt="13 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-french-press/" target="_blank">13 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-30 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability" target="_blank">Hundreds of Brother printer models have an unpatchable security flaw</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 10:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +167,38 @@
                 <span class="time">2025-06-29 19:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68617afbebd533b57f3bccb2/master/pass/OpenAI-Responds-to-Meta-Business-2213026842.jpg" alt="OpenAI Leadership Responds to Meta Offers: &#x27;Someone Has Broken Into Our Home&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-meta-leadership-talent-rivalry/" target="_blank">OpenAI Leadership Responds to Meta Offers: &#x27;Someone Has Broken Into Our Home&#x27;</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-29 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/" target="_blank">Trump says he’s found a buyer for TikTok</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-29 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/docker-size-dive/en/headerimage/docker-size-dive-header-1751012053381.jpg" alt="Article: Why Is My Docker Image So Big? A Deep Dive with ‘dive’ to Find the Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/docker-size-dive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Why Is My Docker Image So Big? A Deep Dive with ‘dive’ to Find the Bloat</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/smriti_webdev/trends-in-the-frontend-tech-stack-in-2025-what-you-need-to-know-for-long-term-growth-4fgd" target="_blank">Trends in the frontend tech stack in 2025: What you need to know for long-term growth</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Release-Turns-3-Months" target="_blank">It&#x27;s Now Been Three Months Since The Last AerynOS Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-06-30 10:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1gh1369y8fgzvj9k5bpx.png" alt="How To Integrate A Distributed Cache For Payment Lookups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,48 +209,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-retro-tools/" target="_blank">Relive the Golden Era: 5 Tools to Get Retro Feel on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-06-30 07:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp4lj6yr5nsy5k4oy1au.png" alt="Documentation That Developers Actually Read: The Netflix Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i" target="_blank">Documentation That Developers Actually Read: The Netflix Approach</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 04:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/" target="_blank">Bought myself an Ampere Altra system</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/" target="_blank">Bought an Ampere Altra System</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/java-news-roundup-jun23-2025/en/headerimage/java-istock-image-01-1751233278153.jpg" alt="Java News Roundup: Jakarta EE 11 Released, Agent2Agent Java SDK, Kotlin, WildFly, JobRunr, Maven" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/java-news-roundup-jun23-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Jakarta EE 11 Released, Agent2Agent Java SDK, Kotlin, WildFly, JobRunr, Maven</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-30 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/gemini-agent-mode-android-studio/en/headerimage/gemini-agent-mode-android-studio-1751176618411.jpeg" alt="Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/gemini-agent-mode-android-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-30 01:00</span>
             </div>
         </div>
 </div>
@@ -375,8 +386,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 92 | 📡 Total Sources: 44 | 📸 With Images: 187 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 97 | 📡 Total Sources: 44 | 📸 With Images: 190 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
