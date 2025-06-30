@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 08:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 09:02:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/6/30/feelings-running-high-over-politics-at-glastonbury-this-year?traffic_source=rss" target="_blank">“Feelings running high” over politics at Glastonbury this year</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 08:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +104,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">2 killed in Idaho after firefighters ambushed by gunfire, suspected gunman found dead</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-06-30 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/us-senate-begins-debate-on-trumps-big-beautiful-bill?traffic_source=rss" target="_blank">US Senate begins debate on Trump’s ‘Big, Beautiful Bill’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 03:08</span>
             </div>
         </div>
 </div>
@@ -164,12 +171,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1gh1369y8fgzvj9k5bpx.png" alt="How To Integrate A Distributed Cache For Payment Lookups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flutterwaveeng/how-to-integrate-a-distributed-cache-for-payment-lookups-3g3d" target="_blank">How To Integrate A Distributed Cache For Payment Lookups</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 08:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp4lj6yr5nsy5k4oy1au.png" alt="Documentation That Developers Actually Read: The Netflix Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i" target="_blank">Documentation That Developers Actually Read: The Netflix Approach</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/" target="_blank">Bought myself an Ampere Altra system</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 04:38</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/06/gemini-agent-mode-android-studio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Previews Gemini&#x27;s Agent Mode in Android Studio Narwhal</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-06-30 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/" target="_blank">Use keyword-only arguments in Python dataclasses</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-06-30 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/09/pipewire-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Rename Audio Devices on Ubuntu with this ‘Simple’ App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/rename-audio-devices-ubuntu-linux-pipewire" target="_blank">Rename Audio Devices on Ubuntu with this ‘Simple’ App</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-06-29 22:40</span>
             </div>
         </div>
 </div>
@@ -355,6 +362,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/06/30/28-decades-later" target="_blank">28 Decades Later</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-06-30 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1750827927-20250629.png" alt="Saturday Morning Breakfast Cereal - Self" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -368,8 +384,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 96 | 📡 Total Sources: 44 | 📸 With Images: 184 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 95 | 📡 Total Sources: 44 | 📸 With Images: 186 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
