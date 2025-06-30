@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 15:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 16:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85b/live/ebccc0d0-55c8-11f0-9074-8989d8c97d87.jpg" alt="Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62884y1pl5o" target="_blank">Israeli strike on Gaza seafront cafe kills at least 20 Palestinians, witnesses and rescuers say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-30 13:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +97,47 @@
                 <span class="time">2025-06-30 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c9/live/8ef20450-559c-11f0-960d-e9f1088a89fe.jpg" alt="Hundreds of families displaced by wave of Israeli air strikes on Gaza, witnesses say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62884y1pl5o" target="_blank">Hundreds of families displaced by wave of Israeli air strikes on Gaza, witnesses say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-30 09:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/former-meta-engineers-airial-travel-tool-helps-travelers-solve-logistics-planning-with-ai/" target="_blank">Ex-Meta engineers have built an AI tool to plan every detail of your trip</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder" target="_blank">Tumblr’s move to WordPress and fediverse integration is ‘on hold’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f2ecb2b476b828a6e29af/master/pass/Update-%20How%20Do%20Pimple%20Patches%20Work__.png" alt="How Do Pimple Patches Work? Here’s Everything You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-do-pimple-patches-work/" target="_blank">How Do Pimple Patches Work? Here’s Everything You Need to Know</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-30 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2198835420-500x500-1751294554.jpg" alt="Trump’s tariff threat pushes Canada to scrap digital services tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/06/trumps-tariff-threat-pushes-canada-to-scrap-digital-services-tax/" target="_blank">Trump’s tariff threat pushes Canada to scrap digital services tax</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 15:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -119,47 +156,29 @@
                 <span class="time">2025-06-30 14:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source" target="_blank">Why Automattic CEO Matt Mullenweg went to war over WordPress</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f6ebdb1f4b6aafb1586ad/master/pass/lenovo%20chromebook%20plus%2014%20review_.png" alt="Lenovo Chromebook Plus 14 Review: A Game-Changer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lenovo-chromebook-plus-14/" target="_blank">Lenovo Chromebook Plus 14 Review: A Game-Changer</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs" target="_blank">Google bets on fusion power as its greenhouse gas emissions grow</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/google-inks-its-first-fusion-power-deal-with-commonwealth-fusion-systems/" target="_blank">Google inks its first fusion power deal with Commonwealth Fusion Systems</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imkarthikeyan/welcome-to-mdx-editor-3gdp" target="_blank">Welcome to MDX Editor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18242867&w=600" alt="Threat Modeling for Developers: Identifying Security Risks in Software Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/threat-modeling-for-developers-identifying-security-risks" target="_blank">Threat Modeling for Developers: Identifying Security Risks in Software Projects</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-06-30 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/faidterence/adding-flavors-to-your-flutter-app-from-one-codebase-to-multiple-experiences-1972" target="_blank">Adding Flavors to Your Flutter App: From One Codebase to Multiple Experiences</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Clock-Wayland-PIP" target="_blank">KDE Improving Its Clock With Wayland Picture-In-Picture Protocol</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-06-30 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/M4THYOU/TokenDagger" target="_blank">Show HN: TokenDagger – A tokenizer faster than OpenAI&#x27;s Tiktoken</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 12:33</span>
             </div>
         </div>
 </div>
@@ -251,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/ball.jpg?fit=1200%2C767&amp;quality=60&amp;ssl=1" alt="This bouncing ball math problem stumps most people — can you solve it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/this-bouncing-ball-math-problem-stumps-most-people-can-you-solve-it.html" target="_blank">This bouncing ball math problem stumps most people — can you solve it?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-06-30 15:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Thunderbolts-home-exclusive.jpg" alt="Take a Trip to Bob’s Void in This Exclusive ‘Thunderbolts’ Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +304,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/change-meta-ai-photo-permissions-setting?utm_medium=RSS" target="_blank">Change This Setting to Stop Meta From Using Your Facebook Photos to Train Its AI</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-06-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/04/db4cf10a6b738d6e0e439947bb1a1f72.jpg" alt="Millions of Brother Printers Are Full of Hackable Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/millions-of-brother-printers-are-full-of-hackable-bugs-2000621683" target="_blank">Millions of Brother Printers Are Full of Hackable Bugs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 12:00</span>
             </div>
         </div>
 </div>
@@ -378,22 +379,13 @@
                 <span class="time">2025-06-30 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750827927-20250629.png" alt="Saturday Morning Breakfast Cereal - Self" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/self-4" target="_blank">Saturday Morning Breakfast Cereal - Self</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-06-29 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 35 | 📅 Last 24h: 104 | 📡 Total Sources: 44 | 📸 With Images: 206 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 108 | 📡 Total Sources: 44 | 📸 With Images: 211 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
