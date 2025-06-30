@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 11:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-06-30 12:01:59 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/high-court-allows-uk-to-keep-exporting-f-35-jet-parts-to-israel?traffic_source=rss" target="_blank">High Court allows UK to keep exporting F-35 jet parts to Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250522-budget-bill-RS-bc8625.jpg" alt="Senate to begin voting marathon on GOP agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-agenda-bill-senate-tillis-medicaid-immigration-live-updates-rcna215837" target="_blank">Senate to begin voting marathon on GOP agenda bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-30 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +103,38 @@
                 <span class="time">2025-06-30 07:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/30/nx-s1-5451242/canada-us-trade-talks-tech-carney-trump" target="_blank">Canadian prime minister says U.S. trade talks resume after Canada rescinded tech tax</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751260437759_now_brk_idaho_update_shooter_dead_250629_1920x1080-kahl0d.jpg" alt="&#x27;We have one dead shooter&#x27;: Officials give update in Idaho attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/authorities-believe-there-was-only-one-gunman-in-idaho-attack-242446917884" target="_blank">&#x27;We have one dead shooter&#x27;: Officials give update in Idaho attack</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-30 05:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans" target="_blank">LLMs are optimizing the adult industry</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f6984f3c91f1a1ba5e76a/master/pass/The%20Best%20Wireless%20Chargers%20to%20Refuel%20Your%20Phone.png" alt="25 Best Wireless Chargers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-wireless-chargers/" target="_blank">25 Best Wireless Chargers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-06-30 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-500x500-1750868871.jpg" alt="Android 16 review: Post-hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/06/android-16-review-post-hype/" target="_blank">Android 16 review: Post-hype</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f7ae3da7e3e9cf68b142d/master/pass/The%20Best%20French%20Presses%20for%20Low-Stress%20Morning%20Brew.png" alt="13 Best French Presses (2025): Plastic, Glass, Stainless Steel, Travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,36 +157,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/" target="_blank">Spotify revamps its Discover Weekly playlist after ten years</a></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/spotify-will-revamp-its-discover-weekly-playlist-after-ten-years/" target="_blank">Spotify revamps its Discover Weekly playlist after 10 years</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-06-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/" target="_blank">Why AI will eat McKinsey’s lunch —  but not today</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/" target="_blank">OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-29 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68617b3d6a290ee7248f4cb3/master/pass/2218344194" alt="OpenAI Leadership Responds to Meta Offers: ‘Someone Has Broken Into Our Home’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-meta-leadership-talent-rivalry/" target="_blank">OpenAI Leadership Responds to Meta Offers: ‘Someone Has Broken Into Our Home’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-29 19:07</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devabdul/smm-cheat-sheet-2025-edition-3bkg" target="_blank">SMM Cheat Sheet – 2025 Edition</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/06/anthropic-artifacts-app/en/headerimage/generatedHeaderImage-1751235341343.jpg" alt="Anthropic Upgrades App-Building Capabilities to Claude Artifacts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/06/anthropic-artifacts-app/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Anthropic Upgrades App-Building Capabilities to Claude Artifacts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-06-30 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/docker-size-dive/en/headerimage/docker-size-dive-header-1751012053381.jpg" alt="Article: Why Is My Docker Image So Big? A Deep Dive with ‘dive’ to Find the Bloat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,30 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1gh1369y8fgzvj9k5bpx.png" alt="How To Integrate A Distributed Cache For Payment Lookups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flutterwaveeng/how-to-integrate-a-distributed-cache-for-payment-lookups-3g3d" target="_blank">How To Integrate A Distributed Cache For Payment Lookups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 08:54</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/linux-retro-tools/" target="_blank">Relive the Golden Era: 5 Tools to Get Retro Feel on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-06-30 07:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp4lj6yr5nsy5k4oy1au.png" alt="Documentation That Developers Actually Read: The Netflix Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i" target="_blank">Documentation That Developers Actually Read: The Netflix Approach</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 04:52</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/" target="_blank">The provenance memory model for C</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 09:25</span>
             </div>
         </div>
 </div>
@@ -231,6 +226,15 @@
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/cyberattacks-shake-voters-trust-in-elections.html" target="_blank">How Cybersecurity Fears Affect Confidence in Voting Systems</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-06-30 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -254,6 +258,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/db4cf10a6b738d6e0e439947bb1a1f72.jpg" alt="Millions of Brother Printers Are Full of Hackable Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/millions-of-brother-printers-are-full-of-hackable-bugs-2000621683" target="_blank">Millions of Brother Printers Are Full of Hackable Bugs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/trump-canada.jpg" alt="Trump Bullies Canada Into Killing Its Big Tech Tax" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +310,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/29/just-like-new-this-refurbished-chromebook-works-in-four-modes-84-off.html" target="_blank">Just like new! This refurbished chromebook works in four modes — 84% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/residentevil-requiem.jpg" alt="‘Resident Evil: Requiem’ Will Refocus On the Series’ Past" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/resident-evil-requiem-will-refocus-on-the-series-past-2000621811" target="_blank">‘Resident Evil: Requiem’ Will Refocus On the Series’ Past</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-29 20:15</span>
             </div>
         </div>
 </div>
@@ -386,8 +390,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 97 | 📡 Total Sources: 44 | 📸 With Images: 190 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 34 | 📅 Last 24h: 101 | 📡 Total Sources: 44 | 📸 With Images: 196 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
