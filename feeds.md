@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-29 23:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-06-30 00:05:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, June 29, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/idahofire_1751241350781_hpMain_4x3t_384.jpg" alt="2 dead in Idaho after gunman ambushes firefighters responding to brush fire: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/firefighters-ambushed-gunman-responding-brush-fire-coeur-dalene/story?id=123325507" target="_blank">2 dead in Idaho after gunman ambushes firefighters responding to brush fire: Sheriff</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-06-30 00:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/idaho_1751236233662_hpMain_4x3t_384.jpeg" alt="Firefighters ambushed by gunman while responding to brush fire in Idaho: Sheriff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,39 +76,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0de/live/3c326b50-552a-11f0-8485-7bd50fa63665.jpg" alt="US must rule out more strikes before new talks, Iranian minister tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20r18x8x05o" target="_blank">US must rule out more strikes before new talks, Iranian minister tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-06-29 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/29/eleven-killed-in-sudan-gold-mine-collapse-as-civil-war-rages?traffic_source=rss" target="_blank">Eleven killed in Sudan gold mine collapse as civil war rages</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-29 22:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/6/29/wildfire-risks-as-climate-change-fuels-extreme-heatwave-in-southern-europe?traffic_source=rss" target="_blank">Wildfire risks as climate change fuels extreme heatwave in Southern Europe</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-29 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632d/live/958c4aa0-54f7-11f0-a063-0547e47ae66c.jpg" alt="Israel orders evacuations in northern Gaza as Trump pushes for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg54klnyy3o" target="_blank">Israel orders evacuations in northern Gaza as Trump pushes for ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-06-29 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/6/29/neves-scores-two-as-psg-thrash-inter-miami-to-reach-club-world-cup-quarters?traffic_source=rss" target="_blank">PSG defeats Messi, Inter Miami in FIFA Club World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-29 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250629-Thom-Tillis-vl-134p-4036d4.jpg" alt="GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/gop-sen-thom-tillis-not-running-re-election-north-carolina-rcna215819" target="_blank">GOP Sen. Thom Tillis won&#x27;t seek re-election after drawing Trump&#x27;s ire</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-29 17:37</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/09/pipewire-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Rename Audio Devices on Ubuntu with this ‘Simple’ App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/rename-audio-devices-ubuntu-linux-pipewire" target="_blank">Rename Audio Devices on Ubuntu with this ‘Simple’ App</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-06-29 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx815n21ml9zl0my93hb1.png" alt="HarmonyOS Development: Filling the remaining space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +218,6 @@
                 <span class="title"><a href="https://blog.vbang.dk/2025/06/29/tools-i-love-mise/" target="_blank">Tools I love: mise(-en-place)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-29 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jberesford94/text-based-games-and-how-to-make-them-4igj" target="_blank">Text Based Games and How to Make Them</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 17:39</span>
             </div>
         </div>
 </div>
@@ -367,8 +371,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 162 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 88 | 📡 Total Sources: 44 | 📸 With Images: 165 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
