@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 22:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-06-30 23:01:38 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/obama-bush-decry-travesty-of-trumps-gutting-of-usaid-on-its-last-day?traffic_source=rss" target="_blank">Obama, Bush decry ‘travesty’ of Trump’s gutting of USAID on its last day</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 22:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-06-30 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/6/30/dutch-memorial-honours-palestinian-children-killed-in-gaza?traffic_source=rss" target="_blank">Dutch memorial honours Palestinian children killed in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 18:08</span>
             </div>
         </div>
 </div>
@@ -165,6 +158,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alex_aslam/why-h3-from-unjs-might-replace-express-in-the-modern-nodejs-stack-4kp2" target="_blank">Why `h3` (from UnJS) Might Replace Express in the Modern Node.js Stack</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.philschmid.de/context-engineering" target="_blank">The New Skill in AI Is Not Prompting, It&#x27;s Context Engineering</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 20:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/06/logzio-dynatrace-observability/en/headerimage/generatedHeaderImage-1751315152854.jpg" alt="Logz.io and Dynatrace Innovations Shift Observability Into the AI Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,24 +209,6 @@
                 <span class="title"><a href="https://dzone.com/articles/streamlining-devops-how-containers-and-kubernetes" target="_blank">Streamlining DevOps: How Containers and Kubernetes Deliver</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482818&w=600" alt="Rust: The Must-Adopt Language for Modern Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-rust-modern-software-development" target="_blank">Rust: The Must-Adopt Language for Modern Software Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18480809&w=600" alt="DevOps Remediation Architecture for Azure CDN From Edgio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/azure-cdn-edgio-devops-remediation" target="_blank">DevOps Remediation Architecture for Azure CDN From Edgio</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 17:00</span>
             </div>
         </div>
 </div>
@@ -265,6 +258,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ18M3544TV1F9H7030MSZVH/hero-image.png" alt="Why I’m Excited for Amazfit’s New &#x27;Helio Strap&#x27; Fitness Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/amazfits-helio-strap-garmin-whoop?utm_medium=RSS" target="_blank">Why I’m Excited for Amazfit’s New &#x27;Helio Strap&#x27; Fitness Tracker</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-06-30 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/217361ffc60d494bdd0baaecebe6dc44.jpg" alt="Halo&#x27;s Future Will Be Revealed...In October, Says Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -307,15 +309,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/30/92-year-old-man-convicted-of-murder-in-58-year-old-cold-case.html" target="_blank">92 year-old man convicted of murder in 58 year-old cold case</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-30 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/NASA-Mars-Orbiter.jpg" alt="Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-proposed-budget-threatens-key-part-of-mission-to-send-astronauts-to-mars-2000622058" target="_blank">Trump’s Proposed Budget Threatens Key Part of Mission to Send Astronauts to Mars</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 16:55</span>
             </div>
         </div>
 </div>
@@ -377,6 +370,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/30/28-decades-later" target="_blank">28 Decades Later</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-06-30 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/30/gabe-s-reading-list" target="_blank">Gabe&#x27;s Reading List</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-06-30 16:55</span>
@@ -414,8 +416,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 126 | 📡 Total Sources: 44 | 📸 With Images: 238 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 38 | 📅 Last 24h: 122 | 📡 Total Sources: 44 | 📸 With Images: 239 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
