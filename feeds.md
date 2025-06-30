@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 05:03:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-06-30 06:01:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, June 30, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/" target="_blank">Why AI will eat McKinsey’s lunch —  but not today</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-06-30 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/" target="_blank">OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-06-29 20:16</span>
@@ -151,15 +157,6 @@
                 <span class="time">2025-06-29 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f5aa9313641784030d4a6/master/pass/The%20Best%20Power%20Banks%20for%20All%20Your%20Devices_.png" alt="23 Best Power Banks (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-portable-chargers-power-banks/" target="_blank">23 Best Power Banks (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-29 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +169,15 @@
                 <span class="title"><a href="https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i" target="_blank">Documentation That Developers Actually Read: The Netflix Approach</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/" target="_blank">Bought an Ampere Altra System</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-06-30 04:38</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/rename-audio-devices-ubuntu-linux-pipewire" target="_blank">Rename Audio Devices on Ubuntu with this ‘Simple’ App</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-06-29 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx815n21ml9zl0my93hb1.png" alt="HarmonyOS Development: Filling the remaining space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abnerming888/harmonyos-development-filling-the-remaining-space-2ia5" target="_blank">HarmonyOS Development: Filling the remaining space</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-29 22:28</span>
             </div>
         </div>
 </div>
@@ -371,7 +368,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 32 | 📅 Last 24h: 94 | 📡 Total Sources: 44 | 📸 With Images: 182 |
-        🔄 Last Updated: 05:03 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
