@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 16:01:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-01 17:01:59 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453457/trump-school-funding-grants" target="_blank">The Trump admin is withholding over $6 billion in education grants for schools</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/1/by-sacrificing-palestine-europe-betrays-itself?traffic_source=rss" target="_blank">By sacrificing Palestine, Europe betrays itself</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 16:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks from &#x27;Alligator Alcatraz&#x27; migrant detention center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2025-07-01 14:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/1/why-is-the-us-dollar-falling-by-record-levels-in-2025?traffic_source=rss" target="_blank">Why is the US dollar falling by record levels in 2025?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453085/sean-combs-diddy-trial-jury" target="_blank">Sean Combs trial update: The jury is deliberating over a complex set of charges</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-500x500-1751388283.jpg" alt="Ted Cruz gives up on AI law moratorium, joins 99-1 vote against his own plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/ted-cruz-gives-up-on-ai-law-moratorium-joins-99-1-vote-against-his-own-plan/" target="_blank">Ted Cruz gives up on AI law moratorium, joins 99-1 vote against his own plan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack" target="_blank">AT&amp;#038;T now lets you lock down your account to prevent SIM swapping attacks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/686330e1fcf712b25e490922/master/pass/Hot%20dog%20makers_.png" alt="The Best Hot Dog Cookers for All-American Hot Dogging (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-hot-dog-cookers/" target="_blank">The Best Hot Dog Cookers for All-American Hot Dogging (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 15:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -133,38 +160,29 @@
                 <span class="time">2025-07-01 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2217851073-500x500.jpg" alt="GOP wants EV tax credit gone; it would be a disaster for Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/gop-wants-ev-tax-credit-gone-it-would-be-a-disaster-for-tesla/" target="_blank">GOP wants EV tax credit gone; it would be a disaster for Tesla</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite" target="_blank">Sharp pencils for hard times</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68630415bd94359d0d779fff/master/pass/Update-%20The%20Best%20Chromebooks%20for%20Every%20Budget.png" alt="10 Best Chromebooks of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-chromebooks/" target="_blank">10 Best Chromebooks of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/focus230/how-to-get-a-dev-job-in-the-uk-with-visa-sponsorship-419b" target="_blank">How to Get a Dev Job in the UK with Visa Sponsorship</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/supply-chain-security/understand-your-softwares-supply-chain-with-githubs-dependency-graph/" target="_blank">Understand your software’s supply chain with GitHub’s dependency graph</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +219,6 @@
                 <span class="time">2025-07-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/apple-illusion-thinking/en/headerimage/generatedHeaderImage-1750604500202.jpg" alt="Apple&#x27;s Illusion of Thinking Paper Explores Limits of Large Reasoning Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/apple-illusion-thinking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple&#x27;s Illusion of Thinking Paper Explores Limits of Large Reasoning Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Canonical-Double-Down-Java" target="_blank">Canonical Decides To Double Down On Their Investment In Java For Ubuntu</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-01 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-screenshot.jpg" alt="The First Footage of Marvel’s ‘Eyes of Wakanda’ Is Stunning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-footage-of-marvels-eyes-of-wakanda-is-stunning-2000622849" target="_blank">The First Footage of Marvel’s ‘Eyes of Wakanda’ Is Stunning</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Zoran-Mamdani-speaks-an-event-honoring-COVID-19-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Video celebrates Mamdani&#x27;s historic win and claps back at racial microaggressions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/video-celebrates-mamdanis-historic-win-and-claps-back-at-racial-microaggressions.html" target="_blank">Video celebrates Mamdani&#x27;s historic win and claps back at racial microaggressions</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +301,6 @@
                 <span class="time">2025-07-01 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ1BSTGP855J103EY9GTHWW3/hero-image.jpg" alt="You Should Enable These Samsung Galaxy Anti-Theft Features Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/enable-these-samsung-galaxy-anti-theft-features-right-now?utm_medium=RSS" target="_blank">You Should Enable These Samsung Galaxy Anti-Theft Features Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/generic.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Lululemon: Costco ripped off our leggings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/lululemon-costco-ripped-off-our-leggings.html" target="_blank">Lululemon: Costco ripped off our leggings</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,22 +333,13 @@
                 <span class="time">2025-06-30 21:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/30/gabe-s-reading-list" target="_blank">Gabe&#x27;s Reading List</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-06-30 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 43 | 📸 With Images: 283 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 43 | 📸 With Images: 281 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
