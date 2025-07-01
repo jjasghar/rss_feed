@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 18:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 19:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4d/live/abd9f630-56ab-11f0-9261-abd7e0261bf5.jpg" alt="Government makes big concessions to win welfare vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Government makes big concessions to win welfare vote</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453696/lululemon-costco-lawsuit-fashion-knockoffs-dupes" target="_blank">In a lawsuit, Lululemon accuses Costco of selling knockoffs of the athleisure brand</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/1/what-israels-attack-on-iran-means-for-the-future-of-war?traffic_source=rss" target="_blank">What Israel’s attack on Iran means for the future of war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/senate-10-gty-gmh-250701_1751387999641_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance casts tie-breaking vote to pass megabill in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +100,29 @@
                 <span class="time">2025-07-01 16:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751386696753_now_daily_a_tsirkin_senate_pass_250701_1920x1080-6pc8ta.jpg" alt="Senate narrowly passes massive Trump agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-narrowly-passes-massive-trump-agenda-bill-242533957624" target="_blank">Senate narrowly passes massive Trump agenda bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-01 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/1/by-sacrificing-palestine-europe-betrays-itself?traffic_source=rss" target="_blank">By sacrificing Palestine, Europe betrays itself</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks from &#x27;Alligator Alcatraz&#x27; migrant detention center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump speaks from &#x27;Alligator Alcatraz&#x27; migrant detention center</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform" target="_blank">Grammarly wants to become an ‘AI productivity platform’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6863fe1816fbdea57514d650/master/pass/zuck-ai-money-biz-2208764114.jpg" alt="Here’s What Mark Zuckerberg Is Offering Top AI Talent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/" target="_blank">Here’s What Mark Zuckerberg Is Offering Top AI Talent</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +159,29 @@
                 <span class="time">2025-07-01 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/" target="_blank">Remark raises $16M to build out human-powered expert models for e-commerce</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686330e1fcf712b25e490922/master/pass/Hot%20dog%20makers_.png" alt="The Best Hot Dog Cookers for All-American Hot Dogging (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hot-dog-cookers/" target="_blank">The Best Hot Dog Cookers for All-American Hot Dogging (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F105de95c357a5bcdbf32c4ba4f76d6c89fdfcaac%2F685_0_2250_1800%2Fmaster%2F2250.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D7481fff4acc49e40d6d247a25e4cbf93" alt="Money problems: have we had enough of TV shows about rich people?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/popcorn_tv/money-problems-have-we-had-enough-of-tv-shows-about-rich-people-31pd" target="_blank">Money problems: have we had enough of TV shows about rich people?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18486938&w=600" alt="Spring Cloud LoadBalancer vs Netflix Ribbon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spring-cloud-load-balancer-vs-netflix-ribbon" target="_blank">Spring Cloud LoadBalancer vs Netflix Ribbon</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/agent2agent-linux-foundation/en/headerimage/agent2agent-linux-foundation-1751390634721.jpeg" alt="Google&#x27;s Agent2Agent Protocol Enters the Linux Foundation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="time">2025-07-01 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/supply-chain-security/understand-your-softwares-supply-chain-with-githubs-dependency-graph/" target="_blank">Understand your software’s supply chain with GitHub’s dependency graph</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-01 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre" target="_blank">Chiseled Ubuntu containers for OpenJRE 8, 17 and 21</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-01 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Neuromancer.jpg" alt="The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/neuromancer-apple-tv-trailer-cyberpunk-2000622392" target="_blank">The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/67146257314896c0bdee5e44529746a3.jpg" alt="Please Don&#x27;t Rush Through Blue Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/blue-prince-how-long-to-beat-room-46-tutorial-puzzles-1851785424" target="_blank">Please Don&#x27;t Rush Through Blue Prince</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/beasts-2.jpg" alt="82 New Sci-Fi, Fantasy, and Horror Books Arriving in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/01/video-celebrates-mamdanis-historic-win-and-claps-back-at-racial-microaggressions.html" target="_blank">Video celebrates Mamdani&#x27;s historic win and claps back at racial microaggressions</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-01 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/free-kindle-ebooks-july-2025?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in July</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/39920f2db5543e3cd4447daac631a7df.png" alt="Clair Obscur: Expedition 33: How To Earn The &#x27;Aiding The Enemy&#x27; Achievement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-aiding-the-enemy-blanche-1851785361" target="_blank">Clair Obscur: Expedition 33: How To Earn The &#x27;Aiding The Enemy&#x27; Achievement</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 15:25</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
