@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 05:04:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-01 06:02:00 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 05:04 UTC</div>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5452988/cartel-violence-sinaloa-mexico-decapitated-bodies" target="_blank">Cartel violence in Sinaloa, Mexico, leaves 20 dead, including 4 decapitated bodies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 05:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/al-hilal-stun-man-city-4-3-to-enter-club-world-cup-quarterfinals?traffic_source=rss" target="_blank">Al Hilal beat Manchester City 4-3 to enter Club World Cup quarterfinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 05:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890c/live/e3bfa080-5634-11f0-b43d-bf2a6c0361e5.jpg" alt="MPs to vote on welfare bill as unrest rumbles on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/bryan-kohberger-appears-to-accept-plea-deal-242501189720" target="_blank">Bryan Kohberger appears to accept plea deal</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-06-30 23:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/trump-formally-orders-lifting-of-syria-sanctions?traffic_source=rss" target="_blank">Trump formally orders lifting of Syria sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/obama-bush-decry-travesty-of-trumps-gutting-of-usaid-on-its-last-day?traffic_source=rss" target="_blank">Obama, Bush decry ‘travesty’ of Trump’s gutting of USAID on its last day</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 22:27</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc" target="_blank">Integration Digest for June 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/deepmind-alpha-genome/en/headerimage/generatedHeaderImage-1751133093753.jpg" alt="Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/jakarta-ee-11-updates/en/headerimage/java-istock-image-01-1751318894012.jpg" alt="Jakarta EE 11 Delivers One New Specification, 16 Updated Specifications and Modernized TCK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/saaberdev/run-laravel-pint-with-a-single-keyboard-shortcut-in-phpstorm-3hn7" target="_blank">Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-06-30 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alex_aslam/why-h3-from-unjs-might-replace-express-in-the-modern-nodejs-stack-4kp2" target="_blank">Why `h3` (from UnJS) Might Replace Express in the Modern Node.js Stack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.philschmid.de/context-engineering" target="_blank">The New Skill in AI Is Not Prompting, It&#x27;s Context Engineering</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-06-30 20:53</span>
             </div>
         </div>
 </div>
@@ -419,8 +424,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 38 | 📅 Last 24h: 121 | 📡 Total Sources: 44 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
