@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 19:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 20:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 19:01 UTC</div>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +112,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/" target="_blank">Catalio Capital closes over $400M Fund IV</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/waste-water-treatment-plant-500x500.jpg" alt="US critical infrastructure exposed as feds worn of possible attacks from Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/" target="_blank">US critical infrastructure exposed as feds worn of possible attacks from Iran</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21539047/best-amazon-kindle-deals" target="_blank">Here are the best Kindle deals right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform" target="_blank">Grammarly wants to become an ‘AI productivity platform’</a></span>
                 <span class="feed">The Verge</span>
@@ -132,38 +163,29 @@
                 <span class="time">2025-07-01 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-500x500-1751388283.jpg" alt="Ted Cruz gives up on AI law moratorium, joins 99-1 vote against his own plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/ted-cruz-gives-up-on-ai-law-moratorium-joins-99-1-vote-against-his-own-plan/" target="_blank">Ted Cruz gives up on AI law moratorium, joins 99-1 vote against his own plan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack" target="_blank">AT&amp;#038;T now lets you lock down your account to prevent SIM swapping attacks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch" target="_blank">Threads now has DMs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alwil17/automate-github-like-a-pro-build-your-own-bot-with-typescript-and-serverless-58fg" target="_blank">Automate GitHub like a pro: Build your own bot with TypeScript and Serverless</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18486989&w=600" alt="A Keycloak Example: Building My First MCP Server Tools With Quarkus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/keycloak-mcp-server-tools-quarkus" target="_blank">A Keycloak Example: Building My First MCP Server Tools With Quarkus</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-01 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F105de95c357a5bcdbf32c4ba4f76d6c89fdfcaac%2F685_0_2250_1800%2Fmaster%2F2250.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D7481fff4acc49e40d6d247a25e4cbf93" alt="Money problems: have we had enough of TV shows about rich people?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +222,6 @@
                 <span class="time">2025-07-01 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18484750&w=600" alt="Ethical AI for Product Owners and Product Managers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ethical-ai-for-product-owners-product-managers" target="_blank">Ethical AI for Product Owners and Product Managers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/focus230/how-to-get-a-dev-job-in-the-uk-with-visa-sponsorship-419b" target="_blank">How to Get a Dev Job in the UK with Visa Sponsorship</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +242,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Foundation_LauraBirn.jpg" alt="‘Foundation’ Season 3 Digs Into What It’s Like for a Robot to Have an Existential Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/foundation-season-3-digs-into-what-its-like-for-a-robot-to-have-an-existential-crisis-2000620931" target="_blank">‘Foundation’ Season 3 Digs Into What It’s Like for a Robot to Have an Existential Crisis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 19:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Neuromancer.jpg" alt="The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/neuromancer-apple-tv-trailer-cyberpunk-2000622392" target="_blank">The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ3CHHGN02ZZKZ1GBAE8HHSD/hero-image.webp" alt="There’s a Major Security Issue With Coros Fitness Trackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/coros-fitness-trackers-have-a-major-security-issue?utm_medium=RSS" target="_blank">There’s a Major Security Issue With Coros Fitness Trackers</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-01 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="US Vice President Vance says terrorizing people is job one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/us-vice-president-vance-says-terrorizing-people-is-job-one.html" target="_blank">US Vice President Vance says terrorizing people is job one</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 18:58</span>
             </div>
         </div>
 <div class="story">
@@ -262,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-books-july-2025-sci-fi-fantasy-horror-2000621725" target="_blank">82 New Sci-Fi, Fantasy, and Horror Books Arriving in July</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JWH81KGY8NA4SZSMG0FJRNGD/hero-image.png" alt="You Have a Month to Export Your Microsoft Authenticator Passwords Before They Get Deleted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-need-to-export-your-microsoft-authenticator-passwords?utm_medium=RSS" target="_blank">You Have a Month to Export Your Microsoft Authenticator Passwords Before They Get Deleted</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-screenshot.jpg" alt="The First Footage of Marvel’s ‘Eyes of Wakanda’ Is Stunning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-footage-of-marvels-eyes-of-wakanda-is-stunning-2000622849" target="_blank">The First Footage of Marvel’s ‘Eyes of Wakanda’ Is Stunning</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Zoran-Mamdani-speaks-an-event-honoring-COVID-19-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Video celebrates Mamdani&#x27;s historic win and claps back at racial microaggressions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/video-celebrates-mamdanis-historic-win-and-claps-back-at-racial-microaggressions.html" target="_blank">Video celebrates Mamdani&#x27;s historic win and claps back at racial microaggressions</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 16:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
