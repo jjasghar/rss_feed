@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 07:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 08:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/1/elon-musk-slams-trumps-big-beautiful-bill-calls-for-new-political-party?traffic_source=rss" target="_blank">Elon Musk slams Trump’s ‘Big Beautiful Bill’, calls for new political party</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 07:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453000/thailand-prime-minister-paetongtarn-shinawatra-suspension" target="_blank">Court suspends Thailand&#x27;s Prime Minister Paetongtarn Shinawatra</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 07:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/al-hilal-stun-man-city-4-3-to-enter-club-world-cup-quarterfinals?traffic_source=rss" target="_blank">Al Hilal beat Manchester City 4-3 to enter Club World Cup quarterfinals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-01 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890c/live/e3bfa080-5634-11f0-b43d-bf2a6c0361e5.jpg" alt="MPs to vote on welfare bill as unrest rumbles on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62889vm3nno" target="_blank">MPs to vote on welfare bill as unrest rumbles on</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 04:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62e/live/9283d0a0-562b-11f0-960d-e9f1088a89fe.jpg" alt="Trump global aid cuts risk 14 million deaths in five years, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jjpm7zv8o" target="_blank">Trump global aid cuts risk 14 million deaths in five years, report says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 01:55</span>
             </div>
         </div>
 </div>
@@ -420,7 +416,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 37 | 📅 Last 24h: 129 | 📡 Total Sources: 44 | 📸 With Images: 262 |
-        🔄 Last Updated: 07:02 UTC
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
