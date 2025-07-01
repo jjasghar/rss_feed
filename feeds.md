@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 17:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 18:01:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/senate-10-gty-gmh-250701_1751387999641_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance casts tie-breaking vote to pass megabill in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Vance casts tie-breaking vote to pass megabill in Senate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/164eb1a0-566f-11f0-9f6a-932e10cc460f.jpg" alt="Spain and England record hottest June as heatwave grips Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70rrlexnwzo" target="_blank">Spain and England record hottest June as heatwave grips Europe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 17:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453457/trump-school-funding-grants" target="_blank">The Trump admin is withholding over $6 billion in education grants for schools</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-01 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751386696753_now_daily_a_tsirkin_senate_pass_250701_1920x1080-6pc8ta.jpg" alt="Senate narrowly passes massive Trump agenda bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/senate-narrowly-passes-massive-trump-agenda-bill-242533957624" target="_blank">Senate narrowly passes massive Trump agenda bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-01 16:18</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +97,20 @@
                 <span class="time">2025-07-01 15:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/how-al-hilals-cwc-win-over-man-city-shifts-perceptions-of-saudi-football?traffic_source=rss" target="_blank">How Al Hilal’s CWC win over Man City shifts perceptions of Saudi football</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453053/remembering-veteran-pbs-newscaster-bill-moyers" target="_blank">Remembering veteran PBS newscaster Bill Moyers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-thune-2-epa-gmh-250701_1751380692120_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Megabill vote expected soon as Thune says he has the votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Megabill vote expected soon as Thune says he has the votes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/nothing-releases-their-first-over-the-ear-headphones/" target="_blank">Nothing releases their first over-the-ear headphones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-500x500-1751388283.jpg" alt="Ted Cruz gives up on AI law moratorium, joins 99-1 vote against his own plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +156,38 @@
                 <span class="time">2025-07-01 15:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/" target="_blank">David George from a16z on the future of going public at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/agent2agent-linux-foundation/en/headerimage/agent2agent-linux-foundation-1751390634721.jpeg" alt="Google&#x27;s Agent2Agent Protocol Enters the Linux Foundation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/agent2agent-linux-foundation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Agent2Agent Protocol Enters the Linux Foundation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/digikam-THUMB.jpg?resize=406%2C232&amp;ssl=1" alt="digiKam 8.7.0 Release Offers Improved AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/digikam-8-7-0-new-ai-tools" target="_blank">digiKam 8.7.0 Release Offers Improved AI Tools</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-01 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18484750&w=600" alt="Ethical AI for Product Owners and Product Managers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ethical-ai-for-product-owners-product-managers" target="_blank">Ethical AI for Product Owners and Product Managers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-01 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,33 +215,6 @@
                 <span class="time">2025-07-01 15:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18485005&w=600" alt="Zero-Click CRM: The Future of Predictive Customer Management With Autonomous AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-click-crm-predictive-ai" target="_blank">Zero-Click CRM: The Future of Predictive Customer Management With Autonomous AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2506.17732" target="_blank">Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-01 14:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-4005-server" target="_blank">Performance &amp; Power Of The Low-Cost EPYC 4005 &quot;Grado&quot; vs. Original EPYC 7601 Zen 1 Flagship CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-01 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +229,29 @@
                 <span class="time">2025-07-01 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/" target="_blank">Senator Chides FBI for Weak Advice on Mobile Security</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-06-30 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/beasts-2.jpg" alt="82 New Sci-Fi, Fantasy, and Horror Books Arriving in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-books-july-2025-sci-fi-fantasy-horror-2000621725" target="_blank">82 New Sci-Fi, Fantasy, and Horror Books Arriving in July</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JWH81KGY8NA4SZSMG0FJRNGD/hero-image.png" alt="You Have a Month to Export Your Microsoft Authenticator Passwords Before They Get Deleted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-need-to-export-your-microsoft-authenticator-passwords?utm_medium=RSS" target="_blank">You Have a Month to Export Your Microsoft Authenticator Passwords Before They Get Deleted</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-01 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-screenshot.jpg" alt="The First Footage of Marvel’s ‘Eyes of Wakanda’ Is Stunning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-aiding-the-enemy-blanche-1851785361" target="_blank">Clair Obscur: Expedition 33: How To Earn The &#x27;Aiding The Enemy&#x27; Achievement</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-01 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ec416f1e3673170b581ceb733659fc19.jpg" alt="Clair Obscur: Expedition 33: Should You Spare Chalier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-chalier-attack-blanche-1851785353" target="_blank">Clair Obscur: Expedition 33: Should You Spare Chalier?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-1.jpg" alt="This Year the Squirtle Squad Is the Coolest SDCC Merch Around" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-stranger-things-2000622365" target="_blank">This Year the Squirtle Squad Is the Coolest SDCC Merch Around</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 14:00</span>
             </div>
         </div>
 </div>
@@ -338,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 43 | 📸 With Images: 281 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
