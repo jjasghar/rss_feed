@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 13:11:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 14:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/1/why-is-the-us-dollar-falling-by-record-levels-in-2025?traffic_source=rss" target="_blank">Why is the US dollar falling by record levels in 2025?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453085/sean-combs-diddy-trial-jury" target="_blank">Sean Combs trial update: The jury is deliberating over a complex set of charges</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Thune-and-Murkowski-DB-260701_1751359277757_hpMain_4x3t_384.jpg" alt="Trump admin live updates: GOP leaders press holdouts in Trump megabill vote marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac93/live/60a574a0-566f-11f0-960d-e9f1088a89fe.jpg" alt="Three former bosses of Lucy Letby arrested on suspicion of gross negligence manslaughter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62ddkde7y5o" target="_blank">Three former bosses of Lucy Letby arrested on suspicion of gross negligence manslaughter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 11:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -71,38 +104,38 @@
                 <span class="time">2025-07-01 09:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-usaid-bangladesh_6954404.jpg?20250701122147" alt="Trump&#x27;s USAID cuts &#x27;could lead to 14 million deaths&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trumps-usaid-cuts-could-lead-to-14-million-deaths-report-warns-13390818" target="_blank">Trump&#x27;s USAID cuts &#x27;could lead to 14 million deaths&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-01 08:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/1/elon-musk-slams-trumps-big-beautiful-bill-calls-for-new-political-party?traffic_source=rss" target="_blank">Elon Musk slams Trump’s ‘Big Beautiful Bill’, calls for new political party</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453000/thailand-prime-minister-paetongtarn-shinawatra-suspension" target="_blank">Court suspends Thailand&#x27;s Prime Minister Paetongtarn Shinawatra</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 07:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2217851073-500x500.jpg" alt="GOP wants EV tax credit gone; it would be a disaster for Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/gop-wants-ev-tax-credit-gone-it-would-be-a-disaster-for-tesla/" target="_blank">GOP wants EV tax credit gone; it would be a disaster for Tesla</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite" target="_blank">Sharp pencils for hard times</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68630415bd94359d0d779fff/master/pass/Update-%20The%20Best%20Chromebooks%20for%20Every%20Budget.png" alt="10 Best Chromebooks of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-chromebooks/" target="_blank">10 Best Chromebooks of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,38 +163,29 @@
                 <span class="time">2025-07-01 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68630619bb31e7f20ab64b89/master/pass/Update-%20The%20Best%20Streaming%20Devices%20for%20TV%20Cord%20Cutters.png" alt="7 Best Streaming Devices for TVs (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-4k-streaming-devices/" target="_blank">7 Best Streaming Devices for TVs (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/" target="_blank">Cloudflare launches a marketplace that lets websites charge AI bots for scraping</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="20% VistaPrint Coupon &amp; Promo Codes | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">20% VistaPrint Coupon &amp; Promo Codes | July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/apple-illusion-thinking/en/headerimage/generatedHeaderImage-1750604500202.jpg" alt="Apple&#x27;s Illusion of Thinking Paper Explores Limits of Large Reasoning Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/apple-illusion-thinking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple&#x27;s Illusion of Thinking Paper Explores Limits of Large Reasoning Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Canonical-Double-Down-Java" target="_blank">Canonical Decides To Double Down On Their Investment In Java For Ubuntu</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-01 12:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyet06l4w2gqiznb4nxhp.png" alt="Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +222,20 @@
                 <span class="time">2025-07-01 09:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/01/programming-problems-that-seem-easy-but-aren-t-featuring-jon-skeet/" target="_blank">Programming problems that seem easy, but aren&#x27;t, featuring Jon Skeet</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-01 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc" target="_blank">Integration Digest for June 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html" target="_blank">Iranian Blackout Affected Misinformation Campaigns</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-01 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,20 +254,29 @@
                 <span class="time">2025-06-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/" target="_blank">Inside a Dark Adtech Empire Fed by Fake CAPTCHAs</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-06-12 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-1.jpg" alt="This Year the Squirtle Squad Is the Coolest SDCC Merch Around" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-stranger-things-2000622365" target="_blank">This Year the Squirtle Squad Is the Coolest SDCC Merch Around</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/generic.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Lululemon: Costco ripped off our leggings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/lululemon-costco-ripped-off-our-leggings.html" target="_blank">Lululemon: Costco ripped off our leggings</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 13:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/hisense-deal.jpg" alt="This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,6 +284,15 @@
                 <span class="title"><a href="https://gizmodo.com/this-hisense-40-inch-smart-fire-tv-is-just-3-months-old-and-already-almost-free-thanks-to-4th-of-july-deal-2000622048" target="_blank">This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-01 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/69bfbf866000b5df0367b1aa2fc17129.png" alt="11 More Sports Rivalries We Want To See Get Violent In WWE 2K" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wwe-2k-dlc-tyrese-haliburton-jalen-brunson-rivalry-1851785376" target="_blank">11 More Sports Rivalries We Want To See Get Violent In WWE 2K</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -278,56 +311,6 @@
                 <span class="title"><a href="https://gizmodo.com/how-to-watch-wimbledon-2025-live-outside-the-uk-2000621972" target="_blank">How to Watch Wimbledon 2025 Live Outside the UK</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-01 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/grilled-cheese.jpg" alt="Eating Dairy Before Bed Can Give You Nightmares, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eating-dairy-before-bed-can-give-you-nightmares-study-suggests-2000622123" target="_blank">Eating Dairy Before Bed Can Give You Nightmares, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/bafkreigft5hginy4hf6p3udoxuvskhawiseke6yzocvaglx4je74ntyyt4%40jpeg.jpeg?fit=1179%2C1417&amp;quality=60&amp;ssl=1" alt="Now you can smell like Diaper Don" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/now-you-can-smell-like-diaper-don.html" target="_blank">Now you can smell like Diaper Don</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Plot-of-the-Phantom.jpg?fit=1080%2C746&amp;quality=60&amp;ssl=1" alt="Play a text adventure 40 years in the making" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/play-a-text-adventure-40-years-in-the-making.html" target="_blank">Play a text adventure 40 years in the making</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 01:29</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section general-news" id="general">
-<h2 class="section-header">📰 General News</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2023/12/24/lifetime-access-to-stackskills-is-the-perfect-last-minute-gift-at-just-20.html" target="_blank">Lifetime access to StackSkills is the perfect last-minute gift at just $20!</a></span>
-                <span class="feed">Boing Boing</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-rpgs-persona-5-royal-1851118000" target="_blank">Six Years Ago, The Most Stylish RPG Ever Revived A Dying Genre</a></span>
-                <span class="feed">Kotaku</span>
-                
             </div>
         </div>
 </div>
@@ -376,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 33 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 43 | 📸 With Images: 282 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
