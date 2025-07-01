@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 06:02:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-01 07:02:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid" target="_blank">74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/1/thailand-pm-paetongtarn-shinawatra-father-thaksin-face-legal-peril?traffic_source=rss" target="_blank">Thailand PM Paetongtarn Shinawatra, father Thaksin face legal peril</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 06:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +97,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2939/live/dae6a3f0-560c-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Labour still has a big persuasion job ahead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62e/live/9283d0a0-562b-11f0-960d-e9f1088a89fe.jpg" alt="Trump global aid cuts risk 14 million deaths in five years, report says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czjkkmdv33mo" target="_blank">Chris Mason: Labour still has a big persuasion job ahead</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jjpm7zv8o" target="_blank">Trump global aid cuts risk 14 million deaths in five years, report says</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bryan-kohberger-ap-jef-250630_1751308544311_hpMain_4x3t_384.jpg" alt="Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/bryan-kohberger-plead-guilty-counts-idaho-college-murders/story?id=123356808" target="_blank">Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751327676076_nn_sgo_kohberger_update_250630_1920x1080-j5zpi3.jpg" alt="Bryan Kohberger appears to accept plea deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/bryan-kohberger-appears-to-accept-plea-deal-242501189720" target="_blank">Bryan Kohberger appears to accept plea deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-06-30 23:54</span>
+                <span class="time">2025-07-01 01:55</span>
             </div>
         </div>
 </div>
@@ -168,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/01/programming-problems-that-seem-easy-but-aren-t-featuring-jon-skeet/" target="_blank">Programming problems that seem easy, but aren&#x27;t, featuring Jon Skeet</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-01 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stn1slv/integration-digest-for-june-2025-2lhc" target="_blank">Integration Digest for June 2025</a></span>
                 <span class="feed">DEV Community</span>
@@ -181,6 +194,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-01 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/update-livepatch-client-for-the-newest-kernel-module-signing-certificate" target="_blank">Update Livepatch Client for the newest kernel module signing certificate</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-01 04:48</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/member_35db4d53/code-evolution-strategies1751336264080500-33mf" target="_blank">Code Evolution Strategies（1751336264080500）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-01 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Mid-2025" target="_blank">AerynOS Tooling Now Written In Rust Rather Than D, New Software Updates</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-01 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6rzd4wbbxb12oivbluzx.png" alt="Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saaberdev/run-laravel-pint-with-a-single-keyboard-shortcut-in-phpstorm-3hn7" target="_blank">Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 23:48</span>
             </div>
         </div>
 </div>
@@ -266,12 +270,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-Outside-the-UK.jpg" alt="How to Watch Wimbledon 2025 Live Outside the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-wimbledon-2025-live-outside-the-uk-2000621972" target="_blank">How to Watch Wimbledon 2025 Live Outside the UK</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 05:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/grilled-cheese.jpg" alt="Eating Dairy Before Bed Can Give You Nightmares, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/eating-dairy-before-bed-can-give-you-nightmares-study-suggests-2000622123" target="_blank">Eating Dairy Before Bed Can Give You Nightmares, Study Suggests</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-01 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/bafkreigft5hginy4hf6p3udoxuvskhawiseke6yzocvaglx4je74ntyyt4%40jpeg.jpeg?fit=1179%2C1417&amp;quality=60&amp;ssl=1" alt="Now you can smell like Diaper Don" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/now-you-can-smell-like-diaper-don.html" target="_blank">Now you can smell like Diaper Don</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 02:23</span>
             </div>
         </div>
 <div class="story">
@@ -299,24 +321,6 @@
                 <span class="title"><a href="https://gizmodo.com/mark-zuckerberg-already-knows-your-life-now-he-wants-his-ai-to-run-it-2000622496" target="_blank">Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-06-30 23:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ18M3544TV1F9H7030MSZVH/hero-image.png" alt="Why I’m Excited for Amazfit’s New &#x27;Helio Strap&#x27; Fitness Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/amazfits-helio-strap-garmin-whoop?utm_medium=RSS" target="_blank">Why I’m Excited for Amazfit’s New &#x27;Helio Strap&#x27; Fitness Tracker</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/217361ffc60d494bdd0baaecebe6dc44.jpg" alt="Halo&#x27;s Future Will Be Revealed...In October, Says Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384" target="_blank">Halo&#x27;s Future Will Be Revealed...In October, Says Xbox</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-30 21:25</span>
             </div>
         </div>
 </div>
@@ -410,22 +414,13 @@
                 <span class="time">2025-06-30 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/06/30/28-decades-later" target="_blank">28 Decades Later</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-06-30 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 259 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 129 | 📡 Total Sources: 44 | 📸 With Images: 262 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
