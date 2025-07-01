@@ -1,43 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 01:29:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-01 02:41:19 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2939/live/dae6a3f0-560c-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Labour still has a big persuasion job ahead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czjkkmdv33mo" target="_blank">Chris Mason: Labour still has a big persuasion job ahead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 01:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/bryan-kohberger-ap-jef-250630_1751308544311_hpMain_4x3t_384.jpg" alt="Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/06/30/1255015997/medicaid-cuts-rural-healthcare-tillis-senate-budget" target="_blank">Why a GOP senator says the budget bill breaks Trump&#x27;s promise</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-06-30 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/elon-musk-4-gty-gmh-250630_1751316590659_hpMain_4x3t_384.jpg" alt="Musk threatens to primary members of Congress who vote for Trump&#x27;s megabill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/musk-threatens-primary-members-congress-vote-trumps-megabill/story?id=123354700" target="_blank">Musk threatens to primary members of Congress who vote for Trump&#x27;s megabill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-30 21:25</span>
             </div>
         </div>
 </div>
@@ -172,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_35db4d53/code-evolution-strategies1751336264080500-33mf" target="_blank">Code Evolution Strategies（1751336264080500）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 02:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6rzd4wbbxb12oivbluzx.png" alt="Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/06/logzio-dynatrace-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Logz.io and Dynatrace Innovations Shift Observability Into the AI Age</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-06-30 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482863&w=600" alt="Tableau Dashboard Development Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tableau-development-best-practices" target="_blank">Tableau Dashboard Development Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 20:00</span>
             </div>
         </div>
 </div>
@@ -272,6 +268,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Plot-of-the-Phantom.jpg?fit=1080%2C746&amp;quality=60&amp;ssl=1" alt="Play a text adventure 40 years in the making" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/play-a-text-adventure-40-years-in-the-making.html" target="_blank">Play a text adventure 40 years in the making</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 01:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/04/comcass-comcast-donkey.jpg?fit=630%2C309&amp;quality=60&amp;ssl=1" alt="Comcast&#x27;s WiFi Motion service discloses your movements &quot;to third parties without further notice&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -314,15 +319,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/seven-changes-that-helped-me-stick-to-my-home-fitness-routine?utm_medium=RSS" target="_blank">Seven Changes That Finally Helped Me Stick to My Home Fitness Routine</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-06-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Pencils-by-Sean.jpg?fit=1080%2C609&amp;quality=60&amp;ssl=1" alt="Tiny carvings in pencil cores" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/tiny-carvings-in-pencil-cores.html" target="_blank">Tiny carvings in pencil cores</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 18:31</span>
             </div>
         </div>
 </div>
@@ -439,8 +435,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 39 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 249 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 39 | 📅 Last 24h: 125 | 📡 Total Sources: 44 | 📸 With Images: 253 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
