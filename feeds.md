@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 10:01:52 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-01 11:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68630619bb31e7f20ab64b89/master/pass/Update-%20The%20Best%20Streaming%20Devices%20for%20TV%20Cord%20Cutters.png" alt="7 Best Streaming Devices for TVs (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-4k-streaming-devices/" target="_blank">7 Best Streaming Devices for TVs (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 10:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" alt="20% VistaPrint Coupon &amp; Promo Codes | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +158,29 @@
                 <span class="time">2025-06-30 23:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/boomerang-cropped-500x500.png" alt="A mammoth tusk boomerang from Poland is 40,000 years old" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/06/a-mammoth-tusk-boomerang-from-poland-is-40000-years-old/" target="_blank">A mammoth tusk boomerang from Poland is 40,000 years old</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-06-30 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/introducing-canonical-builds-of-openjdk" target="_blank">Introducing Canonical builds of OpenJDK</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-NVK-Blackwell" target="_blank">Mesa 25.2 Should Have Initial Vulkan Support In Good Shape For NVIDIA Blackwell</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-01 10:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/update-livepatch-client-for-the-newest-kernel-module-signing-certificate" target="_blank">Update Livepatch Client for the newest kernel module signing certificate</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-01 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/jakarta-ee-11-updates/en/headerimage/java-istock-image-01-1751318894012.jpg" alt="Jakarta EE 11 Delivers One New Specification, 16 Updated Specifications and Modernized TCK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/jakarta-ee-11-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jakarta EE 11 Delivers One New Specification, 16 Updated Specifications and Modernized TCK</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-01 02:30</span>
             </div>
         </div>
 </div>
@@ -411,8 +413,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 125 | 📡 Total Sources: 44 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 37 | 📅 Last 24h: 122 | 📡 Total Sources: 44 | 📸 With Images: 265 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
