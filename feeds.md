@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 14:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 15:01:53 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453053/remembering-veteran-pbs-newscaster-bill-moyers" target="_blank">Remembering veteran PBS newscaster Bill Moyers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-thune-2-epa-gmh-250701_1751380692120_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Megabill vote expected soon as Thune says he has the votes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Megabill vote expected soon as Thune says he has the votes</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 14:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +99,20 @@
                 <span class="time">2025-07-01 12:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac93/live/60a574a0-566f-11f0-960d-e9f1088a89fe.jpg" alt="Three former bosses of Lucy Letby arrested on suspicion of gross negligence manslaughter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62ddkde7y5o" target="_blank">Three former bosses of Lucy Letby arrested on suspicion of gross negligence manslaughter</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5398493/light-pollution-west-texas-dark-sky-reserve-observatory-stars-galaxies-constelations" target="_blank">As light pollution increases, West Texas works to protect the world&#x27;s largest &#x27;dark sky reserve&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/" target="_blank">David George from a16z on the future of going public at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2217851073-500x500.jpg" alt="GOP wants EV tax credit gone; it would be a disaster for Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech" target="_blank">Newark’s air traffic outages were just the tip of the iceberg</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/WR134-500x500.jpg" alt="Tuesday Telescope: A howling wolf in the night sky" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" target="_blank">Tuesday Telescope: A howling wolf in the night sky</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 11:00</span>
             </div>
         </div>
 </div>
@@ -245,26 +240,35 @@
                 <span class="time">2025-06-30 17:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/white-house-bans-whatsapp.html" target="_blank">White House Bans WhatsApp</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-06-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ec416f1e3673170b581ceb733659fc19.jpg" alt="Clair Obscur: Expedition 33: Should You Spare Chalier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-chalier-attack-blanche-1851785353" target="_blank">Clair Obscur: Expedition 33: Should You Spare Chalier?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 14:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-1.jpg" alt="This Year the Squirtle Squad Is the Coolest SDCC Merch Around" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/jazwares-sdcc-2025-exclusives-star-wars-pokemon-avatar-stranger-things-2000622365" target="_blank">This Year the Squirtle Squad Is the Coolest SDCC Merch Around</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ1BSTGP855J103EY9GTHWW3/hero-image.jpg" alt="You Should Enable These Samsung Galaxy Anti-Theft Features Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/enable-these-samsung-galaxy-anti-theft-features-right-now?utm_medium=RSS" target="_blank">You Should Enable These Samsung Galaxy Anti-Theft Features Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-01 14:00</span>
             </div>
         </div>
@@ -293,24 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/wwe-2k-dlc-tyrese-haliburton-jalen-brunson-rivalry-1851785376" target="_blank">11 More Sports Rivalries We Want To See Get Violent In WWE 2K</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-01 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ1Q38VREW2KQAE7WW0BJBJQ/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The &#x27;Dusting Challenge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-the-dusting-challenge?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The &#x27;Dusting Challenge&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-Outside-the-UK.jpg" alt="How to Watch Wimbledon 2025 Live Outside the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-wimbledon-2025-live-outside-the-uk-2000621972" target="_blank">How to Watch Wimbledon 2025 Live Outside the UK</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 05:55</span>
             </div>
         </div>
 </div>
@@ -359,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 43 | 📸 With Images: 282 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 43 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
