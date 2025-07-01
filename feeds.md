@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 21:01:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-01 22:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 34 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/mbappe-returns-as-real-madrid-beat-juventus-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe returns as Real Madrid beat Juventus at Club World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/combs-trial-sketch-03-rt-jef-250701_1751385024867_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Jury will keep deliberating after partial verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Jury will keep deliberating after partial verdict</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Jury reaches partial verdict in Sean &#x27;Diddy&#x27; Combs trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +104,29 @@
                 <span class="time">2025-07-01 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453696/lululemon-costco-lawsuit-fashion-knockoffs-dupes" target="_blank">In a lawsuit, Lululemon accuses Costco of selling knockoffs of the athleisure brand</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/1/what-israels-attack-on-iran-means-for-the-future-of-war?traffic_source=rss" target="_blank">What Israel’s attack on Iran means for the future of war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/" target="_blank">Figma moves closer to a blockbuster IPO that could raise $1.5B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/starshieldterminal1-500x500.jpg" alt="Pentagon may put SpaceX at the center of a sensor-to-shooter targeting network" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/pentagon-may-put-spacex-at-the-center-of-a-sensor-to-shooter-targeting-network/" target="_blank">Pentagon may put SpaceX at the center of a sensor-to-shooter targeting network</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 21:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158427559-500x500.jpg" alt="Moderna says its mRNA seasonal flu shot is 27% better than current vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/" target="_blank">Catalio Capital closes over $400M Fund IV</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68633341f7fb33b977c5d7e5/master/pass/politics_russiandisinfo_getty.jpg" alt="A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/" target="_blank">A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/waste-water-treatment-plant-500x500.jpg" alt="US critical infrastructure exposed as feds worn of possible attacks from Iran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/feds-warn-of-possible-cyber-attacks-by-iran-on-us-critical-infrastructure/" target="_blank">US critical infrastructure exposed as feds worn of possible attacks from Iran</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 19:16</span>
             </div>
         </div>
 </div>
@@ -244,6 +242,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/jurassic-world-rebirth-interview-4.jpg" alt="How the Quick Turnaround of ‘Jurassic World Rebirth’ Became a Good Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-the-quick-turnaround-of-jurassic-world-rebirth-became-a-good-thing-2000622414" target="_blank">How the Quick Turnaround of ‘Jurassic World Rebirth’ Became a Good Thing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9a4bb06dbe9d697060004bedabbcb2b4.png" alt="Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/black-panther-eyes-of-wakanda-marvel-animation-mcu-1851785467" target="_blank">Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/satoshi-nakamoto.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Mysterious $20k Bitcoin transfer to Satoshi Nakamoto&#x27;s untouched wallet adds to its  $117 billion frozen since creator&#x27;s disappearance in 2011" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/mysterious-20k-bitcoin-transfer-to-satoshi-nakamotos-untouched-wallet-adds-to-its-117-billion-frozen-since-creators-disappearance-in-2011.html" target="_blank">Mysterious $20k Bitcoin transfer to Satoshi Nakamoto&#x27;s untouched wallet adds to its  $117 billion frozen since creator&#x27;s disappearance in 2011</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 21:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/old-greek-tales.jpg?fit=1200%2C1735&amp;quality=60&amp;ssl=1" alt="How short words made old tales fresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -262,39 +287,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Foundation_LauraBirn.jpg" alt="‘Foundation’ Season 3 Digs Into What It’s Like for a Robot to Have an Existential Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/foundation-season-3-digs-into-what-its-like-for-a-robot-to-have-an-existential-crisis-2000620931" target="_blank">‘Foundation’ Season 3 Digs Into What It’s Like for a Robot to Have an Existential Crisis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Neuromancer.jpg" alt="The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/neuromancer-apple-tv-trailer-cyberpunk-2000622392" target="_blank">The ‘Neuromancer’ Show Welcomes You Into Its Neon-Lit Dystopia</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ3CHHGN02ZZKZ1GBAE8HHSD/hero-image.webp" alt="There’s a Major Security Issue With Coros Fitness Trackers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01JZ3S3W4B4ZM0Z9VJCMWA8AHP/hero-image.png" alt="Your Local Dick&#x27;s Might Have Pelotons for 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/coros-fitness-trackers-have-a-major-security-issue?utm_medium=RSS" target="_blank">There’s a Major Security Issue With Coros Fitness Trackers</a></span>
+                <span class="title"><a href="https://lifehacker.com/health/dicks-sporting-goods-peloton-sale?utm_medium=RSS" target="_blank">Your Local Dick&#x27;s Might Have Pelotons for 50% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/0_Meme-depicting-JD-Vance-as-bald.jpg?fit=810%2C539&amp;quality=60&amp;ssl=1" alt="US Vice President Vance says terrorizing people is job one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/us-vice-president-vance-says-terrorizing-people-is-job-one.html" target="_blank">US Vice President Vance says terrorizing people is job one</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 18:58</span>
+                <span class="time">2025-07-01 20:30</span>
             </div>
         </div>
 </div>
@@ -320,22 +318,13 @@
                 <span class="time">2025-07-01 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/06/30/28-decades-later" target="_blank">28 Decades Later</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-06-30 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 289 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 40 | 📸 With Images: 290 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
