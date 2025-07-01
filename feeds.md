@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 04:13:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 05:04:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890c/live/e3bfa080-5634-11f0-b43d-bf2a6c0361e5.jpg" alt="MPs to vote on welfare bill as unrest rumbles on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62889vm3nno" target="_blank">MPs to vote on welfare bill as unrest rumbles on</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 04:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2939/live/dae6a3f0-560c-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Labour still has a big persuasion job ahead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/obama-bush-decry-travesty-of-trumps-gutting-of-usaid-on-its-last-day?traffic_source=rss" target="_blank">Obama, Bush decry ‘travesty’ of Trump’s gutting of USAID on its last day</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-06-30 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/30/1255015997/medicaid-cuts-rural-healthcare-tillis-senate-budget" target="_blank">Why a GOP senator says the budget bill breaks Trump&#x27;s promise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 21:36</span>
             </div>
         </div>
 </div>
@@ -429,8 +419,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 257 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 38 | 📅 Last 24h: 121 | 📡 Total Sources: 44 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
