@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-06-30 23:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 00:05:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, June 30, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +110,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates" target="_blank">Steam can now show you how much frame generation changes your games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-06-30 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/boomerang-cropped-500x500.png" alt="A mammoth tusk boomerang from Poland is 40,000 years old" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/06/a-mammoth-tusk-boomerang-from-poland-is-40000-years-old/" target="_blank">A mammoth tusk boomerang from Poland is 40,000 years old</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-06-30 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/06/30/tesla-sends-driverless-model-y-from-factory-to-customer-to-promote-its-robotaxi-tech/" target="_blank">Tesla sends driverless Model Y from factory to customer to promote its robotaxi tech</a></span>
                 <span class="feed">TechCrunch</span>
@@ -134,29 +161,20 @@
                 <span class="time">2025-06-30 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit" target="_blank">The government’s Apple antitrust lawsuit is still on</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/netflix-teams-up-with-nasa-to-boost-its-live-tv-offering/" target="_blank">Netflix teams up with NASA to boost its live TV offering</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 19:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6rzd4wbbxb12oivbluzx.png" alt="Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saaberdev/run-laravel-pint-with-a-single-keyboard-shortcut-in-phpstorm-3hn7" target="_blank">Run Laravel Pint With a Single Keyboard Shortcut in PhpStorm</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-06-30 23:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Raises RISC-V Profile Requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support" target="_blank">Ubuntu 25.10 Raises RISC-V Profile Requirements</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-06-30 20:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/06/logzio-dynatrace-observability/en/headerimage/generatedHeaderImage-1751315152854.jpg" alt="Logz.io and Dynatrace Innovations Shift Observability Into the AI Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -191,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/tableau-development-best-practices" target="_blank">Tableau Dashboard Development Best Practices</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-06-30 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgedztf1q0hpf9n0ku5w.jpg" alt="🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/idavidov13/how-to-build-a-scalable-qa-framework-with-advanced-typescript-patterns-5eh5" target="_blank">🛡️ How to Build a Scalable QA Framework with Advanced TypeScript Patterns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-06-30 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18482831&w=600" alt="Streamlining DevOps: How Containers and Kubernetes Deliver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/streamlining-devops-how-containers-and-kubernetes" target="_blank">Streamlining DevOps: How Containers and Kubernetes Deliver</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-06-30 19:00</span>
             </div>
         </div>
 </div>
@@ -258,6 +267,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-2170596204.jpg" alt="Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mark-zuckerberg-already-knows-your-life-now-he-wants-his-ai-to-run-it-2000622496" target="_blank">Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-06-30 23:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ18M3544TV1F9H7030MSZVH/hero-image.png" alt="Why I’m Excited for Amazfit’s New &#x27;Helio Strap&#x27; Fitness Tracker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -300,15 +318,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352" target="_blank">Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-30 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/30fe6f10-55c3-11f0-a1ca-8125e59f5995.jpg.webp?fit=1536%2C863&amp;quality=55&amp;ssl=1" alt="92 year-old man convicted of murder in 58 year-old cold case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/92-year-old-man-convicted-of-murder-in-58-year-old-cold-case.html" target="_blank">92 year-old man convicted of murder in 58 year-old cold case</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-06-30 17:43</span>
             </div>
         </div>
 </div>
@@ -416,8 +425,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 38 | 📅 Last 24h: 122 | 📡 Total Sources: 44 | 📸 With Images: 239 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 244 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
