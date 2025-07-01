@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 15:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-01 16:01:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks from &#x27;Alligator Alcatraz&#x27; migrant detention center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump speaks from &#x27;Alligator Alcatraz&#x27; migrant detention center</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/how-al-hilals-cwc-win-over-man-city-shifts-perceptions-of-saudi-football?traffic_source=rss" target="_blank">How Al Hilal’s CWC win over Man City shifts perceptions of Saudi football</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +101,29 @@
                 <span class="time">2025-07-01 13:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Thune-and-Murkowski-DB-260701_1751359277757_hpMain_4x3t_384.jpg" alt="Trump admin live updates: GOP leaders press holdouts in Trump megabill vote marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: GOP leaders press holdouts in Trump megabill vote marathon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/164eb1a0-566f-11f0-9f6a-932e10cc460f.jpg" alt="Spain and Portugal record hottest June ever as heatwave grips Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70rrlexnwzo" target="_blank">Spain and Portugal record hottest June ever as heatwave grips Europe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 12:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch" target="_blank">Threads now has DMs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/remark-raises-16-million-in-to-build-out-human-powered-expert-models-for-e-commerce/" target="_blank">Remark raises $16M to build out human-powered expert models for e-commerce</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +160,47 @@
                 <span class="time">2025-07-01 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright" target="_blank">The Running Man mixes mayhem and humor in first trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech" target="_blank">Newark’s air traffic outages were just the tip of the iceberg</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/chiseled-ubuntu-containers-openjre" target="_blank">Chiseled Ubuntu containers for OpenJRE 8, 17 and 21</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-01 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18485005&w=600" alt="Zero-Click CRM: The Future of Predictive Customer Management With Autonomous AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-click-crm-predictive-ai" target="_blank">Zero-Click CRM: The Future of Predictive Customer Management With Autonomous AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2506.17732" target="_blank">Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-01 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-4005-server" target="_blank">Performance &amp; Power Of The Low-Cost EPYC 4005 &quot;Grado&quot; vs. Original EPYC 7601 Zen 1 Flagship CPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-01 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/apple-illusion-thinking/en/headerimage/generatedHeaderImage-1750604500202.jpg" alt="Apple&#x27;s Illusion of Thinking Paper Explores Limits of Large Reasoning Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,42 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Canonical-Double-Down-Java" target="_blank">Canonical Decides To Double Down On Their Investment In Java For Ubuntu</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-01 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyet06l4w2gqiznb4nxhp.png" alt="Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/webcraft-notes/smart-content-management-integrating-search-filters-and-pagination-with-react-and-nodejs-4c01" target="_blank">Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/introducing-canonical-builds-of-openjdk" target="_blank">Introducing Canonical builds of OpenJDK</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-NVK-Blackwell" target="_blank">Mesa 25.2 Should Have Initial Vulkan Support In Good Shape For NVIDIA Blackwell</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-01 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aditya-saasy/how-startups-can-leverage-reddit-marketing-for-seo-439h" target="_blank">How Startups Can Leverage Reddit Marketing for SEO</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 09:39</span>
             </div>
         </div>
 </div>
@@ -245,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.png" alt="Amazon Prime Members Can Get Two Free E-Books in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/free-kindle-ebooks-july-2025?utm_medium=RSS" target="_blank">Amazon Prime Members Can Get Two Free E-Books in July</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-01 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/39920f2db5543e3cd4447daac631a7df.png" alt="Clair Obscur: Expedition 33: How To Earn The &#x27;Aiding The Enemy&#x27; Achievement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/clair-obscur-expedition-33-aiding-the-enemy-blanche-1851785361" target="_blank">Clair Obscur: Expedition 33: How To Earn The &#x27;Aiding The Enemy&#x27; Achievement</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 15:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ec416f1e3673170b581ceb733659fc19.jpg" alt="Clair Obscur: Expedition 33: Should You Spare Chalier?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +301,20 @@
                 <span class="time">2025-07-01 13:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/hisense-deal.jpg" alt="This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-hisense-40-inch-smart-fire-tv-is-just-3-months-old-and-already-almost-free-thanks-to-4th-of-july-deal-2000622048" target="_blank">This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/69bfbf866000b5df0367b1aa2fc17129.png" alt="11 More Sports Rivalries We Want To See Get Violent In WWE 2K" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wwe-2k-dlc-tyrese-haliburton-jalen-brunson-rivalry-1851785376" target="_blank">11 More Sports Rivalries We Want To See Get Violent In WWE 2K</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1750828096-20250701.png" alt="Saturday Morning Breakfast Cereal - Stochastic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/stochastic" target="_blank">Saturday Morning Breakfast Cereal - Stochastic</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-01 15:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5603.png" alt="Zip It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,22 +342,13 @@
                 <span class="time">2025-06-30 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750828004-20250630.png" alt="Saturday Morning Breakfast Cereal - Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/watch" target="_blank">Saturday Morning Breakfast Cereal - Watch</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-06-30 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 43 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 43 | 📸 With Images: 283 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
