@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 02:41:19 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-01 03:29:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 02:41 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6862d51bb5d0f2cb11745514/master/pass/Trump-Megabill-Business-2222327981.jpg" alt="Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/" target="_blank">Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 01:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -153,20 +159,20 @@
                 <span class="time">2025-06-30 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 36 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 36 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-06-30 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/jakarta-ee-11-updates/en/headerimage/java-istock-image-01-1751318894012.jpg" alt="Jakarta EE 11 Delivers One New Specification, 16 Updated Specifications and Modernized TCK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/jakarta-ee-11-updates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jakarta EE 11 Delivers One New Specification, 16 Updated Specifications and Modernized TCK</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-01 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/member_35db4d53/code-evolution-strategies1751336264080500-33mf" target="_blank">Code Evolution Strategies（1751336264080500）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-01 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AerynOS-Mid-2025" target="_blank">AerynOS Tooling Now Written In Rust Rather Than D, New Software Updates</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-01 00:27</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://www.philschmid.de/context-engineering" target="_blank">The New Skill in AI Is Not Prompting, It&#x27;s Context Engineering</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-06-30 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Raises RISC-V Profile Requirements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support" target="_blank">Ubuntu 25.10 Raises RISC-V Profile Requirements</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-06-30 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/06/logzio-dynatrace-observability/en/headerimage/generatedHeaderImage-1751315152854.jpg" alt="Logz.io and Dynatrace Innovations Shift Observability Into the AI Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/06/logzio-dynatrace-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Logz.io and Dynatrace Innovations Shift Observability Into the AI Age</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-06-30 20:30</span>
             </div>
         </div>
 </div>
@@ -435,8 +432,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 39 | 📅 Last 24h: 125 | 📡 Total Sources: 44 | 📸 With Images: 253 |
-        🔄 Last Updated: 02:41 UTC
+        📊 Displayed: 39 | 📅 Last 24h: 125 | 📡 Total Sources: 44 | 📸 With Images: 255 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
