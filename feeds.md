@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 11:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-01 12:02:00 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5398493/light-pollution-west-texas-dark-sky-reserve-observatory-stars-galaxies-constelations" target="_blank">As light pollution increases, West Texas works to protect the world&#x27;s largest &#x27;dark sky reserve&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-01 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-usaid-bangladesh_6954404.jpg?20250701122147" alt="Trump&#x27;s USAID cuts &#x27;could lead to 14 million deaths&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trumps-usaid-cuts-could-lead-to-14-million-deaths-report-warns-13390818" target="_blank">Trump&#x27;s USAID cuts &#x27;could lead to 14 million deaths&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-01 08:15</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +97,29 @@
                 <span class="time">2025-07-01 06:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5452988/cartel-violence-sinaloa-mexico-decapitated-bodies" target="_blank">Cartel violence in Sinaloa, Mexico, leaves 20 dead, including 4 decapitated bodies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 05:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech" target="_blank">Newark’s air traffic outages were just the tip of the iceberg</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/WR134-500x500.jpg" alt="Tuesday Telescope: A howling wolf in the night sky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" target="_blank">Tuesday Telescope: A howling wolf in the night sky</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68630619bb31e7f20ab64b89/master/pass/Update-%20The%20Best%20Streaming%20Devices%20for%20TV%20Cord%20Cutters.png" alt="7 Best Streaming Devices for TVs (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +127,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-4k-streaming-devices/" target="_blank">7 Best Streaming Devices for TVs (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-01 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/" target="_blank">Cloudflare launches a marketplace that lets websites charge AI bots for scraping</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 10:00</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +156,20 @@
                 <span class="time">2025-07-01 01:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6862d51bb5d0f2cb11745514/master/pass/Trump-Megabill-Business-2222327981.jpg" alt="Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/" target="_blank">Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/" target="_blank">Sri Mandir keeps investors hooked as digital devotion grows</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates" target="_blank">Steam can now show you how much frame generation changes your games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyet06l4w2gqiznb4nxhp.png" alt="Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/webcraft-notes/smart-content-management-integrating-search-filters-and-pagination-with-react-and-nodejs-4c01" target="_blank">Smart Content Management: Integrating Search, Filters, and Pagination with React and Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 11:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2025-07-01 05:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/deepmind-alpha-genome/en/headerimage/generatedHeaderImage-1751133093753.jpg" alt="Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/deepmind-alpha-genome/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaGenome: A Unified AI Model for High-Resolution Genome Interpretation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-01 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +227,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/" target="_blank">Senator Chides FBI for Weak Advice on Mobile Security</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-06-30 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/06/cyberattacks-shake-voters-trust-in-elections.html" target="_blank">How Cybersecurity Fears Affect Confidence in Voting Systems</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-06-30 11:05</span>
             </div>
         </div>
 <div class="story">
@@ -413,8 +402,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 37 | 📅 Last 24h: 122 | 📡 Total Sources: 44 | 📸 With Images: 265 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 36 | 📅 Last 24h: 117 | 📡 Total Sources: 44 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
