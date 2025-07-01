@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 12:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 13:11:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Thune-and-Murkowski-DB-260701_1751359277757_hpMain_4x3t_384.jpg" alt="Trump admin live updates: GOP leaders press holdouts in Trump megabill vote marathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: GOP leaders press holdouts in Trump megabill vote marathon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/164eb1a0-566f-11f0-9f6a-932e10cc460f.jpg" alt="Spain and Portugal record hottest June ever as heatwave grips Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c70rrlexnwzo" target="_blank">Spain and Portugal record hottest June ever as heatwave grips Europe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +98,20 @@
                 <span class="time">2025-07-01 07:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5452994/israel-gaza-hamas-cafe-airstrike-aid" target="_blank">74 killed in Gaza as Israeli forces strike a cafe and fire on people seeking food</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/1/thailand-pm-paetongtarn-shinawatra-father-thaksin-face-legal-peril?traffic_source=rss" target="_blank">Thailand PM Paetongtarn Shinawatra, father Thaksin face legal peril</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 06:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright" target="_blank">The Running Man mixes mayhem and humor in first trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 13:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/vistaprint-coupon-code/" target="_blank">20% VistaPrint Coupon &amp; Promo Codes | July 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 01:43</span>
             </div>
         </div>
 </div>
@@ -253,6 +254,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/hisense-deal.jpg" alt="This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-hisense-40-inch-smart-fire-tv-is-just-3-months-old-and-already-almost-free-thanks-to-4th-of-july-deal-2000622048" target="_blank">This Hisense 40″ Smart Fire TV Is Just 3 Months Old and Already Almost 50% Off Thanks to 4th of July Deal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ1Q38VREW2KQAE7WW0BJBJQ/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: The &#x27;Dusting Challenge&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-the-dusting-challenge?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: The &#x27;Dusting Challenge&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-01 12:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-Outside-the-UK.jpg" alt="How to Watch Wimbledon 2025 Live Outside the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -288,24 +307,6 @@
                 <span class="time">2025-07-01 01:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/04/comcass-comcast-donkey.jpg?fit=630%2C309&amp;quality=60&amp;ssl=1" alt="Comcast&#x27;s WiFi Motion service discloses your movements &quot;to third parties without further notice&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/06/30/comcasts-wifi-motion-service-discloses-your-movements-to-third-parties-without-further-notice.html" target="_blank">Comcast&#x27;s WiFi Motion service discloses your movements &quot;to third parties without further notice&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-2170596204.jpg" alt="Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mark-zuckerberg-already-knows-your-life-now-he-wants-his-ai-to-run-it-2000622496" target="_blank">Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-06-30 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section general-news" id="general">
@@ -326,33 +327,6 @@
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/best-rpgs-persona-5-royal-1851118000" target="_blank">Six Years Ago, The Most Stylish RPG Ever Revived A Dying Genre</a></span>
                 <span class="feed">Kotaku</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-lawsuits-cftod-ralph-ineson-1851122874" target="_blank">Disney Sues Florida as Willow Star Ralph Ineson Sues Disney</a></span>
-                <span class="feed">Gizmodo</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023" target="_blank">Today’s Wordle Hints (and Answer) for Sunday, December 24, 2023</a></span>
-                <span class="feed">LifeHacker</span>
-                
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html" target="_blank">Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced</a></span>
-                <span class="feed">CNN.com - RSS Channel - HP Hero</span>
                 
             </div>
         </div>
@@ -402,8 +376,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 36 | 📅 Last 24h: 117 | 📡 Total Sources: 44 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 33 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
