@@ -1,18 +1,20 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 03:29:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-01 04:13:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
@@ -20,17 +22,21 @@
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +112,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/chatgpt-everything-to-know-about-the-ai-chatbot/" target="_blank">ChatGPT: Everything you need to know about the AI-powered chatbot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 01:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6862d51bb5d0f2cb11745514/master/pass/Trump-Megabill-Business-2222327981.jpg" alt="Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -148,15 +163,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/06/30/tesla-sends-driverless-model-y-from-factory-to-customer-to-promote-its-robotaxi-tech/" target="_blank">Tesla sends driverless Model Y from factory to customer to promote its robotaxi tech</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-06-30 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered" target="_blank">Apple’s AI Siri might be powered by OpenAI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-06-30 21:01</span>
             </div>
         </div>
 </div>
@@ -265,6 +271,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/grilled-cheese.jpg" alt="Eating Dairy Before Bed Can Give You Nightmares, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eating-dairy-before-bed-can-give-you-nightmares-study-suggests-2000622123" target="_blank">Eating Dairy Before Bed Can Give You Nightmares, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-01 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/The-Plot-of-the-Phantom.jpg?fit=1080%2C746&amp;quality=60&amp;ssl=1" alt="Play a text adventure 40 years in the making" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -307,15 +322,6 @@
                 <span class="title"><a href="https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384" target="_blank">Halo&#x27;s Future Will Be Revealed...In October, Says Xbox</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-06-30 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ1836HKRTTQW89VERSTKP11/hero-image.jpg" alt="Seven Changes That Finally Helped Me Stick to My Home Fitness Routine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/seven-changes-that-helped-me-stick-to-my-home-fitness-routine?utm_medium=RSS" target="_blank">Seven Changes That Finally Helped Me Stick to My Home Fitness Routine</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-06-30 21:00</span>
             </div>
         </div>
 </div>
@@ -418,22 +424,13 @@
                 <span class="time">2025-06-30 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="Dehumidifier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3109/" target="_blank">Dehumidifier</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-06-30 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 39 | 📅 Last 24h: 125 | 📡 Total Sources: 44 | 📸 With Images: 255 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 257 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
