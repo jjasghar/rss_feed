@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 20:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-01 21:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 14 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Jury reaches partial verdict in Sean &#x27;Diddy&#x27; Combs trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Jury reaches partial verdict in Sean &#x27;Diddy&#x27; Combs trial</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/1/will-thailands-prime-minister-survive-the-latest-crisis?traffic_source=rss" target="_blank">Will Thailand’s Prime Minister survive the latest crisis?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-01 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Government wins welfare bill vote after big concessions to rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Government wins welfare bill vote after big concessions to rebels</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-01 20:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4d/live/abd9f630-56ab-11f0-9261-abd7e0261bf5.jpg" alt="Government makes big concessions to win welfare vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +106,38 @@
                 <span class="time">2025-07-01 18:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/senate-10-gty-gmh-250701_1751387999641_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance casts tie-breaking vote to pass megabill in Senate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Vance casts tie-breaking vote to pass megabill in Senate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/164eb1a0-566f-11f0-9f6a-932e10cc460f.jpg" alt="Spain and England record hottest June as heatwave grips Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c70rrlexnwzo" target="_blank">Spain and England record hottest June as heatwave grips Europe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453457/trump-school-funding-grants" target="_blank">The Trump admin is withholding over $6 billion in education grants for schools</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158427559-500x500.jpg" alt="Moderna says its mRNA seasonal flu shot is 27% better than current vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/moderna-says-its-mrna-seasonal-flu-shot-is-27-better-than-current-vaccine/" target="_blank">Moderna says its mRNA seasonal flu shot is 27% better than current vaccine</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/road-to-battlefield-central-eurasias-gateway-to-techcrunch-startup-battlefield/" target="_blank">Road to Battlefield: Central Eurasia’s Gateway to TechCrunch Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/696189/google-home-member-admin-kids-launch" target="_blank">Google makes it easier to let friends and kids control your smart home</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-01 20:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -116,6 +145,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/" target="_blank">Catalio Capital closes over $400M Fund IV</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68633341f7fb33b977c5d7e5/master/pass/politics_russiandisinfo_getty.jpg" alt="A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/" target="_blank">A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-01 19:27</span>
             </div>
         </div>
 <div class="story">
@@ -127,47 +165,29 @@
                 <span class="time">2025-07-01 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21539047/best-amazon-kindle-deals" target="_blank">Here are the best Kindle deals right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform" target="_blank">Grammarly wants to become an ‘AI productivity platform’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6863fe1816fbdea57514d650/master/pass/zuck-ai-money-biz-2208764114.jpg" alt="Here’s What Mark Zuckerberg Is Offering Top AI Talent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/" target="_blank">Here’s What Mark Zuckerberg Is Offering Top AI Talent</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-01 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/nothing-releases-their-first-over-the-ear-headphones/" target="_blank">Nothing releases their first over-the-ear headphones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm8sg64cbldiwlz1txf44.png" alt="Reference Architecture for Team AI Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi" target="_blank">Reference Architecture for Team AI Productivity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMDGPU" target="_blank">AMD Preps Some Compute Driver Fixes For Polaris &amp; Hawaii Era GPUs With Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-01 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,39 +207,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-idea-to-pr-a-guide-to-github-copilots-agentic-workflows/" target="_blank">From idea to PR: A guide to GitHub Copilot’s agentic workflows</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-01 18:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F105de95c357a5bcdbf32c4ba4f76d6c89fdfcaac%2F685_0_2250_1800%2Fmaster%2F2250.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D7481fff4acc49e40d6d247a25e4cbf93" alt="Money problems: have we had enough of TV shows about rich people?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/popcorn_tv/money-problems-have-we-had-enough-of-tv-shows-about-rich-people-31pd" target="_blank">Money problems: have we had enough of TV shows about rich people?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-01 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18486938&w=600" alt="Spring Cloud LoadBalancer vs Netflix Ribbon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spring-cloud-load-balancer-vs-netflix-ribbon" target="_blank">Spring Cloud LoadBalancer vs Netflix Ribbon</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/agent2agent-linux-foundation/en/headerimage/agent2agent-linux-foundation-1751390634721.jpeg" alt="Google&#x27;s Agent2Agent Protocol Enters the Linux Foundation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/agent2agent-linux-foundation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Agent2Agent Protocol Enters the Linux Foundation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/digikam-THUMB.jpg?resize=406%2C232&amp;ssl=1" alt="digiKam 8.7.0 Release Offers Improved AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/digikam-8-7-0-new-ai-tools" target="_blank">digiKam 8.7.0 Release Offers Improved AI Tools</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-01 17:10</span>
             </div>
         </div>
 </div>
@@ -241,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/old-greek-tales.jpg?fit=1200%2C1735&amp;quality=60&amp;ssl=1" alt="How short words made old tales fresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/how-short-words-made-old-tales-fresh.html" target="_blank">How short words made old tales fresh</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1480114759b19589687e93fdc42d11a3.gif" alt="Monster Hunter Wilds&#x27; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-mhw-diving-defense-roll-1851785410" target="_blank">Monster Hunter Wilds&#x27; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-01 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Foundation_LauraBirn.jpg" alt="‘Foundation’ Season 3 Digs Into What It’s Like for a Robot to Have an Existential Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/01/us-vice-president-vance-says-terrorizing-people-is-job-one.html" target="_blank">US Vice President Vance says terrorizing people is job one</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-01 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/67146257314896c0bdee5e44529746a3.jpg" alt="Please Don&#x27;t Rush Through Blue Prince" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/blue-prince-how-long-to-beat-room-46-tutorial-puzzles-1851785424" target="_blank">Please Don&#x27;t Rush Through Blue Prince</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/beasts-2.jpg" alt="82 New Sci-Fi, Fantasy, and Horror Books Arriving in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-books-july-2025-sci-fi-fantasy-horror-2000621725" target="_blank">82 New Sci-Fi, Fantasy, and Horror Books Arriving in July</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 18:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 289 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
