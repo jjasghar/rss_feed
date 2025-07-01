@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 00:05:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 01:29:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bryan-kohberger-ap-jef-250630_1751308544311_hpMain_4x3t_384.jpg" alt="Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/bryan-kohberger-plead-guilty-counts-idaho-college-murders/story?id=123356808" target="_blank">Bryan Kohberger agrees to plead guilty to all counts in Idaho college murders case</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-01 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_06/1751327676076_nn_sgo_kohberger_update_250630_1920x1080-j5zpi3.jpg" alt="Bryan Kohberger appears to accept plea deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/bryan-kohberger-appears-to-accept-plea-deal-242501189720" target="_blank">Bryan Kohberger appears to accept plea deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-06-30 23:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/6/30/trump-formally-orders-lifting-of-syria-sanctions?traffic_source=rss" target="_blank">Trump formally orders lifting of Syria sanctions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-06-30 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +107,20 @@
                 <span class="time">2025-06-30 21:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/06/30/nx-s1-5451736/doj-health-care-fraud-medicaid" target="_blank">DOJ announces a record-breaking takedown of health care fraud schemes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-06-30 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/6/30/who-will-feed-sudanese-refugees?traffic_source=rss" target="_blank">Who will feed Sudanese refugees?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-06-30 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/combs-trial-sketch-05-rt-jef-250630_1751308117744_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Judge will instruct jury to continue deliberations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-06-30 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/06/30/sri-mandir-keeps-investors-hooked-as-digital-devotion-grows/" target="_blank">Sri Mandir keeps investors hooked as digital devotion grows</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 00:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +164,6 @@
                 <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 36 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-06-30 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/06/30/fintech-bolt-progresses-its-turnaround-by-landing-klarna-as-a-partner/" target="_blank">Fintech Bolt progresses its turnaround by landing Klarna as a partner</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-06-30 20:00</span>
             </div>
         </div>
 </div>
@@ -267,6 +272,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/04/comcass-comcast-donkey.jpg?fit=630%2C309&amp;quality=60&amp;ssl=1" alt="Comcast&#x27;s WiFi Motion service discloses your movements &quot;to third parties without further notice&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/06/30/comcasts-wifi-motion-service-discloses-your-movements-to-third-parties-without-further-notice.html" target="_blank">Comcast&#x27;s WiFi Motion service discloses your movements &quot;to third parties without further notice&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-01 01:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-2170596204.jpg" alt="Mark Zuckerberg Already Knows Your Life. Now He Wants His AI to Run It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -309,15 +323,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/06/30/tiny-carvings-in-pencil-cores.html" target="_blank">Tiny carvings in pencil cores</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-06-30 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/81c79847fc856c696737fd4565c0cb9b.png" alt="Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352" target="_blank">Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-06-30 17:55</span>
             </div>
         </div>
 </div>
@@ -376,6 +381,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5603.png" alt="Zip It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5603" target="_blank">Zip It</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-07-01 01:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -425,8 +439,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 38 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 244 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 39 | 📅 Last 24h: 123 | 📡 Total Sources: 44 | 📸 With Images: 249 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
