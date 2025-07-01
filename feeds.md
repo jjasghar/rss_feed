@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-01 22:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-01 23:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 01, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 01, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453851/guns-immigration-states-laws-take-effect" target="_blank">New laws this month touch on fundamental rights</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-01 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +101,29 @@
                 <span class="time">2025-07-01 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4d/live/abd9f630-56ab-11f0-9261-abd7e0261bf5.jpg" alt="Government makes big concessions to win welfare vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Government makes big concessions to win welfare vote</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-01 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/" target="_blank">Congress just greenlit a NASA moon plan opposed by Musk and Isaacman</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-876658722-500x500.jpg" alt="RFK Jr.’s health department calls Nature “junk science,” cancels subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/" target="_blank">RFK Jr.’s health department calls Nature “junk science,” cancels subscriptions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-01 22:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +160,20 @@
                 <span class="time">2025-07-01 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/696189/google-home-member-admin-kids-launch" target="_blank">Google makes it easier to let friends and kids control your smart home</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/catalio-capital-closes-over-400m-fund-iv/" target="_blank">Catalio Capital closes over $400M Fund IV</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a5799784/cross-platform-universal-applications1751410386791500-57o5" target="_blank">Cross Platform Universal Applications（1751410386791500）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-01 22:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm8sg64cbldiwlz1txf44.png" alt="Reference Architecture for Team AI Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,6 +193,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487012&w=600" alt="Replacing Legacy Systems With Data Streaming: The Strangler Fig Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/replacing-legacy-systems-one-step-at-a-time-with-d" target="_blank">Replacing Legacy Systems With Data Streaming: The Strangler Fig Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/keycloak-mcp-server-tools-quarkus" target="_blank">A Keycloak Example: Building My First MCP Server Tools With Quarkus</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-01 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-idea-to-pr-a-guide-to-github-copilots-agentic-workflows/" target="_blank">From idea to PR: A guide to GitHub Copilot’s agentic workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-01 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F105de95c357a5bcdbf32c4ba4f76d6c89fdfcaac%2F685_0_2250_1800%2Fmaster%2F2250.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D7481fff4acc49e40d6d247a25e4cbf93" alt="Money problems: have we had enough of TV shows about rich people?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_tv/money-problems-have-we-had-enough-of-tv-shows-about-rich-people-31pd" target="_blank">Money problems: have we had enough of TV shows about rich people?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 18:55</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 40 | 📸 With Images: 290 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 290 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
