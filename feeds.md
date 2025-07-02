@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 20:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-02 21:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/diddy-1-rt-gmh-250702_1751465296906_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs verdict: What&#x27;s next for the rap mogul?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/sean-diddy-combs-guilty-whats-next/story?id=123412310" target="_blank">Sean &#x27;Diddy&#x27; Combs verdict: What&#x27;s next for the rap mogul?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454790/cbs-settlement-trump-60-minutes-harris-interview-analysis" target="_blank">CBS is the latest news giant to bend to Trump&#x27;s power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kohberger-ap-jt-250702_1751477296007_hpMain_4x3t_384.jpg" alt="Bryan Kohberger admits to Idaho college killings, pleads guilty to all charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +99,20 @@
                 <span class="time">2025-07-02 17:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/diddy-3-gty-gmh-250702_1751468896283_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: &#x27;Diddy&#x27; not guilty of racketeering in split verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: &#x27;Diddy&#x27; not guilty of racketeering in split verdict</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5453068/how-trumps-immigration-crackdown-is-sweeping-up-longtime-residents-and-workers" target="_blank">How Trump&#x27;s immigration crackdown is sweeping up longtime residents and workers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 15:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8" target="_blank">Google’s fix for Pixel 6A battery overheating issues arrives next week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +158,20 @@
                 <span class="time">2025-07-02 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/" target="_blank">A guide to using Edits, Meta’s new CapCut rival for short-form video editing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykkkomzmg8aty35go7tl.png" alt="Devlog #5 Fantasy Overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bain_8a987225b41e21618fcb/devlog-5-fantasy-overhaul-i73" target="_blank">Devlog #5 Fantasy Overhaul</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18485742&w=600" alt="Parallel Data Conflict Resolution in Enterprise Workflows: Pessimistic vs. Optimistic Locking at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,28 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/" target="_blank">5 ways to transform your workflow using GitHub Copilot and MCP</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-02 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/i04n/sslcheck" target="_blank">sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-07-02 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487048&w=600" alt="Top NoSQL Databases and Use Cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/top-nosql-databases-and-use-cases" target="_blank">Top NoSQL Databases and Use Cases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Strengthen Your Server with Automated Security Audits Using Ansible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/strengthen-your-server-with-automated-security-audits-using-ansible-301o" target="_blank">Strengthen Your Server with Automated Security Audits Using Ansible</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 16:54</span>
             </div>
         </div>
 </div>
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ651RJ9QBRV4A1R0T8SEHD2/hero-image.png" alt="Your Anker Powerbank May Have Just Been Recalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-powerbank-recall-2025?utm_medium=RSS" target="_blank">Your Anker Powerbank May Have Just Been Recalled</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-02 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b579f3df802d8704684b44c06128e0ff.jpg" alt="Unlocking Daisy In Mario Kart World Is Super Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-07-02 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ5YNNSBFDC0YB1ND5X8W2N4/hero-image.png" alt="Android Users Will Soon Be Able to Edit Texts Sent to Their Friends on iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-messages-editing-to-iphones?utm_medium=RSS" target="_blank">Android Users Will Soon Be Able to Edit Texts Sent to Their Friends on iPhone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-02 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
