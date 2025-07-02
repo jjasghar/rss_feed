@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 08:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-02 09:02:40 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +55,24 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454369/upenn-swimming-records-feds-transgender-athletes" target="_blank">UPenn updates swimming records to settle with feds on transgender athletes case</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-02 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Capitol-DB-250702_1751439894809_hpMain_2_4x3t_384.jpg" alt="Trump admin live updates: House Rules Committee advances megabill to floor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House Rules Committee advances megabill to floor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 07:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-trump-donald_6879194.jpg?20250407183847" alt="Why Netanyahu only wants a 60-day ceasefire - not a permanent one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-ceasefire-proposal-a-significant-moment-but-there-are-still-many-unanswered-questions-13391292" target="_blank">Why Netanyahu only wants a 60-day ceasefire - not a permanent one</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-02 07:09</span>
             </div>
         </div>
 <div class="story">
@@ -74,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cgkg4m0133po" target="_blank">Trump says Israel has agreed to conditions for 60-day Gaza ceasefire</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-02 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/us-2?traffic_source=rss" target="_blank">US university bans trans athletes under pressure from Trump administration</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453885/medicaid-data-immigration-dhs-lawsuit" target="_blank">States sue Trump administration for sharing health data with DHS</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 00:13</span>
             </div>
         </div>
 </div>
@@ -159,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theaniketraj/project-karl-21nn" target="_blank">Project KARL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 08:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2505.21411" target="_blank">Huawei releases an open weight model trained on Huawei Ascend GPUs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-02 07:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3wi33l1x9r8jp9xt4xxj.png" alt="The Role of Data Engineers - AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +220,6 @@
                 <span class="time">2025-07-02 02:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts" target="_blank">Live Linux kernel patching with progressive timestamped rollouts</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-02 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a5799784/cross-platform-universal-applications1751410386791500-57o5" target="_blank">Cross Platform Universal Applications（1751410386791500）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 22:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/double-explosion-star.jpg" alt="Star Meets Stunning End by Exploding Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-meets-stunning-end-by-exploding-twice-2000623146" target="_blank">Star Meets Stunning End by Exploding Twice</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_596958536-e1742226745964.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Chuck Schumer struggles to remain relevant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +293,6 @@
                 <span class="time">2025-07-01 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ3TH33QTE0W8ZNER51V1627/hero-image.png" alt="The Best Early Prime Day Tech Deals Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-best-early-prime-day-tech-deals-under-25-dollars?utm_medium=RSS" target="_blank">The Best Early Prime Day Tech Deals Under $25</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-01 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
