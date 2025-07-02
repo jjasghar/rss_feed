@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 14:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-02 15:01:45 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5446128/sean-combs-diddy-trial-guilty-two-counts" target="_blank">Sean Combs found guilty on two counts, but acquitted on most serious charges</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Sean &#x27;Diddy&#x27; Combs found guilty on 2 of 5 counts: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Sean &#x27;Diddy&#x27; Combs found guilty on 2 of 5 counts: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/2/japanese-activist-pledges-to-continue-daily-gaza-protests?traffic_source=rss" target="_blank">Japanese activist pledges to continue daily Gaza protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/282f09f0-5710-11f0-9074-8989d8c97d87.jpg" alt="Heathrow considering legal action against National Grid over fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +95,20 @@
                 <span class="time">2025-07-02 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/g-s1-75640/up-first-newsletter-senate-house-megabill-medicaid-atf-regulations" target="_blank">How the megabill will limit health care access. And, plans to ease gun regulations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/2/video-a-home-turned-library-to-tackle-the-philippines-reading-crisis?traffic_source=rss" target="_blank">Video: A home-turned-library to tackle the Philippines’ reading crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5437962/america-250-declaration-of-independence-anniversary-trump-celebration" target="_blank">America has a major birthday coming up — here&#x27;s what to expect for the big 2-5-0</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222356312-500x500.jpg" alt="Tesla Q2 2025 sales dropped more than 13% year-over-year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/" target="_blank">Tesla Q2 2025 sales dropped more than 13% year-over-year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-02 14:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,38 @@
                 <span class="time">2025-07-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/691111/dji-power-2000-station-price-date" target="_blank">DJI gets serious about portable power</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_35db4d53/microservices-architecture-design1751467754153500-2p1p" target="_blank">Microservices Architecture Design（1751467754153500）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/spring-boot-containers-made-easy" target="_blank">Source to production: Spring Boot containers made easy</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-02 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487035&w=600" alt="Vibe Coding: Conversational Software Development — Part 1 Introduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/vibe-coding-conversational-software-development" target="_blank">Vibe Coding: Conversational Software Development — Part 1 Introduction</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487029&w=600" alt="Microservice Madness: Debunking Myths and Exposing Pitfalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +213,6 @@
                 <span class="time">2025-07-02 11:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands" target="_blank">Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzau4qytvnz2p6rtm11qc.png" alt="20+ Free &amp; Responsive React Website Templates to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi" target="_blank">20+ Free &amp; Responsive React Website Templates to Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Papers-Approved-49" target="_blank">GNOME Papers Document Viewer Approved To Replace Evince In GNOME 49</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-02 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/shutterstock_202742458-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Diddy convicted of transporting women for prostitution, but not trafficking or racketeering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/diddy-convicted-of-transporting-women-for-prostitution-but-not-trafficking-or-racketeering.html" target="_blank">Diddy convicted of transporting women for prostitution, but not trafficking or racketeering</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Apple-TVs-first-look-at-the-bar-in-Chiba-City.jpg?fit=1080%2C617&amp;quality=60&amp;ssl=1" alt="Why sky do you see in dead channels?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +286,6 @@
                 <span class="time">2025-07-02 01:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/OldGuardtopart.jpg" alt="‘The Old Guard 2’ Is a Tender Sophomore Stretched Thin by Sequel Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-old-guard-2-is-a-tender-sophomore-stretched-thin-by-sequel-syndrome-2000621108" target="_blank">‘The Old Guard 2’ Is a Tender Sophomore Stretched Thin by Sequel Syndrome</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
