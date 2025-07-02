@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 07:01:59 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-02 08:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454369/upenn-swimming-records-feds-transgender-athletes" target="_blank">UPenn updates swimming records to settle with feds on transgender athletes case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 07:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Government wins vote on watered-down welfare bill after concessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Government wins vote on watered-down welfare bill after concessions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 05:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Watered down welfare bill passes after concessions to rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453885/medicaid-data-immigration-dhs-lawsuit" target="_blank">States sue Trump administration for sharing health data with DHS</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-02 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgkg4m0133po" target="_blank">Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/02/1920x1080/skynews-trump-israel_6821515.jpg?20250206171342" alt="Why Netanyahu may only want a 60-day ceasefire over an end to Gaza war - after Trump claims Israel has agreed terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Why Netanyahu may only want a 60-day ceasefire over an end to Gaza war - after Trump claims Israel has agreed terms</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-01 23:41</span>
             </div>
         </div>
 </div>
@@ -306,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
