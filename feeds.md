@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 00:04:42 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-02 01:29:19 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +39,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-donald-trump-alligator-alcatraz_6954960.jpg?20250702013044" alt="Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-01 23:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/01/nx-s1-5452513/trump-usaid-foreign-aid-deaths" target="_blank">Study: 14 million lives could be lost due to Trump aid cuts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-01 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751411480416_nn_rno_senate_narrowly_passes_trump_big_beautiful_bill_250701_1920x1080-2g30v9.jpg" alt="Senate narrowly passes Trump’s ‘Big Beautiful Bill’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/senate-narrowly-passes-trump-s-big-beautiful-bill-242557509934" target="_blank">Senate narrowly passes Trump’s ‘Big Beautiful Bill’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-01 23:11</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/mbappe-returns-as-real-madrid-beat-juventus-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe returns as Real Madrid beat Juventus at Club World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-01 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/combs-trial-sketch-03-rt-jef-250701_1751385024867_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Jury will keep deliberating after partial verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Jury will keep deliberating after partial verdict</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Jury reaches partial verdict in Sean &#x27;Diddy&#x27; Combs trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Jury reaches partial verdict in Sean &#x27;Diddy&#x27; Combs trial</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-01 20:46</span>
             </div>
         </div>
 </div>
@@ -169,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts" target="_blank">Live Linux kernel patching with progressive timestamped rollouts</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-02 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_a5799784/cross-platform-universal-applications1751410386791500-57o5" target="_blank">Cross Platform Universal Applications（1751410386791500）</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +210,6 @@
                 <span class="time">2025-07-01 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alwil17/automate-github-like-a-pro-build-your-own-bot-with-typescript-and-serverless-58fg" target="_blank">Automate GitHub like a pro: Build your own bot with TypeScript and Serverless</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +230,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/OldGuardtopart.jpg" alt="‘The Old Guard 2’ Is a Tender Sophomore Stretched Thin by Sequel Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-old-guard-2-is-a-tender-sophomore-stretched-thin-by-sequel-syndrome-2000621108" target="_blank">‘The Old Guard 2’ Is a Tender Sophomore Stretched Thin by Sequel Syndrome</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hotpocket.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Hot Pockets: 90&#x27;s lunch legend or molten lava bricks?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/hot-pockets-90s-lunch-legend-or-molten-lava-bricks.html" target="_blank">Hot Pockets: 90&#x27;s lunch legend or molten lava bricks?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 00:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Zohran-Mamdani.jpg" alt="Internet Alpha Males Want White America to Fear Zohran Mamdani" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -258,39 +266,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ3TH33QTE0W8ZNER51V1627/hero-image.png" alt="The Best Early Prime Day Tech Deals Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-early-prime-day-tech-deals-under-25-dollars?utm_medium=RSS" target="_blank">The Best Early Prime Day Tech Deals Under $25</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-01 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9a4bb06dbe9d697060004bedabbcb2b4.png" alt="Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/black-panther-eyes-of-wakanda-marvel-animation-mcu-1851785467" target="_blank">Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-01 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/satoshi-nakamoto.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Mysterious $20k Bitcoin transfer to Satoshi Nakamoto&#x27;s untouched wallet adds to its  $117 billion frozen since creator&#x27;s disappearance in 2011" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/mysterious-20k-bitcoin-transfer-to-satoshi-nakamotos-untouched-wallet-adds-to-its-117-billion-frozen-since-creators-disappearance-in-2011.html" target="_blank">Mysterious $20k Bitcoin transfer to Satoshi Nakamoto&#x27;s untouched wallet adds to its  $117 billion frozen since creator&#x27;s disappearance in 2011</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/old-greek-tales.jpg?fit=1200%2C1735&amp;quality=60&amp;ssl=1" alt="How short words made old tales fresh" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/how-short-words-made-old-tales-fresh.html" target="_blank">How short words made old tales fresh</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-01 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1480114759b19589687e93fdc42d11a3.gif" alt="Monster Hunter Wilds&#x27; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/monster-hunter-wilds-mhw-diving-defense-roll-1851785410" target="_blank">Monster Hunter Wilds&#x27; Superman Dive Is Your Best Defensive Technique, If You Use It Correctly</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 20:40</span>
             </div>
         </div>
 </div>
@@ -307,22 +297,13 @@
                 <span class="time">2025-07-01 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5603.png" alt="Zip It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5603" target="_blank">Zip It</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-01 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 290 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
