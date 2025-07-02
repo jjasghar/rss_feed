@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 11:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-02 12:01:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Trump-AF1-DB-250702_1751441205511_hpMain_4x3t_384.jpg" alt="House members battle storms to get back to DC for Trump megabill vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/house-begins-work-trump-megabill-johnson-vote-wednesday/story?id=123400942" target="_blank">House members battle storms to get back to DC for Trump megabill vote</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/at-least-three-dead-after-au-helicopter-crashes-at-airport-in-somalia?traffic_source=rss" target="_blank">At least three dead after AU helicopter crashes at airport in Somalia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 11:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +106,38 @@
                 <span class="time">2025-07-02 07:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-trump-donald_6879194.jpg?20250407183847" alt="Why Netanyahu only wants a 60-day ceasefire - not a permanent one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-ceasefire-proposal-a-significant-moment-but-there-are-still-many-unanswered-questions-13391292" target="_blank">Why Netanyahu only wants a 60-day ceasefire - not a permanent one</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-02 07:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Government wins vote on watered-down welfare bill after concessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Government wins vote on watered-down welfare bill after concessions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 05:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/691111/dji-power-2000-station-price-date" target="_blank">DJI gets serious about portable power</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/" target="_blank">Qantas hack results in theft of 6 million passengers’ personal data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 11:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6864a32d72b0959e3838d317/master/pass/Transcribe-Glasses-Top-Art.jpg" alt="These Transcribing Eyeglasses Put Subtitles on the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/" target="_blank">These Transcribing Eyeglasses Put Subtitles on the World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/662bb0a4686afc207a6e8aec/master/pass/AI-Unlocked_16x9.jpg" alt="Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +165,29 @@
                 <span class="time">2025-07-02 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="20% Off HP Coupon Code | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hp-coupon-code/" target="_blank">20% Off HP Coupon Code | July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-01 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/" target="_blank">Jon McNeill brings the operator’s playbook to TechCrunch All Stage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robbiecahill/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative-4fmi" target="_blank">Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.srlabs.de/blog-post/hexagon-fuzz-full-system-emulated-fuzzing-of-qualcomm-basebands" target="_blank">Hexagon fuzz: Full-system emulated fuzzing of Qualcomm basebands</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzau4qytvnz2p6rtm11qc.png" alt="20+ Free &amp; Responsive React Website Templates to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +195,15 @@
                 <span class="title"><a href="https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi" target="_blank">20+ Free &amp; Responsive React Website Templates to Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-02 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Papers-Approved-49" target="_blank">GNOME Papers Document Viewer Approved To Replace Evince In GNOME 49</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-02 10:33</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +224,6 @@
                 <span class="time">2025-07-02 09:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theaniketraj/project-karl-21nn" target="_blank">Project KARL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 08:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2505.21411" target="_blank">Huawei releases an open weight model trained on Huawei Ascend GPUs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-02 07:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3wi33l1x9r8jp9xt4xxj.png" alt="The Role of Data Engineers - AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j" target="_blank">The Role of Data Engineers - AWS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -225,9 +233,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/iranian-blackout-affected-misinformation-campaigns.html" target="_blank">Iranian Blackout Affected Misinformation Campaigns</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html" target="_blank">Ubuntu Disables Spectre/Meltdown Protections</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-01 11:07</span>
+                <span class="time">2025-07-02 11:02</span>
             </div>
         </div>
 </div>
@@ -295,6 +303,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/02/ursign" target="_blank">Ursign</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-02 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1750828096-20250701.png" alt="Saturday Morning Breakfast Cereal - Stochastic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -308,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
