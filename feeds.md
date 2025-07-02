@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 10:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 11:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/2/video-a-home-turned-library-to-tackle-the-philippines-reading-crisis?traffic_source=rss" target="_blank">Video: A home-turned-library to tackle the Philippines’ reading crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5437962/america-250-declaration-of-independence-anniversary-trump-celebration" target="_blank">America has a major birthday coming up — here&#x27;s what to expect for the big 2-5-0</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 09:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +98,20 @@
                 <span class="time">2025-07-02 05:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Watered down welfare bill passes after concessions to rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Watered down welfare bill passes after concessions to rebels</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Trump says Israel has agreed to conditions for 60-day Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgkg4m0133po" target="_blank">Trump says Israel has agreed to conditions for 60-day Gaza ceasefire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 03:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/662bb0a4686afc207a6e8aec/master/pass/AI-Unlocked_16x9.jpg" alt="Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/" target="_blank">Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +157,29 @@
                 <span class="time">2025-07-01 23:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/congress-just-greenlit-a-nasa-moon-plan-opposed-by-musk-and-isaacman/" target="_blank">Congress just greenlit a NASA moon plan opposed by Musk and Isaacman</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzau4qytvnz2p6rtm11qc.png" alt="20+ Free &amp; Responsive React Website Templates to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wrap-pixel/responsive-react-website-templates-for-developers-37gi" target="_blank">20+ Free &amp; Responsive React Website Templates to Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/devpack-spring-support-ubuntu" target="_blank">Spring support available on Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-02 09:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j" target="_blank">The Role of Data Engineers - AWS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-02 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dpvasani56/docker-for-developer-1cm5" target="_blank">Docker For Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 04:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz48zevj52jx0u380jlf.gif" alt="Welcome Thread - v333" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v333-22mm" target="_blank">Welcome Thread - v333</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 04:00</span>
             </div>
         </div>
 </div>
@@ -307,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
