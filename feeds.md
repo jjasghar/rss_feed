@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 06:01:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-02 07:01:59 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -93,10 +88,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-israel_6954967.jpg?20250702031515" alt="Trump tells Hamas &#x27;take this deal&#x27; after Israel agrees terms for 60-day Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/02/1920x1080/skynews-trump-israel_6821515.jpg?20250206171342" alt="Why Netanyahu may only want a 60-day ceasefire over an end to Gaza war - after Trump claims Israel has agreed terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump tells Hamas &#x27;take this deal&#x27; after Israel agrees terms for 60-day Gaza ceasefire</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Why Netanyahu may only want a 60-day ceasefire over an end to Gaza war - after Trump claims Israel has agreed terms</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-01 23:41</span>
             </div>
@@ -106,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="20% Off HP Coupon Code | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hp-coupon-code/" target="_blank">20% Off HP Coupon Code | July 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/" target="_blank">Figma moves closer to a blockbuster IPO that could raise $1.5B</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-01 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/starshieldterminal1-500x500.jpg" alt="Pentagon may put SpaceX at the center of a sensor-to-shooter targeting network" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/pentagon-may-put-spacex-at-the-center-of-a-sensor-to-shooter-targeting-network/" target="_blank">Pentagon may put SpaceX at the center of a sensor-to-shooter targeting network</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 21:51</span>
             </div>
         </div>
 </div>
@@ -312,7 +307,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 06:02 UTC
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
