@@ -1,42 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 12:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 13:11:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/282f09f0-5710-11f0-9074-8989d8c97d87.jpg" alt="Heathrow considering legal action against National Grid over fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly22eelnxjo" target="_blank">Heathrow considering legal action against National Grid over fire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 13:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Trump-AF1-DB-250702_1751441205511_hpMain_4x3t_384.jpg" alt="House members battle storms to get back to DC for Trump megabill vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,6 +81,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/g-s1-75640/up-first-newsletter-senate-house-megabill-medicaid-atf-regulations" target="_blank">How the megabill will limit health care access. And, plans to ease gun regulations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 11:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/2/video-a-home-turned-library-to-tackle-the-philippines-reading-crisis?traffic_source=rss" target="_blank">Video: A home-turned-library to tackle the Philippines’ reading crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -88,29 +105,29 @@
                 <span class="time">2025-07-02 09:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454369/upenn-swimming-records-feds-transgender-athletes" target="_blank">UPenn updates swimming records to settle with feds on transgender athletes case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Capitol-DB-250702_1751439894809_hpMain_2_4x3t_384.jpg" alt="Trump admin live updates: House Rules Committee advances megabill to floor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House Rules Committee advances megabill to floor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 07:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/" target="_blank">Rivian receives the next $1B from Volkswagen as sales struggles continue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685eb0fb65a7b7a35cab582a/master/pass/Premium%20Economy%20final.jpg" alt="Business Class Ain’t What It Used to Be. Don’t Tell First Class" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/business-class-gets-upgrade/" target="_blank">Business Class Ain’t What It Used to Be. Don’t Tell First Class</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +164,20 @@
                 <span class="time">2025-07-02 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit" target="_blank">Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68627f60c79f0d63de68d86c/master/pass/1366654397" alt="Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/feeling-hoarse-you-might-have-the-new-stratus-covid-variant/" target="_blank">Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-DG1-Enabled-Linux-6.17" target="_blank">Better Late Than Never: Linux 6.17 To Enable Intel DG1 Graphics By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-02 12:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +223,6 @@
                 <span class="time">2025-07-02 09:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/krishanvijay/advanced-tips-for-building-high-performance-android-games-j4j" target="_blank">Advanced Tips for Building High-Performance Android Games</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/AmazonEchoAuto.jpg" alt="Amazon Lets You Add Alexa to Your Car for Practically Free With 73% Off Echo Auto (Newest Model)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-lets-you-add-alexa-to-your-car-for-practically-free-with-73-off-echo-auto-newest-model-2000622732" target="_blank">Amazon Lets You Add Alexa to Your Car for Practically Free With 73% Off Echo Auto (Newest Model)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 13:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/double-explosion-star.jpg" alt="Star Meets Stunning End by Exploding Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +296,6 @@
                 <span class="time">2025-07-02 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/jurassic-world-rebirth-interview-4.jpg" alt="How the Quick Turnaround of ‘Jurassic World Rebirth’ Became a Good Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-the-quick-turnaround-of-jurassic-world-rebirth-became-a-good-thing-2000622414" target="_blank">How the Quick Turnaround of ‘Jurassic World Rebirth’ Became a Good Thing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-01 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
