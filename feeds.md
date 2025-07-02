@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 04:07:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 05:03:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 04:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +77,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-israel_6954967.jpg?20250702031515" alt="Trump warns Hamas - and claims Israel has agreed to 60-day ceasefire in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump warns Hamas - and claims Israel has agreed to 60-day ceasefire in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-01 23:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-donald-trump-alligator-alcatraz_6954960.jpg?20250702013044" alt="Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-01 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/01/nx-s1-5452513/trump-usaid-foreign-aid-deaths" target="_blank">Study: 14 million lives could be lost due to Trump aid cuts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 23:19</span>
             </div>
         </div>
 </div>
@@ -166,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dpvasani56/docker-for-developer-1cm5" target="_blank">Docker For Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 04:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz48zevj52jx0u380jlf.gif" alt="Welcome Thread - v333" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/linux-app-release-roundup-june-2025" target="_blank">Linux App Release Roundup (June 2025)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm8sg64cbldiwlz1txf44.png" alt="Reference Architecture for Team AI Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leading-edje/reference-architecture-for-team-ai-productivity-1dpi" target="_blank">Reference Architecture for Team AI Productivity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-01 20:58</span>
             </div>
         </div>
 </div>
@@ -311,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
