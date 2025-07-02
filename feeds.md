@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 03:24:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 04:07:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 03:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Trump says Israel has agreed to conditions for 60-day Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgkg4m0133po" target="_blank">Trump says Israel has agreed to conditions for 60-day Gaza ceasefire</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 03:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/us-2?traffic_source=rss" target="_blank">US university bans trans athletes under pressure from Trump administration</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 03:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +101,6 @@
                 <span class="time">2025-07-01 23:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751411480416_nn_rno_senate_narrowly_passes_trump_big_beautiful_bill_250701_1920x1080-2g30v9.jpg" alt="Senate narrowly passes Trump’s ‘Big Beautiful Bill’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/senate-narrowly-passes-trump-s-big-beautiful-bill-242557509934" target="_blank">Senate narrowly passes Trump’s ‘Big Beautiful Bill’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-01 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-euro-switzerland_6954934.jpg?20250701223529" alt="Extreme heat warnings in place as Women&#x27;s Euros kick off in Switzerland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/womens-euros-extreme-heat-warnings-in-place-as-tournament-kicks-off-13391211" target="_blank">Extreme heat warnings in place as Women&#x27;s Euros kick off in Switzerland</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-01 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-01 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/" target="_blank">Jon McNeill brings the operator’s playbook to TechCrunch All Stage</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-01 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +160,20 @@
                 <span class="time">2025-07-01 21:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158427559-500x500.jpg" alt="Moderna says its mRNA seasonal flu shot is 27% better than current vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/moderna-says-its-mrna-seasonal-flu-shot-is-27-better-than-current-vaccine/" target="_blank">Moderna says its mRNA seasonal flu shot is 27% better than current vaccine</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz48zevj52jx0u380jlf.gif" alt="Welcome Thread - v333" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v333-22mm" target="_blank">Welcome Thread - v333</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +219,6 @@
                 <span class="time">2025-07-01 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMDGPU" target="_blank">AMD Preps Some Compute Driver Fixes For Polaris &amp; Hawaii Era GPUs With Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-01 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_596958536-e1742226745964.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Chuck Schumer struggles to remain relevant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/01/chuck-schumer-struggles-to-remain-relevant.html" target="_blank">Chuck Schumer struggles to remain relevant</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 01:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/OldGuardtopart.jpg" alt="‘The Old Guard 2’ Is a Tender Sophomore Stretched Thin by Sequel Syndrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +292,6 @@
                 <span class="time">2025-07-01 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9a4bb06dbe9d697060004bedabbcb2b4.png" alt="Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/black-panther-eyes-of-wakanda-marvel-animation-mcu-1851785467" target="_blank">Eyes of Wakanda&#x27;s Sneak Peek Doesn&#x27;t Clarify If Black Panther Will Show Up</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-01 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 03:24 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
