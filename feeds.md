@@ -1,24 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 22:01:36 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2025-07-02 23:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 16 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +46,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/eu-presses-china-on-rare-earth-elements-and-ukraine-war?traffic_source=rss" target="_blank">EU presses China over exports of rare earth elements and Ukraine war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 22:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/diddy-11-ap-gmh-250702_1751471961664_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Bail denied due to &#x27;propensity for violence&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -50,6 +70,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly26wpez97o" target="_blank">Rachel Reeves doing excellent job, PM tells BBC after Commons tears</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-02 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751491786239_now_hallie_bail_denied_250702_1920x1080-q9qbju.jpg" alt="Judge denies bail for Sean &#x27;Diddy&#x27; Combs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/judge-denies-bail-for-sean-diddy-combs-242616389594" target="_blank">Judge denies bail for Sean &#x27;Diddy&#x27; Combs</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-02 21:29</span>
             </div>
         </div>
 <div class="story">
@@ -70,29 +99,29 @@
                 <span class="time">2025-07-02 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454790/cbs-settlement-trump-60-minutes-harris-interview-analysis" target="_blank">CBS is the latest news giant to bend to Trump&#x27;s power</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kohberger-ap-jt-250702_1751477296007_hpMain_4x3t_384.jpg" alt="Bryan Kohberger admits to Idaho college killings, pleads guilty to all charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/bryan-kohberger-due-court-today-plead-guilty-idaho/story?id=123373799" target="_blank">Bryan Kohberger admits to Idaho college killings, pleads guilty to all charges</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 18:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals" target="_blank">The best Apple deals you can shop ahead of Amazon Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/lucid-sales-inch-forward-as-ev-maker-pushes-to-ramp-gravity-production/" target="_blank">Lucid sales inch forward as EV maker pushes to ramp Gravity production</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-500x500.jpg" alt="TikTok is being flooded with racist AI videos generated by Google’s Veo 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,24 +158,6 @@
                 <span class="time">2025-07-02 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68641612354fa5242df5f4c5/master/pass/ms-empty-spider-sec-1230485391.jpg" alt="A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/scattered-spider-most-imminent-threat/" target="_blank">A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -159,6 +170,24 @@
                 <span class="title"><a href="https://dev.to/bain_8a987225b41e21618fcb/devlog-5-fantasy-overhaul-i73" target="_blank">Devlog #5 Fantasy Overhaul</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-02 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-Q2-2025-Update" target="_blank">ZLUDA Making Progress In 2025 On Bringing CUDA To Non-NVIDIA GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-02 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487755&w=600" alt="Stabilizing ETL Pipelines With Airflow, Presto, and Metadata Contracts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/stabilizing-etl-pipelines-airflow-presto-metadata-contracts" target="_blank">Stabilizing ETL Pipelines With Airflow, Presto, and Metadata Contracts</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-02 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,24 +217,6 @@
                 <span class="time">2025-07-02 18:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/5-ways-to-transform-your-workflow-using-github-copilot-and-mcp/" target="_blank">5 ways to transform your workflow using GitHub Copilot and MCP</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-02 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/i04n/sslcheck" target="_blank">sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-02 17:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -225,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Your-Idol-Saja-Boys-Netflix.jpg" alt="The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-bands-of-kpop-demon-hunters-are-having-a-charts-battle-in-real-life-too-2000623584" target="_blank">The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/waist.jpg?fit=1230%2C933&amp;quality=60&amp;ssl=1" alt="Research finds sex dolls exceed natural human proportions by up to 52%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +290,6 @@
                 <span class="time">2025-07-02 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/clones-e1745246791292.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Now that it&#x27;s &quot;finished,&quot; the Star Wars High Republic project has something for everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/now-that-its-finished-the-star-wars-high-republic-project-has-something-for-everyone.html" target="_blank">Now that it&#x27;s &quot;finished,&quot; the Star Wars High Republic project has something for everyone</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
