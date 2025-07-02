@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 15:01:45 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-02 16:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/diddy-3-gty-gmh-250702_1751468896283_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: &#x27;Diddy&#x27; not guilty of racketeering in split verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: &#x27;Diddy&#x27; not guilty of racketeering in split verdict</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5453068/how-trumps-immigration-crackdown-is-sweeping-up-longtime-residents-and-workers" target="_blank">How Trump&#x27;s immigration crackdown is sweeping up longtime residents and workers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 15:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +102,38 @@
                 <span class="time">2025-07-02 13:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Trump-AF1-DB-250702_1751441205511_hpMain_4x3t_384.jpg" alt="House members battle storms to get back to DC for Trump megabill vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/house-begins-work-trump-megabill-johnson-vote-wednesday/story?id=123400942" target="_blank">House members battle storms to get back to DC for Trump megabill vote</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/at-least-three-dead-after-au-helicopter-crashes-at-airport-in-somalia?traffic_source=rss" target="_blank">At least three dead after AU helicopter crashes at airport in Somalia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/" target="_blank">A guide to using Edits, Meta’s new CapCut rival for short-form video editing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 15:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68645ab469fff38262c0c632/master/pass/These%20Are%20Our%20Favorite%20Smart%20Displays.png" alt="4 Best Smart Displays (2025): Tested By a Smart Home Addict" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-smart-displays/" target="_blank">4 Best Smart Displays (2025): Tested By a Smart Home Addict</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox" target="_blank">Microsoft is laying off as many as 9,000 employees</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 14:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222356312-500x500.jpg" alt="Tesla Q2 2025 sales dropped more than 13% year-over-year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -127,38 +161,20 @@
                 <span class="time">2025-07-02 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/bafkreid7zbvywtlailtijlwwoclv3el5l2jir3wwaflpmfiv4o7qfcpfmi-500x500.jpg" alt="Astronomers may have found a third interstellar object" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/" target="_blank">Astronomers may have found a third interstellar object</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-02 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/" target="_blank">Rivian receives the next $1B from Volkswagen as sales struggles continue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685eb0fb65a7b7a35cab582a/master/pass/Premium%20Economy%20final.jpg" alt="Business Class Ain’t What It Used to Be. Don’t Tell First Class" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/business-class-gets-upgrade/" target="_blank">Business Class Ain’t What It Used to Be. Don’t Tell First Class</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/firefox-benchmarks-120-141" target="_blank">Firefox 120 To Firefox 141 Web Browser Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +220,6 @@
                 <span class="time">2025-07-02 12:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robbiecahill/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative-4fmi" target="_blank">Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in Open Source Alternative</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 11:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/morningjog.jpg" alt="Scientists Uncover Exercise Lifehack: Go to Bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-uncover-exercise-lifehack-go-to-bed-2000623362" target="_blank">Scientists Uncover Exercise Lifehack: Go to Bed</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/fficia.jpg?fit=1528%2C1090&amp;quality=60&amp;ssl=1" alt="Wisconsin&#x27;s 176-year-old abortion ban struck down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/wisconsins-176-year-old-abortion-ban-struck-down.html" target="_blank">Wisconsin&#x27;s 176-year-old abortion ban struck down</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 15:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/shutterstock_202742458-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Diddy convicted of transporting women for prostitution, but not trafficking or racketeering" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,29 +293,20 @@
                 <span class="time">2025-07-02 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/double-explosion-star.jpg" alt="Star Meets Stunning End by Exploding Twice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-meets-stunning-end-by-exploding-twice-2000623146" target="_blank">Star Meets Stunning End by Exploding Twice</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/shutterstock_596958536-e1742226745964.jpg?fit=1080%2C721&amp;quality=60&amp;ssl=1" alt="Chuck Schumer struggles to remain relevant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/chuck-schumer-struggles-to-remain-relevant.html" target="_blank">Chuck Schumer struggles to remain relevant</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1750828176-20250702.png" alt="Saturday Morning Breakfast Cereal - Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dollars" target="_blank">Saturday Morning Breakfast Cereal - Dollars</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-02 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -300,22 +316,13 @@
                 <span class="time">2025-07-02 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750828096-20250701.png" alt="Saturday Morning Breakfast Cereal - Stochastic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/stochastic" target="_blank">Saturday Morning Breakfast Cereal - Stochastic</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-01 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
