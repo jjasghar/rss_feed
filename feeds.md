@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 09:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 10:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit" target="_blank">Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68627f60c79f0d63de68d86c/master/pass/1366654397" alt="Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/feeling-hoarse-you-might-have-the-new-stratus-covid-variant/" target="_blank">Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="20% Off HP Coupon Code | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,29 +156,20 @@
                 <span class="time">2025-07-01 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-876658722-500x500.jpg" alt="RFK Jr.’s health department calls Nature “junk science,” cancels subscriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/rfk-jr-s-health-department-calls-nature-junk-science-cancels-subscriptions/" target="_blank">RFK Jr.’s health department calls Nature “junk science,” cancels subscriptions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-01 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/" target="_blank">Figma moves closer to a blockbuster IPO that could raise $1.5B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-01 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/krishanvijay/advanced-tips-for-building-high-performance-android-games-j4j" target="_blank">Advanced Tips for Building High-Performance Android Games</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 09:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/devteam/welcome-thread-v333-22mm" target="_blank">Welcome Thread - v333</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-02 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af" target="_blank">Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 02:18</span>
             </div>
         </div>
 </div>
@@ -312,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
