@@ -1,28 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 17:02:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 18:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454598/the-gops-massive-bill-would-add-trillions-of-dollars-to-the-countrys-debt" target="_blank">The GOP&#x27;s massive bill would add trillions of dollars to the country&#x27;s debt</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 17:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/diddy-3-gty-gmh-250702_1751468896283_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: &#x27;Diddy&#x27; not guilty of racketeering in split verdict" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +95,29 @@
                 <span class="time">2025-07-02 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/282f09f0-5710-11f0-9074-8989d8c97d87.jpg" alt="Heathrow considering legal action against National Grid over fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly22eelnxjo" target="_blank">Heathrow considering legal action against National Grid over fire</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/F1_The_Movie_Photo_0103-500x500-1751474085.jpg" alt="From Le Mans to Driven—where does F1: The movie rank?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/" target="_blank">From Le Mans to Driven—where does F1: The movie rank?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-02 17:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +154,29 @@
                 <span class="time">2025-07-02 14:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/smart-home-review/695965/nuki-smart-lock-review" target="_blank">Nuki’s Smart Lock is a better retrofit door lock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/microsoft-will-lay-off-9000-employees-or-less-than-4-of-the-company/" target="_blank">Microsoft will lay off 9,000 employees, or less than 4% of the company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/i04n/sslcheck" target="_blank">sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-02 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487048&w=600" alt="Top NoSQL Databases and Use Cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-nosql-databases-and-use-cases" target="_blank">Top NoSQL Databases and Use Cases</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-02 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Strengthen Your Server with Automated Security Audits Using Ansible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,37 +198,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-ai-is-changing-software-engineering" target="_blank">How AI is changing software engineering at Shopify with Farhan Thawar</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-02 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/firefox-benchmarks-120-141" target="_blank">Firefox 120 To Firefox 141 Web Browser Benchmarks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_35db4d53/microservices-architecture-design1751467754153500-2p1p" target="_blank">Microservices Architecture Design（1751467754153500）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/spring-boot-containers-made-easy" target="_blank">Source to production: Spring Boot containers made easy</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-02 14:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487035&w=600" alt="Vibe Coding: Conversational Software Development — Part 1 Introduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/vibe-coding-conversational-software-development" target="_blank">Vibe Coding: Conversational Software Development — Part 1 Introduction</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-02 14:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Jurassic-World-Rebirth-Ali.jpg" alt="‘Jurassic World Rebirth’ Didn’t Always End That Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jurassic-world-rebirth-didnt-always-end-that-way-2000622418" target="_blank">‘Jurassic World Rebirth’ Didn’t Always End That Way</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ5YNNSBFDC0YB1ND5X8W2N4/hero-image.png" alt="Android Users Will Soon Be Able to Edit Texts Sent to Their Friends on iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-messages-editing-to-iphones?utm_medium=RSS" target="_blank">Android Users Will Soon Be Able to Edit Texts Sent to Their Friends on iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-02 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/02/SLS-Rocket.jpg" alt="Senate Backs NASA’s Legacy Moon Plan Over Musk’s Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +286,6 @@
                 <span class="time">2025-07-02 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Apple-TVs-first-look-at-the-bar-in-Chiba-City.jpg?fit=1080%2C617&amp;quality=60&amp;ssl=1" alt="Why sky do you see in dead channels?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/teaser-for-apple-tvs-neuromancer.html" target="_blank">Why sky do you see in dead channels?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/marshallhead-1.jpg" alt="Marshall Bluetooth Headphones Drop to Nearly Free Compared to AirPods Max or Even Your Tiny Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marshall-bluetooth-headphones-drop-to-nearly-free-compared-to-airpods-max-or-even-your-tiny-earbuds-2000622989" target="_blank">Marshall Bluetooth Headphones Drop to Nearly Free Compared to AirPods Max or Even Your Tiny Earbuds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
