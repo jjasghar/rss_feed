@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 13:11:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 14:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +104,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/smart-home-review/695965/nuki-smart-lock-review" target="_blank">Nuki’s Smart Lock is a better retrofit door lock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/microsoft-will-lay-off-9000-employees-or-less-than-4-of-the-company/" target="_blank">Microsoft will lay off 9,000 employees, or less than 4% of the company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/bafkreid7zbvywtlailtijlwwoclv3el5l2jir3wwaflpmfiv4o7qfcpfmi-500x500.jpg" alt="Astronomers may have found a third interstellar object" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/" target="_blank">Astronomers may have found a third interstellar object</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-02 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/02/rivian-receives-the-next-1b-from-volkswagen-as-sales-struggles-continue/" target="_blank">Rivian receives the next $1B from Volkswagen as sales struggles continue</a></span>
                 <span class="feed">TechCrunch</span>
@@ -137,38 +155,20 @@
                 <span class="time">2025-07-02 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/" target="_blank">Qantas hack results in theft of 6 million passengers’ personal data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6864a32d72b0959e3838d317/master/pass/Transcribe-Glasses-Top-Art.jpg" alt="These Transcribing Eyeglasses Put Subtitles on the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/" target="_blank">These Transcribing Eyeglasses Put Subtitles on the World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/662bb0a4686afc207a6e8aec/master/pass/AI-Unlocked_16x9.jpg" alt="Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/" target="_blank">Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487029&w=600" alt="Microservice Madness: Debunking Myths and Exposing Pitfalls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microservice-madness-myths-pitfalls" target="_blank">Microservice Madness: Debunking Myths and Exposing Pitfalls</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -214,15 +214,6 @@
                 <span class="time">2025-07-02 10:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/devpack-spring-support-ubuntu" target="_blank">Spring support available on Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-02 09:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Apple-TVs-first-look-at-the-bar-in-Chiba-City.jpg?fit=1080%2C617&amp;quality=60&amp;ssl=1" alt="Why sky do you see in dead channels?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/teaser-for-apple-tvs-neuromancer.html" target="_blank">Why sky do you see in dead channels?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/marshallhead-1.jpg" alt="Marshall Bluetooth Headphones Drop to Nearly Free Compared to AirPods Max or Even Your Tiny Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marshall-bluetooth-headphones-drop-to-nearly-free-compared-to-airpods-max-or-even-your-tiny-earbuds-2000622989" target="_blank">Marshall Bluetooth Headphones Drop to Nearly Free Compared to AirPods Max or Even Your Tiny Earbuds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/AmazonEchoAuto.jpg" alt="Amazon Lets You Add Alexa to Your Car for Practically Free With 73% Off Echo Auto (Newest Model)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +287,6 @@
                 <span class="time">2025-07-02 01:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hotpocket.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Hot Pockets: 90&#x27;s lunch legend or molten lava bricks?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/01/hot-pockets-90s-lunch-legend-or-molten-lava-bricks.html" target="_blank">Hot Pockets: 90&#x27;s lunch legend or molten lava bricks?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Zohran-Mamdani.jpg" alt="Internet Alpha Males Want White America to Fear Zohran Mamdani" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/internet-alpha-males-want-white-america-to-fear-zohran-mamdani-2000623086" target="_blank">Internet Alpha Males Want White America to Fear Zohran Mamdani</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
