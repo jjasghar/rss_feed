@@ -1,44 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 19:01:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-02 20:01:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +103,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/could-googles-veo-3-be-the-start-of-playable-world-models/" target="_blank">Could Google’s Veo 3 be the start of playable world models?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 46 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 46 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
@@ -149,29 +154,20 @@
                 <span class="time">2025-07-02 15:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68645ab469fff38262c0c632/master/pass/These%20Are%20Our%20Favorite%20Smart%20Displays.png" alt="4 Best Smart Displays (2025): Tested By a Smart Home Addict" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-displays/" target="_blank">4 Best Smart Displays (2025): Tested By a Smart Home Addict</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox" target="_blank">Microsoft is laying off as many as 9,000 employees</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18485742&w=600" alt="Parallel Data Conflict Resolution in Enterprise Workflows: Pessimistic vs. Optimistic Locking at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/enterprise-data-conflict-resolution-locking-strategies" target="_blank">Parallel Data Conflict Resolution in Enterprise Workflows: Pessimistic vs. Optimistic Locking at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +213,6 @@
                 <span class="time">2025-07-02 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-AI-Engine-Driver-Linux" target="_blank">AMD Posts Linux Patches For New AI Engine Driver &quot;amd-ai-engine&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-02 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,12 +233,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b579f3df802d8704684b44c06128e0ff.jpg" alt="Unlocking Daisy In Mario Kart World Is Super Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-unlock-daisy-flower-cup-multiplayer-1851785551" target="_blank">Unlocking Daisy In Mario Kart World Is Super Easy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-02 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0217177b63e460bc9087add65822defd.jpg" alt="A Bunch Of Big PS5 Games Are On Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ps5-psn-summer-july-sale-best-biggest-deals-discounts-1851785543" target="_blank">A Bunch Of Big PS5 Games Are On Sale Right Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-02 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_1943833363.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="White House staff shocked as Zuckerberg strolls into classified meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/white-house-staff-shocked-as-zuckerberg-strolls-into-classified-meeting.html" target="_blank">White House staff shocked as Zuckerberg strolls into classified meeting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 18:42</span>
             </div>
         </div>
 <div class="story">
@@ -281,29 +286,20 @@
                 <span class="time">2025-07-02 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/02/SLS-Rocket.jpg" alt="Senate Backs NASA’s Legacy Moon Plan Over Musk’s Protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/senate-backs-nasas-legacy-moon-plan-over-musks-protests-2000623388" target="_blank">Senate Backs NASA’s Legacy Moon Plan Over Musk’s Protests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/morningjog.jpg" alt="Scientists Uncover Exercise Lifehack: Go to Bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-uncover-exercise-lifehack-go-to-bed-2000623362" target="_blank">Scientists Uncover Exercise Lifehack: Go to Bed</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/02/ursign" target="_blank">Ursign</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-02 17:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1750828176-20250702.png" alt="Saturday Morning Breakfast Cereal - Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
