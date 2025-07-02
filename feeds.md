@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 01:29:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-02 02:32:38 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgkg4m0133po" target="_blank">Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-donald-trump-alligator-alcatraz_6954960.jpg?20250702013044" alt="Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453851/guns-immigration-states-laws-take-effect" target="_blank">New laws this month touch on fundamental rights</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-01 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/1/mbappe-returns-as-real-madrid-beat-juventus-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe returns as Real Madrid beat Juventus at Club World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-01 21:44</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_35db4d53/event-driven-architecture-pattern-application-practice-in-web-frameworks1751422737742100-24af" target="_blank">Event Driven Architecture Pattern Application Practice in Web Frameworks（1751422737742100）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/live-linux-kernel-patching-with-progressive-timestamped-rollouts" target="_blank">Live Linux kernel patching with progressive timestamped rollouts</a></span>
                 <span class="feed">Ubuntu blog</span>
@@ -199,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMDGPU" target="_blank">AMD Preps Some Compute Driver Fixes For Polaris &amp; Hawaii Era GPUs With Linux 6.17</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-01 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487012&w=600" alt="Replacing Legacy Systems With Data Streaming: The Strangler Fig Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/replacing-legacy-systems-one-step-at-a-time-with-d" target="_blank">Replacing Legacy Systems With Data Streaming: The Strangler Fig Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-01 20:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
