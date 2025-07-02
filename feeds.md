@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 02:32:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 03:24:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 03:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453885/medicaid-data-immigration-dhs-lawsuit" target="_blank">States sue Trump administration for sharing health data with DHS</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 00:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Israel has agreed to conditions for 60-day Gaza ceasefire, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/womens-euros-extreme-heat-warnings-in-place-as-tournament-kicks-off-13391211" target="_blank">Extreme heat warnings in place as Women&#x27;s Euros kick off in Switzerland</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-01 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/01/nx-s1-5453851/guns-immigration-states-laws-take-effect" target="_blank">New laws this month touch on fundamental rights</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-01 22:17</span>
             </div>
         </div>
 </div>
@@ -309,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 02:32 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 03:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
