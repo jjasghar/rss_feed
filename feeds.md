@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 18:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 19:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kohberger-ap-jt-250702_1751477296007_hpMain_4x3t_384.jpg" alt="Bryan Kohberger admits to Idaho college killings, pleads guilty to all charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/bryan-kohberger-due-court-today-plead-guilty-idaho/story?id=123373799" target="_blank">Bryan Kohberger admits to Idaho college killings, pleads guilty to all charges</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c32/live/9ca63940-5768-11f0-b5c5-012c5796682d.jpg" alt="No 10 backs Chancellor Rachel Reeves after tearful Commons appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly26wpez97o" target="_blank">No 10 backs Chancellor Rachel Reeves after tearful Commons appearance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/several-people-die-amid-record-breaking-heatwave-across-europe?traffic_source=rss" target="_blank">At least eight people die in record-breaking heatwave across Europe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-02 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +108,6 @@
                 <span class="time">2025-07-02 15:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5446128/sean-combs-diddy-trial-guilty-two-counts" target="_blank">Sean Combs found guilty on two counts, but acquitted on most serious charges</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Sean &#x27;Diddy&#x27; Combs found guilty on 2 of 5 counts: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Sean &#x27;Diddy&#x27; Combs found guilty on 2 of 5 counts: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/2/japanese-activist-pledges-to-continue-daily-gaza-protests?traffic_source=rss" target="_blank">Japanese activist pledges to continue daily Gaza protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -107,6 +120,15 @@
                 <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-02 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68641612354fa5242df5f4c5/master/pass/ms-empty-spider-sec-1230485391.jpg" alt="A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/scattered-spider-most-imminent-threat/" target="_blank">A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 17:56</span>
             </div>
         </div>
 <div class="story">
@@ -145,20 +167,29 @@
                 <span class="time">2025-07-02 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222356312-500x500.jpg" alt="Tesla Q2 2025 sales dropped more than 13% year-over-year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/" target="_blank">Tesla Q2 2025 sales dropped more than 13% year-over-year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-02 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_6bc7e52c/real-time-data-stream-processing1751482074025900-4kgj" target="_blank">Real-Time Data Stream Processing（1751482074025900）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pythonspeed.com/articles/different-ways-speed/" target="_blank">500× faster: Four different ways to speed up your code</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-02 18:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +226,6 @@
                 <span class="time">2025-07-02 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-ai-is-changing-software-engineering" target="_blank">How AI is changing software engineering at Shopify with Farhan Thawar</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-02 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/firefox-benchmarks-120-141" target="_blank">Firefox 120 To Firefox 141 Web Browser Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-02 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0217177b63e460bc9087add65822defd.jpg" alt="A Bunch Of Big PS5 Games Are On Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-psn-summer-july-sale-best-biggest-deals-discounts-1851785543" target="_blank">A Bunch Of Big PS5 Games Are On Sale Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-02 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/clones-e1745246791292.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Now that it&#x27;s &quot;finished,&quot; the Star Wars High Republic project has something for everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/now-that-its-finished-the-star-wars-high-republic-project-has-something-for-everyone.html" target="_blank">Now that it&#x27;s &quot;finished,&quot; the Star Wars High Republic project has something for everyone</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 18:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Jurassic-World-Rebirth-Ali.jpg" alt="‘Jurassic World Rebirth’ Didn’t Always End That Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +299,6 @@
                 <span class="time">2025-07-02 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/fficia.jpg?fit=1528%2C1090&amp;quality=60&amp;ssl=1" alt="Wisconsin&#x27;s 176-year-old abortion ban struck down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/wisconsins-176-year-old-abortion-ban-struck-down.html" target="_blank">Wisconsin&#x27;s 176-year-old abortion ban struck down</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/11/shutterstock_202742458-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Diddy convicted of transporting women for prostitution, but not trafficking or racketeering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/diddy-convicted-of-transporting-women-for-prostitution-but-not-trafficking-or-racketeering.html" target="_blank">Diddy convicted of transporting women for prostitution, but not trafficking or racketeering</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
