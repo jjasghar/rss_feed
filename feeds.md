@@ -1,35 +1,24 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 21:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-07-02 22:01:36 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 16 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +34,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/diddy-11-ap-gmh-250702_1751471961664_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Bail denied due to &#x27;propensity for violence&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Bail denied due to &#x27;propensity for violence&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-02 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c32/live/9ca63940-5768-11f0-b5c5-012c5796682d.jpg" alt="Rachel Reeves doing excellent job, PM tells BBC after Commons tears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly26wpez97o" target="_blank">Rachel Reeves doing excellent job, PM tells BBC after Commons tears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5453770/ukraine-actress-white-house-video-trump-antonina-khyzhniak" target="_blank">A Ukrainian actress saw herself in a White House video -- and created one in response</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/diddy-1-rt-gmh-250702_1751465296906_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs verdict: What&#x27;s next for the rap mogul?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +88,20 @@
                 <span class="time">2025-07-02 18:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c32/live/9ca63940-5768-11f0-b5c5-012c5796682d.jpg" alt="No 10 backs Chancellor Rachel Reeves after tearful Commons appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly26wpez97o" target="_blank">No 10 backs Chancellor Rachel Reeves after tearful Commons appearance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/several-people-die-amid-record-breaking-heatwave-across-europe?traffic_source=rss" target="_blank">At least eight people die in record-breaking heatwave across Europe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5454598/the-gops-massive-bill-would-add-trillions-of-dollars-to-the-countrys-debt" target="_blank">The GOP&#x27;s massive bill would add trillions of dollars to the country&#x27;s debt</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/tiktok-500x500.jpg" alt="TikTok is being flooded with racist AI videos generated by Google’s Veo 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/" target="_blank">TikTok is being flooded with racist AI videos generated by Google’s Veo 3</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-02 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +145,6 @@
                 <span class="title"><a href="https://www.wired.com/story/scattered-spider-most-imminent-threat/" target="_blank">A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-02 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/F1_The_Movie_Photo_0103-500x500-1751474085.jpg" alt="From Le Mans to Driven—where does F1: The movie rank?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/" target="_blank">From Le Mans to Driven—where does F1: The movie rank?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-02 17:08</span>
             </div>
         </div>
 </div>
@@ -237,6 +226,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/waist.jpg?fit=1230%2C933&amp;quality=60&amp;ssl=1" alt="Research finds sex dolls exceed natural human proportions by up to 52%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/research-finds-sex-dolls-exceed-natural-human-proportions-by-up-to-52.html" target="_blank">Research finds sex dolls exceed natural human proportions by up to 52%</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 20:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ651RJ9QBRV4A1R0T8SEHD2/hero-image.png" alt="Your Anker Powerbank May Have Just Been Recalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +279,6 @@
                 <span class="time">2025-07-02 18:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Jurassic-World-Rebirth-Ali.jpg" alt="‘Jurassic World Rebirth’ Didn’t Always End That Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jurassic-world-rebirth-didnt-always-end-that-way-2000622418" target="_blank">‘Jurassic World Rebirth’ Didn’t Always End That Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
