@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 05:03:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-02 06:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 02, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c3/live/f7ea0850-56b3-11f0-9074-8989d8c97d87.jpg" alt="Watered down welfare bill passes after concessions to rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly8877x3z2o" target="_blank">Watered down welfare bill passes after concessions to rebels</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-02 05:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/786b3830-56d9-11f0-b5c5-012c5796682d.jpg" alt="Trump says Israel has agreed to conditions for 60-day Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,19 +93,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-israel_6954967.jpg?20250702031515" alt="Trump warns Hamas - and claims Israel has agreed to 60-day ceasefire in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-israel_6954967.jpg?20250702031515" alt="Trump tells Hamas &#x27;take this deal&#x27; after Israel agrees terms for 60-day Gaza ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump warns Hamas - and claims Israel has agreed to 60-day ceasefire in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-01 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-donald-trump-alligator-alcatraz_6954960.jpg?20250702013044" alt="Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump says Israel has agreed on terms for 60-day ceasefire in Gaza, and has warning for Hamas</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-says-israel-has-agreed-on-terms-for-60-day-ceasefire-in-gaza-and-has-warning-for-hamas-13391229" target="_blank">Trump tells Hamas &#x27;take this deal&#x27; after Israel agrees terms for 60-day Gaza ceasefire</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-01 23:41</span>
             </div>
@@ -159,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3wi33l1x9r8jp9xt4xxj.png" alt="The Role of Data Engineers - AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/o_mutwiri/the-role-of-data-engineers-aws-3g6j" target="_blank">The Role of Data Engineers - AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 05:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/member_a5799784/cross-platform-universal-applications1751410386791500-57o5" target="_blank">Cross Platform Universal Applications（1751410386791500）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-01 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/linux-app-release-roundup-june.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (June 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/linux-app-release-roundup-june-2025" target="_blank">Linux App Release Roundup (June 2025)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-01 21:30</span>
             </div>
         </div>
 </div>
@@ -304,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
