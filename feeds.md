@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 19:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-03 20:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/house-14-gty-gmh-250703_1751571774339_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House passes megabill, sending it to president&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House passes megabill, sending it to president&#x27;s desk</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75775/abrego-garcia-el-salvador-prison-beaten-torture" target="_blank">Abrego Garcia says he was severely beaten in Salvadoran prison</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 19:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,30 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc75/live/9a84f3f0-5839-11f0-960d-e9f1088a89fe.jpg" alt="Death of Liverpool forward Jota leaves football world in shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia" target="_blank">Two tourists from UK and New Zealand killed by elephant, Zambian police say</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-03 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/israeli-drone-attack-near-beirut-kills-at-least-one-injures-three-others?traffic_source=rss" target="_blank">Israeli drone attack near Beirut kills at least one, injures three others</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75792/ghost-guns-may-make-a-comeback-despite-a-supreme-court-ruling" target="_blank">Ghost guns may make a comeback, despite a Supreme Court ruling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 15:48</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/football/articles/crl05r070wro" target="_blank">Death of Liverpool forward Jota leaves football world in shock</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-03 18:08</span>
             </div>
         </div>
 </div>
@@ -109,6 +111,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-surveillance-500x500.jpg" alt="Provider of covert surveillance app spills passwords for 62,000 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/" target="_blank">Provider of covert surveillance app spills passwords for 62,000 users</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-03 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/" target="_blank">Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683e2aab7563d3dfda7e6119/master/pass/Apple-Movie-Guide-Culture-Bono_Stories_Of_Surrender_Photo_0104.jpg" alt="The 27 Best Movies on Apple TV+ Right Now (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 27 Best Movies on Apple TV+ Right Now (July 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +165,20 @@
                 <span class="time">2025-07-03 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865654c21af6186630bf33e/master/pass/US-Mexico-Border.jpg" alt="CBP Wants New Tech to Search for Hidden Data on Seized Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/" target="_blank">CBP Wants New Tech to Search for Hidden Data on Seized Phones</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686563a1a72f01ecc03394c5/master/pass/GettyImages-2221868154.jpg" alt="Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/" target="_blank">Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/trump-admin-unlawfully-killed-health-websites-related-to-gender-court-rules/" target="_blank">Trump admin unlawfully killed health websites related to gender, court rules</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489782&w=600" alt="Self-Supervised Learning Techniques" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/self-supervised-learning-techniques-visual-tracking" target="_blank">Self-Supervised Learning Techniques</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +224,6 @@
                 <span class="time">2025-07-03 15:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://richardscollin.github.io/tmux-rs/" target="_blank">Introducing tmux-rs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +252,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="Owning a Piece of ChatGPT Was Already Messy. Then Elon Musk Made It Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/owning-a-piece-of-chatgpt-was-already-messy-then-elon-musk-made-it-weirder-2000623955" target="_blank">Owning a Piece of ChatGPT Was Already Messy. Then Elon Musk Made It Weirder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/22fab34109b1ea2fe14298ebcf417b53.jpg" alt="12 Years After Launch, GTA V Is Finally Arriving In Two More Countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gta-v-officially-launching-in-saudi-arabia-12-years-aft-1851785628" target="_blank">12 Years After Launch, GTA V Is Finally Arriving In Two More Countries</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-03 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/automaton.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="AI note-takers are flooding virtual meetings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +306,6 @@
                 <span class="time">2025-07-03 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/75caa6fc89857b44cf32522a17ab097c.jpg" alt="Free Lunch Is Over for the AI That Broke the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/free-lunch-is-over-for-the-ai-that-broke-the-web-2000623837" target="_blank">Free Lunch Is Over for the AI That Broke the Web</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/shutterstock_1460201174.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="You&#x27;ll never believe how precious baby condors are!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/03/youll-never-believe-how-precious-baby-condors-are.html" target="_blank">You&#x27;ll never believe how precious baby condors are!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-03 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 300 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
