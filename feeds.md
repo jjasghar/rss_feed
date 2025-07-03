@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 00:04:57 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-03 01:29:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="&#x27;This drug is evil&#x27;: Kush is ruining lives - with ingredients shipped from the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">&#x27;This drug is evil&#x27;: Kush is ruining lives - with ingredients shipped from the UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/us-says-its-strikes-degraded-irans-nuclear-programme-by-one-to-two-years?traffic_source=rss" target="_blank">US says its strikes degraded Iran’s nuclear programme by one to two years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5455076/judge-rules-against-trump-asylum-ban" target="_blank">Federal judge strikes down Trump&#x27;s order suspending asylum access at the southern border</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751498168161_nn_cme_diddy_verdict_250702_1920x1080-n2muq0.jpg" alt="Sean ‘Diddy’ Combs acquitted on most serious charges, but denied bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sean-diddy-combs-acquitted-on-most-serious-charges-but-denied-bail-242625605514" target="_blank">Sean ‘Diddy’ Combs acquitted on most serious charges, but denied bail</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-02 23:16</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -54,48 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7a/live/67eaae90-5757-11f0-960d-e9f1088a89fe.jpg" alt="&#x27;Diddy&#x27; denied bail after being cleared of most serious charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/2/eu-presses-china-on-rare-earth-elements-and-ukraine-war?traffic_source=rss" target="_blank">EU presses China over exports of rare earth elements and Ukraine war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-02 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/diddy-11-ap-gmh-250702_1751471961664_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs trial updates: Bail denied due to &#x27;propensity for violence&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/sean-diddy-combs-trial-updates-jury-begin-deliberations/?id=123334874" target="_blank">Sean &#x27;Diddy&#x27; Combs trial updates: Bail denied due to &#x27;propensity for violence&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c32/live/9ca63940-5768-11f0-b5c5-012c5796682d.jpg" alt="Rachel Reeves doing excellent job, PM tells BBC after Commons tears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly26wpez97o" target="_blank">Rachel Reeves doing excellent job, PM tells BBC after Commons tears</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjd2e310k25o" target="_blank">&#x27;Diddy&#x27; denied bail after being cleared of most serious charges</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751491786239_now_hallie_bail_denied_250702_1920x1080-q9qbju.jpg" alt="Judge denies bail for Sean &#x27;Diddy&#x27; Combs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/judge-denies-bail-for-sean-diddy-combs-242616389594" target="_blank">Judge denies bail for Sean &#x27;Diddy&#x27; Combs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-02 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5453770/ukraine-actress-white-house-video-trump-antonina-khyzhniak" target="_blank">A Ukrainian actress saw herself in a White House video -- and created one in response</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 21:00</span>
+                <span class="time">2025-07-02 22:31</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-June-2025" target="_blank">Steam On Linux Usage Dips Slightly For June, AMD Linux CPU Usage Hits 69%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-03 00:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F26q4gq1wc6knm54nq9my.gif" alt="SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +218,6 @@
                 <span class="time">2025-07-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_6bc7e52c/real-time-data-stream-processing1751482074025900-4kgj" target="_blank">Real-Time Data Stream Processing（1751482074025900）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-02 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -254,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ3T69SV6RRW0S7D5YP6KA80/hero-image.jpg" alt="I Previewed These Emotion-Tracking Smart Glasses, and They Seem Weirdly Useful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/emotion-tracking-smart-glasses?utm_medium=RSS" target="_blank">I Previewed These Emotion-Tracking Smart Glasses, and They Seem Weirdly Useful</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-02 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Your-Idol-Saja-Boys-Netflix.jpg" alt="The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/anker-powerbank-recall-2025?utm_medium=RSS" target="_blank">Your Anker Powerbank May Have Just Been Recalled</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b579f3df802d8704684b44c06128e0ff.jpg" alt="Unlocking Daisy In Mario Kart World Is Super Easy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-unlock-daisy-flower-cup-multiplayer-1851785551" target="_blank">Unlocking Daisy In Mario Kart World Is Super Easy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-02 19:50</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
