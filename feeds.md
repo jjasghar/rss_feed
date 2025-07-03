@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 16:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 17:02:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/israeli-drone-attack-near-beirut-kills-at-least-one-injures-three-others?traffic_source=rss" target="_blank">Israeli drone attack near Beirut kills at least one, injures three others</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75792/ghost-guns-may-make-a-comeback-despite-a-supreme-court-ruling" target="_blank">Ghost guns may make a comeback, despite a Supreme Court ruling</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -62,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/7/3/fact-checking-trumps-immigration-and-one-big-beautiful-bill-claims?traffic_source=rss" target="_blank">Fact-checking Trump’s immigration and One Big Beautiful Bill claims</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-03 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-baqaei-iran_6956451.png?20250703163756" alt="Iran: Still a chance for peace talks with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/iran-still-a-chance-for-peace-talks-with-us-13391964" target="_blank">Iran: Still a chance for peace talks with US</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 14:30</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +102,47 @@
                 <span class="time">2025-07-03 14:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/3/us-contractors-say-live-rounds-are-being-shot-at-gaza-aid-seekers?traffic_source=rss" target="_blank">US contractors say live rounds are being shot at Gaza aid seekers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-4-ht-gmh-250703_1751550002707_hpMain_4x3t_384.jpg" alt="Democrat Hakeem Jeffries, in marathon &#x27;magic minute&#x27; speech, blasts Trump bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democrat-hakeem-jeffries-marathon-magic-minute-speech-blasts/story?id=123444742" target="_blank">Democrat Hakeem Jeffries, in marathon &#x27;magic minute&#x27; speech, blasts Trump bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686563a1a72f01ecc03394c5/master/pass/GettyImages-2221868154.jpg" alt="Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/" target="_blank">Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/03/trump-admin-unlawfully-killed-health-websites-related-to-gender-court-rules/" target="_blank">Trump admin unlawfully killed health websites related to gender, court rules</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2025-VW-ID.Buzz-01-500x500.jpg" alt="2025 VW ID Buzz review: If you want an electric minivan, this is it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/" target="_blank">2025 VW ID Buzz review: If you want an electric minivan, this is it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-03 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale" target="_blank">Paramount Plus slashes prices to $2 for two months</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6865ac9b720d56593b1aa498/master/pass/Roku_.png" alt="How to Pick the Best Roku Device (2025): A Guide to Each Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,42 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/how-to-buy-the-right-tv/" target="_blank">How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-03 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health" target="_blank">Whoop MG review: a big whoop for a small crowd</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68499ed317bbaf7c007e2dfa/master/pass/Apple%20One.png" alt="What Is Apple One? A Breakdown of Plans, Pricing, and Included Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-apple-one/" target="_blank">What Is Apple One? A Breakdown of Plans, Pricing, and Included Services</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/696885/ios-26-visual-intelligence-calendar-screenshot-gemini-assistant" target="_blank">Adding calendar events with a screenshot is AI at its finest</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/" target="_blank">Israeli quantum startup Qedma just raised $26 million, with IBM joining in</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 13:00</span>
             </div>
         </div>
 </div>
@@ -180,6 +182,15 @@
                 <span class="title"><a href="https://dzone.com/articles/seata-distributed-transactions-spring-boot-microservices" target="_blank">Seata the Deal: No More Distributed Transaction Nightmares Across (Spring Boot) Microservices</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/x1-carbon-gen13-linux616" target="_blank">Intel Lunar Lake Showing Some Performance Improvements With Linux 6.16</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-03 14:50</span>
             </div>
         </div>
 <div class="story">
@@ -209,20 +220,20 @@
                 <span class="time">2025-07-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://docs.astral.sh/uv/concepts/build-backend/" target="_blank">The uv build back end is now stable</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/" target="_blank">Big Tech’s Mixed Response to U.S. Treasury Sanctions</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-03 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/75caa6fc89857b44cf32522a17ab097c.jpg" alt="Free Lunch Is Over for the AI That Broke the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/free-lunch-is-over-for-the-ai-that-broke-the-web-2000623837" target="_blank">Free Lunch Is Over for the AI That Broke the Web</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 17:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/donaldjohanson0703-1.jpg" alt="NASA Reveals First-Ever Full Image of Peanut-Shaped Asteroid Donaldjohanson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +302,6 @@
                 <span class="time">2025-07-03 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/07/14087fd37f815e2dbf35a5b25e32a81a.jpg" alt="‘We Live in a Surveillance State’: Reddit Users Explode Over Reports of ICE’s New Face and Fingerprint Scanning App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/we-live-in-a-surveillance-state-reddit-users-explode-over-reports-of-ices-new-face-and-fingerprint-scanning-app-2000623746" target="_blank">‘We Live in a Surveillance State’: Reddit Users Explode Over Reports of ICE’s New Face and Fingerprint Scanning App</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 292 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
