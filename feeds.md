@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 21:01:34 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-03 22:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan" target="_blank">US supreme court clears way for deportation of migrants to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-03 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court" target="_blank">U.K. High Court slams MI5 over informant deception and lack of transparency</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-03 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a4/live/f75edd30-5851-11f0-b5c5-012c5796682d.jpg" alt="Gaza aid contractor tells BBC he saw colleagues fire on hungry Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmry71q5yo" target="_blank">Gaza aid contractor tells BBC he saw colleagues fire on hungry Palestinians</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-03 20:14</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +97,20 @@
                 <span class="time">2025-07-03 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455630/pope-leo-childhood-house-home-illinois" target="_blank">Pope Leo&#x27;s scandal-plagued hometown sees a bright future in buying his childhood home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751568413371_now_daily_b_house_megabill_250703_1920x1080-nrm8sf.jpg" alt="House passes President Trump&#x27;s megabill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/house-passes-president-trump-s-megabill-242669125837" target="_blank">House passes President Trump&#x27;s megabill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-03 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi" target="_blank">Here are the letters that convinced Google and Apple to keep TikTok online</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6866d9ced7b7c86f646030d4/master/pass/GettyImages-2213769363.jpg" alt="The Person in Charge of Testing Tech for US Spies Has Resigned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +156,6 @@
                 <span class="time">2025-07-03 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale" target="_blank">Here are the best robot vacuum deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc" target="_blank">Why Technical Cybersecurity Founders Struggle with Marketing (and How AI Is Changing the Game)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-03 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Proposal-End-UEFI-MBR" target="_blank">Fedora Linux Looks To End Support For UEFI On MBR-Paritioned Disks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-03 20:06</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b" target="_blank">Technology Selection Wisdom（1751568581749700）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-03 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/4cbf8b0a-697f-48ab-ab62-9767cba9904b_1890x1052.png" alt="The 10x “overlemployed” engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer" target="_blank">The 10x “overlemployed” engineer</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-03 18:20</span>
             </div>
         </div>
 </div>
@@ -240,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Ludvig-Forssell-Death-Stranding-2-On-The-Beach-InterviewWORDPRESS.jpg" alt="‘Death Stranding 2: On the Beach’ Composer Had Free Rein to Make a Headbanging Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/death-stranding-2-on-the-beach-composer-had-free-rein-to-make-a-headbanging-soundtrack-2000623819" target="_blank">‘Death Stranding 2: On the Beach’ Composer Had Free Rein to Make a Headbanging Soundtrack</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fb2843360fe55474530ebe1e63d0856f.jpg" alt="Kotaku’s Weekend Guide: 4 Cool Games We’re Declaring Independence With" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-death-stranding-anthem-hitman-1851785639" target="_blank">Kotaku’s Weekend Guide: 4 Cool Games We’re Declaring Independence With</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-03 21:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="Owning a Piece of ChatGPT Was Already Messy. Then Elon Musk Made It Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +297,6 @@
                 <span class="time">2025-07-03 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f095301951fd2bd01bbb19a78ebcb5c9.jpg" alt="Your Kart&#x27;s Stats Are As Important As Ever In Mario Kart World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-kart-best-stats-weight-vehicle-1851785613" target="_blank">Your Kart&#x27;s Stats Are As Important As Ever In Mario Kart World</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-03 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/neurons.jpg" alt="New Research Debunks Myth That Brain Cells Stop Growing After Childhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-research-debunks-myth-that-brain-cells-stop-growing-after-childhood-2000623506" target="_blank">New Research Debunks Myth That Brain Cells Stop Growing After Childhood</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
