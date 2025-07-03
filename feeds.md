@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 08:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 09:02:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss" target="_blank">Are you a glucose &#x27;dipper&#x27;? Here&#x27;s how to fix those blood sugar highs and lows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +102,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from UK</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-03 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from the UK</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-03 01:09</span>
             </div>
@@ -164,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/jetpack-4-eol" target="_blank">JetPack 4 EOL – how to keep your userspace secure during migration</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-03 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets" target="_blank">I scanned all of GitHub&#x27;s &quot;oops commits&quot; for leaked secrets</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-03 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets" target="_blank">I Scanned All of GitHub&#x27;s &quot;Oops Commits&quot; for Leaked Secrets</a></span>
                 <span class="feed">Hacker News</span>
@@ -197,24 +224,6 @@
                 <span class="time">2025-07-03 01:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jamesbayroad.com/ttr/index.html" target="_blank">Trans-Taiga Road:The farthest you can get from a town on a road in North America</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-June-2025" target="_blank">Steam On Linux Usage Dips Slightly For June, AMD Linux CPU Usage Hits 69%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-03 00:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-on-a-Free-Channel.jpg" alt="How to Watch Wimbledon 2025 Live on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-wimbledon-2025-live-online-for-free-2000619381" target="_blank">How to Watch Wimbledon 2025 Live on a Free Channel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 06:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/HotSpringsSharkAttack.jpg" alt="‘Hot Spring Shark Attack’ Is Goofy and It Knows It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +297,6 @@
                 <span class="time">2025-07-02 22:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/waist.jpg?fit=1230%2C933&amp;quality=60&amp;ssl=1" alt="Research finds sex dolls exceed natural human proportions by up to 52%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/research-finds-sex-dolls-exceed-natural-human-proportions-by-up-to-52.html" target="_blank">Research finds sex dolls exceed natural human proportions by up to 52%</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 20:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
