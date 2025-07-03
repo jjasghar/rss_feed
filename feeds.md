@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 10:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-03 11:01:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/mike-johnson_1751508006784_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Megabill final passage vote could come soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Megabill final passage vote could come soon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250703-mike-johnson-ac-701p-cf46b0.jpg" alt="House begins debate on Trump&#x27;s agenda bill after GOP holdouts relent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-big-beautiful-bill-house-taxes-immigration-live-updates-rcna215842" target="_blank">House begins debate on Trump&#x27;s agenda bill after GOP holdouts relent</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-03 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2025-07-03 04:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/dozens-missing-after-ferry-carrying-65-people-sinks-off-indonesias-bali?traffic_source=rss" target="_blank">Dozens missing after ferry carrying 65 people sinks off Indonesia’s Bali</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="&#x27;This drug is evil&#x27;: The addictive and deadly substance ruining lives in Africa - and made from ingredients shipped from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">&#x27;This drug is evil&#x27;: The addictive and deadly substance ruining lives in Africa - and made from ingredients shipped from UK</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-03 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/" target="_blank">Google rolls out its new Veo 3 video generation model globally</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6865b262b7041cb306f6e75f/master/pass/Coffee%20Subscriptions.png" alt="12 Best Coffee Subscriptions (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-subscriptions/" target="_blank">12 Best Coffee Subscriptions (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68658b3a60461bf5012be132/master/pass/Pride2025-NA25-33.jpg" alt="The Promise and Peril of Digital Security in the Age of Dictatorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2025-07-03 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/" target="_blank">French B2B neobank Qonto reaches 600,000 customers, files for banking license</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/" target="_blank">OpenAI condemns Robinhood’s ‘OpenAI tokens’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 23:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Dropping-OpenMoko-In" target="_blank">Linux 6.17 To Finish Clearing Out Old Code For OpenMoko Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-03 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqihi3zf2z84lejwqq9i.png" alt="From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project (Part One)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m" target="_blank">From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project (Part One)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 10:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f" target="_blank">Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-03 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tinyefuza_joe_b1f6525bd6b/built-with-bolt-challenge-of-the-worlds-largest-hackathon-writing-challenge-devconnect-4mcc" target="_blank">Built with Bolt challenge of the World&#x27;s largest hackathon writing challenge. Devconnect</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jamesbayroad.com/ttr/index.html" target="_blank">Trans-Taiga Road (2004)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 01:07</span>
             </div>
         </div>
 </div>
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
