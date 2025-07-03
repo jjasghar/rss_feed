@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-02 23:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-03 00:04:57 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 02, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5445344/after-decades-on-npr-this-familiar-voice-is-retiring" target="_blank">After decades on NPR, this familiar voice is retiring</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-02 22:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,29 @@
                 <span class="time">2025-07-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/diddy-1-rt-gmh-250702_1751465296906_hpMain_4x3t_384.jpg" alt="Sean &#x27;Diddy&#x27; Combs verdict: What&#x27;s next for the rap mogul?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/sean-diddy-combs-guilty-whats-next/story?id=123412310" target="_blank">Sean &#x27;Diddy&#x27; Combs verdict: What&#x27;s next for the rap mogul?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-02 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/openai-condemns-robinhoods-openai-tokens/" target="_blank">OpenAI condemns Robinhood’s ‘OpenAI tokens’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-02 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6865c256720d56593b1aa49a/master/pass/GettyImages-2218024188.jpg" alt="Despite Protests, Elon Musk Secures Air Permit for xAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/xai-data-center-air-pollution-permit/" target="_blank">Despite Protests, Elon Musk Secures Air Permit for xAI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-02 23:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2025-07-02 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/02/could-googles-veo-3-be-the-start-of-playable-world-models/" target="_blank">Could Google’s Veo 3 be the start of playable world models?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-02 19:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 46 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025/" target="_blank">The 46 Best Deals From REI&#x27;s July 4 Outdoor Gear Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-02 19:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F26q4gq1wc6knm54nq9my.gif" alt="SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chandycraig/saas-friends-stop-reimplementing-messaging-features-53hb" target="_blank">SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-02 23:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykkkomzmg8aty35go7tl.png" alt="Devlog #5 Fantasy Overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2025-07-02 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pythonspeed.com/articles/different-ways-speed/" target="_blank">500× faster: Four different ways to speed up your code</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-02 18:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/HotSpringsSharkAttack.jpg" alt="‘Hot Spring Shark Attack’ Is Goofy and It Knows It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hot-spring-shark-attack-is-goofy-and-it-knows-it-2000622944" target="_blank">‘Hot Spring Shark Attack’ Is Goofy and It Knows It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-02 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9fd680bdda3fe34ac13e18a69b8e366c.jpg" alt="Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550" target="_blank">Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-02 23:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Your-Idol-Saja-Boys-Netflix.jpg" alt="The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-kart-world-unlock-daisy-flower-cup-multiplayer-1851785551" target="_blank">Unlocking Daisy In Mario Kart World Is Super Easy</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-02 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0217177b63e460bc9087add65822defd.jpg" alt="A Bunch Of Big PS5 Games Are On Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-psn-summer-july-sale-best-biggest-deals-discounts-1851785543" target="_blank">A Bunch Of Big PS5 Games Are On Sale Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-02 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_1943833363.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="White House staff shocked as Zuckerberg strolls into classified meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/white-house-staff-shocked-as-zuckerberg-strolls-into-classified-meeting.html" target="_blank">White House staff shocked as Zuckerberg strolls into classified meeting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 18:42</span>
             </div>
         </div>
 </div>
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
