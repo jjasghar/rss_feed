@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 03:25:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 04:08:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/dozens-missing-after-ferry-carrying-65-people-sinks-off-indonesias-bali?traffic_source=rss" target="_blank">Dozens missing after ferry carrying 65 people sinks off Indonesia’s Bali</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-03 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 01:09</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +105,20 @@
                 <span class="time">2025-07-03 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751498168161_nn_cme_diddy_verdict_250702_1920x1080-n2muq0.jpg" alt="Sean ‘Diddy’ Combs acquitted on most serious charges, but denied bail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sean-diddy-combs-acquitted-on-most-serious-charges-but-denied-bail-242625605514" target="_blank">Sean ‘Diddy’ Combs acquitted on most serious charges, but denied bail</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-02 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/02/french-b2b-neobank-qonto-reaches-600000-customers-files-for-banking-license/" target="_blank">French B2B neobank Qonto reaches 600,000 customers, files for banking license</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +164,20 @@
                 <span class="time">2025-07-02 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8" target="_blank">Google’s fix for Pixel 6A battery overheating issues arrives next week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-02 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jamesbayroad.com/ttr/index.html" target="_blank">Trans-Taiga Road:The farthest you can get from a town on a road in North America</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-03 01:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/bain_8a987225b41e21618fcb/devlog-5-fantasy-overhaul-i73" target="_blank">Devlog #5 Fantasy Overhaul</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-02 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ZLUDA-Q2-2025-Update" target="_blank">ZLUDA Making Progress In 2025 On Bringing CUDA To Non-NVIDIA GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-02 20:01</span>
             </div>
         </div>
 </div>
@@ -328,22 +337,13 @@
                 <span class="time">2025-07-02 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Global Ranking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3110/" target="_blank">Global Ranking</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-02 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 03:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
