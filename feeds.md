@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 17:02:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-03 18:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia" target="_blank">Two tourists from UK and New Zealand killed by elephant, Zambian police say</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-03 17:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/israeli-drone-attack-near-beirut-kills-at-least-one-injures-three-others?traffic_source=rss" target="_blank">Israeli drone attack near Beirut kills at least one, injures three others</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -64,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75792/ghost-guns-may-make-a-comeback-despite-a-supreme-court-ruling" target="_blank">Ghost guns may make a comeback, despite a Supreme Court ruling</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-03 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485c/live/c9a0ba40-5805-11f0-9074-8989d8c97d87.jpg" alt="UN expert calls for companies to stop doing business with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2039xpv87o" target="_blank">UN expert calls for companies to stop doing business with Israel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-03 15:24</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +101,38 @@
                 <span class="time">2025-07-03 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/3/did-a-humanitarian-aid-operation-turn-into-a-killing-field?traffic_source=rss" target="_blank">Did a humanitarian aid operation turn into a “killing field”?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-4-ht-gmh-250703_1751550002707_hpMain_4x3t_384.jpg" alt="&#x27;Immoral&#x27;: Democrat Hakeem Jeffries blasts Trump megabill in marathon speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/democrat-hakeem-jeffries-marathon-magic-minute-speech-blasts/story?id=123444742" target="_blank">&#x27;Immoral&#x27;: Democrat Hakeem Jeffries blasts Trump megabill in marathon speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2214393807-500x500.jpg" alt="Judge: You can’t ban DEI grants without bothering to define DEI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/" target="_blank">Judge: You can’t ban DEI grants without bothering to define DEI</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-03 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligence-following-his-ceos-exit/" target="_blank">Ilya Sutskever will lead Safe Superintelligence following his CEO’s exit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6865654c21af6186630bf33e/master/pass/US-Mexico-Border.jpg" alt="CBP Wants New Tech to Search for Hidden Data on Seized Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/" target="_blank">CBP Wants New Tech to Search for Hidden Data on Seized Phones</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686563a1a72f01ecc03394c5/master/pass/GettyImages-2221868154.jpg" alt="Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,38 +160,20 @@
                 <span class="time">2025-07-03 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale" target="_blank">Paramount Plus slashes prices to $2 for two months</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865ac9b720d56593b1aa498/master/pass/Roku_.png" alt="How to Pick the Best Roku Device (2025): A Guide to Each Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/how-to-pick-the-right-roku/" target="_blank">How to Pick the Best Roku Device (2025): A Guide to Each Model</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 15:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849a33ef3e19a5bab3da558/master/pass/Sony%20Bravia%208%20II%20OLED%20TV%20Review_.png" alt="How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-buy-the-right-tv/" target="_blank">How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487689&w=600" alt="The OWASP Top 10 for LLM Applications: An Overview of AI Security Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/owasp-top-10-llm-security-risks" target="_blank">The OWASP Top 10 for LLM Applications: An Overview of AI Security Risks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o" target="_blank">Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-03 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://richardscollin.github.io/tmux-rs/" target="_blank">Introducing tmux-rs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-03 15:03</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vivaldi-7-5-browser-update-changes" target="_blank">Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-03 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_57439f86/memory-safety-in-web-rust-system-zero-cost-secure1751550293518900-24nd" target="_blank">Memory Safety in Web Rust System Zero Cost Secure（1751550293518900）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/databricks-declarative-pipelines/en/headerimage/databricks-declarative-pipelines-1751267295205.jpeg" alt="Databricks Contributes Spark Declarative Pipelines to Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/databricks-declarative-pipelines/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Databricks Contributes Spark Declarative Pipelines to Apache Spark</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-03 13:00</span>
             </div>
         </div>
 </div>
@@ -249,12 +248,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/neurons.jpg" alt="New Research Debunks Myth That Brain Cells Stop Growing After Childhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-research-debunks-myth-that-brain-cells-stop-growing-after-childhood-2000623506" target="_blank">New Research Debunks Myth That Brain Cells Stop Growing After Childhood</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a3a6681ee5fca955b11ef7fdf804ee5b.jpg" alt="Xbox Invites Developers To AI Roundtable The Same Day It Does Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/microsoft-gen-ai-idxbox-layoffs-npc-chatgpt-1851785609" target="_blank">Xbox Invites Developers To AI Roundtable The Same Day It Does Mass Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-03 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/75caa6fc89857b44cf32522a17ab097c.jpg" alt="Free Lunch Is Over for the AI That Broke the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/free-lunch-is-over-for-the-ai-that-broke-the-web-2000623837" target="_blank">Free Lunch Is Over for the AI That Broke the Web</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-03 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/shutterstock_1460201174.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="You&#x27;ll never believe how precious baby condors are!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/03/youll-never-believe-how-precious-baby-condors-are.html" target="_blank">You&#x27;ll never believe how precious baby condors are!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-03 16:06</span>
             </div>
         </div>
 <div class="story">
@@ -267,39 +293,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYPGYAHZB5YPJCCGYVEXMZQH/hero-image.jpg" alt="Five Psychological Tricks You Can Use to Make Yourself Feel Happier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://lifehacker.com/imagery/articles/01JZ842JC39979DS5DCEEA9S59/hero-image.png" alt="This 65&quot; Panasonic OLED With Fire TV Is at Its Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/five-psychological-tricks-happier?utm_medium=RSS" target="_blank">Five Psychological Tricks You Can Use to Make Yourself Feel Happier</a></span>
+                <span class="title"><a href="https://lifehacker.com/tech/65-panasonic-oled-tv-amazon-sale?utm_medium=RSS" target="_blank">This 65&quot; Panasonic OLED With Fire TV Is at Its Lowest Price Ever Right Now</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-03 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ASCII-Moon-Phase.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="View moon phases as ASCII art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/03/view-moon-phases-as-ascii-art.html" target="_blank">View moon phases as ASCII art</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-03 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a57f23230a38c05ec251bb6d4e9d46c.jpg" alt="Original Doom Designer&#x27;s New FPS Is The Latest Casualty Of The Xbox Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/john-brenda-romero-games-fps-doom-xbox-bethesda-1851785577" target="_blank">Original Doom Designer&#x27;s New FPS Is The Latest Casualty Of The Xbox Cuts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-03 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/ankerusbccar.jpg" alt="Anker Clears Out USB-C Car Charger at Practically Free for 4th of July, Not Sure It Will Last Through Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anker-clears-out-usb-c-car-charger-at-practically-free-for-4th-of-july-not-sure-it-will-last-through-prime-day-2000623488" target="_blank">Anker Clears Out USB-C Car Charger at Practically Free for 4th of July, Not Sure It Will Last Through Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 13:40</span>
+                <span class="time">2025-07-03 15:30</span>
             </div>
         </div>
 </div>
@@ -325,22 +324,13 @@
                 <span class="time">2025-07-03 01:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/02/ursign" target="_blank">Ursign</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-02 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 292 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 296 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
