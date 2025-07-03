@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 13:10:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 14:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/3/us-contractors-say-live-rounds-are-being-shot-at-gaza-aid-seekers?traffic_source=rss" target="_blank">US contractors say live rounds are being shot at Gaza aid seekers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-4-ht-gmh-250703_1751550002707_hpMain_4x3t_384.jpg" alt="Democrat Hakeem Jeffries, in marathon &#x27;magic minute&#x27; speech, blasts Trump bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democrat-hakeem-jeffries-marathon-magic-minute-speech-blasts/story?id=123444742" target="_blank">Democrat Hakeem Jeffries, in marathon &#x27;magic minute&#x27; speech, blasts Trump bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 13:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +95,20 @@
                 <span class="time">2025-07-03 10:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455069/house-republicans-obbb-big-beautiful-bill-trump" target="_blank">House Republicans expected to pass President Trump&#x27;s massive budget bill by July 4</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5448849/glucose-blood-sugar-diet-weight-loss" target="_blank">Are you a glucose &#x27;dipper&#x27;? Here&#x27;s how to fix those blood sugar highs and lows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health" target="_blank">Whoop MG review: a big whoop for a small crowd</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68499ed317bbaf7c007e2dfa/master/pass/Apple%20One.png" alt="What Is Apple One? A Breakdown of Plans, Pricing, and Included Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +154,29 @@
                 <span class="time">2025-07-03 10:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68658b3a60461bf5012be132/master/pass/Pride2025-NA25-33.jpg" alt="The Promise and Peril of Digital Security in the Age of Dictatorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/" target="_blank">The Promise and Peril of Digital Security in the Age of Dictatorship</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_57439f86/memory-safety-in-web-rust-system-zero-cost-secure1751550293518900-24nd" target="_blank">Memory Safety in Web Rust System Zero Cost Secure（1751550293518900）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/databricks-declarative-pipelines/en/headerimage/databricks-declarative-pipelines-1751267295205.jpeg" alt="Databricks Contributes Spark Declarative Pipelines to Apache Spark" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/databricks-declarative-pipelines/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Databricks Contributes Spark Declarative Pipelines to Apache Spark</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +213,6 @@
                 <span class="time">2025-07-03 10:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqihi3zf2z84lejwqq9i.png" alt="From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project (Part One)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mbarcia/from-monolith-to-microservices-lessons-learned-migrating-the-csv-payments-processing-project-part-3p5m" target="_blank">From Monolith to Microservices: Lessons Learned Migrating the CSV Payments Processing project (Part One)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/jetpack-4-eol" target="_blank">JetPack 4 EOL – how to keep your userspace secure during migration</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-03 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a57f23230a38c05ec251bb6d4e9d46c.jpg" alt="Original Doom Designer&#x27;s New FPS Is The Latest Casualty Of The Xbox Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/john-brenda-romero-games-fps-doom-xbox-bethesda-1851785577" target="_blank">Original Doom Designer&#x27;s New FPS Is The Latest Casualty Of The Xbox Cuts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-03 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ankerusbccar.jpg" alt="Anker Clears Out USB-C Car Charger at Practically Free for 4th of July, Not Sure It Will Last Through Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anker-clears-out-usb-c-car-charger-at-practically-free-for-4th-of-july-not-sure-it-will-last-through-prime-day-2000623488" target="_blank">Anker Clears Out USB-C Car Charger at Practically Free for 4th of July, Not Sure It Will Last Through Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/07/14087fd37f815e2dbf35a5b25e32a81a.jpg" alt="‘We Live in a Surveillance State’: Reddit Users Explode Over Reports of ICE’s New Face and Fingerprint Scanning App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/hot-spring-shark-attack-is-goofy-and-it-knows-it-2000622944" target="_blank">‘Hot Spring Shark Attack’ Is Goofy and It Knows It</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-02 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Arizona.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Family hikes on closed Arizona trail — until their kids collapse from heat and need stretchers (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/02/family-hikes-on-closed-arizona-trail-until-their-kids-collapse-from-heat-and-need-stretchers-video.html" target="_blank">Family hikes on closed Arizona trail — until their kids collapse from heat and need stretchers (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-02 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9fd680bdda3fe34ac13e18a69b8e366c.jpg" alt="Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550" target="_blank">Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-02 23:10</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
