@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 18:01:46 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-03 19:01:35 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455630/pope-leo-childhood-house-home-illinois" target="_blank">Pope Leo&#x27;s scandal-plagued hometown sees a bright future in buying his childhood home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751568413371_now_daily_b_house_megabill_250703_1920x1080-nrm8sf.jpg" alt="House passes President Trump&#x27;s megabill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/house-passes-president-trump-s-megabill-242669125837" target="_blank">House passes President Trump&#x27;s megabill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-03 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  House votes to pass Trump&#x27;s spending bill: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  House votes to pass Trump&#x27;s spending bill: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 18:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +104,20 @@
                 <span class="time">2025-07-03 15:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485c/live/c9a0ba40-5805-11f0-9074-8989d8c97d87.jpg" alt="UN expert calls for companies to stop doing business with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2039xpv87o" target="_blank">UN expert calls for companies to stop doing business with Israel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-03 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/3/fact-checking-trumps-immigration-and-one-big-beautiful-bill-claims?traffic_source=rss" target="_blank">Fact-checking Trump’s immigration and One Big Beautiful Bill claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-baqaei-iran_6956451.png?20250703163756" alt="Iran: Still a chance for peace talks with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/iran-still-a-chance-for-peace-talks-with-us-13391964" target="_blank">Iran: Still a chance for peace talks with US</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-03 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale" target="_blank">Here are the best robot vacuum deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 18:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2214393807-500x500.jpg" alt="Judge: You can’t ban DEI grants without bothering to define DEI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,38 @@
                 <span class="time">2025-07-03 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2025-VW-ID.Buzz-01-500x500.jpg" alt="2025 VW ID Buzz review: If you want an electric minivan, this is it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/" target="_blank">2025 VW ID Buzz review: If you want an electric minivan, this is it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-03 16:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b" target="_blank">Technology Selection Wisdom（1751568581749700）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/4cbf8b0a-697f-48ab-ab62-9767cba9904b_1890x1052.png" alt="The 10x “overlemployed” engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer" target="_blank">The 10x “overlemployed” engineer</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-03 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487746&w=600" alt="Real-Time Market Data Processing: Designing Systems for Low Latency and High Throughput" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-market-data-processing-designing-systems" target="_blank">Real-Time Market Data Processing: Designing Systems for Low Latency and High Throughput</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487689&w=600" alt="The OWASP Top 10 for LLM Applications: An Overview of AI Security Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +220,6 @@
                 <span class="title"><a href="https://richardscollin.github.io/tmux-rs/" target="_blank">Introducing tmux-rs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-03 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487138&w=600" alt="Seata the Deal: No More Distributed Transaction Nightmares Across (Spring Boot) Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/seata-distributed-transactions-spring-boot-microservices" target="_blank">Seata the Deal: No More Distributed Transaction Nightmares Across (Spring Boot) Microservices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/x1-carbon-gen13-linux616" target="_blank">Intel Lunar Lake Showing Some Performance Improvements With Linux 6.16</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-03 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/vivaldi-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vivaldi-7-5-browser-update-changes" target="_blank">Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-03 14:24</span>
             </div>
         </div>
 </div>
@@ -247,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/automaton.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="AI note-takers are flooding virtual meetings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/03/ai-note-takers-are-flooding-virtual-meetings.html" target="_blank">AI note-takers are flooding virtual meetings</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-03 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f095301951fd2bd01bbb19a78ebcb5c9.jpg" alt="Your Kart&#x27;s Stats Are As Important As Ever In Mario Kart World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-kart-best-stats-weight-vehicle-1851785613" target="_blank">Your Kart&#x27;s Stats Are As Important As Ever In Mario Kart World</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-03 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/neurons.jpg" alt="New Research Debunks Myth That Brain Cells Stop Growing After Childhood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +304,6 @@
                 <span class="time">2025-07-03 16:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/donaldjohanson0703-1.jpg" alt="NASA Reveals First-Ever Full Image of Peanut-Shaped Asteroid Donaldjohanson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nasa-reveals-first-ever-full-image-of-peanut-shaped-asteroid-donaldjohanson-2000623824" target="_blank">NASA Reveals First-Ever Full Image of Peanut-Shaped Asteroid Donaldjohanson</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ842JC39979DS5DCEEA9S59/hero-image.png" alt="This 65&quot; Panasonic OLED With Fire TV Is at Its Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/65-panasonic-oled-tv-amazon-sale?utm_medium=RSS" target="_blank">This 65&quot; Panasonic OLED With Fire TV Is at Its Lowest Price Ever Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-03 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 296 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 300 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
