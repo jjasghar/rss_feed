@@ -1,9 +1,10 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 01:29:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 02:33:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
@@ -11,26 +12,36 @@
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +57,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/dozens-missing-after-ferry-carrying-65-people-sinks-off-indonesias-bali?traffic_source=rss" target="_blank">Dozens missing after ferry carrying 65 people sinks off Indonesia’s Bali</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from the UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 01:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="&#x27;This drug is evil&#x27;: Kush is ruining lives - with ingredients shipped from the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +109,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/sean-diddy-combs-acquitted-on-most-serious-charges-but-denied-bail-242625605514" target="_blank">Sean ‘Diddy’ Combs acquitted on most serious charges, but denied bail</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-02 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/02/nx-s1-5445344/after-decades-on-npr-this-familiar-voice-is-retiring" target="_blank">After decades on NPR, this familiar voice is retiring</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-02 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7a/live/67eaae90-5757-11f0-960d-e9f1088a89fe.jpg" alt="&#x27;Diddy&#x27; denied bail after being cleared of most serious charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjd2e310k25o" target="_blank">&#x27;Diddy&#x27; denied bail after being cleared of most serious charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-02 22:31</span>
             </div>
         </div>
 </div>
@@ -174,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nature.com/articles/s41586-025-09195-5" target="_blank">Whole-genome ancestry of an Old Kingdom Egyptian</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-03 00:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F26q4gq1wc6knm54nq9my.gif" alt="SaaS friends - Stop reimplementing messaging features 🛑 🫷🦺🫸 🛑" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +229,6 @@
                 <span class="time">2025-07-02 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18485742&w=600" alt="Parallel Data Conflict Resolution in Enterprise Workflows: Pessimistic vs. Optimistic Locking at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/enterprise-data-conflict-resolution-locking-strategies" target="_blank">Parallel Data Conflict Resolution in Enterprise Workflows: Pessimistic vs. Optimistic Locking at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-02 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +255,15 @@
                 <span class="title"><a href="https://gizmodo.com/hot-spring-shark-attack-is-goofy-and-it-knows-it-2000622944" target="_blank">‘Hot Spring Shark Attack’ Is Goofy and It Knows It</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-02 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Arizona.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Family hikes on closed Arizona trail — until their kids collapse from heat and need stretchers (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/02/family-hikes-on-closed-arizona-trail-until-their-kids-collapse-from-heat-and-need-stretchers-video.html" target="_blank">Family hikes on closed Arizona trail — until their kids collapse from heat and need stretchers (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-02 23:26</span>
             </div>
         </div>
 <div class="story">
@@ -282,20 +302,20 @@
                 <span class="time">2025-07-02 20:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ651RJ9QBRV4A1R0T8SEHD2/hero-image.png" alt="Your Anker Powerbank May Have Just Been Recalled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-powerbank-recall-2025?utm_medium=RSS" target="_blank">Your Anker Powerbank May Have Just Been Recalled</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-02 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5605.png" alt="Hair And Makeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5605" target="_blank">Hair And Makeup</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-07-03 01:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -328,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
