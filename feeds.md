@@ -1,42 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 20:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-03 21:01:34 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court" target="_blank">U.K. High Court slams MI5 over informant deception and lack of transparency</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/russia-becomes-first-country-to-recognise-afghanistans-taliban-government?traffic_source=rss" target="_blank">Russia becomes first country to recognise Afghanistan’s Taliban government</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 19:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/house-14-gty-gmh-250703_1751571774339_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House passes megabill, sending it to president&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +94,29 @@
                 <span class="time">2025-07-03 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  House votes to pass Trump&#x27;s spending bill: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  House votes to pass Trump&#x27;s spending bill: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc75/live/9a84f3f0-5839-11f0-960d-e9f1088a89fe.jpg" alt="Death of Liverpool forward Jota leaves football world in shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/football/articles/crl05r070wro" target="_blank">Death of Liverpool forward Jota leaves football world in shock</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-03 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6866d9ced7b7c86f646030d4/master/pass/GettyImages-2213769363.jpg" alt="The Person in Charge of Testing Tech for US Spies Has Resigned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/iarpa-director-resigns-odni/" target="_blank">The Person in Charge of Testing Tech for US Spies Has Resigned</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb" target="_blank">Congress passes budget to expand mass deportations, cut social services, and stall clean energy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 20:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-surveillance-500x500.jpg" alt="Provider of covert surveillance app spills passwords for 62,000 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,29 +153,38 @@
                 <span class="time">2025-07-03 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2214393807-500x500.jpg" alt="Judge: You can’t ban DEI grants without bothering to define DEI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/" target="_blank">Judge: You can’t ban DEI grants without bothering to define DEI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-03 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/ilya-sutskever-will-lead-safe-superintelligence-following-his-ceos-exit/" target="_blank">Ilya Sutskever will lead Safe Superintelligence following his CEO’s exit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/" target="_blank">CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-03 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc" target="_blank">Why Technical Cybersecurity Founders Struggle with Marketing (and How AI Is Changing the Game)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489347&w=600" alt="How to Use AI to Understand Gaps in Your Resume and Job Descriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-use-ai-resumes-job-descriptiption-ats" target="_blank">How to Use AI to Understand Gaps in Your Resume and Job Descriptions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489782&w=600" alt="Self-Supervised Learning Techniques" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,33 +210,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer" target="_blank">The 10x “overlemployed” engineer</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-03 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487746&w=600" alt="Real-Time Market Data Processing: Designing Systems for Low Latency and High Throughput" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-market-data-processing-designing-systems" target="_blank">Real-Time Market Data Processing: Designing Systems for Low Latency and High Throughput</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487689&w=600" alt="The OWASP Top 10 for LLM Applications: An Overview of AI Security Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/owasp-top-10-llm-security-risks" target="_blank">The OWASP Top 10 for LLM Applications: An Overview of AI Security Risks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o" target="_blank">Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 15:51</span>
             </div>
         </div>
 </div>
@@ -271,6 +259,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/japan-obesity.jpg?fit=1080%2C559&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s 4.5% obesity rate vs America&#x27;s 40%: What&#x27;s their secret?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/03/japans-4-5-obesity-rate-vs-americas-40-whats-their-secret.html" target="_blank">Japan&#x27;s 4.5% obesity rate vs America&#x27;s 40%: What&#x27;s their secret?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-03 19:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/automaton.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="AI note-takers are flooding virtual meetings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -295,15 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-research-debunks-myth-that-brain-cells-stop-growing-after-childhood-2000623506" target="_blank">New Research Debunks Myth That Brain Cells Stop Growing After Childhood</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a3a6681ee5fca955b11ef7fdf804ee5b.jpg" alt="Xbox Invites Developers To AI Roundtable The Same Day It Does Mass Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-gen-ai-idxbox-layoffs-npc-chatgpt-1851785609" target="_blank">Xbox Invites Developers To AI Roundtable The Same Day It Does Mass Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-03 17:45</span>
             </div>
         </div>
 </div>
@@ -334,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
