@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 15:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 16:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75792/ghost-guns-may-make-a-comeback-despite-a-supreme-court-ruling" target="_blank">Ghost guns may make a comeback, despite a Supreme Court ruling</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/3/fact-checking-trumps-immigration-and-one-big-beautiful-bill-claims?traffic_source=rss" target="_blank">Fact-checking Trump’s immigration and One Big Beautiful Bill claims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +100,20 @@
                 <span class="time">2025-07-03 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455636/the-u-s-labor-market-remains-solid-with-employers-adding-147-000-jobs-last-month" target="_blank">The U.S. labor market remains solid, with employers adding 147,000 jobs last month</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/us-japan-trade-deal-will-this-one-be-too-tricky-for-trump?traffic_source=rss" target="_blank">US-Japan trade deal – will this one be too tricky for Trump?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 12:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6865ac9b720d56593b1aa498/master/pass/Roku_.png" alt="How to Pick the Best Roku Device (2025): A Guide to Each Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/how-to-pick-the-right-roku/" target="_blank">How to Pick the Best Roku Device (2025): A Guide to Each Model</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 15:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6849a33ef3e19a5bab3da558/master/pass/Sony%20Bravia%208%20II%20OLED%20TV%20Review_.png" alt="How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,29 @@
                 <span class="time">2025-07-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/" target="_blank">Google rolls out its new Veo 3 video generation model globally</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_57439f86/perfect-combination-of-message-queue-and-real-time-communication-distributed-159o" target="_blank">Perfect Combination of Message Queue and Real-Time Communication Distributed Practice（1751557889400100）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18487138&w=600" alt="Seata the Deal: No More Distributed Transaction Nightmares Across (Spring Boot) Microservices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/seata-distributed-transactions-spring-boot-microservices" target="_blank">Seata the Deal: No More Distributed Transaction Nightmares Across (Spring Boot) Microservices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/vivaldi-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-07-03 11:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501933&w=600" alt="Why Traditional CI/CD Falls Short for Cloud Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cicd-falls-short-cloud-infrastructure" target="_blank">Why Traditional CI/CD Falls Short for Cloud Infrastructure</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/using-AI-software-architect/en/headerimage/generatedHeaderImage-1750661520409.jpg" alt="Experiences from Using AI as a Software Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/using-AI-software-architect/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Experiences from Using AI as a Software Architect</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-03 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/donaldjohanson0703-1.jpg" alt="NASA Reveals First-Ever Full Image of Peanut-Shaped Asteroid Donaldjohanson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nasa-reveals-first-ever-full-image-of-peanut-shaped-asteroid-donaldjohanson-2000623824" target="_blank">NASA Reveals First-Ever Full Image of Peanut-Shaped Asteroid Donaldjohanson</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 15:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYPGYAHZB5YPJCCGYVEXMZQH/hero-image.jpg" alt="Five Psychological Tricks You Can Use to Make Yourself Feel Happier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/five-psychological-tricks-happier?utm_medium=RSS" target="_blank">Five Psychological Tricks You Can Use to Make Yourself Feel Happier</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-03 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ASCII-Moon-Phase.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="View moon phases as ASCII art" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/03/view-moon-phases-as-ascii-art.html" target="_blank">View moon phases as ASCII art</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-03 13:55</span>
             </div>
         </div>
 <div class="story">
@@ -272,29 +291,20 @@
                 <span class="time">2025-07-03 12:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/macbook-deal.jpg" alt="Apple’s New M4 MacBook Air Hits All-Time Low for 4th of July, Stock Might Be Gone If You Wait Until Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apples-new-m4-macbook-air-hits-all-time-low-for-4th-of-july-stock-might-be-gone-if-you-wait-until-prime-day-2000623675" target="_blank">Apple’s New M4 MacBook Air Hits All-Time Low for 4th of July, Stock Might Be Gone If You Wait Until Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-on-a-Free-Channel.jpg" alt="How to Watch Wimbledon 2025 Live on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-wimbledon-2025-live-online-for-free-2000619381" target="_blank">How to Watch Wimbledon 2025 Live on a Free Channel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1750828267-20250703.png" alt="Saturday Morning Breakfast Cereal - Butlerian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/butlerian" target="_blank">Saturday Morning Breakfast Cereal - Butlerian</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-03 15:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5605.png" alt="Hair And Makeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -313,22 +323,13 @@
                 <span class="time">2025-07-02 17:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750828176-20250702.png" alt="Saturday Morning Breakfast Cereal - Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dollars" target="_blank">Saturday Morning Breakfast Cereal - Dollars</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-02 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
