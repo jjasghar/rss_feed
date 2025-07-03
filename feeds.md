@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 22:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-03 23:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/house-16-gty-gmh-250703_1751572442559_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3a/live/1a22fc50-584a-11f0-a07d-dd7c432cf458.jpg" alt="Zarah Sultana says she is quitting Labour to start party with Corbyn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyel9kgdvdo" target="_blank">Zarah Sultana says she is quitting Labour to start party with Corbyn</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-03 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/3/football-world-mourns-diogo-jota-following-deadly-car-crash?traffic_source=rss" target="_blank">Football world mourns Diogo Jota following deadly car crash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 21:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -56,45 +90,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court" target="_blank">U.K. High Court slams MI5 over informant deception and lack of transparency</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75790/no-tax-on-tips-congress-trump-big-beautiful-bill" target="_blank">Congress passed no tax on tips in Trump&#x27;s &#x27;big, beautiful bill.&#x27; Here&#x27;s how it works</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a4/live/f75edd30-5851-11f0-b5c5-012c5796682d.jpg" alt="Gaza aid contractor tells BBC he saw colleagues fire on hungry Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmry71q5yo" target="_blank">Gaza aid contractor tells BBC he saw colleagues fire on hungry Palestinians</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-03 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/russia-becomes-first-country-to-recognise-afghanistans-taliban-government?traffic_source=rss" target="_blank">Russia becomes first country to recognise Afghanistan’s Taliban government</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/house-14-gty-gmh-250703_1751571774339_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House passes megabill, sending it to president&#x27;s desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House passes megabill, sending it to president&#x27;s desk</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 19:47</span>
+                <span class="time">2025-07-03 21:22</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75775/abrego-garcia-el-salvador-prison-beaten-torture" target="_blank">Abrego Garcia says he was severely beaten in Salvadoran prison</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court" target="_blank">U.K. High Court slams MI5 over informant deception and lack of transparency</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 19:11</span>
+                <span class="time">2025-07-03 20:35</span>
             </div>
         </div>
 </div>
@@ -102,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/" target="_blank">Slate Auto drops “under $20,000” pricing after Trump administration ends federal EV tax credit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-03 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,20 @@
                 <span class="time">2025-07-03 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683e2aab7563d3dfda7e6119/master/pass/Apple-Movie-Guide-Culture-Bono_Stories_Of_Surrender_Photo_0104.jpg" alt="The 27 Best Movies on Apple TV+ Right Now (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 27 Best Movies on Apple TV+ Right Now (July 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea" target="_blank">Middleware Architecture Patterns Cross Cutting Web（1751582887257700）</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-03 22:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +222,6 @@
                 <span class="time">2025-07-03 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_6bc7e52c/technology-selection-wisdom1751568581749700-296b" target="_blank">Technology Selection Wisdom（1751568581749700）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/pCloud-Storage-Encryption-Sale.jpg" alt="Exclusive 4th of July Offer: 1TB to 10TB Lifetime Cloud Storage at a Huge Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/exclusive-4th-of-july-offer-1tb-to-10tb-lifetime-cloud-storage-at-a-huge-discount-2000622831" target="_blank">Exclusive 4th of July Offer: 1TB to 10TB Lifetime Cloud Storage at a Huge Discount</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Ludvig-Forssell-Death-Stranding-2-On-The-Beach-InterviewWORDPRESS.jpg" alt="‘Death Stranding 2: On the Beach’ Composer Had Free Rein to Make a Headbanging Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +304,6 @@
                 <span class="time">2025-07-03 19:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/automaton.jpg?fit=1200%2C905&amp;quality=60&amp;ssl=1" alt="AI note-takers are flooding virtual meetings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/03/ai-note-takers-are-flooding-virtual-meetings.html" target="_blank">AI note-takers are flooding virtual meetings</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-03 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
