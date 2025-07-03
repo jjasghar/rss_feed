@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 14:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-03 15:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/3/did-a-humanitarian-aid-operation-turn-into-a-killing-field?traffic_source=rss" target="_blank">Did a humanitarian aid operation turn into a “killing field”?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/hakeem-jeffries-4-ht-gmh-250703_1751550002707_hpMain_4x3t_384.jpg" alt="&#x27;Immoral&#x27;: Democrat Hakeem Jeffries blasts Trump megabill in marathon speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/democrat-hakeem-jeffries-marathon-magic-minute-speech-blasts/story?id=123444742" target="_blank">&#x27;Immoral&#x27;: Democrat Hakeem Jeffries blasts Trump megabill in marathon speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 14:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,37 +84,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/us-japan-trade-deal-will-this-one-be-too-tricky-for-trump?traffic_source=rss" target="_blank">US-Japan trade deal – will this one be too tricky for Trump?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 12:49</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455636/the-u-s-labor-market-remains-solid-with-employers-adding-147-000-jobs-last-month" target="_blank">The U.S. labor market remains solid, with employers adding 147,000 jobs last month</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 13:15</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75770/up-first-newsletter-house-republicans-house-bill-sean-combs-trial" target="_blank">GOP megabill expected to pass by July 4. And, what&#x27;s next after Sean Combs&#x27; verdict</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mike-johnson_1751508006784_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Megabill final passage vote could come soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Megabill final passage vote could come soon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250703-mike-johnson-ac-701p-cf46b0.jpg" alt="House begins debate on Trump&#x27;s agenda bill after GOP holdouts relent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-big-beautiful-bill-house-taxes-immigration-live-updates-rcna215842" target="_blank">House begins debate on Trump&#x27;s agenda bill after GOP holdouts relent</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-03 10:39</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/us-japan-trade-deal-will-this-one-be-too-tricky-for-trump?traffic_source=rss" target="_blank">US-Japan trade deal – will this one be too tricky for Trump?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-03 12:49</span>
             </div>
         </div>
 </div>
@@ -100,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6849a33ef3e19a5bab3da558/master/pass/Sony%20Bravia%208%20II%20OLED%20TV%20Review_.png" alt="How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-buy-the-right-tv/" target="_blank">How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-03 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +158,20 @@
                 <span class="time">2025-07-03 10:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865b262b7041cb306f6e75f/master/pass/Coffee%20Subscriptions.png" alt="12 Best Coffee Subscriptions (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-subscriptions/" target="_blank">12 Best Coffee Subscriptions (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 10:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/vivaldi-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vivaldi-7-5-browser-update-changes" target="_blank">Vivaldi 7.5 Browser Adds Tab Stack Colours, New DNS Settings</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-03 14:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +217,6 @@
                 <span class="time">2025-07-03 11:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Dropping-OpenMoko-In" target="_blank">Linux 6.17 To Finish Clearing Out Old Code For OpenMoko Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-03 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYPGYAHZB5YPJCCGYVEXMZQH/hero-image.jpg" alt="Five Psychological Tricks You Can Use to Make Yourself Feel Happier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/five-psychological-tricks-happier?utm_medium=RSS" target="_blank">Five Psychological Tricks You Can Use to Make Yourself Feel Happier</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-03 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a57f23230a38c05ec251bb6d4e9d46c.jpg" alt="Original Doom Designer&#x27;s New FPS Is The Latest Casualty Of The Xbox Cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-07-03 06:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/HotSpringsSharkAttack.jpg" alt="‘Hot Spring Shark Attack’ Is Goofy and It Knows It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hot-spring-shark-attack-is-goofy-and-it-knows-it-2000622944" target="_blank">‘Hot Spring Shark Attack’ Is Goofy and It Knows It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
