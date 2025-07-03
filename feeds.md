@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 06:01:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-03 07:02:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="&#x27;This drug is evil&#x27;: The addictive and deadly substance ruining lives in Africa - and made from ingredients shipped from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">&#x27;This drug is evil&#x27;: The addictive and deadly substance ruining lives in Africa - and made from ingredients shipped from UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 01:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sierra-leone-kush_6955462.png?20250702144434" alt="Teens unable to walk, mothers with rash-covered babies: Kush is ruining lives - and made with ingredients shipped from UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -91,15 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/this-drug-is-evil-kush-is-ruining-lives-with-ingredients-shipped-from-the-uk-13391368" target="_blank">&#x27;This drug is evil&#x27;: Kush is ruining lives - with ingredients shipped from the UK</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-03 01:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/us-says-its-strikes-degraded-irans-nuclear-programme-by-one-to-two-years?traffic_source=rss" target="_blank">US says its strikes degraded Iran’s nuclear programme by one to two years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 00:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets" target="_blank">I Scanned All of GitHub&#x27;s &quot;Oops Commits&quot; for Leaked Secrets</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-03 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f" target="_blank">Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-June-2025" target="_blank">Steam On Linux Usage Dips Slightly For June, AMD Linux CPU Usage Hits 69%</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-03 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nature.com/articles/s41586-025-09195-5" target="_blank">Whole-genome ancestry of an Old Kingdom Egyptian</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 00:24</span>
             </div>
         </div>
 </div>
@@ -325,22 +326,13 @@
                 <span class="time">2025-07-02 15:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/02/ursign" target="_blank">Ursign</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-02 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
