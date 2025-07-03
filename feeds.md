@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-03 11:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-03 12:02:20 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 03, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 03, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75770/up-first-newsletter-house-republicans-house-bill-sean-combs-trial" target="_blank">GOP megabill expected to pass by July 4. And, what&#x27;s next after Sean Combs&#x27; verdict</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-03 11:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/mike-johnson_1751508006784_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Megabill final passage vote could come soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5455541/bali-indonesia-ferry-sinking-survivors" target="_blank">Rescuers search for survivors after ferry sinking near Bali, Indonesia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-03 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/3/russia-ukraine-war-list-of-key-events-day-1225?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,225</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 04:28</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501933&w=600" alt="Why Traditional CI/CD Falls Short for Cloud Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cicd-falls-short-cloud-infrastructure" target="_blank">Why Traditional CI/CD Falls Short for Cloud Infrastructure</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-03 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/using-AI-software-architect/en/headerimage/generatedHeaderImage-1750661520409.jpg" alt="Experiences from Using AI as a Software Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/using-AI-software-architect/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Experiences from Using AI as a Software Architect</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-03 11:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -204,24 +218,6 @@
                 <span class="time">2025-07-03 06:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets" target="_blank">I Scanned All of GitHub&#x27;s &quot;Oops Commits&quot; for Leaked Secrets</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-03 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_57439f86/memory-safety-and-ultimate-performance-finding-perfect-balance-in-rust1751521513673600-568f" target="_blank">Memory Safety and Ultimate Performance Finding Perfect Balance in Rust（1751521513673600）</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,9 +227,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html" target="_blank">Ubuntu Disables Spectre/Meltdown Protections</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html" target="_blank">Surveillance Used by a Drug Cartel</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-02 11:02</span>
+                <span class="time">2025-07-03 11:06</span>
             </div>
         </div>
 </div>
@@ -241,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/macbook-deal.jpg" alt="Apple’s New M4 MacBook Air Hits All-Time Low for 4th of July, Stock Might Be Gone If You Wait Until Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apples-new-m4-macbook-air-hits-all-time-low-for-4th-of-july-stock-might-be-gone-if-you-wait-until-prime-day-2000623675" target="_blank">Apple’s New M4 MacBook Air Hits All-Time Low for 4th of July, Stock Might Be Gone If You Wait Until Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-03 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Watch-Wimbledon-on-a-Free-Channel.jpg" alt="How to Watch Wimbledon 2025 Live on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +291,6 @@
                 <span class="time">2025-07-02 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Your-Idol-Saja-Boys-Netflix.jpg" alt="The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-bands-of-kpop-demon-hunters-are-having-a-charts-battle-in-real-life-too-2000623584" target="_blank">The Bands of ‘KPop Demon Hunters’ Are Having a Charts Battle in Real Life Too</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-02 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
