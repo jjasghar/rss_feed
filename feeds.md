@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 16:01:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-04 17:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/4/prosecutors-drop-maccabi-tel-aviv-assault-cases-after-footage-deleted?traffic_source=rss" target="_blank">Prosecutors drop Maccabi Tel Aviv assault cases after footage deleted</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/elon-musk-revives-third-party-idea-after-one-big-beautiful-bill-passes?traffic_source=rss" target="_blank">Elon Musk revives third party idea after ‘One Big Beautiful Bill’ passes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-evin-prison-iran_6957141.jpg?20250704160749" alt="Inside Iran&#x27;s notorious Evin Prison - as Tehran says damage shows Israel targeted civilians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inside-irans-notorious-evin-prison-as-tehran-says-damage-shows-israel-targeted-civilians-13392407" target="_blank">Inside Iran&#x27;s notorious Evin Prison - as Tehran says damage shows Israel targeted civilians</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-04 14:45</span>
             </div>
         </div>
 <div class="story">
@@ -73,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5ygjjxjlplo" target="_blank">BBC on French beach as police slash migrant &#x27;taxi-boat&#x27; heading to UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-04 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/4/keep-your-america-mr-trump-and-well-keep-our-africa?traffic_source=rss" target="_blank">Keep your America, Mr Trump, and we’ll keep our Africa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/when-will-trumps-big-beautiful-bill-take-effect-heres-what-comes-next?traffic_source=rss" target="_blank">When will Trump’s ‘Big Beautiful Bill’ take effect? Here’s what comes next</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 12:32</span>
             </div>
         </div>
 </div>
@@ -176,6 +185,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip" target="_blank">Mini NASes marry NVMe to Intel&#x27;s efficient chip</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-04 15:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489426&w=600" alt="Leveraging AI: A Path to Senior Engineering Positions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -202,34 +220,20 @@
                 <span class="time">2025-07-04 13:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj" target="_blank">Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 12:53</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/" target="_blank">Big Tech’s Mixed Response to U.S. Treasury Sanctions</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-03 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b5483d3c11431f1f2c5f259a6d80a296.jpg" alt="Celebrate Indie-Penance Day With 10 More Incredible Indie Games!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/indie-penance-day-indie-games-steam-demo-pc-1851785663" target="_blank">Celebrate Indie-Penance Day With 10 More Incredible Indie Games!</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ugreen-deal.jpg" alt="Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,20 +279,20 @@
                 <span class="time">2025-07-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Helldivers_Header.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Helldivers 2 lands on Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/04/helldivers-2-lands-on-xbox.html" target="_blank">Helldivers 2 lands on Xbox</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-04 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1751566043-20250704.png" alt="Saturday Morning Breakfast Cereal - Elephant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/elephant" target="_blank">Saturday Morning Breakfast Cereal - Elephant</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
