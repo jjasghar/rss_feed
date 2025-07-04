@@ -1,44 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 13:10:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 14:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="&#x27;Selling&#x27; the megabill: Republicans tout taxes, Democrats point to Medicaid cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529" target="_blank">&#x27;Selling&#x27; the megabill: Republicans tout taxes, Democrats point to Medicaid cuts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-04 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8614/live/eb8aefe0-58c8-11f0-b5c5-012c5796682d.jpg" alt="BBC on French beach as police slash migrant &#x27;taxi-boat&#x27; heading to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ygjjxjlplo" target="_blank">BBC on French beach as police slash migrant &#x27;taxi-boat&#x27; heading to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-04 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/4/keep-your-america-mr-trump-and-well-keep-our-africa?traffic_source=rss" target="_blank">Keep your America, Mr Trump, and we’ll keep our Africa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 13:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,38 +106,20 @@
                 <span class="time">2025-07-04 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/pakistans-army-says-it-killed-30-fighters-trying-to-cross-afghan-border?traffic_source=rss" target="_blank">Pakistan’s army says it killed 30 fighters trying to cross Afghan border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3cd/live/03570000-58ba-11f0-9267-3d10d9c5c6de.jpg" alt="Kyiv hit by barrage of drone strikes as Putin rejects Trump&#x27;s truce bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g3qvz0pvo" target="_blank">Kyiv hit by barrage of drone strikes as Putin rejects Trump&#x27;s truce bid</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-04 09:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/us-and-colombia-recall-envoys-as-diplomatic-rift-deepens?traffic_source=rss" target="_blank">US and Colombia recall envoys as diplomatic rift deepens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-04 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +165,20 @@
                 <span class="time">2025-07-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review" target="_blank">The Loop Micro is my new favorite bicycle phone mount</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-04 06:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGaur4vGaur%2Ftraveller%2Frefs%2Fheads%2Fmaster%2Fimages%2Fai%2F2025-05-24-ai_vibe-coding-conversational-software-development-part1%2Fend-to-end-experience-chat-based-builders.png" alt="Vibe Coding - Conversational Software Development - Part 1 Introduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41" target="_blank">Vibe Coding - Conversational Software Development - Part 1 Introduction</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/effective-practices-ai-chat-based-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Effective Practices for Coding with a Chat-Based AI</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjvwk9sunqw54zf0wjjs.png" alt="How to Deploy SafeLine WAF on a CyberPanel VPS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina" target="_blank">How to Deploy SafeLine WAF on a CyberPanel VPS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 07:51</span>
             </div>
         </div>
 </div>
@@ -336,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
