@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 21:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-04 22:01:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 19 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-waves-rt-jt-250704_1751664366021_hpMain_4x3t_384.jpg" alt="Trump signs controversial spending bill during White House 4th of July celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-controversial-spending-bill-white-house-4th/story?id=123482017" target="_blank">Trump signs controversial spending bill during White House 4th of July celebrations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-04 21:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">Federal judge again halts deportation of eight immigrants to South Sudan</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-04 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c0/live/ecc4fae0-58e6-11f0-960d-e9f1088a89fe.jpg" alt="Hamas says it delivered &#x27;positive response&#x27; on Gaza ceasefire plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmrmvp98go" target="_blank">Hamas says it delivered &#x27;positive response&#x27; on Gaza ceasefire plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-04 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/4/india-dominate-england-on-third-day-of-second-test?traffic_source=rss" target="_blank">India dominate England on third day of second Test</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5456844/trump-ufc-fight-white-house" target="_blank">Donald Trump says he wants to stage UFC fight on White House grounds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-04 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/uks-palestine-action-loses-bid-to-pause-ban-as-terrorist-group?traffic_source=rss" target="_blank">UK’s Palestine Action loses bid to pause ban as ‘terrorist’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 17:31</span>
             </div>
         </div>
 </div>
@@ -157,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F1d8942bc-727d-4d1e-bc50-30ff073a34fc.jpeg" alt="Code Smell 306 - AI External Comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mcsee/code-smell-306-ai-external-comments-4556" target="_blank">Code Smell 306 - AI External Comments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 21:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,13 +219,18 @@
                 <span class="time">2025-07-04 18:46</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc5" target="_blank">Bcachefs Fixes Merged For Linux 6.16-rc5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-04 18:07</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html" target="_blank">Friday Squid Blogging: How Squid Skin Distorts Light</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-04 21:01</span>
             </div>
         </div>
 </div>
@@ -215,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/TheMuleinterview.jpg" alt="Pilou Asbæk on Playing the Mule, ‘Foundation’ Season 3’s Terrifying Villain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pilou-asbaek-on-playing-the-mule-foundation-season-3s-terrifying-villain-2000622270" target="_blank">Pilou Asbæk on Playing the Mule, ‘Foundation’ Season 3’s Terrifying Villain</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/This-American-flag-wont-get-you-into-heaven2C-ei.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="John Prine&#x27;s &quot;Flag Decal&quot; is apt for this year&#x27;s Fourth of July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/04/john-prines-flag-decal-is-apt-for-this-years-fourth-of-july.html" target="_blank">John Prine&#x27;s &quot;Flag Decal&quot; is apt for this year&#x27;s Fourth of July</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-04 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-frown-face-GettyImages-2203703329-copy.jpg" alt="Elon Musk Teases “Fireworks” as Trump Signs His “Big, Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/forget-anker-this-ugreen-usb-c-charger-block-is-going-for-peanuts-in-amazons-fourth-of-july-deal-2000623818" target="_blank">Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-04 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e9d153c170a531a54f091595106cc664.jpg" alt="World of Warcraft: What’s Up With the Collector’s Bounty?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/world-of-warcraft-collectors-bounty-july-legacy-content-1851785640" target="_blank">World of Warcraft: What’s Up With the Collector’s Bounty?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/eero-pro-7-review-2.jpg" alt="Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-2000623365" target="_blank">Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 13:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
