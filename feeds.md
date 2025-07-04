@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 00:05:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 01:29:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +103,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/politics/698148/white-house-wire-youtube" target="_blank">The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-03 23:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/" target="_blank">Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +154,29 @@
                 <span class="time">2025-07-03 20:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-surveillance-500x500.jpg" alt="Provider of covert surveillance app spills passwords for 62,000 users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/" target="_blank">Provider of covert surveillance app spills passwords for 62,000 users</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-03 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gentoro/why-traditional-regression-testing-doesnt-work-for-mcp-tools-52id" target="_blank">Why Traditional Regression Testing Doesn’t Work for MCP Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-4-2025-red-hat" target="_blank">Friday Five — July 4, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-04 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-Proposal-End-UEFI-MBR" target="_blank">Fedora Linux Looks To End Support For UEFI On MBR-Paritioned Disks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-03 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489347&w=600" alt="How to Use AI to Understand Gaps in Your Resume and Job Descriptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-use-ai-resumes-job-descriptiption-ats" target="_blank">How to Use AI to Understand Gaps in Your Resume and Job Descriptions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489782&w=600" alt="Self-Supervised Learning Techniques" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/self-supervised-learning-techniques-visual-tracking" target="_blank">Self-Supervised Learning Techniques</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-03 19:00</span>
             </div>
         </div>
 </div>
@@ -311,22 +309,13 @@
                 <span class="time">2025-07-03 15:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5605.png" alt="Hair And Makeup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5605" target="_blank">Hair And Makeup</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-03 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
