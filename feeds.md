@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 14:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 15:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="Trump megabill: Who will benefit in midterms -- Republicans or Democrats?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529" target="_blank">Trump megabill: Who will benefit in midterms -- Republicans or Democrats?</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-04 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="&#x27;Selling&#x27; the megabill: Republicans tout taxes, Democrats point to Medicaid cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +99,20 @@
                 <span class="time">2025-07-04 11:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/04/g-s1-75658/independence-day-freedom-meaning" target="_blank">What freedom means to NPR readers. And, the secret to a perfect July 4 pasta salad</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-04 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6867da203fdfebfbd00ad923/master/pass/CRUISEGM.png" alt="GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/" target="_blank">GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-04 14:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +158,6 @@
                 <span class="time">2025-07-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685ecaa1332997ce2f04fd68/master/pass/Ley%20del%20Espacio%20de%20Europa%201340129228.jpg" alt="The EU Proposes New Rules to Govern the European Space Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/" target="_blank">The EU Proposes New Rules to Govern the European Space Race</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,10 +175,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1025893/" target="_blank">Getting extensions to work with free-threaded Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-04 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj" target="_blank">Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on" target="_blank">Why I left my tech job to work on chronic pain</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-04 12:50</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-WCL-Display-FQ-Linux-6.17" target="_blank">Intel Enables Wildcat Lake Display &amp; Experimental Flip Queue For Linux 6.17 Graphics</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/" target="_blank">Writing a Game Boy Emulator in OCaml</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-04 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/effective-practices-ai-chat-based-coding/en/headerimage/effective-practices-ai-chat-based-coding-header-1751458791140.jpg" alt="Article: Effective Practices for Coding with a Chat-Based AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/effective-practices-ai-chat-based-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Effective Practices for Coding with a Chat-Based AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-04 09:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e9d153c170a531a54f091595106cc664.jpg" alt="World of Warcraft: What’s Up With the Collector’s Bounty?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/world-of-warcraft-collectors-bounty-july-legacy-content-1851785640" target="_blank">World of Warcraft: What’s Up With the Collector’s Bounty?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/eero-pro-7-review-2.jpg" alt="Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,30 +273,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Helldivers_Header.webp?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Helldivers 2 lands on Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/04/helldivers-2-lands-on-xbox.html" target="_blank">Helldivers 2 lands on Xbox</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-04 11:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/wwi-bullet-lighter-01-scaled.jpg?fit=2560%2C1385&amp;quality=60&amp;ssl=1" alt="The art of vintage lighters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/07/04/the-art-of-vintage-lighters.html" target="_blank">The art of vintage lighters</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-04 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/discovery-rollout-7-trucked-overland-to-edwards-oct-1983.jpg" alt="Ted Cruz’s Bid to Reclaim Space Shuttle Discovery Could Cost $400 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ted-cruzs-bid-to-reclaim-space-shuttle-discovery-could-cost-400-million-2000623809" target="_blank">Ted Cruz’s Bid to Reclaim Space Shuttle Discovery Could Cost $400 Million</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Mark-Cuban-at-the-2024-NBA-Playoffs.jpg" alt="Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/billionaire-mark-cuban-says-ai-gives-workers-superpowers-but-crypto-is-not-even-close-to-its-iphone-moment-2000623749" target="_blank">Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 10:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
