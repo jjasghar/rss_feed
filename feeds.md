@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 07:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 08:01:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5456733/north-korea-south-korea-border-crossing" target="_blank">North Korean crosses the heavily fortified border to South Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-04 07:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,20 @@
                 <span class="time">2025-07-03 23:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/house-16-gty-gmh-250703_1751572442559_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review" target="_blank">The Loop Micro is my new favorite bicycle phone mount</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-04 06:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +162,20 @@
                 <span class="time">2025-07-03 20:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb" target="_blank">Congress passes budget to expand mass deportations, cut social services, and stall clean energy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjvwk9sunqw54zf0wjjs.png" alt="How to Deploy SafeLine WAF on a CyberPanel VPS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carrie_luo1/how-to-deploy-safeline-waf-on-a-cyberpanel-vps-ina" target="_blank">How to Deploy SafeLine WAF on a CyberPanel VPS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 07:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,30 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications" target="_blank">Major reversal in ocean circulation detected in the Southern Ocean</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-04 04:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq92be5k7kiqqqth4j3j6.gif" alt="What was your win this week??" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-n84" target="_blank">What was your win this week??</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sugumar_r_a5f301adf1fb49a/day-1-institute-management-5d3g" target="_blank">Day 1 : Institute Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2900392%2F78ad1723-16ab-4e46-b39c-7f3feb416d23.jpg" alt="Best Solution and explanation of Leetcode-3307" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc" target="_blank">Best Solution and explanation of Leetcode-3307</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 02:20</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
