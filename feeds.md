@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 15:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 16:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/elon-musk-revives-third-party-idea-after-one-big-beautiful-bill-passes?traffic_source=rss" target="_blank">Elon Musk revives third party idea after ‘One Big Beautiful Bill’ passes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 15:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="Trump megabill: Who will benefit in midterms -- Republicans or Democrats?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +93,20 @@
                 <span class="time">2025-07-04 12:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751628187202_tdy_news_7a_alba_trump_bill_250704_1920x1080-3uocdj.jpg" alt="Trump Takes Victory Lap After House Passes His Spending Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-s-massive-spending-bill-clears-house-in-narrow-vote-242704453672" target="_blank">Trump Takes Victory Lap After House Passes His Spending Bill</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-04 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21309820/best-wireless-earbuds" target="_blank">The best earbuds we’ve tested for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6867da203fdfebfbd00ad923/master/pass/CRUISEGM.png" alt="GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +152,38 @@
                 <span class="time">2025-07-04 11:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Themis_on_the_way_to_Kiruna-500x500.jpg" alt="Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" target="_blank">Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5uvjisbe92c10k729vn.png" alt="Manga-Fy 90&#x27;s style with Google Ai Studio!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rajiv_sukhnandan_2edd6a79/manga-fy-90s-style-with-google-ai-studio-2b1g" target="_blank">Manga-Fy 90&#x27;s style with Google Ai Studio!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/micropc-2.jpg?resize=406%2C232&amp;ssl=1" alt="GPD MicroPC 2: Souped-Up Successor to Original Pocket PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gpd-micropc-2-specs-price" target="_blank">GPD MicroPC 2: Souped-Up Successor to Original Pocket PC</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-04 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489426&w=600" alt="Leveraging AI: A Path to Senior Engineering Positions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/beyond-the-hype-how-software-engineers-can-use-ai" target="_blank">Leveraging AI: A Path to Senior Engineering Positions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-04 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGaur4vGaur%2Ftraveller%2Frefs%2Fheads%2Fmaster%2Fimages%2Fai%2F2025-05-24-ai_vibe-coding-conversational-software-development-part1%2Fend-to-end-experience-chat-based-builders.png" alt="Vibe Coding - Conversational Software Development - Part 1 Introduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +211,6 @@
                 <span class="time">2025-07-04 12:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on" target="_blank">Why I left my tech job to work on chronic pain</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-04 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/626tech/how-to-build-a-react-component-from-scratch-a-gentle-guide-1pdf" target="_blank">How to Build a React Component from Scratch: A Gentle Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-WCL-Display-FQ-Linux-6.17" target="_blank">Intel Enables Wildcat Lake Display &amp; Experimental Flip Queue For Linux 6.17 Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ugreen-deal.jpg" alt="Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/forget-anker-this-ugreen-usb-c-charger-block-is-going-for-peanuts-in-amazons-fourth-of-july-deal-2000623818" target="_blank">Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e9d153c170a531a54f091595106cc664.jpg" alt="World of Warcraft: What’s Up With the Collector’s Bounty?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +284,6 @@
                 <span class="time">2025-07-04 11:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/wwi-bullet-lighter-01-scaled.jpg?fit=2560%2C1385&amp;quality=60&amp;ssl=1" alt="The art of vintage lighters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/04/the-art-of-vintage-lighters.html" target="_blank">The art of vintage lighters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-04 11:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,6 +299,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/artificial_gravity.png" alt="Artificial Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3111/" target="_blank">Artificial Gravity</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5606.png" alt="A Simple Resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -313,22 +316,13 @@
                 <span class="time">2025-07-04 01:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1750828267-20250703.png" alt="Saturday Morning Breakfast Cereal - Butlerian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/butlerian" target="_blank">Saturday Morning Breakfast Cereal - Butlerian</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-03 15:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
