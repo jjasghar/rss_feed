@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 06:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 07:02:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 0 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +51,15 @@
                 <span class="fa fa-fw fa-shield"></span>
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/04/us-aid-cuts-kill-millions-unaids-head-winnie-byanyima" target="_blank">UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths</a></span>
                 <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-04 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9f/live/5beff890-5840-11f0-960d-e9f1088a89fe.jpg" alt="I understand what Trump cares about, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8ze23vx4po" target="_blank">I understand what Trump cares about, says Starmer</a></span>
+                <span class="feed">BBC News</span>
                 <span class="time">2025-07-04 05:00</span>
             </div>
         </div>
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-03 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/fitzpaterick-massie-gty-gmh-250703_1751569548147_hpMain_4x3t_384.jpg" alt="The 2 House Republicans who voted no on Trump&#x27;s sweeping domestic policy bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/2-house-republicans-voted-trumps-sweeping-domestic-policy/story?id=123459797" target="_blank">The 2 House Republicans who voted no on Trump&#x27;s sweeping domestic policy bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-03 22:29</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwebsite-static.boldsign.com%2F2024%2F02%2F39f4b02d-create-a-document.png" alt="How Signers Can Add Form Fields before eSigning a Document" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/boldsign/how-signers-can-add-form-fields-before-esigning-a-document-3c9g" target="_blank">How Signers Can Add Form Fields before eSigning a Document</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 06:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc" target="_blank">Best Solution and explanation of Leetcode-3307</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gentoro/why-traditional-regression-testing-doesnt-work-for-mcp-tools-52id" target="_blank">Why Traditional Regression Testing Doesn’t Work for MCP Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 01:24</span>
             </div>
         </div>
 </div>
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
