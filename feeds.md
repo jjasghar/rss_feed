@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 12:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 13:10:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/when-will-trumps-big-beautiful-bill-take-effect-heres-what-comes-next?traffic_source=rss" target="_blank">When will Trump’s ‘Big Beautiful Bill’ take effect? Here’s what comes next</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 12:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751628187202_tdy_news_7a_alba_trump_bill_250704_1920x1080-3uocdj.jpg" alt="Trump Takes Victory Lap After House Passes His Spending Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +108,29 @@
                 <span class="time">2025-07-04 08:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5456733/north-korea-south-korea-border-crossing" target="_blank">North Korean crosses the heavily fortified border to South Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-04 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4" target="_blank">The American system of democracy has crashed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/" target="_blank">EU says it will continue rolling out AI legislation on schedule</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-04 12:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -108,6 +138,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-04 11:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Themis_on_the_way_to_Kiruna-500x500.jpg" alt="Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" target="_blank">Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-04 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -128,33 +167,6 @@
                 <span class="time">2025-07-04 06:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/politics/698148/white-house-wire-youtube" target="_blank">The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/" target="_blank">Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/" target="_blank">Slate Auto drops “under $20,000” pricing after Trump administration ends federal EV tax credit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-03 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jholic/open-innovation-2-if-we-share-technology-what-kind-of-future-could-we-build-2ghj" target="_blank">Open Innovation #2 : If We Share Technology, What Kind of Future Could We Build?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/626tech/how-to-build-a-react-component-from-scratch-a-gentle-guide-1pdf" target="_blank">How to Build a React Component from Scratch: A Gentle Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-WCL-Display-FQ-Linux-6.17" target="_blank">Intel Enables Wildcat Lake Display &amp; Experimental Flip Queue For Linux 6.17 Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-04 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +226,6 @@
                 <span class="time">2025-07-04 07:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/04/why-call-one-api-when-you-can-use-graphql-to-call-them-all/" target="_blank">Why call one API when you can use GraphQL to call them all?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-04 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwebsite-static.boldsign.com%2F2024%2F02%2F39f4b02d-create-a-document.png" alt="How Signers Can Add Form Fields before eSigning a Document" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/boldsign/how-signers-can-add-form-fields-before-esigning-a-document-3c9g" target="_blank">How Signers Can Add Form Fields before eSigning a Document</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 06:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/eero-pro-7-review-2.jpg" alt="Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-2000623365" target="_blank">Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5d02e5b188780b744ca7f1aa6058f501.jpg" alt="9 Signs That The MCU Has Lost Its Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555" target="_blank">9 Signs That The MCU Has Lost Its Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/laughing-gas-1.jpg" alt="A 23-Year-Old Man Got Frostbite From Using Whippets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/billionaire-mark-cuban-says-ai-gives-workers-superpowers-but-crypto-is-not-even-close-to-its-iphone-moment-2000623749" target="_blank">Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-04 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="GOP lawmakers hated Big Beautiful Bill — until Trump bullied them with morning call (supercut)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/03/gop-lawmakers-hated-big-beautiful-bill-until-trump-bullied-them-with-morning-call-supercut.html" target="_blank">GOP lawmakers hated Big Beautiful Bill — until Trump bullied them with morning call (supercut)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-03 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/pCloud-Storage-Encryption-Sale.jpg" alt="Exclusive 4th of July Offer: 1TB to 10TB Lifetime Cloud Storage at a Huge Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/exclusive-4th-of-july-offer-1tb-to-10tb-lifetime-cloud-storage-at-a-huge-discount-2000622831" target="_blank">Exclusive 4th of July Offer: 1TB to 10TB Lifetime Cloud Storage at a Huge Discount</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 23:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
