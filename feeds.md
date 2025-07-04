@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 17:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 18:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/uks-palestine-action-loses-bid-to-pause-ban-as-terrorist-group?traffic_source=rss" target="_blank">UK’s Palestine Action loses bid to pause ban as ‘terrorist’ group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +93,20 @@
                 <span class="time">2025-07-04 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8614/live/eb8aefe0-58c8-11f0-b5c5-012c5796682d.jpg" alt="BBC on French beach as police slash migrant &#x27;taxi-boat&#x27; heading to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ygjjxjlplo" target="_blank">BBC on French beach as police slash migrant &#x27;taxi-boat&#x27; heading to UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-04 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/" target="_blank">Microsoft is closing its local operations in Pakistan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-04 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +152,20 @@
                 <span class="time">2025-07-04 12:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-04 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2l80yer56hbt9eilab74.jpg" alt="My Prompt: Student Assistant Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g" target="_blank">My Prompt: Student Assistant Bot</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 17:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5uvjisbe92c10k729vn.png" alt="Manga-Fy 90&#x27;s style with Google Ai Studio!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41" target="_blank">Vibe Coding - Conversational Software Development - Part 1 Introduction</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1025893/" target="_blank">Getting extensions to work with free-threaded Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-04 13:38</span>
             </div>
         </div>
 </div>
@@ -325,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
