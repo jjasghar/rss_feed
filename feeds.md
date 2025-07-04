@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 20:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-04 21:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">Federal judge again halts deportation of eight immigrants to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-04 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/boxer-julio-cesar-chavez-jr-likely-to-soon-be-deported-to-mexico-sheinbaum?traffic_source=rss" target="_blank">Boxer Julio Cesar Chavez Jr likely to soon be deported to Mexico: Sheinbaum</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250704_1751639207473_hpMain_4x3t_384.jpg" alt="Why some economists say the deficit increase in Trump’s bill is dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/uks-palestine-action-loses-bid-to-pause-ban-as-terrorist-group?traffic_source=rss" target="_blank">UK’s Palestine Action loses bid to pause ban as ‘terrorist’ group</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/4/prosecutors-drop-maccabi-tel-aviv-assault-cases-after-footage-deleted?traffic_source=rss" target="_blank">Prosecutors drop Maccabi Tel Aviv assault cases after footage deleted</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/elon-musk-revives-third-party-idea-after-one-big-beautiful-bill-passes?traffic_source=rss" target="_blank">Elon Musk revives third party idea after ‘One Big Beautiful Bill’ passes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 15:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +157,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi" target="_blank">Security news weekly round-up - 4th July 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/awwaiid/gremllm" target="_blank">gremllm: A slight upgrade to the Gremlins in your code</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-04 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18407956&w=600" alt="WebAssembly (Wasm) and AI at the Edge: The New Frontier for Real-Time Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-langchain-is-powering-next-gen-ai-apps-a-devel-2" target="_blank">WebAssembly (Wasm) and AI at the Edge: The New Frontier for Real-Time Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18492098&w=600" alt="Modernizing Apache Spark Applications With GenAI: Migrating From Java to Scala" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -191,33 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc5" target="_blank">Bcachefs Fixes Merged For Linux 6.16-rc5</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-04 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18498726&w=600" alt="Are Traditional Data Warehouses Being Devoured by Agentic AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-ai-agents-are-transforming-data-warehouses" target="_blank">Are Traditional Data Warehouses Being Devoured by Agentic AI?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-04 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/gemma-3n-architecture/en/headerimage/gemma-3n-architecture-1751651154855.jpeg" alt="Gemma 3n Introduces Novel Techniques for Enhanced Mobile AI Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/gemma-3n-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gemma 3n Introduces Novel Techniques for Enhanced Mobile AI Inference</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-04 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2l80yer56hbt9eilab74.jpg" alt="My Prompt: Student Assistant Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zainab_tsx/my-prompt-student-assistant-bot-4b2g" target="_blank">My Prompt: Student Assistant Bot</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 17:47</span>
             </div>
         </div>
 </div>
@@ -285,6 +275,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/04/the-spoils-of-war" target="_blank">The Spoils Of War</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-04 20:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1751566043-20250704.png" alt="Saturday Morning Breakfast Cereal - Elephant" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
