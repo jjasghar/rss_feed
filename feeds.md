@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 01:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 02:32:15 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +57,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/fitzpaterick-massie-gty-gmh-250703_1751569548147_hpMain_4x3t_384.jpg" alt="The 2 House Republicans who voted no on Trump&#x27;s sweeping domestic policy bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/2-house-republicans-voted-trumps-sweeping-domestic-policy/story?id=123459797" target="_blank">The 2 House Republicans who voted no on Trump&#x27;s sweeping domestic policy bill</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-03 22:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3a/live/1a22fc50-584a-11f0-a07d-dd7c432cf458.jpg" alt="Zarah Sultana says she is quitting Labour to start party with Corbyn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -72,7 +87,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan" target="_blank">US supreme court clears way for deportation of migrants to South Sudan</a></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan" target="_blank">US supreme court clears way for deportations of eight men to South Sudan</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-03 21:28</span>
             </div>
@@ -80,19 +95,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/g-s1-75790/no-tax-on-tips-congress-trump-big-beautiful-bill" target="_blank">Congress passed no tax on tips in Trump&#x27;s &#x27;big, beautiful bill.&#x27; Here&#x27;s how it works</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 21:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5454722/uk-mi5-high-court" target="_blank">U.K. High Court slams MI5 over informant deception and lack of transparency</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-03 20:35</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan" target="_blank">US supreme court clears way for deportation of migrants to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-03 21:28</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2900392%2F78ad1723-16ab-4e46-b39c-7f3feb416d23.jpg" alt="Best Solution and explanation of Leetcode-3307" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thedeepseeker/best-solution-and-explanation-of-leetcode-3307-22lc" target="_blank">Best Solution and explanation of Leetcode-3307</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 02:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -180,37 +195,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Perl-5.42-Released" target="_blank">Perl 5.42 Released With New Operators, Unicode 16 Support, Security Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-03 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/GIMP-3.2.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.2: New Painting Mode, Text Outlines + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gimp-3-2-new-overwrite-mode-photoshop-pattern-support" target="_blank">GIMP 3.2: New Painting Mode, Text Outlines + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-03 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_57439f86/middleware-architecture-patterns-cross-cutting-web1751582887257700-1lea" target="_blank">Middleware Architecture Patterns Cross Cutting Web（1751582887257700）</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-03 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/vulnerability-research/cve-2025-53367-an-exploitable-out-of-bounds-write-in-djvulibre/" target="_blank">CVE-2025-53367: An exploitable out-of-bounds write in DjVuLibre</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-03 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deepakgupta/why-technical-cybersecurity-founders-struggle-with-marketing-and-how-ai-is-changing-the-game-1ncc" target="_blank">Why Technical Cybersecurity Founders Struggle with Marketing (and How AI Is Changing the Game)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-03 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Proposal-End-UEFI-MBR" target="_blank">Fedora Linux Looks To End Support For UEFI On MBR-Paritioned Disks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-03 20:06</span>
             </div>
         </div>
 </div>
@@ -314,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
