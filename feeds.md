@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 03:23:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 04:07:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 03:24 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-at-rally_1751596907989_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump takes megabill victory lap during Iowa rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Trump takes megabill victory lap during Iowa rally</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-04 03:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-aid-ghf_6956715.jpg?20250704002558" alt="Gaza aid group reacts to claims American contractors fired at starving Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-aid-group-reacts-to-claims-american-contractors-fired-at-starving-palestinians-13392148" target="_blank">Gaza aid group reacts to claims American contractors fired at starving Palestinians</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-03 22:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3a/live/1a22fc50-584a-11f0-a07d-dd7c432cf458.jpg" alt="Zarah Sultana says she is quitting Labour to start party with Corbyn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyel9kgdvdo" target="_blank">Zarah Sultana says she is quitting Labour to start party with Corbyn</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-03 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/3/football-world-mourns-diogo-jota-following-deadly-car-crash?traffic_source=rss" target="_blank">Football world mourns Diogo Jota following deadly car crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-03 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan" target="_blank">US supreme court clears way for deportations of eight men to South Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-03 21:28</span>
             </div>
         </div>
 </div>
@@ -158,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq92be5k7kiqqqth4j3j6.gif" alt="What was your win this week??" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-n84" target="_blank">What was your win this week??</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Perl-5.42-Released" target="_blank">Perl 5.42 Released With New Operators, Unicode 16 Support, Security Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-03 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/GIMP-3.2.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP Dev Release Adds New Painting Mode &amp; Text Outline Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gimp-3-2-new-overwrite-mode-photoshop-pattern-support" target="_blank">GIMP Dev Release Adds New Painting Mode &amp; Text Outline Settings</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-03 22:59</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 03:24 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
