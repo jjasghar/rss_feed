@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 09:01:52 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-04 10:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/pakistans-army-says-it-killed-30-fighters-trying-to-cross-afghan-border?traffic_source=rss" target="_blank">Pakistan’s army says it killed 30 fighters trying to cross Afghan border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3cd/live/03570000-58ba-11f0-9267-3d10d9c5c6de.jpg" alt="Kyiv hit by barrage of drone strikes as Putin rejects Trump&#x27;s truce bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2g3qvz0pvo" target="_blank">Kyiv hit by barrage of drone strikes as Putin rejects Trump&#x27;s truce bid</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-04 09:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq8ze23vx4po" target="_blank">I understand what Trump cares about, says Starmer</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-04 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-at-rally_1751596907989_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump takes megabill victory lap during Iowa rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/trump-admin-live-updates-senate-begin-big-beautiful/?id=123330663" target="_blank">Trump admin live updates: Trump takes megabill victory lap during Iowa rally</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-04 03:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/03/nx-s1-5456246/immigrants-no-criminal-convictions-growth-ice-detention-population" target="_blank">Immigrants with no criminal convictions represent sharpest growth in ICE detention population</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-04 01:04</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/effective-practices-ai-chat-based-coding/en/headerimage/effective-practices-ai-chat-based-coding-header-1751458791140.jpg" alt="Article: Effective Practices for Coding with a Chat-Based AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/effective-practices-ai-chat-based-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Effective Practices for Coding with a Chat-Based AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frjvwk9sunqw54zf0wjjs.png" alt="How to Deploy SafeLine WAF on a CyberPanel VPS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +217,6 @@
                 <span class="time">2025-07-04 04:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq92be5k7kiqqqth4j3j6.gif" alt="What was your win this week??" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-n84" target="_blank">What was your win this week??</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Mark-Cuban-at-the-2024-NBA-Playoffs.jpg" alt="Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/billionaire-mark-cuban-says-ai-gives-workers-superpowers-but-crypto-is-not-even-close-to-its-iphone-moment-2000623749" target="_blank">Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="GOP lawmakers hated Big Beautiful Bill — until Trump bullied them with morning call (supercut)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +299,6 @@
                 <span class="time">2025-07-03 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/22fab34109b1ea2fe14298ebcf417b53.jpg" alt="12 Years After Launch, GTA V Is Finally Arriving In Two More Countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gta-v-officially-launching-in-saudi-arabia-12-years-aft-1851785628" target="_blank">12 Years After Launch, GTA V Is Finally Arriving In Two More Countries</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-03 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
