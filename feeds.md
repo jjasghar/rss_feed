@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 10:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 11:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/685ecaa1332997ce2f04fd68/master/pass/Ley%20del%20Espacio%20de%20Europa%201340129228.jpg" alt="The EU Proposes New Rules to Govern the European Space Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/" target="_blank">The EU Proposes New Rules to Govern the European Space Race</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -149,20 +158,20 @@
                 <span class="time">2025-07-03 21:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi" target="_blank">Here are the letters that convinced Google and Apple to keep TikTok online</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-03 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/" target="_blank">Writing a Game Boy Emulator in OCaml</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-04 09:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/effective-practices-ai-chat-based-coding/en/headerimage/effective-practices-ai-chat-based-coding-header-1751458791140.jpg" alt="Article: Effective Practices for Coding with a Chat-Based AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="time">2025-07-04 04:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications" target="_blank">Major reversal in ocean circulation detected in the Southern Ocean</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-04 04:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/discovery-rollout-7-trucked-overland-to-edwards-oct-1983.jpg" alt="Ted Cruz’s Bid to Reclaim Space Shuttle Discovery Could Cost $400 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ted-cruzs-bid-to-reclaim-space-shuttle-discovery-could-cost-400-million-2000623809" target="_blank">Ted Cruz’s Bid to Reclaim Space Shuttle Discovery Could Cost $400 Million</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/Mark-Cuban-at-the-2024-NBA-Playoffs.jpg" alt="Billionaire Mark Cuban Says AI Gives Workers ‘Superpowers,’ but Crypto Is ‘Not Even Close’ to Its iPhone Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +299,6 @@
                 <span class="time">2025-07-03 21:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="Owning a Piece of ChatGPT Was Already Messy. Then Elon Musk Made It Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/owning-a-piece-of-chatgpt-was-already-messy-then-elon-musk-made-it-weirder-2000623955" target="_blank">Owning a Piece of ChatGPT Was Already Messy. Then Elon Musk Made It Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
