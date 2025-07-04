@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 11:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-04 12:02:14 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751628187202_tdy_news_7a_alba_trump_bill_250704_1920x1080-3uocdj.jpg" alt="Trump Takes Victory Lap After House Passes His Spending Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-s-massive-spending-bill-clears-house-in-narrow-vote-242704453672" target="_blank">Trump Takes Victory Lap After House Passes His Spending Bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-04 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/04/g-s1-75658/independence-day-freedom-meaning" target="_blank">What freedom means to NPR readers. And, the secret to a perfect July 4 pasta salad</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-04 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +96,20 @@
                 <span class="time">2025-07-04 07:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/04/us-aid-cuts-kill-millions-unaids-head-winnie-byanyima" target="_blank">UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-04 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9f/live/5beff890-5840-11f0-960d-e9f1088a89fe.jpg" alt="I understand what Trump cares about, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8ze23vx4po" target="_blank">I understand what Trump cares about, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-04 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68671d42a81e0ca3e81e8ddc/master/pass/Heat%20Protectors.png" alt="15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-heat-protectants-for-hair/" target="_blank">15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-04 11:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685ecaa1332997ce2f04fd68/master/pass/Ley%20del%20Espacio%20de%20Europa%201340129228.jpg" alt="The EU Proposes New Rules to Govern the European Space Race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2025-07-03 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6866f3a28d6264efbede3761/master/pass/pam-bondi-tiktok-biz-2221351537.jpg" alt="Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/" target="_blank">Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-03 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/626tech/how-to-build-a-react-component-from-scratch-a-gentle-guide-1pdf" target="_blank">How to Build a React Component from Scratch: A Gentle Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="time">2025-07-04 06:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n" target="_blank">Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +228,29 @@
                 <span class="time">2025-07-03 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html" target="_blank">Surveillance Used by a Drug Cartel</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-03 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/laughing-gas-1.jpg" alt="A 23-Year-Old Man Got Frostbite From Using Whippets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-23-year-old-man-got-frostbite-from-using-whippets-2000623899" target="_blank">A 23-Year-Old Man Got Frostbite From Using Whippets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/07/wwi-bullet-lighter-01-scaled.jpg?fit=2560%2C1385&amp;quality=60&amp;ssl=1" alt="The art of vintage lighters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/04/the-art-of-vintage-lighters.html" target="_blank">The art of vintage lighters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-04 11:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/discovery-rollout-7-trucked-overland-to-edwards-oct-1983.jpg" alt="Ted Cruz’s Bid to Reclaim Space Shuttle Discovery Could Cost $400 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +287,20 @@
                 <span class="time">2025-07-03 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Ludvig-Forssell-Death-Stranding-2-On-The-Beach-InterviewWORDPRESS.jpg" alt="‘Death Stranding 2: On the Beach’ Composer Had Free Rein to Make a Headbanging Soundtrack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/death-stranding-2-on-the-beach-composer-had-free-rein-to-make-a-headbanging-soundtrack-2000623819" target="_blank">‘Death Stranding 2: On the Beach’ Composer Had Free Rein to Make a Headbanging Soundtrack</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-03 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fb2843360fe55474530ebe1e63d0856f.jpg" alt="Kotaku’s Weekend Guide: 4 Cool Games We’re Declaring Independence With" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-death-stranding-anthem-hitman-1851785639" target="_blank">Kotaku’s Weekend Guide: 4 Cool Games We’re Declaring Independence With</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-03 21:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/04/the-spoils-of-war" target="_blank">The Spoils Of War</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-04 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5606.png" alt="A Simple Resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
