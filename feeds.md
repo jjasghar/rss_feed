@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 18:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 19:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5456844/trump-ufc-fight-white-house" target="_blank">Donald Trump says he wants to stage UFC fight on White House grounds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-04 18:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529" target="_blank">Trump megabill: Who will benefit in midterms -- Republicans or Democrats?</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-04 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="&#x27;Selling&#x27; the megabill: Republicans tout taxes, Democrats point to Medicaid cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529" target="_blank">&#x27;Selling&#x27; the megabill: Republicans tout taxes, Democrats point to Medicaid cuts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-04 13:51</span>
             </div>
         </div>
 </div>
@@ -158,6 +164,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao" target="_blank">Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding (2025 Insight)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc5" target="_blank">Bcachefs Fixes Merged For Linux 6.16-rc5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-04 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18498726&w=600" alt="Are Traditional Data Warehouses Being Devoured by Agentic AI?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-ai-agents-are-transforming-data-warehouses" target="_blank">Are Traditional Data Warehouses Being Devoured by Agentic AI?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/gemma-3n-architecture/en/headerimage/gemma-3n-architecture-1751651154855.jpeg" alt="Gemma 3n Introduces Novel Techniques for Enhanced Mobile AI Inference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/gemma-3n-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gemma 3n Introduces Novel Techniques for Enhanced Mobile AI Inference</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2l80yer56hbt9eilab74.jpg" alt="My Prompt: Student Assistant Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -175,47 +217,20 @@
                 <span class="time">2025-07-04 15:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/micropc-2.jpg?resize=406%2C232&amp;ssl=1" alt="GPD MicroPC 2: Souped-Up Successor to Original Pocket PC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gpd-micropc-2-specs-price" target="_blank">GPD MicroPC 2: Souped-Up Successor to Original Pocket PC</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-04 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip" target="_blank">Mini NASes marry NVMe to Intel&#x27;s efficient chip</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-04 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18489426&w=600" alt="Leveraging AI: A Path to Senior Engineering Positions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/beyond-the-hype-how-software-engineers-can-use-ai" target="_blank">Leveraging AI: A Path to Senior Engineering Positions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2FGaur4vGaur%2Ftraveller%2Frefs%2Fheads%2Fmaster%2Fimages%2Fai%2F2025-05-24-ai_vibe-coding-conversational-software-development-part1%2Fend-to-end-experience-chat-based-builders.png" alt="Vibe Coding - Conversational Software Development - Part 1 Introduction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gauravgaur/vibe-coding-conversational-software-development-part-1-introduction-2p41" target="_blank">Vibe Coding - Conversational Software Development - Part 1 Introduction</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/jurassic-world-rebirth-rexy-Universal-pictures.jpg" alt="‘Jurassic World’ Characters Ranked, Based on How Much We Wanted Them to Get Eaten" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jurassic-world-characters-ranked-based-on-how-much-we-wanted-them-to-get-eaten-2000623966" target="_blank">‘Jurassic World’ Characters Ranked, Based on How Much We Wanted Them to Get Eaten</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b5483d3c11431f1f2c5f259a6d80a296.jpg" alt="Celebrate Indie-Penance Day With 10 More Incredible Indie Games!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,15 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555" target="_blank">9 Signs That The MCU Has Lost Its Way</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/laughing-gas-1.jpg" alt="A 23-Year-Old Man Got Frostbite From Using Whippets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-23-year-old-man-got-frostbite-from-using-whippets-2000623899" target="_blank">A 23-Year-Old Man Got Frostbite From Using Whippets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 12:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
