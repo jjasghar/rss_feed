@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 19:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 20:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250704_1751639207473_hpMain_4x3t_384.jpg" alt="Why some economists say the deficit increase in Trump’s bill is dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/economists-deficit-increase-trumps-bill-dangerous/story?id=123481401" target="_blank">Why some economists say the deficit increase in Trump’s bill is dangerous</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-04 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/4/india-dominate-england-on-third-day-of-second-test?traffic_source=rss" target="_blank">India dominate England on third day of second Test</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 19:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/elon-musk-revives-third-party-idea-after-one-big-beautiful-bill-passes?traffic_source=rss" target="_blank">Elon Musk revives third party idea after ‘One Big Beautiful Bill’ passes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-evin-prison-iran_6957141.jpg?20250704160749" alt="Inside Iran&#x27;s notorious Evin Prison - as Tehran says damage shows Israel targeted civilians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/inside-irans-notorious-evin-prison-as-tehran-says-damage-shows-israel-targeted-civilians-13392407" target="_blank">Inside Iran&#x27;s notorious Evin Prison - as Tehran says damage shows Israel targeted civilians</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-04 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-8-ap-er-250703_1751578102522_hpMain_4x3t_384.jpg" alt="Trump megabill: Who will benefit in midterms -- Republicans or Democrats?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/selling-megabill-republicans-tout-taxes-democrats-point-medicaid/story?id=123468529" target="_blank">Trump megabill: Who will benefit in midterms -- Republicans or Democrats?</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-04 14:28</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18492098&w=600" alt="Modernizing Apache Spark Applications With GenAI: Migrating From Java to Scala" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-vs-scala-data-engineering-genai" target="_blank">Modernizing Apache Spark Applications With GenAI: Migrating From Java to Scala</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,20 +220,20 @@
                 <span class="time">2025-07-04 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm5uvjisbe92c10k729vn.png" alt="Manga-Fy 90&#x27;s style with Google Ai Studio!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rajiv_sukhnandan_2edd6a79/manga-fy-90s-style-with-google-ai-studio-2b1g" target="_blank">Manga-Fy 90&#x27;s style with Google Ai Studio!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 15:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-frown-face-GettyImages-2203703329-copy.jpg" alt="Elon Musk Teases “Fireworks” as Trump Signs His “Big, Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-trumps-bill-becomes-law-elon-musk-teases-political-fireworks-2000624360" target="_blank">Elon Musk Teases “Fireworks” as Trump Signs His “Big, Beautiful Bill”</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/jurassic-world-rebirth-rexy-Universal-pictures.jpg" alt="‘Jurassic World’ Characters Ranked, Based on How Much We Wanted Them to Get Eaten" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +276,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-2000623365" target="_blank">Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5d02e5b188780b744ca7f1aa6058f501.jpg" alt="9 Signs That The MCU Has Lost Its Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555" target="_blank">9 Signs That The MCU Has Lost Its Way</a></span>
-                <span class="feed">Kotaku</span>
                 <span class="time">2025-07-04 13:00</span>
             </div>
         </div>
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
