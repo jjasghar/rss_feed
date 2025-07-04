@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 04:07:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-04 05:03:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 04, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/04/us-aid-cuts-kill-millions-unaids-head-winnie-byanyima" target="_blank">UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-04 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-at-rally_1751596907989_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump takes megabill victory lap during Iowa rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/Video-55yuu4.jpg" alt="House passes major policy bill in win for Trump’s agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/house-passes-major-policy-bill-in-win-for-trump-s-agenda-242684998001" target="_blank">House passes major policy bill in win for Trump’s agenda</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-03 23:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/house-16-gty-gmh-250703_1751572442559_hpMain_4x3t_384.jpg" alt="Trump admin live updates: House narrowly passes Trump&#x27;s major tax cut, spending bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -78,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/2-house-republicans-voted-trumps-sweeping-domestic-policy/story?id=123459797" target="_blank">The 2 House Republicans who voted no on Trump&#x27;s sweeping domestic policy bill</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-03 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-aid-ghf_6956715.jpg?20250704002558" alt="Gaza aid group reacts to claims American contractors fired at starving Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-aid-group-reacts-to-claims-american-contractors-fired-at-starving-palestinians-13392148" target="_blank">Gaza aid group reacts to claims American contractors fired at starving Palestinians</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-03 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3a/live/1a22fc50-584a-11f0-a07d-dd7c432cf458.jpg" alt="Zarah Sultana says she is quitting Labour to start party with Corbyn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyel9kgdvdo" target="_blank">Zarah Sultana says she is quitting Labour to start party with Corbyn</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-03 21:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/04/why-call-one-api-when-you-can-use-graphql-to-call-them-all/" target="_blank">Why call one API when you can use GraphQL to call them all?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-04 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/somprasongd/distributed-logging-tnthii-1-aih-log-ruuwaaekidcchaak-request-ediiywkan-2p4n" target="_blank">Distributed Logging: ตอนที่ 1 ให้ Log รู้ว่าเกิดจาก Request เดียวกัน</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 04:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq92be5k7kiqqqth4j3j6.gif" alt="What was your win this week??" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/gentoro/why-traditional-regression-testing-doesnt-work-for-mcp-tools-52id" target="_blank">Why Traditional Regression Testing Doesn’t Work for MCP Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-4-2025-red-hat" target="_blank">Friday Five — July 4, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-04 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Perl-5.42-Released" target="_blank">Perl 5.42 Released With New Operators, Unicode 16 Support, Security Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-03 23:55</span>
             </div>
         </div>
 </div>
@@ -326,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
