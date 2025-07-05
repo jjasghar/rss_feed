@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 17:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 18:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/search-team-texas-flood-02-ap-jt-250705_1751733568486_hpMain_4x3t_384.jpg" alt="Texas officials say they were caught off guard by deadly rainstorms, flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/night-texas-officials-caught-off-guard-deadly-rainstorms/story?id=123499929" target="_blank">Texas officials say they were caught off guard by deadly rainstorms, flooding</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-05 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/37613700-59c6-11f0-940a-9b5ba49991cc.jpg" alt="Reform MP loses whip after business Covid loan claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78n1dxl8wwo" target="_blank">Reform MP loses whip after business Covid loan claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 16:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/uk-re-establishing-diplomatic-ties-with-syria-as-lammy-visits-damascus?traffic_source=rss" target="_blank">UK re-establishing diplomatic ties with Syria as Lammy visits Damascus</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-05 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/05/g-s1-76178/photos-deadly-flooding-texas" target="_blank">Photos:  Texas reels from deadly flooding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 14:57</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/5/state-sponsored-islamophobia-in-france-encourages-violence?traffic_source=rss" target="_blank">State-sponsored Islamophobia in France encourages violence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-05 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f23/live/6033aeb0-599e-11f0-a302-cda0d25ee1d5.jpg" alt="Diogo Jota and André Silva&#x27;s funeral held in Portugal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98jdq57dedo" target="_blank">Diogo Jota and André Silva&#x27;s funeral held in Portugal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/izmir-villages-in-turkiye-affected-by-wildfires-now-under-control?traffic_source=rss" target="_blank">Izmir, villages in Turkiye affected by wildfires now under control</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 12:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5449660/opinion-a-royal-seal-of-approval" target="_blank">Opinion: A royal seal of approval</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-05 12:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hana_liu/how-a-venmo-setting-exposed-a-national-security-privacy-risk-a-digital-forensics-view-on-1mna" target="_blank">How a Venmo Setting Exposed a National Security &amp; Privacy Risk — A Digital Forensics View on Privacy by Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3" target="_blank">🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 15:49</span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched" target="_blank">Europe&#x27;s first geostationary sounder satellite is launched</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-05 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://fidget-spinner.github.io/posts/jit-reflections.html" target="_blank">Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-05 14:10</span>
             </div>
         </div>
 </div>
@@ -312,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
