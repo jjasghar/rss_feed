@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 11:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 12:01:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5449660/opinion-a-royal-seal-of-approval" target="_blank">Opinion: A royal seal of approval</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/israeli-drone-attacks-in-southern-lebanon-kill-one-injure-several-people?traffic_source=rss" target="_blank">Israeli drone attacks in southern Lebanon kill one, injure several people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +103,20 @@
                 <span class="time">2025-07-05 09:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/7cb40d00-596c-11f0-960d-e9f1088a89fe.jpg" alt="&#x27;Too many shots in dog collars&#x27;: Booze culture at crisis-hit cathedral revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg34410dx7o" target="_blank">&#x27;Too many shots in dog collars&#x27;: Booze culture at crisis-hit cathedral revealed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 24 dead in &#x27;devastating&#x27; Texas flooding. Several people remain missing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-05 04:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review" target="_blank">Mercedes-Benz electric G-Wagen review: king of the off-road</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6866ab5363e768478a3a2979/master/pass/andriod-fake-towers-sec-2209377981.jpg" alt="Android May Soon Warn You About Fake Cell Towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +162,29 @@
                 <span class="time">2025-07-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6867da203fdfebfbd00ad923/master/pass/CRUISEGM.png" alt="GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/" target="_blank">GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-04 14:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/grafana-tempo-2-8/en/headerimage/grafana-traceql-1751626278305.jpeg" alt="Grafana Tempo 2.8 Released: Major TraceQL Enhancements and Memory Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/grafana-tempo-2-8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Tempo 2.8 Released: Major TraceQL Enhancements and Memory Optimizations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10682%2Fbc1a28a5-111a-4dd5-83ec-0d6fc5ccc93f.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hadil/-3257" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 11:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/ar_87/the-future-of-web-development-in-2025-whats-hot-whats-not-whats-next-486n" target="_blank">🚀 The Future of Web Development in 2025: What&#x27;s Hot, What&#x27;s Not &amp; What&#x27;s Next</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_4731f562/environment-configuration-testing-5g8i" target="_blank">Environment Configuration Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/middleware-architecture-patterns-cross-cutting-web-2584" target="_blank">Middleware Architecture Patterns Cross Cutting Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 05:39</span>
             </div>
         </div>
 </div>
@@ -314,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
