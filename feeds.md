@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 02:30:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 03:21:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +121,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/" target="_blank">Ready-made stem cell therapies for pets could be coming</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-04 23:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/" target="_blank">Microsoft is closing its local operations in Pakistan</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-04 17:42</span>
@@ -146,15 +160,6 @@
                 <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4" target="_blank">The American system of democracy has crashed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-04 13:00</span>
             </div>
         </div>
 </div>
@@ -336,7 +341,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 02:31 UTC
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
