@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 10:01:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-05 11:01:25 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/liverpool-team-join-family-of-diogo-jota-brother-for-funeral-in-portugal?traffic_source=rss" target="_blank">Liverpool team join family of Diogo Jota, brother for funeral in Portugal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c0/live/ecc4fae0-58e6-11f0-960d-e9f1088a89fe.jpg" alt="Hamas says it delivered &#x27;positive response&#x27; on US Gaza ceasefire plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmrmvp98go" target="_blank">Hamas says it delivered &#x27;positive response&#x27; on US Gaza ceasefire plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flooding-5_1751676092679_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Deaths in Texas &#x27;shocking,&#x27; Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Deaths in Texas &#x27;shocking,&#x27; Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-05 09:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +95,20 @@
                 <span class="time">2025-07-05 04:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 24 dead in extreme Texas flooding. Several people remain missing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-05 04:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb2/live/e9c4cab0-591c-11f0-9074-8989d8c97d87.jpg" alt="At least 24 dead and up to 25 children missing in &#x27;terrible&#x27; Texas floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyelx3x5k0o" target="_blank">At least 24 dead and up to 25 children missing in &#x27;terrible&#x27; Texas floods</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/chelsea-beat-palmerias-to-set-up-fluminense-club-world-cup-semi?traffic_source=rss" target="_blank">Chelsea beat Palmerias to set up Fluminense Club World Cup semi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 03:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6866ab5363e768478a3a2979/master/pass/andriod-fake-towers-sec-2209377981.jpg" alt="Android May Soon Warn You About Fake Cell Towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/" target="_blank">Android May Soon Warn You About Fake Cell Towers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-05 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +154,29 @@
                 <span class="time">2025-07-04 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23769840/best-bluetooth-trackers" target="_blank">The best Bluetooth trackers for Apple and Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a07758c4/routing-system-philosophy-evolution-from-static-matching-to-dynamic-resolution-3kjg" target="_blank">Routing System Philosophy Evolution from Static Matching to Dynamic Resolution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc5-x86-Drivers" target="_blank">Intel Wildcat Lake HID Support &amp; Dell + ASUS Additions Ahead Of Linux 6.16-rc5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-05 10:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +213,6 @@
                 <span class="time">2025-07-05 05:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_4731f562/computer-science-student-journey-web-expert-5cm0" target="_blank">Computer Science Student Journey Web Expert</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 04:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/helpothon/-introducing-scanmeee-a-unique-qr-code-generator-for-developers-3dpb" target="_blank"># Introducing ScanMeee: A Unique QR Code Generator for Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 03:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Tour-de-France-Free-Channel-Live-Stream.jpg" alt="How to Watch the 2025 Tour de France Live on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-2025-tour-de-france-live-on-a-free-channel-2000623221" target="_blank">How to Watch the 2025 Tour de France Live on a Free Channel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/TheMuleinterview.jpg" alt="Pilou Asbæk on Playing the Mule, ‘Foundation’ Season 3’s Terrifying Villain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +286,6 @@
                 <span class="time">2025-07-04 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b5483d3c11431f1f2c5f259a6d80a296.jpg" alt="Celebrate Indie-Penance Day With 10 More Incredible Indie Games!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/indie-penance-day-indie-games-steam-demo-pc-1851785663" target="_blank">Celebrate Indie-Penance Day With 10 More Incredible Indie Games!</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
