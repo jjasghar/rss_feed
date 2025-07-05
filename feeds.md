@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 22:01:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/israel-sending-negotiating-team-to-qatar-for-gaza-ceasefire-talks?traffic_source=rss" target="_blank">Israel sending negotiating team to Qatar for Gaza ceasefire talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751749459804_f_mash_texas_update_250705_1920x1080-i86o7m.jpg" alt="Texas expands disaster declaration as flood death toll rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/texas-expands-disaster-declaration-as-flood-death-toll-rises-242744901913" target="_blank">Texas expands disaster declaration as flood death toll rises</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-05 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/search-team-texas-flood-02-ap-jt-250705_1751733568486_hpMain_4x3t_384.jpg" alt="Texas officials say they were caught off guard by deadly storms: &#x27;We didn’t know&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/night-texas-officials-caught-off-guard-deadly-rainstorms/story?id=123499929" target="_blank">Texas officials say they were caught off guard by deadly storms: &#x27;We didn’t know&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-05 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +103,29 @@
                 <span class="time">2025-07-05 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8582/live/37613700-59c6-11f0-940a-9b5ba49991cc.jpg" alt="Reform MP loses whip after business Covid loan claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78n1dxl8wwo" target="_blank">Reform MP loses whip after business Covid loan claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-ashura-iran_6958088.jpg?20250705175551" alt="&#x27;Nobody likes Trump&#x27;: Sky News finds defiance on the streets of Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nobody-likes-trump-sky-news-finds-defiance-on-the-streets-of-tehran-13392867" target="_blank">&#x27;Nobody likes Trump&#x27;: Sky News finds defiance on the streets of Tehran</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-05 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/uk-re-establishing-diplomatic-ties-with-syria-as-lammy-visits-damascus?traffic_source=rss" target="_blank">UK re-establishing diplomatic ties with Syria as Lammy visits Damascus</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 15:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/" target="_blank">Drive Capital’s second act –  how the Columbus venture firm found success after a split</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-05 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red" target="_blank">Cyberpunk: Edgerunners 2 will be even sadder and bloodier</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-05 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +162,20 @@
                 <span class="time">2025-07-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/20250626_163545-500x500.jpg" alt="The curious rise of giant tablets on wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/" target="_blank">The curious rise of giant tablets on wheels</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6866ab5363e768478a3a2979/master/pass/andriod-fake-towers-sec-2209377981.jpg" alt="Android May Soon Warn You About Fake Cell Towers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/" target="_blank">Android May Soon Warn You About Fake Cell Towers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-05 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jeff_pegg_97454b18784a524/the-ai-revolution-in-2025-top-trends-every-developer-should-know-5e4l" target="_blank">The AI Revolution in 2025: Top Trends Every Developer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,34 +221,20 @@
                 <span class="time">2025-07-05 15:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.inkandswitch.com/essay/local-first/" target="_blank">Local-first software: You own your data, in spite of the cloud</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-05 14:45</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html" target="_blank">Friday Squid Blogging: How Squid Skin Distorts Light</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-04 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-march-24-2025-GettyImages-2206231809-copy.jpg" alt="Elon Musk’s New Political Party Sparks MAGA Backlash Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-new-political-party-sparks-maga-backlash-online-2000624462" target="_blank">Elon Musk’s New Political Party Sparks MAGA Backlash Online</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 21:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/08/harmadillo.jpg?fit=600%2C399&amp;quality=60&amp;ssl=1" alt="Watch this adorable armadillo splashing in a baby pool!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +280,6 @@
                 <span class="time">2025-07-05 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a8d7e90faaa11ff1c47cf63feebada82.jpg" alt="Kotaku’s Opinions For The Week July 05, 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kotaku-s-opinions-for-the-week-july-05-2025-1851785672" target="_blank">Kotaku’s Opinions For The Week July 05, 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
