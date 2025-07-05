@@ -1,43 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 15:01:23 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-05 16:01:40 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/uk-re-establishing-diplomatic-ties-with-syria-as-lammy-visits-damascus?traffic_source=rss" target="_blank">UK re-establishing diplomatic ties with Syria as Lammy visits Damascus</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 15:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +105,20 @@
                 <span class="time">2025-07-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/israeli-drone-attacks-in-southern-lebanon-kill-one-injure-several-people?traffic_source=rss" target="_blank">Israeli drone attacks in southern Lebanon kill one, injure several people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025-1/" target="_blank">The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-05 15:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +164,38 @@
                 <span class="time">2025-07-05 01:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/" target="_blank">Ready-made stem cell therapies for pets could be coming</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-04 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3" target="_blank">🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.inkandswitch.com/essay/local-first/" target="_blank">Local-first software: You own your data, in spite of the cloud</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-05 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/atlassian-jira-postgresql-aurora/en/headerimage/generatedHeaderImage-1751645288090.jpg" alt="Atlassian&#x27;s 4 Million PostgreSQL Database Migration: When Standard Cloud Strategies Fail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/atlassian-jira-postgresql-aurora/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Atlassian&#x27;s 4 Million PostgreSQL Database Migration: When Standard Cloud Strategies Fail</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-05 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,33 +223,6 @@
                 <span class="time">2025-07-05 13:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Toolchains" target="_blank">Fedora 43 GNU &amp; LLVM 21 Toolchain Updates Planned</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-05 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/faidterence/unlock-your-apps-potential-master-ab-testing-in-flutter-with-firebase-remote-config-2ci6" target="_blank">🔓 Unlock Your App&#x27;s Potential: Master A/B Testing in Flutter with Firebase Remote Config!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/grafana-tempo-2-8/en/headerimage/grafana-traceql-1751626278305.jpeg" alt="Grafana Tempo 2.8 Released: Major TraceQL Enhancements and Memory Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/grafana-tempo-2-8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana Tempo 2.8 Released: Major TraceQL Enhancements and Memory Optimizations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2019/05/f9tsubvpdl2zhjjri9w9.jpg" alt="Joe Rogan’s Latest Episode Will Make You Question Everything About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/joe-rogans-latest-episode-will-make-you-question-everything-about-ai-2000624443" target="_blank">Joe Rogan’s Latest Episode Will Make You Question Everything About AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2021/12/358332e424e140b1a7cba10430bdbe44.jpg" alt="Latest Sales Data Reveal Clear Winners And Losers in a Messy EV Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +296,6 @@
                 <span class="time">2025-07-04 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Beats-Pill-x-Kim-Kardashian-Collab-Wireless-Bluetooth-Speaker.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Keepin&#x27; up with the Kardashians? Grab this Beats Pill, now under $100!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/04/keepin-up-with-the-kardashians-grab-this-beats-pill-now-under-100.html" target="_blank">Keepin&#x27; up with the Kardashians? Grab this Beats Pill, now under $100!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-04 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +310,13 @@
                 <span class="time">2025-07-04 20:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1751566043-20250704.png" alt="Saturday Morning Breakfast Cereal - Elephant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/elephant" target="_blank">Saturday Morning Breakfast Cereal - Elephant</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
