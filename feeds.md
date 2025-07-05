@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-04 23:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-05 00:04:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 04, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/texas-flash-floods-kill-at-least-13-people-23-girl-campers-missing?traffic_source=rss" target="_blank">Texas flash floods kill at least 13 people, 23 girl campers missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-waves-rt-jt-250704_1751664366021_hpMain_4x3t_384.jpg" alt="Trump signs controversial spending bill during White House 4th of July celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/economists-deficit-increase-trumps-bill-dangerous/story?id=123481401" target="_blank">Why some economists say the deficit increase in Trump’s bill is dangerous</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-04 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/4/india-dominate-england-on-third-day-of-second-test?traffic_source=rss" target="_blank">India dominate England on third day of second Test</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 19:15</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v2qvee9o64gwev1i6mk.png" alt="Complete Guide: Using AlpacaTradingAgent Web UI for Automated Trading" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aarontrng/complete-guide-using-alpacatradingagent-web-ui-for-automated-trading-3k78" target="_blank">Complete Guide: Using AlpacaTradingAgent Web UI for Automated Trading</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-04 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/" target="_blank">Nvidia Is Full of Shit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-04 21:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F1d8942bc-727d-4d1e-bc50-30ff073a34fc.jpeg" alt="Code Smell 306 - AI External Comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/how-langchain-is-powering-next-gen-ai-apps-a-devel-2" target="_blank">WebAssembly (Wasm) and AI at the Edge: The New Frontier for Real-Time Applications</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-04 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18492098&w=600" alt="Modernizing Apache Spark Applications With GenAI: Migrating From Java to Scala" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-vs-scala-data-engineering-genai" target="_blank">Modernizing Apache Spark Applications With GenAI: Migrating From Java to Scala</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arkhan/why-prompt-libraries-are-quietly-becoming-the-frameworks-of-ai-coding-2025-insight-23ao" target="_blank">Why Prompt Libraries Are Quietly Becoming the Frameworks of AI Coding (2025 Insight)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 18:46</span>
             </div>
         </div>
 </div>
@@ -347,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
