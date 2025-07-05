@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 12:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-05 13:07:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/izmir-villages-in-turkiye-affected-by-wildfires-now-under-control?traffic_source=rss" target="_blank">Izmir, villages in Turkiye affected by wildfires now under control</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 12:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +104,6 @@
                 <span class="time">2025-07-05 09:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/5/us-israel-talks-aim-to-impose-outcome-later?traffic_source=rss" target="_blank">US-Israel talks aim “to impose outcome later”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +116,15 @@
                 <span class="title"><a href="https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review" target="_blank">Mercedes-Benz electric G-Wagen review: king of the off-road</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/20250626_163545-500x500.jpg" alt="The curious rise of giant tablets on wheels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/" target="_blank">The curious rise of giant tablets on wheels</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-05 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +163,29 @@
                 <span class="time">2025-07-04 17:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21309820/best-wireless-earbuds" target="_blank">The best earbuds we’ve tested for 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Toolchains" target="_blank">Fedora 43 GNU &amp; LLVM 21 Toolchain Updates Planned</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-05 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/faidterence/unlock-your-apps-potential-master-ab-testing-in-flutter-with-firebase-remote-config-2ci6" target="_blank">🔓 Unlock Your App&#x27;s Potential: Master A/B Testing in Flutter with Firebase Remote Config!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 12:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/grafana-tempo-2-8/en/headerimage/grafana-traceql-1751626278305.jpeg" alt="Grafana Tempo 2.8 Released: Major TraceQL Enhancements and Memory Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +222,6 @@
                 <span class="time">2025-07-05 10:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://initcoder.com/posts/37-year-old-learning-cs/" target="_blank">A 37-year-old wanting to learn computer science</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-05 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ar_87/the-future-of-web-development-in-2025-whats-hot-whats-not-whats-next-486n" target="_blank">🚀 The Future of Web Development in 2025: What&#x27;s Hot, What&#x27;s Not &amp; What&#x27;s Next</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a8d7e90faaa11ff1c47cf63feebada82.jpg" alt="Kotaku’s Opinions For The Week July 05, 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-s-opinions-for-the-week-july-05-2025-1851785672" target="_blank">Kotaku’s Opinions For The Week July 05, 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Tour-de-France-Free-Channel-Live-Stream.jpg" alt="How to Watch the 2025 Tour de France Live on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2025-07-04 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/jurassic-world-rebirth-rexy-Universal-pictures.jpg" alt="‘Jurassic World’ Characters Ranked, Based on How Much We Wanted Them to Get Eaten" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jurassic-world-characters-ranked-based-on-how-much-we-wanted-them-to-get-eaten-2000623966" target="_blank">‘Jurassic World’ Characters Ranked, Based on How Much We Wanted Them to Get Eaten</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
