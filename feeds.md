@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 14:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 15:01:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5405452/chinese-typewriter-mingkwai-stanford" target="_blank">How this long-lost Chinese typewriter from the 1940s changed modern computing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/5/state-sponsored-islamophobia-in-france-encourages-violence?traffic_source=rss" target="_blank">State-sponsored Islamophobia in France encourages violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f23/live/6033aeb0-599e-11f0-a302-cda0d25ee1d5.jpg" alt="Diogo Jota and André Silva&#x27;s funeral held in Portugal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98jdq57dedo" target="_blank">Diogo Jota and André Silva&#x27;s funeral held in Portugal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +107,20 @@
                 <span class="time">2025-07-05 10:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/liverpool-team-join-family-of-diogo-jota-brother-for-funeral-in-portugal?traffic_source=rss" target="_blank">Liverpool team join family of Diogo Jota, brother for funeral in Portugal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c0/live/ecc4fae0-58e6-11f0-960d-e9f1088a89fe.jpg" alt="Hamas says it delivered &#x27;positive response&#x27; on US Gaza ceasefire plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmrmvp98go" target="_blank">Hamas says it delivered &#x27;positive response&#x27; on US Gaza ceasefire plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flooding-5_1751676092679_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Deaths in Texas &#x27;shocking,&#x27; Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Deaths in Texas &#x27;shocking,&#x27; Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-05 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra" target="_blank">Samsung is about to find out if Ultra is enough</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +166,29 @@
                 <span class="time">2025-07-04 23:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/" target="_blank">Microsoft is closing its local operations in Pakistan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-04 17:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched" target="_blank">Europe&#x27;s first geostationary sounder satellite is launched</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-05 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fidget-spinner.github.io/posts/jit-reflections.html" target="_blank">Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-05 14:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +225,6 @@
                 <span class="time">2025-07-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10682%2Fbc1a28a5-111a-4dd5-83ec-0d6fc5ccc93f.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hadil/-3257" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/routing-system-philosophy-evolution-from-static-matching-to-dynamic-resolution-3kjg" target="_blank">Routing System Philosophy Evolution from Static Matching to Dynamic Resolution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/12/358332e424e140b1a7cba10430bdbe44.jpg" alt="Latest Sales Data Reveal Clear Winners And Losers in a Messy EV Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/latest-sales-data-reveal-clear-winners-and-losers-in-a-messy-ev-market-2000624437" target="_blank">Latest Sales Data Reveal Clear Winners And Losers in a Messy EV Market</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 14:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Joe-Rogan.jpg" alt="Joe Rogan Feels Trump Betrayed Him on Immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +298,6 @@
                 <span class="time">2025-07-04 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/This-American-flag-wont-get-you-into-heaven2C-ei.jpg?fit=1080%2C1439&amp;quality=60&amp;ssl=1" alt="John Prine&#x27;s &quot;Flag Decal&quot; is apt for this year&#x27;s Fourth of July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/04/john-prines-flag-decal-is-apt-for-this-years-fourth-of-july.html" target="_blank">John Prine&#x27;s &quot;Flag Decal&quot; is apt for this year&#x27;s Fourth of July</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-04 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
