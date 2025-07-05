@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 04:04:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 05:01:27 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 04:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 24 dead in extreme Texas flooding. Several people remain missing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 04:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb2/live/e9c4cab0-591c-11f0-9074-8989d8c97d87.jpg" alt="At least 24 dead and up to 25 children missing in &#x27;terrible&#x27; Texas floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyelx3x5k0o" target="_blank">At least 24 dead and up to 25 children missing in &#x27;terrible&#x27; Texas floods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 04:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/chelsea-beat-palmerias-to-set-up-fluminense-club-world-cup-semi?traffic_source=rss" target="_blank">Chelsea beat Palmerias to set up Fluminense Club World Cup semi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 03:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/texas-flooding-5_1751676092679_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Death toll rises to 24 in &#x27;extraordinary catastrophe&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,33 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/migrants-in-us-detention-lose-appeal-against-deportation-to-south-sudan?traffic_source=rss" target="_blank">Migrants in US detention lose appeal against deportation to South Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/texas-flash-floods-kill-at-least-13-people-23-girl-campers-missing?traffic_source=rss" target="_blank">Texas flash floods kill at least 13 people, 23 girl campers missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751670531119_nn_rch_deadly_flooding_devastates_Texas_250704_1920x1080-dowggb.jpg" alt="Deadly flooding catastrophe devastates Texas towns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/deadly-flooding-catastrophe-devastates-texas-towns-242728005922" target="_blank">Deadly flooding catastrophe devastates Texas towns</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-04 23:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9797/live/1959eca0-591e-11f0-b1c2-7f1e12fe135b.jpg" alt="Palestine Action banned after judge denies temporary block" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93901n9z0qo" target="_blank">Palestine Action banned after judge denies temporary block</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-04 23:07</span>
             </div>
         </div>
 </div>
@@ -174,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_4731f562/computer-science-student-journey-web-expert-5cm0" target="_blank">Computer Science Student Journey Web Expert</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 04:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/helpothon/-introducing-scanmeee-a-unique-qr-code-generator-for-developers-3dpb" target="_blank"># Introducing ScanMeee: A Unique QR Code Generator for Developers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 03:48</span>
@@ -186,6 +193,15 @@
                 <span class="title"><a href="https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc" target="_blank">Power Apps - Canvas - Code Reusability How to Do It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature" target="_blank">OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-05 00:24</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/aarontrng/complete-guide-using-alpacatradingagent-web-ui-for-automated-trading-3k78" target="_blank">Complete Guide: Using AlpacaTradingAgent Web UI for Automated Trading</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/" target="_blank">Nvidia Is Full of Shit</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-04 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F1d8942bc-727d-4d1e-bc50-30ff073a34fc.jpeg" alt="Code Smell 306 - AI External Comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mcsee/code-smell-306-ai-external-comments-4556" target="_blank">Code Smell 306 - AI External Comments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 21:54</span>
             </div>
         </div>
 </div>
@@ -249,6 +247,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/pilou-asbaek-on-playing-the-mule-foundation-season-3s-terrifying-villain-2000622270" target="_blank">Pilou Asbæk on Playing the Mule, ‘Foundation’ Season 3’s Terrifying Villain</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Beats-Pill-x-Kim-Kardashian-Collab-Wireless-Bluetooth-Speaker.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Keepin&#x27; up with the Kardashians? Grab this Beats Pill, now under $100!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/04/keepin-up-with-the-kardashians-grab-this-beats-pill-now-under-100.html" target="_blank">Keepin&#x27; up with the Kardashians? Grab this Beats Pill, now under $100!</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-04 21:00</span>
             </div>
         </div>
@@ -288,15 +295,6 @@
                 <span class="time">2025-07-04 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/ugreen-deal.jpg" alt="Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/forget-anker-this-ugreen-usb-c-charger-block-is-going-for-peanuts-in-amazons-fourth-of-july-deal-2000623818" target="_blank">Forget Anker, This UGREEN USB-C Charger Block Is Going for Peanuts in Amazon’s Fourth of July Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-04 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
