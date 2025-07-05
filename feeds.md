@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 03:21:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-05 04:04:14 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 03:21 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 04:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flooding-5_1751676092679_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Death toll rises to 24 in &#x27;extraordinary catastrophe&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Death toll rises to 24 in &#x27;extraordinary catastrophe&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-05 03:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +89,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751670531119_nn_rch_deadly_flooding_devastates_Texas_250704_1920x1080-dowggb.jpg" alt="Deadly flooding catastrophe devastates Texas towns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/deadly-flooding-catastrophe-devastates-texas-towns-242728005922" target="_blank">Deadly flooding catastrophe devastates Texas towns</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-04 23:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9797/live/1959eca0-591e-11f0-b1c2-7f1e12fe135b.jpg" alt="Palestine Action banned after judge denies temporary block" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c93901n9z0qo" target="_blank">Palestine Action banned after judge denies temporary block</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-04 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-waves-rt-jt-250704_1751664366021_hpMain_4x3t_384.jpg" alt="Trump signs controversial spending bill during White House 4th of July celebrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-controversial-spending-bill-white-house-4th/story?id=123482017" target="_blank">Trump signs controversial spending bill during White House 4th of July celebrations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-04 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5454689/adult-education-programs-in-limbo-as-trump-administration-withholds-grant-funds" target="_blank">Adult education programs in limbo as Trump administration withholds grant funds</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-04 21:04</span>
             </div>
         </div>
 </div>
@@ -168,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/helpothon/-introducing-scanmeee-a-unique-qr-code-generator-for-developers-3dpb" target="_blank"># Introducing ScanMeee: A Unique QR Code Generator for Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 03:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl900jjdzsfr08inctyv.png" alt="Power Apps - Canvas - Code Reusability How to Do It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/mcsee/code-smell-306-ai-external-comments-4556" target="_blank">Code Smell 306 - AI External Comments</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi" target="_blank">Security news weekly round-up - 4th July 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-04 20:43</span>
             </div>
         </div>
 </div>
@@ -326,22 +329,13 @@
                 <span class="time">2025-07-04 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/artificial_gravity.png" alt="Artificial Gravity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3111/" target="_blank">Artificial Gravity</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-04 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 03:21 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 04:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
