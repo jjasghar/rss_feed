@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 07:01:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-05 08:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/7cb40d00-596c-11f0-960d-e9f1088a89fe.jpg" alt="&#x27;Too many shots in dog collars&#x27;: Booze culture at crisis-hit cathedral revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg34410dx7o" target="_blank">&#x27;Too many shots in dog collars&#x27;: Booze culture at crisis-hit cathedral revealed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 06:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 24 dead in &#x27;devastating&#x27; Texas flooding. Several people remain missing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 04:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Death toll rises to 24 in &#x27;extraordinary catastrophe&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-05 03:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">US judge clears path for eight immigrants to be deported to South Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-05 01:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/migrants-in-us-detention-lose-appeal-against-deportation-to-south-sudan?traffic_source=rss" target="_blank">Migrants in US detention lose appeal against deportation to South Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 23:48</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ar_87/the-future-of-web-development-in-2025-whats-hot-whats-not-whats-next-486n" target="_blank">🚀 The Future of Web Development in 2025: What&#x27;s Hot, What&#x27;s Not &amp; What&#x27;s Next</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 07:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_4731f562/environment-configuration-testing-5g8i" target="_blank">Environment Configuration Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 06:49</span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc" target="_blank">Power Apps - Canvas - Code Reusability How to Do It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature" target="_blank">OBBB signed: Reinstates immediate expensing for U.S.-based R&amp;D</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-05 00:24</span>
             </div>
         </div>
 </div>
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
