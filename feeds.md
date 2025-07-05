@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 00:04:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 01:29:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +55,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/migrants-in-us-detention-lose-appeal-against-deportation-to-south-sudan?traffic_source=rss" target="_blank">Migrants in US detention lose appeal against deportation to South Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-04 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/texas-flash-floods-kill-at-least-13-people-23-girl-campers-missing?traffic_source=rss" target="_blank">Texas flash floods kill at least 13 people, 23 girl campers missing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-04 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9797/live/1959eca0-591e-11f0-b1c2-7f1e12fe135b.jpg" alt="Palestine Action banned after judge denies temporary block" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93901n9z0qo" target="_blank">Palestine Action banned after judge denies temporary block</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-04 23:07</span>
             </div>
         </div>
 <div class="story">
@@ -70,37 +90,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">Federal judge again halts deportation of eight immigrants to South Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-04 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c0/live/ecc4fae0-58e6-11f0-960d-e9f1088a89fe.jpg" alt="Hamas says it delivered &#x27;positive response&#x27; on Gaza ceasefire plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cnvmrmvp98go" target="_blank">Hamas says it delivered &#x27;positive response&#x27; on Gaza ceasefire plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-04 20:21</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/04/nx-s1-5454689/adult-education-programs-in-limbo-as-trump-administration-withholds-grant-funds" target="_blank">Adult education programs in limbo as Trump administration withholds grant funds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-04 21:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/4/boxer-julio-cesar-chavez-jr-likely-to-soon-be-deported-to-mexico-sheinbaum?traffic_source=rss" target="_blank">Boxer Julio Cesar Chavez Jr likely to soon be deported to Mexico: Sheinbaum</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-04 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250704_1751639207473_hpMain_4x3t_384.jpg" alt="Why some economists say the deficit increase in Trump’s bill is dangerous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/economists-deficit-increase-trumps-bill-dangerous/story?id=123481401" target="_blank">Why some economists say the deficit increase in Trump’s bill is dangerous</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-04 19:26</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">Federal judge again halts deportation of eight immigrants to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-04 20:27</span>
             </div>
         </div>
 </div>
@@ -335,22 +337,13 @@
                 <span class="time">2025-07-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5606.png" alt="A Simple Resolution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5606" target="_blank">A Simple Resolution</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-04 01:02</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
