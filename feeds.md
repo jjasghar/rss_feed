@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 22:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 23:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/mbappe-nets-in-thrilling-real-madrid-win-against-dortmund-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe nets in thrilling Real Madrid win against Dortmund at Club World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-05 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/nine-man-psg-into-club-world-cup-semis-with-wild-2-0-win-over-bayern-munich?traffic_source=rss" target="_blank">Nine-man PSG into Club World Cup semis with wild 2-0 win over Bayern Munich</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-05 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/search-team-texas-flood-02-ap-jt-250705_1751733568486_hpMain_4x3t_384.jpg" alt="Texas officials say they were caught off guard by deadly rainstorms, flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/night-texas-officials-caught-off-guard-deadly-rainstorms/story?id=123499929" target="_blank">Texas officials say they were caught off guard by deadly rainstorms, flooding</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-05 17:47</span>
             </div>
         </div>
 </div>
@@ -168,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4uzfgazkenjq5olhfpan.png" alt="PolicyPilotPro was built entirely using Bolt.new in less than 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc" target="_blank">PolicyPilotPro was built entirely using Bolt.new in less than 48 hours</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 22:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3" target="_blank">🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DXVK-2.7-Released" target="_blank">DXVK 2.7 Released With Many Improvements &amp; Better Support On Newer Intel GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-05 15:45</span>
             </div>
         </div>
 </div>
@@ -299,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
