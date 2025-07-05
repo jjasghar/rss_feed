@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 01:29:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 02:30:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">US judge clears path for eight immigrants to be deported to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-05 01:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +98,20 @@
                 <span class="time">2025-07-04 21:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted" target="_blank">Federal judge again halts deportation of eight immigrants to South Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-04 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-05 01:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +157,29 @@
                 <span class="time">2025-07-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/" target="_blank">EU says it will continue rolling out AI legislation on schedule</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-04 12:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwl900jjdzsfr08inctyv.png" alt="Power Apps - Canvas - Code Reusability How to Do It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_follone/power-apps-canvas-code-reusability-how-to-do-it-3jhc" target="_blank">Power Apps - Canvas - Code Reusability How to Do It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Coreboot-25.06-Released" target="_blank">Coreboot 25.06 Released With Xeon Emerald Rapids Support, Better Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-05 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7v2qvee9o64gwev1i6mk.png" alt="Complete Guide: Using AlpacaTradingAgent Web UI for Automated Trading" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-4th-july-2025-gfi" target="_blank">Security news weekly round-up - 4th July 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-04 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/awwaiid/gremllm" target="_blank">gremllm: A slight upgrade to the Gremlins in your code</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-04 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18407956&w=600" alt="WebAssembly (Wasm) and AI at the Edge: The New Frontier for Real-Time Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-langchain-is-powering-next-gen-ai-apps-a-devel-2" target="_blank">WebAssembly (Wasm) and AI at the Edge: The New Frontier for Real-Time Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-04 20:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
