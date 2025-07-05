@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 18:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-05 19:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 05, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-ashura-iran_6958088.jpg?20250705175551" alt="&#x27;Nobody likes Trump&#x27;: Sky News finds defiance on the streets of Tehran" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nobody-likes-trump-sky-news-finds-defiance-on-the-streets-of-tehran-13392867" target="_blank">&#x27;Nobody likes Trump&#x27;: Sky News finds defiance on the streets of Tehran</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-05 16:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5405452/chinese-typewriter-mingkwai-stanford" target="_blank">How this long-lost Chinese typewriter from the 1940s changed modern computing</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-05 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/5/state-sponsored-islamophobia-in-france-encourages-violence?traffic_source=rss" target="_blank">State-sponsored Islamophobia in France encourages violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 14:20</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tcwcgz23u4ulrfznzcf.png" alt="Pencil Portrait App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mdgreen18/pencil-portrait-app-4i1l" target="_blank">Pencil Portrait App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-05 18:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/atlassian-jira-postgresql-aurora/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Atlassian&#x27;s 4 Million PostgreSQL Database Migration: When Standard Cloud Strategies Fail</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-05 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched" target="_blank">Europe&#x27;s first geostationary sounder satellite is launched</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-05 14:21</span>
             </div>
         </div>
 </div>
@@ -310,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
