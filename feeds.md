@@ -1,29 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 14:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-06 15:01:30 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,11 +47,29 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250706-texas-flood-01-aa-375265.jpg" alt="Desperate search underway for the missing after Texas floods leave at least 53 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/texas-floods-live-updates-rcna217104" target="_blank">Desperate search underway for the missing after Texas floods leave at least 53 dead</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-06 13:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/06/g-s1-75874/gaza-food-hunger-ghf" target="_blank">Knives, bullets and thieves: the quest for food in Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/dalai-lama-celebrates-90th-birthday-with-followers-in-north-indian-town?traffic_source=rss" target="_blank">Dalai Lama celebrates 90th birthday with followers in north Indian town</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 13:40</span>
             </div>
         </div>
@@ -75,29 +100,38 @@
                 <span class="time">2025-07-06 12:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/06/nx-s1-5454890/vaccine-ingredient-thimerosal-cdc-acip" target="_blank">4 things to know about the vaccine ingredient thimerosal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a52/live/d137a740-5a59-11f0-960d-e9f1088a89fe.jpg" alt="Welfare U-turn makes spending decisions harder, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8z34x914jo" target="_blank">Welfare U-turn makes spending decisions harder, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-06 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/" target="_blank">How Brex is keeping up with AI by embracing the ‘messiness’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68682e54a8d4cb3b4f41a5a9/master/pass/The%20Best%20Indoor%20TV%20Antennas.png" alt="Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-tv-antennas/" target="_blank">Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-06 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/695286/the-verge-2025-summer-in-out-list" target="_blank">The Verge’s summer ‘in’ and ‘out’ list</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1054583202-500x500.jpg" alt="Figuring out why a nap might help people see things in new ways" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +159,20 @@
                 <span class="time">2025-07-06 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6869798496efdc8698cddbf1/master/pass/2222953080" alt="Meteorologists Say the National Weather Service Did Its Job in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/" target="_blank">Meteorologists Say the National Weather Service Did Its Job in Texas</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-05 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/" target="_blank">Drive Capital’s second act –  how the Columbus venture firm found success after a split</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-05 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red" target="_blank">Cyberpunk: Edgerunners 2 will be even sadder and bloodier</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-05 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87k1ksaif7a1axaab7r4.png" alt="12 Products in 12 Months - Starting today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jameshubert_com/12-products-in-12-months-starting-today-4b8j" target="_blank">12 Products in 12 Months - Starting today</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,20 +218,29 @@
                 <span class="time">2025-07-06 07:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g" target="_blank">I started tracking my dev journey daily — turns out, it changed everything.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/kamen_rider_zeztz.jpg" alt="The New ‘Kamen Rider’ Will Stream In the US, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-kamen-rider-will-stream-in-the-us-too-2000624474" target="_blank">The New ‘Kamen Rider’ Will Stream In the US, Too</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ8P2K96H6ZZMF4Z0Y20S4PG/hero-image.png" alt="The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-255-sale?utm_medium=RSS" target="_blank">The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-06 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-white-house-feb-11-2025-GettyImages-2198395928-copy.jpg" alt="Elon Musk Is Selling His Political Party Like a Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,24 +277,6 @@
                 <span class="time">2025-07-05 23:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/Elon-Musk-at-Mar-a-Lago-.jpg" alt="Elon Musk Leaves Trump and MAGA with a Bang And a Smile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-leaves-trump-and-maga-with-a-bang-and-a-smile-2000624469" target="_blank">Elon Musk Leaves Trump and MAGA with a Bang And a Smile</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-05 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/herb.jpeg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Going back in time with Herb Alpert &amp; The Tijuana Brass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/05/going-back-in-time-with-herb-alpert-the-tijuana-brass.html" target="_blank">Going back in time with Herb Alpert &amp; The Tijuana Brass</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-05 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -289,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
