@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 02:38:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 03:28:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 02:39 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Abbott says 850 rescued as 27 still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Abbott says 850 rescued as 27 still missing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-06 00:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -84,15 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/dozens-dead-from-texas-floods-as-campers-remain-unaccounted-for-242748485696" target="_blank">Dozens dead from Texas floods as campers remain unaccounted for</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-05 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/mbappe-nets-in-thrilling-real-madrid-win-against-dortmund-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe nets in thrilling Real Madrid win against Dortmund at Club World Cup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 23:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anurag_panda/face-attendance-maker-using-streamlit-and-opencv-3fh0" target="_blank">🧑‍💼 Face Attendance Maker using Streamlit and OpenCV 😎</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 03:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a" target="_blank">Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 02:35</span>
@@ -202,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc" target="_blank">PolicyPilotPro was built entirely using Bolt.new in less than 48 hours</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jeff_pegg_97454b18784a524/the-ai-revolution-in-2025-top-trends-every-developer-should-know-5e4l" target="_blank">The AI Revolution in 2025: Top Trends Every Developer Should Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 21:45</span>
             </div>
         </div>
 </div>
@@ -291,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 02:39 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
