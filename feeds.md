@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 05:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 06:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g" target="_blank">I started tracking my dev journey daily — turns out, it changed everything.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/failed-to-synchronize-all-databases/" target="_blank">Fixing &#x27;failed to synchronize all databases&#x27; Pacman Error in Arch Linux</a></span>
                 <span class="feed">It's FOSS</span>
@@ -204,18 +209,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability" target="_blank">Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability</a></span>
+                <span class="title"><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability" target="_blank">Hidden interface controls are affecting usability</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-05 23:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/gradia.jpg?resize=406%2C232&amp;ssl=1" alt="Gradia Screenshot Tool Just Keeps Getting Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-adds-new-features" target="_blank">Gradia Screenshot Tool Just Keeps Getting Better</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-05 22:59</span>
             </div>
         </div>
 </div>
@@ -296,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
