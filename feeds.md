@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 07:01:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-06 08:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458378/dalai-lama-90-tibet" target="_blank">Dalai Lama, a global symbol of Tibetan culture and resistance, turns 90</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/emergency-workers-battle-wildfires-in-syria?traffic_source=rss" target="_blank">Emergency workers battle wildfires in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/06/kenya-benedict-kabiru-kuria-police-officer-missing-haiti" target="_blank">‘We want closure’: family searches for answers over Kenyan police officer missing in Haiti</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-06 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458372/supreme-leader-iran-israel-war" target="_blank">Iran&#x27;s supreme leader makes first public appearance since Iran-Israel war started</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-06 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Search for missing continues as Texas floods kill 51, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Search for missing continues as Texas floods kill 51, including 15 children</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-06 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/irans-supreme-leader-makes-first-public-appearance-since-war-with-israel?traffic_source=rss" target="_blank">Iran’s Khamenei makes first public appearance since war with Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/russia-ukraine-war-list-of-key-events-day-1228?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,228</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 01:54</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p" target="_blank">Understanding Python Memory and Garbage Collection Through Hands-On Experiments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 07:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adithya-balan/i-started-tracking-my-dev-journey-daily-turns-out-it-changed-everything-c5g" target="_blank">I started tracking my dev journey daily — turns out, it changed everything.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 05:50</span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-MSM-DRM-Linux-6.17" target="_blank">Big Improvements For Qualcomm GPU Driver With Linux 6.17 - Especially For Snapdragon X</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-06 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability" target="_blank">Hidden interface controls are affecting usability</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-05 23:10</span>
             </div>
         </div>
 </div>
@@ -298,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
