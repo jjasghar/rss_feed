@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 04:10:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 05:02:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 16 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 04:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Search for missing continues as Texas floods kill 51, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Search for missing continues as Texas floods kill 51, including 15 children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-06 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/irans-supreme-leader-makes-first-public-appearance-since-war-with-israel?traffic_source=rss" target="_blank">Iran’s Khamenei makes first public appearance since war with Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 03:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 43 dead in catastrophic Texas flooding and dozens missing from girls camp</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Frantic search for survivors of Texas floods that killed 43, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Frantic search for survivors of Texas floods that killed 43, including 15 children</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751763470942_nn_rch_frantic_search_for_missing_after_texas_floods_250705_1920x1080-2rpak4.jpg" alt="Dozens dead from Texas floods as campers remain unaccounted for" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/dozens-dead-from-texas-floods-as-campers-remain-unaccounted-for-242748485696" target="_blank">Dozens dead from Texas floods as campers remain unaccounted for</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-05 23:04</span>
             </div>
         </div>
 </div>
@@ -157,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/failed-to-synchronize-all-databases/" target="_blank">Fixing &#x27;failed to synchronize all databases&#x27; Pacman Error in Arch Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-06 04:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anurag_panda/face-attendance-maker-using-streamlit-and-opencv-3fh0" target="_blank">🧑‍💼 Face Attendance Maker using Streamlit and OpenCV 😎</a></span>
                 <span class="feed">DEV Community</span>
@@ -199,15 +218,6 @@
                 <span class="time">2025-07-05 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4uzfgazkenjq5olhfpan.png" alt="PolicyPilotPro was built entirely using Bolt.new in less than 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joe_slade_2ffebf8d1164783/policypilotpro-was-built-entirely-using-boltnew-in-less-than-48-hours-3pgc" target="_blank">PolicyPilotPro was built entirely using Bolt.new in less than 48 hours</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -229,6 +239,15 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-leaves-trump-and-maga-with-a-bang-and-a-smile-2000624469" target="_blank">Elon Musk Leaves Trump and MAGA with a Bang And a Smile</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-05 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/herb.jpeg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Going back in time with Herb Alpert &amp; The Tijuana Brass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/05/going-back-in-time-with-herb-alpert-the-tijuana-brass.html" target="_blank">Going back in time with Herb Alpert &amp; The Tijuana Brass</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-05 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -258,15 +277,6 @@
                 <span class="time">2025-07-05 15:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/FastestVPN-PRO.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The internet&#x27;s full of bandits — this VPN shields your data for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/05/the-internets-full-of-bandits-this-vpn-shields-your-data-for-life.html" target="_blank">The internet&#x27;s full of bandits — this VPN shields your data for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -286,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
