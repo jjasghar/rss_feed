@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 20:01:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/06/g-s1-76298/video-timelapse-texas-llano-river-flood-minutes" target="_blank">Video: Timelapse Shows Texas&#x27; Llano River Completely Flood in Just Minutes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/f_mo_flood_survivor_250706.00_00_36_15.Still001-phl1j9.jpg" alt="Kerrville resident recounts escape from flood waters that overtook his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/kerrville-resident-recounts-escape-from-flood-waters-that-overtook-his-home-242761797677" target="_blank">Kerrville resident recounts escape from flood waters that overtook his home</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-06 18:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +105,29 @@
                 <span class="time">2025-07-06 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Kerr County death toll now 59, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Kerr County death toll now 59, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/devotees-around-the-world-celebrate-the-dalai-lamas-90th-birthday?traffic_source=rss" target="_blank">Devotees around the world celebrate the Dalai Lama’s 90th birthday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 15:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle" target="_blank">TikTok’s ‘ban’ problem could end soon with a new app and a sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-06 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/" target="_blank">At least 36 new tech unicorns were minted in 2025 so far</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-06 17:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +164,20 @@
                 <span class="time">2025-07-06 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/695286/the-verge-2025-summer-in-out-list" target="_blank">The Verge’s summer ‘in’ and ‘out’ list</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1054583202-500x500.jpg" alt="Figuring out why a nap might help people see things in new ways" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/" target="_blank">Figuring out why a nap might help people see things in new ways</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-06 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/atifwattoo/how-to-train-ai-model-bd" target="_blank">How to Train AI Model</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 19:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,20 +223,20 @@
                 <span class="time">2025-07-06 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654" target="_blank">How did an animator become a cloud engineer?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Anker-Prime-Charger.jpg" alt="This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-100w-anker-block-charger-is-nearly-free-amazon-is-selling-them-by-the-pallet-ahead-of-prime-day-2000624646" target="_blank">This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 19:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/09/d671148892956d273b6e43ae841e1d74.jpg" alt="Elon Musk Deflects Bill Gates’ Foreign Aid Alarm With Personal Swipe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,6 +259,15 @@
             <img src="https://lifehacker.com/imagery/articles/01JZ8P2K96H6ZZMF4Z0Y20S4PG/hero-image.png" alt="The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/july-garmin-forerunner-255-sale?utm_medium=RSS" target="_blank">The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-06 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ8P2K96H6ZZMF4Z0Y20S4PG/hero-image.png" alt="The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-255-sale?utm_medium=RSS" target="_blank">The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-06 14:30</span>
@@ -257,24 +280,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-is-selling-his-political-party-like-a-tesla-2000624535" target="_blank">Elon Musk Is Selling His Political Party Like a Tesla</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-06 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/edible-lasers.jpg" alt="Edible Microlasers Could Revolutionize Food Tracking and Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/edible-microlasers-could-revolutionize-food-tracking-and-safety-2000624018" target="_blank">Edible Microlasers Could Revolutionize Food Tracking and Safety</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/F1-British-GP-Live-Stream-Free-Channel.jpg" alt="How to Watch the 2025 F1 British Grand Prix on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-the-2025-f1-british-grand-prix-on-a-free-channel-2000623261" target="_blank">How to Watch the 2025 F1 British Grand Prix on a Free Channel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 06:25</span>
             </div>
         </div>
 </div>
@@ -296,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
