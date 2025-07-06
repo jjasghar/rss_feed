@@ -1,30 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 01:29:34 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-06 02:38:57 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 02:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/russia-ukraine-war-list-of-key-events-day-1228?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,228</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 01:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Search for survivors continues as Texas floods kill 43, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Search for survivors continues as Texas floods kill 43, including 15 children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-06 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/mbappe-nets-in-thrilling-real-madrid-win-against-dortmund-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe nets in thrilling Real Madrid win against Dortmund at Club World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-05 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457759/texas-floods-timeline" target="_blank">Here&#x27;s a timeline of the catastrophic Texas floods</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-05 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380f/live/6bf5bb40-59e3-11f0-95d7-c939ccdafb65.jpg" alt="David Lammy first UK minister to visit Syria since 2011 uprising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0rvpz1kjkpo" target="_blank">David Lammy first UK minister to visit Syria since 2011 uprising</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-05 21:30</span>
             </div>
         </div>
 </div>
@@ -161,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a" target="_blank">Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 02:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-MSM-DRM-Linux-6.17" target="_blank">Big Improvements For Qualcomm GPU Driver With Linux 6.17 - Especially For Snapdragon X</a></span>
                 <span class="feed">Phoronix</span>
@@ -174,6 +184,15 @@
                 <span class="title"><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability" target="_blank">Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-05 23:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/gradia.jpg?resize=406%2C232&amp;ssl=1" alt="Gradia Screenshot Tool Just Keeps Getting Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-adds-new-features" target="_blank">Gradia Screenshot Tool Just Keeps Getting Better</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-05 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -194,29 +213,20 @@
                 <span class="time">2025-07-05 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dmatheusccs/customer-complaint-analyzer-3aa3" target="_blank">Customer Complaint Analyzer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tcwcgz23u4ulrfznzcf.png" alt="Pencil Portrait App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mdgreen18/pencil-portrait-app-4i1l" target="_blank">Pencil Portrait App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/Elon-Musk-at-Mar-a-Lago-.jpg" alt="Elon Musk Leaves Trump and MAGA With a Bang and a Smile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-leaves-trump-and-maga-with-a-bang-and-a-smile-2000624469" target="_blank">Elon Musk Leaves Trump and MAGA With a Bang and a Smile</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 23:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/Elon-Musk-at-Mar-a-Lago-.jpg" alt="Elon Musk Leaves Trump and MAGA with a Bang And a Smile" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +272,6 @@
                 <span class="time">2025-07-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/12/358332e424e140b1a7cba10430bdbe44.jpg" alt="Latest Sales Data Reveal Clear Winners And Losers in a Messy EV Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/latest-sales-data-reveal-clear-winners-and-losers-in-a-messy-ev-market-2000624437" target="_blank">Latest Sales Data Reveal Clear Winners And Losers in a Messy EV Market</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-05 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
