@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 06:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-06 07:01:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/scepticism-and-hope-for-end-to-gaza-war-before-trump-netanyahu-meeting?traffic_source=rss" target="_blank">Scepticism and hope for end to Gaza war before Trump-Netanyahu meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 05:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-iran-supreme-leader_6958311.jpg?20250706072300" alt="Defiance in Tehran as Khamenei makes appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/defiance-in-tehran-as-khamenei-makes-appearance-13393028" target="_blank">Defiance in Tehran as Khamenei makes appearance</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-06 05:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458372/supreme-leader-iran-israel-war" target="_blank">Iran&#x27;s supreme leader makes first public appearance since Iran-Israel war started</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 05:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Search for missing continues as Texas floods kill 51, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +102,20 @@
                 <span class="time">2025-07-06 01:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Search for survivors continues as Texas floods kill 43, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Search for survivors continues as Texas floods kill 43, including 15 children</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-06 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Abbott says 850 rescued as 27 still missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Abbott says 850 rescued as 27 still missing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 43 dead in catastrophic Texas flooding and dozens missing from girls camp</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686502181decd773fdce09c8/master/pass/MolecularMemory_crCarlos-Arrojo-Lede.jpeg" alt="How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/" target="_blank">How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-06 06:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6869798496efdc8698cddbf1/master/pass/2222953080" alt="Meteorologists Say the National Weather Service Did Its Job in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025-1/" target="_blank">The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-05 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra" target="_blank">Samsung is about to find out if Ultra is enough</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-05 15:00</span>
             </div>
         </div>
 </div>
@@ -292,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
