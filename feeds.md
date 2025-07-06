@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 15:01:30 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-06 16:01:32 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Kerr County death toll now 59, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Kerr County death toll now 59, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-06 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/devotees-around-the-world-celebrate-the-dalai-lamas-90th-birthday?traffic_source=rss" target="_blank">Devotees around the world celebrate the Dalai Lama’s 90th birthday</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 15:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250706-texas-flood-01-aa-375265.jpg" alt="Desperate search underway for the missing after Texas floods leave at least 53 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2025-07-06 13:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/6/whats-in-trumps-ceasefire-proposal-and-can-it-end-israels-war-on-gaza?traffic_source=rss" target="_blank">What’s in Trump’s ceasefire proposal and can it end Israel’s war on Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751804234361_tdy_sun_chandler_texas_flood_250706_1920x1080-0lxcp1.jpg" alt="Texas Flood Death Toll Rises to 51 Amid Search for Survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/texas-flood-death-toll-rises-to-51-amid-search-for-survivors-242757701678" target="_blank">Texas Flood Death Toll Rises to 51 Amid Search for Survivors</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-06 12:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch" target="_blank">How to watch Summer Games Done Quick 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2025-07-06 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686502181decd773fdce09c8/master/pass/MolecularMemory_crCarlos-Arrojo-Lede.jpeg" alt="How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/" target="_blank">How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-06 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654" target="_blank">How did an animator become a cloud engineer?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.24-Released" target="_blank">Wayland 1.24 Released With Few Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-06 13:15</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Initrd-Zstd-Compress" target="_blank">Fedora 43 Looks To Zstd-Compressed Initrd By Default For Space Savings &amp; Faster Boots</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-06 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kfir-g/understanding-python-memory-and-garbage-collection-through-hands-on-experiments-4g0p" target="_blank">Understanding Python Memory and Garbage Collection Through Hands-On Experiments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 07:57</span>
             </div>
         </div>
 </div>
@@ -279,25 +282,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1751596995-20250705.png" alt="Saturday Morning Breakfast Cereal - Annihilate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/annihilate" target="_blank">Saturday Morning Breakfast Cereal - Annihilate</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-05 15:20</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
