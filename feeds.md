@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 13:08:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-06 14:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/06/g-s1-75874/gaza-food-hunger-ghf" target="_blank">Knives, bullets and thieves: the quest for food in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/fathers-desperate-search-for-daughter-after-deadly-floods-hit-texas-camp?traffic_source=rss" target="_blank">Father’s desperate search for daughter after deadly floods hit Texas camp</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 13:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +91,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq8z34x914jo" target="_blank">Welfare U-turn makes spending decisions harder, minister says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-06 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/iran-tells-millions-of-afghans-to-leave-or-face-arrest-on-day-of-deadline?traffic_source=rss" target="_blank">Iran tells millions of Afghans to leave or face arrest on day of deadline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tropical-storm-chantal-ap-jt-250705_1751739297107_hpMain_4x3t_384.jpg" alt="Tropical Storm Chantal makes landfall over South Carolina with 50 mph winds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tropical-storm-warnings-extended-north-carolina-chantal-approaches/story?id=123505008" target="_blank">Tropical Storm Chantal makes landfall over South Carolina with 50 mph winds</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 09:38</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654" target="_blank">How did an animator become a cloud engineer?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" target="_blank">Get the location of the ISS using DNS</a></span>
                 <span class="feed">Hacker News</span>
@@ -211,20 +211,20 @@
                 <span class="time">2025-07-06 05:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/failed-to-synchronize-all-databases/" target="_blank">Fixing &#x27;failed to synchronize all databases&#x27; Pacman Error in Arch Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-06 04:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-white-house-feb-11-2025-GettyImages-2198395928-copy.jpg" alt="Elon Musk Is Selling His Political Party Like a Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-is-selling-his-political-party-like-a-tesla-2000624535" target="_blank">Elon Musk Is Selling His Political Party Like a Tesla</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/edible-lasers.jpg" alt="Edible Microlasers Could Revolutionize Food Tracking and Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +270,6 @@
                 <span class="time">2025-07-05 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-march-24-2025-GettyImages-2206231809-copy.jpg" alt="Elon Musk’s New Political Party Sparks MAGA Backlash Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-new-political-party-sparks-maga-backlash-online-2000624462" target="_blank">Elon Musk’s New Political Party Sparks MAGA Backlash Online</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-05 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
