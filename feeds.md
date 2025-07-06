@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 21:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-06 22:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751835878659_now_brk_abbott_updates_flooding_250706_1920x1080-kjt032.jpg" alt="Death toll rises to 79 after Texas flash flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/gov-abbott-gives-updates-on-deadly-texas-flash-flood-242760773837" target="_blank">Death toll rises to 79 after Texas flash flooding</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-06 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/6/why-has-iran-stepped-up-its-deportation-of-afghan-refugees?traffic_source=rss" target="_blank">Why has Iran stepped up its deportation of Afghan refugees?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 20:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +97,20 @@
                 <span class="time">2025-07-06 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/6/akash-india-win-second-test-against-england-at-edgbaston?traffic_source=rss" target="_blank">Akash, India win second Test against England at Edgbaston</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/6/israel-now-faces-adversaries-that-it-cannot-defeat?traffic_source=rss" target="_blank">Israel now faces adversaries that it cannot defeat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/" target="_blank">‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-06 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +156,20 @@
                 <span class="time">2025-07-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68682e54a8d4cb3b4f41a5a9/master/pass/The%20Best%20Indoor%20TV%20Antennas.png" alt="Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-tv-antennas/" target="_blank">Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-06 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqjz65t7mgyqbw31qdoy.png" alt="PaperPulse—Your daily heartbeat on the latest research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko" target="_blank">PaperPulse—Your daily heartbeat on the latest research</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -166,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag" target="_blank">Hexagonal Architecture Implementation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted" target="_blank">I extracted the safety filters from Apple Intelligence models</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-06 19:50</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +215,29 @@
                 <span class="time">2025-07-06 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Ubuntu-security-malware-spy.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Security Flaw Lets Attackers Bypass Full Disk Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-security-initramfs-bypass-encryption" target="_blank">Ubuntu Security Flaw Lets Attackers Bypass Full Disk Encryption</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-06 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-cce" target="_blank">Next Generation High Web Rust Based Solutions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/TikTok-logo-1.jpg" alt="TikTok’s Escape Plan May Be a Brand New App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tiktoks-escape-plan-may-be-a-brand-new-app-2000624710" target="_blank">TikTok’s Escape Plan May Be a Brand New App</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JV5DGY2NBXASXT124DVD9ZHB/hero-image.jpg" alt="This JBL Outdoor Speaker Is $130 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-xtreme-4-outdoor-speaker-amazon-sale?utm_medium=RSS" target="_blank">This JBL Outdoor Speaker Is $130 Off Ahead of Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-06 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Anker-Prime-Charger.jpg" alt="This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,24 +274,6 @@
                 <span class="time">2025-07-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ8P2K96H6ZZMF4Z0Y20S4PG/hero-image.png" alt="The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/july-garmin-forerunner-255-sale?utm_medium=RSS" target="_blank">The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-06 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ8P2K96H6ZZMF4Z0Y20S4PG/hero-image.png" alt="The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-forerunner-255-sale?utm_medium=RSS" target="_blank">The Garmin Forerunner 255 Just Dropped to Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-06 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
