@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 18:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-06 19:01:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/gunmen-target-shipping-vessel-in-red-sea?traffic_source=rss" target="_blank">Gunboats target cargo vessel in Red Sea; crew abandons ship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 17:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Statewide death toll now at least 70, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/devotees-around-the-world-celebrate-the-dalai-lamas-90th-birthday?traffic_source=rss" target="_blank">Devotees around the world celebrate the Dalai Lama’s 90th birthday</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-israeli-strike_6958613.jpg?20250706154245" alt="What is the possible Gaza hostage and ceasefire deal - and what challenges could lie ahead?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/what-is-the-possible-gaza-hostage-and-ceasefire-deal-and-what-challenges-could-lie-ahead-13393205" target="_blank">What is the possible Gaza hostage and ceasefire deal - and what challenges could lie ahead?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-06 14:25</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml" target="_blank">Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Ubuntu-security-malware-spy.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Security Flaw Lets Attackers Bypass Full Disk Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -178,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/diffusion-model-creativity/en/headerimage/diffusion-models-creativity-1751814254644.jpeg" alt="Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/diffusion-model-creativity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-06 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87k1ksaif7a1axaab7r4.png" alt="12 Products in 12 Months - Starting today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/gopikrishna_chodapaneedi/how-did-an-animator-become-a-cloud-engineer-4654" target="_blank">How did an animator become a cloud engineer?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayland-1.24-Released" target="_blank">Wayland 1.24 Released With Few Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-06 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" target="_blank">Get the location of the ISS using DNS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-06 12:32</span>
             </div>
         </div>
 </div>
@@ -274,11 +279,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1751598360-20250706.png" alt="Saturday Morning Breakfast Cereal - Tone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/tone" target="_blank">Saturday Morning Breakfast Cereal - Tone</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-06 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
