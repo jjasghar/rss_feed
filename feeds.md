@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 11:01:31 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-06 12:01:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/06/nx-s1-5454890/vaccine-ingredient-thimerosal-cdc-acip" target="_blank">4 things to know about the vaccine ingredient thimerosal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a52/live/d137a740-5a59-11f0-960d-e9f1088a89fe.jpg" alt="Welfare U-turn makes spending decisions harder, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8z34x914jo" target="_blank">Welfare U-turn makes spending decisions harder, minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-06 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,29 @@
                 <span class="time">2025-07-06 08:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458378/dalai-lama-90-tibet" target="_blank">Dalai Lama, a global symbol of Tibetan culture and resistance, turns 90</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/emergency-workers-battle-wildfires-in-syria?traffic_source=rss" target="_blank">Emergency workers battle wildfires in Syria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1054583202-500x500.jpg" alt="Figuring out why a nap might help people see things in new ways" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/" target="_blank">Figuring out why a nap might help people see things in new ways</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-06 11:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6866b14be418c4bc67d56bf2/master/pass/voice-typing-gear-2018038189.jpg" alt="How to Use Voice Typing on Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/" target="_blank">How to Use Voice Typing on Your Phone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-06 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686502181decd773fdce09c8/master/pass/MolecularMemory_crCarlos-Arrojo-Lede.jpeg" alt="How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red" target="_blank">Cyberpunk: Edgerunners 2 will be even sadder and bloodier</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-05 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/" target="_blank">Google faces EU antitrust complaint over AI Overviews</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-05 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685f0f0c20a20e2dbba976f9/master/pass/REI%20Ads.png" alt="The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rei-4th-of-july-sale-2025-1/" target="_blank">The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-05 15:37</span>
             </div>
         </div>
 </div>
@@ -298,7 +296,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 11:01 UTC
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
