@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 17:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 18:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Statewide death toll now at least 70, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Statewide death toll now at least 70, say officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-06 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/6/akash-india-win-second-test-against-england-at-edgbaston?traffic_source=rss" target="_blank">Akash, India win second Test against England at Edgbaston</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/what-is-the-possible-gaza-hostage-and-ceasefire-deal-and-what-challenges-could-lie-ahead-13393205" target="_blank">What is the possible Gaza hostage and ceasefire deal - and what challenges could lie ahead?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-06 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250706-texas-flood-01-aa-375265.jpg" alt="Trump signs disaster declaration as Texas flooding death toll rises to 70" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/texas-floods-live-updates-rcna217104" target="_blank">Trump signs disaster declaration as Texas flooding death toll rises to 70</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-06 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250706-texas-flood-01-aa-375265.jpg" alt="Desperate search underway for the missing after Texas floods leave at least 53 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/texas-floods-live-updates-rcna217104" target="_blank">Desperate search underway for the missing after Texas floods leave at least 53 dead</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-06 13:45</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Ubuntu-security-malware-spy.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Security Flaw Lets Attackers Bypass Full Disk Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-security-initramfs-bypass-encryption" target="_blank">Ubuntu Security Flaw Lets Attackers Bypass Full Disk Encryption</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-06 17:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +211,6 @@
                 <span class="title"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" target="_blank">Get the location of the ISS using DNS</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-06 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiu3bh2k8dq7biw3ofij.jpg" alt="AlgorithmO #6 — Кодиране на пермутации (намиране на номер в лексикографски ред на пермутация)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dvt32/algorithmo-6-kodiranie-na-piermutatsii-namiranie-na-nomier-v-lieksikoghrafski-ried-na-piermutatsiia-34p7" target="_blank">AlgorithmO #6 — Кодиране на пермутации (намиране на номер в лексикографски ред на пермутация)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 10:48</span>
             </div>
         </div>
 </div>
@@ -284,7 +278,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:01 UTC
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
