@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 00:05:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-06 01:29:34 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +41,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457278/texas-hill-country-flooding" target="_blank">At least 43 dead in catastrophic Texas flooding and dozens missing from girls camp</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Frantic search for survivors of Texas floods that killed 43, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Frantic search for survivors of Texas floods that killed 43, including 15 children</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-05 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751763470942_nn_rch_frantic_search_for_missing_after_texas_floods_250705_1920x1080-2rpak4.jpg" alt="Dozens dead from Texas floods as campers remain unaccounted for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/dozens-dead-from-texas-floods-as-campers-remain-unaccounted-for-242748485696" target="_blank">Dozens dead from Texas floods as campers remain unaccounted for</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-05 23:04</span>
             </div>
         </div>
 <div class="story">
@@ -73,30 +86,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380f/live/6bf5bb40-59e3-11f0-95d7-c939ccdafb65.jpg" alt="David Lammy first UK minister to visit Syria since 2011 uprising" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/5/israel-sending-negotiating-team-to-qatar-for-gaza-ceasefire-talks?traffic_source=rss" target="_blank">Israel sending negotiating team to Qatar for Gaza ceasefire talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751749459804_f_mash_texas_update_250705_1920x1080-i86o7m.jpg" alt="Texas expands disaster declaration as flood death toll rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/texas-expands-disaster-declaration-as-flood-death-toll-rises-242744901913" target="_blank">Texas expands disaster declaration as flood death toll rises</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-05 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/search-team-texas-flood-02-ap-jt-250705_1751733568486_hpMain_4x3t_384.jpg" alt="Texas officials say they were caught off guard by deadly storms: &#x27;We didn’t know&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/night-texas-officials-caught-off-guard-deadly-rainstorms/story?id=123499929" target="_blank">Texas officials say they were caught off guard by deadly storms: &#x27;We didn’t know&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-05 20:48</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0rvpz1kjkpo" target="_blank">David Lammy first UK minister to visit Syria since 2011 uprising</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 21:30</span>
             </div>
         </div>
 </div>
@@ -164,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-MSM-DRM-Linux-6.17" target="_blank">Big Improvements For Qualcomm GPU Driver With Linux 6.17 - Especially For Snapdragon X</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-06 00:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability" target="_blank">Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-05 23:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4uzfgazkenjq5olhfpan.png" alt="PolicyPilotPro was built entirely using Bolt.new in less than 48 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/mdgreen18/pencil-portrait-app-4i1l" target="_blank">Pencil Portrait App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-05 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hana_liu/how-a-venmo-setting-exposed-a-national-security-privacy-risk-a-digital-forensics-view-on-1mna" target="_blank">How a Venmo Setting Exposed a National Security &amp; Privacy Risk — A Digital Forensics View on Privacy by Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nullstring/dev-helpers-quick-tools-for-everyday-dev-tasks-27p3" target="_blank">🛠️ Dev Helpers – Quick Tools for Everyday Dev Tasks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-05 15:49</span>
             </div>
         </div>
 </div>
@@ -295,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
