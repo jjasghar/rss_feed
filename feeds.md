@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 10:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-06 11:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/iran-tells-millions-of-afghans-to-leave-or-face-arrest-on-day-of-deadline?traffic_source=rss" target="_blank">Iran tells millions of Afghans to leave or face arrest on day of deadline</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/tropical-storm-chantal-ap-jt-250705_1751739297107_hpMain_4x3t_384.jpg" alt="Tropical Storm Chantal makes landfall over South Carolina with 50 mph winds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/6/emergency-workers-battle-wildfires-in-syria?traffic_source=rss" target="_blank">Emergency workers battle wildfires in Syria</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/tropical-storm-chantal-ap-jt-250705_1751739297107_hpMain_4x3t_384.jpg" alt="Tropical storm warnings extended up to North Carolina as Chantal approaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tropical-storm-warnings-extended-north-carolina-chantal-approaches/story?id=123505008" target="_blank">Tropical storm warnings extended up to North Carolina as Chantal approaches</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 07:06</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiu3bh2k8dq7biw3ofij.jpg" alt="AlgorithmO #6 — Кодиране на пермутации (намиране на номер в лексикографски ред на пермутация)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dvt32/algorithmo-6-kodiranie-na-piermutatsii-namiranie-na-nomier-v-lieksikoghrafski-ried-na-piermutatsiia-34p7" target="_blank">AlgorithmO #6 — Кодиране на пермутации (намиране на номер в лексикографски ред на пермутация)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Initrd-Zstd-Compress" target="_blank">Fedora 43 Looks To Zstd-Compressed Initrd By Default For Space Savings &amp; Faster Boots</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-06 10:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,29 +219,20 @@
                 <span class="time">2025-07-06 03:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/weekly/weekly-27-2025-behind-the-code-from-databases-to-developer-superpowers-e6a" target="_blank">Weekly #27-2025: Behind the Code – From Databases to Developer Superpowers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 02:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-MSM-DRM-Linux-6.17" target="_blank">Big Improvements For Qualcomm GPU Driver With Linux 6.17 - Especially For Snapdragon X</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-06 00:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/edible-lasers.jpg" alt="Edible Microlasers Could Revolutionize Food Tracking and Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/edible-microlasers-could-revolutionize-food-tracking-and-safety-2000624018" target="_blank">Edible Microlasers Could Revolutionize Food Tracking and Safety</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/F1-British-GP-Live-Stream-Free-Channel.jpg" alt="How to Watch the 2025 F1 British Grand Prix on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2025-07-05 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/08/harmadillo.jpg?fit=600%2C399&amp;quality=60&amp;ssl=1" alt="Watch this adorable armadillo splashing in a baby pool!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/05/watch-this-adorable-armadillo-splashing-in-a-baby-pool.html" target="_blank">Watch this adorable armadillo splashing in a baby pool!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-05 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
