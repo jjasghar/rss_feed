@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 22:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 23:01:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/more-than-80-palestinians-killed-across-gaza-as-truce-talks-begin?traffic_source=rss" target="_blank">More than 80 Palestinians killed across Gaza as truce talks begin</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Statewide death toll now at least 78, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Statewide death toll now at least 78, say officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-06 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458512/texas-flash-flood-weather-forecast" target="_blank">How good was the forecast? Texas officials and the National Weather Service disagree</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-06 22:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751835878659_now_brk_abbott_updates_flooding_250706_1920x1080-kjt032.jpg" alt="Death toll rises to 79 after Texas flash flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/06/g-s1-76298/video-timelapse-texas-llano-river-flood-minutes" target="_blank">Video: Timelapse Shows Texas&#x27; Llano River Completely Flood in Just Minutes</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-06 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/f_mo_flood_survivor_250706.00_00_36_15.Still001-phl1j9.jpg" alt="Kerrville resident recounts escape from flood waters that overtook his home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/kerrville-resident-recounts-escape-from-flood-waters-that-overtook-his-home-242761797677" target="_blank">Kerrville resident recounts escape from flood waters that overtook his home</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-06 18:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/gunmen-target-shipping-vessel-in-red-sea?traffic_source=rss" target="_blank">Gunboats target cargo vessel in Red Sea; crew abandons ship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Statewide death toll now at least 70, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Statewide death toll now at least 70, say officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 17:31</span>
             </div>
         </div>
 </div>
@@ -173,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc5" target="_blank">Linux 6.16-rc5 Released With A Performance Fix, Bcachefs Fixes &amp; New Device Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-06 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag" target="_blank">Hexagonal Architecture Implementation</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml" target="_blank">Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alpha.lisagui.com/" target="_blank">Show HN: I wrote a &quot;web OS&quot; based on the Apple Lisa&#x27;s UI, with 1-bit graphics</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-06 18:32</span>
             </div>
         </div>
 </div>
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
