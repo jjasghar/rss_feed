@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 20:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 21:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag" target="_blank">Hexagonal Architecture Implementation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/atifwattoo/how-to-train-ai-model-bd" target="_blank">How to Train AI Model</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 19:49</span>
@@ -185,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml" target="_blank">Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alpha.lisagui.com/" target="_blank">Show HN: I wrote a &quot;web OS&quot; based on the Apple Lisa&#x27;s UI, with 1-bit graphics</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-06 18:32</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/member_a07758c4/next-generation-high-web-rust-based-solutions-cce" target="_blank">Next Generation High Web Rust Based Solutions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/diffusion-model-creativity/en/headerimage/diffusion-models-creativity-1751814254644.jpeg" alt="Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/diffusion-model-creativity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Researchers Attempt to Uncover the Origins of Creativity in Diffusion Models</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87k1ksaif7a1axaab7r4.png" alt="12 Products in 12 Months - Starting today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jameshubert_com/12-products-in-12-months-starting-today-4b8j" target="_blank">12 Products in 12 Months - Starting today</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 14:52</span>
             </div>
         </div>
 </div>
@@ -244,6 +234,15 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-deflects-bill-gates-foreign-aid-alarm-with-personal-swipe-2000624554" target="_blank">Elon Musk Deflects Bill Gates’ Foreign Aid Alarm With Personal Swipe</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-06 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Paw-sitively purr-fect: This self-rolling toy will have your cat chasing for meow&#x27;rs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/06/paw-sitively-purr-fect-this-self-rolling-toy-will-have-your-cat-chasing-for-meowrs.html" target="_blank">Paw-sitively purr-fect: This self-rolling toy will have your cat chasing for meow&#x27;rs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-06 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,15 +272,6 @@
                 <span class="time">2025-07-06 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-white-house-feb-11-2025-GettyImages-2198395928-copy.jpg" alt="Elon Musk Is Selling His Political Party Like a Tesla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-is-selling-his-political-party-like-a-tesla-2000624535" target="_blank">Elon Musk Is Selling His Political Party Like a Tesla</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
