@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 12:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 13:08:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/6/whats-in-trumps-ceasefire-proposal-and-can-it-end-israels-war-on-gaza?traffic_source=rss" target="_blank">What’s in Trump’s ceasefire proposal and can it end Israel’s war on Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-06 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751804234361_tdy_sun_chandler_texas_flood_250706_1920x1080-0lxcp1.jpg" alt="Texas Flood Death Toll Rises to 51 Amid Search for Survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/texas-flood-death-toll-rises-to-51-amid-search-for-survivors-242757701678" target="_blank">Texas Flood Death Toll Rises to 51 Amid Search for Survivors</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-06 12:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/tropical-storm-warnings-extended-north-carolina-chantal-approaches/story?id=123505008" target="_blank">Tropical Storm Chantal makes landfall over South Carolina with 50 mph winds</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-06 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458381/tropical-storm-chantal-strengthens-landfall-south-carolina" target="_blank">Tropical Storm Chantal strengthens slightly as it nears landfall in South Carolina</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 08:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/brazil-hosts-brics-summit-russias-putin-chinas-xi-skip-rio-trip?traffic_source=rss" target="_blank">Brazil hosts BRICS summit; Russia’s Putin, China’s Xi skip Rio trip</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 08:10</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" target="_blank">Get the location of the ISS using DNS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-06 12:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiiu3bh2k8dq7biw3ofij.jpg" alt="AlgorithmO #6 — Кодиране на пермутации (намиране на номер в лексикографски ред на пермутация)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/failed-to-synchronize-all-databases/" target="_blank">Fixing &#x27;failed to synchronize all databases&#x27; Pacman Error in Arch Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-07-06 04:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anurag_panda/face-attendance-maker-using-streamlit-and-opencv-3fh0" target="_blank">🧑‍💼 Face Attendance Maker using Streamlit and OpenCV 😎</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 03:17</span>
             </div>
         </div>
 </div>
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
