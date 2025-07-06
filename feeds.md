@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-05 23:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-06 00:05:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 05, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 06, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4417/live/25bcb680-59e6-11f0-b5c5-012c5796682d.jpg" alt="Frantic search for survivors of Texas floods that killed 43, including 15 children" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4w36lnvgyo" target="_blank">Frantic search for survivors of Texas floods that killed 43, including 15 children</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-05 23:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/mbappe-nets-in-thrilling-real-madrid-win-against-dortmund-at-club-world-cup?traffic_source=rss" target="_blank">Mbappe nets in thrilling Real Madrid win against Dortmund at Club World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-05 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/05/nx-s1-5457759/texas-floods-timeline" target="_blank">Here&#x27;s a timeline of the catastrophic Texas floods</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-05 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +99,20 @@
                 <span class="time">2025-07-05 20:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/5/who-will-monitor-irans-nuclear-activities?traffic_source=rss" target="_blank">Who will monitor Iran’s nuclear activities?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/5/nine-man-psg-into-club-world-cup-semis-with-wild-2-0-win-over-bayern-munich?traffic_source=rss" target="_blank">Nine-man PSG into Club World Cup semis with wild 2-0 win over Bayern Munich</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-05 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6869798496efdc8698cddbf1/master/pass/2222953080" alt="Meteorologists Say the National Weather Service Did Its Job in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/" target="_blank">Meteorologists Say the National Weather Service Did Its Job in Texas</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-05 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra" target="_blank">Samsung is about to find out if Ultra is enough</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review" target="_blank">Mercedes-Benz electric G-Wagen review: king of the off-road</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-05 12:00</span>
             </div>
         </div>
 </div>
@@ -220,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/Elon-Musk-at-Mar-a-Lago-.jpg" alt="Elon Musk Leaves Trump and MAGA with a Bang And a Smile" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-leaves-trump-and-maga-with-a-bang-and-a-smile-2000624469" target="_blank">Elon Musk Leaves Trump and MAGA with a Bang And a Smile</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-05 23:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/elon-musk-march-24-2025-GettyImages-2206231809-copy.jpg" alt="Elon Musk’s New Political Party Sparks MAGA Backlash Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,15 +276,6 @@
                 <span class="time">2025-07-05 14:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Joe-Rogan.jpg" alt="Joe Rogan Feels Trump Betrayed Him on Immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/joe-rogan-feels-trump-betrayed-him-on-immigration-2000624426" target="_blank">Joe Rogan Feels Trump Betrayed Him on Immigration</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-05 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
