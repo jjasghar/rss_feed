@@ -1,44 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 20:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 21:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump plans 25% tariffs for Japan and South Korea" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump plans 25% tariffs for Japan and South Korea</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump announces 25% tariffs on South Korea and Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/Julian-Ryan-ht-gmh-250707_1751892383666_hpMain_2_4x3t_384.jpg" alt="Texas flooding victims: From campers to parents, what we know about the lives lost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bffb/live/48292db0-5b68-11f0-a40e-a1af2950b220.jpg" alt="London remembers 7/7 bombings 20 years on as William lays flowers for victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/texas-flooding-victims-young-campers-dad-saving-family/story?id=123531643" target="_blank">Texas flooding victims: From campers to parents, what we know about the lives lost</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-07 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-75023/peru-gangs-extortion-schools" target="_blank">In Peru, criminal gangs are targeting schools in poor neighborhoods for extortion</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 14:47</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">London remembers 7/7 bombings 20 years on as William lays flowers for victims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 17:10</span>
             </div>
         </div>
 </div>
@@ -175,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-140-ESR-Release" target="_blank">Thunderbird 140 Mail Client Debuts As Newest ESR Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-07 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cromatikap/chatgpt-i-chose-my-own-name-3k18" target="_blank">ChatGPT: &quot;I Chose My Own Name&quot;</a></span>
                 <span class="feed">DEV Community</span>
@@ -217,15 +214,6 @@
                 <span class="time">2025-07-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493921&w=600" alt="Tracing Stratoshark’s Roots: From Packet Capture to System Call Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/stratoshark-packet-capture-to-system-call-analysis" target="_blank">Tracing Stratoshark’s Roots: From Packet Capture to System Call Analysis</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-07 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Interview-3.jpg" alt="Despite Losing Batman and Superman, Nicholas Hoult Knew Lex Luthor Was for Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/despite-losing-batman-and-superman-nicholas-hoult-knew-lex-luthor-was-for-him-2000625200" target="_blank">Despite Losing Batman and Superman, Nicholas Hoult Knew Lex Luthor Was for Him</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/424c547015a2de3a12a572e18a7b1d6a.jpg" alt="Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/romero-games-xbox-layoffs-shut-down-canceled-game-1851785765" target="_blank">Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-07 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/lightfast.jpg?fit=750%2C472&amp;quality=60&amp;ssl=1" alt="Which are the most lightfast color pencils?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/07/what-are-the-most-lightfast-color-pencils.html" target="_blank">Which are the most lightfast color pencils?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-07 20:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/ecoself-air-purifier.jpg" alt="If You’re Looking to Purify a Large Room, This Air Purifier Is 45% Off Just for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,33 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/07/trump-declares-musk-off-the-rails-as-everything-elon-tries-backfires.html" target="_blank">Trump declares Musk &quot;off the rails&quot; as everything Elon tries backfires</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-07 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZK02JTCRPB66QYWCKMTKJDD/hero-image.png" alt="Apple&#x27;s Newest MacBook Pros Are up to $400 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/macbook-pro-prime-day-2025?utm_medium=RSS" target="_blank">Apple&#x27;s Newest MacBook Pros Are up to $400 Off Ahead of Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/SquidVIPs.jpg" alt="‘Squid Game’ VIP Actor Speaks Out on That Awful English Voiceover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/squid-game-season-3-vips-voice-acting-2000625121" target="_blank">‘Squid Game’ VIP Actor Speaks Out on That Awful English Voiceover</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/812da26c66a39b68b5b6219e6ffd3a8c.jpg" alt="Every Mario Kart World Track Has A Closed-Circuit Version, But It&#x27;s Not Easy To Play Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731" target="_blank">Every Mario Kart World Track Has A Closed-Circuit Version, But It&#x27;s Not Easy To Play Them</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-07 17:51</span>
             </div>
         </div>
 </div>
@@ -332,6 +320,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/geology_murder.png" alt="Geology Murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3112/" target="_blank">Geology Murder</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-07 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5607.png" alt="Talking Over One Another" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -345,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
