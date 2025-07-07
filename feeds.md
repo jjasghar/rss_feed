@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 14:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-07 15:01:38 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Error processing https://garfield.com/feed: The read operation timed out -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-75023/peru-gangs-extortion-schools" target="_blank">In Peru, criminal gangs are targeting schools in poor neighborhoods for extortion</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 14:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +96,29 @@
                 <span class="time">2025-07-07 11:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76341/up-first-newsletter-texas-flash-flood-trump-benjamin-netanyahu-gaza-ceasefire-tariffs" target="_blank">The latest on the deadly Texas flash flooding. And, U.S. to send new tariff rates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/" target="_blank">AI is forcing the data industry to consolidate — but that’s not the whole story</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion" target="_blank">Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 14:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,24 +155,6 @@
                 <span class="time">2025-07-07 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/ai-towers-hanoi-500x500.jpg" alt="How a big shift in training LLMs led to a capability explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/" target="_blank">How a big shift in training LLMs led to a capability explosion</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10" target="_blank">Windows 11 has finally overtaken Windows 10 as the most used desktop OS</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-07 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +167,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/07/getting-creative-with-coding-challenges/" target="_blank">Getting creative with Coding Challenges</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/" target="_blank">Solving Wordle with uv&#x27;s dependency resolver</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-07 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-WMI-Gaming-Linux-6.17" target="_blank">Lenovo WMI Gaming Series Drivers Expected To Debut In Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-07 14:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/linux-android-file-transfer/" target="_blank">Packet is the Linux App You Didn’t Know You Needed for Fast Android File Transfers</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-07 13:13</span>
             </div>
         </div>
 <div class="story">
@@ -196,33 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Alpha" target="_blank">GNOME 49 Alpha Released With X11 Support Disabled By Default, Many New Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-07 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2506.17298" target="_blank">Mercury: Ultra-Fast Language Models Based on Diffusion</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-07 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/ceph-rbd-open-source/en/headerimage/ceph-rbd-open-source-header-1751612399293.jpg" alt="Article: Ceph RBD Turns 15: A Story of Open Source Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/ceph-rbd-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Ceph RBD Turns 15: A Story of Open Source Creation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh" target="_blank">How We Built a Fully Automated Content Marketing System Using Make (And Why You Should Too)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 10:55</span>
             </div>
         </div>
 </div>
@@ -244,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/charger-cables.jpg" alt="Amazon Clears Out 10,000mAh Charger with 4 Built-In Cables, Now Nearly Free for Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-clears-out-10000mah-charger-with-4-built-in-cables-now-nearly-free-for-prime-members-2000624828" target="_blank">Amazon Clears Out 10,000mAh Charger with 4 Built-In Cables, Now Nearly Free for Prime Members</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ8M4H9P5WPHG1T3SKGJGGQC/hero-image.png" alt="13 Easy Ways to Lower Your Energy Bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/how-to-save-money-on-your-energy-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Lower Your Energy Bills</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Elon Musk Calls the U.S. Dollar ‘Hopeless,’ Says His America Party Will Embrace Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/best-cordless-lanscape-tool-deals-prime-day-2025?utm_medium=RSS" target="_blank">These Are the Best Cordless Landscaping Tools on Sale for Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-07 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/macbook-air-2025-midnight.jpg" alt="Exclusively for Prime Members, Amazon Drops the 2025 MacBook Air to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/exclusively-for-prime-members-amazon-drops-the-2025-macbook-air-to-its-lowest-price-ever-2000624776" target="_blank">Exclusively for Prime Members, Amazon Drops the 2025 MacBook Air to Its Lowest Price Ever</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/Elon-Musk-Donald-Trump-March-22-2025-GettyImages-2206428974-copy.jpg" alt="Trump Declares Musk a “Train Wreck” After Party Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-declares-musk-a-train-wreck-after-party-launch-2000624726" target="_blank">Trump Declares Musk a “Train Wreck” After Party Launch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 00:07</span>
             </div>
         </div>
 </div>
@@ -335,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
