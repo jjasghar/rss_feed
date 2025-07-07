@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-06 23:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 00:05:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 06, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009f/live/e4439a90-58c6-11f0-9074-8989d8c97d87.png" alt="Is the UK really any safer 20 years on from 7/7?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c14e77je72mo" target="_blank">Is the UK really any safer 20 years on from 7/7?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-06 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/6/why-has-iran-stepped-up-its-deportation-of-afghan-refugees?traffic_source=rss" target="_blank">Why has Iran stepped up its deportation of Afghan refugees?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/06/g-s1-76298/video-timelapse-texas-llano-river-flood-minutes" target="_blank">Video: Timelapse Shows Texas&#x27; Llano River Completely Flood in Just Minutes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 19:46</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a07758c4/hyperlane-framework-learning-journey-basic-setup-2pjn" target="_blank">Hyperlane Framework Learning Journey Basic Setup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-06 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html" target="_blank">A non-anthropomorphized view of LLMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-06 22:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqjz65t7mgyqbw31qdoy.png" alt="PaperPulse—Your daily heartbeat on the latest research" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,29 +215,20 @@
                 <span class="time">2025-07-06 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/atifwattoo/how-to-train-ai-model-bd" target="_blank">How to Train AI Model</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/deleted-a-directory-dont-panic-tools-every-dev-should-know-for-data-recovery-pml" target="_blank">Deleted a Directory? Don’t Panic: Tools Every Dev Should Know for Data Recovery</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/05/7428227263e8804b3a912d7de9572145.jpg" alt="Elon Musk’s “Upgraded” AI Is Spewing Antisemitic Propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-upgraded-ai-is-spewing-antisemitic-propaganda-2000624724" target="_blank">Elon Musk’s “Upgraded” AI Is Spewing Antisemitic Propaganda</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-06 23:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/TikTok-logo-1.jpg" alt="TikTok’s Escape Plan May Be a Brand New App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +274,6 @@
                 <span class="time">2025-07-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/kamen_rider_zeztz.jpg" alt="The New ‘Kamen Rider’ Will Stream In the US, Too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-kamen-rider-will-stream-in-the-us-too-2000624474" target="_blank">The New ‘Kamen Rider’ Will Stream In the US, Too</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
