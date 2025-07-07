@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 10:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 11:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5455867/trump-dollar-value-debt-currency" target="_blank">Why some see the dollar&#x27;s drop as a sign America is losing its financial might</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +98,29 @@
                 <span class="time">2025-07-07 05:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cc/live/0f63fd70-58ed-11f0-852a-fb4f43c1b4cc.jpg" alt="King&#x27;s message of unity for 7/7 attack anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">King&#x27;s message of unity for 7/7 attack anniversary</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 05:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/ai-towers-hanoi-500x500.jpg" alt="How a big shift in training LLMs led to a capability explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/" target="_blank">How a big shift in training LLMs led to a capability explosion</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10" target="_blank">Windows 11 has finally overtaken Windows 10 as the most used desktop OS</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 10:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +157,29 @@
                 <span class="time">2025-07-06 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch" target="_blank">How to watch Summer Games Done Quick 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/" target="_blank">How Brex is keeping up with AI by embracing the ‘messiness’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-06 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh" target="_blank">How We Built a Fully Automated Content Marketing System Using Make (And Why You Should Too)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://eugeneyan.com/writing/uncommon-python/" target="_blank">Uncommon Uses of Python in Commonly Used Libraries</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-07 10:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/azure-foundry-mcp-agents/en/headerimage/generatedHeaderImage-1751652185272.jpg" alt="Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jun30-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-07 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cottancandy1217/the-strategic-navigator-autonomous-competitor-trend-analysis-agent-gpn" target="_blank">The Strategic Navigator: Autonomous Competitor &amp; Trend Analysis Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/art-of-system-integration-make-applications-run-seamlessly-across-different-platforms-5222" target="_blank">Art of System Integration Make Applications Run Seamlessly Across Different Platforms</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 01:06</span>
             </div>
         </div>
 </div>
@@ -310,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
