@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 17:01:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-07 18:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5459755/texas-floods-climate-change" target="_blank">Floods are getting more dangerous around the country, not just in Texas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Julian-Ryan-ht-gmh-250707_1751892383666_hpMain_2_4x3t_384.jpg" alt="Texas flooding victims: From campers to parents, what we know about the lives lost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2025-07-07 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/da2e87a0-5b27-11f0-960d-e9f1088a89fe.jpg" alt="Memorial service held to mark anniversary of 7/7 London bombings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">Memorial service held to mark anniversary of 7/7 London bombings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale" target="_blank">Apple’s latest AirPods are already on sale for $99 before Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2025-07-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion" target="_blank">Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-07 14:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493942&w=600" alt="A Software Engineer’s Guide to Thrive in Gen AI Era: Master It or Fade Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/a-software-engineers-guide-to-thrive-in-gen-ai-era" target="_blank">A Software Engineer’s Guide to Thrive in Gen AI Era: Master It or Fade Out</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-07 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +218,6 @@
                 <span class="time">2025-07-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-openSIL-Phoenix-Turin-2025" target="_blank">AMD openSIL PoC Still Being Worked On For Phoenix SoCs, Turin Code Published</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/SquidVIPs.jpg" alt="‘Squid Game’ VIP Actor Speaks Out on That Awful English Voiceover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/squid-game-season-3-vips-voice-acting-2000625121" target="_blank">‘Squid Game’ VIP Actor Speaks Out on That Awful English Voiceover</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/812da26c66a39b68b5b6219e6ffd3a8c.jpg" alt="Every Mario Kart World Track Has A Closed-Circuit Version, But It&#x27;s Not Easy To Play Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731" target="_blank">Every Mario Kart World Track Has A Closed-Circuit Version, But It&#x27;s Not Easy To Play Them</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-07 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYF38HFBCFATMGH6QYPQ89VJ/hero-image.png" alt="The &#x27;Walmart Deals&#x27; Sale Is Walmart’s Answer to Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/walmart-deals-sale-prime-day-2025?utm_medium=RSS" target="_blank">The &#x27;Walmart Deals&#x27; Sale Is Walmart’s Answer to Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 17:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c84ca70eaa66c71ef9986ed647851ff4.jpg" alt="18 TV Shows Of 2025 You Need To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazon-smashes-the-price-of-airpods-max-now-at-a-new-all-time-price-for-prime-day-2000625047" target="_blank">Amazon Smashes the Price of AirPods Max, Now at a New All-Time Price for Prime Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-07 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Your laggy PC deserves better – revive it with Windows 11 Pro with this Deal Days offer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/07/your-laggy-pc-deserves-better-revive-it-with-windows-11-pro-with-this-deal-days-offer.html" target="_blank">Your laggy PC deserves better – revive it with Windows 11 Pro with this Deal Days offer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/charger-cables.jpg" alt="Amazon Clears Out 10,000mAh Charger with 4 Built-In Cables, Now Nearly Free for Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-clears-out-10000mah-charger-with-4-built-in-cables-now-nearly-free-for-prime-members-2000624828" target="_blank">Amazon Clears Out 10,000mAh Charger with 4 Built-In Cables, Now Nearly Free for Prime Members</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ8M4H9P5WPHG1T3SKGJGGQC/hero-image.png" alt="13 Easy Ways to Lower Your Energy Bills" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/how-to-save-money-on-your-energy-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Lower Your Energy Bills</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 14:01</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
