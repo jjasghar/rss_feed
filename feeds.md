@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 11:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 12:02:00 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/7/pamplonas-iconic-bull-run-opens-in-spain?traffic_source=rss" target="_blank">Pamplona’s iconic bull run opens in Spain</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76341/up-first-newsletter-texas-flash-flood-trump-benjamin-netanyahu-gaza-ceasefire-tariffs" target="_blank">The latest on the deadly Texas flash flooding. And, U.S. to send new tariff rates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +107,20 @@
                 <span class="time">2025-07-07 06:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/07/us-deportation-men-south-sudan" target="_blank">US completes deportation of eight men to South Sudan after legal wrangling</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-07 06:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76296/israel-netanyahu-meet-trump" target="_blank">Israeli Prime Minister Benjamin Netanyahu to meet President Trump Monday</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 05:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date" target="_blank">Destiny&amp;#8217;s mobile spinoff will arrive in August</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 11:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/ai-towers-hanoi-500x500.jpg" alt="How a big shift in training LLMs led to a capability explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +166,20 @@
                 <span class="time">2025-07-06 17:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025" target="_blank">Here are 33 of our favorite deals from Amazon’s early Prime Day sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-06 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/ceph-rbd-open-source/en/headerimage/ceph-rbd-open-source-header-1751612399293.jpg" alt="Article: Ceph RBD Turns 15: A Story of Open Source Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/ceph-rbd-open-source/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Ceph RBD Turns 15: A Story of Open Source Creation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +187,24 @@
                 <span class="title"><a href="https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh" target="_blank">How We Built a Fully Automated Content Marketing System Using Make (And Why You Should Too)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-Markdown-Import" target="_blank">LibreOffice Begins Landing Markdown File Import Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-07 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=44488810" target="_blank">Ask HN: Any resources for finding non-smart appliances?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-07 10:44</span>
             </div>
         </div>
 <div class="story">
@@ -189,31 +225,18 @@
                 <span class="time">2025-07-07 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbxyck4h9naiezdmdgly.png" alt="How to Track Savings in Power Automate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wyattdave/how-to-track-savings-in-power-automate-1gp7" target="_blank">How to Track Savings in Power Automate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 05:52</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/live-streaming-system-architecture-50kl" target="_blank">Live Streaming System Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jun30-2025/en/headerimage/java-istock-image-01-1751831878147.jpg" alt="Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jun30-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-07 02:30</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/hiding-prompt-injections-in-academic-papers.html" target="_blank">Hiding Prompt Injections in Academic Papers</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-07 11:20</span>
             </div>
         </div>
 </div>
@@ -221,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/macbook-air-2025-midnight.jpg" alt="Exclusively for Prime Members, Amazon Drops the 2025 MacBook Air to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/exclusively-for-prime-members-amazon-drops-the-2025-macbook-air-to-its-lowest-price-ever-2000624776" target="_blank">Exclusively for Prime Members, Amazon Drops the 2025 MacBook Air to Its Lowest Price Ever</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 11:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/Elon-Musk-Donald-Trump-March-22-2025-GettyImages-2206428974-copy.jpg" alt="Trump Declares Musk a “Train Wreck” After Party Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +298,6 @@
                 <span class="time">2025-07-06 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Anker-Prime-Charger.jpg" alt="This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-100w-anker-block-charger-is-nearly-free-amazon-is-selling-them-by-the-pallet-ahead-of-prime-day-2000624646" target="_blank">This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
