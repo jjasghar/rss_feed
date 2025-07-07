@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 19:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-07 20:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump announces 25% tariffs on South Korea and Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump announces 25% tariffs on South Korea and Japan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/7/whats-behind-the-year-of-deadly-anti-government-protests-in-kenya?traffic_source=rss" target="_blank">What’s behind the year of deadly anti-government protests in Kenya?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo" target="_blank">DOJ says no evidence Jeffrey Epstein had a &#x27;client list&#x27; or blackmailed associates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 18:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +108,20 @@
                 <span class="time">2025-07-07 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/da2e87a0-5b27-11f0-960d-e9f1088a89fe.jpg" alt="Names of 7/7 London bombings victims read out at 20th anniversary service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">Names of 7/7 London bombings victims read out at 20th anniversary service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 14:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/7/australian-woman-found-guilty-of-triple-murder-by-mushrooms?traffic_source=rss" target="_blank">Australian woman found guilty of triple murder by mushrooms</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/methane-gas-inside-northern-iraq-cave-kills-12-turkish-soldiers?traffic_source=rss" target="_blank">Methane gas inside northern Iraq cave kills 12 Turkish soldiers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 13:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/" target="_blank">ChatGPT is testing a mysterious new feature called ‘study together’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-07 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +167,6 @@
                 <span class="time">2025-07-07 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208643167-500x500-1751904265.jpg" alt="US may get its own glitchy version of TikTok if Trump’s deal works out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/" target="_blank">US may get its own glitchy version of TikTok if Trump’s deal works out</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +176,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cromatikap/chatgpt-i-chose-my-own-name-3k18" target="_blank">ChatGPT: &quot;I Chose My Own Name&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wmsvserpguide/eaas-the-final-future-of-work-is-fractional-2c33" target="_blank">EaaS: The Final Future of Work is Fractional</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://youtu.be/TiBIjouDGuI" target="_blank">A local Python workflow with uv, just, and direnv</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-07 18:22</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +226,6 @@
                 <span class="time">2025-07-07 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/07/getting-creative-with-coding-challenges/" target="_blank">Getting creative with Coding Challenges</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b" target="_blank">How I Hack a Hacker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +246,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/ecoself-air-purifier.jpg" alt="If You’re Looking to Purify a Large Room, This Air Purifier Is 45% Off Just for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/if-youre-looking-to-purify-a-large-room-this-air-purifier-is-45-off-just-for-prime-day-2000625184" target="_blank">If You’re Looking to Purify a Large Room, This Air Purifier Is 45% Off Just for Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f7fb9beccf3da2efbf2a8b83ca31c07c.jpg" alt="Dune: Awakening: Is Fast Travel Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dune-awakening-fast-travel-solaris-ornithopter-pilot-1851785740" target="_blank">Dune: Awakening: Is Fast Travel Worth It?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-07 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/space-musk-e1740079891175.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump declares Musk &quot;off the rails&quot; as everything Elon tries backfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/07/trump-declares-musk-off-the-rails-as-everything-elon-tries-backfires.html" target="_blank">Trump declares Musk &quot;off the rails&quot; as everything Elon tries backfires</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-07 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZK02JTCRPB66QYWCKMTKJDD/hero-image.png" alt="Apple&#x27;s Newest MacBook Pros Are up to $400 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/macbook-pro-prime-day-2025?utm_medium=RSS" target="_blank">Apple&#x27;s Newest MacBook Pros Are up to $400 Off Ahead of Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 19:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/SquidVIPs.jpg" alt="‘Squid Game’ VIP Actor Speaks Out on That Awful English Voiceover" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -252,42 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731" target="_blank">Every Mario Kart World Track Has A Closed-Circuit Version, But It&#x27;s Not Easy To Play Them</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-07 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYF38HFBCFATMGH6QYPQ89VJ/hero-image.png" alt="The &#x27;Walmart Deals&#x27; Sale Is Walmart’s Answer to Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/walmart-deals-sale-prime-day-2025?utm_medium=RSS" target="_blank">The &#x27;Walmart Deals&#x27; Sale Is Walmart’s Answer to Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c84ca70eaa66c71ef9986ed647851ff4.jpg" alt="18 TV Shows Of 2025 You Need To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606" target="_blank">18 TV Shows Of 2025 You Need To Watch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-07 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZJSCWQFYRSSPP5T20YZH9G1/hero-image.jpg" alt="My Favorite Kitchen Hand Vacuum Is 50% Off Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/shark-wandvac-kitchen-hand-vacuum-deal-early-prime-day-2025?utm_medium=RSS" target="_blank">My Favorite Kitchen Hand Vacuum Is 50% Off Before Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/airpods-max-apple.jpg" alt="Amazon Smashes the Price of AirPods Max, Now at a New All-Time Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-smashes-the-price-of-airpods-max-now-at-a-new-all-time-price-for-prime-day-2000625047" target="_blank">Amazon Smashes the Price of AirPods Max, Now at a New All-Time Price for Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 15:55</span>
             </div>
         </div>
 </div>
@@ -336,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
