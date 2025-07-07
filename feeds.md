@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 01:29:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 02:36:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/camp_1751847099456_hpMain_4x3t_384.jpg" alt="Texas high school says Camp Mystic counselor was among those killed in flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/camp-mystic-counselor-died-texas-flooding-remembered-loyal/story?id=123524812" target="_blank">Texas high school says Camp Mystic counselor was among those killed in flooding</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-07 01:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751845109124_nn_rch_more_than_50_dead_in_texas_after_flooding_250706_1920x1080-o1728b.jpg" alt="Search efforts intensify as Texas flood rescues enter critical phase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/more-than-80-palestinians-killed-across-gaza-as-truce-talks-begin?traffic_source=rss" target="_blank">More than 80 Palestinians killed across Gaza as truce talks begin</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-debris-pile-ap-jt-250705_1751732273113_hpMain_4x3t_384.jpg" alt="Texas flooding updates: Statewide death toll now at least 78, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding updates: Statewide death toll now at least 78, say officials</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-06 22:07</span>
             </div>
         </div>
 </div>
@@ -170,9 +168,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cottancandy1217/the-strategic-navigator-autonomous-competitor-trend-analysis-agent-gpn" target="_blank">The Strategic Navigator: Autonomous Competitor &amp; Trend Analysis Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_a07758c4/art-of-system-integration-make-applications-run-seamlessly-across-different-platforms-5222" target="_blank">Art of System Integration Make Applications Run Seamlessly Across Different Platforms</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/jackjackbits/bitchat" target="_blank">Bitchat – A decentralized messaging app that works over Bluetooth mesh networks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-07 00:05</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko" target="_blank">PaperPulse—Your daily heartbeat on the latest research</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc5" target="_blank">Linux 6.16-rc5 Released With A Performance Fix, Bcachefs Fixes &amp; New Device Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-06 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/hexagonal-architecture-implementation-26ag" target="_blank">Hexagonal Architecture Implementation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 20:45</span>
             </div>
         </div>
 </div>
@@ -307,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
