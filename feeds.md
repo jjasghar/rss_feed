@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 12:02:00 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-07 13:11:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/da2e87a0-5b27-11f0-960d-e9f1088a89fe.jpg" alt="Memorial service held to mark anniversary of 7/7 London bombings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">Memorial service held to mark anniversary of 7/7 London bombings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/7/fifa-club-world-cup-semi-chelsea-vs-fluminense-team-news-start-and-lineup?traffic_source=rss" target="_blank">FIFA Club World Cup semi: Chelsea vs Fluminense team news, start and lineup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 12:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +96,29 @@
                 <span class="time">2025-07-07 09:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/7/timelapse-shows-speed-of-texas-floods?traffic_source=rss" target="_blank">Timelapse shows speed of Texas floods</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/7/what-is-next-for-global-trade-as-trumps-july-9-tariff-deadline-looms?traffic_source=rss" target="_blank">What is next for global trade as Trump’s July 9 tariff deadline looms?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 06:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines" target="_blank">Now you can just tell SmartThings how to automate your home</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/" target="_blank">Ingram Micro says ongoing outage caused by ransomware attack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-07 12:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +155,38 @@
                 <span class="time">2025-07-06 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle" target="_blank">TikTok’s ‘ban’ problem could end soon with a new app and a sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-06 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/" target="_blank">At least 36 new tech unicorns were minted in 2025 so far</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-06 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/07/getting-creative-with-coding-challenges/" target="_blank">Getting creative with Coding Challenges</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493880&w=600" alt="Deploy Serverless Lambdas Confidently Using Canary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/canary-deployments-aws-lambda" target="_blank">Deploy Serverless Lambdas Confidently Using Canary</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Alpha" target="_blank">GNOME 49 Alpha Released With X11 Support Disabled By Default, Many New Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-07 12:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/ceph-rbd-open-source/en/headerimage/ceph-rbd-open-source-header-1751612399293.jpg" alt="Article: Ceph RBD Turns 15: A Story of Open Source Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -196,33 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-Markdown-Import" target="_blank">LibreOffice Begins Landing Markdown File Import Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-07 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=44488810" target="_blank">Ask HN: Any resources for finding non-smart appliances?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-07 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://eugeneyan.com/writing/uncommon-python/" target="_blank">Uncommon Uses of Python in Commonly Used Libraries</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-07 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/azure-foundry-mcp-agents/en/headerimage/generatedHeaderImage-1751652185272.jpg" alt="Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/azure-foundry-mcp-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure AI Foundry Agent Service Gains Model Context Protocol Support In Preview</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-07 10:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
