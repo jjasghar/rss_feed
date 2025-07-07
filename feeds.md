@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 21:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-07 22:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Monday, July 07, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump threatens tariffs on 14 countries from August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump threatens tariffs on 14 countries from August</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump plans 25% tariffs for Japan and South Korea" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +97,29 @@
                 <span class="time">2025-07-07 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bffb/live/48292db0-5b68-11f0-a40e-a1af2950b220.jpg" alt="London remembers 7/7 bombings 20 years on as William lays flowers for victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">London remembers 7/7 bombings 20 years on as William lays flowers for victims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/DSC_5669-500x500.jpg" alt="What would a cheap, Apple A18-powered MacBook actually be good at?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/" target="_blank">What would a cheap, Apple A18-powered MacBook actually be good at?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-07 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/" target="_blank">Fortnite maker Epic Games settles antitrust case against Samsung</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-07 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +156,6 @@
                 <span class="time">2025-07-07 18:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale" target="_blank">Apple’s latest AirPods are already on sale for $99 before Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-07 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs" target="_blank">Nintendo wants to keep ‘traditional approach&amp;#8217; to development as costs skyrocket</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-07 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +168,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-140-ESR-Release" target="_blank">Thunderbird 140 Mail Client Debuts As Newest ESR Release</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-07 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18495350&w=600" alt="How Developers Are Driving Supply Chain Innovation With Modern Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/redefining-supply-chains-through-tech-a-developers" target="_blank">How Developers Are Driving Supply Chain Innovation With Modern Tech</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-07 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +215,6 @@
                 <span class="time">2025-07-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm" target="_blank">How to Build Beautiful GUIs in Golang : 3 Web UI Paths</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZK90SBNF416AGWT8BFGYHNW/hero-image.png" alt="I&#x27;m a Little Embarrassed How Much I Love This Remote Controlled Bidet, and It&#x27;s $270 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/conway-bidetmega-sale-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Little Embarrassed How Much I Love This Remote Controlled Bidet, and It&#x27;s $270 Off Ahead of Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Interview-3.jpg" alt="Despite Losing Batman and Superman, Nicholas Hoult Knew Lex Luthor Was for Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/dune-awakening-fast-travel-solaris-ornithopter-pilot-1851785740" target="_blank">Dune: Awakening: Is Fast Travel Worth It?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-07 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/space-musk-e1740079891175.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump declares Musk &quot;off the rails&quot; as everything Elon tries backfires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/07/trump-declares-musk-off-the-rails-as-everything-elon-tries-backfires.html" target="_blank">Trump declares Musk &quot;off the rails&quot; as everything Elon tries backfires</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-07 19:28</span>
             </div>
         </div>
 </div>
@@ -342,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
