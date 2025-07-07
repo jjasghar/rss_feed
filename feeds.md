@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 18:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 19:02:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +108,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss" target="_blank">Tesla’s real struggles have only just begun</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/wi-fi-data-500x500-1751912395.jpg" alt="Trump and Congress finalize law that could hurt your Wi-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/" target="_blank">Trump and Congress finalize law that could hurt your Wi-Fi</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-07 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6868459c94d1a2a9fc3ffc3d/master/pass/Best%20Travel%20Pillows_.png" alt="The 8 Best Travel Pillows (2025), Tested on Planes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-travel-pillows/" target="_blank">The 8 Best Travel Pillows (2025), Tested on Planes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-07 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale" target="_blank">Apple’s latest AirPods are already on sale for $99 before Prime Day</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-07 17:25</span>
@@ -132,38 +158,20 @@
                 <span class="time">2025-07-07 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685505eab3898de30e5a592b/master/pass/GettyImages-634487984.jpg" alt="Why Jolly Ranchers Are Banned in the UK but Not the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/" target="_blank">Why Jolly Ranchers Are Banned in the UK but Not the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-07 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223835103-500x500.jpg" alt="F1 in Britain: Terrible English summer weather equals entertaining race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/" target="_blank">F1 in Britain: Terrible English summer weather equals entertaining race</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 15:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/" target="_blank">AI is forcing the data industry to consolidate — but that’s not the whole story</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wmsvserpguide/eaas-the-final-future-of-work-is-fractional-2c33" target="_blank">EaaS: The Final Future of Work is Fractional</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493942&w=600" alt="A Software Engineer’s Guide to Thrive in Gen AI Era: Master It or Fade Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/scofieldidehen/how-i-hack-a-hacker-329b" target="_blank">How I Hack a Hacker</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501645&w=600" alt="The QA Paradox: To Save Artificial Intelligence, We Must Stop Blindly Trusting Data—And Start Trusting Human Judgment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/qa-paradox-human-judgment-in-ai" target="_blank">The QA Paradox: To Save Artificial Intelligence, We Must Stop Blindly Trusting Data—And Start Trusting Human Judgment</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-07 15:00</span>
             </div>
         </div>
 </div>
@@ -297,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/07/zzurgoll-take-the-wheel" target="_blank">Zzurgoll Take The Wheel</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-07 16:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1751598426-20250707.png" alt="Saturday Morning Breakfast Cereal - Branch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
