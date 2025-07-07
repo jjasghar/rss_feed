@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 22:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-07 23:01:29 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/trump-hits-asian-nations-with-tariffs-including-allies-japan-south-korea?traffic_source=rss" target="_blank">Trump hits Asian nations with tariffs, including allies Japan, South Korea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 21:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump threatens tariffs on 14 countries from August" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -59,6 +75,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump plans 25% tariffs for Japan and South Korea</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-07 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76373/trump-immigration-tps-nicaragua-honduras" target="_blank">DHS ends Temporary Protected Status for thousands from Nicaragua and Honduras</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 20:22</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +104,29 @@
                 <span class="time">2025-07-07 19:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo" target="_blank">DOJ says no evidence Jeffrey Epstein had a &#x27;client list&#x27; or blackmailed associates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5459755/texas-floods-climate-change" target="_blank">Floods are getting more dangerous around the country, not just in Texas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/" target="_blank">Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-07 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686bf21546cb1e10432594a4/master/pass/antheminterceptor.jpg.adapt.crop16x9.818p.jpg" alt="‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/" target="_blank">‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-07 22:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/DSC_5669-500x500.jpg" alt="What would a cheap, Apple A18-powered MacBook actually be good at?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +163,29 @@
                 <span class="time">2025-07-07 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/wi-fi-data-500x500-1751912395.jpg" alt="Trump and Congress finalize law that could hurt your Wi-Fi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/" target="_blank">Trump and Congress finalize law that could hurt your Wi-Fi</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6868459c94d1a2a9fc3ffc3d/master/pass/Best%20Travel%20Pillows_.png" alt="The 8 Best Travel Pillows (2025), Tested on Planes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-travel-pillows/" target="_blank">The 8 Best Travel Pillows (2025), Tested on Planes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-07 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/U-Boot-2025.07-Released" target="_blank">U-Boot 2025.07 Brings New Code For Apple M1/M2 &amp; Raspberry Pi, exFAT Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-07 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/bash-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Bash 5.3 Release Adds ‘Significant’ New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features" target="_blank">Bash 5.3 Release Adds ‘Significant’ New Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-07 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +222,6 @@
                 <span class="time">2025-07-07 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://youtu.be/TiBIjouDGuI" target="_blank">A local Python workflow with uv, just, and direnv</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-07 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493942&w=600" alt="A Software Engineer’s Guide to Thrive in Gen AI Era: Master It or Fade Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-software-engineers-guide-to-thrive-in-gen-ai-era" target="_blank">A Software Engineer’s Guide to Thrive in Gen AI Era: Master It or Fade Out</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Dune-Part-Two-Paul.jpg" alt="Denis Villeneuve Will Shoot All of ‘Dune Messiah’ in IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/denis-villeneuve-will-shoot-all-of-dune-messiah-in-imax-2000625398" target="_blank">Denis Villeneuve Will Shoot All of ‘Dune Messiah’ in IMAX</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZK90SBNF416AGWT8BFGYHNW/hero-image.png" alt="I&#x27;m a Little Embarrassed How Much I Love This Remote Controlled Bidet, and It&#x27;s $270 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/if-youre-looking-to-purify-a-large-room-this-air-purifier-is-45-off-just-for-prime-day-2000625184" target="_blank">If You’re Looking to Purify a Large Room, This Air Purifier Is 45% Off Just for Prime Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-07 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f7fb9beccf3da2efbf2a8b83ca31c07c.jpg" alt="Dune: Awakening: Is Fast Travel Worth It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dune-awakening-fast-travel-solaris-ornithopter-pilot-1851785740" target="_blank">Dune: Awakening: Is Fast Travel Worth It?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-07 19:50</span>
             </div>
         </div>
 </div>
@@ -343,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
