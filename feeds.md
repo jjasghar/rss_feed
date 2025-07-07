@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 13:11:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-07 14:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Error processing https://garfield.com/feed: The read operation timed out -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/methane-gas-inside-northern-iraq-cave-kills-12-turkish-soldiers?traffic_source=rss" target="_blank">Methane gas inside northern Iraq cave kills 12 Turkish soldiers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/da2e87a0-5b27-11f0-960d-e9f1088a89fe.jpg" alt="Memorial service held to mark anniversary of 7/7 London bombings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,30 +90,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751888177105_tdy_news_7a_dreyer_weather_250707_1920x1080-s6li6q.jpg" alt="More Rain on the Way for Texas Amid Historic Flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/more-heavy-rain-threatens-search-and-rescue-efforts-in-texas-242781253675" target="_blank">More Rain on the Way for Texas Amid Historic Flooding</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-07 11:36</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76341/up-first-newsletter-texas-flash-flood-trump-benjamin-netanyahu-gaza-ceasefire-tariffs" target="_blank">The latest on the deadly Texas flash flooding. And, U.S. to send new tariff rates</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-07 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5455867/trump-dollar-value-debt-currency" target="_blank">Why some see the dollar&#x27;s drop as a sign America is losing its financial might</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/wildfires-erupt-across-mediterranean-as-heatwave-worsens?traffic_source=rss" target="_blank">Wildfires erupt across Mediterranean as heatwave worsens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 09:45</span>
             </div>
         </div>
 </div>
@@ -117,6 +128,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/" target="_blank">Ingram Micro says ongoing outage caused by ransomware attack</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-07 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png" alt="13 Best Wi-Fi Routers of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-wifi-routers/" target="_blank">13 Best Wi-Fi Routers of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-07 12:04</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +164,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10" target="_blank">Windows 11 has finally overtaken Windows 10 as the most used desktop OS</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-07 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/" target="_blank">‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-06 20:58</span>
             </div>
         </div>
 </div>
@@ -188,6 +199,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2506.17298" target="_blank">Mercury: Ultra-Fast Language Models Based on Diffusion</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-07 12:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/ceph-rbd-open-source/en/headerimage/ceph-rbd-open-source-header-1751612399293.jpg" alt="Article: Ceph RBD Turns 15: A Story of Open Source Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,15 +223,6 @@
                 <span class="title"><a href="https://dev.to/alifar/how-we-built-a-fully-automated-content-marketing-system-using-make-and-why-you-should-too-4jbh" target="_blank">How We Built a Fully Automated Content Marketing System Using Make (And Why You Should Too)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LibreOffice-Markdown-Import" target="_blank">LibreOffice Begins Landing Markdown File Import Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-07 10:52</span>
             </div>
         </div>
 </div>
@@ -234,6 +245,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Elon Musk Calls the U.S. Dollar ‘Hopeless,’ Says His America Party Will Embrace Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-calls-the-u-s-dollar-hopeless-says-his-america-party-will-embrace-bitcoin-2000624983" target="_blank">Elon Musk Calls the U.S. Dollar ‘Hopeless,’ Says His America Party Will Embrace Bitcoin</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-07 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/04227a7cd91e7cae0a7ac91bbef1cd3d.png" alt="Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/smash-bros-64-switch-2-online-donkey-kong-glover-1851785699" target="_blank">Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-07 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Lisa-GUI.jpg?fit=1080%2C749&amp;quality=60&amp;ssl=1" alt="Play with a web replica of the Apple Lisa&#x27;s GUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/07/play-with-a-replica-of-the-first-mass-market-gui-computer.html" target="_blank">Play with a web replica of the Apple Lisa&#x27;s GUI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-07 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ8DHNH5ZJ2C9PFYDGKV0J00/hero-image.png" alt="These Are the Best Cordless Landscaping Tools on Sale for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-cordless-lanscape-tool-deals-prime-day-2025?utm_medium=RSS" target="_blank">These Are the Best Cordless Landscaping Tools on Sale for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 13:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/macbook-air-2025-midnight.jpg" alt="Exclusively for Prime Members, Amazon Drops the 2025 MacBook Air to Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -249,42 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-declares-musk-a-train-wreck-after-party-launch-2000624726" target="_blank">Trump Declares Musk a “Train Wreck” After Party Launch</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-07 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/05/7428227263e8804b3a912d7de9572145.jpg" alt="Elon Musk’s “Upgraded” AI Is Spewing Antisemitic Propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-upgraded-ai-is-spewing-antisemitic-propaganda-2000624724" target="_blank">Elon Musk’s “Upgraded” AI Is Spewing Antisemitic Propaganda</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/TikTok-logo-1.jpg" alt="TikTok’s Escape Plan May Be a Brand New App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tiktoks-escape-plan-may-be-a-brand-new-app-2000624710" target="_blank">TikTok’s Escape Plan May Be a Brand New App</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/KeySmart.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bye-bye AirTags! The price just dropped on this card-sized tracker." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/06/bye-bye-airtags-the-price-just-dropped-on-this-card-sized-tracker.html" target="_blank">Bye-bye AirTags! The price just dropped on this card-sized tracker.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JV5DGY2NBXASXT124DVD9ZHB/hero-image.jpg" alt="This JBL Outdoor Speaker Is $130 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-xtreme-4-outdoor-speaker-amazon-sale?utm_medium=RSS" target="_blank">This JBL Outdoor Speaker Is $130 Off Ahead of Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-06 21:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 103 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
