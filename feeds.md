@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 16:01:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-07 17:01:55 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,6 +76,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/7/australian-woman-found-guilty-of-triple-murder-by-mushrooms?traffic_source=rss" target="_blank">Australian woman found guilty of triple murder by mushrooms</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/methane-gas-inside-northern-iraq-cave-kills-12-turkish-soldiers?traffic_source=rss" target="_blank">Methane gas inside northern Iraq cave kills 12 Turkish soldiers</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-07 13:35</span>
@@ -98,20 +99,29 @@
                 <span class="time">2025-07-07 12:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/7/fifa-club-world-cup-semi-chelsea-vs-fluminense-team-news-start-and-lineup?traffic_source=rss" target="_blank">FIFA Club World Cup semi: Chelsea vs Fluminense team news, start and lineup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 12:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs" target="_blank">Nintendo wants to keep ‘traditional approach&amp;#8217; to development as costs skyrocket</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-07 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208643167-500x500-1751904265.jpg" alt="US may get its own glitchy version of TikTok if Trump’s deal works out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/" target="_blank">US may get its own glitchy version of TikTok if Trump’s deal works out</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-07 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685505eab3898de30e5a592b/master/pass/GettyImages-634487984.jpg" alt="Why Jolly Ranchers Are Banned in the UK but Not the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +158,29 @@
                 <span class="time">2025-07-07 14:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines" target="_blank">Now you can just tell SmartThings how to automate your home</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/" target="_blank">Ingram Micro says ongoing outage caused by ransomware attack</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-07 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sfundomhlungu/how-to-build-beautiful-guis-in-golang-3-web-ui-paths-1pjm" target="_blank">How to Build Beautiful GUIs in Golang : 3 Web UI Paths</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18493921&w=600" alt="Tracing Stratoshark’s Roots: From Packet Capture to System Call Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/stratoshark-packet-capture-to-system-call-analysis" target="_blank">Tracing Stratoshark’s Roots: From Packet Capture to System Call Analysis</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,24 +217,6 @@
                 <span class="time">2025-07-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/" target="_blank">Solving Wordle with uv&#x27;s dependency resolver</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-07 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Lenovo-WMI-Gaming-Linux-6.17" target="_blank">Lenovo WMI Gaming Series Drivers Expected To Debut In Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-07 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c84ca70eaa66c71ef9986ed647851ff4.jpg" alt="18 TV Shows Of 2025 You Need To Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606" target="_blank">18 TV Shows Of 2025 You Need To Watch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-07 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZJSCWQFYRSSPP5T20YZH9G1/hero-image.jpg" alt="My Favorite Kitchen Hand Vacuum Is 50% Off Before Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/shark-wandvac-kitchen-hand-vacuum-deal-early-prime-day-2025?utm_medium=RSS" target="_blank">My Favorite Kitchen Hand Vacuum Is 50% Off Before Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-07 16:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/airpods-max-apple.jpg" alt="Amazon Smashes the Price of AirPods Max, Now at a New All-Time Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/home/how-to-save-money-on-your-energy-bills?utm_medium=RSS" target="_blank">13 Easy Ways to Lower Your Energy Bills</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-07 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Elon Musk Calls the U.S. Dollar ‘Hopeless,’ Says His America Party Will Embrace Bitcoin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-calls-the-u-s-dollar-hopeless-says-his-america-party-will-embrace-bitcoin-2000624983" target="_blank">Elon Musk Calls the U.S. Dollar ‘Hopeless,’ Says His America Party Will Embrace Bitcoin</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/04227a7cd91e7cae0a7ac91bbef1cd3d.png" alt="Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/smash-bros-64-switch-2-online-donkey-kong-glover-1851785699" target="_blank">Fans Think Smash Bros. 64 Is Coming To Switch Online Thanks To Months-Old Blurry Backgrounds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-07 13:45</span>
             </div>
         </div>
 </div>
@@ -335,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 111 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
