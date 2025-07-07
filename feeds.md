@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 02:36:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-07 03:28:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 02:36 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/camp-mystic-counselor-died-texas-flooding-remembered-loyal/story?id=123524812" target="_blank">Texas high school says Camp Mystic counselor was among those killed in flooding</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-07 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c48f/live/325c5e20-5ab5-11f0-a090-757f18d89a96.jpg" alt="At least 78 dead and dozens missing in Texas floods as more rain looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cddzrj323zzo" target="_blank">At least 78 dead and dozens missing in Texas floods as more rain looms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-06 23:28</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +90,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/more-than-80-palestinians-killed-across-gaza-as-truce-talks-begin?traffic_source=rss" target="_blank">Israeli forces kill 82 in Gaza; Trump says ceasefire could happen this week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-06 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/6/more-than-80-palestinians-killed-across-gaza-as-truce-talks-begin?traffic_source=rss" target="_blank">More than 80 Palestinians killed across Gaza as truce talks begin</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-06 22:31</span>
             </div>
@@ -168,6 +162,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a07758c4/live-streaming-system-architecture-50kl" target="_blank">Live Streaming System Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jun30-2025/en/headerimage/java-istock-image-01-1751831878147.jpg" alt="Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jun30-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus Legacy Config Classes</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-07 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cottancandy1217/the-strategic-navigator-autonomous-competitor-trend-analysis-agent-gpn" target="_blank">The Strategic Navigator: Autonomous Competitor &amp; Trend Analysis Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-07 02:19</span>
@@ -198,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/member_a07758c4/hyperlane-framework-learning-journey-basic-setup-2pjn" target="_blank">Hyperlane Framework Learning Journey Basic Setup</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-06 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html" target="_blank">A non-anthropomorphized view of LLMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-06 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqjz65t7mgyqbw31qdoy.png" alt="PaperPulse—Your daily heartbeat on the latest research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ifihan/paperpulse-your-daily-heartbeat-on-the-latest-research-46ko" target="_blank">PaperPulse—Your daily heartbeat on the latest research</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 21:51</span>
             </div>
         </div>
 </div>
@@ -305,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
