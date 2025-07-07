@@ -1,26 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-07 05:03:20 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-07 06:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 18 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 07, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 07, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cc/live/0f63fd70-58ed-11f0-852a-fb4f43c1b4cc.jpg" alt="King&#x27;s message of unity for 7/7 attack anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq53jqg2y90o" target="_blank">King&#x27;s message of unity for 7/7 attack anniversary</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 05:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5459280/california-fireworks-warehouse-explosion-bodies-found" target="_blank">Bodies of all 7 missing people found at California fireworks warehouse that exploded</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 05:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/search-efforts-intensify-as-texas-flood-rescues-enter-critical-phase-242763845659" target="_blank">Search efforts intensify as Texas flood rescues enter critical phase</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-06 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/06/nx-s1-5458514/texas-flooding-search-rescue-efforts" target="_blank">Texas officials race to find survivors after devastating floods</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-06 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009f/live/e4439a90-58c6-11f0-9074-8989d8c97d87.png" alt="Is the UK really any safer 20 years on from 7/7?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c14e77je72mo" target="_blank">Is the UK really any safer 20 years on from 7/7?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-06 23:02</span>
             </div>
         </div>
 </div>
@@ -155,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzbxyck4h9naiezdmdgly.png" alt="How to Track Savings in Power Automate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wyattdave/how-to-track-savings-in-power-automate-1gp7" target="_blank">How to Track Savings in Power Automate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-07 05:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,15 +219,6 @@
                 <span class="time">2025-07-07 00:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a07758c4/hyperlane-framework-learning-journey-basic-setup-2pjn" target="_blank">Hyperlane Framework Learning Journey Basic Setup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-06 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -241,6 +252,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/KeySmart.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bye-bye AirTags! The price just dropped on this card-sized tracker." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/06/bye-bye-airtags-the-price-just-dropped-on-this-card-sized-tracker.html" target="_blank">Bye-bye AirTags! The price just dropped on this card-sized tracker.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JV5DGY2NBXASXT124DVD9ZHB/hero-image.jpg" alt="This JBL Outdoor Speaker Is $130 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -256,15 +276,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-100w-anker-block-charger-is-nearly-free-amazon-is-selling-them-by-the-pallet-ahead-of-prime-day-2000624646" target="_blank">This 100W Anker Block Charger Is Nearly Free, Amazon Is Selling Them by the Pallet Ahead of Prime Day</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-06 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/09/d671148892956d273b6e43ae841e1d74.jpg" alt="Elon Musk Deflects Bill Gates’ Foreign Aid Alarm With Personal Swipe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-deflects-bill-gates-foreign-aid-alarm-with-personal-swipe-2000624554" target="_blank">Elon Musk Deflects Bill Gates’ Foreign Aid Alarm With Personal Swipe</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-06 16:55</span>
             </div>
         </div>
 </div>
@@ -295,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
