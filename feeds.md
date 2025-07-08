@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 06:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-08 07:02:16 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/russia-ukraine-war-list-of-key-events-day-1230?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,230</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 06:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +103,20 @@
                 <span class="time">2025-07-08 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eaa/live/fa9292f0-5aac-11f0-92c9-a162c11ad188.jpg" alt="King says France and UK face &#x27;complex threats&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg87y6d5j4o" target="_blank">King says France and UK face &#x27;complex threats&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 23:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/" target="_blank">UAE proptech Huspy raises $59M to scale in Europe</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 06:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/gemini-android-500x500-1751929202.png" alt="Unless users take action, Android will let Gemini access third-party apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2025-07-07 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/DSC_5669-500x500.jpg" alt="What would a cheap, Apple A18-powered MacBook actually be good at?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/" target="_blank">What would a cheap, Apple A18-powered MacBook actually be good at?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +174,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/08/attention-isn-t-all-we-need-we-need-ownership-too/" target="_blank">Attention isn’t all we need; we need ownership too</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-08 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Firzzasw9wrj8x6u8iq9l.png" alt="AI Agents Are Rising: What’s Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m" target="_blank">AI Agents Are Rising: What’s Next?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 06:57</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +221,6 @@
                 <span class="time">2025-07-08 00:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-50o6" target="_blank">Generative and Predictive AI in Application Security: A Comprehensive Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 23:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/For-Gizmodo-AI-Your-Life.jpeg" alt="“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/from-pitch-to-living-room-how-hisense-turns-ai-your-life-into-real-experiences-2000620947" target="_blank">“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +294,6 @@
                 <span class="time">2025-07-07 23:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Dune-Part-Two-Paul.jpg" alt="Denis Villeneuve Will Shoot All of ‘Dune Messiah’ in IMAX" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/denis-villeneuve-will-shoot-all-of-dune-messiah-in-imax-2000625398" target="_blank">Denis Villeneuve Will Shoot All of ‘Dune Messiah’ in IMAX</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +326,13 @@
                 <span class="time">2025-07-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/07/the-malifax" target="_blank">Zzurgoll Take The Wheel</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-07 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
