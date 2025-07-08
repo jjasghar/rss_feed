@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 11:01:43 UTC -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-08 12:02:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/acropolis-closes-as-greece-sizzles-under-another-severe-heatwave?traffic_source=rss" target="_blank">Acropolis closes as Greece sizzles under another severe heatwave</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8f/live/5dd393e0-5be9-11f0-9584-0dcfb55e8671.jpg" alt="French president greeted by King Charles as state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg87y6d5j4o" target="_blank">French president greeted by King Charles as state visit begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-08 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2025-07-08 09:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/three-charged-after-protest-at-israeli-owned-restaurant-in-australia?traffic_source=rss" target="_blank">Three charged after protest at Israeli-owned restaurant in Australia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-india-report/2025/7/8/is-pakistans-messaging-on-india-convincing-anyone?traffic_source=rss" target="_blank">Is Pakistan’s messaging on India convincing anyone?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/sj21-25-500x500.jpg" alt="China jumps ahead in the race to achieve a new kind of reuse in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/" target="_blank">China jumps ahead in the race to achieve a new kind of reuse in space</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 11:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,29 @@
                 <span class="time">2025-07-07 23:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/meta-reportedly-recruits-apples-head-of-ai-models/" target="_blank">Meta reportedly recruits Apple’s head of AI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-07 23:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18495381&w=600" alt="Zero-Trace Paradigm: Emerging Technologies in Personal Data Anonymization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-trace-paradigm-emerging-technologies-in-perso" target="_blank">Zero-Trace Paradigm: Emerging Technologies in Personal Data Anonymization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ardour-Removes-GTK-Option" target="_blank">Ardour Digital Audio Workstation Drops GTK+ Option In Favor Of Its &quot;YTK&quot; Fork</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 10:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,43 +219,20 @@
                 <span class="time">2025-07-08 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Firzzasw9wrj8x6u8iq9l.png" alt="AI Agents Are Rising: What’s Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/ai-agents-are-rising-whats-next-5h2m" target="_blank">AI Agents Are Rising: What’s Next?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj" target="_blank">Un Agente simple para realizar resumen del contenido de sitios web con Embabel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 04:52</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/hiding-prompt-injections-in-academic-papers.html" target="_blank">Hiding Prompt Injections in Academic Papers</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-07 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dyson-hair-dryer.jpg" alt="Dyson Supersonic Hair Dryer Hits a New All-Time Low, but Amazon Offers It Only to Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dyson-supersonic-hair-dryer-hits-a-new-all-time-low-but-amazon-offers-it-only-to-prime-members-2000625565" target="_blank">Dyson Supersonic Hair Dryer Hits a New All-Time Low, but Amazon Offers It Only to Prime Members</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 11:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/seagate-deal.jpg" alt="Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +278,6 @@
                 <span class="time">2025-07-08 04:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/Tim-Cook-iPhone-16-Apple-Intelligence-2.jpg" alt="Apple Reportedly Loses Key AI Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-reportedly-loses-key-ai-mind-2000625461" target="_blank">Apple Reportedly Loses Key AI Mind</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 01:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
