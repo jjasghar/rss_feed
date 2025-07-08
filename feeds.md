@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 20:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 21:01:39 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/us-envoy-steve-witkoff-suggests-gaza-ceasefire-deal-is-close?traffic_source=rss" target="_blank">US envoy Steve Witkoff suggests Gaza ceasefire deal is close</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 20:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +99,29 @@
                 <span class="time">2025-07-08 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/8/un-expert-says-firms-aiding-israels-genocide-can-be-prosecuted?traffic_source=rss" target="_blank">UN expert says firms aiding Israel’s genocide can be prosecuted</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/" target="_blank">Apple COO Jeff Williams to step down later this month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan" target="_blank">One of Tim Cook’s possible successors is leaving Apple</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day" target="_blank">The best Prime Day smart home deals we found</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/gmails-new-manage-subscriptions-tool-will-help-declutter-your-inbox/" target="_blank">Gmail’s new ‘Manage subscriptions’ tool will help declutter your inbox</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699580/waymo-teen-account-phoenix" target="_blank">Waymo introduces teen accounts for the first time in Phoenix</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 17:00</span>
             </div>
         </div>
 </div>
@@ -209,7 +212,7 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384" target="_blank">CVE-2025-48384: Breaking Git with a carriage return and cloning RCE</a></span>
+                <span class="title"><a href="https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384" target="_blank">Breaking Git with a carriage return and cloning RCE</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-08 17:48</span>
             </div>
@@ -219,6 +222,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Robert-Downey-Jr-Laptop.jpg" alt="Watch Robert Downey Jr. Geek Out About ‘Ironheart’ for 14 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-robert-downey-jr-geek-out-about-ironheart-for-14-minutes-2000626163" target="_blank">Watch Robert Downey Jr. Geek Out About ‘Ironheart’ for 14 Minutes</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/77adf61116fa965231d3cc60c4ec8140.jpg" alt="I Played The Horse Girl Gacha Game That&#x27;s Taking The Internet By Storm, And I Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/umamusume-pretty-derby-horse-girl-gacha-game-ludwig-1851785849" target="_blank">I Played The Horse Girl Gacha Game That&#x27;s Taking The Internet By Storm, And I Get It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-08 20:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZNR4N46Y0518Z8B9P013KF0/hero-image.png" alt="This Has Been My Favorite Keyboard for Years, and It&#x27;s 20% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -255,24 +276,6 @@
                 <span class="time">2025-07-08 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZNC919MG553JK7MCT2234T0/hero-image.png" alt="This Vacuum Saved My House From Pet Hair, and It’s $130 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/this-vacuum-saved-my-house-from-pet-hair-prime-day-2025?utm_medium=RSS" target="_blank">This Vacuum Saved My House From Pet Hair, and It’s $130 Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a79e68152efc08c8650c1451f4448b3.jpg" alt="The Pope Just Blessed A Holographic Pokémon Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pope-leo-xiv-pokemon-card-autograph-popplio-meme-1851785788" target="_blank">The Pope Just Blessed A Holographic Pokémon Card</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-08 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
