@@ -1,38 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 16:01:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-08 17:02:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +59,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/8/un-expert-says-firms-aiding-israels-genocide-can-be-prosecuted?traffic_source=rss" target="_blank">UN expert says firms aiding Israel’s genocide can be prosecuted</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/uk-threatens-further-action-against-israel-if-gaza-ceasefire-proposal-fails?traffic_source=rss" target="_blank">UK threatens further action against Israel if Gaza ceasefire proposal fails</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-08 15:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/g-s1-73122/pakistan-india-indus-waters-treaty" target="_blank">With Indus Waters Treaty in the balance, Pakistan braces for more water woes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 15:10</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +109,29 @@
                 <span class="time">2025-07-08 12:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751977350513_now_mnn_jay_gray_texas_floods_latest_250708_1920x1080-v70wdp.jpg" alt="Search and recovery efforts continue in Texas after devastating floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/search-and-recovery-efforts-continue-in-texas-after-devastating-floods-242843205685" target="_blank">Search and recovery efforts continue in Texas after devastating floods</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-08 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/acropolis-closes-as-greece-sizzles-under-another-severe-heatwave?traffic_source=rss" target="_blank">Acropolis closes as Greece sizzles under another severe heatwave</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/699580/waymo-teen-account-phoenix" target="_blank">Waymo introduces teen accounts for the first time in Phoenix</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2214539478-500x500.jpg" alt="What is AGI? Nobody agrees, and it’s tearing Microsoft and OpenAI apart." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/agi-may-be-impossible-to-define-and-thats-a-multibillion-dollar-problem/" target="_blank">What is AGI? Nobody agrees, and it’s tearing Microsoft and OpenAI apart.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +168,29 @@
                 <span class="time">2025-07-08 14:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2026-Rivian-Quad-Motor-first-drive-005-500x500.jpg" alt="Rivian’s new Quad-Motor R1T and R1S beat the competition in any conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/rivians-new-quad-motor-r1t-and-r1s-beat-the-competition-in-any-conditions/" target="_blank">Rivian’s new Quad-Motor R1T and R1S beat the competition in any conditions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale" target="_blank">The best Prime Day deals on charging accessories</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/" target="_blank">Git security vulnerabilities announced</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-08 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18498740&w=600" alt="10 Predictions Shaping the Future of Web Data Extraction Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/web-data-extraction-future-trends-ai-automation" target="_blank">10 Predictions Shaping the Future of Web Data Extraction Services</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,29 +227,29 @@
                 <span class="time">2025-07-08 12:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18495381&w=600" alt="Zero-Trace Paradigm: Emerging Technologies in Personal Data Anonymization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-trace-paradigm-emerging-technologies-in-perso" target="_blank">Zero-Trace Paradigm: Emerging Technologies in Personal Data Anonymization</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ardour-Removes-GTK-Option" target="_blank">Ardour Digital Audio Workstation Drops GTK+ Option In Favor Of Its &quot;YTK&quot; Fork</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/FitBitCharge6.jpg" alt="With Fitbit part of Google, Amazon Is Clearing Out the Fitbit Charge 6 at a New All-Time Low." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/with-fitbit-now-part-of-google-amazon-is-clearing-out-the-fitbit-charge-6-at-a-new-all-time-low-2000625802" target="_blank">With Fitbit part of Google, Amazon Is Clearing Out the Fitbit Charge 6 at a New All-Time Low.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZNC919MG553JK7MCT2234T0/hero-image.png" alt="This Vacuum Saved My House From Pet Hair, and It’s $130 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/this-vacuum-saved-my-house-from-pet-hair-prime-day-2025?utm_medium=RSS" target="_blank">This Vacuum Saved My House From Pet Hair, and It’s $130 Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a79e68152efc08c8650c1451f4448b3.jpg" alt="The Pope Just Blessed A Holographic Pokémon Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +286,6 @@
                 <span class="time">2025-07-08 12:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/background.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="The appeal of old computers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/08/the-appeal-of-old-computers.html" target="_blank">The appeal of old computers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-08 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/dyson-hair-dryer.jpg" alt="Dyson Supersonic Hair Dryer Hits a New All-Time Low, but Amazon Offers It Only to Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dyson-supersonic-hair-dryer-hits-a-new-all-time-low-but-amazon-offers-it-only-to-prime-members-2000625565" target="_blank">Dyson Supersonic Hair Dryer Hits a New All-Time Low, but Amazon Offers It Only to Prime Members</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +309,13 @@
                 <span class="time">2025-07-08 00:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/07/zzurgoll-take-the-wheel" target="_blank">Zzurgoll Take The Wheel</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-07 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
