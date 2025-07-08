@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 08:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 09:02:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/three-charged-after-protest-at-israeli-owned-restaurant-in-australia?traffic_source=rss" target="_blank">Three charged after protest at Israeli-owned restaurant in Australia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 08:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +104,29 @@
                 <span class="time">2025-07-08 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-benjamin-netanyahu_6959766.jpg?20250708041503" alt="Israeli PM nominates Donald Trump for Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israeli-pm-nominates-donald-trump-for-nobel-peace-prize-as-gaza-ceasefire-talks-continue-13393846" target="_blank">Israeli PM nominates Donald Trump for Nobel Peace Prize</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-08 00:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features" target="_blank">Microsoft’s Copilot Plus features might arrive on desktop PCs later this year</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025/" target="_blank">5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-08 08:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +163,20 @@
                 <span class="time">2025-07-07 23:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/tulum-energy-rediscovered-a-forgotten-hydrogen-tech-and-used-it-to-raise-27m/" target="_blank">Tulum Energy rediscovered a forgotten hydrogen tech and used it to raise $27M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686bf21546cb1e10432594a4/master/pass/antheminterceptor.jpg.adapt.crop16x9.818p.jpg" alt="‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/" target="_blank">‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-07 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m" target="_blank">CSS Counting Magic: Converting Counter Values to Variables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 08:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +222,6 @@
                 <span class="time">2025-07-08 02:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-31.1" target="_blank">OBS Studio 31.1 Released With Explicit Sync For PipeWire Screen Capture</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/seagate-deal.jpg" alt="Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-offers-seagate-storage-expansion-card-for-peanuts-prime-day-jackpot-for-xbox-gamers-2000615529" target="_blank">Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 08:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZK9DWWFDF3TK1BQDRS238BH/hero-image.png" alt="The Oura Ring 4 Is on Sale for the First Time Ever During Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/oura-ring-4-prime-day-2025?utm_medium=RSS" target="_blank">The Oura Ring 4 Is on Sale for the First Time Ever During Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/For-Gizmodo-AI-Your-Life.jpeg" alt="“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/apple-reportedly-loses-key-ai-mind-2000625461" target="_blank">Apple Reportedly Loses Key AI Mind</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-08 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tanks.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Fear and chaos as Federal police disrupt a Los Angeles park (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/07/fear-and-chaos-as-federal-police-disrupt-a-los-angeles-park-video.html" target="_blank">Fear and chaos as Federal police disrupt a Los Angeles park (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-08 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/garmin-forerunner-255.jpg" alt="Garmin Is Going Nuts for Prime Day, Forerunner 255 GPS Smartwatch Is Now Almost Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/garmin-is-going-nuts-for-prime-day-forerunner-255-gps-smartwatch-is-now-almost-free-2000625341" target="_blank">Garmin Is Going Nuts for Prime Day, Forerunner 255 GPS Smartwatch Is Now Almost Free</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 23:40</span>
             </div>
         </div>
 </div>
@@ -327,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
