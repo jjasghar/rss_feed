@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 18:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 19:01:40 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/as-deadly-storms-in-texas-subside-eyes-turn-to-govt-response-to-flooding?traffic_source=rss" target="_blank">As deadly storms in Texas subside, eyes turn to gov’t response to floods</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/g-s1-76471/guadalupe-river-texas-flood-map" target="_blank">Graphics: Where the Texas floods happened and how high the waters rose</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,29 @@
                 <span class="time">2025-07-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/uk-threatens-further-action-against-israel-if-gaza-ceasefire-proposal-fails?traffic_source=rss" target="_blank">UK threatens further action against Israel if Gaza ceasefire proposal fails</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/g-s1-73122/pakistan-india-indus-waters-treaty" target="_blank">With Indus Waters Treaty in the balance, Pakistan braces for more water woes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 15:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/activision-took-down-call-of-duty-game-after-pc-players-hacked-says-source/" target="_blank">Activision took down Call of Duty game after PC players hacked, says source</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg" alt="Gmail’s new subscription management is here to declutter your inbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/gmails-new-subscription-management-is-here-to-declutter-your-inbox/" target="_blank">Gmail’s new subscription management is here to declutter your inbox</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +164,38 @@
                 <span class="time">2025-07-08 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp" target="_blank">The best laptop deals we’ve found for Prime Day (so far)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/250326-01_US-Nissan-Range-Teaser-source-500x500.jpg" alt="Nissan feels the effect of US-China trade war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/nissan-feels-the-effect-of-us-china-trade-war/" target="_blank">Nissan feels the effect of US-China trade war</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F504563%2Fb2f3525d-aee9-43c3-bd4a-0f9d8b4ada43.png" alt="Great Vue example project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dbavedb/great-vue-example-project-51g3" target="_blank">Great Vue example project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18500059&w=600" alt="Multiple Stakeholder Management in Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/multiple-stakeholder-management-software-engineering-tips" target="_blank">Multiple Stakeholder Management in Software Engineering</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GlobalFoundaries-MIPS" target="_blank">GlobalFoundries Acquiring MIPS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 17:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,38 +223,20 @@
                 <span class="time">2025-07-08 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/" target="_blank">Git security vulnerabilities announced</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-08 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Transient-Scheduler-Attacks" target="_blank">Linux Patched For Transient Scheduler Attacks &quot;TSA&quot; Impacting AMD CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18498740&w=600" alt="10 Predictions Shaping the Future of Web Data Extraction Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/web-data-extraction-future-trends-ai-automation" target="_blank">10 Predictions Shaping the Future of Web Data Extraction Services</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ61FZ6M5NS1J3JPEVZYRRJ6/hero-image.png" alt="I’m a Food Writer, and These Are My Favorite Prime Day Deals on Kitchen Appliances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/best-kitchen-appliance-deals-prime-day-2025?utm_medium=RSS" target="_blank">I’m a Food Writer, and These Are My Favorite Prime Day Deals on Kitchen Appliances</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/acer-aspire.jpg" alt="This Acer Laptop Costs $249 on Prime Day, but It Should Actually Cost Four Times More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +282,6 @@
                 <span class="time">2025-07-08 13:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b619a6693167c41cf747854fac71e557.png" alt="Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#x27;s Release: &#x27;The Game Is Ready&#x27; [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764" target="_blank">Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#x27;s Release: &#x27;The Game Is Ready&#x27; [Update]</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-08 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
