@@ -1,31 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 02:33:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-08 03:24:54 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 38 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +63,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c2k14n9d8y9o" target="_blank">Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-08 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-benjamin-netanyahu_6959766.jpg?20250708041503" alt="Israeli PM nominates Donald Trump for Nobel Peace Prize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-pm-nominates-donald-trump-for-nobel-peace-prize-as-gaza-ceasefire-talks-continue-13393846" target="_blank">Israeli PM nominates Donald Trump for Nobel Peace Prize</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-08 00:43</span>
             </div>
         </div>
 <div class="story">
@@ -84,15 +108,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/epstein-no-client-list-died-suicide-justice-department-says?traffic_source=rss" target="_blank">Epstein had no ‘client list’, died by suicide, US Justice Department says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-07 23:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5459800/npr-reports-from-texas-kerr-county-which-saw-the-worst-flooding" target="_blank">NPR reports from Texas&#x27; Kerr County, which saw the worst flooding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 22:50</span>
             </div>
         </div>
 </div>
@@ -160,6 +175,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.decryption.net.au/posts/macse30.html" target="_blank">Trying to find meaning in owning an old Mac</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-08 02:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6np1ou2726zoegse17ms.jpg" alt="Devlog#18: Developing games is our dream, but Mom is the reason we never gave up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,21 +220,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/thunderbird-140.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 140 Released with New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/thunderbird-140.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 140 ESR Released with New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/thunderbird-140-release-new-features" target="_blank">Thunderbird 140 Released with New Features</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/thunderbird-140-release-new-features" target="_blank">Thunderbird 140 ESR Released with New Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-07 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/bash-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Bash 5.3 Release Adds ‘Significant’ New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features" target="_blank">Bash 5.3 Release Adds ‘Significant’ New Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-07 21:32</span>
             </div>
         </div>
 </div>
@@ -341,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
