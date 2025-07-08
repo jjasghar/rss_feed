@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 00:04:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 01:29:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eaa/live/fa9292f0-5aac-11f0-92c9-a162c11ad188.jpg" alt="King says France and UK face &#x27;complex threats&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg87y6d5j4o" target="_blank">King says France and UK face &#x27;complex threats&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-07 23:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751930019560_nn_tl_death_toll_rises_to_at_least_104_in_catastrophic_texas_flooding_250707_1920x1080-w9hryg.jpg" alt="Death toll rises to at least 104 in catastrophic Texas flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,37 +72,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/trump-hits-asian-nations-with-tariffs-including-allies-japan-south-korea?traffic_source=rss" target="_blank">Trump hits Asian nations with tariffs, including allies Japan, South Korea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 21:50</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/07/nx-s1-5459800/npr-reports-from-texas-kerr-county-which-saw-the-worst-flooding" target="_blank">NPR reports from Texas&#x27; Kerr County, which saw the worst flooding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-07 22:50</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump threatens tariffs on 14 countries from August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/texas-flood-5-gty-gmh-250707_1751890661281_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Over 100 dead in the state, 11 missing from Camp Mystic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump threatens tariffs on 14 countries from August</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812a/live/db86b610-5b52-11f0-822b-7528a5a0a95d.jpg" alt="Trump plans 25% tariffs for Japan and South Korea" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0vkl31085o" target="_blank">Trump plans 25% tariffs for Japan and South Korea</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-07 20:55</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Over 100 dead in the state, 11 missing from Camp Mystic</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-07 22:02</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/07/g-s1-76373/trump-immigration-tps-nicaragua-honduras" target="_blank">DHS ends Temporary Protected Status for thousands from Nicaragua and Honduras</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-07 20:22</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/trump-hits-asian-nations-with-tariffs-including-allies-japan-south-korea?traffic_source=rss" target="_blank">Trump hits Asian nations with tariffs, including allies Japan, South Korea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-07 21:50</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-31.1" target="_blank">OBS Studio 31.1 Released With Explicit Sync For PipeWire Screen Capture</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lynxfelony1/generative-and-predictive-ai-in-application-security-a-comprehensive-guide-50o6" target="_blank">Generative and Predictive AI in Application Security: A Comprehensive Guide</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +214,6 @@
                 <span class="time">2025-07-07 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cromatikap/chatgpt-i-chose-my-own-name-3k18" target="_blank">ChatGPT: &quot;I Chose My Own Name&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-07 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/Tim-Cook-iPhone-16-Apple-Intelligence-2.jpg" alt="Apple Reportedly Loses Key AI Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-reportedly-loses-key-ai-mind-2000625461" target="_blank">Apple Reportedly Loses Key AI Mind</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 01:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/garmin-forerunner-255.jpg" alt="Garmin Is Going Nuts for Prime Day, Forerunner 255 GPS Smartwatch Is Now Almost Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +287,6 @@
                 <span class="time">2025-07-07 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/424c547015a2de3a12a572e18a7b1d6a.jpg" alt="Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/romero-games-xbox-layoffs-shut-down-canceled-game-1851785765" target="_blank">Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-07 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,22 +328,13 @@
                 <span class="time">2025-07-07 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5607.png" alt="Talking Over One Another" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5607" target="_blank">Talking Over One Another</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-07 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
