@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 01:29:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 02:33:25 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6a/live/2e18d840-5b8a-11f0-b5c5-012c5796682d.jpg" alt="Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k14n9d8y9o" target="_blank">Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-08 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/8/in-taiwan-migrants-flee-oppressive-workplaces-for-life-on-the-periphery?traffic_source=rss" target="_blank">In Taiwan, migrants flee oppressive workplaces for life on the periphery</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 00:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eaa/live/fa9292f0-5aac-11f0-92c9-a162c11ad188.jpg" alt="King says France and UK face &#x27;complex threats&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +95,20 @@
                 <span class="time">2025-07-07 22:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-5-gty-gmh-250707_1751890661281_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Over 100 dead in the state, 11 missing from Camp Mystic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Over 100 dead in the state, 11 missing from Camp Mystic</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-07 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/trump-hits-asian-nations-with-tariffs-including-allies-japan-south-korea?traffic_source=rss" target="_blank">Trump hits Asian nations with tariffs, including allies Japan, South Korea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 21:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/gemini-android-500x500-1751929202.png" alt="Unless users take action, Android will let Gemini access third-party apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/" target="_blank">Unless users take action, Android will let Gemini access third-party apps</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-07 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,20 @@
                 <span class="time">2025-07-07 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/" target="_blank">Fortnite maker Epic Games settles antitrust case against Samsung</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-07 20:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6np1ou2726zoegse17ms.jpg" alt="Devlog#18: Developing games is our dream, but Mom is the reason we never gave up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/khaisimon_devgame/devlog18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-ng5" target="_blank">Devlog#18: Developing games is our dream, but Mom is the reason we never gave up</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 02:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -188,30 +196,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/thunderbird-140.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 140 Released with New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/thunderbird-140-release-new-features" target="_blank">Thunderbird 140 Released with New Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-07 21:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/bash-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Bash 5.3 Release Adds ‘Significant’ New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features" target="_blank">Bash 5.3 Release Adds ‘Significant’ New Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-07 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Thunderbird-140-ESR-Release" target="_blank">Thunderbird 140 Mail Client Debuts As Newest ESR Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-07 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18495350&w=600" alt="How Developers Are Driving Supply Chain Innovation With Modern Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/redefining-supply-chains-through-tech-a-developers" target="_blank">How Developers Are Driving Supply Chain Innovation With Modern Tech</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-07 20:00</span>
             </div>
         </div>
 </div>
@@ -293,6 +292,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5608.png" alt="Do The Right Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5608" target="_blank">Do The Right Thing</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-07-08 00:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
