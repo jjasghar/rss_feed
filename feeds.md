@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 19:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 20:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 19:02 UTC</div>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/8/wildfires-shut-airport-near-marseille-in-france?traffic_source=rss" target="_blank">Wildfires shut airport near Marseille in France</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +96,20 @@
                 <span class="time">2025-07-08 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c2/live/be136270-5c17-11f0-b5c5-012c5796682d.jpg" alt="Gregg Wallace sacked as 50 more people make claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cewgz0qw77lo" target="_blank">Gregg Wallace sacked as 50 more people make claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/701282/gmail-manage-email-subscriptions-unsubscribe" target="_blank">Gmail&amp;#8217;s new tab is made for unsubscribing from emails</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 19:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +155,20 @@
                 <span class="time">2025-07-08 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2214539478-500x500.jpg" alt="What is AGI? Nobody agrees, and it’s tearing Microsoft and OpenAI apart." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/agi-may-be-impossible-to-define-and-thats-a-multibillion-dollar-problem/" target="_blank">What is AGI? Nobody agrees, and it’s tearing Microsoft and OpenAI apart.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kiani0x01/how-nodejs-differs-from-other-server-side-technologies-36oi" target="_blank">How Node.js Differs from Other Server-Side Technologies</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F504563%2Fb2f3525d-aee9-43c3-bd4a-0f9d8b4ada43.png" alt="Great Vue example project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,20 +214,20 @@
                 <span class="time">2025-07-08 17:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/3d673e95-8af6-4aea-bb2d-9842adfd4512_1766x1170.png" alt="Skills useful to learn for robotics engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/skills-useful-to-learn-for-robotics" target="_blank">Skills useful to learn for robotics engineering</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-08 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZNR4N46Y0518Z8B9P013KF0/hero-image.png" alt="This Has Been My Favorite Keyboard for Years, and It&#x27;s 20% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/favorite-logitech-keyboard-20-percent-off-sale-prime-day-2025?utm_medium=RSS" target="_blank">This Has Been My Favorite Keyboard for Years, and It&#x27;s 20% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 19:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ61FZ6M5NS1J3JPEVZYRRJ6/hero-image.png" alt="I’m a Food Writer, and These Are My Favorite Prime Day Deals on Kitchen Appliances" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +273,6 @@
                 <span class="time">2025-07-08 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZMXJPARD18A2VT7R82Z29YF/hero-image.png" alt="This Highly Rated Security Camera Is My Top Budget Pick, and Now It’s Just $55 for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-tplink-security-camera-is-55-for-prime-day-2025?utm_medium=RSS" target="_blank">This Highly Rated Security Camera Is My Top Budget Pick, and Now It’s Just $55 for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
