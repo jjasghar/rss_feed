@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 13:11:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 14:02:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/8/fifa-club-world-cup-semi-real-madrid-vs-psg-team-news-start-and-lineup?traffic_source=rss" target="_blank">FIFA Club World Cup semi: Real Madrid vs PSG team news, start and lineup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 13:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/diogo-jota-was-driving-at-time-of-crash-that-killed-him-and-his-brother-spanish-police-believe-13394066" target="_blank">Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-08 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1751977350513_now_mnn_jay_gray_texas_floods_latest_250708_1920x1080-v70wdp.jpg" alt="Search and recovery efforts continue in Texas after devastating floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/search-and-recovery-efforts-continue-in-texas-after-devastating-floods-242843205685" target="_blank">Search and recovery efforts continue in Texas after devastating floods</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-08 12:22</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +103,29 @@
                 <span class="time">2025-07-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-hunt-texas-flood-mb-1237-6c807a.jpg" alt="Death toll from Texas floods surpasses 100 as hope fades for finding survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/texas-floods-live-updates-death-passes-100-rcna217415" target="_blank">Death toll from Texas floods surpasses 100 as hope fades for finding survivors</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-08 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/in-armenia-a-bitter-dispute-escalates-between-pm-pashinyan-and-the-church?traffic_source=rss" target="_blank">In Armenia, a bitter dispute escalates between PM Pashinyan and the Church</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 10:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale" target="_blank">The best Prime Day deals on charging accessories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1495586319-500x500-1751977737.jpg" alt="It’s Prime Day, and these are the best deals we could hunt down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/shopping/2025/07/its-prime-day-and-these-are-the-best-deals-we-could-hunt-down/" target="_blank">It’s Prime Day, and these are the best deals we could hunt down</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686bd32084bccda9d388fe6d/master/pass/Best%20Macbook%20Accessories.png" alt="22 Best MacBook Accessories (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2025-07-08 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features" target="_blank">Microsoft’s Copilot Plus features might arrive on desktop PCs later this year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025/" target="_blank">5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-08 08:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fan-Control-BMG-Firmware" target="_blank">Fan Control Firmware Updated For Intel Battlemage Graphics Cards On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 13:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,18 +216,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://offchess.com" target="_blank">Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App</a></span>
+                <span class="title"><a href="https://offchess.com" target="_blank">Show HN: OffChess – Offline chess puzzles app</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-08 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rezi/css-counting-magic-converting-counter-values-to-variables-e9m" target="_blank">CSS Counting Magic: Converting Counter Values to Variables</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 08:54</span>
             </div>
         </div>
 </div>
@@ -223,12 +227,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZMXJPARD18A2VT7R82Z29YF/hero-image.png" alt="This Highly Rated Security Camera Is My Top Budget Pick, and Now It’s Just $55 for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-tplink-security-camera-is-55-for-prime-day-2025?utm_medium=RSS" target="_blank">This Highly Rated Security Camera Is My Top Budget Pick, and Now It’s Just $55 for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b619a6693167c41cf747854fac71e557.png" alt="Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#x27;s Release: &#x27;The Game Is Ready&#x27; [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764" target="_blank">Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#x27;s Release: &#x27;The Game Is Ready&#x27; [Update]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-08 13:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZMPPHGEMKXJW4Z7ARRM0N62/hero-image.png" alt="Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-headphones-prime-day-2025?utm_medium=RSS" target="_blank">Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-08 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/background.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="The appeal of old computers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/08/the-appeal-of-old-computers.html" target="_blank">The appeal of old computers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-08 12:24</span>
             </div>
         </div>
 <div class="story">
@@ -247,33 +278,6 @@
                 <span class="title"><a href="https://gizmodo.com/amazon-offers-seagate-storage-expansion-card-for-peanuts-prime-day-jackpot-for-xbox-gamers-2000615529" target="_blank">Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-08 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZK9DWWFDF3TK1BQDRS238BH/hero-image.png" alt="The Oura Ring 4 Is on Sale for the First Time Ever During Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/oura-ring-4-prime-day-2025?utm_medium=RSS" target="_blank">The Oura Ring 4 Is on Sale for the First Time Ever During Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/For-Gizmodo-AI-Your-Life.jpeg" alt="“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/from-pitch-to-living-room-how-hisense-turns-ai-your-life-into-real-experiences-2000620947" target="_blank">“AI YOUR LIFE”, Anywhere: Hisense Transforms Stadium Excitement into Home Immersion</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-reactions-to-james-gunns-superman-are-mostly-super-2000625156" target="_blank">The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 04:03</span>
             </div>
         </div>
 </div>
@@ -313,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
