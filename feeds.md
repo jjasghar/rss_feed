@@ -1,46 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 03:24:54 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-08 04:07:49 UTC -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 38 feeds processed -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -248,12 +231,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-reactions-to-james-gunns-superman-are-mostly-super-2000625156" target="_blank">The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 04:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/Tim-Cook-iPhone-16-Apple-Intelligence-2.jpg" alt="Apple Reportedly Loses Key AI Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/apple-reportedly-loses-key-ai-mind-2000625461" target="_blank">Apple Reportedly Loses Key AI Mind</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-08 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tanks.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Fear and chaos as Federal police disrupt a Los Angeles park (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/07/fear-and-chaos-as-federal-police-disrupt-a-los-angeles-park-video.html" target="_blank">Fear and chaos as Federal police disrupt a Los Angeles park (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-08 01:06</span>
             </div>
         </div>
 <div class="story">
@@ -281,24 +282,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/amazon-scams-prime-day-2025?utm_medium=RSS" target="_blank">Watch Out for These Amazon Prime Day Scams</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-07 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZK90SBNF416AGWT8BFGYHNW/hero-image.png" alt="I&#x27;m a Little Embarrassed How Much I Love This Remote Controlled Bidet, and It&#x27;s $270 Off Ahead of Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/conway-bidetmega-sale-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Little Embarrassed How Much I Love This Remote Controlled Bidet, and It&#x27;s $270 Off Ahead of Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Interview-3.jpg" alt="Despite Losing Batman and Superman, Nicholas Hoult Knew Lex Luthor Was for Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/despite-losing-batman-and-superman-nicholas-hoult-knew-lex-luthor-was-for-him-2000625200" target="_blank">Despite Losing Batman and Superman, Nicholas Hoult Knew Lex Luthor Was for Him</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-07 21:00</span>
             </div>
         </div>
 </div>
@@ -342,22 +325,13 @@
                 <span class="time">2025-07-07 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/geology_murder.png" alt="Geology Murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3112/" target="_blank">Geology Murder</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-07 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 03:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
