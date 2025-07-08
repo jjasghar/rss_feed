@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 22:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/us-envoy-steve-witkoff-suggests-gaza-ceasefire-deal-is-close?traffic_source=rss" target="_blank">US envoy Steve Witkoff suggests Gaza ceasefire deal is close</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-08 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5429615/supreme-court-federal-rifs" target="_blank">Supreme Court allows Trump to resume mass federal layoffs for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 20:13</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +105,29 @@
                 <span class="time">2025-07-08 17:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460898/texas-floods-updates" target="_blank">Texas flood recovery efforts face tough conditions as local officials face hard questions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/rfk-jr-barred-registered-democrats-from-being-vaccine-advisors-lawsuit-says/" target="_blank">RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025/" target="_blank">8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-08 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +164,20 @@
                 <span class="time">2025-07-08 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg" alt="Gmail’s new subscription management is here to declutter your inbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/gmails-new-subscription-management-is-here-to-declutter-your-inbox/" target="_blank">Gmail’s new subscription management is here to declutter your inbox</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day" target="_blank">The best Prime Day smart home deals we found</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501517&w=600" alt="The Rise of the Intelligent AI Agent: Revolutionizing Database Management With Agentic DBA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-dba-ai-database-management" target="_blank">The Rise of the Intelligent AI Agent: Revolutionizing Database Management With Agentic DBA</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-08 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +223,29 @@
                 <span class="time">2025-07-08 17:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384" target="_blank">Breaking Git with a carriage return and cloning RCE</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-08 17:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025 Live Blog: All the Best Deals on Laptops, Fitness Trackers, Appliances, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/amazon-prime-day-07-08-2025-live-blog?utm_medium=RSS" target="_blank">Prime Day 2025 Live Blog: All the Best Deals on Laptops, Fitness Trackers, Appliances, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1659978099aa8f793aad74e005933f26.jpg" alt="The Early Superman Reactions From Critics Are In, And They&#x27;re Mixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/james-gunn-superman-movie-dcu-critic-internet-reactions-1851785857" target="_blank">The Early Superman Reactions From Critics Are In, And They&#x27;re Mixed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-08 21:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Robert-Downey-Jr-Laptop.jpg" alt="Watch Robert Downey Jr. Geek Out About ‘Ironheart’ for 14 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +282,6 @@
                 <span class="time">2025-07-08 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/acer-aspire.jpg" alt="This Acer Laptop Costs $249 on Prime Day, but It Should Actually Cost Four Times More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-acer-laptop-costs-249-on-prime-day-but-it-should-actually-cost-four-times-more-2000625875" target="_blank">This Acer Laptop Costs $249 on Prime Day, but It Should Actually Cost Four Times More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/FitBitCharge6.jpg" alt="With Fitbit part of Google, Amazon Is Clearing Out the Fitbit Charge 6 at a New All-Time Low." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/with-fitbit-now-part-of-google-amazon-is-clearing-out-the-fitbit-charge-6-at-a-new-all-time-low-2000625802" target="_blank">With Fitbit part of Google, Amazon Is Clearing Out the Fitbit Charge 6 at a New All-Time Low.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
