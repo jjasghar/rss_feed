@@ -1,45 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 17:02:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-08 18:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/8/aje-onl-usa_netanyahuvisit_av_v3-080725?traffic_source=rss" target="_blank">Netanyahu meets Trump – Could a Gaza ceasefire deal emerge?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 17:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460898/texas-floods-updates" target="_blank">Texas flood recovery efforts face tough conditions as local officials face hard questions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/8/un-expert-says-firms-aiding-israels-genocide-can-be-prosecuted?traffic_source=rss" target="_blank">UN expert says firms aiding Israel’s genocide can be prosecuted</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-08 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c2/live/be136270-5c17-11f0-b5c5-012c5796682d.jpg" alt="Gregg Wallace sacked as 50 more people make claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewgz0qw77lo" target="_blank">Gregg Wallace sacked as 50 more people make claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-08 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -82,38 +102,29 @@
                 <span class="time">2025-07-08 15:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460886/irs-now-says-pastors-can-endorse-political-candidates" target="_blank">IRS says churches can now endorse political candidates</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/8/fifa-club-world-cup-semi-real-madrid-vs-psg-team-news-start-and-lineup?traffic_source=rss" target="_blank">FIFA Club World Cup semi: Real Madrid vs PSG team news, start and lineup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/diogo-jota-was-driving-at-time-of-crash-that-killed-him-and-his-brother-spanish-police-believe-13394066" target="_blank">Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-08 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day" target="_blank">The best Prime Day smart home deals we found</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/gmails-new-manage-subscriptions-tool-will-help-declutter-your-inbox/" target="_blank">Gmail’s new ‘Manage subscriptions’ tool will help declutter your inbox</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 17:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,24 +161,6 @@
                 <span class="time">2025-07-08 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/" target="_blank">The complete Side Events lineup at TechCrunch All Stage 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686bcfae99b649e456489b06/master/pass/The%20Best%20Tablets%20for%20Work%20and%20Play.png" alt="15 Best Tablets (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-tablets/" target="_blank">15 Best Tablets (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-08 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,10 +169,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/github-recommend/domain-mapping-architecture-43d7" target="_blank">Domain Mapping Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384" target="_blank">CVE-2025-48384: Breaking Git with a carriage return and cloning RCE</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-08 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/3d673e95-8af6-4aea-bb2d-9842adfd4512_1766x1170.png" alt="Skills useful to learn for robotics engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/skills-useful-to-learn-for-robotics" target="_blank">Skills useful to learn for robotics engineering</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-08 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/open-source/git/git-security-vulnerabilities-announced-6/" target="_blank">Git security vulnerabilities announced</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-07-08 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Transient-Scheduler-Attacks" target="_blank">Linux Patched For Transient Scheduler Attacks &quot;TSA&quot; Impacting AMD CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 16:19</span>
             </div>
         </div>
 <div class="story">
@@ -191,47 +220,20 @@
                 <span class="time">2025-07-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/IBM-Power11-Announced" target="_blank">IBM Announces Power11 With &quot;99.9999%&quot; Uptime, 55% Better Core Performance Than Power9</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/amazon-growth-productivity/en/mediumimage/carlos-arguelles-medium-1751622085660.jpeg" alt="Presentation: Inflection Points in Engineering Productivity as Amazon Grew 30x" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/amazon-growth-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Inflection Points in Engineering Productivity as Amazon Grew 30x</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-08 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fan-Control-BMG-Firmware" target="_blank">Fan Control Firmware Updated For Intel Battlemage Graphics Cards On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/capjud95/easy-finance-ai-10po" target="_blank">Easy Finance AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 12:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/acer-aspire.jpg" alt="This Acer Laptop Costs $249 on Prime Day, but It Should Actually Cost Four Times More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-acer-laptop-costs-249-on-prime-day-but-it-should-actually-cost-four-times-more-2000625875" target="_blank">This Acer Laptop Costs $249 on Prime Day, but It Should Actually Cost Four Times More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/FitBitCharge6.jpg" alt="With Fitbit part of Google, Amazon Is Clearing Out the Fitbit Charge 6 at a New All-Time Low." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +279,6 @@
                 <span class="time">2025-07-08 13:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZMPPHGEMKXJW4Z7ARRM0N62/hero-image.png" alt="Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-headphones-prime-day-2025?utm_medium=RSS" target="_blank">Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
