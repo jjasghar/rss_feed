@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 23:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Error processing https://lobste.rs/t/python.rss: The read operation timed out -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-1-ap-er-250707_1751917182483_hpMain_4x3t_384.jpg" alt="Kerr County plan labeled flash flooding &#x27;highly likely&#x27; with &#x27;major&#x27; impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/kerr-county-plan-labeled-flash-flooding-highly-major/story?id=123589576" target="_blank">Kerr County plan labeled flash flooding &#x27;highly likely&#x27; with &#x27;major&#x27; impact</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-08 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +104,29 @@
                 <span class="time">2025-07-08 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/8/aje-onl-usa_netanyahuvisit_av_v3-080725?traffic_source=rss" target="_blank">Netanyahu meets Trump – Could a Gaza ceasefire deal emerge?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/701705/apple-tim-cook-design-team-report" target="_blank">Apple&amp;#8217;s design team will report to Tim Cook</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 22:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2218358432-500x500.jpg" alt="Grok praises Hitler, gives credit to Musk for removing “woke filters”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/grok-praises-hitler-gives-credit-to-musk-for-removing-woke-filters/" target="_blank">Grok praises Hitler, gives credit to Musk for removing “woke filters”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 22:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +163,20 @@
                 <span class="time">2025-07-08 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/701282/gmail-manage-email-subscriptions-unsubscribe" target="_blank">Gmail&amp;#8217;s new tab is made for unsubscribing from emails</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/activision-took-down-call-of-duty-game-after-pc-players-hacked-says-source/" target="_blank">Activision took down Call of Duty game after PC players hacked, says source</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faeea9menenfg3ijkcd24.jpg" alt="Brevity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oculus42/brevity-2ljp" target="_blank">Brevity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 22:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501517&w=600" alt="The Rise of the Intelligent AI Agent: Revolutionizing Database Management With Agentic DBA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,6 +193,15 @@
                 <span class="title"><a href="https://dev.to/kiani0x01/how-nodejs-differs-from-other-server-side-technologies-36oi" target="_blank">How Node.js Differs from Other Server-Side Technologies</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-08 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 31.1 Adds Linux Multitrack Video Support + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/obs-studio-31-1-whats-new" target="_blank">OBS Studio 31.1 Adds Linux Multitrack Video Support + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-08 19:37</span>
             </div>
         </div>
 <div class="story">
@@ -205,29 +222,29 @@
                 <span class="time">2025-07-08 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GlobalFoundaries-MIPS" target="_blank">GlobalFoundries Acquiring MIPS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/github-recommend/domain-mapping-architecture-43d7" target="_blank">Domain Mapping Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/sandisk2tb.jpg" alt="This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-samsung-2tb-external-ssd-costs-almost-nothing-on-prime-day-only-0-055-per-gb-2000626247" target="_blank">This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-08 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZNZ7JKVJ5AEMNPRMNF9Z92Y/hero-image.png" alt="I Have Always Trusted DeWalt Cordless Tools, and They’re up to 61% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dewalt-cordless-tools-sale-prime-day-2025?utm_medium=RSS" target="_blank">I Have Always Trusted DeWalt Cordless Tools, and They’re up to 61% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 22:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025 Live Blog: All the Best Deals on Laptops, Fitness Trackers, Appliances, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +281,6 @@
                 <span class="time">2025-07-08 20:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZNR4N46Y0518Z8B9P013KF0/hero-image.png" alt="This Has Been My Favorite Keyboard for Years, and It&#x27;s 20% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/favorite-logitech-keyboard-20-percent-off-sale-prime-day-2025?utm_medium=RSS" target="_blank">This Has Been My Favorite Keyboard for Years, and It&#x27;s 20% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ61FZ6M5NS1J3JPEVZYRRJ6/hero-image.png" alt="I’m a Food Writer, and These Are My Favorite Prime Day Deals on Kitchen Appliances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/best-kitchen-appliance-deals-prime-day-2025?utm_medium=RSS" target="_blank">I’m a Food Writer, and These Are My Favorite Prime Day Deals on Kitchen Appliances</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 18:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
