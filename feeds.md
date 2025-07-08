@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 04:07:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 05:02:16 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 04:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/us-to-send-more-weapons-to-ukraine-trump-says?traffic_source=rss" target="_blank">US to send more weapons to Ukraine, Trump says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 04:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6a/live/2e18d840-5b8a-11f0-b5c5-012c5796682d.jpg" alt="Trump upbeat on Gaza ceasefire talks as he hosts Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +104,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/death-toll-rises-to-at-least-104-in-catastrophic-texas-flooding-242820677510" target="_blank">Death toll rises to at least 104 in catastrophic Texas flooding</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-07 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/7/epstein-no-client-list-died-suicide-justice-department-says?traffic_source=rss" target="_blank">Epstein had no ‘client list’, died by suicide, US Justice Department says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-07 23:11</span>
             </div>
         </div>
 </div>
@@ -160,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/08/attention-isn-t-all-we-need-we-need-ownership-too/" target="_blank">Attention isn’t all we need; we need ownership too</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-08 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abadongutierrez/un-agente-simple-para-realizar-resumen-del-contenido-de-sitios-web-con-embabel-11oj" target="_blank">Un Agente simple para realizar resumen del contenido de sitios web con Embabel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://blog.decryption.net.au/posts/macse30.html" target="_blank">Trying to find meaning in owning an old Mac</a></span>
                 <span class="feed">Hacker News</span>
@@ -193,24 +224,6 @@
                 <span class="time">2025-07-07 23:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/U-Boot-2025.07-Released" target="_blank">U-Boot 2025.07 Brings New Code For Apple M1/M2 &amp; Raspberry Pi, exFAT Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-07 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/thunderbird-140.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 140 ESR Released with New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/thunderbird-140-release-new-features" target="_blank">Thunderbird 140 ESR Released with New Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-07 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +250,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-first-reactions-to-james-gunns-superman-are-mostly-super-2000625156" target="_blank">The First Reactions to James Gunn’s ‘Superman’ Are Mostly Super</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-08 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZK4KABZ68931BS0QWF1VV19/hero-image.webp" alt="I&#x27;ve Never Seen the Boox Note Air 4C Go on Sale Before, but It&#x27;s Discounted for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/boox-note-air-4c-deal-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;ve Never Seen the Boox Note Air 4C Go on Sale Before, but It&#x27;s Discounted for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 04:01</span>
             </div>
         </div>
 <div class="story">
@@ -273,15 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/denis-villeneuve-will-shoot-all-of-dune-messiah-in-imax-2000625398" target="_blank">Denis Villeneuve Will Shoot All of ‘Dune Messiah’ in IMAX</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZK0XNG9KH9MY42TS1NCB3J2/hero-image.png" alt="Watch Out for These Amazon Prime Day Scams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/amazon-scams-prime-day-2025?utm_medium=RSS" target="_blank">Watch Out for These Amazon Prime Day Scams</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-07 22:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
