@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 12:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-08 13:11:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/diogo-jota-was-driving-at-time-of-crash-that-killed-him-and-his-brother-spanish-police-believe-13394066" target="_blank">Diogo Jota was driving at time of crash that killed him and his brother, Spanish police believe</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-08 12:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,37 +75,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/in-armenia-a-bitter-dispute-escalates-between-pm-pashinyan-and-the-church?traffic_source=rss" target="_blank">In Armenia, a bitter dispute escalates between PM Pashinyan and the Church</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 10:09</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/07/08/g-s1-76032/planet-money-guide-5-fascinating-new-econ-papers" target="_blank">A Planet Money guide to 5 fascinating new econ papers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 11:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-2-ap-er-250707_1751917182302_hpMain_4x3t_384.jpg" alt="Hard-hit Texas county had no flood warning sirens despite years of discussions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-hunt-texas-flood-mb-1237-6c807a.jpg" alt="Death toll from Texas floods surpasses 100 as hope fades for finding survivors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/hard-hit-texas-county-flood-warning-sirens-despite/story?id=123531823" target="_blank">Hard-hit Texas county had no flood warning sirens despite years of discussions</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-08 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd41/live/abbd5bc0-5bb4-11f0-a40e-a1af2950b220.jpg" alt="Hamas used sexual violence as part of &#x27;genocidal strategy&#x27;, Israeli experts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1mz8gxzg82o" target="_blank">Hamas used sexual violence as part of &#x27;genocidal strategy&#x27;, Israeli experts say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-08 09:46</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/texas-floods-live-updates-death-passes-100-rcna217415" target="_blank">Death toll from Texas floods surpasses 100 as hope fades for finding survivors</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-08 10:51</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460768/trump-ukraine-weapons-zelenskyy-putin-war" target="_blank">Trump says U.S. will resume sending weapons to Ukraine after pausing last week</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 09:18</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/in-armenia-a-bitter-dispute-escalates-between-pm-pashinyan-and-the-church?traffic_source=rss" target="_blank">In Armenia, a bitter dispute escalates between PM Pashinyan and the Church</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 10:09</span>
             </div>
         </div>
 </div>
@@ -106,6 +104,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686bd32084bccda9d388fe6d/master/pass/Best%20Macbook%20Accessories.png" alt="22 Best MacBook Accessories (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-macbook-accessories/" target="_blank">22 Best MacBook Accessories (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-08 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/the-vergecast/697623/vergecast-headphone-mic-test-ladder-ceo-sony-nothing-apple-bose" target="_blank">A quest for the best headphone mics</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/why-this-los-angeles-vc-firm-was-an-early-investor-in-slate-auto/" target="_blank">Why this LA-based VC firm was an early investor in Slate Auto</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/sj21-25-500x500.jpg" alt="China jumps ahead in the race to achieve a new kind of reuse in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +158,20 @@
                 <span class="time">2025-07-08 08:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/" target="_blank">UAE proptech Huspy raises $59M to scale in Europe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="10% Home Depot Promo Codes &amp; Coupons | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/home-depot-promo-code/" target="_blank">10% Home Depot Promo Codes &amp; Coupons | July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-08 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/gemini-android-500x500-1751929202.png" alt="Unless users take action, Android will let Gemini access third-party apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/" target="_blank">Unless users take action, Android will let Gemini access third-party apps</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-07 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/capjud95/easy-finance-ai-10po" target="_blank">Easy Finance AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 12:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18495381&w=600" alt="Zero-Trace Paradigm: Emerging Technologies in Personal Data Anonymization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,20 +217,20 @@
                 <span class="time">2025-07-08 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/08/attention-isn-t-all-we-need-we-need-ownership-too/" target="_blank">Attention isn’t all we need; we need ownership too</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-08 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZMPPHGEMKXJW4Z7ARRM0N62/hero-image.png" alt="Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/bose-quietcomfort-headphones-prime-day-2025?utm_medium=RSS" target="_blank">Bose&#x27;s QuietComfort Headphones Are Down to an All-Time Low Price for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-08 12:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/dyson-hair-dryer.jpg" alt="Dyson Supersonic Hair Dryer Hits a New All-Time Low, but Amazon Offers It Only to Prime Members" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +276,6 @@
                 <span class="time">2025-07-08 04:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZK4KABZ68931BS0QWF1VV19/hero-image.webp" alt="I&#x27;ve Never Seen the Boox Note Air 4C Go on Sale Before, but It&#x27;s Discounted for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/boox-note-air-4c-deal-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;ve Never Seen the Boox Note Air 4C Go on Sale Before, but It&#x27;s Discounted for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-08 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
