@@ -1,39 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 14:02:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-08 15:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 08, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +56,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460886/irs-now-says-pastors-can-endorse-political-candidates" target="_blank">IRS says churches can now endorse political candidates</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 14:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,21 +102,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8f/live/5dd393e0-5be9-11f0-9584-0dcfb55e8671.jpg" alt="French president greeted by King Charles as state visit begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-report-dinah_6960035.jpg?20250708134017" alt="&#x27;Widespread sexual violence&#x27; took place during Hamas&#x27;s 7 October attacks, report by Israeli experts says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg87y6d5j4o" target="_blank">French president greeted by King Charles as state visit begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-08 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/07/08/g-s1-76032/planet-money-guide-5-fascinating-new-econ-papers" target="_blank">A Planet Money guide to 5 fascinating new econ papers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 11:00</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/widespread-sexual-violence-took-place-during-hamass-7-october-attacks-report-by-israeli-experts-says-13394006" target="_blank">&#x27;Widespread sexual violence&#x27; took place during Hamas&#x27;s 7 October attacks, report by Israeli experts says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-08 11:26</span>
             </div>
         </div>
 </div>
@@ -108,6 +115,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/the-complete-side-events-lineup-at-techcrunch-all-stage-2025/" target="_blank">The complete Side Events lineup at TechCrunch All Stage 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686bcfae99b649e456489b06/master/pass/The%20Best%20Tablets%20for%20Work%20and%20Play.png" alt="15 Best Tablets (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-tablets/" target="_blank">15 Best Tablets (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-08 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2026-Rivian-Quad-Motor-first-drive-005-500x500.jpg" alt="Rivian’s new Quad-Motor R1T and R1S beat the competition in any conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/rivians-new-quad-motor-r1t-and-r1s-beat-the-competition-in-any-conditions/" target="_blank">Rivian’s new Quad-Motor R1T and R1S beat the competition in any conditions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-08 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +169,29 @@
                 <span class="time">2025-07-08 13:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/the-vergecast/697623/vergecast-headphone-mic-test-ladder-ceo-sony-nothing-apple-bose" target="_blank">A quest for the best headphone mics</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/why-this-los-angeles-vc-firm-was-an-early-investor-in-slate-auto/" target="_blank">Why this LA-based VC firm was an early investor in Slate Auto</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/sj21-25-500x500.jpg" alt="China jumps ahead in the race to achieve a new kind of reuse in space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/" target="_blank">China jumps ahead in the race to achieve a new kind of reuse in space</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/IBM-Power11-Announced" target="_blank">IBM Announces Power11 With &quot;99.9999%&quot; Uptime, 55% Better Core Performance Than Power9</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/amazon-growth-productivity/en/mediumimage/carlos-arguelles-medium-1751622085660.jpeg" alt="Presentation: Inflection Points in Engineering Productivity as Amazon Grew 30x" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/amazon-growth-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Inflection Points in Engineering Productivity as Amazon Grew 30x</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-08 14:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +228,20 @@
                 <span class="time">2025-07-08 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-1" target="_blank">What our users make with Ubuntu Pro &amp;#8211; Episode 1</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-08 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://offchess.com" target="_blank">Show HN: OffChess – Offline chess puzzles app</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-08 08:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a79e68152efc08c8650c1451f4448b3.jpg" alt="The Pope Just Blessed A Holographic Pokémon Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pope-leo-xiv-pokemon-card-autograph-popplio-meme-1851785788" target="_blank">The Pope Just Blessed A Holographic Pokémon Card</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-08 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZMXJPARD18A2VT7R82Z29YF/hero-image.png" alt="This Highly Rated Security Camera Is My Top Budget Pick, and Now It’s Just $55 for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +287,6 @@
                 <span class="time">2025-07-08 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/seagate-deal.jpg" alt="Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-offers-seagate-storage-expansion-card-for-peanuts-prime-day-jackpot-for-xbox-gamers-2000615529" target="_blank">Amazon Offers Seagate Storage Expansion Card for Peanuts, Prime Day Jackpot for Xbox Gamers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 08:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
