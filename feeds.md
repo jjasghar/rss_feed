@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 13:11:49 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-09 14:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/georgia-eloise-jones-abc-jef-250709_1752062361782_hpMain_4x3t_384.jpg" alt="First the rain, then the flood: How Camp Mystic campers woke to devastation on July 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/rain-flood-camp-mystic-campers-woke-devastation-july/story?id=123601858" target="_blank">First the rain, then the flood: How Camp Mystic campers woke to devastation on July 4</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 12:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/b20b4d50-5cb0-11f0-960d-e9f1088a89fe.jpg" alt="Blood scandal victims &#x27;harmed further&#x27; by compensation delays" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +94,20 @@
                 <span class="time">2025-07-09 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/9/christian-horner-sacked-by-red-bull-racing-f1-team?traffic_source=rss" target="_blank">Christian Horner sacked by Red Bull Racing F1 team</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/google-brings-gemini-to-wear-os-watches-adds-ai-mode-to-circle-to-search/" target="_blank">Google brings Gemini to Wear OS watches, adds AI Mode to Circle to Search</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +153,29 @@
                 <span class="time">2025-07-09 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/702255/call-of-duty-wwii-pc-game-pass-hacking-activision" target="_blank">Activision pulls Call of Duty game after PC players are hacked</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-09 09:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.6" target="_blank">Miracle-WM 0.6 Brings Many Improvements For This Mir-Based Wayland Compositor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-09 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514" target="_blank">&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501643&w=600" alt="The Battle of the Frameworks: Choosing the Right Tech Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="time">2025-07-09 11:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Chromium-Skia-Graphite" target="_blank">Google Developing Skia &quot;Graphite&quot; For Faster Chrome: Multi-Threaded + Modern Graphics APUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Figma&#x27;s $300,000 Daily AWS Bill Highlights Cloud Dependency Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/figma-aws-300k-daily-bill/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Figma&#x27;s $300,000 Daily AWS Bill Highlights Cloud Dependency Risks</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-09 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,12 +241,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/339279990b482976f5dd58f5292330b4.jpg" alt="Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stalker-2-ps5-pro-patch-bugs-xbox-release-date-1851785879" target="_blank">Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-09 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZPRXFFBR443RNCVSJXMVJ8J/hero-image.jpg" alt="The Best iPad for Kids Is at Its Lowest Price Yet for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-ipad-for-kids-prime-day-2025?utm_medium=RSS" target="_blank">The Best iPad for Kids Is at Its Lowest Price Yet for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Cobolli-vs-Djokovic-Live-Stream-Free-Channel.jpg" alt="How to Watch Cobolli vs Djokovic on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/how-to-watch-cobolli-vs-djokovic-on-a-free-channel-2000626469" target="_blank">How to Watch Cobolli vs Djokovic on a Free Channel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Macintosh-control-panel.png?fit=512%2C342&amp;quality=55&amp;ssl=1" alt="A history of Mac settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/a-history-of-mac-settings.html" target="_blank">A history of Mac settings</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-09 12:54</span>
             </div>
         </div>
 <div class="story">
@@ -269,33 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-discover-secret-weapon-that-allows-pythons-to-digest-bones-2000626079" target="_blank">Scientists Discover Secret Weapon That Allows Pythons to Digest Bones</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-09 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025: Live Updates on 50+ Best Deals for E-Readers, Tools, Appliances, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/amazon-prime-day-07-09-2025-live-blog?utm_medium=RSS" target="_blank">Prime Day 2025: Live Updates on 50+ Best Deals for E-Readers, Tools, Appliances, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 04:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZPJMKAVEJD69A1CK9XTDDG3/hero-image.jpg" alt="This SodaStream Makes the Best Carbonated Water, and It&#x27;s Nearly Half Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/sodastream-terra-sparkling-water-maker-sale-prime-day-2025?utm_medium=RSS" target="_blank">This SodaStream Makes the Best Carbonated Water, and It&#x27;s Nearly Half Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZPDMCSEEAPZSKC2RTYW2CTJ/hero-image.png" alt="I Use the Ninja Creami to Satisfy My Nightly Sweet Tooth, and It&#x27;s $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/ninja-creami-sale-walmart-prime-day-2025?utm_medium=RSS" target="_blank">I Use the Ninja Creami to Satisfy My Nightly Sweet Tooth, and It&#x27;s $30 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 02:13</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
