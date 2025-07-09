@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 14:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-07-09 15:01:41 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462613/africa-leaders-trump-white-house-china-minerals-oil" target="_blank">What&#x27;s on the table for the  5 African Presidents meeting Trump at the White House?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/09/south-sudan-us-deported-men" target="_blank">South Sudan says eight deportees from the US are under government care</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-09 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/georgia-eloise-jones-abc-jef-250709_1752062361782_hpMain_4x3t_384.jpg" alt="First the rain, then the flood: How Camp Mystic campers woke to devastation on July 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +101,29 @@
                 <span class="time">2025-07-09 11:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752059534573_tdy_news_7a_chesky_texas_250709_1920x1080-vie21z.jpg" alt="Satellite Images Show Scope of Devastation From Texas Floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/floods-in-texas-scale-of-devastation-comes-into-focus-242923077644" target="_blank">Satellite Images Show Scope of Devastation From Texas Floods</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-09 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/g-s1-76699/up-first-newsletter-texas-floods-gaza-israel-ukraine-russia-federal-layoffs" target="_blank">Over 160 people still missing after Texas floods. And, federal layoffs can now resume</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/" target="_blank">Perplexity launches Comet, an AI-powered web browser</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/702653/x-ceo-linda-yaccarino-elon-musk" target="_blank">X CEO Linda Yaccarino is stepping down after two years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 14:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +160,38 @@
                 <span class="time">2025-07-09 12:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/clips/686b639b38087d19315e9e5b/master/pass/4-%20Apple%20Deals.mp4" alt="Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-apple-deals-2025-1/" target="_blank">Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1258495344-500x500.jpg" alt="Wildfires are challenging air quality monitoring infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/wildfires-are-challenging-air-quality-monitoring-infrastructure/" target="_blank">Wildfires are challenging air quality monitoring infrastructure</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html" target="_blank">Tree Borrows</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/llm-ai-agents/en/mediumimage/infoqlive-540x400-1751881899008.jpg" alt="Presentation: AI Agents &amp; LLMs: Scaling the Next Wave of Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/llm-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI Agents &amp; LLMs: Scaling the Next Wave of Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-09 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-RHEL-Business-Devs" target="_blank">Red Hat Announces No-Cost RHEL For Business Developers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-09 14:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/how-to-choose-the-right-tech-stack" target="_blank">The Battle of the Frameworks: Choosing the Right Tech Stack</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-SR-IOV-PTL-ARL-State" target="_blank">Intel SR-IOV Support Ready For Panther Lake Graphics But Some Current Platforms Left Behind</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fiona_martinez_3d96681f5b/gift-nifty-tracking-sectoral-stock-activity-across-pharma-energy-and-tech-10al" target="_blank">Gift Nifty: Tracking Sectoral Stock Activity Across Pharma, Energy, and Tech</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/" target="_blank">Why I don&#x27;t ride the AI Hype Train</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-09 11:29</span>
             </div>
         </div>
 </div>
@@ -240,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e9ca65ed296a319b8dfdb07a6cd2d331.png" alt="Call Of Duty: WW2 Pulled From Microsoft Store Just Days After Joining Game Pass Because Of Players Getting Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-duty-ww2-hack-rce-exploit-game-pass-pc-offline-1851785883" target="_blank">Call Of Duty: WW2 Pulled From Microsoft Store Just Days After Joining Game Pass Because Of Players Getting Hacked</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-09 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/339279990b482976f5dd58f5292330b4.jpg" alt="Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +301,6 @@
                 <span class="time">2025-07-09 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/burmese-python.jpg" alt="Scientists Discover Secret Weapon That Allows Pythons to Digest Bones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-discover-secret-weapon-that-allows-pythons-to-digest-bones-2000626079" target="_blank">Scientists Discover Secret Weapon That Allows Pythons to Digest Bones</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
