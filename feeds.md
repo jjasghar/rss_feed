@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-08 23:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 00:05:06 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 08, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5460033/in-kerrville-community-rushes-in-to-help-after-flooding" target="_blank">In Kerrville, community rushes in to help after flooding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-08 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752014708590_now_hallie_161_missing_250707_1920x1080-c2efzy.jpg" alt="Texas governor says at least 161 people missing after floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/texas-governor-says-at-least-161-people-missing-after-floods-242900037921" target="_blank">Texas governor says at least 161 people missing after floods</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-08 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/irans-fm-araghchi-saudi-crown-prince-mbs-hold-fruitful-talks-in-jeddah?traffic_source=rss" target="_blank">Iran’s FM Araghchi, Saudi Crown Prince MBS hold ‘fruitful’ talks in Jeddah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-08 22:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/texas-1-ap-er-250707_1751917182483_hpMain_4x3t_384.jpg" alt="Kerr County plan labeled flash flooding &#x27;highly likely&#x27; with &#x27;major&#x27; impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +97,20 @@
                 <span class="time">2025-07-08 20:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/8/wildfires-shut-airport-near-marseille-in-france?traffic_source=rss" target="_blank">Wildfires shut airport near Marseille in France</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/as-deadly-storms-in-texas-subside-eyes-turn-to-govt-response-to-flooding?traffic_source=rss" target="_blank">As deadly storms in Texas subside, eyes turn to gov’t response to floods</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/g-s1-76471/guadalupe-river-texas-flood-map" target="_blank">Graphics: Where the Texas floods happened and how high the waters rose</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686d896b87a471341a733f84/master/pass/Grok-AntiSemetic-Tweets-Business-2218892225.jpg" alt="Grok Is Spewing Antisemitic Garbage on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grok-antisemitic-posts-x-xai/" target="_blank">Grok Is Spewing Antisemitic Garbage on X</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-08 23:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,6 +130,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/" target="_blank">Rivian spinoff Also raises another $200M to build e-bikes and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-08 22:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,24 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025/" target="_blank">8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-08 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/" target="_blank">Apple COO Jeff Williams to step down later this month</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan" target="_blank">One of Tim Cook’s possible successors is leaving Apple</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-08 20:54</span>
             </div>
         </div>
 </div>
@@ -309,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
