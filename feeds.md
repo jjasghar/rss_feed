@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 18:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-09 19:02:01 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 18:01 UTC</div>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19a/live/7d7c4d10-5cf0-11f0-a40e-a1af2950b220.jpg" alt="Search for survivors after Houthis sink second Red Sea cargo ship in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3071vp2d8yo" target="_blank">Search for survivors after Houthis sink second Red Sea cargo ship in a week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-09 18:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +94,29 @@
                 <span class="time">2025-07-09 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462613/africa-leaders-trump-white-house-china-minerals-oil" target="_blank">What&#x27;s on the table for the  5 African Presidents meeting Trump at the White House?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 14:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686c0003a2353df8cd8f6b56/master/pass/3.jpg" alt="New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/" target="_blank">New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-09 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_green_1-500x500.jpg" alt="AI mania pushes Nvidia to record $4 trillion valuation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/" target="_blank">AI mania pushes Nvidia to record $4 trillion valuation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/prime-day-beauty-deals-july-2025-1/" target="_blank">Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-09 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/" target="_blank">How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/" target="_blank">Perplexity launches Comet, an AI-powered web browser</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 15:00</span>
             </div>
         </div>
 </div>
@@ -252,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Studio-Trigger-Prime-Video-New-Panty-Stocking-With-Garterbelt-Anime-Review.jpg" alt="Studio Trigger Anime ‘New Panty &amp; Stocking with Garterbelt’ Is a Raunchy, Foul-Mouthed Riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/studio-trigger-anime-new-panty-stocking-with-garterbelt-is-a-raunchy-foul-mouthed-riot-2000626852" target="_blank">Studio Trigger Anime ‘New Panty &amp; Stocking with Garterbelt’ Is a Raunchy, Foul-Mouthed Riot</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-30-at-11.12.29-PM-e1752086623582.png?fit=600%2C295&amp;quality=55&amp;ssl=1" alt="&quot;Cyberpunk: Edgerunners&quot; gets a second season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/cyberpunk-edgerunners-gets-a-second-season.html" target="_blank">&quot;Cyberpunk: Edgerunners&quot; gets a second season</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-09 18:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/NothingEar.jpg" alt="ANC Nothing Earbuds With ChatGPT Integration Cost Nothing for Prime Day, Lowest Price Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,24 +294,6 @@
                 <span class="time">2025-07-09 16:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1be8a297848f2b0cebb2e49f5fa6103f.jpg" alt="2017&#x27;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-battlefront-2-2017-best-selling-game-may-2025-1851785893" target="_blank">2017&#x27;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-09 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/SanDisk-256GB-Extreme-PRO-SDXC-UHS-II-Memory-Card.jpg" alt="Prime Day Is the Prime Time to Add a SanDisk Memory Card to Your Camera or Laptop for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/prime-day-is-the-prime-time-to-add-a-sandisk-memory-card-to-your-camera-or-laptop-for-peanuts-2000626074" target="_blank">Prime Day Is the Prime Time to Add a SanDisk Memory Card to Your Camera or Laptop for Peanuts</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
