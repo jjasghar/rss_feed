@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 20:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 21:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-07/nebula-cms-fallback-logos-breaking-4ad6c4.png" alt="Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-hits-brazil-50-percent-tariff-citing-ex-president-jair-bolsonaro-rcna217859" target="_blank">Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-09 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-12-rt-gmh-250708_1751977135219_hpMain_4x3t_384.jpg" alt="Texas county hard-hit by floods had contract, meeting set for warning system" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/texas-flood-kickoff-meeting-kerr-county-warning-system/story?id=123622025" target="_blank">Texas county hard-hit by floods had contract, meeting set for warning system</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-benjamin-netanyahu_6959766.jpg?20250708091001" alt="IDF chief says conditions &#x27;created&#x27; for Gaza ceasefire - as Trump says it could be &#x27;this week or next&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/idf-chief-says-conditions-created-for-gaza-ceasefire-as-trump-says-it-could-be-this-week-or-next-13394738" target="_blank">IDF chief says conditions &#x27;created&#x27; for Gaza ceasefire - as Trump says it could be &#x27;this week or next&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-09 19:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +100,29 @@
                 <span class="time">2025-07-09 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19a/live/7d7c4d10-5cf0-11f0-a40e-a1af2950b220.jpg" alt="Search for survivors after Houthis sink second Red Sea cargo ship in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3071vp2d8yo" target="_blank">Search for survivors after Houthis sink second Red Sea cargo ship in a week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-09 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/9/trump-issues-new-tariffs-for-six-countries-including-iraq-and-the-philippines?traffic_source=rss" target="_blank">Trump issues new tariffs for six countries, including Iraq and the Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462728/x-linda-yaccarino-elon-musk" target="_blank">Linda Yaccarino steps down after a turbulent two years leading X</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 17:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1186369127-500x500.jpg" alt="Cloudflare wants Google to change its AI search crawling. Google likely won’t." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/" target="_blank">Cloudflare wants Google to change its AI search crawling. Google likely won’t.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani" target="_blank">The Columbia hack is a much bigger deal than Mamdani’s college application</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 20:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +159,29 @@
                 <span class="time">2025-07-09 18:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day" target="_blank">The best 4K TV deals during Prime Day 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2192344962-500x500-1752076609.jpg" alt="Linda Yaccarino quits X without saying why, one day after Grok praised Hitler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/linda-yaccarino-quits-x-without-saying-why-one-day-after-grok-praised-hitler/" target="_blank">Linda Yaccarino quits X without saying why, one day after Grok praised Hitler</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/ubuntu-raspberry-pi.jpg?resize=406%2C232&amp;ssl=1" alt="The Way Ubuntu Boots on Raspberry Pi is Changing in 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-raspberry-pi-boot-process-change" target="_blank">The Way Ubuntu Boots on Raspberry Pi is Changing in 25.10</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-09 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j" target="_blank">JavaScript Map - Explicação detalhada, casos e exemplos de uso</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,37 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/snap-stanford/Biomni" target="_blank">Biomni: A General-Purpose Biomedical AI Agent</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon" target="_blank">What is a Principal Engineer at Amazon? With Steve Huynh</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-09 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504255&w=600" alt="Advanced Insight Generation: Revolutionizing Data Ingestion for AI-Powered Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-search-azure-openai-document-indexing" target="_blank">Advanced Insight Generation: Revolutionizing Data Ingestion for AI-Powered Search</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/product_/buying-windows-11-keys-in-2025-best-sellers-reviewed-and-ranked-57l8" target="_blank">Buying Windows 11 Keys in 2025: Best Sellers Reviewed and Ranked</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/" target="_blank">Beyond prompt crafting: How to be a better partner for your AI pair programmer</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-09 16:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/Screenshot-2024-11-22-at-7.03.26-PM-e1752093084434.png?fit=600%2C413&amp;quality=55&amp;ssl=1" alt="&quot;I AM BLEEDING INTERNALLY&quot; is the feel-bad song of the summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/i-am-bleeding-internally-is-the-feel-bad-song-of-the-summer.html" target="_blank">&quot;I AM BLEEDING INTERNALLY&quot; is the feel-bad song of the summer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-09 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9b95b4fe5edc0014141fab03e4bbc8c3.jpg" alt="Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +300,6 @@
                 <span class="time">2025-07-09 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cfffdf93e5f6e2d9e5cfda1ceeed323a.jpg" alt="Everything In Destiny 2 Is Free Right Now If You Can Convince Anyone To Play With You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/destiny-2-free-final-shape-edge-fate-expansion-ps5-1851785927" target="_blank">Everything In Destiny 2 Is Free Right Now If You Can Convince Anyone To Play With You</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-09 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
