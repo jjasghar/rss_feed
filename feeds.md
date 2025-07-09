@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 21:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 22:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/9/palestinian-children-killed-at-ghf-aid-sites-in-gaza?traffic_source=rss" target="_blank">Palestinian children killed at GHF aid sites in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/09/trump-liberian-president-english" target="_blank">Trump praises English of the leader of Liberia – where English is the official language</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-09 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-07/nebula-cms-fallback-logos-breaking-4ad6c4.png" alt="Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +94,20 @@
                 <span class="time">2025-07-09 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-12-rt-gmh-250708_1751977135219_hpMain_4x3t_384.jpg" alt="Texas flood: Kickoff meeting for Kerr County warning system project had been planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/texas-flood-kickoff-meeting-kerr-county-warning-system/story?id=123622025" target="_blank">Texas flood: Kickoff meeting for Kerr County warning system project had been planned</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-09 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/us-sanctions-un-expert-albanese-over-israel-criticism?traffic_source=rss" target="_blank">US sanctions UN expert Albanese over Israel criticism</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025" target="_blank">The best Prime Day 2025 deals you can still get</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 21:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1186369127-500x500.jpg" alt="Cloudflare wants Google to change its AI search crawling. Google likely won’t." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/" target="_blank">New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-09 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_green_1-500x500.jpg" alt="AI mania pushes Nvidia to record $4 trillion valuation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/" target="_blank">AI mania pushes Nvidia to record $4 trillion valuation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 18:35</span>
             </div>
         </div>
 </div>
@@ -247,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZREH4V4AA6BBD26ERTB4BFH/hero-image.png" alt="I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/wireless-solar-camera-prime-day-2025?utm_medium=RSS" target="_blank">I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 20:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/Screenshot-2024-11-22-at-7.03.26-PM-e1752093084434.png?fit=600%2C413&amp;quality=55&amp;ssl=1" alt="&quot;I AM BLEEDING INTERNALLY&quot; is the feel-bad song of the summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -291,15 +294,6 @@
                 <span class="time">2025-07-09 18:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/NothingEar.jpg" alt="ANC Nothing Earbuds With ChatGPT Integration Cost Nothing for Prime Day, Lowest Price Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/editing-these-nothing-earbuds-with-chatgpt-integration-dropped-40-for-prime-day-2000625844" target="_blank">ANC Nothing Earbuds With ChatGPT Integration Cost Nothing for Prime Day, Lowest Price Since Launch</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,7 +332,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
