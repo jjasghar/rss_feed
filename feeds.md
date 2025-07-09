@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 16:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 17:02:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 16:01 UTC</div>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/9/houthis-release-video-of-red-sea-ship-attack-and-sinking?traffic_source=rss" target="_blank">Houthis release video of Red Sea ship attack and sinking</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,29 @@
                 <span class="time">2025-07-09 12:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4144/live/d7e8f9c0-5cae-11f0-ae37-a7df7603ca40.jpg" alt="Ukraine suffers heaviest attack as Trump criticises Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2k19q4j07zo" target="_blank">Ukraine suffers heaviest attack as Trump criticises Putin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-09 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2192344962-500x500-1752076609.jpg" alt="Linda Yaccarino quits X without saying why, one day after Grok praised Hitler" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/linda-yaccarino-quits-x-without-saying-why-one-day-after-grok-praised-hitler/" target="_blank">Linda Yaccarino quits X without saying why, one day after Grok praised Hitler</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/" target="_blank">Apple looks to bid on becoming US home for Formula 1</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 16:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +157,20 @@
                 <span class="time">2025-07-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/moroccan-founder-raises-4-2m-for-her-yc-backed-startup-building-the-next-layer-of-ai-search/" target="_blank">Moroccan founder raises $4.2M for her YC-backed startup building the next layer of AI search</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/LOW-RES_Spectrum-Lift-off-c-Isar-Aerospace-Brady-Kenniston-NASASpaceflight.com-2-500x500.jpg" alt="Sizing up the 5 companies selected for Europe’s launcher challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/sizing-up-the-5-companies-selected-for-europes-launcher-challenge/" target="_blank">Sizing up the 5 companies selected for Europe’s launcher challenge</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/product_/buying-windows-11-keys-in-2025-best-sellers-reviewed-and-ranked-57l8" target="_blank">Buying Windows 11 Keys in 2025: Best Sellers Reviewed and Ranked</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 16:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,37 +192,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9005-7601" target="_blank">AMD&#x27;s Epic Performance Gains From The Original EPYC 7601 To EPYC 9755 / EPYC 9965</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-09 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/amarok-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Amarok 3.3 Released with Qt 6, GStreamer Audio Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/amarok-3-3-released-with-qt-6-gstreamer-audio-engine" target="_blank">Amarok 3.3 Released with Qt 6, GStreamer Audio Engine</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-09 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html" target="_blank">Tree Borrows</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-09 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/llm-ai-agents/en/mediumimage/infoqlive-540x400-1751881899008.jpg" alt="Presentation: AI Agents &amp; LLMs: Scaling the Next Wave of Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/llm-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI Agents &amp; LLMs: Scaling the Next Wave of Automation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-09 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-RHEL-Business-Devs" target="_blank">Red Hat Announces No-Cost RHEL For Business Developers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 14:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.6" target="_blank">Miracle-WM 0.6 Brings Many Improvements For This Mir-Based Wayland Compositor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 13:54</span>
             </div>
         </div>
 </div>
@@ -244,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Dyson-Purifier-Cool™-TP07-Smart-Air-Purifier-and-Fan.jpg" alt="We’re Blown Away by This Dyson Purifier Cool Fan Deal Cutting Nearly 50% for Amazon Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/were-blown-away-by-this-dyson-purifier-cool-fan-deal-cutting-nearly-50-for-amazon-prime-day-2000625908" target="_blank">We’re Blown Away by This Dyson Purifier Cool Fan Deal Cutting Nearly 50% for Amazon Prime Day</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1be8a297848f2b0cebb2e49f5fa6103f.jpg" alt="2017&#x27;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,20 +298,20 @@
                 <span class="time">2025-07-09 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Cobolli-vs-Djokovic-Live-Stream-Free-Channel.jpg" alt="How to Watch Cobolli vs Djokovic on a Free Channel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-cobolli-vs-djokovic-on-a-free-channel-2000626469" target="_blank">How to Watch Cobolli vs Djokovic on a Free Channel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1751942799-20250715.png" alt="Saturday Morning Breakfast Cereal - Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/special-4" target="_blank">Saturday Morning Breakfast Cereal - Special</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -317,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
