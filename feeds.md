@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 11:01:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +51,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/9/christian-horner-sacked-by-red-bull-racing-f1-team?traffic_source=rss" target="_blank">Christian Horner sacked by Red Bull Racing F1 team</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/camp-mystic-main_1752056247742_hpMain_4x3t_384.jpg" alt="Inspectors signed off on Camp Mystic&#x27;s emergency plans days before flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/inspectors-signed-off-camp-mystics-emergency-plans-days/story?id=123601635" target="_blank">Inspectors signed off on Camp Mystic&#x27;s emergency plans days before flooding</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/9/who-better-than-trump-for-the-nobel-peace-prize?traffic_source=rss" target="_blank">Who better than Trump for the Nobel Peace Prize?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-09 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5487/live/5a3c5200-5c5a-11f0-a40e-a1af2950b220.jpg" alt="Gregg Wallace warned not to &#x27;say women made it up&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5knz7ve6o" target="_blank">Gregg Wallace warned not to &#x27;say women made it up&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-09 09:23</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5460018/antidepressant-ssri-side-effects-withdrawal-symptoms" target="_blank">After quitting antidepressants, some people suffer surprising, lingering symptoms</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ruidoso-main_1752046103553_hpMain_4x3t_384.jpg" alt="3 dead, including 2 children, in New Mexico flooding, local authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/deadly-new-mexico-flooding-rio-ruidoso/story?id=123599023" target="_blank">3 dead, including 2 children, in New Mexico flooding, local authorities say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-09 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462195/impostor-ai-impersonate-rubio-foreign-officials" target="_blank">Impostor uses AI to impersonate Rubio and contact foreign and U.S. officials</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-adam-parsons-john-south-sudan_6960589.png?20250708235641" alt="Sky News met people from across the world at a migrant camp in Dunkirk - all but one want to come to the UK. Here&#x27;s why..." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-do-so-many-from-around-the-world-try-to-cross-the-english-channel-13394345" target="_blank">Sky News met people from across the world at a migrant camp in Dunkirk - all but one want to come to the UK. Here&#x27;s why...</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-09 05:02</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Chromium-Skia-Graphite" target="_blank">Google Developing Skia &quot;Graphite&quot; For Faster Chrome: Multi-Threaded + Modern Graphics APUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-09 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Figma&#x27;s $300,000 Daily AWS Bill Highlights Cloud Dependency Risks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/figma-aws-300k-daily-bill/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Figma&#x27;s $300,000 Daily AWS Bill Highlights Cloud Dependency Risks</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-09 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sfundomhlungu/how-to-master-databases-and-data-systems-with-javascript-examples-2501" target="_blank">How To Master Databases and Data Systems with JavaScript Examples.</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm" target="_blank">Helm local code execution via a malicious chart – CVE-2025-53547</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-09 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F452gvanjqk70gio7gzn8.png" alt="Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_kiran/creative-toolbox-your-new-favorite-visual-tool-for-devs-creators-4od" target="_blank">Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pratham_naik_project_manager/-5ca8" target="_blank">Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 04:42</span>
             </div>
         </div>
 </div>
@@ -297,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/09/horseplay" target="_blank">Horseplay</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-09 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1751598495-20250708.png" alt="Saturday Morning Breakfast Cereal - Crystals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -310,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
