@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 02:34:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-09 03:26:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 02:34 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 03:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-5-rt-er-250707_1751920363733_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: State OK&#x27;d camp&#x27;s emergency plans 2 days before floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: State OK&#x27;d camp&#x27;s emergency plans 2 days before floods</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/trump-blasts-maga-focus-on-jeffrey-epstein-after-memo-causes-uproar?traffic_source=rss" target="_blank">Trump blasts MAGA focus on Jeffrey Epstein after memo causes uproar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/irans-fm-araghchi-saudi-crown-prince-mbs-hold-fruitful-talks-in-jeddah?traffic_source=rss" target="_blank">Iran’s FM Araghchi, Saudi Crown Prince MBS hold ‘fruitful’ talks in Jeddah</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-08 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-1-ap-er-250707_1751917182483_hpMain_4x3t_384.jpg" alt="Kerr County plan labeled flash flooding &#x27;highly likely&#x27; with &#x27;major&#x27; impact" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/kerr-county-plan-labeled-flash-flooding-highly-major/story?id=123589576" target="_blank">Kerr County plan labeled flash flooding &#x27;highly likely&#x27; with &#x27;major&#x27; impact</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-08 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/us-envoy-steve-witkoff-suggests-gaza-ceasefire-deal-is-close?traffic_source=rss" target="_blank">US envoy Steve Witkoff suggests Gaza ceasefire deal is close</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 20:16</span>
             </div>
         </div>
 </div>
@@ -248,6 +246,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2188218335.jpg" alt="The Hidden Cost of OpenAI’s Genius" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-hidden-cost-of-openais-genius-2000626374" target="_blank">The Hidden Cost of OpenAI’s Genius</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 01:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/sandisk2tb.jpg" alt="This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +290,6 @@
                 <span class="time">2025-07-08 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Robert-Downey-Jr-Laptop.jpg" alt="Watch Robert Downey Jr. Geek Out About ‘Ironheart’ for 14 Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-robert-downey-jr-geek-out-about-ironheart-for-14-minutes-2000626163" target="_blank">Watch Robert Downey Jr. Geek Out About ‘Ironheart’ for 14 Minutes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:34 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
