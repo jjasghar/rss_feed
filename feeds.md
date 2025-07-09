@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 01:29:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 02:34:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/trump-netanyahu-meet-for-a-second-time-to-discuss-a-gaza-ceasefire?traffic_source=rss" target="_blank">Trump, Israel’s Netanyahu meet for a second time about a ceasefire in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/us-envoy-steve-witkoff-suggests-gaza-ceasefire-deal-is-close?traffic_source=rss" target="_blank">US envoy Steve Witkoff suggests Gaza ceasefire deal is close</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-08 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/08/nx-s1-5429615/supreme-court-federal-rifs" target="_blank">Supreme Court allows Trump to resume mass federal layoffs for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-08 20:13</span>
             </div>
         </div>
 </div>
@@ -164,11 +166,29 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Amarok-3.3-Released" target="_blank">Amarok 3.3 Released With The Music Player Ported To Qt6 / KDE Frameworks 6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-08 22:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faeea9menenfg3ijkcd24.jpg" alt="Brevity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/oculus42/brevity-2ljp" target="_blank">Brevity</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-07-08 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Floating Mini Panel GNOME Extension Adds Auto Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/floating-mini-panel-gnome-extension-automatic-mode" target="_blank">Floating Mini Panel GNOME Extension Adds Auto Mode</a></span>
+                <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-08 22:25</span>
             </div>
         </div>
@@ -199,22 +219,18 @@
                 <span class="time">2025-07-08 19:37</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F504563%2Fb2f3525d-aee9-43c3-bd4a-0f9d8b4ada43.png" alt="Great Vue example project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dbavedb/great-vue-example-project-51g3" target="_blank">Great Vue example project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18500059&w=600" alt="Multiple Stakeholder Management in Software Engineering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/multiple-stakeholder-management-software-engineering-tips" target="_blank">Multiple Stakeholder Management in Software Engineering</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-08 18:00</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/" target="_blank">Microsoft Patch Tuesday, July 2025 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-09 00:53</span>
             </div>
         </div>
 </div>
@@ -222,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZPDMCSEEAPZSKC2RTYW2CTJ/hero-image.png" alt="I Use the Ninja Creami to Satisfy My Nightly Sweet Tooth, and It&#x27;s $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/ninja-creami-sale-walmart-prime-day-2025?utm_medium=RSS" target="_blank">I Use the Ninja Creami to Satisfy My Nightly Sweet Tooth, and It&#x27;s $30 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 02:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/sandisk2tb.jpg" alt="This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +292,6 @@
                 <span class="time">2025-07-08 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/77adf61116fa965231d3cc60c4ec8140.jpg" alt="I Played The Horse Girl Gacha Game That&#x27;s Taking The Internet By Storm, And I Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/umamusume-pretty-derby-horse-girl-gacha-game-ludwig-1851785849" target="_blank">I Played The Horse Girl Gacha Game That&#x27;s Taking The Internet By Storm, And I Get It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-08 20:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
