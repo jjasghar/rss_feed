@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 11:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-09 12:02:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4144/live/d7e8f9c0-5cae-11f0-ae37-a7df7603ca40.jpg" alt="Ukraine suffers heaviest attack as Trump criticises Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2k19q4j07zo" target="_blank">Ukraine suffers heaviest attack as Trump criticises Putin</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-09 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/9/us-mercenaries-linked-to-ghf-fund-engaged-in-horrific?traffic_source=rss" target="_blank">US mercenaries linked to GHF fund “engaged in horrific crimes”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752059534573_tdy_news_7a_chesky_texas_250709_1920x1080-vie21z.jpg" alt="Satellite Images Show Scope of Devastation From Texas Floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/floods-in-texas-scale-of-devastation-comes-into-focus-242923077644" target="_blank">Satellite Images Show Scope of Devastation From Texas Floods</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-09 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/g-s1-76699/up-first-newsletter-texas-floods-gaza-israel-ukraine-russia-federal-layoffs" target="_blank">Over 160 people still missing after Texas floods. And, federal layoffs can now resume</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 10:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,47 +101,29 @@
                 <span class="time">2025-07-09 10:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/9/who-better-than-trump-for-the-nobel-peace-prize?traffic_source=rss" target="_blank">Who better than Trump for the Nobel Peace Prize?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5487/live/5a3c5200-5c5a-11f0-a40e-a1af2950b220.jpg" alt="Gregg Wallace warned not to &#x27;say women made it up&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5knz7ve6o" target="_blank">Gregg Wallace warned not to &#x27;say women made it up&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-09 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5459868/tennis-history-evolution-wimbledon" target="_blank">Baseline knowledge: Where tennis comes from and how the game has changed</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5460018/antidepressant-ssri-side-effects-withdrawal-symptoms" target="_blank">After quitting antidepressants, some people suffer surprising, lingering symptoms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/clips/686b639b38087d19315e9e5b/master/pass/4-%20Apple%20Deals.mp4" alt="Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-apple-deals-2025-1/" target="_blank">Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-09 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1258495344-500x500.jpg" alt="Wildfires are challenging air quality monitoring infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/wildfires-are-challenging-air-quality-monitoring-infrastructure/" target="_blank">Wildfires are challenging air quality monitoring infrastructure</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +160,20 @@
                 <span class="time">2025-07-09 01:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals" target="_blank">The best Apple deals available for Amazon Prime Day 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-09 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c0003a2353df8cd8f6b56/master/pass/3.jpg" alt="LIVE Amazon Prime Day 2025: We&#x27;re Tracking Deals &amp; Trends All Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-live-in-25/" target="_blank">LIVE Amazon Prime Day 2025: We&#x27;re Tracking Deals &amp; Trends All Day</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 00:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/" target="_blank">Why I don&#x27;t ride the AI Hype Train</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 11:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +219,20 @@
                 <span class="time">2025-07-09 05:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm" target="_blank">Helm local code execution via a malicious chart – CVE-2025-53547</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-09 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/yet-another-strava-privacy-leak.html" target="_blank">Yet Another Strava Privacy Leak</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-09 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/roborock-q7-m5plus.jpg" alt="Amazon Is Going Nuts, The Roborock Q7 M5+ Has Only Been Available for a Week and Is Now 45% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-is-going-nuts-the-roborock-q7-m5-has-only-been-available-for-a-week-and-is-now-45-off-2000626460" target="_blank">Amazon Is Going Nuts, The Roborock Q7 M5+ Has Only Been Available for a Week and Is Now 45% Off</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 11:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/burmese-python.jpg" alt="Scientists Discover Secret Weapon That Allows Pythons to Digest Bones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +301,6 @@
                 <span class="time">2025-07-09 01:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/It-is-what-it-is.jpg?fit=2016%2C1080&amp;quality=60&amp;ssl=1" alt="Elon Musk&#x27;s Grok chatbot praises Hitler, calls for new holocaust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/08/elon-musks-grok-chatbot-praises-hitler-calls-for-new-holocaust.html" target="_blank">Elon Musk&#x27;s Grok chatbot praises Hitler, calls for new holocaust</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-08 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
