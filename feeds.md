@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 09:03:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-09 10:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/9/who-better-than-trump-for-the-nobel-peace-prize?traffic_source=rss" target="_blank">Who better than Trump for the Nobel Peace Prize?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 09:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5459868/tennis-history-evolution-wimbledon" target="_blank">Baseline knowledge: Where tennis comes from and how the game has changed</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +100,20 @@
                 <span class="time">2025-07-09 05:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-adam-parsons-john-south-sudan_6960589.png?20250708235641" alt="Why do so many from around the world try to cross the English Channel?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/why-do-so-many-from-around-the-world-try-to-cross-the-english-channel-13394345" target="_blank">Why do so many from around the world try to cross the English Channel?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-09 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/south-korea-repatriates-six-north-koreans-picked-up-at-sea?traffic_source=rss" target="_blank">South Korea repatriates six North Koreans picked up at sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 04:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/702255/call-of-duty-wwii-pc-game-pass-hacking-activision" target="_blank">Activision pulls Call of Duty game after PC players are hacked</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 09:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +159,38 @@
                 <span class="time">2025-07-09 00:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d896b87a471341a733f84/master/pass/Grok-AntiSemetic-Tweets-Business-2218892225.jpg" alt="Grok Is Spewing Antisemitic Garbage on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grok-antisemitic-posts-x-xai/" target="_blank">Grok Is Spewing Antisemitic Garbage on X</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-08 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sfundomhlungu/how-to-master-databases-and-data-systems-with-javascript-examples-2501" target="_blank">How To Master Databases and Data Systems with JavaScript Examples.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/raising-the-bar-for-automotive-cybersecurity-in-open-source-canonicals-iso-sae-21434-certification" target="_blank">Raising the bar for automotive cybersecurity in open source – Canonical’s ISO/SAE 21434 certification</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-09 09:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm" target="_blank">Helm local code execution via a malicious chart</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/pratham_naik_project_manager/-5ca8" target="_blank">Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 04:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/CyberTimon/RapidRAW" target="_blank">RapidRAW: A non-destructive and GPU-accelerated RAW image editor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-09 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Amarok-3.3-Released" target="_blank">Amarok 3.3 Released With The Music Player Ported To Qt6 / KDE Frameworks 6</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-08 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faeea9menenfg3ijkcd24.jpg" alt="Brevity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oculus42/brevity-2ljp" target="_blank">Brevity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 22:25</span>
             </div>
         </div>
 </div>
@@ -316,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
