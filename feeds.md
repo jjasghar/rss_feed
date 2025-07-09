@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 22:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-09 23:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -120,6 +123,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/" target="_blank">California lawmaker behind SB 1047 reignites push for mandated AI safety reports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani" target="_blank">The Columbia hack is a much bigger deal than Mamdani’s college application</a></span>
                 <span class="feed">The Verge</span>
@@ -144,20 +156,29 @@
                 <span class="time">2025-07-09 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c0003a2353df8cd8f6b56/master/pass/3.jpg" alt="New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/" target="_blank">New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa42ypqttmi1m13ldj4f6.jpg" alt="Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9" target="_blank">Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ubuntu-plenty-of-pis.jpg?resize=406%2C232&amp;ssl=1" alt="The Way Ubuntu Boots on Raspberry Pi is Changing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-raspberry-pi-boot-process-change" target="_blank">The Way Ubuntu Boots on Raspberry Pi is Changing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-09 20:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/ubuntu-raspberry-pi.jpg?resize=406%2C232&amp;ssl=1" alt="The Way Ubuntu Boots on Raspberry Pi is Changing in 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,39 +198,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504403&w=600" alt="Breaking Free from ZooKeeper: Why Kafka’s KRaft Mode Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kafka-kraft-vs-zookeeper" target="_blank">Breaking Free from ZooKeeper: Why Kafka’s KRaft Mode Matters</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-09 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/itsaryanchauhan/why-ai-agents-are-suddenly-everywhere-and-what-the-heck-is-an-mcp-server-29j5" target="_blank">Why AI Agents Are Suddenly Everywhere (And What the Heck is an MCP Server?)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-Drops-DRI2-Bonfire" target="_blank">Mesa 25.2 Drops Legacy DRI2 Code With A Bonfire To Pre-DMABUF Winsys Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/snap-stanford/Biomni" target="_blank">Biomni: A General-Purpose Biomedical AI Agent</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-09 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon" target="_blank">What is a Principal Engineer at Amazon? With Steve Huynh</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-09 18:44</span>
             </div>
         </div>
 </div>
@@ -241,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Krypto-Warner-Bros.-DC-Studios.jpg" alt="Krypto Has Become the DCU’s Baby Yoda Goldmine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/krypto-has-become-the-dcus-baby-yoda-goldmine-2000626936" target="_blank">Krypto Has Become the DCU’s Baby Yoda Goldmine</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZRJXNW4MPJZ07SC9WYMZP9E/hero-image.jpg" alt="I&#x27;ve Been Dying to Try These AR Smart Glasses, and Now They&#x27;re $150 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/viture-ar-glasses-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;ve Been Dying to Try These AR Smart Glasses, and Now They&#x27;re $150 Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 22:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZREH4V4AA6BBD26ERTB4BFH/hero-image.png" alt="I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -259,39 +280,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/401919a07a0671b09280ae82cfafaf6b.jpg" alt="The Best Characters And Karts For Smashing Mario Kart World Time Trial Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-switch-2-time-trial-best-characters-1851785952" target="_blank">The Best Characters And Karts For Smashing Mario Kart World Time Trial Records</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-09 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9b95b4fe5edc0014141fab03e4bbc8c3.jpg" alt="Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/mario-kart-world-blue-shells-mushrooms-bullet-bill-1851785913" target="_blank">Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-09 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trexyt.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch the 2025 T. Rex World Championship Races" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/watch-the-2025-t-rex-world-championship-races.html" target="_blank">Watch the 2025 T. Rex World Championship Races</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Studio-Trigger-Prime-Video-New-Panty-Stocking-With-Garterbelt-Anime-Review.jpg" alt="Studio Trigger Anime ‘New Panty &amp; Stocking with Garterbelt’ Is a Raunchy, Foul-Mouthed Riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/studio-trigger-anime-new-panty-stocking-with-garterbelt-is-a-raunchy-foul-mouthed-riot-2000626852" target="_blank">Studio Trigger Anime ‘New Panty &amp; Stocking with Garterbelt’ Is a Raunchy, Foul-Mouthed Riot</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-30-at-11.12.29-PM-e1752086623582.png?fit=600%2C295&amp;quality=55&amp;ssl=1" alt="&quot;Cyberpunk: Edgerunners&quot; gets a second season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/cyberpunk-edgerunners-gets-a-second-season.html" target="_blank">&quot;Cyberpunk: Edgerunners&quot; gets a second season</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 18:43</span>
             </div>
         </div>
 </div>
@@ -326,13 +329,22 @@
                 <span class="time">2025-07-09 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/fix_this_sign.png" alt="Fix This Sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3113/" target="_blank">Fix This Sign</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-09 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
