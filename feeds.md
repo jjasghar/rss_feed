@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 05:04:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-09 06:01:56 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F452gvanjqk70gio7gzn8.png" alt="Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_kiran/creative-toolbox-your-new-favorite-visual-tool-for-devs-creators-4od" target="_blank">Creative Toolbox: Your New Favorite Visual Tool for Devs &amp; Creators</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 05:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pratham_naik_project_manager/-5ca8" target="_blank">Async First: How 7 Remote Dev Teams Ship Faster Than Office Teams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 04:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/CyberTimon/RapidRAW" target="_blank">RapidRAW: A non-destructive and GPU-accelerated RAW image editor</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 02:37</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/floating-mini-panel-gnome-extension-automatic-mode" target="_blank">Floating Mini Panel GNOME Extension Adds Auto Mode</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-08 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501517&w=600" alt="The Rise of the Intelligent AI Agent: Revolutionizing Database Management With Agentic DBA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-dba-ai-database-management" target="_blank">The Rise of the Intelligent AI Agent: Revolutionizing Database Management With Agentic DBA</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-08 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kiani0x01/how-nodejs-differs-from-other-server-side-technologies-36oi" target="_blank">How Node.js Differs from Other Server-Side Technologies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-08 19:48</span>
             </div>
         </div>
 </div>
@@ -313,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
