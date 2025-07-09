@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 19:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 20:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462837/diocese-of-san-bernardino-issues-dispensation-saying-catholics-who-fear-ice-dont-have-to-attend-mass" target="_blank">Diocese of San Bernardino issues dispensation saying Catholics who fear ICE don&#x27;t have to attend Mass</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-12-rt-gmh-250708_1751977135219_hpMain_4x3t_384.jpg" alt="Texas flood: Kickoff meeting for Kerr County warning system project had been planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/texas-flood-kickoff-meeting-kerr-county-warning-system/story?id=123622025" target="_blank">Texas flood: Kickoff meeting for Kerr County warning system project had been planned</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 19:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/us-sanctions-un-expert-albanese-over-israel-criticism?traffic_source=rss" target="_blank">US sanctions UN expert Albanese over Israel criticism</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19a/live/7d7c4d10-5cf0-11f0-a40e-a1af2950b220.jpg" alt="Search for survivors after Houthis sink second Red Sea cargo ship in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,38 +105,29 @@
                 <span class="time">2025-07-09 17:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/09/shoot-them-in-the-leg-kenyan-presidents-anti-protest-rhetoric-hardens-as-death-toll-rises" target="_blank">‘Shoot them in the leg’: Kenyan president’s anti-protest rhetoric hardens as death toll rises</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-09 17:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/9/houthis-release-video-of-red-sea-ship-attack-and-sinking?traffic_source=rss" target="_blank">Houthis release video of Red Sea ship attack and sinking</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5461155/measles-outbreak-cdc-vaccination-health" target="_blank">U.S. measles cases hit highest level in 33 years, CDC reports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/" target="_blank">Neobank Revolut seeks $65B valuation, a year after its $45B deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_1732-Large-500x500.jpeg" alt="“Things we’ll never know” science fair highlights US’ canceled research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/things-well-never-know-science-fair-highlights-us-canceled-research/" target="_blank">“Things we’ll never know” science fair highlights US’ canceled research</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686c0003a2353df8cd8f6b56/master/pass/3.jpg" alt="New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +164,38 @@
                 <span class="time">2025-07-09 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/" target="_blank">Apple looks to bid on becoming US home for Formula 1</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68646b56182925dd2869675f/master/pass/12.jpg" alt="Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-beauty-deals-july-2025-1/" target="_blank">Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itsaryanchauhan/why-ai-agents-are-suddenly-everywhere-and-what-the-heck-is-an-mcp-server-29j5" target="_blank">Why AI Agents Are Suddenly Everywhere (And What the Heck is an MCP Server?)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-Drops-DRI2-Bonfire" target="_blank">Mesa 25.2 Drops Legacy DRI2 Code With A Bonfire To Pre-DMABUF Winsys Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-09 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/what-is-a-principal-engineer-at-amazon" target="_blank">What is a Principal Engineer at Amazon? With Steve Huynh</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-09 18:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504255&w=600" alt="Advanced Insight Generation: Revolutionizing Data Ingestion for AI-Powered Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,33 +221,6 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/" target="_blank">Beyond prompt crafting: How to be a better partner for your AI pair programmer</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-07-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi" target="_blank">Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-9005-7601" target="_blank">AMD&#x27;s Epic Performance Gains From The Original EPYC 7601 To EPYC 9755 / EPYC 9965</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-09 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/amarok-logo-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Amarok 3.3 Released with Qt 6, GStreamer Audio Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/amarok-3-3-released-with-qt-6-gstreamer-audio-engine" target="_blank">Amarok 3.3 Released with Qt 6, GStreamer Audio Engine</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-09 14:47</span>
             </div>
         </div>
 </div>
@@ -240,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9b95b4fe5edc0014141fab03e4bbc8c3.jpg" alt="Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-blue-shells-mushrooms-bullet-bill-1851785913" target="_blank">Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-09 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trexyt.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch the 2025 T. Rex World Championship Races" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/watch-the-2025-t-rex-world-championship-races.html" target="_blank">Watch the 2025 T. Rex World Championship Races</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-09 19:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Studio-Trigger-Prime-Video-New-Panty-Stocking-With-Garterbelt-Anime-Review.jpg" alt="Studio Trigger Anime ‘New Panty &amp; Stocking with Garterbelt’ Is a Raunchy, Foul-Mouthed Riot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,29 +305,20 @@
                 <span class="time">2025-07-09 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Dyson-Purifier-Cool™-TP07-Smart-Air-Purifier-and-Fan.jpg" alt="We’re Blown Away by This Dyson Purifier Cool Fan Deal Cutting Nearly 50% for Amazon Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/were-blown-away-by-this-dyson-purifier-cool-fan-deal-cutting-nearly-50-for-amazon-prime-day-2000625908" target="_blank">We’re Blown Away by This Dyson Purifier Cool Fan Deal Cutting Nearly 50% for Amazon Prime Day</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/logitechmk620.webp?fit=648%2C362&amp;quality=55&amp;ssl=1" alt="Logitech&#x27;s classy new wired keyboard and mouse combo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/logitechs-classy-new-wired-keyboard-and-mouse-combo.html" target="_blank">Logitech&#x27;s classy new wired keyboard and mouse combo</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 16:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/09/horseplay" target="_blank">Horseplay</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-09 18:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1751942799-20250715.png" alt="Saturday Morning Breakfast Cereal - Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
