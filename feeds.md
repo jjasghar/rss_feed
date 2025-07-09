@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 00:05:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-09 01:29:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals" target="_blank">The best Apple deals available for Amazon Prime Day 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686c0003a2353df8cd8f6b56/master/pass/3.jpg" alt="LIVE Amazon Prime Day 2025: We&#x27;re Tracking Deals &amp; Trends All Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/live/amazon-prime-day-deals-live-in-25/" target="_blank">LIVE Amazon Prime Day 2025: We&#x27;re Tracking Deals &amp; Trends All Day</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-09 00:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/686d896b87a471341a733f84/master/pass/Grok-AntiSemetic-Tweets-Business-2218892225.jpg" alt="Grok Is Spewing Antisemitic Garbage on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -136,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/" target="_blank">Rivian spinoff Also raises another $200M to build e-bikes and more</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-08 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/rfk-jr-barred-registered-democrats-from-being-vaccine-advisors-lawsuit-says/" target="_blank">RFK Jr. barred registered Democrats from being vaccine advisors, lawsuit says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025/" target="_blank">8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-08 21:15</span>
             </div>
         </div>
 </div>
@@ -288,22 +290,13 @@
                 <span class="time">2025-07-08 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5608.png" alt="Do The Right Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5608" target="_blank">Do The Right Thing</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-08 00:41</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
