@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 03:26:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-09 04:10:08 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 03:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/frances-macron-begins-uk-state-visit-calls-for-support-on-gaza-ukraine?traffic_source=rss" target="_blank">France’s Macron begins UK state visit, calls for support on Gaza, Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-09 03:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/texas-5-rt-er-250707_1751920363733_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: State OK&#x27;d camp&#x27;s emergency plans 2 days before floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +104,29 @@
                 <span class="time">2025-07-08 22:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/8/irans-fm-araghchi-saudi-crown-prince-mbs-hold-fruitful-talks-in-jeddah?traffic_source=rss" target="_blank">Iran’s FM Araghchi, Saudi Crown Prince MBS hold ‘fruitful’ talks in Jeddah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-08 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025" target="_blank">The 203 best Prime Day 2025 deals that we found</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-09 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68646b56182925dd2869675f/master/pass/12.jpg" alt="Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-beauty-deals-july-2025/" target="_blank">Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-09 01:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/701705/apple-tim-cook-design-team-report" target="_blank">Apple&amp;#8217;s design team will report to Tim Cook</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-08 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2218358432-500x500.jpg" alt="Grok praises Hitler, gives credit to Musk for removing “woke filters”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/grok-praises-hitler-gives-credit-to-musk-for-removing-woke-filters/" target="_blank">Grok praises Hitler, gives credit to Musk for removing “woke filters”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-08 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/08/rivian-spinoff-also-raises-another-200m-to-build-e-bikes-and-more/" target="_blank">Rivian spinoff Also raises another $200M to build e-bikes and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-08 22:51</span>
             </div>
         </div>
 </div>
@@ -237,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZPJMKAVEJD69A1CK9XTDDG3/hero-image.jpg" alt="This SodaStream Makes the Best Carbonated Water, and It&#x27;s Nearly Half Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/sodastream-terra-sparkling-water-maker-sale-prime-day-2025?utm_medium=RSS" target="_blank">This SodaStream Makes the Best Carbonated Water, and It&#x27;s Nearly Half Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 03:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZPDMCSEEAPZSKC2RTYW2CTJ/hero-image.png" alt="I Use the Ninja Creami to Satisfy My Nightly Sweet Tooth, and It&#x27;s $30 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +295,6 @@
                 <span class="time">2025-07-08 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1659978099aa8f793aad74e005933f26.jpg" alt="The Early Superman Reactions From Critics Are In, And They&#x27;re Mixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/james-gunn-superman-movie-dcu-critic-internet-reactions-1851785857" target="_blank">The Early Superman Reactions From Critics Are In, And They&#x27;re Mixed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-08 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 03:27 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
