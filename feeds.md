@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 15:01:41 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-09 16:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 15:01 UTC</div>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/09/nx-s1-5461155/measles-outbreak-cdc-vaccination-health" target="_blank">U.S. measles cases hit highest level in 33 years, CDC reports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2025-07-09 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/9/us-mercenaries-linked-to-ghf-fund-engaged-in-horrific?traffic_source=rss" target="_blank">US mercenaries linked to GHF fund “engaged in horrific crimes”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/david-george-on-the-future-of-going-public-at-techcrunch-disrupt-2025/" target="_blank">How startups are rewriting the late-stage playbook at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,29 @@
                 <span class="time">2025-07-09 12:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d4cbdffcb274e31f3ae3f/master/pass/Absolute%20Best%20Deals.png" alt="191 Prime Day Deals Picked By People Who Obsessively Test Gear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/" target="_blank">191 Prime Day Deals Picked By People Who Obsessively Test Gear</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 12:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/beyond-prompt-crafting-how-to-be-a-better-partner-for-your-ai-pair-programmer/" target="_blank">Beyond prompt crafting: How to be a better partner for your AI pair programmer</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wallaceespindola/cassandra-vs-postgresql-a-developers-guide-to-choose-the-right-database-3nhi" target="_blank">Cassandra vs PostgreSQL: A Developer’s Guide to Choose the Right Database</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 15:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="time">2025-07-09 13:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/praveena_2109/operator-overload-not-anymore-js-operators-made-easy-3514" target="_blank">&quot;Operator overload? Not Anymore - JS Operators Made Easy!&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18501643&w=600" alt="The Battle of the Frameworks: Choosing the Right Tech Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-choose-the-right-tech-stack" target="_blank">The Battle of the Frameworks: Choosing the Right Tech Stack</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1be8a297848f2b0cebb2e49f5fa6103f.jpg" alt="2017&#x27;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-battlefront-2-2017-best-selling-game-may-2025-1851785893" target="_blank">2017&#x27;s Star Wars Battlefront 2 Was One Of The Best-Selling Games In May 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-09 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/SanDisk-256GB-Extreme-PRO-SDXC-UHS-II-Memory-Card.jpg" alt="Prime Day Is the Prime Time to Add a SanDisk Memory Card to Your Camera or Laptop for Peanuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/prime-day-is-the-prime-time-to-add-a-sandisk-memory-card-to-your-camera-or-laptop-for-peanuts-2000626074" target="_blank">Prime Day Is the Prime Time to Add a SanDisk Memory Card to Your Camera or Laptop for Peanuts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e9ca65ed296a319b8dfdb07a6cd2d331.png" alt="Call Of Duty: WW2 Pulled From Microsoft Store Just Days After Joining Game Pass Because Of Players Getting Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +298,6 @@
                 <span class="time">2025-07-09 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Macintosh-control-panel.png?fit=512%2C342&amp;quality=55&amp;ssl=1" alt="A history of Mac settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/a-history-of-mac-settings.html" target="_blank">A history of Mac settings</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/roborock-q7-m5plus.jpg" alt="Amazon Is Going Nuts, The Roborock Q7 M5+ Has Only Been Available for a Week and Is Now 45% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-is-going-nuts-the-roborock-q7-m5-has-only-been-available-for-a-week-and-is-now-45-off-2000626460" target="_blank">Amazon Is Going Nuts, The Roborock Q7 M5+ Has Only Been Available for a Week and Is Now 45% Off</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +312,13 @@
                 <span class="time">2025-07-09 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1751598495-20250708.png" alt="Saturday Morning Breakfast Cereal - Crystals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/crystals" target="_blank">Saturday Morning Breakfast Cereal - Crystals</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
