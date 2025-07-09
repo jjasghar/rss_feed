@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 07:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-09 08:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 09, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ruidoso-main_1752046103553_hpMain_4x3t_384.jpg" alt="3 dead, including 2 children, in New Mexico flooding, local authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/deadly-new-mexico-flooding-rio-ruidoso/story?id=123599023" target="_blank">3 dead, including 2 children, in New Mexico flooding, local authorities say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-09 07:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +93,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: State OK&#x27;d camp&#x27;s emergency plans 2 days before floods</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-09 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/9/trump-blasts-maga-focus-on-jeffrey-epstein-after-memo-causes-uproar?traffic_source=rss" target="_blank">Trump blasts MAGA focus on Jeffrey Epstein after memo causes uproar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 03:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/burmese-python.jpg" alt="Scientists Discover Secret Weapon That Allows Pythons to Digest Bones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-discover-secret-weapon-that-allows-pythons-to-digest-bones-2000626079" target="_blank">Scientists Discover Secret Weapon That Allows Pythons to Digest Bones</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-09 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025: Live Updates on 50+ Best Deals for E-Readers, Tools, Appliances, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -281,15 +286,6 @@
                 <span class="time">2025-07-08 23:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/sandisk2tb.jpg" alt="This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-samsung-2tb-external-ssd-costs-almost-nothing-on-prime-day-only-0-055-per-gb-2000626247" target="_blank">This Samsung 2TB External SSD Costs Almost Nothing on Prime Day, Only $0.055 per GB</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-08 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
