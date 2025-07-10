@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 19:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-10 20:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/israeli-attacks-kill-82-amid-forced-displacement-plans-truce-talks-in-gaza?traffic_source=rss" target="_blank">Israeli attacks kill 82 amid forced displacement plans, truce talks in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-05-ap-jef-250710_1752149690082_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Death toll at 120 as search continues for the missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Death toll at 120 as search continues for the missing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-10 19:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543d/live/52253900-5daa-11f0-960d-e9f1088a89fe.jpg" alt="UK to return some migrants to France within weeks - PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +103,29 @@
                 <span class="time">2025-07-10 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/129a/live/8fde0860-5da7-11f0-960d-e9f1088a89fe.jpg" alt="Russia&#x27;s intensifying drone war is spreading fear and eroding Ukrainian morale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0m8gn7grn2o" target="_blank">Russia&#x27;s intensifying drone war is spreading fear and eroding Ukrainian morale</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-10 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250627-birthright-citizenship-16x9-mn-1045-286918.jpg" alt="Judge blocks Trump&#x27;s order restricting birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-blocks-trumps-order-restricting-birthright-citizenship-rcna217996" target="_blank">Judge blocks Trump&#x27;s order restricting birthright citizenship</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-10 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/704044/amazon-prime-day-sony-wh-1000xm6-1000xm5-deal-sale-2025" target="_blank">Sony’s best noise-canceling headphones are up to 45 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68646b56182925dd2869675f/master/pass/12.jpg" alt="Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/" target="_blank">Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +162,20 @@
                 <span class="time">2025-07-10 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule-500x500.jpg" alt="Investors appear to like a company with big space manufacturing ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/after-some-success-in-space-varda-raises-187-million-to-expand-ambitions/" target="_blank">Investors appear to like a company with big space manufacturing ambitions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686feaf1ee50bca41ddb658a/master/pass/APD-Macbook-Guide-Gear-1235535047.jpg" alt="The Best Prime Day MacBook Deal Is Not the One You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/" target="_blank">The Best Prime Day MacBook Deal Is Not the One You Think</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507133&w=600" alt="Contract-Driven ML: The Missing Link to Trustworthy Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/prevent-ml-failures-with-data-contracts" target="_blank">Contract-Driven ML: The Missing Link to Trustworthy Machine Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507101&w=600" alt="Decoding the Secret Language of LLM Tokenizers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +221,6 @@
                 <span class="time">2025-07-10 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/" target="_blank">Measuring the Impact of AI on Experienced Open-Source Developer Productivity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-10 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/Palmer-Luckey-during-an-interview-with-Emily-Chang-1.jpg" alt="Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-wants-border-surveillance-towers-that-only-palmer-luckey-can-build-2000627594" target="_blank">Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZNAPREWVE4JK44PCV1FGDNY/hero-image.png" alt="I&#x27;m a Competitive Weightlifter, and These Are My Favorite Prime Day Deals on Fitness Equipment (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-fitness-deals-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Competitive Weightlifter, and These Are My Favorite Prime Day Deals on Fitness Equipment (So Far)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/Donald-Trump-and-Jeffrey-Epstein-hang-out.jpg" alt="New DOJ Memo Shows Jeffrey Epstein Had 1000+ Victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +303,6 @@
                 <span class="time">2025-07-10 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZTNBFHYCCW4EKJZVKSBDBG5/hero-image.png" alt="The Latest Amazon Kindle Scribe Is 35% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-scribe-deal-prime-day-2025?utm_medium=RSS" target="_blank">The Latest Amazon Kindle Scribe Is 35% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/trump-clown-e1750358910130.jpeg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="Offended clowns ask that we call Trump something else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/offended-clowns-ask-that-we-call-trump-something-else.html" target="_blank">Offended clowns ask that we call Trump something else</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 164 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 159 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
