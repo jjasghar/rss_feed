@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 16:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 17:03:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +54,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-blocks-trumps-order-restricting-birthright-citizenship-rcna217996" target="_blank">Judge blocks Trump&#x27;s order restricting birthright citizenship</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-10 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jeeper-ragsdale-abc-jef-250710_1752148444917_hpMain_4x3t_384.jpg" alt="Trapped by floodwater, camp director called to say she &#x27;can&#x27;t get out&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/jane-ragsdale-heart-o-hills-texas-flood/story?id=123638010" target="_blank">Trapped by floodwater, camp director called to say she &#x27;can&#x27;t get out&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-10 14:38</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +101,38 @@
                 <span class="time">2025-07-10 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76933/up-first-newsletter-texas-floods-vigil-fema-measles" target="_blank">Data reveals FEMA missed major flood risks. And, measles hit highest level in decades</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/704222/youtube-trending-page-removal-charts" target="_blank">YouTube’s ‘Trending’ section is about to disappear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule-500x500.jpg" alt="Investors appear to like a company with big space manufacturing ambitions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/after-some-success-in-space-varda-raises-187-million-to-expand-ambitions/" target="_blank">Investors appear to like a company with big space manufacturing ambitions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686feaf1ee50bca41ddb658a/master/pass/APD-Macbook-Guide-Gear-1235535047.jpg" alt="The Best Prime Day MacBook Deal Is Not the One You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/" target="_blank">The Best Prime Day MacBook Deal Is Not the One You Think</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 16:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +160,29 @@
                 <span class="time">2025-07-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/" target="_blank">Slate Auto: Everything you need to know about the Bezos-backed EV startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68682f6f3b60abef14943c3a/master/pass/11.jpg" alt="19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/" target="_blank">19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/wp7724438-500x500.jpg" alt="Ars Technica and GOG team up to bring you a pile of our favorite games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/introducing-the-ars-technica-gog-store-page-lets-buy-some-retro-games/" target="_blank">Ars Technica and GOG team up to bring you a pile of our favorite games</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flldrkgly7b78e1oobrsu.gif" alt="Migrating from EC2 to Containers: What Teams Miss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/migrating-from-ec2-to-containers-what-teams-miss-4di5" target="_blank">Migrating from EC2 to Containers: What Teams Miss</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504418&w=600" alt="When Caches Collide: Solving Race Conditions in Fare Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/fare-cache-race-conditions-troubleshooting" target="_blank">When Caches Collide: Solving Race Conditions in Fare Updates</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,37 +204,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/in-pursuit-of-quality-ux-for-documentation-authors" target="_blank">In pursuit of quality: UX for documentation authors</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-10 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iamprincejkc/gpt-5-is-coming-and-it-might-be-smarter-than-sam-altman-4bm8" target="_blank">GPT-5 Is Coming And It Might Be Smarter Than Sam Altman</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-10 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/policy-network-architecture/en/mediumimage/anna-berenberg-medium-1751622407858.jpg" alt="Presentation: One Network: Cloud-Agnostic Service and Policy-Oriented Network Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/policy-network-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: One Network: Cloud-Agnostic Service and Policy-Oriented Network Architecture</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-10 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Blender-4.5-RC1" target="_blank">Blender 4.5 RC1 Released With Much Better Vulkan Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-10 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/10/vote-on-our-new-identity/" target="_blank">Have your say on the evolution of our identity</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-10 13:35</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/trump-clown-e1750358910130.jpeg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="Offended clowns ask that we call Trump something else" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/offended-clowns-ask-that-we-call-trump-something-else.html" target="_blank">Offended clowns ask that we call Trump something else</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0c71aaf1ea5b5565a85d40e198f2432f.jpg" alt="Major Nintendo Switch Piracy Website Seized By FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-piracy-nsw2u-roms-fbi-hack-emulator-zelda-1851786034" target="_blank">Major Nintendo Switch Piracy Website Seized By FBI</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-10 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e405a813a009f269ad1bcbe8ac47f888.jpg" alt="Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +292,6 @@
                 <span class="time">2025-07-10 14:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZTBEV29H0BTV2J8DFR1MWR5/hero-image.png" alt="The AeroPress Coffee Maker I Use Every Day Is Just $28 for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/aeropress-manual-coffee-maker-sale-prime-day-2025?utm_medium=RSS" target="_blank">The AeroPress Coffee Maker I Use Every Day Is Just $28 for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/chromebook-samsung.jpg" alt="Galaxy Chromebook Is Cheaper Than AirPods, Samsung Is Clearing Out All Remaining Stock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/galaxy-chromebook-is-cheaper-than-airpods-samsung-is-clearing-out-all-remaining-stock-2000627377" target="_blank">Galaxy Chromebook Is Cheaper Than AirPods, Samsung Is Clearing Out All Remaining Stock</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 154 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
