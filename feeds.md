@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 22:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 23:01:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,42 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/" target="_blank">AWS is launching an AI agent marketplace next week with Anthropic as a partner</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2214639013-500x500.jpg" alt="Woman takes 10x dose of turmeric, gets hospitalized for liver damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/" target="_blank">Woman takes 10x dose of turmeric, gets hospitalized for liver damage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/685ec03fc55f1273d9de7f01/master/pass/Skateboards-Lasers-ICE-Protestor-Strategic-Weaponry-1-Security.jpg" alt="DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/" target="_blank">DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3" target="_blank">The best Prime Day 2025 deals you can still get</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 21:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Pro basketball player and 4 youths arrested in connection to ransomware crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -122,42 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/" target="_blank">Former Intel CEO launches a benchmark to measure AI alignment</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-10 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/" target="_blank">13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg" alt="T-Mobile follows orders from Trump FCC, ends DEI to get two mergers approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/t-mobile-follows-orders-from-trump-fcc-ends-dei-to-get-two-mergers-approved/" target="_blank">T-Mobile follows orders from Trump FCC, ends DEI to get two mergers approved</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/704044/amazon-prime-day-sony-wh-1000xm6-1000xm5-deal-sale-2025" target="_blank">Sony’s best noise-canceling headphones are up to 45 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68646b56182925dd2869675f/master/pass/12.jpg" alt="Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/" target="_blank">Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 19:56</span>
             </div>
         </div>
 </div>
@@ -248,6 +246,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/drawing-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Kids in the 1940s drew their dads from memory — the results are hilariously spot-on" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/kids-in-the-1940s-drew-their-dads-from-memory-the-results-are-hilariously-spot-on.html" target="_blank">Kids in the 1940s drew their dads from memory — the results are hilariously spot-on</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 22:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Green-Lantern-DC-Studios.jpg" alt="Nathan Fillion Teases Guy Gardner’s Path From ‘Superman’ to ‘Lanterns’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nathan-fillion-teases-guy-gardners-path-from-superman-to-lanterns-2000627827" target="_blank">Nathan Fillion Teases Guy Gardner’s Path From ‘Superman’ to ‘Lanterns’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 21:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025: Day 3 Live Updates on 100+ Best Deals for Macbooks, E-Readers, Smart Glasses, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -283,24 +299,6 @@
                 <span class="time">2025-07-10 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZTV37N7035B27A0W6TCA8E9/hero-image.png" alt="This Smart Scale Has Health Metrics You Normally Only See in Smartwatches, and It&#x27;s 26% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/smart-scale-deal-prime-day-2025?utm_medium=RSS" target="_blank">This Smart Scale Has Health Metrics You Normally Only See in Smartwatches, and It&#x27;s 26% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/Palmer-Luckey-during-an-interview-with-Emily-Chang-1.jpg" alt="Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-wants-border-surveillance-towers-that-only-palmer-luckey-can-build-2000627594" target="_blank">Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
