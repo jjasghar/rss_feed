@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 09:02:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-10 10:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5461091/texas-flooding-warning-system-fema" target="_blank">Kerr County struggled to fund flood warnings. Under Trump, it&#x27;s getting even harder</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-debris-04-gty-jt-250705_1751738269956_hpMain_4x3t_384.jpg" alt="Kerr County officials took 90 minutes to send emergency alert: Dispatch audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/kerr-county-officials-waited-90-minutes-send-emergency/story?id=123631023" target="_blank">Kerr County officials took 90 minutes to send emergency alert: Dispatch audio</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-10 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/bangladesh-tribunal-indicts-ex-pm-hasina-over-protester-deaths?traffic_source=rss" target="_blank">Bangladesh tribunal indicts ex-PM Hasina over protester deaths</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 09:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/10/unaids-high-risk-hiv-groups-lgbtq-record-criminalisation-usaid-funding" target="_blank">High-risk HIV groups facing record levels of criminalisation as countries bring in draconian laws</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-10 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76922/south-korean-court-arrest-president-yoon-suk-yeol" target="_blank">South Korean court approves new arrest of former President Yoon Suk Yeol</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-10 07:53</span>
@@ -60,47 +96,20 @@
                 <span class="time">2025-07-10 06:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-dunkirk-migrants-migrant-crossings_6961554.jpg?20250710081710" alt="This flimsy vessel carrying migrants could reach British waters in a few hours&#x27; time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/this-flimsy-vessel-carrying-migrants-could-reach-british-waters-in-a-few-hours-time-13394835" target="_blank">This flimsy vessel carrying migrants could reach British waters in a few hours&#x27; time</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-10 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76915/u-s-sanctions-united-nations-investigator-abuses-gaza" target="_blank">U.S. issues sanctions against United Nations investigator probing abuses in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/10/lobbyists-linked-donald-trump-poorest-countries-mineral-resources-trade-deals-for-us-aid-military-support" target="_blank">Lobbyists linked to Donald Trump paid millions by world’s poorest countries</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-10 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209d/live/1644eab0-5d1f-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Reform&#x27;s momentum is making the political weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e0vq4gxeno" target="_blank">Chris Mason: Reform&#x27;s momentum is making the political weather</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-10 04:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh" target="_blank">Samsung says its trifold phone should launch ‘this year’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 09:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686f5ab00648d61437356ac0/master/pass/2193208237" alt="Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2025-07-10 01:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c00655a75e253c609987c/master/pass/7.jpg" alt="Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/" target="_blank">Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rpallas.xyz/math-parser/" target="_blank">Optimizing a Math Expression Parser in Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-10 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/charmed-feast-feature-store-launch" target="_blank">Canonical announces Charmed Feast: A production-grade feature store for your open source MLOps stack</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,39 +197,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/meta-rust-dx/en/headerimage/header+%286%29-1752037222070.jpg" alt="From C to Rust: Inside Meta’s Developer-Led Messaging Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/meta-rust-dx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From C to Rust: Inside Meta’s Developer-Led Messaging Migration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-10 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdhxmqmu63ikrvjkrcf71.jpg" alt="STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4" target="_blank">STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-10 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://therecord.media/german-court-meta-tracking-tech" target="_blank">German court rules Meta tracking technology violates European privacy laws</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-10 05:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2" target="_blank">🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/" target="_blank">A Virginia public library is fighting off a takeover by private equity</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-10 03:05</span>
             </div>
         </div>
 </div>
@@ -315,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
