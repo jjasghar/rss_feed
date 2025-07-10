@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 13:11:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-10 14:02:23 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/10/video-doctors-operate-in-darkness-as-gaza-hospitals-face-power-crisis?traffic_source=rss" target="_blank">Video: Doctors operate in darkness as Gaza hospitals face power crisis</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5455779/doge-usda-farmers-data" target="_blank">DOGE keeps gaining access to sensitive data. Now, it can cut off billions to farmers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +105,38 @@
                 <span class="time">2025-07-10 09:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/bangladesh-tribunal-indicts-ex-pm-hasina-over-protester-deaths?traffic_source=rss" target="_blank">Bangladesh tribunal indicts ex-PM Hasina over protester deaths</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/10/unaids-high-risk-hiv-groups-lgbtq-record-criminalisation-usaid-funding" target="_blank">High-risk HIV groups facing record levels of criminalisation as countries bring in draconian laws</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-10 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/" target="_blank">US appeals court blocks FTC’s ‘click-to-cancel’ rule for subscriptions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued" target="_blank">Nintendo is ending its cost-saving Switch game vouchers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686fc453919e0eaf669acd27/master/pass/groktopart.png" alt="Elon Musk Says Grok Is Coming to Tesla EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/" target="_blank">Elon Musk Says Grok Is Coming to Tesla EVs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +164,20 @@
                 <span class="time">2025-07-10 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh" target="_blank">Samsung says its trifold phone should launch ‘this year’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686f5ab00648d61437356ac0/master/pass/2193208237" alt="Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/" target="_blank">Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/" target="_blank">Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 06:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/10/vote-on-our-new-identity/" target="_blank">Have your say on the evolution of our identity</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-10 13:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504772&w=600" alt="Why Tailwind CSS Can Be Used Instead of Bootstrap CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,30 +206,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/pair-programming-speed-flow/en/headerimage/pair-programming-speed-flow-header-1751884629396.jpg" alt="How Pair Programming Enhanced Development Speed, Focus, and Flow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/pair-programming-speed-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Pair Programming Enhanced Development Speed, Focus, and Flow</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-10 11:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504757&w=600" alt="Top 5 Trends in Big Data Quality and Governance in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/top-trends-in-big-data-quality-and-governance" target="_blank">Top 5 Trends in Big Data Quality and Governance in 2025</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-10 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-To-Remove-pktcdvd" target="_blank">Linux 6.17 Looks To Drop The pktcdvd Packet Writing CD/DVD Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-10 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/" target="_blank">Computer Scientists Figure Out How to Prove Lies</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-10 09:48</span>
             </div>
         </div>
 </div>
@@ -234,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZT35KD3FH3JB3ERWT0F1AT2/hero-image.png" alt="Samsung&#x27;s Popular &#x27;The Frame&#x27; TV Is Nearly Half Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsungs-the-frame-tv-sale-prime-day-2025?utm_medium=RSS" target="_blank">Samsung&#x27;s Popular &#x27;The Frame&#x27; TV Is Nearly Half Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 13:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZSQF4CJFP82WSHWER7Z0XE6/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are Even Cheaper for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +296,6 @@
                 <span class="time">2025-07-10 03:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZS2SKPFW3KD1ATX9TAWS2PP/hero-image.png" alt="Apple’s iPad Mini Is $120 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apples-ipad-mini-is-120-off-for-prime-day-2025?utm_medium=RSS" target="_blank">Apple’s iPad Mini Is $120 Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 03:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
