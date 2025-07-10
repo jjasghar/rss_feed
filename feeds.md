@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 20:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-10 21:01:41 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/1255443725/a-dangerous-journey-to-find-food-in-gaza" target="_blank">A harrowing journey to find food in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +102,29 @@
                 <span class="time">2025-07-10 17:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/sport/2025/jul/10/caster-semenya-south-african-athlete-court-ruling" target="_blank">Caster Semenya calls for athletes’ rights to be put first as court rules in her favour</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-10 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/" target="_blank">13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg" alt="T-Mobile follows orders from Trump FCC, ends DEI to get two mergers approved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/t-mobile-follows-orders-from-trump-fcc-ends-dei-to-get-two-mergers-approved/" target="_blank">T-Mobile follows orders from Trump FCC, ends DEI to get two mergers approved</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 20:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,30 +153,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/686c0ecd5a75e253c6099880/master/pass/13.jpg" alt="Best 13 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-kitchen-deals-july-2025-2/" target="_blank">Best 13 Prime Day Kitchen Deals (2025): Breville, Ooni, Oxo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 18:30</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/704468/bluesky-age-verification-uk-online-safety-act" target="_blank">Bluesky is rolling out age verification in the UK</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/704222/youtube-trending-page-removal-charts" target="_blank">YouTube’s ‘Trending’ section is about to disappear</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 17:00</span>
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/mockly-made-a-fake-dm-generator-thats-actually-user-friendly/" target="_blank">Mockly made a fake DM generator that’s actually user-friendly</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 18:48</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 With Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/storybook-v9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Storybook Releases Storybook v9 With Improved Testing Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507133&w=600" alt="Contract-Driven ML: The Missing Link to Trustworthy Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +220,6 @@
                 <span class="time">2025-07-10 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/07c24832-4adc-401f-b5cc-a3ffdcd3b654_420x300.png" alt="The Pulse #139: Section 174 is reversed! Or is it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-139" target="_blank">The Pulse #139: Section 174 is reversed! Or is it?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-10 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +249,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hellokittyskull.jpeg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="A digital frame that displays curated wisdom and philosophical insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/a-digital-frame-that-displays-curated-wisdom-and-philosophical-insights.html" target="_blank">A digital frame that displays curated wisdom and philosophical insights</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/joe-rogan-donald-trump-ufc.jpg" alt="Joe Rogan’s Latest Post Amplifies Epstein Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/joe-rogans-latest-post-amplifies-epstein-conspiracy-theories-2000627774" target="_blank">Joe Rogan’s Latest Post Amplifies Epstein Conspiracy Theories</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ad22ea41b92e7c24cb57d06f4d45156c.jpg" alt="Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/superman-movie-james-gunn-dean-cain-immigrant-1851786076" target="_blank">Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-10 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZTV37N7035B27A0W6TCA8E9/hero-image.png" alt="This Smart Scale Has Health Metrics You Normally Only See in Smartwatches, and It&#x27;s 26% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/smart-scale-deal-prime-day-2025?utm_medium=RSS" target="_blank">This Smart Scale Has Health Metrics You Normally Only See in Smartwatches, and It&#x27;s 26% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 20:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/Palmer-Luckey-during-an-interview-with-Emily-Chang-1.jpg" alt="Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,42 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/best-fitness-deals-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Competitive Weightlifter, and These Are My Favorite Prime Day Deals on Fitness Equipment (So Far)</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-10 19:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/Donald-Trump-and-Jeffrey-Epstein-hang-out.jpg" alt="New DOJ Memo Shows Jeffrey Epstein Had 1000+ Victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-doj-memo-shows-jeffrey-epstein-had-1000-victims-2000627665" target="_blank">New DOJ Memo Shows Jeffrey Epstein Had 1000+ Victims</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/reolink-altas-review-1.jpg" alt="Reolink Altas Review: As Good as a Battery-Powered Security Camera Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/reolink-altas-review-as-good-as-a-battery-powered-security-camera-gets-2000626039" target="_blank">Reolink Altas Review: As Good as a Battery-Powered Security Camera Gets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/497736299a76af396ff687bedcddc03e.jpg" alt="Nightreign&#x27;s Everdark Sovereigns Will Return, Here&#x27;s How To Prepare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-everdark-sovereign-returning-new-1851786040" target="_blank">Nightreign&#x27;s Everdark Sovereigns Will Return, Here&#x27;s How To Prepare</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hooters.jpg?fit=1080%2C681&amp;quality=60&amp;ssl=1" alt="Trump nominates self-proclaimed alpha male and Hooters fanatic for diplomatic role despite no experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/trump-nominates-self-proclaimed-alpha-male-and-hooters-fanatic-for-diplomatic-role-despite-no-experience.html" target="_blank">Trump nominates self-proclaimed alpha male and Hooters fanatic for diplomatic role despite no experience</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 17:42</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 159 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
