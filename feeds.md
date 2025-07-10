@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 17:03:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-10 18:01:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 17:03 UTC</div>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613d/live/faef7d60-5d88-11f0-a40e-a1af2950b220.jpg" alt="Gregg Wallace faces backlash over autism defence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx24lxl85wyo" target="_blank">Gregg Wallace faces backlash over autism defence</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-10 13:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -92,20 +103,20 @@
                 <span class="time">2025-07-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/israel-arrests-50-across-occupied-west-bank-jenin-displaced-return-briefly?traffic_source=rss" target="_blank">Israel arrests 50 across occupied West Bank; Jenin displaced return briefly</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/704468/bluesky-age-verification-uk-online-safety-act" target="_blank">Bluesky is rolling out age verification in the UK</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 18:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +162,47 @@
                 <span class="time">2025-07-10 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability" target="_blank">Gemini AI can now turn photos into videos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcb654p9c9uij53vslnea.png" alt="Introduction to Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mukilaperiyasamy/introduction-to-java-4f52" target="_blank">Introduction to Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/" target="_blank">Modeling CORS frameworks with CodeQL to find security vulnerabilities</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-10 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18506167&w=600" alt="Master AI Development: The Ultimate Guide to LangChain, LangGraph, LangFlow, and LangSmith" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/langchain-langgraph-langflow-langsmith-ai-guide" target="_blank">Master AI Development: The Ultimate Guide to LangChain, LangGraph, LangFlow, and LangSmith</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/07c24832-4adc-401f-b5cc-a3ffdcd3b654_420x300.png" alt="The Pulse #139: Section 174 is reversed! Or is it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-139" target="_blank">The Pulse #139: Section 174 is reversed! Or is it?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-10 16:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flldrkgly7b78e1oobrsu.gif" alt="Migrating from EC2 to Containers: What Teams Miss" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,47 +221,20 @@
                 <span class="time">2025-07-10 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS" target="_blank">Linux 6.15.6, 6.12.37 LTS &amp; Other Stable Kernels Deliver TSA Mitigations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-10 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Mozilla-VPn-Flathub.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla VPN Linux App is Now Available on Flathub" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/mozilla-vpn-linux-app-available-flathub" target="_blank">Mozilla VPN Linux App is Now Available on Flathub</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-10 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/in-pursuit-of-quality-ux-for-documentation-authors" target="_blank">In pursuit of quality: UX for documentation authors</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-10 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/iamprincejkc/gpt-5-is-coming-and-it-might-be-smarter-than-sam-altman-4bm8" target="_blank">GPT-5 Is Coming And It Might Be Smarter Than Sam Altman</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/" target="_blank">UK Charges Four in ‘Scattered Spider’ Ransom Group</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-10 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -238,6 +249,42 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/reolink-altas-review-1.jpg" alt="Reolink Altas Review: As Good as a Battery-Powered Security Camera Gets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/reolink-altas-review-as-good-as-a-battery-powered-security-camera-gets-2000626039" target="_blank">Reolink Altas Review: As Good as a Battery-Powered Security Camera Gets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/497736299a76af396ff687bedcddc03e.jpg" alt="Nightreign&#x27;s Everdark Sovereigns Will Return, Here&#x27;s How To Prepare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-everdark-sovereign-returning-new-1851786040" target="_blank">Nightreign&#x27;s Everdark Sovereigns Will Return, Here&#x27;s How To Prepare</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-10 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hooters.jpg?fit=1080%2C681&amp;quality=60&amp;ssl=1" alt="Trump nominates self-proclaimed alpha male and Hooters fanatic for diplomatic role despite no experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/trump-nominates-self-proclaimed-alpha-male-and-hooters-fanatic-for-diplomatic-role-despite-no-experience.html" target="_blank">Trump nominates self-proclaimed alpha male and Hooters fanatic for diplomatic role despite no experience</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZTNBFHYCCW4EKJZVKSBDBG5/hero-image.png" alt="The Latest Amazon Kindle Scribe Is 35% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-kindle-scribe-deal-prime-day-2025?utm_medium=RSS" target="_blank">The Latest Amazon Kindle Scribe Is 35% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/08/trump-clown-e1750358910130.jpeg?fit=768%2C525&amp;quality=60&amp;ssl=1" alt="Offended clowns ask that we call Trump something else" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,42 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-piracy-nsw2u-roms-fbi-hack-emulator-zelda-1851786034" target="_blank">Major Nintendo Switch Piracy Website Seized By FBI</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-10 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e405a813a009f269ad1bcbe8ac47f888.jpg" alt="Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pauline-donkey-kong-bananza-timeline-dk-lore-1851786019" target="_blank">Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-10 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/grok-x-twitter-image.jpg" alt="Elon Musk’s Newest AI Chatbot Is Powerful, Controversial, and Already Under Fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-newest-ai-chatbot-is-powerful-controversial-and-already-under-fire-2000627553" target="_blank">Elon Musk’s Newest AI Chatbot Is Powerful, Controversial, and Already Under Fire</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZTDQYYZD198NVM9SHQTB7RY/hero-image.png" alt="Samsung&#x27;s Galaxy Watch 8 Will Include Some Intriguing New Health Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/samsungs-galaxy-watch-8-new-health-metrics?utm_medium=RSS" target="_blank">Samsung&#x27;s Galaxy Watch 8 Will Include Some Intriguing New Health Metrics</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6f03beb06a1890213ea594fc84eaeba2.jpg" alt="With The End Of Poker Face Season 2, It&#x27;s Time To Binge One Of The Best Shows On TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/poker-face-peacock-natasha-lyonne-rian-johnson-columbo-1851786010" target="_blank">With The End Of Poker Face Season 2, It&#x27;s Time To Binge One Of The Best Shows On TV</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-10 14:40</span>
             </div>
         </div>
 </div>
@@ -311,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 154 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 160 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
