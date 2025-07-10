@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-09 23:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-10 00:04:55 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 09, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5460872/philadelphia-city-workers-reach-tentative-agreement-to-end-strike" target="_blank">Philadelphia city workers reach tentative agreement to end strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-09 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af7/live/db62a170-5d01-11f0-a844-279cd2217db0.jpg" alt="Ex-Tory chairman Jake Berry defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx24lll3n99o" target="_blank">Ex-Tory chairman Jake Berry defects to Reform UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-09 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +98,29 @@
                 <span class="time">2025-07-09 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-benjamin-netanyahu_6959766.jpg?20250708091001" alt="IDF chief says conditions &#x27;created&#x27; for Gaza ceasefire - as Trump says it could be &#x27;this week or next&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/idf-chief-says-conditions-created-for-gaza-ceasefire-as-trump-says-it-could-be-this-week-or-next-13394738" target="_blank">IDF chief says conditions &#x27;created&#x27; for Gaza ceasefire - as Trump says it could be &#x27;this week or next&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-09 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5462837/diocese-of-san-bernardino-issues-dispensation-saying-catholics-who-fear-ice-dont-have-to-attend-mass" target="_blank">Diocese of San Bernardino issues dispensation saying Catholics who fear ICE don&#x27;t have to attend Mass</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686d391f5ef949b21811ea04/master/pass/videoframe_3815.png" alt="100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-under-100-july-2025-1/" target="_blank">100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-09 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprise_music_2-500x500.jpg" alt="ChatGPT made up a product feature out of thin air, so this company created it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/" target="_blank">ChatGPT made up a product feature out of thin air, so this company created it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-09 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +157,20 @@
                 <span class="time">2025-07-09 20:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/neobank-revolut-seeks-65b-valuation-a-year-after-its-45b-deal/" target="_blank">Neobank Revolut seeks $65B valuation, a year after its $45B deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_1732-Large-500x500.jpeg" alt="“Things we’ll never know” science fair highlights US’ canceled research" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/things-well-never-know-science-fair-highlights-us-canceled-research/" target="_blank">“Things we’ll never know” science fair highlights US’ canceled research</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzi8l8hrcsv2v3ebz3wq.png" alt="Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/it0nyb/build-an-elder-scrolls-character-generator-with-google-ai-studio-deved-submission-1fbi" target="_blank">Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-09 23:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa42ypqttmi1m13ldj4f6.jpg" alt="Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9" target="_blank">Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mcp-b.ai/" target="_blank">MCP-B: A Protocol for AI Browser Automation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-09 22:37</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j" target="_blank">JavaScript Map - Explicação detalhada, casos e exemplos de uso</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504403&w=600" alt="Breaking Free from ZooKeeper: Why Kafka’s KRaft Mode Matters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kafka-kraft-vs-zookeeper" target="_blank">Breaking Free from ZooKeeper: Why Kafka’s KRaft Mode Matters</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itsaryanchauhan/why-ai-agents-are-suddenly-everywhere-and-what-the-heck-is-an-mcp-server-29j5" target="_blank">Why AI Agents Are Suddenly Everywhere (And What the Heck is an MCP Server?)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 19:58</span>
             </div>
         </div>
 </div>
@@ -243,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZRPP8PF2WHEK6F5G557WAYY/hero-image.jpg" alt="This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/razer-kishi-ultra-controller-on-sale-for-prime-day-2025?utm_medium=RSS" target="_blank">This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-09 23:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Krypto-Warner-Bros.-DC-Studios.jpg" alt="Krypto Has Become the DCU’s Baby Yoda Goldmine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-kart-world-switch-2-time-trial-best-characters-1851785952" target="_blank">The Best Characters And Karts For Smashing Mario Kart World Time Trial Records</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-09 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9b95b4fe5edc0014141fab03e4bbc8c3.jpg" alt="Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-blue-shells-mushrooms-bullet-bill-1851785913" target="_blank">Mario Kart World: 8 Clever Ways To Dodge Blue Shells And Keep Your Lead</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-09 19:37</span>
             </div>
         </div>
 </div>
@@ -344,7 +345,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
