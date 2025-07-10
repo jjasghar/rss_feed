@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 15:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-10 16:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250627-birthright-citizenship-16x9-mn-1045-286918.jpg" alt="Judge blocks Trump&#x27;s order restricting birthright citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-blocks-trumps-order-restricting-birthright-citizenship-rcna217996" target="_blank">Judge blocks Trump&#x27;s order restricting birthright citizenship</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-10 15:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,29 @@
                 <span class="time">2025-07-10 11:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5461091/texas-flooding-warning-system-fema" target="_blank">Kerr County struggled to fund flood warnings. Under Trump, it&#x27;s getting even harder</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 09:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/nvidia-reportedly-plans-to-release-new-ai-chip-designed-for-china/" target="_blank">Nvidia reportedly plans to release new AI chip designed for China</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686bc5f7f24ef4a6bf8a6fb5/master/pass/5.jpg" alt="7 Best Prime Day TV Deals for All Budgets (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-tv-deals-july-2025-2/" target="_blank">7 Best Prime Day TV Deals for All Budgets (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +160,6 @@
                 <span class="time">2025-07-10 14:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/us-appeals-court-blocks-ftcs-click-to-cancel-rule-for-subscriptions/" target="_blank">US appeals court blocks FTC’s ‘click-to-cancel’ rule for subscriptions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued" target="_blank">Nintendo is ending its cost-saving Switch game vouchers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +168,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.15.6-Linux-6.12.37-LTS" target="_blank">Linux 6.15.6, 6.12.37 LTS &amp; Other Stable Kernels Deliver TSA Mitigations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-10 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Mozilla-VPn-Flathub.jpg?resize=406%2C232&amp;ssl=1" alt="Mozilla VPN Linux App is Now Available on Flathub" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/mozilla-vpn-linux-app-available-flathub" target="_blank">Mozilla VPN Linux App is Now Available on Flathub</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-10 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/iamprincejkc/gpt-5-is-coming-and-it-might-be-smarter-than-sam-altman-4bm8" target="_blank">GPT-5 Is Coming And It Might Be Smarter Than Sam Altman</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-10 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/policy-network-architecture/en/mediumimage/anna-berenberg-medium-1751622407858.jpg" alt="Presentation: One Network: Cloud-Agnostic Service and Policy-Oriented Network Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/policy-network-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: One Network: Cloud-Agnostic Service and Policy-Oriented Network Architecture</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-10 14:42</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +217,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/10/vote-on-our-new-identity/" target="_blank">Have your say on the evolution of our identity</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-10 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504772&w=600" alt="Why Tailwind CSS Can Be Used Instead of Bootstrap CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/where-tailwindcss-can-be-used-instead-of-bootstrap" target="_blank">Why Tailwind CSS Can Be Used Instead of Bootstrap CSS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/djamware_tutorial_eba1a61/aspnet-core-8-angular-20-sql-server-full-stack-app-tutorial-56mb" target="_blank">ASP.NET Core 8 + Angular 20 + SQL Server: Full Stack App Tutorial</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 12:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq3b7d0onr2qq29eoroq.png" alt="Understanding Next.js 15: A Complete Guide for React Developers (PART 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fonyuygita/understanding-nextjs-15-a-complete-guide-for-react-developers-part-1-1o5m" target="_blank">Understanding Next.js 15: A Complete Guide for React Developers (PART 1)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 11:44</span>
             </div>
         </div>
 </div>
@@ -240,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e405a813a009f269ad1bcbe8ac47f888.jpg" alt="Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pauline-donkey-kong-bananza-timeline-dk-lore-1851786019" target="_blank">Nintendo Has The Best Reason For Why Pauline Is In Donkey Kong Bananza</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-10 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/grok-x-twitter-image.jpg" alt="Elon Musk’s Newest AI Chatbot Is Powerful, Controversial, and Already Under Fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-newest-ai-chatbot-is-powerful-controversial-and-already-under-fire-2000627553" target="_blank">Elon Musk’s Newest AI Chatbot Is Powerful, Controversial, and Already Under Fire</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZTDQYYZD198NVM9SHQTB7RY/hero-image.png" alt="Samsung&#x27;s Galaxy Watch 8 Will Include Some Intriguing New Health Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/samsungs-galaxy-watch-8-new-health-metrics?utm_medium=RSS" target="_blank">Samsung&#x27;s Galaxy Watch 8 Will Include Some Intriguing New Health Metrics</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6f03beb06a1890213ea594fc84eaeba2.jpg" alt="With The End Of Poker Face Season 2, It&#x27;s Time To Binge One Of The Best Shows On TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +292,6 @@
                 <span class="time">2025-07-10 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Magnificently-captioned-BBC-drone-footage-explai.jpg?fit=1080%2C614&amp;quality=60&amp;ssl=1" alt="Irish unionists look forward to holding giant bonfire next to asbestos dump and electricity substation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/irish-unionists-look-forward-to-holding-giant-bonfire-next-to-asbestos-dump-and-electricity-substation.html" target="_blank">Irish unionists look forward to holding giant bonfire next to asbestos dump and electricity substation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZT35KD3FH3JB3ERWT0F1AT2/hero-image.png" alt="Samsung&#x27;s Popular &#x27;The Frame&#x27; TV Is Nearly Half Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsungs-the-frame-tv-sale-prime-day-2025?utm_medium=RSS" target="_blank">Samsung&#x27;s Popular &#x27;The Frame&#x27; TV Is Nearly Half Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 13:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZSQF4CJFP82WSHWER7Z0XE6/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are Even Cheaper for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-fe-deal-prime-day-2025?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Earbuds Are Even Cheaper for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 12:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +306,13 @@
                 <span class="time">2025-07-09 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1751942799-20250715.png" alt="Saturday Morning Breakfast Cereal - Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/special-4" target="_blank">Saturday Morning Breakfast Cereal - Special</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
