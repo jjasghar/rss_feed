@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 21:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-10 22:01:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Pro basketball player and 4 youths arrested in connection to ransomware crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/" target="_blank">Pro basketball player and 4 youths arrested in connection to ransomware crimes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/" target="_blank">Former Intel CEO launches a benchmark to measure AI alignment</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6865c66a3867188c8e70dc3b/master/pass/8.jpg" alt="13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,29 +160,20 @@
                 <span class="time">2025-07-10 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available" target="_blank">Windows 11’s new Black Screen of Death is now rolling out</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/mockly-made-a-fake-dm-generator-thats-actually-user-friendly/" target="_blank">Mockly made a fake DM generator that’s actually user-friendly</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.0.19-Released" target="_blank">OpenCL 3.0.19 Released With SPIR-V Queries &amp; Android Hardware Buffer Extensions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-10 19:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 With Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +219,6 @@
                 <span class="time">2025-07-10 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18506167&w=600" alt="Master AI Development: The Ultimate Guide to LangChain, LangGraph, LangFlow, and LangSmith" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/langchain-langgraph-langflow-langsmith-ai-guide" target="_blank">Master AI Development: The Ultimate Guide to LangChain, LangGraph, LangFlow, and LangSmith</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-10 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025: Day 3 Live Updates on 100+ Best Deals for Macbooks, E-Readers, Smart Glasses, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/amazon-prime-day-07-10-2025-live-blog?utm_medium=RSS" target="_blank">Prime Day 2025: Day 3 Live Updates on 100+ Best Deals for Macbooks, E-Readers, Smart Glasses, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hellokittyskull.jpeg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="A digital frame that displays curated wisdom and philosophical insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +301,6 @@
                 <span class="time">2025-07-10 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZNAPREWVE4JK44PCV1FGDNY/hero-image.png" alt="I&#x27;m a Competitive Weightlifter, and These Are My Favorite Prime Day Deals on Fitness Equipment (So Far)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-fitness-deals-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;m a Competitive Weightlifter, and These Are My Favorite Prime Day Deals on Fitness Equipment (So Far)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
