@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 10:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 11:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +109,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam" target="_blank">YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh" target="_blank">Samsung says its trifold phone should launch ‘this year’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-10 09:48</span>
@@ -146,20 +159,20 @@
                 <span class="time">2025-07-10 05:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223538388-500x500.jpg" alt="Here’s why Trump appointed the Secretary of Transportation to lead NASA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/" target="_blank">Here’s why Trump appointed the Secretary of Transportation to lead NASA</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 01:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-To-Remove-pktcdvd" target="_blank">Linux 6.17 Looks To Drop The pktcdvd Packet Writing CD/DVD Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-10 10:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2025-07-10 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdhxmqmu63ikrvjkrcf71.jpg" alt="STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4" target="_blank">STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 06:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Q7-M5.jpg" alt="Roborock Prime Day Is Prime Time to Discover the Incredible New Qrevo and Q Series Robot Cleaners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/roborock-prime-day-will-be-prime-time-to-discover-the-incredible-new-qrevo-and-q-series-robot-cleaners-2000620442" target="_blank">Roborock Prime Day Is Prime Time to Discover the Incredible New Qrevo and Q Series Robot Cleaners</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZS65KAK33NA8CWPV85NEB17/hero-image.jpg" alt="The Best Prime Day Battery Deal You’re Probably Ignoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +291,6 @@
                 <span class="time">2025-07-10 01:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/NightattheMuseum.jpg" alt="‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/night-at-the-museum-franchise-gets-reboot-at-disney-20-years-after-the-first-film-2000627202" target="_blank">‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
