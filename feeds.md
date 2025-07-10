@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 12:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 13:11:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025" target="_blank">The best Prime Day deals on games, hardware, and accessories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 13:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1407267429-500x500.jpg" alt="Mighty mitochondria: Cell powerhouses harnessed for healing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,20 +156,29 @@
                 <span class="time">2025-07-10 06:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo" target="_blank">Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504772&w=600" alt="Why Tailwind CSS Can Be Used Instead of Bootstrap CSS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/where-tailwindcss-can-be-used-instead-of-bootstrap" target="_blank">Why Tailwind CSS Can Be Used Instead of Bootstrap CSS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/djamware_tutorial_eba1a61/aspnet-core-8-angular-20-sql-server-full-stack-app-tutorial-56mb" target="_blank">ASP.NET Core 8 + Angular 20 + SQL Server: Full Stack App Tutorial</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 12:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq3b7d0onr2qq29eoroq.png" alt="Understanding Next.js 15: A Complete Guide for React Developers (PART 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +215,6 @@
                 <span class="time">2025-07-10 09:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rpallas.xyz/math-parser/" target="_blank">Optimizing a Math Expression Parser in Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-10 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/charmed-feast-feature-store-launch" target="_blank">Canonical announces Charmed Feast: A production-grade feature store for your open source MLOps stack</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-10 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZSQF4CJFP82WSHWER7Z0XE6/hero-image.png" alt="These Budget-Friendly Samsung Earbuds Are Even Cheaper for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-buds-fe-deal-prime-day-2025?utm_medium=RSS" target="_blank">These Budget-Friendly Samsung Earbuds Are Even Cheaper for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/00411121acfac8333eef19e30242cc81.png" alt="Nintendo Is Killing The Best Deal On Switch But Not Before You Can Use It To Save On Pokémon Legends: Z-A" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-vouchers-pokemon-za-metroid-prime-4-preorder-1851785969" target="_blank">Nintendo Is Killing The Best Deal On Switch But Not Before You Can Use It To Save On Pokémon Legends: Z-A</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Q7-M5.jpg" alt="Roborock Prime Day Is Prime Time to Discover the Incredible New Qrevo and Q Series Robot Cleaners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +288,6 @@
                 <span class="time">2025-07-10 03:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZS01T39NR9P2EVXF3SDM1QZ/hero-image.jpg" alt="This Gadget Is the Best Mosquito Repeller I’ve Ever Used, and It’s 36% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/thermacell-mosquito-repellent-prime-day-2025?utm_medium=RSS" target="_blank">This Gadget Is the Best Mosquito Repeller I’ve Ever Used, and It’s 36% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Inset-of-CBLDF-poster-art.-Use-with-permission.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="&quot;Biker Mice from Mars&quot; ride again… for free speech! CBLDF&#x27;s Comic-Con party is back for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/biker-mice-from-mars-ride-again-for-free-speech-cbldfs-comic-con-party-is-back-for-2025.html" target="_blank">&quot;Biker Mice from Mars&quot; ride again… for free speech! CBLDF&#x27;s Comic-Con party is back for 2025</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 01:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
