@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 02:34:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 03:26:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 02:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 03:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/trump-assails-ex-fbi-cia-heads-amid-reports-of-criminal-probe?traffic_source=rss" target="_blank">Trump assails ex-FBI, CIA heads amid reports of criminal probe</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 02:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-smoke-gaza-khan-younis_6960948.jpg?20250709131121" alt="Gaza permanent ceasefire &#x27;questionable&#x27; - but possible &#x27;within weeks, not a day&#x27;, says senior Israeli official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-permanent-ceasefire-questionable-but-possible-within-weeks-not-a-day-says-senior-israeli-official-13394795" target="_blank">Gaza permanent ceasefire &#x27;questionable&#x27; - but possible &#x27;within weeks, not a day&#x27;, says senior Israeli official</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-10 02:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/09/1255376157/central-texas-community-comes-together" target="_blank">After devastating floods a Central Texas community comes together</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-10 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5460872/philadelphia-city-workers-reach-tentative-agreement-to-end-strike" target="_blank">Philadelphia city workers reach tentative agreement to end strike</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-09 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af7/live/db62a170-5d01-11f0-a844-279cd2217db0.jpg" alt="Ex-Tory chairman Jake Berry defects to Reform UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx24lll3n99o" target="_blank">Ex-Tory chairman Jake Berry defects to Reform UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-09 22:17</span>
             </div>
         </div>
 </div>
@@ -160,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2" target="_blank">🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 03:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzi8l8hrcsv2v3ebz3wq.png" alt="Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +223,6 @@
                 <span class="time">2025-07-09 20:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/ubuntu-raspberry-pi.jpg?resize=406%2C232&amp;ssl=1" alt="The Way Ubuntu Boots on Raspberry Pi is Changing in 25.10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-raspberry-pi-boot-process-change" target="_blank">The Way Ubuntu Boots on Raspberry Pi is Changing in 25.10</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-09 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZS2SKPFW3KD1ATX9TAWS2PP/hero-image.png" alt="Apple’s iPad Mini Is $120 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apples-ipad-mini-is-120-off-for-prime-day-2025?utm_medium=RSS" target="_blank">Apple’s iPad Mini Is $120 Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 03:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZS01T39NR9P2EVXF3SDM1QZ/hero-image.jpg" alt="This Gadget Is the Best Mosquito Repeller I’ve Ever Used, and It’s 36% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/viture-ar-glasses-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;ve Been Dying to Try These AR Smart Glasses, and Now They&#x27;re $150 Off for Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-09 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Fooducate-Pro-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="The Fooducate Pro Meal-Tracking App is 20% off with code DROP20" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/the-fooducate-pro-meal-tracking-app-is-20-off-with-code-drop20.html" target="_blank">The Fooducate Pro Meal-Tracking App is 20% off with code DROP20</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 21:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:34 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
