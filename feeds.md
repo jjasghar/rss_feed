@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 11:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 12:01:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/israel-arrests-50-across-occupied-west-bank-jenin-displaced-return-briefly?traffic_source=rss" target="_blank">Israel arrests 50 across occupied West Bank; Jenin displaced return briefly</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76933/up-first-newsletter-texas-floods-vigil-fema-measles" target="_blank">Data reveals FEMA missed major flood risks. And, measles hit highest level in decades</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 11:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,20 @@
                 <span class="time">2025-07-10 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76922/south-korean-court-arrest-president-yoon-suk-yeol" target="_blank">South Korean court approves new arrest of former President Yoon Suk Yeol</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/texas-mourns-flood-victims-at-vigil-as-search-continues-for-dozens-missing?traffic_source=rss" target="_blank">Texas mourns flood victims at vigil as search continues for dozens missing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 06:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1407267429-500x500.jpg" alt="Mighty mitochondria: Cell powerhouses harnessed for healing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/mighty-mitochondria-cell-powerhouses-harnessed-for-healing/" target="_blank">Mighty mitochondria: Cell powerhouses harnessed for healing</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 11:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,29 @@
                 <span class="time">2025-07-10 05:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/" target="_blank">Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 05:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feq3b7d0onr2qq29eoroq.png" alt="Understanding Next.js 15: A Complete Guide for React Developers (PART 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fonyuygita/understanding-nextjs-15-a-complete-guide-for-react-developers-part-1-1o5m" target="_blank">Understanding Next.js 15: A Complete Guide for React Developers (PART 1)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18504757&w=600" alt="Top 5 Trends in Big Data Quality and Governance in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-trends-in-big-data-quality-and-governance" target="_blank">Top 5 Trends in Big Data Quality and Governance in 2025</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +191,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-To-Remove-pktcdvd" target="_blank">Linux 6.17 Looks To Drop The pktcdvd Packet Writing CD/DVD Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-10 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/" target="_blank">Computer Scientists Figure Out How to Prove Lies</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-10 09:48</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +220,6 @@
                 <span class="time">2025-07-10 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/progresstelerik/angular-basics-how-to-get-the-value-of-a-selected-dropdown-menu-item-18ea" target="_blank">Angular Basics: How To Get the Value of a Selected Dropdown Menu Item</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/10/there-is-no-golden-path-anymore-engineering-practices-are-being-rewritten/" target="_blank">There is no golden path anymore: Engineering practices are being rewritten</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-10 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/meta-rust-dx/en/headerimage/header+%286%29-1752037222070.jpg" alt="From C to Rust: Inside Meta’s Developer-Led Messaging Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/meta-rust-dx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">From C to Rust: Inside Meta’s Developer-Led Messaging Migration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-10 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/yet-another-strava-privacy-leak.html" target="_blank">Yet Another Strava Privacy Leak</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/using-signal-groups-for-activism.html" target="_blank">Using Signal Groups for Activism</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-09 11:05</span>
+                <span class="time">2025-07-10 11:08</span>
             </div>
         </div>
 </div>
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
