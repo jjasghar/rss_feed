@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 04:08:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 05:03:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 04:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209d/live/1644eab0-5d1f-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Reform&#x27;s momentum is making the political weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e0vq4gxeno" target="_blank">Chris Mason: Reform&#x27;s momentum is making the political weather</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-10 04:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/uk-parliamentary-committee-seeks-answers-over-us-firm-bcgs-role-in-gaza?traffic_source=rss" target="_blank">UK parliamentary committee seeks answers over US firm BCG’s role in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 04:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/gaza-permanent-ceasefire-questionable-but-possible-within-weeks-not-a-day-says-senior-israeli-official-13394795" target="_blank">Gaza permanent ceasefire &#x27;questionable&#x27; - but possible &#x27;within weeks, not a day&#x27;, says senior Israeli official</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-10 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/if-trump-wants-gaza-ceasefire-he-must-pressure-netanyahu-experts-say?traffic_source=rss" target="_blank">If Trump wants Gaza ceasefire, he must pressure Netanyahu, experts say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-8-ap-gmh-250709_1752069474116_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: State death toll jumps to 120" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: State death toll jumps to 120</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-10 00:20</span>
             </div>
         </div>
 </div>
@@ -165,10 +162,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/10/there-is-no-golden-path-anymore-engineering-practices-are-being-rewritten/" target="_blank">There is no golden path anymore: Engineering practices are being rewritten</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-10 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/er-raj-aryan/how-to-stay-relevant-in-2025-mastering-modern-skills-for-the-future-job-market-3nc2" target="_blank">🔥 How to Stay Relevant in 2025: Mastering Modern Skills for the Future Job Market</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-10 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/" target="_blank">A Virginia public library is fighting off a takeover by private equity</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-10 03:05</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/miracle-wm-0-6-release-new-ipc" target="_blank">Miracle-WM 0.6 Released with More Refinements</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-09 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa42ypqttmi1m13ldj4f6.jpg" alt="Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tatcode/dashboard-template-with-html-css-js-bootstrap-5-clean-modular-ready-to-use-1do9" target="_blank">Dashboard Template with HTML, CSS, JS &amp; Bootstrap 5 – Clean, Modular &amp; Ready to Use</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mcp-b.ai/" target="_blank">MCP-B: A Protocol for AI Browser Automation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-09 22:37</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
