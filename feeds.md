@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 06:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 07:02:49 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76915/u-s-sanctions-united-nations-investigator-abuses-gaza" target="_blank">U.S. issues sanctions against United Nations investigator probing abuses in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 05:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,29 @@
                 <span class="time">2025-07-10 03:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/trump-assails-ex-fbi-cia-heads-amid-reports-of-criminal-probe?traffic_source=rss" target="_blank">Trump assails ex-FBI, CIA heads amid reports of criminal probe</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 02:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686f5ab00648d61437356ac0/master/pass/2193208237" alt="Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/" target="_blank">Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo" target="_blank">Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-10 05:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +156,6 @@
                 <span class="time">2025-07-10 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d391f5ef949b21811ea04/master/pass/videoframe_3815.png" alt="100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/prime-day-under-100-july-2025-1/" target="_blank">100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-09 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprise_music_2-500x500.jpg" alt="ChatGPT made up a product feature out of thin air, so this company created it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/" target="_blank">ChatGPT made up a product feature out of thin air, so this company created it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +168,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/10/there-is-no-golden-path-anymore-engineering-practices-are-being-rewritten/" target="_blank">There is no golden path anymore: Engineering practices are being rewritten</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-10 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdhxmqmu63ikrvjkrcf71.jpg" alt="STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zheng2a2e5f5b/stm32f103rct6-microcontroller-features-pinout-applications-and-power-management-1an4" target="_blank">STM32F103RCT6 Microcontroller: Features, Pinout, Applications, and Power Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://therecord.media/german-court-meta-tracking-tech" target="_blank">German court rules Meta tracking technology violates European privacy laws</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-10 05:06</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wayback-FreeDesktop.org" target="_blank">Wayback Is Now Hosted On FreeDesktop.org</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-10 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzi8l8hrcsv2v3ebz3wq.png" alt="Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/it0nyb/build-an-elder-scrolls-character-generator-with-google-ai-studio-deved-submission-1fbi" target="_blank">Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/02/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-WM 0.6 Released with More Refinements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/miracle-wm-0-6-release-new-ipc" target="_blank">Miracle-WM 0.6 Released with More Refinements</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-09 22:59</span>
             </div>
         </div>
 </div>
@@ -317,22 +311,13 @@
                 <span class="time">2025-07-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/09/horseplay" target="_blank">Horseplay</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-09 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
