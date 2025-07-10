@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 08:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 09:02:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-dunkirk-migrants-migrant-crossings_6961554.jpg?20250710081710" alt="This flimsy vessel carrying migrants could reach British waters in a few hours&#x27; time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/this-flimsy-vessel-carrying-migrants-could-reach-british-waters-in-a-few-hours-time-13394835" target="_blank">This flimsy vessel carrying migrants could reach British waters in a few hours&#x27; time</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-10 06:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -89,15 +96,6 @@
                 <span class="time">2025-07-10 04:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/uk-parliamentary-committee-seeks-answers-over-us-firm-bcgs-role-in-gaza?traffic_source=rss" target="_blank">UK parliamentary committee seeks answers over US firm BCG’s role in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/" target="_blank">Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-10 06:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/" target="_blank">Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 06:30</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/" target="_blank">Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-10 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/" target="_blank">Why Cluely’s Roy Lee isn’t sweating cheating detectors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 00:36</span>
             </div>
         </div>
 </div>
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
