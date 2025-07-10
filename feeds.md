@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 01:29:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 02:34:23 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +48,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/if-trump-wants-gaza-ceasefire-he-must-pressure-netanyahu-experts-say?traffic_source=rss" target="_blank">If Trump wants Gaza ceasefire, he must pressure Netanyahu, experts say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-10 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flood-8-ap-gmh-250709_1752069474116_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: State death toll jumps to 120" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: State death toll jumps to 120</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-10 00:20</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +95,29 @@
                 <span class="time">2025-07-09 22:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/9/palestinian-children-killed-at-ghf-aid-sites-in-gaza?traffic_source=rss" target="_blank">Palestinian children killed at GHF aid sites in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-09 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223538388-500x500.jpg" alt="Here’s why Trump appointed the Secretary of Transportation to lead NASA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/" target="_blank">Here’s why Trump appointed the Secretary of Transportation to lead NASA</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-10 01:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686c00655a75e253c609987c/master/pass/7.jpg" alt="Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/" target="_blank">Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 01:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +154,6 @@
                 <span class="time">2025-07-09 21:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1186369127-500x500.jpg" alt="Cloudflare wants Google to change its AI search crawling. Google likely won’t." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/cloudflare-wants-google-to-change-its-ai-search-crawling-google-likely-wont/" target="_blank">Cloudflare wants Google to change its AI search crawling. Google likely won’t.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/" target="_blank">California lawmaker behind SB 1047 reignites push for mandated AI safety reports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-09 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +166,15 @@
                 <span class="title"><a href="https://dev.to/it0nyb/build-an-elder-scrolls-character-generator-with-google-ai-studio-deved-submission-1fbi" target="_blank">Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-09 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/02/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-WM 0.6 Released with More Refinements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/miracle-wm-0-6-release-new-ipc" target="_blank">Miracle-WM 0.6 Released with More Refinements</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-09 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +213,6 @@
                 <span class="time">2025-07-09 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jpster/javascript-map-explicacao-detalhada-casos-e-exemplos-de-uso-1h0j" target="_blank">JavaScript Map - Explicação detalhada, casos e exemplos de uso</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-09 20:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZS01T39NR9P2EVXF3SDM1QZ/hero-image.jpg" alt="This Gadget Is the Best Mosquito Repeller I’ve Ever Used, and It’s 36% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/thermacell-mosquito-repellent-prime-day-2025?utm_medium=RSS" target="_blank">This Gadget Is the Best Mosquito Repeller I’ve Ever Used, and It’s 36% Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 02:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/NightattheMuseum.jpg" alt="‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/09/the-fooducate-pro-meal-tracking-app-is-20-off-with-code-drop20.html" target="_blank">The Fooducate Pro Meal-Tracking App is 20% off with code DROP20</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-09 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZREH4V4AA6BBD26ERTB4BFH/hero-image.png" alt="I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/wireless-solar-camera-prime-day-2025?utm_medium=RSS" target="_blank">I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 20:50</span>
             </div>
         </div>
 </div>
@@ -336,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
