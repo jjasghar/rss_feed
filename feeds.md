@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 07:02:49 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-10 08:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/g-s1-76922/south-korean-court-arrest-president-yoon-suk-yeol" target="_blank">South Korean court approves new arrest of former President Yoon Suk Yeol</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/texas-mourns-flood-victims-at-vigil-as-search-continues-for-dozens-missing?traffic_source=rss" target="_blank">Texas mourns flood victims at vigil as search continues for dozens missing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 06:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/uk-parliamentary-committee-seeks-answers-over-us-firm-bcgs-role-in-gaza?traffic_source=rss" target="_blank">UK parliamentary committee seeks answers over US firm BCG’s role in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-10 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/10/rapper-aamron-arrest-protests-togo-ruling-dynasty" target="_blank">‘One too many’: rapper’s arrest sparks protests against Togo’s ruling dynasty</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-10 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5460970/fema-texas-flooding-floodplain-camp-mystic" target="_blank">New data reveals FEMA missed major flood risks at Camp Mystic</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 03:30</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/progresstelerik/angular-basics-how-to-get-the-value-of-a-selected-dropdown-menu-item-18ea" target="_blank">Angular Basics: How To Get the Value of a Selected Dropdown Menu Item</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/10/there-is-no-golden-path-anymore-engineering-practices-are-being-rewritten/" target="_blank">There is no golden path anymore: Engineering practices are being rewritten</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/" target="_blank">A Virginia public library is fighting off a takeover by private equity</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-10 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayback-FreeDesktop.org" target="_blank">Wayback Is Now Hosted On FreeDesktop.org</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-10 00:29</span>
             </div>
         </div>
 </div>
@@ -316,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
