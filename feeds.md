@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 00:04:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-10 01:29:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/if-trump-wants-gaza-ceasefire-he-must-pressure-netanyahu-experts-say?traffic_source=rss" target="_blank">If Trump wants Gaza ceasefire, he must pressure Netanyahu, experts say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-10 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752106641226_now_hallie_brazil_uhoh_250709_1920x1080-osov4q.jpg" alt="Trump says tariffs on Brazil partially due to country’s treatment of their former President Bolsonaro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-tariffs-on-brazil-partially-due-to-country-s-treatment-of-their-former-president-bolsonaro-242973253516" target="_blank">Trump says tariffs on Brazil partially due to country’s treatment of their former President Bolsonaro</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-10 00:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/1255376157/central-texas-community-comes-together" target="_blank">After devastating floods a Central Texas community comes together</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +99,20 @@
                 <span class="time">2025-07-09 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/09/trump-liberian-president-english" target="_blank">Trump praises English of the leader of Liberia – where English is the official language</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-09 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2021-07/nebula-cms-fallback-logos-breaking-4ad6c4.png" alt="Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-hits-brazil-50-percent-tariff-citing-ex-president-jair-bolsonaro-rcna217859" target="_blank">Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-09 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-12-rt-gmh-250708_1751977135219_hpMain_4x3t_384.jpg" alt="Texas county hard-hit by floods had contract, meeting set for warning system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/texas-flood-kickoff-meeting-kerr-county-warning-system/story?id=123622025" target="_blank">Texas county hard-hit by floods had contract, meeting set for warning system</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-09 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/why-cluelys-roy-lee-isnt-sweating-cheating-detectors/" target="_blank">Why Cluely’s Roy Lee isn’t sweating cheating detectors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 00:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686d391f5ef949b21811ea04/master/pass/videoframe_3815.png" alt="100 Best Prime Day Deals Under $100 (2025): LifeStraws, Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/" target="_blank">California lawmaker behind SB 1047 reignites push for mandated AI safety reports</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-09 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani" target="_blank">The Columbia hack is a much bigger deal than Mamdani’s college application</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-09 20:18</span>
             </div>
         </div>
 </div>
@@ -230,20 +231,20 @@
                 <span class="time">2025-07-09 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-patch-tuesday-july-2025-edition/" target="_blank">Microsoft Patch Tuesday, July 2025 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-09 00:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/NightattheMuseum.jpg" alt="‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/night-at-the-museum-franchise-gets-reboot-at-disney-20-years-after-the-first-film-2000627202" target="_blank">‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 00:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZRPP8PF2WHEK6F5G557WAYY/hero-image.jpg" alt="This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,30 +273,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Fooducate-Pro-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="The Fooducate Pro Meal-Tracking App is 20% off with code DROP20" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/the-fooducate-pro-meal-tracking-app-is-20-off-with-code-drop20.html" target="_blank">The Fooducate Pro Meal-Tracking App is 20% off with code DROP20</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-09 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZREH4V4AA6BBD26ERTB4BFH/hero-image.png" alt="I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/wireless-solar-camera-prime-day-2025?utm_medium=RSS" target="_blank">I Use This Solar-Powered Security Camera to Keep My Home Safe, and It&#x27;s $24 Off for Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-09 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/Screenshot-2024-11-22-at-7.03.26-PM-e1752093084434.png?fit=600%2C413&amp;quality=55&amp;ssl=1" alt="&quot;I AM BLEEDING INTERNALLY&quot; is the feel-bad song of the summer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/09/i-am-bleeding-internally-is-the-feel-bad-song-of-the-summer.html" target="_blank">&quot;I AM BLEEDING INTERNALLY&quot; is the feel-bad song of the summer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-09 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/401919a07a0671b09280ae82cfafaf6b.jpg" alt="The Best Characters And Karts For Smashing Mario Kart World Time Trial Records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-switch-2-time-trial-best-characters-1851785952" target="_blank">The Best Characters And Karts For Smashing Mario Kart World Time Trial Records</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-09 20:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
