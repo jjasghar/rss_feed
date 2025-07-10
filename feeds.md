@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 05:03:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-10 06:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/10/lobbyists-linked-donald-trump-poorest-countries-mineral-resources-trade-deals-for-us-aid-military-support" target="_blank">Lobbyists linked to Donald Trump paid millions by world’s poorest countries</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-10 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209d/live/1644eab0-5d1f-11f0-960d-e9f1088a89fe.jpg" alt="Chris Mason: Reform&#x27;s momentum is making the political weather" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +103,20 @@
                 <span class="time">2025-07-10 02:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-smoke-gaza-khan-younis_6960948.jpg?20250709131121" alt="Gaza permanent ceasefire &#x27;questionable&#x27; - but possible &#x27;within weeks, not a day&#x27;, says senior Israeli official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-permanent-ceasefire-questionable-but-possible-within-weeks-not-a-day-says-senior-israeli-official-13394795" target="_blank">Gaza permanent ceasefire &#x27;questionable&#x27; - but possible &#x27;within weeks, not a day&#x27;, says senior Israeli official</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-10 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/" target="_blank">Elon Musk’s xAI launches Grok 4 alongside a $300 monthly subscription</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 05:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223538388-500x500.jpg" alt="Here’s why Trump appointed the Secretary of Transportation to lead NASA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/" target="_blank">ChatGPT made up a product feature out of thin air, so this company created it</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-09 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025" target="_blank">The best Prime Day 2025 deals you can still get</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-09 21:42</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZS65KAK33NA8CWPV85NEB17/hero-image.jpg" alt="The Best Prime Day Battery Deal You’re Probably Ignoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-prime-day-2025-battery-deal-you-are-probably-ignoring?utm_medium=RSS" target="_blank">The Best Prime Day Battery Deal You’re Probably Ignoring</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 03:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JWW8390W77KKSDYBTM9VH210/hero-image.jpg" alt="Android Users Can Finally Sync Their Garmin Fitness Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -277,15 +294,6 @@
                 <span class="time">2025-07-10 00:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZRPP8PF2WHEK6F5G557WAYY/hero-image.jpg" alt="This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/razer-kishi-ultra-controller-on-sale-for-prime-day-2025?utm_medium=RSS" target="_blank">This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 23:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,7 +332,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:04 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
