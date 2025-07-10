@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 03:26:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-10 04:08:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 03:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 10, 2025 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/10/rapper-aamron-arrest-protests-togo-ruling-dynasty" target="_blank">‘One too many’: rapper’s arrest sparks protests against Togo’s ruling dynasty</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-10 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/09/nx-s1-5460970/fema-texas-flooding-floodplain-camp-mystic" target="_blank">New data reveals FEMA missed major flood risks at Camp Mystic</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: State death toll jumps to 120</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-10 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752106641226_now_hallie_brazil_uhoh_250709_1920x1080-osov4q.jpg" alt="Trump says tariffs on Brazil partially due to country’s treatment of their former President Bolsonaro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-says-tariffs-on-brazil-partially-due-to-country-s-treatment-of-their-former-president-bolsonaro-242973253516" target="_blank">Trump says tariffs on Brazil partially due to country’s treatment of their former President Bolsonaro</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-10 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/09/1255376157/central-texas-community-comes-together" target="_blank">After devastating floods a Central Texas community comes together</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 00:10</span>
             </div>
         </div>
 </div>
@@ -179,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayback-FreeDesktop.org" target="_blank">Wayback Is Now Hosted On FreeDesktop.org</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-10 00:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzi8l8hrcsv2v3ebz3wq.png" alt="Build an Elder Scrolls Character Generator with Google AI Studio (DevEd Submission)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -214,15 +216,6 @@
                 <span class="time">2025-07-09 22:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ubuntu-plenty-of-pis.jpg?resize=406%2C232&amp;ssl=1" alt="The Way Ubuntu Boots on Raspberry Pi is Changing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-raspberry-pi-boot-process-change" target="_blank">The Way Ubuntu Boots on Raspberry Pi is Changing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-09 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JWW8390W77KKSDYBTM9VH210/hero-image.jpg" alt="Android Users Can Finally Sync Their Garmin Fitness Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-getting-health-connect-garmin?utm_medium=RSS" target="_blank">Android Users Can Finally Sync Their Garmin Fitness Data</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-10 03:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZS2SKPFW3KD1ATX9TAWS2PP/hero-image.png" alt="Apple’s iPad Mini Is $120 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -261,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Inset-of-CBLDF-poster-art.-Use-with-permission.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="&quot;Biker Mice from Mars&quot; ride again… for free speech! CBLDF&#x27;s Comic-Con party is back for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/09/biker-mice-from-mars-ride-again-for-free-speech-cbldfs-comic-con-party-is-back-for-2025.html" target="_blank">&quot;Biker Mice from Mars&quot; ride again… for free speech! CBLDF&#x27;s Comic-Con party is back for 2025</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 01:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/NightattheMuseum.jpg" alt="‘Night at the Museum’ Franchise Gets Reboot at Disney 20 Years After the First Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/razer-kishi-ultra-controller-on-sale-for-prime-day-2025?utm_medium=RSS" target="_blank">This Controller Turns Your Phone Into a Gaming Console, and It&#x27;s 33% Off for Prime Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-09 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Krypto-Warner-Bros.-DC-Studios.jpg" alt="Krypto Has Become the DCU’s Baby Yoda Goldmine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/krypto-has-become-the-dcus-baby-yoda-goldmine-2000626936" target="_blank">Krypto Has Become the DCU’s Baby Yoda Goldmine</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-09 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZRJXNW4MPJZ07SC9WYMZP9E/hero-image.jpg" alt="I&#x27;ve Been Dying to Try These AR Smart Glasses, and Now They&#x27;re $150 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/viture-ar-glasses-prime-day-2025?utm_medium=RSS" target="_blank">I&#x27;ve Been Dying to Try These AR Smart Glasses, and Now They&#x27;re $150 Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-09 22:02</span>
             </div>
         </div>
 </div>
@@ -328,22 +321,13 @@
                 <span class="time">2025-07-09 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/fix_this_sign.png" alt="Fix This Sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3113/" target="_blank">Fix This Sign</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-09 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:26 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
