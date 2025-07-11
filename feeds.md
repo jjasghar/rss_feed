@@ -1,37 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 12:02:08 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-11 13:11:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/11/trumps-african-summit-was-a-masterclass-in-modern-colonial-theatre?traffic_source=rss" target="_blank">Trump’s African summit was a masterclass in modern colonial theatre</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 11:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f065/live/eb172460-5e37-11f0-b4c7-b192538570c2.jpg" alt="Health alerts and hosepipe bans as heatwave grips UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmv8x74ky9o" target="_blank">Health alerts and hosepipe bans as heatwave grips UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 11:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -81,24 +88,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/11/nx-s1-5436073/womens-wrestling-sports-muslim-uniforms" target="_blank">How 3 Muslim sisters helped change the rules of American women&#x27;s wrestling</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-11 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f065/live/eb172460-5e37-11f0-b4c7-b192538570c2.jpg" alt="Heat health alerts issued across England as heatwave grips UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmv8x74ky9o" target="_blank">Heat health alerts issued across England as heatwave grips UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 10:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-aid_6957523.jpg?20250705015000" alt="At least 798 people have been killed at Gaza aid points, the UN says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-798-people-have-been-killed-at-gaza-aid-points-the-un-says-13395360" target="_blank">At least 798 people have been killed at Gaza aid points, the UN says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-11 10:07</span>
             </div>
         </div>
 </div>
@@ -166,6 +155,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba" target="_blank">A Day in the Life of a DevOps Engineer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/docker-desktop-442/en/headerimage/Docker-1752038211333.jpeg" alt="Docker Desktop 4.42 Launches with Native IPv6, Integrated MCP Toolkit, and AI Model Packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -210,15 +208,6 @@
                 <span class="time">2025-07-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-Mesh-Shader-Start" target="_blank">RadeonSI Begins Upstreaming Its OpenGL Mesh Shader Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-11 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/interstellar-object-31Atlast-1.jpeg" alt="An Interstellar Comet Is Here, and Its Age Is Mind-Bending" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-third-interstellar-visitor-is-here-and-astronomers-might-know-where-it-came-from-2000626820" target="_blank">An Interstellar Comet Is Here, and Its Age Is Mind-Bending</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c8d79a88971c1f238eb955c39e864ea8.jpg" alt="Ghost of Yōtei State Of Play Reveals A Stunning Open-World Of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +290,6 @@
                 <span class="time">2025-07-11 03:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I’m a Terrible Musician but I Love Playing This MIDI Keyboard, and It’s $20 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/akai-midi-keyboard-prime-day-2025?utm_medium=RSS" target="_blank">I’m a Terrible Musician but I Love Playing This MIDI Keyboard, and It’s $20 Off for Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-11 03:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
