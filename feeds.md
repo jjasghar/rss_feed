@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 14:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 15:01:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e43/live/c627b110-5e50-11f0-abc2-f594647315a9.jpg" alt="Ukraine to receive US air defence systems, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crl04200dp4o" target="_blank">Ukraine to receive US air defence systems, says Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 12:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +95,20 @@
                 <span class="time">2025-07-11 10:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/07/11/nx-s1-5436073/womens-wrestling-sports-muslim-uniforms" target="_blank">How 3 Muslim sisters helped change the rules of American women&#x27;s wrestling</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Hero-500x500.jpg" alt="Lamborghini follows successful racing Huracan with new Temerario GT3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/lamborghini-follows-successful-racing-huracan-with-new-temerario-gt3/" target="_blank">Lamborghini follows successful racing Huracan with new Temerario GT3</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-07-11 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions" target="_blank">Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 08:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18503400&w=600" alt="The Cybersecurity Blind Spot in DevOps Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cybersecurity-blind-spot-devops-pipelines" target="_blank">The Cybersecurity Blind Spot in DevOps Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Ftikrack%2Ftikcopy%2Fassets%2Fyour-image-link.png" alt="TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2025-07-11 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill" target="_blank">Bill Atkinson&#x27;s Psychedelic User Interface</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-11 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screen-Shot-2025-07-10-at-3.10.11-PM.png?fit=1274%2C1130&amp;quality=55&amp;ssl=1" alt="The Blemmyes: exploring the mythical headless people of medieval lore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/11/the-blemmyes-exploring-the-mythical-headless-people-of-medieval-lore.html" target="_blank">The Blemmyes: exploring the mythical headless people of medieval lore</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-11 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/interstellar-object-31Atlast-1.jpeg" alt="An Interstellar Comet Is Here, and Its Age Is Mind-Bending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -291,15 +295,6 @@
                 <span class="time">2025-07-11 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/pollen-allergy-lead.jpg" alt="This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-molecular-shield-might-stop-pollen-before-it-wrecks-your-nose-2000627787" target="_blank">This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
