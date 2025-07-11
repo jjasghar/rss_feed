@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 05:04:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-11 06:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -118,6 +115,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/" target="_blank">Grok 4 seems to consult Elon Musk to answer controversial questions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 00:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/news-063025b-lg-500x500.jpg" alt="“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -153,20 +159,29 @@
                 <span class="time">2025-07-10 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2214639013-500x500.jpg" alt="Woman takes 10x dose of turmeric, gets hospitalized for liver damage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/woman-takes-10x-dose-of-turmeric-gets-hospitalized-for-liver-damage/" target="_blank">Woman takes 10x dose of turmeric, gets hospitalized for liver damage</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/11/how-your-favorite-movie-is-changing-language-learning-technology/" target="_blank">How your favorite movie is changing language learning technology</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-11 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwv3nu1cumqgvk94l9db.png" alt="Find the cycle section for infinite cyclic decimals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/esproc_spl/find-the-cycle-section-for-infinite-cyclic-decimals-1app" target="_blank">Find the cycle section for infinite cyclic decimals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 05:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzupb463gqb4s5g7kqwoc.png" alt="Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf" target="_blank">Model Mondays S2E04 - AI Developer Experiences</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 03:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Driver-Linux-6.17-Big" target="_blank">Intel Readies Big Graphics Driver Changes For Linux 6.17: Multi-Device Prep, SR-IOV, WCL</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-11 00:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-11-2025-red-hat" target="_blank">Friday Five — July 11, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-11 00:00</span>
             </div>
         </div>
 </div>
@@ -258,6 +255,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZVB9KC0S8X18GWPCQ3VXDJS/hero-image.png" alt="These Are the Best Prime Day Deals on PlayStation and Xbox Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/playstation-xbox-games-on-sale-prime-day-2025?utm_medium=RSS" target="_blank">These Are the Best Prime Day Deals on PlayStation and Xbox Games</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 03:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I’m a Terrible Musician but I Love Playing This MIDI Keyboard, and It’s $20 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +309,6 @@
                 <span class="time">2025-07-10 23:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Andor-Lucasfilm-1.jpg" alt="This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-vfx-breakdown-for-andor-season-2-showcases-the-power-of-practical-locations-2000627868" target="_blank">This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
