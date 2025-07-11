@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 22:01:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-11 23:01:44 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/fuel-switches-cut-off-just-before-deadly-air-india-crash-early-report-says?traffic_source=rss" target="_blank">Fuel switches cut off just before deadly Air India crash, early report says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-dan-bongino-se-532p-56471c.jpg" alt="Dan Bongino weighs resigning from FBI after heated confrontation with Pam Bondi over Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388" target="_blank">Dan Bongino weighs resigning from FBI after heated confrontation with Pam Bondi over Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-11 22:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/air-india-10-gty-gmh-250613_1749819387049_hpMain_4x3t_384.jpg" alt="Fuel switches on Air India flight cut off moments before fatal crash: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/fuel-switches-air-india-flight-cut-off-moments/story?id=123688453" target="_blank">Fuel switches on Air India flight cut off moments before fatal crash: Report</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-11 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5459994/south-carolina-honors-robert-smalls-with-first-statue-of-a-black-man-at-the-capitol" target="_blank">South Carolina honors Robert Smalls with first statue of a Black man at the Capitol</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 21:54</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +100,29 @@
                 <span class="time">2025-07-11 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/us-court-nixes-guilty-plea-for-alleged-9-11-attacks?traffic_source=rss" target="_blank">US court nixes guilty plea for alleged 9/11 attacks mastermind</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752264516172_now_brk_trump_kerrville_intro_250711_1920x1080-caxg1d.jpg" alt="Trump speaks from Texas after deadly floods: ‘Filled with grief and devastation’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-speaks-from-kerrville-after-deadly-texas-floods-243094085707" target="_blank">Trump speaks from Texas after deadly floods: ‘Filled with grief and devastation’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-11 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-ahmedabad-plane-crash_6944966.jpg?20250618101311" alt="Fuel to engines of Air India plane that crashed cut off moments after take-off, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/fuel-to-engines-of-air-india-plane-cut-off-moments-before-crash-preliminary-report-finds-13395620" target="_blank">Fuel to engines of Air India plane that crashed cut off moments after take-off, report finds</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-11 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/windsurfs-ceo-goes-to-google-openais-acquisition-falls-apart/" target="_blank">Windsurf’s CEO goes to Google; OpenAI’s acquisition falls apart</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4" target="_blank">Prime Day is almost over, but our favorite deals are still live</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +159,6 @@
                 <span class="time">2025-07-11 20:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/" target="_blank">India’s richest man wants to turn every TV into a PC</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-11 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/slumber-cloud-sale-july-2025/" target="_blank">Slumber Cloud&#x27;s Sale Is One Not to Miss Before Prime Day Ends</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-11 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/zuuwn21/uniface-forlistendfor-mastering-list-loops-kaj" target="_blank">🔄 Uniface forlist...endfor: Mastering List Loops</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.theverge.com/openai/705999/google-windsurf-ceo-openai" target="_blank">OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-11 21:35</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +218,6 @@
                 <span class="time">2025-07-11 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amitkumar13/handling-deep-links-deferred-deep-links-user-invites-in-react-native-using-appsflyer-58bg" target="_blank">Handling Deep Links, Deferred Deep Links &amp; User Invites in React Native using AppsFlyer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 17:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-strange-new-worlds-season-3-pike-number-one.jpg" alt="Everything to Remember Before ‘Star Trek: Strange New Worlds’ Returns for Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-everything-to-remember-season-3-2000628308" target="_blank">Everything to Remember Before ‘Star Trek: Strange New Worlds’ Returns for Season 3</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Trump still thinks wind farms are killing whales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/11/trump-still-thinks-windfarms-are-killing-whales.html" target="_blank">Trump still thinks wind farms are killing whales</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-11 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ3TH33QTE0W8ZNER51V1627/hero-image.png" alt="Tonight Is Your Last Chance to Grab These Prime Day Tech Deals for Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/last-chance-best-tech-deals-under-25-prime-day-2025?utm_medium=RSS" target="_blank">Tonight Is Your Last Chance to Grab These Prime Day Tech Deals for Under $25</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 22:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/lenovo-tab-plus-review-2.jpg" alt="Lenovo Tab Plus Review: An Unmatched Audio Experience Among Tablets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,38 +300,20 @@
                 <span class="time">2025-07-11 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/George-Lucas-Photo-Gustavo-Caballero-Getty-Images.jpg" alt="George Lucas Is Coming to Comic-Con For the First Time Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-george-lucas-panel-hall-h-2000628190" target="_blank">George Lucas Is Coming to Comic-Con For the First Time Ever</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/samiels.jpg?fit=1494%2C874&amp;quality=60&amp;ssl=1" alt="Public libraries fight private equity takeovers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/11/public-libraries-fight-private-equity-takeovers.html" target="_blank">Public libraries fight private equity takeovers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-11 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tunnel.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Uncover secret spots in national parks, from ancient trees to mountain tunnels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/11/uncover-secret-spots-in-national-parks-from-ancient-trees-to-mountain-tunnels.html" target="_blank">Uncover secret spots in national parks, from ancient trees to mountain tunnels</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-11 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/11/turmoil-in-the-toybox" target="_blank">Turmoil In The Toybox</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-11 18:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -348,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
