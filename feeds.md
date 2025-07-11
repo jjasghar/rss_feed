@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 21:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-11 22:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/air-india-10-gty-gmh-250613_1749819387049_hpMain_4x3t_384.jpg" alt="Fuel switches on Air India flight cut off moments before fatal crash: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/fuel-switches-air-india-flight-cut-off-moments/story?id=123688453" target="_blank">Fuel switches on Air India flight cut off moments before fatal crash: Report</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-11 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/11/trumps-new-brazil-tariffs-could-raise-us-beef-prices?traffic_source=rss" target="_blank">Trump’s new Brazil tariffs could raise US beef prices</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5465063/air-india-boeing-787-crash-report" target="_blank">Preliminary report says fuel switches were cut off before Air India Boeing 787 crash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 21:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +102,20 @@
                 <span class="time">2025-07-11 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/cambodia-passes-constitutional-change-allowing-govt-to-revoke-citizenship?traffic_source=rss" target="_blank">Cambodia passes constitutional change allowing gov’t to revoke citizenship</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5464835/guantanamo-gitmo-9-11-plea-deal-ruling" target="_blank">Guantánamo plea deals for accused 9/11 plotters are canceled by federal appeals court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-10-gty-jef-250711_1752258358263_hpMain_4x3t_384.jpg" alt="Trump visits Texas flood zone while avoiding criticism he&#x27;s heaped on other governors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-texas-after-catastrophic-flooding-avoiding-criticism/story?id=123650032" target="_blank">Trump visits Texas flood zone while avoiding criticism he&#x27;s heaped on other governors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-11 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal" target="_blank">The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2025-07-11 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025" target="_blank">Here are 58 Prime Day deals you can still nab for $50 or less</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zuuwn21/uniface-forlistendfor-mastering-list-loops-kaj" target="_blank">🔄 Uniface forlist...endfor: Mastering List Loops</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18406690&w=600" alt="How to Reduce Technical Debt With Artificial Intelligence (AI)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-powered-technical-debt-reduction-saas" target="_blank">How to Reduce Technical Debt With Artificial Intelligence (AI)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +220,20 @@
                 <span class="time">2025-07-11 17:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Attack-Vector-Controls-Coming" target="_blank">Attack Vector Controls Could Be Ready For Linux 6.17 Introduction</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-11 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18508002&w=600" alt="Beyond the Glass Slab: How AI Voice Assistants are Morphing Into Our Real-Life JARVIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/jarvis-agentic-ai-voice-assistants-future" target="_blank">Beyond the Glass Slab: How AI Voice Assistants are Morphing Into Our Real-Life JARVIS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html" target="_blank">Squid Dominated the Oceans in the Late Cretaceous</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-11 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -334,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
