@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 09:02:25 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-07-11 10:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions" target="_blank">Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 08:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/686c28a46f1cf52d58e8f245/master/pass/7.jpg" alt="The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +152,29 @@
                 <span class="time">2025-07-10 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/" target="_blank">AWS is launching an AI agent marketplace next week with Anthropic as a partner</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/aws-cloudfront-https-dns/en/headerimage/generatedHeaderImage-1752078153656.jpg" alt="AWS CloudFront Adds HTTPS DNS Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-cloudfront-https-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS CloudFront Adds HTTPS DNS Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-11 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/s_hadowheart/starnet-forum-3n7a" target="_blank">StarNet Forum</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 09:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/agentic-ai-architecture-framework/en/headerimage/agentic-ai-architecture-framework-header-1752043295919.jpg" alt="Article: Agentic AI Architecture Framework for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +209,6 @@
                 <span class="title"><a href="https://developers.googleblog.com/en/genai-processors/" target="_blank">GenAI Processors: Build powerful and flexible Gemini applications</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-11 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwv3nu1cumqgvk94l9db.png" alt="Find the cycle section for infinite cyclic decimals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/esproc_spl/find-the-cycle-section-for-infinite-cyclic-decimals-1app" target="_blank">Find the cycle section for infinite cyclic decimals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzupb463gqb4s5g7kqwoc.png" alt="Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1" target="_blank">Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 04:47</span>
             </div>
         </div>
 </div>
@@ -254,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dimorphos.jpg" alt="Deflecting a Killer Asteroid Is More Complicated Than NASA Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/deflecting-a-killer-asteroid-is-more-complicated-than-nasa-thought-2000627783" target="_blank">Deflecting a Killer Asteroid Is More Complicated Than NASA Thought</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/pollen-allergy-lead.jpg" alt="This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +302,6 @@
                 <span class="time">2025-07-11 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/atomic-bowl.jpg?fit=1080%2C833&amp;quality=60&amp;ssl=1" alt="Documentary uncovers forgotten 1946 football game months after Nagasaki bombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/documentary-uncovers-forgotten-1946-football-game-months-after-nagasaki-bombing.html" target="_blank">Documentary uncovers forgotten 1946 football game months after Nagasaki bombing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
