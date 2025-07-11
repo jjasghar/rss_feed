@@ -1,45 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 11:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-11 12:02:08 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 36 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/g-s1-77158/bayeux-tapestry-returns-to-u-k" target="_blank">Part war propaganda, part comic strip, Bayeux Tapestry to return to U.K.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/11/trumps-tariff-threat-to-brazil-is-a-gift-to-lula?traffic_source=rss" target="_blank">Trump’s tariff threat to Brazil is a gift to Lula</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 11:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,29 +101,20 @@
                 <span class="time">2025-07-11 10:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac3/live/d01673f0-5e37-11f0-b4c7-b192538570c2.jpg" alt="Iran could recover some enriched uranium after US strikes, Israeli official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0qzxvydz1o" target="_blank">Iran could recover some enriched uranium after US strikes, Israeli official says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/suspect-crop_1752219720759_hpMain_4x3t_384.jpg" alt="$50,000 reward offered for protester at ICE clashes in Southern California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/fbi-offers-50000-reward-info-person-appeared-fire/story?id=123668104" target="_blank">$50,000 reward offered for protester at ICE clashes in Southern California</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-11 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/77772-2048x1366-1-500x500.jpg" alt="In the Southwest, solar panels in can help both photovoltaics and crops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/in-the-southwest-solar-panels-in-can-help-both-photovoltaics-and-crops/" target="_blank">In the Southwest, solar panels in can help both photovoltaics and crops</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 11:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -159,20 +160,47 @@
                 <span class="time">2025-07-11 00:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/news-063025b-lg-500x500.jpg" alt="“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/its-a-heist-senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian/" target="_blank">“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/docker-desktop-442/en/headerimage/Docker-1752038211333.jpeg" alt="Docker Desktop 4.42 Launches with Native IPv6, Integrated MCP Toolkit, and AI Model Packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/docker-desktop-442/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Desktop 4.42 Launches with Native IPv6, Integrated MCP Toolkit, and AI Model Packaging</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/felipemattioli/feijucaauth-part-2-configuring-and-creating-your-first-realm-2m2i" target="_blank">Feijuca.Auth – Part 2: Configuring, Creating Realm, and using Feijuca.Auth.API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill" target="_blank">Bill Atkinson&#x27;s Psychedelic User Interface</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-11 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18506006&w=600" alt="Testing the MongoDB MCP Server Using SingleStore Kai" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/testing-mongodb-mcp-server-with-singlestore-kai" target="_blank">Testing the MongoDB MCP Server Using SingleStore Kai</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,42 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/RadeonSI-Mesh-Shader-Start" target="_blank">RadeonSI Begins Upstreaming Its OpenGL Mesh Shader Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-11 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/aws-cloudfront-https-dns/en/headerimage/generatedHeaderImage-1752078153656.jpg" alt="AWS CloudFront Adds HTTPS DNS Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-cloudfront-https-dns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS CloudFront Adds HTTPS DNS Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-11 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/s_hadowheart/starnet-forum-3n7a" target="_blank">StarNet Forum</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/agentic-ai-architecture-framework/en/headerimage/agentic-ai-architecture-framework-header-1752043295919.jpg" alt="Article: Agentic AI Architecture Framework for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-architecture-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Agentic AI Architecture Framework for Enterprises</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-11 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31oylaj8d59mnsyaub97.png" alt="JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/daswu/juicefs-community-13-python-sdk-faster-backup-sql-windows-optimizations-4l8e" target="_blank">JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 07:48</span>
             </div>
         </div>
 </div>
@@ -250,20 +242,20 @@
                 <span class="time">2025-07-10 17:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/using-signal-groups-for-activism.html" target="_blank">Using Signal Groups for Activism</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-10 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c8d79a88971c1f238eb955c39e864ea8.jpg" alt="Ghost of Yōtei State Of Play Reveals A Stunning Open-World Of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ghost-of-yotei-tsushima-sony-ps5-state-of-play-1851786081" target="_blank">Ghost of Yōtei State Of Play Reveals A Stunning Open-World Of Revenge</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Crypto Is on Fire as Bitcoin Nears $120K in Unstoppable Surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -309,15 +301,6 @@
                 <span class="time">2025-07-11 03:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/jimmy-olsen-mr-terrific.jpg" alt="DC Is Considering Spinoff Shows for ‘Superman’ Supporting Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dc-is-considering-spinoff-shows-for-superman-supporting-characters-2000627876" target="_blank">DC Is Considering Spinoff Shows for ‘Superman’ Supporting Characters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 00:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -346,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
