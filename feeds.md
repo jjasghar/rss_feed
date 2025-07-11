@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 15:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 16:01:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/russia-closing-polish-consulate-in-kaliningrad-in-tit-for-tat-move?traffic_source=rss" target="_blank">Russia closing Polish consulate in Kaliningrad in tit-for-tat move</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 15:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e43/live/c627b110-5e50-11f0-abc2-f594647315a9.jpg" alt="Ukraine to receive US air defence systems, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +105,29 @@
                 <span class="time">2025-07-11 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/beyond-horrific-several-killed-in-israeli-attack-on-north-gaza-school?traffic_source=rss" target="_blank">‘Beyond horrific’: Several killed in Israeli attack on north Gaza school</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/bitcoin-surpasses-118k-its-second-all-time-high-in-less-than-24-hours/" target="_blank">Bitcoin surpasses $118K, its second all-time high, in less than 24 hours</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 15:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221902591-500x500.jpg" alt="RFK Jr. may be about to demolish preventive health panel, health groups fear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/rfk-jr-may-be-about-to-demolish-preventive-health-panel-health-groups-fear/" target="_blank">RFK Jr. may be about to demolish preventive health panel, health groups fear</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Hero-500x500.jpg" alt="Lamborghini follows successful racing Huracan with new Temerario GT3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +164,29 @@
                 <span class="time">2025-07-11 11:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025" target="_blank">The 40 best Prime Day deals you can get for under $25</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2213596996-500x500.jpg" alt="It’s hunting season in orbit as Russia’s killer satellites mystify skywatchers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/its-hunting-season-in-orbit-as-russias-killer-satellites-mystify-skywatchers/" target="_blank">It’s hunting season in orbit as Russia’s killer satellites mystify skywatchers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.carolinecrampton.com/im-done-with-social-media/" target="_blank">I&#x27;m Done with Social Media</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507955&w=600" alt="Secret Recipe of the Template Method: Po Learns the Art of Structured Cooking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/template-method-pattern-java-kung-fu-panda" target="_blank">Secret Recipe of the Template Method: Po Learns the Art of Structured Cooking</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18503400&w=600" alt="The Cybersecurity Blind Spot in DevOps Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,39 +206,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/mesa-252-radv-rt-rdna4" target="_blank">AMD Radeon RX 9070 Ray-Tracing Performance Improving With Mesa 25.2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-11 13:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18505691&w=600" alt="Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/scaling-multi-tenant-go-applications" target="_blank">Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsdaily/a-day-in-the-life-of-a-devops-engineer-58ba" target="_blank">A Day in the Life of a DevOps Engineer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/docker-desktop-442/en/headerimage/Docker-1752038211333.jpeg" alt="Docker Desktop 4.42 Launches with Native IPv6, Integrated MCP Toolkit, and AI Model Packaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/docker-desktop-442/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Desktop 4.42 Launches with Native IPv6, Integrated MCP Toolkit, and AI Model Packaging</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-11 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/felipemattioli/feijucaauth-part-2-configuring-and-creating-your-first-realm-2m2i" target="_blank">Feijuca.Auth – Part 2: Configuring, Creating Realm, and using Feijuca.Auth.API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 11:51</span>
             </div>
         </div>
 </div>
@@ -241,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/coin-op.jpg?fit=1200%2C883&amp;quality=60&amp;ssl=1" alt="This creepy coin machine brings uncanny fun to a hospital waiting room" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/11/this-creepy-coin-machine-brings-uncanny-fun-to-a-hospital-waiting-room.html" target="_blank">This creepy coin machine brings uncanny fun to a hospital waiting room</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-11 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6fcf3fedc2da7fde7775d9644d60736c.jpg" alt="The Subnautica 2 Saga Just Keeps Getting Messier Amid New Lawsuit And Alleged Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101" target="_blank">The Subnautica 2 Saga Just Keeps Getting Messier Amid New Lawsuit And Alleged Leaks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-11 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/01/f79144523846587e9f0ad0e3c538f2c9.jpg" alt="Mercedes-Benz Says Trump Is Holding It Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +305,20 @@
                 <span class="time">2025-07-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Crypto Is on Fire as Bitcoin Nears $120K in Unstoppable Surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/crypto-is-on-fire-as-bitcoin-nears-120k-in-unstoppable-surge-2000627980" target="_blank">Crypto Is on Fire as Bitcoin Nears $120K in Unstoppable Surge</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/dimorphos.jpg" alt="Deflecting a Killer Asteroid Is More Complicated Than NASA Thought" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/deflecting-a-killer-asteroid-is-more-complicated-than-nasa-thought-2000627783" target="_blank">Deflecting a Killer Asteroid Is More Complicated Than NASA Thought</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752123717-20250711.png" alt="Saturday Morning Breakfast Cereal - Sex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sex" target="_blank">Saturday Morning Breakfast Cereal - Sex</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,22 +328,13 @@
                 <span class="time">2025-07-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1751598559-20250710.png" alt="Saturday Morning Breakfast Cereal - Wasp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/wasp" target="_blank">Saturday Morning Breakfast Cereal - Wasp</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 15:01 UTC
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
