@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 16:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-11 17:02:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/russia-closing-polish-consulate-in-kaliningrad-in-tit-for-tat-move?traffic_source=rss" target="_blank">Russia closing Polish consulate in Kaliningrad in tit-for-tat move</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-11 15:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/11/trump-immigration-tom-homan-south-sudan-deportees" target="_blank">US border czar says he doesn’t know fate of eight men deported to South Sudan</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-11 13:47</span>
             </div>
         </div>
 <div class="story">
@@ -96,20 +101,38 @@
                 <span class="time">2025-07-11 11:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f065/live/eb172460-5e37-11f0-b4c7-b192538570c2.jpg" alt="Health alerts and hosepipe bans as heatwave grips UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmv8x74ky9o" target="_blank">Health alerts and hosepipe bans as heatwave grips UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 11:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025" target="_blank">The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-16-6a-battery-2-500x500.jpg" alt="A mess of its own making: Google nerfs second Pixel phone battery this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/" target="_blank">A mess of its own making: Google nerfs second Pixel phone battery this year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/cisa-confirms-hackers-are-actively-exploiting-critical-citrix-bleed-2-bug/" target="_blank">CISA confirms hackers are actively exploiting critical ‘Citrix Bleed 2’ bug</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,38 +160,29 @@
                 <span class="time">2025-07-11 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/697960/favorite-travel-gear-2025" target="_blank">The Verge&amp;#8217;s favorite travel gear for 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687019ca14346bb8b4fd5b21/master/pass/The%2027%20Best%20Deals%20at%20Walmart's%20Competing%20Prime%20Day%20Sale.png" alt="The 32 Best Deals at Walmart’s Competing Prime Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/" target="_blank">The 32 Best Deals at Walmart’s Competing Prime Day Sale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-11 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/77772-2048x1366-1-500x500.jpg" alt="In the Southwest, solar panels in can help both photovoltaics and crops" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/in-the-southwest-solar-panels-in-can-help-both-photovoltaics-and-crops/" target="_blank">In the Southwest, solar panels in can help both photovoltaics and crops</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 11:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op" target="_blank">Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/notifications.jpg?resize=406%2C232&amp;ssl=1" alt="Want to Customise GNOME Shell Notifications? Try This Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/customise-gnome-shell-notifications-with-this-essential-extension" target="_blank">Want to Customise GNOME Shell Notifications? Try This Extension</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-11 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,29 +219,20 @@
                 <span class="time">2025-07-11 13:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/mesa-252-radv-rt-rdna4" target="_blank">AMD Radeon RX 9070 Ray-Tracing Performance Improving With Mesa 25.2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-11 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18505691&w=600" alt="Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-multi-tenant-go-applications" target="_blank">Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-11 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/tradecraft-in-the-information-age.html" target="_blank">Tradecraft in the Information Age</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-11 16:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -251,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tunnel.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Uncover secret spots in national parks, from ancient trees to mountain tunnels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/11/uncover-secret-spots-in-national-parks-from-ancient-trees-to-mountain-tunnels.html" target="_blank">Uncover secret spots in national parks, from ancient trees to mountain tunnels</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-11 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/coin-op.jpg?fit=1200%2C883&amp;quality=60&amp;ssl=1" alt="This creepy coin machine brings uncanny fun to a hospital waiting room" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +310,6 @@
                 <span class="time">2025-07-11 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c8d79a88971c1f238eb955c39e864ea8.jpg" alt="Ghost of Yōtei State Of Play Reveals A Stunning Open-World Of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ghost-of-yotei-tsushima-sony-ps5-state-of-play-1851786081" target="_blank">Ghost of Yōtei State Of Play Reveals A Stunning Open-World Of Revenge</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
