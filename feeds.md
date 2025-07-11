@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 06:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 07:02:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developers.googleblog.com/en/genai-processors/" target="_blank">GenAI Processors: Build powerful and flexible Gemini applications</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-11 06:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwv3nu1cumqgvk94l9db.png" alt="Find the cycle section for infinite cyclic decimals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/mustkhim_inamdar/troubleshooting-real-world-aws-eks-issues-in-production-3331" target="_blank">Troubleshooting Real-World AWS EKS Issues in Production</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 04:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifnd5j9v3lbqzkctlvx1.png" alt="Model Mondays S2E04 - AI Developer Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf" target="_blank">Model Mondays S2E04 - AI Developer Experiences</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 03:25</span>
             </div>
         </div>
 </div>
@@ -255,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/pollen-allergy-lead.jpg" alt="This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-molecular-shield-might-stop-pollen-before-it-wrecks-your-nose-2000627787" target="_blank">This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZVB9KC0S8X18GWPCQ3VXDJS/hero-image.png" alt="These Are the Best Prime Day Deals on PlayStation and Xbox Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +308,6 @@
                 <span class="time">2025-07-10 23:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Header-Image-Mario-Face-Shot.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Legendary producer reveals untold Beastie Boys collaboration stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/legendary-producer-reveals-untold-beastie-boys-collaboration-stories.html" target="_blank">Legendary producer reveals untold Beastie Boys collaboration stories</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
