@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 18:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-11 19:01:21 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-10-gty-jef-250711_1752258358263_hpMain_4x3t_384.jpg" alt="Trump visits Texas flood zone while avoiding criticism he&#x27;s heaped on other governors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-texas-after-catastrophic-flooding-avoiding-criticism/story?id=123650032" target="_blank">Trump visits Texas flood zone while avoiding criticism he&#x27;s heaped on other governors</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-11 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/11/why-has-the-pkk-ended-its-armed-struggle?traffic_source=rss" target="_blank">Why has the PKK ended its armed struggle?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 18:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +97,38 @@
                 <span class="time">2025-07-11 12:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/11/trumps-african-summit-was-a-masterclass-in-modern-colonial-theatre?traffic_source=rss" target="_blank">Trump’s African summit was a masterclass in modern colonial theatre</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/g-s1-77158/bayeux-tapestry-returns-to-u-k" target="_blank">Part war propaganda, part comic strip, Bayeux Tapestry to return to U.K.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/indias-richest-man-wants-to-turn-every-tv-into-a-pc/" target="_blank">India’s richest man wants to turn every TV into a PC</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/slumber-cloud-sale-july-2025/" target="_blank">Slumber Cloud&#x27;s Sale Is One Not to Miss Before Prime Day Ends</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-11 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025" target="_blank">Here are 58 Prime Day deals you can still nab for $50 or less</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +156,20 @@
                 <span class="time">2025-07-11 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687068007df7ab0fb03f65d2/master/pass/business_live_question_ai_copyright.jpg" alt="Join Our Next Livestream: Inside the AI Copyright Battles with WIRED Reporters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/livestream-ai-copyright-battles/" target="_blank">Join Our Next Livestream: Inside the AI Copyright Battles with WIRED Reporters</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-11 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025" target="_blank">The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-16-6a-battery-2-500x500.jpg" alt="A mess of its own making: Google nerfs second Pixel phone battery this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/" target="_blank">A mess of its own making: Google nerfs second Pixel phone battery this year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asross311/ode-to-advanced-typescript-a-poem-by-grok-1pn4" target="_blank">&quot;Ode to Advanced TypeScript&quot;, a poem by Grok</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 18:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-07-11 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.carolinecrampton.com/im-done-with-social-media/" target="_blank">I&#x27;m Done with Social Media</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-11 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZKCBC6SS6TWM2443ZSAQPXY/hero-image.png" alt="This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-50-prime-day-2025?utm_medium=RSS" target="_blank">This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/beluga-cam.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="New high-tech boat to track 57,000 belugas as Arctic sea ice vanishes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/11/new-high-tech-boat-to-track-57000-belugas-as-arctic-sea-ice-vanishes.html" target="_blank">New high-tech boat to track 57,000 belugas as Arctic sea ice vanishes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-11 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/George-Lucas-Photo-Gustavo-Caballero-Getty-Images.jpg" alt="George Lucas Is Coming to Comic-Con For the First Time Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +288,20 @@
                 <span class="time">2025-07-11 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/coin-op.jpg?fit=1200%2C883&amp;quality=60&amp;ssl=1" alt="This creepy coin machine brings uncanny fun to a hospital waiting room" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/11/this-creepy-coin-machine-brings-uncanny-fun-to-a-hospital-waiting-room.html" target="_blank">This creepy coin machine brings uncanny fun to a hospital waiting room</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-11 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6fcf3fedc2da7fde7775d9644d60736c.jpg" alt="The Subnautica 2 Saga Just Keeps Getting Messier Amid New Lawsuit And Alleged Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101" target="_blank">The Subnautica 2 Saga Just Keeps Getting Messier Amid New Lawsuit And Alleged Leaks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-11 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/some-things/" target="_blank">Some Things</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-07-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1752123717-20250711.png" alt="Saturday Morning Breakfast Cereal - Sex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
