@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 13:11:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 14:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -96,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/697960/favorite-travel-gear-2025" target="_blank">The Verge&amp;#8217;s favorite travel gear for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687019ca14346bb8b4fd5b21/master/pass/The%2027%20Best%20Deals%20at%20Walmart's%20Competing%20Prime%20Day%20Sale.png" alt="The 32 Best Deals at Walmart’s Competing Prime Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/" target="_blank">The 32 Best Deals at Walmart’s Competing Prime Day Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-11 13:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/77772-2048x1366-1-500x500.jpg" alt="In the Southwest, solar panels in can help both photovoltaics and crops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -131,29 +159,29 @@
                 <span class="time">2025-07-11 08:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c28a46f1cf52d58e8f245/master/pass/7.jpg" alt="The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-1/" target="_blank">The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-11 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/" target="_blank">Grok 4 seems to consult Elon Musk to answer controversial questions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-11 00:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Ftikrack%2Ftikcopy%2Fassets%2Fyour-image-link.png" alt="TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tikrack_0b5ca7f793d07d3db/tikcopy-a-minimal-clipboard-history-tool-for-linux-built-in-rust-365j" target="_blank">TikCopy – A Minimal Clipboard History Tool for Linux Built in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18505691&w=600" alt="Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-multi-tenant-go-applications" target="_blank">Scaling Multi-Tenant Go Apps: Choosing the Right Database Partitioning Approach</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +218,6 @@
                 <span class="time">2025-07-11 11:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18506006&w=600" alt="Testing the MongoDB MCP Server Using SingleStore Kai" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/testing-mongodb-mcp-server-with-singlestore-kai" target="_blank">Testing the MongoDB MCP Server Using SingleStore Kai</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71" target="_blank">Why We Trust Ratings More Than People</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/01/f79144523846587e9f0ad0e3c538f2c9.jpg" alt="Mercedes-Benz Says Trump Is Holding It Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mercedes-benz-says-trump-is-holding-it-back-2000628059" target="_blank">Mercedes-Benz Says Trump Is Holding It Back</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/interstellar-object-31Atlast-1.jpeg" alt="An Interstellar Comet Is Here, and Its Age Is Mind-Bending" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +300,6 @@
                 <span class="time">2025-07-11 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZVB9KC0S8X18GWPCQ3VXDJS/hero-image.png" alt="These Are the Best Prime Day Deals on PlayStation and Xbox Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/playstation-xbox-games-on-sale-prime-day-2025?utm_medium=RSS" target="_blank">These Are the Best Prime Day Deals on PlayStation and Xbox Games</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-11 03:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
