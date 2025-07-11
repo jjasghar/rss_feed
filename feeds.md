@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 04:13:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 05:04:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 04:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzupb463gqb4s5g7kqwoc.png" alt="Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1" target="_blank">Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical" target="_blank">From sales development to renewals: Mariam Tawakol&amp;#8217;s career progression at Canonical</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-11 04:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -182,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-11-2025-red-hat" target="_blank">Friday Five — July 11, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-11 00:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Driver-Linux-6.17-Big" target="_blank">Intel Readies Big Graphics Driver Changes For Linux 6.17: Multi-Device Prep, SR-IOV, WCL</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-11 00:59</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/primy_io/building-custom-forms-for-shopify-with-ai-and-no-code-experience-3ak3" target="_blank">Building custom forms for Shopify with AI and no-code experience</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/intel-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.3 HWE Stack Provides a Major Mesa Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-24-04-3-hwe-new-mesa-kernel-update" target="_blank">Ubuntu 24.04.3 HWE Stack Provides a Major Mesa Upgrade</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-10 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507136&w=600" alt="Modernize Your IAM Into Identity Fabric Powered by Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/modern-identity-fabric-iam" target="_blank">Modernize Your IAM Into Identity Fabric Powered by Connectors</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-10 20:00</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-11-2025-red-hat" target="_blank">Friday Five — July 11, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-11 00:00</span>
             </div>
         </div>
 </div>
@@ -280,6 +286,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/atomic-bowl.jpg?fit=1080%2C833&amp;quality=60&amp;ssl=1" alt="Documentary uncovers forgotten 1946 football game months after Nagasaki bombing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/documentary-uncovers-forgotten-1946-football-game-months-after-nagasaki-bombing.html" target="_blank">Documentary uncovers forgotten 1946 football game months after Nagasaki bombing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 23:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Header-Image-Mario-Face-Shot.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Legendary producer reveals untold Beastie Boys collaboration stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -295,15 +310,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-vfx-breakdown-for-andor-season-2-showcases-the-power-of-practical-locations-2000627868" target="_blank">This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-10 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/drawing-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Kids in the 1940s drew their dads from memory — the results are hilariously spot-on" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/kids-in-the-1940s-drew-their-dads-from-memory-the-results-are-hilariously-spot-on.html" target="_blank">Kids in the 1940s drew their dads from memory — the results are hilariously spot-on</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 22:12</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
