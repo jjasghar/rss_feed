@@ -1,35 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 07:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 08:01:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d50/live/30b6dbe0-5e20-11f0-bbf2-09f80948283f.jpg" alt="Reeves disappointed after economy unexpectedly shrinks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq6mvem8neno" target="_blank">Reeves disappointed after economy unexpectedly shrinks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 07:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5464626/ukraine-europe-allies-zelenskyy-support" target="_blank">European allies step up plans for Ukraine stabilization, with U.S. attending meeting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 05:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +106,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/federal-agents-clash-protesters-ice-raid-southern-california/story?id=123657572" target="_blank">Federal agents clash with protesters during ICE raid at Southern California farm</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-11 01:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/democrats-publish-leaked-justice-department-messages-on-deportation-push?traffic_source=rss" target="_blank">Democrats publish leaked Justice Department messages on US deportation push</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752191564470_nn_kwe_exclusive_phone_interview_with_president_trump_250710_1920x1080-7e5n9t.jpg" alt="Exclusive phone interview with President Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/exclusive-phone-interview-with-president-trump-243043909525" target="_blank">Exclusive phone interview with President Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-10 23:52</span>
             </div>
         </div>
 </div>
@@ -164,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31oylaj8d59mnsyaub97.png" alt="JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daswu/juicefs-community-13-python-sdk-faster-backup-sql-windows-optimizations-4l8e" target="_blank">JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 07:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -206,15 +224,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical" target="_blank">From sales development to renewals: Mariam Tawakol&amp;#8217;s career progression at Canonical</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-07-11 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mustkhim_inamdar/troubleshooting-real-world-aws-eks-issues-in-production-3331" target="_blank">Troubleshooting Real-World AWS EKS Issues in Production</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 04:04</span>
             </div>
         </div>
 </div>
@@ -314,6 +323,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/11/turmoil-in-the-toybox" target="_blank">Turmoil In The Toybox</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-11 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1751598559-20250710.png" alt="Saturday Morning Breakfast Cereal - Wasp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -327,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
