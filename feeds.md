@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 02:36:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-11 03:29:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +97,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/686c28a46f1cf52d58e8f245/master/pass/7.jpg" alt="The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-1/" target="_blank">The 7 Best Prime Day Action Camera Deals for Thrill Seekers (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-11 01:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/news-063025b-lg-500x500.jpg" alt="“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -151,20 +150,29 @@
                 <span class="time">2025-07-10 22:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685ec03fc55f1273d9de7f01/master/pass/Skateboards-Lasers-ICE-Protestor-Strategic-Weaponry-1-Security.jpg" alt="DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/" target="_blank">DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-10 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifnd5j9v3lbqzkctlvx1.png" alt="Model Mondays S2E04 - AI Developer Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/azure/model-mondays-s2e04-ai-developer-experiences-41mf" target="_blank">Model Mondays S2E04 - AI Developer Experiences</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 03:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-11-2025-red-hat" target="_blank">Friday Five — July 11, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-11 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +207,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.0.19-Released" target="_blank">OpenCL 3.0.19 Released With SPIR-V Queries &amp; Android Hardware Buffer Extensions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-10 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 with Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/storybook-v9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Storybook Releases Storybook v9 with Improved Testing Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 With Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/storybook-v9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Storybook Releases Storybook v9 With Improved Testing Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-10 19:00</span>
             </div>
         </div>
 </div>
@@ -256,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I’m a Terrible Musician but I Love Playing This MIDI Keyboard, and It’s $20 Off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/akai-midi-keyboard-prime-day-2025?utm_medium=RSS" target="_blank">I’m a Terrible Musician but I Love Playing This MIDI Keyboard, and It’s $20 Off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 03:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/jimmy-olsen-mr-terrific.jpg" alt="DC Is Considering Spinoff Shows for ‘Superman’ Supporting Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -301,15 +300,6 @@
                 <span class="time">2025-07-10 22:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Green-Lantern-DC-Studios.jpg" alt="Nathan Fillion Teases Guy Gardner’s Path From ‘Superman’ to ‘Lanterns’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nathan-fillion-teases-guy-gardners-path-from-superman-to-lanterns-2000627827" target="_blank">Nathan Fillion Teases Guy Gardner’s Path From ‘Superman’ to ‘Lanterns’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
