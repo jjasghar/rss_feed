@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 01:29:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 02:36:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +51,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/argentinas-ex-president-fernandez-to-stand-trial-for-corruption?traffic_source=rss" target="_blank">Argentina’s ex-president Fernandez to stand trial for corruption</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 01:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/raid-2-abc-er-250710_1752181357445_hpMain_4x3t_384.jpg" alt="Federal agents clash with protesters during ICE raid at Southern California farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/federal-agents-clash-protesters-ice-raid-southern-california/story?id=123657572" target="_blank">Federal agents clash with protesters during ICE raid at Southern California farm</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-11 01:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/democrats-publish-leaked-justice-department-messages-on-deportation-push?traffic_source=rss" target="_blank">Democrats publish leaked Justice Department messages on US deportation push</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-11 00:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752191564470_nn_kwe_exclusive_phone_interview_with_president_trump_250710_1920x1080-7e5n9t.jpg" alt="Exclusive phone interview with President Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/exclusive-phone-interview-with-president-trump-243043909525" target="_blank">Exclusive phone interview with President Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-10 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5463547/unaids-south-africa-trump-hiv-aids" target="_blank">UNAIDS report warns HIV progress at risk as U.S. funding cuts take hold</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-10 22:39</span>
             </div>
         </div>
 <div class="story">
@@ -58,42 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/10/1255443725/a-dangerous-journey-to-find-food-in-gaza" target="_blank">A harrowing journey to find food in Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-10 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/10/israeli-attacks-kill-82-amid-forced-displacement-plans-truce-talks-in-gaza?traffic_source=rss" target="_blank">Israeli attacks kill 82 amid forced displacement plans, truce talks in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-05-ap-jef-250710_1752149690082_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Death toll at 120 as search continues for the missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Death toll at 120 as search continues for the missing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-10 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543d/live/52253900-5daa-11f0-960d-e9f1088a89fe.jpg" alt="UK to return some migrants to France within weeks - PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g2edx410wo" target="_blank">UK to return some migrants to France within weeks - PM</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-10 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/10/rubio-we-need-to-see-a-roadmap-on-ukraine-peace-talks?traffic_source=rss" target="_blank">Rubio: ‘We need to see a roadmap’ on Ukraine peace talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-10 17:57</span>
             </div>
         </div>
 </div>
@@ -261,6 +266,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZVBTS6R5C26HTYTGKEQ07WS/hero-image.jpg" alt="This Absolute Unit of a 4K QLED TV is More Than 50% off for Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-absolute-unit-of-a-4k-qled-tv-is-more-than-50-off-for-prime-day-2025?utm_medium=RSS" target="_blank">This Absolute Unit of a 4K QLED TV is More Than 50% off for Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Header-Image-Mario-Face-Shot.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Legendary producer reveals untold Beastie Boys collaboration stories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/10/legendary-producer-reveals-untold-beastie-boys-collaboration-stories.html" target="_blank">Legendary producer reveals untold Beastie Boys collaboration stories</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-10 23:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Andor-Lucasfilm-1.jpg" alt="This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,24 +310,6 @@
                 <span class="time">2025-07-10 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ65F66VZVV1RGZRGVPCWJS9/hero-image.jpg" alt="Prime Day 2025: Day 3 Live Updates on 100+ Best Deals for Macbooks, E-Readers, Smart Glasses, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/amazon-prime-day-07-10-2025-live-blog?utm_medium=RSS" target="_blank">Prime Day 2025: Day 3 Live Updates on 100+ Best Deals for Macbooks, E-Readers, Smart Glasses, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-10 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hellokittyskull.jpeg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="A digital frame that displays curated wisdom and philosophical insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/10/a-digital-frame-that-displays-curated-wisdom-and-philosophical-insights.html" target="_blank">A digital frame that displays curated wisdom and philosophical insights</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-10 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
