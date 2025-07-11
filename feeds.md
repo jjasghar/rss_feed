@@ -1,27 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 03:29:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-11 04:13:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5428534/school-board-members-threats-harassment-dei-lgbtq-covid-pandemic-princeton" target="_blank">Since COVID, threats to local school officials have nearly tripled, research finds</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c392/live/d7a4dfd0-5df6-11f0-870f-597d22515ef1.jpg" alt="Trump threatens 35% tariffs on Canadian goods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg819n954mo" target="_blank">Trump threatens 35% tariffs on Canadian goods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 02:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/exclusive-phone-interview-with-president-trump-243043909525" target="_blank">Exclusive phone interview with President Trump</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-10 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5463547/unaids-south-africa-trump-hiv-aids" target="_blank">UNAIDS report warns HIV progress at risk as U.S. funding cuts take hold</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/1255443725/a-dangerous-journey-to-find-food-in-gaza" target="_blank">A harrowing journey to find food in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 20:44</span>
             </div>
         </div>
 </div>
@@ -156,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mustkhim_inamdar/troubleshooting-real-world-aws-eks-issues-in-production-3331" target="_blank">Troubleshooting Real-World AWS EKS Issues in Production</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 04:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifnd5j9v3lbqzkctlvx1.png" alt="Model Mondays S2E04 - AI Developer Experiences" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,15 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/modern-identity-fabric-iam" target="_blank">Modernize Your IAM Into Identity Fabric Powered by Connectors</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-10 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/OpenCL-3.0.19-Released" target="_blank">OpenCL 3.0.19 Released With SPIR-V Queries &amp; Android Hardware Buffer Extensions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-10 19:23</span>
             </div>
         </div>
 </div>
@@ -319,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
