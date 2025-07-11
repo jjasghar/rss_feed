@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 19:01:21 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-11 20:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/cambodia-passes-constitutional-change-allowing-govt-to-revoke-citizenship?traffic_source=rss" target="_blank">Cambodia passes constitutional change allowing gov’t to revoke citizenship</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 19:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5464835/guantanamo-gitmo-9-11-plea-deal-ruling" target="_blank">Guantánamo plea deals for accused 9/11 plotters are canceled by federal appeals court</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-11 19:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-10-gty-jef-250711_1752258358263_hpMain_4x3t_384.jpg" alt="Trump visits Texas flood zone while avoiding criticism he&#x27;s heaped on other governors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/russia-closing-polish-consulate-in-kaliningrad-in-tit-for-tat-move?traffic_source=rss" target="_blank">Russia closing Polish consulate in Kaliningrad in tit-for-tat move</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-11 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/11/trump-immigration-tom-homan-south-sudan-deportees" target="_blank">US border czar says he doesn’t know fate of eight men deported to South Sudan</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-11 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e43/live/c627b110-5e50-11f0-abc2-f594647315a9.jpg" alt="Ukraine to receive US air defence systems, says Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crl04200dp4o" target="_blank">Ukraine to receive US air defence systems, says Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 12:43</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sajjadrahman56/basic-docker-commands-omo" target="_blank">⚙️ Basic Docker Commands</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-11 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507676&w=600" alt="Server-Driven UI: Agile Interfaces Without App Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/server-driven-ui-agile-interfaces-without-app-releases" target="_blank">Server-Driven UI: Agile Interfaces Without App Releases</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/asross311/ode-to-advanced-typescript-a-poem-by-grok-1pn4" target="_blank">&quot;Ode to Advanced TypeScript&quot;, a poem by Grok</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 18:42</span>
@@ -197,24 +214,6 @@
                 <span class="time">2025-07-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/serving-local-apps-securely-with-caddy-and-authentik-fixing-tls-warnings-in-development-29op" target="_blank">Serving Local Apps Securely with Caddy and Authentik: Fixing TLS Warnings in Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/notifications.jpg?resize=406%2C232&amp;ssl=1" alt="Want to Customise GNOME Shell Notifications? Try This Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/customise-gnome-shell-notifications-with-this-essential-extension" target="_blank">Want to Customise GNOME Shell Notifications? Try This Extension</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-11 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/lenovo-tab-plus-review-2.jpg" alt="Lenovo Tab Plus Review: An Unmatched Audio Experience Among Tablets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lenovo-tab-plus-review-an-unmatched-audio-experience-among-tablets-2000627140" target="_blank">Lenovo Tab Plus Review: An Unmatched Audio Experience Among Tablets</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZKCBC6SS6TWM2443ZSAQPXY/hero-image.png" alt="This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="time">2025-07-11 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7c5cc1d32b572870957e812447c8726a.jpg" alt="Repair Experts Call Switch 2 Pro Controller &#x27;Piss-Poor&#x27; In Scathing Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-pro-controller-piss-poor-stick-drift-ifixit-1851786109" target="_blank">Repair Experts Call Switch 2 Pro Controller &#x27;Piss-Poor&#x27; In Scathing Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-11 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,13 +319,22 @@
                 <span class="time">2025-07-11 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/building_a_fire.png" alt="Building a Fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3114/" target="_blank">Building a Fire</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-11 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
