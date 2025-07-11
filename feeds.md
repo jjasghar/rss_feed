@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 08:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-11 09:02:25 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/agentic-ai-architecture-framework/en/headerimage/agentic-ai-architecture-framework-header-1752043295919.jpg" alt="Article: Agentic AI Architecture Framework for Enterprises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/agentic-ai-architecture-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Agentic AI Architecture Framework for Enterprises</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-11 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F31oylaj8d59mnsyaub97.png" alt="JuiceFS Community 1.3: Python SDK, Faster Backup, SQL &amp; Windows Optimizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/mammadyahyayev/supercharge-your-java-side-projects-create-ci-pipeline-with-github-actions-2hb1" target="_blank">Supercharge Your Java Side Projects: Create CI Pipeline with GitHub Actions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/from-sales-development-to-renewals-mariam-tawakols-career-progression-at-canonical" target="_blank">From sales development to renewals: Mariam Tawakol&amp;#8217;s career progression at Canonical</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-11 04:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
