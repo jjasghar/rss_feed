@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 00:05:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-11 01:29:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/democrats-publish-leaked-justice-department-messages-on-deportation-push?traffic_source=rss" target="_blank">Democrats publish leaked Justice Department messages on US deportation push</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 00:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +96,20 @@
                 <span class="time">2025-07-10 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/10/nx-s1-5463512/ai-courts-lawyers-mypillow-fines" target="_blank">A recent high-profile case of AI hallucination serves as a stark warning</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-10 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/news-063025b-lg-500x500.jpg" alt="“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/its-a-heist-senator-calls-out-texas-for-trying-to-steal-shuttle-from-smithsonian/" target="_blank">“It’s a heist”: Senator calls out Texas for trying to steal shuttle from Smithsonian</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 00:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="time">2025-07-10 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3" target="_blank">The best Prime Day 2025 deals you can still get</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-10 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/primy_io/building-custom-forms-for-shopify-with-ai-and-no-code-experience-3ak3" target="_blank">Building custom forms for Shopify with AI and no-code experience</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-10 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/intel-ubuntu.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.3 HWE Stack Provides a Major Mesa Upgrade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-24-04-3-hwe-new-mesa-kernel-update" target="_blank">Ubuntu 24.04.3 HWE Stack Provides a Major Mesa Upgrade</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-10 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -190,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 with Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/storybook-v9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Storybook Releases Storybook v9 with Improved Testing Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-10 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/storybook-v9-released/en/headerimage/header-storybook-v9-released-1752133540934.jpg" alt="Storybook Releases Storybook v9 With Improved Testing Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -198,29 +214,20 @@
                 <span class="time">2025-07-10 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507133&w=600" alt="Contract-Driven ML: The Missing Link to Trustworthy Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/prevent-ml-failures-with-data-contracts" target="_blank">Contract-Driven ML: The Missing Link to Trustworthy Machine Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507101&w=600" alt="Decoding the Secret Language of LLM Tokenizers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-tokenization-costs-performance" target="_blank">Decoding the Secret Language of LLM Tokenizers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-10 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/" target="_blank">UK Arrests Four in ‘Scattered Spider’ Ransom Group</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-10 17:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -244,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/jimmy-olsen-mr-terrific.jpg" alt="DC Is Considering Spinoff Shows for ‘Superman’ Supporting Characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dc-is-considering-spinoff-shows-for-superman-supporting-characters-2000627876" target="_blank">DC Is Considering Spinoff Shows for ‘Superman’ Supporting Characters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 00:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Andor-Lucasfilm-1.jpg" alt="This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +305,6 @@
                 <span class="time">2025-07-10 20:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/joe-rogan-donald-trump-ufc.jpg" alt="Joe Rogan’s Latest Post Amplifies Epstein Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/joe-rogans-latest-post-amplifies-epstein-conspiracy-theories-2000627774" target="_blank">Joe Rogan’s Latest Post Amplifies Epstein Conspiracy Theories</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-10 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
