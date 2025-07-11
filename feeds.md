@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 20:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-11 21:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Friday, July 11, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/us-court-nixes-guilty-plea-for-alleged-9-11-attacks?traffic_source=rss" target="_blank">US court nixes guilty plea for alleged 9/11 attacks mastermind</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-11 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752264516172_now_brk_trump_kerrville_intro_250711_1920x1080-caxg1d.jpg" alt="Trump speaks from Texas after deadly floods: ‘Filled with grief and devastation’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-speaks-from-kerrville-after-deadly-texas-floods-243094085707" target="_blank">Trump speaks from Texas after deadly floods: ‘Filled with grief and devastation’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-11 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-ahmedabad-plane-crash_6944966.jpg?20250618101311" alt="Fuel to engines of Air India plane that crashed cut off moments after take-off, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/fuel-to-engines-of-air-india-plane-cut-off-moments-before-crash-preliminary-report-finds-13395620" target="_blank">Fuel to engines of Air India plane that crashed cut off moments after take-off, report finds</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-11 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +97,38 @@
                 <span class="time">2025-07-11 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/11/why-has-the-pkk-ended-its-armed-struggle?traffic_source=rss" target="_blank">Why has the PKK ended its armed struggle?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5464784/nigeria-rejects-u-s-pressure-to-accept-venezuelan-deportees" target="_blank">Nigeria says it won&#x27;t accept U.S. deportees: &quot;We have enough problems of our own&quot;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/russia-closing-polish-consulate-in-kaliningrad-in-tit-for-tat-move?traffic_source=rss" target="_blank">Russia closing Polish consulate in Kaliningrad in tit-for-tat move</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 15:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/" target="_blank">Can an ‘ethical’ spyware maker justify providing its tech to ICE?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-11 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-laptop-500x500.jpeg" alt="New Windows 11 build adds self-healing “quick machine recovery” feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/" target="_blank">New Windows 11 build adds self-healing “quick machine recovery” feature</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686ffcfe72ecf103086658f2/master/pass/Samsung-New-Phones-Show-How-Far-Ahead-China-Is-Innovation-Gear-2223692962.jpg" alt="Samsung&#x27;s New Phones Show How Far Ahead China Is on Innovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/" target="_blank">Samsung&#x27;s New Phones Show How Far Ahead China Is on Innovation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-11 20:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025" target="_blank">Here are 58 Prime Day deals you can still nab for $50 or less</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-11 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania" target="_blank">Why are liberals cozying up to race scientists?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/11/sarah-smith-launches-16m-fund-says-ai-can-unlock-so-much-for-solo-gps-like-herself/" target="_blank">Sarah Smith launches $16M fund, says AI can ‘unlock’ so much for solo GPs like herself</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/t-mobile-500x500.jpg" alt="Trump’s DOJ seems annoyed about having to approve T-Mobile’s latest merger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trumps-doj-seems-annoyed-about-having-to-approve-t-mobiles-latest-merger/" target="_blank">Trump’s DOJ seems annoyed about having to approve T-Mobile’s latest merger</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 17:52</span>
             </div>
         </div>
 </div>
@@ -333,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
