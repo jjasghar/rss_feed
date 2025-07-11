@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-10 23:01:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-11 00:05:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 10, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, July 11, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/" target="_blank">Tesla is already trying to expand its Robotaxi service to Arizona</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-10 23:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686d4cbdffcb274e31f3ae3f/master/pass/Absolute%20Best%20Deals.png" alt="Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/" target="_blank">Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-10 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/" target="_blank">AWS is launching an AI agent marketplace next week with Anthropic as a partner</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-10 22:59</span>
@@ -140,29 +157,29 @@
                 <span class="time">2025-07-10 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/judges-gavel-500x500.jpg" alt="Pro basketball player and 4 youths arrested in connection to ransomware crimes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/pro-basketball-player-and-4-youths-arrested-in-connection-to-ransomware-crimes/" target="_blank">Pro basketball player and 4 youths arrested in connection to ransomware crimes</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-10 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/10/former-intel-ceo-launches-a-benchmark-to-measure-ai-alignment/" target="_blank">Former Intel CEO launches a benchmark to measure AI alignment</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-10 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/primy_io/building-custom-forms-for-shopify-with-ai-and-no-code-experience-3ak3" target="_blank">Building custom forms for Shopify with AI and no-code experience</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-10 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507136&w=600" alt="Modernize Your IAM Into Identity Fabric Powered by Connectors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/modern-identity-fabric-iam" target="_blank">Modernize Your IAM Into Identity Fabric Powered by Connectors</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-10 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="time">2025-07-10 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcb654p9c9uij53vslnea.png" alt="Introduction to Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mukilaperiyasamy/introduction-to-java-4f52" target="_blank">Introduction to Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-10 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/application-security/modeling-cors-frameworks-with-codeql-to-find-security-vulnerabilities/" target="_blank">Modeling CORS frameworks with CodeQL to find security vulnerabilities</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-10 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Andor-Lucasfilm-1.jpg" alt="This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-vfx-breakdown-for-andor-season-2-showcases-the-power-of-practical-locations-2000627868" target="_blank">This VFX Breakdown for ‘Andor’ Season 2 Showcases the Power of Practical Locations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-10 23:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/drawing-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Kids in the 1940s drew their dads from memory — the results are hilariously spot-on" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +298,6 @@
                 <span class="time">2025-07-10 20:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ad22ea41b92e7c24cb57d06f4d45156c.jpg" alt="Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/superman-movie-james-gunn-dean-cain-immigrant-1851786076" target="_blank">Former Superman Actor Doesn’t Like James Gunn Calling The Hero An Immigrant</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-10 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
