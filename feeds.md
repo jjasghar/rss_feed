@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 18:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 19:01:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/12/g-s1-77353/swiatek-wimbledon-womens-final-anisimova" target="_blank">Poland&#x27;s Iga Świątek thrashes American Amanda Anisimova in Wimbledon women&#x27;s final</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/india-level-up-with-england-as-tempers-nearly-boil-over-at-lords?traffic_source=rss" target="_blank">India level up with England as tempers nearly boil over at Lord’s</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 18:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave peaks at 33C as whole UK swelters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/iranian-fm-warns-un-sanctions-would-end-europes-role-in-nuclear-issue?traffic_source=rss" target="_blank">Iranian FM warns UN sanctions would ‘end’ Europe’s role in nuclear issue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-12 15:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-air-india-ahmedabad_6940057.jpg?20250612115435" alt="Backlash as Air India crash report points to possible human error - here&#x27;s what experts think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/backlash-as-air-india-crash-report-points-to-possible-human-error-heres-what-experts-think-13395845" target="_blank">Backlash as Air India crash report points to possible human error - here&#x27;s what experts think</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-12 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trucks-border-mexico-ap-jt-250712_1752328892252_hpMain_4x3t_384.jpg" alt="Trump announces 30% tariffs on European Union and Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-announces-30-tariffs-european-union-mexico/story?id=123700107" target="_blank">Trump announces 30% tariffs on European Union and Mexico</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-12 14:39</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6" target="_blank">Error Handling Strategies in High-Performance Web Servers(3735)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/" target="_blank">Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions</a></span>
                 <span class="feed">Hacker News</span>
@@ -208,15 +222,6 @@
                 <span class="time">2025-07-12 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7" target="_blank">Safest Walk through the grid</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +248,15 @@
                 <span class="title"><a href="https://gizmodo.com/rian-johnson-feels-fine-about-star-wars-the-rise-of-skywalker-2000628551" target="_blank">Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-12 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZZNYR73G6KK6BBVHB9XAENV/hero-image.jpg" alt="Prime Day Is Over, but These 17 Deals Are Still Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-post-sale-deals-you-can-still-get-prime-day-2025?utm_medium=RSS" target="_blank">Prime Day Is Over, but These 17 Deals Are Still Live</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-12 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +295,6 @@
                 <span class="time">2025-07-11 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZTSF8A3ZQ5YVJSKT8Z6803B/hero-image.png" alt="I Use This Solar-Charged Power Bank All the Time, and It’s Over 50% Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/last-chance-solar-charged-power-bank-sale-prime-day-2025?utm_medium=RSS" target="_blank">I Use This Solar-Charged Power Bank All the Time, and It’s Over 50% Off Until Prime Day Ends Tonight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-11 23:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +309,13 @@
                 <span class="time">2025-07-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/11/turmoil-in-the-toybox" target="_blank">Turmoil In The Toybox</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-11 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
