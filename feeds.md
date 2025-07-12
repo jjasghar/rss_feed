@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 17:01:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-12 18:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave peaks at 33C as whole UK swelters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave peaks at 33C as whole UK swelters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 17:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/west-bank-fence-ap-jt-250712_1752329790339_hpMain_4x3t_384.jpg" alt="American killed by Israeli settlers in the West Bank, family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/american-killed-israeli-settlers-west-bank-family/story?id=123700222" target="_blank">American killed by Israeli settlers in the West Bank, family says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-12 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -57,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/06/1920x1080/skynews-air-india-ahmedabad_6940057.jpg?20250612115435" alt="Backlash as Air India crash report points to possible human error - here&#x27;s what experts think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/backlash-as-air-india-crash-report-points-to-possible-human-error-heres-what-experts-think-13395845" target="_blank">Backlash as Air India crash report points to possible human error - here&#x27;s what experts think</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-12 14:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/trucks-border-mexico-ap-jt-250712_1752328892252_hpMain_4x3t_384.jpg" alt="Trump announces 30% tariffs on European Union and Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -65,38 +99,20 @@
                 <span class="time">2025-07-12 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5465577/trump-30-tariffs-eu-mexico" target="_blank">Trump announces 30% tariffs against EU, Mexico to begin August 1</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/psg-vs-chelsea-fifa-club-world-cup-final-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Chelsea: FIFA Club World Cup final – teams, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-donald-trump-ursula-von-der-leyen_6853911.jpg?20250312090340" alt="Trump announces 30% tariff on imports from EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-announces-30-tariff-on-imports-from-eu-13395817" target="_blank">Trump announces 30% tariff on imports from EU</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-12 13:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/" target="_blank">xAI and Grok apologize for ‘horrific behavior’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-12 17:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,20 +158,20 @@
                 <span class="time">2025-07-12 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1355168432-500x500.jpg" alt="5 big EV takeaways from Trump’s “One Big Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/5-big-ev-takeaways-from-trumps-one-big-beautiful-bill/" target="_blank">5 big EV takeaways from Trump’s “One Big Beautiful Bill”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-12 11:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/" target="_blank">Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-12 16:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7" target="_blank">Safest Walk through the grid</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EDAC-GNR-D-WCL" target="_blank">Linux 6.17 Readies EDAC Support For Intel Granite Rapids D, Wildcat Lake, Raptor Lake HX</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-12 11:13</span>
             </div>
         </div>
 </div>
@@ -289,6 +296,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752123748-20250712.png" alt="Saturday Morning Breakfast Cereal - Rolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/rolling-2" target="_blank">Saturday Morning Breakfast Cereal - Rolling</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-12 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -302,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
