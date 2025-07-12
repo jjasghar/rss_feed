@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 03:28:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-12 04:08:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 04:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/12/g-s1-77295/texas-flooding-kerrville-victim-heart-o-the-hills-camp-mystic-jane-ragsdale" target="_blank">&#x27;Helping every dang soul&#x27;: Beloved camp director was among those lost in Texas flooding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +92,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: Role of plane fuel switches explained</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: What do the switches cut off before Air India crash do?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: What do the switches cut off before Air India crash do?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-11 22:53</span>
             </div>
@@ -167,6 +164,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsfundamentals/terraform-fundamentals-config-3jkf" target="_blank">Terraform Fundamentals: Config</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km" target="_blank">DEV HELL: FRAUD OR F*CKING GENIUS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 03:05</span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/calibre-8-6-0-delivers-dramatic-database-speed-boost" target="_blank">Calibre 8.6.0 Delivers Dramatic Database Speed Boost</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-11 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zuuwn21/uniface-forlistendfor-mastering-list-loops-kaj" target="_blank">🔄 Uniface forlist...endfor: Mastering List Loops</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 21:44</span>
             </div>
         </div>
 </div>
@@ -340,22 +337,13 @@
                 <span class="time">2025-07-11 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/building_a_fire.png" alt="Building a Fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3114/" target="_blank">Building a Fire</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-11 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
