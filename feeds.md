@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 15:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-12 16:01:31 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/iranian-fm-warns-un-sanctions-would-end-europes-role-in-nuclear-issue?traffic_source=rss" target="_blank">Iranian FM warns UN sanctions would ‘end’ Europe’s role in nuclear issue</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 15:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trucks-border-mexico-ap-jt-250712_1752328892252_hpMain_4x3t_384.jpg" alt="Trump announces 30% tariffs on European Union and Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250809-trump-rs-31075c.jpg" alt="Trump says he will hit E.U. and Mexico with 30% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/russias-lavrov-meets-kim-jong-un-in-north-korea-with-ukraine-war-at-fore?traffic_source=rss" target="_blank">Russia’s Lavrov meets Kim Jong Un in North Korea with Ukraine war at fore</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/new-secretary-general-of-international-civil-defence-organization-elected?traffic_source=rss" target="_blank">New secretary-general of International Civil Defence Organization elected</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 10:25</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-says-will-hit-eu-mexico-30-tariff-rcna218415" target="_blank">Trump says he will hit E.U. and Mexico with 30% tariff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-12 13:09</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(5345)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Secure Messaging: The Guardian Leverages Millions of Readers to Provide Strong Plausible Deniability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EDAC-GNR-D-WCL" target="_blank">Linux 6.17 Readies EDAC Support For Intel Granite Rapids D, Wildcat Lake, Raptor Lake HX</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-12 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-RTXNTC-0.7-Beta" target="_blank">NVIDIA Publishes RTXNTC 0.7 Beta For Neural Texture Compression</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-12 10:55</span>
             </div>
         </div>
 </div>
@@ -315,31 +319,13 @@
                 <span class="time">2025-07-11 18:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/some-things/" target="_blank">Some Things</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752123717-20250711.png" alt="Saturday Morning Breakfast Cereal - Sex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sex" target="_blank">Saturday Morning Breakfast Cereal - Sex</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
