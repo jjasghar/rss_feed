@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-11 23:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 00:04:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 11, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/dbb523c0-5ead-11f0-a40e-a1af2950b220.jpg" alt="BBC correspondent explains the role of fuel switches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">BBC correspondent explains the role of fuel switches</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 22:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +99,29 @@
                 <span class="time">2025-07-11 21:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5465063/air-india-boeing-787-crash-report" target="_blank">Preliminary report says fuel switches were cut off before Air India Boeing 787 crash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/704642/amazon-prime-day-gift-ideas-deals-sale-2025" target="_blank">These terrific, Verge-approved gifts are all discounted for Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-12 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686bc5f7f24ef4a6bf8a6fb5/master/pass/5.jpg" alt="14 Best Prime Day TV Deals for All Budgets (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/prime-day-tv-deals-july-2025-3/" target="_blank">14 Best Prime Day TV Deals for All Budgets (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-11 23:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/" target="_blank">Can an ‘ethical’ spyware maker justify providing its tech to ICE?</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-11 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-laptop-500x500.jpeg" alt="New Windows 11 build adds self-healing “quick machine recovery” feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/new-windows-11-build-adds-self-healing-quick-machine-recovery-feature/" target="_blank">New Windows 11 build adds self-healing “quick machine recovery” feature</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686ffcfe72ecf103086658f2/master/pass/Samsung-New-Phones-Show-How-Far-Ahead-China-Is-Innovation-Gear-2223692962.jpg" alt="Samsung&#x27;s New Phones Show How Far Ahead China Is on Innovation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/" target="_blank">Samsung&#x27;s New Phones Show How Far Ahead China Is on Innovation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-11 20:38</span>
             </div>
         </div>
 </div>
@@ -247,6 +246,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZTSF8A3ZQ5YVJSKT8Z6803B/hero-image.png" alt="I Use This Solar-Charged Power Bank All the Time, and It’s Over 50% Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/last-chance-solar-charged-power-bank-sale-prime-day-2025?utm_medium=RSS" target="_blank">I Use This Solar-Charged Power Bank All the Time, and It’s Over 50% Off Until Prime Day Ends Tonight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-11 23:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-strange-new-worlds-season-3-pike-number-one.jpg" alt="Everything to Remember Before ‘Star Trek: Strange New Worlds’ Returns for Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,15 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-50-prime-day-2025?utm_medium=RSS" target="_blank">This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-11 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/beluga-cam.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="New high-tech boat to track 57,000 belugas as Arctic sea ice vanishes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/11/new-high-tech-boat-to-track-57000-belugas-as-arctic-sea-ice-vanishes.html" target="_blank">New high-tech boat to track 57,000 belugas as Arctic sea ice vanishes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-11 18:05</span>
             </div>
         </div>
 </div>
@@ -355,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
