@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 21:01:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-12 22:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5464881/is-the-fifa-club-world-cup-final-a-barometer-of-soccers-success-in-america" target="_blank">Is the FIFA Club World Cup final a barometer of soccer&#x27;s success in America?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave peaks at 33C as whole UK swelters</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-12 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-rafah-aid_6963621.jpg?20250712183330" alt="&#x27;At least 59 killed&#x27; in Gaza after Israeli military opens fire near aid centre and carries out strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-59-killed-after-israeli-military-opens-fire-near-gaza-aid-centre-and-carries-out-strikes-13395908" target="_blank">&#x27;At least 59 killed&#x27; in Gaza after Israeli military opens fire near aid centre and carries out strikes</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-12 16:51</span>
             </div>
         </div>
 </div>
@@ -180,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://0x44.xyz/blog/web-request-blocking/" target="_blank">Bypassing Google&#x27;s big anti-adblock update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-12 19:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6" target="_blank">Error Handling Strategies in High-Performance Web Servers(3735)</a></span>
                 <span class="feed">DEV Community</span>
@@ -202,29 +217,6 @@
                 <span class="title"><a href="https://dev.to/member_3bd028d5/memory-safety-meets-extreme-performance-in-web-servers5345-4dla" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(5345)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Secure Messaging: The Guardian Leverages Millions of Readers to Provide Strong Plausible Deniability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/secure-messaging-coverdrop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Secure Messaging: The Guardian Leverages Millions of Readers to Provide Strong Plausible Deniability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-12 14:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html" target="_blank">Squid Dominated the Oceans in the Late Cretaceous</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-11 21:04</span>
             </div>
         </div>
 </div>
@@ -305,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
