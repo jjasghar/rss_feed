@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 06:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 07:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 06:02 UTC</div>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak with 34C temperatures predicted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak with 34C temperatures predicted</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 06:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/colombia-arrests-alleged-leader-of-italian-mafia-in-latin-america?traffic_source=rss" target="_blank">Colombia arrests alleged leader of Italian mafia in Latin America</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 06:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak as temperatures soar over 30C" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave spreads to Scotland and Northern Ireland</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-12 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5462618/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles" target="_blank">Federal judge orders stop to indiscriminate immigration raids in Los Angeles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-ice-rs-d1a915.jpg" alt="Judge halts immigration raids in Southern California based on race or language" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/immigration-officials-cant-detain-people-based-race-speaking-spanish-l-rcna218400" target="_blank">Judge halts immigration raids in Southern California based on race or language</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-12 02:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhoiwqpcrnudiu4txhzs.png" alt="THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fonyuygita/the-javascript-needed-to-be-top-1-react-native-developer-1lad" target="_blank">THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 06:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add" target="_blank">Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.12-Released" target="_blank">Wine 10.12 Released With Experimental EGL Backend For The X11 Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-12 00:48</span>
             </div>
         </div>
 </div>
@@ -332,22 +333,13 @@
                 <span class="time">2025-07-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/11/turmoil-in-the-toybox" target="_blank">Turmoil In The Toybox</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-11 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
