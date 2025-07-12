@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 14:01:29 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-12 15:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/trucks-border-mexico-ap-jt-250712_1752328892252_hpMain_4x3t_384.jpg" alt="Trump announces 30% tariffs on European Union and Mexico" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-announces-30-tariffs-european-union-mexico/story?id=123700107" target="_blank">Trump announces 30% tariffs on European Union and Mexico</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-12 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5465577/trump-30-tariffs-eu-mexico" target="_blank">Trump announces 30% tariffs against EU, Mexico to begin August 1</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 13:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/psg-vs-chelsea-fifa-club-world-cup-final-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Chelsea: FIFA Club World Cup final – teams, start, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-12 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-donald-trump-ursula-von-der-leyen_6853911.jpg?20250312090340" alt="Trump announces 30% tariff on imports from EU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-announces-30-tariff-on-imports-from-eu-13395817" target="_blank">Trump announces 30% tariff on imports from EU</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-12 13:21</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +101,20 @@
                 <span class="time">2025-07-12 10:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5464098/texas-flooding-lost-pets" target="_blank">In the Texas flood zone, volunteers help reunite lost pets with their owners</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/pkk-disarmament-opens-new-page-in-history-for-turkiye-erdogan-says?traffic_source=rss" target="_blank">PKK disarmament opens ‘new page in history’ for Turkiye, Erdogan says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 08:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak with 34C temperatures possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak with 34C temperatures possible</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-12 08:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025" target="_blank">The best Amazon Prime Day deals you can still shop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-12 14:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,38 @@
                 <span class="time">2025-07-12 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/" target="_blank">Sequoia bets on silence</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-12 04:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Secure Messaging: The Guardian Leverages Millions of Readers to Provide Strong Plausible Deniability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/secure-messaging-coverdrop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Secure Messaging: The Guardian Leverages Millions of Readers to Provide Strong Plausible Deniability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-12 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough9317-ln6" target="_blank">Rust Async Web Framework Performance Breakthrough(9317)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-10.2-Released" target="_blank">Wine-Staging 10.2 Release Brings Patch For 11 Year Old Bug</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-12 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-RTXNTC-0.7-Beta" target="_blank">NVIDIA Publishes RTXNTC 0.7 Beta For Neural Texture Compression</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-12 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8a2272d3/resource-management-and-memory-efficiency-in-web-servers4994-2lg9" target="_blank">Resource Management and Memory Efficiency in Web Servers(4994)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/azure-devops-mcp-server/en/headerimage/generatedHeaderImage-1752007898411.jpg" alt="Microsoft Launches Azure DevOps MCP Server in Public Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/azure-devops-mcp-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Launches Azure DevOps MCP Server in Public Preview</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-12 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmzhgin9031mslp9j9t42.png" alt="How to kill the idea of Perfection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6" target="_blank">How to kill the idea of Perfection</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 08:50</span>
             </div>
         </div>
 </div>
@@ -335,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
