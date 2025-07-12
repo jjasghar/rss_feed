@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 13:08:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 14:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/psg-vs-chelsea-fifa-club-world-cup-final-teams-start-lineup?traffic_source=rss" target="_blank">PSG vs Chelsea: FIFA Club World Cup final – teams, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="time">2025-07-12 08:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak with 34C temperatures predicted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak with 34C temperatures predicted</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-12 06:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -106,9 +107,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look" target="_blank">24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687164b39838962e82562ad2/master/pass/Timekettle%20T1%20SOURCE%20Timekettle.png" alt="Timekettle T1 Handheld Translator Review: Global Offline Translation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/timekettle-t1-handheld-translator/" target="_blank">Timekettle T1 Handheld Translator Review: Global Offline Translation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm" target="_blank">Rivian R1S review: second time’s the charm</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1355168432-500x500.jpg" alt="5 big EV takeaways from Trump’s “One Big Beautiful Bill”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/5-big-ev-takeaways-from-trumps-one-big-beautiful-bill/" target="_blank">5 big EV takeaways from Trump’s “One Big Beautiful Bill”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-12 11:12</span>
             </div>
         </div>
 <div class="story">
@@ -129,38 +157,20 @@
                 <span class="time">2025-07-12 04:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites" target="_blank">Some Verge-favorite gadgets are still on sale as Prime Day winds down</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-12 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c00655a75e253c609987c/master/pass/7.jpg" alt="Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/" target="_blank">Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-12 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/704642/amazon-prime-day-gift-ideas-deals-sale-2025" target="_blank">These terrific, Verge-approved gifts are all discounted for Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-12 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prashantrmishra/safest-walk-through-the-grid-2gj7" target="_blank">Safest Walk through the grid</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6" target="_blank">How to kill the idea of Perfection</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.decryption.net.au/posts/macpaint.html" target="_blank">MacPaint Art from the Mid-80s Still Looks Great Today</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-12 08:45</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
