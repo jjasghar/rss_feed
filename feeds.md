@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 01:29:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 02:36:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/us-sanctions-cuban-president-regime-controlled-luxury-hotels?traffic_source=rss" target="_blank">US sanctions Cuban president, ‘regime-controlled’ luxury hotels</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/g-s1-77303/david-gergen-obituary" target="_blank">David Gergen, adviser to 4 presidents, dies at 83</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 00:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: What do the switches cut off before Air India crash do?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-07-11 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/air-india-10-gty-gmh-250613_1749819387049_hpMain_4x3t_384.jpg" alt="Fuel switches on Air India flight cut off moments before fatal crash: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/fuel-switches-air-india-flight-cut-off-moments/story?id=123688453" target="_blank">Fuel switches on Air India flight cut off moments before fatal crash: Report</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-11 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5459994/south-carolina-honors-robert-smalls-with-first-statue-of-a-black-man-at-the-capitol" target="_blank">South Carolina honors Robert Smalls with first statue of a Black man at the Capitol</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-11 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites" target="_blank">Some Verge-favorite gadgets are still on sale as Prime Day winds down</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-12 02:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686c00655a75e253c609987c/master/pass/7.jpg" alt="Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2025-07-11 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-500x500.jpg" alt="AI therapy bots fuel delusions and give dangerous advice, Stanford study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/" target="_blank">AI therapy bots fuel delusions and give dangerous advice, Stanford study finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-11 22:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robbiecahill/how-to-give-your-rhel-server-a-public-url-with-tunnelmole-pjn" target="_blank">How to Give Your RHEL Server a Public URL with Tunnelmole</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 02:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1628847%2F097e3404-a85d-4fbf-a107-d984c96fcf8f.jpeg" alt="Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add" target="_blank">Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre 8.6.0 Delivers Dramatic Database Speed Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/calibre-8-6-0-delivers-dramatic-database-speed-boost" target="_blank">Calibre 8.6.0 Delivers Dramatic Database Speed Boost</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-11 22:59</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-powered-technical-debt-reduction-saas" target="_blank">How to Reduce Technical Debt With Artificial Intelligence (AI)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sajjadrahman56/basic-docker-commands-omo" target="_blank">⚙️ Basic Docker Commands</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507676&w=600" alt="Server-Driven UI: Agile Interfaces Without App Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/server-driven-ui-agile-interfaces-without-app-releases" target="_blank">Server-Driven UI: Agile Interfaces Without App Releases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-11 19:00</span>
             </div>
         </div>
 </div>
@@ -244,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I Love Playing This MIDI Keyboard, and It’s $20 Off for a Few More Hours When Prime Day Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/last-chance-akai-midi-keyboard-prime-day-2025?utm_medium=RSS" target="_blank">I Love Playing This MIDI Keyboard, and It’s $20 Off for a Few More Hours When Prime Day Ends</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-12 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Universal-Horror-Unleashed-1.jpg" alt="There’s No Need to Wait for October: Summerween Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/theres-no-need-to-wait-for-october-summerween-is-here-2000628297" target="_blank">There’s No Need to Wait for October: Summerween Is Here</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-11 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZTSF8A3ZQ5YVJSKT8Z6803B/hero-image.png" alt="I Use This Solar-Charged Power Bank All the Time, and It’s Over 50% Off Until Prime Day Ends Tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/last-chance-best-tech-deals-under-25-prime-day-2025?utm_medium=RSS" target="_blank">Tonight Is Your Last Chance to Grab These Prime Day Tech Deals for Under $25</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-11 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/lenovo-tab-plus-review-2.jpg" alt="Lenovo Tab Plus Review: An Unmatched Audio Experience Among Tablets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lenovo-tab-plus-review-an-unmatched-audio-experience-among-tablets-2000627140" target="_blank">Lenovo Tab Plus Review: An Unmatched Audio Experience Among Tablets</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZKCBC6SS6TWM2443ZSAQPXY/hero-image.png" alt="This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tech-deals-under-50-prime-day-2025?utm_medium=RSS" target="_blank">This Is Your Last Chance to Grab the Best Prime Day Tech Deals Under $50</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-11 18:45</span>
             </div>
         </div>
 </div>
@@ -353,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
