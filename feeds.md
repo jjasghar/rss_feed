@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 08:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 09:01:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 08:01 UTC</div>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/pkk-disarmament-opens-new-page-in-history-for-turkiye-erdogan-says?traffic_source=rss" target="_blank">PKK disarmament opens ‘new page in history’ for Turkiye, Erdogan says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 08:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak with 34C temperatures possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak with 34C temperatures possible</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 08:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak with 34C temperatures predicted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/recently-recaptured-ecuador-drug-lord-fito-accepts-us-extradition-request?traffic_source=rss" target="_blank">Recently recaptured Ecuador drug lord ‘Fito’ accepts US extradition request</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-12 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/12/g-s1-77295/texas-flooding-kerrville-victim-heart-o-the-hills-camp-mystic-jane-ragsdale" target="_blank">&#x27;Helping every dang soul&#x27;: Beloved camp director was among those lost in Texas flooding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave spreads to Scotland and Northern Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave spreads to Scotland and Northern Ireland</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-12 03:35</span>
             </div>
         </div>
 </div>
@@ -159,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmzhgin9031mslp9j9t42.png" alt="How to kill the idea of Perfection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/redbugmilk/how-to-kill-the-idea-of-perfection-50c6" target="_blank">How to kill the idea of Perfection</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 08:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/deadpoolx7/java-streams-explained-like-youre-five-but-with-pro-level-depth-37an" target="_blank">🚀 Java Streams Explained Like You’re Five (But With Pro-Level Depth)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 07:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://americansunlight.substack.com/cp/168074209" target="_blank">Bad Actors Are Grooming LLMs to Produce Falsehoods</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-12 07:29</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/devopsfundamentals/terraform-fundamentals-config-3jkf" target="_blank">Terraform Fundamentals: Config</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km" target="_blank">DEV HELL: FRAUD OR F*CKING GENIUS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robbiecahill/how-to-give-your-rhel-server-a-public-url-with-tunnelmole-pjn" target="_blank">How to Give Your RHEL Server a Public URL with Tunnelmole</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 02:18</span>
             </div>
         </div>
 </div>
@@ -331,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
