@@ -1,41 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 16:01:31 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-12 17:01:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/alcaraz-vs-sinner-wimbledon-mens-single-final-start-prize-money-form?traffic_source=rss" target="_blank">Alcaraz vs Sinner: Wimbledon men’s single final – start, prize money, form</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 16:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +92,6 @@
                 <span class="time">2025-07-12 13:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250809-trump-rs-31075c.jpg" alt="Trump says he will hit E.U. and Mexico with 30% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-says-will-hit-eu-mexico-30-tariff-rcna218415" target="_blank">Trump says he will hit E.U. and Mexico with 30% tariff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-12 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -126,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look" target="_blank">24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/12/just-3-days-left-to-save-before-tc-all-stage-2025-lights-up-boston/" target="_blank">Just 3 days left to save before TechCrunch All Stage 2025 lights up Boston</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-12 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +149,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2025/07/5-big-ev-takeaways-from-trumps-one-big-beautiful-bill/" target="_blank">5 big EV takeaways from Trump’s “One Big Beautiful Bill”</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-12 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68714a65962c3c61d8233645/master/pass/DC_01509_R.jpg" alt="The 20 Best Movies on Amazon Prime Right Now (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-amazon-prime-movies/" target="_blank">The 20 Best Movies on Amazon Prime Right Now (July 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-12 11:00</span>
             </div>
         </div>
 </div>
@@ -237,20 +224,20 @@
                 <span class="time">2025-07-11 21:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/tradecraft-in-the-information-age.html" target="_blank">Tradecraft in the Information Age</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-11 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/rise-skywalker-hed.jpg" alt="Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rian-johnson-feels-fine-about-star-wars-the-rise-of-skywalker-2000628551" target="_blank">Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-12 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/hp-omen-max-pc-gear-review-8.jpg" alt="All Gaming Laptops Should Copy the HP Omen Max 16’s All-Too Obvious Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +283,6 @@
                 <span class="time">2025-07-11 23:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-strange-new-worlds-season-3-pike-number-one.jpg" alt="Everything to Remember Before ‘Star Trek: Strange New Worlds’ Returns for Season 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-everything-to-remember-season-3-2000628308" target="_blank">Everything to Remember Before ‘Star Trek: Strange New Worlds’ Returns for Season 3</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
