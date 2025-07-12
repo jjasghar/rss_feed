@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 04:08:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-12 05:02:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 04:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/12/g-s1-77295/texas-flooding-kerrville-victim-heart-o-the-hills-camp-mystic-jane-ragsdale" target="_blank">&#x27;Helping every dang soul&#x27;: Beloved camp director was among those lost in Texas flooding</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-12 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave spreads to Scotland and Northern Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave spreads to Scotland and Northern Ireland</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 03:35</span>
             </div>
         </div>
 <div class="story">
@@ -85,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/11/g-s1-77303/david-gergen-obituary" target="_blank">David Gergen, adviser to 4 presidents, dies at 83</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-12 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: Role of plane fuel switches explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: Role of plane fuel switches explained</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 22:53</span>
             </div>
         </div>
 </div>
@@ -342,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
