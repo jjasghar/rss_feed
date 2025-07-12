@@ -1,9 +1,11 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 19:01:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-12 20:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
@@ -11,30 +13,22 @@
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/trump-threatens-to-revoke-citizenship-of-us-comedian-rosie-odonnell?traffic_source=rss" target="_blank">Trump threatens to revoke citizenship of US comedian Rosie O’Donnell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 19:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-rafah-aid_6963621.jpg?20250712183330" alt="&#x27;At least 59 killed&#x27; in Gaza after Israeli military opens fire near aid centre and carries out strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-59-killed-after-israeli-military-opens-fire-near-gaza-aid-centre-and-carries-out-strikes-13395908" target="_blank">&#x27;At least 59 killed&#x27; in Gaza after Israeli military opens fire near aid centre and carries out strikes</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-12 16:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/west-bank-fence-ap-jt-250712_1752329790339_hpMain_4x3t_384.jpg" alt="American killed by Israeli settlers in the West Bank, family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/american-killed-israeli-settlers-west-bank-family/story?id=123700222" target="_blank">American killed by Israeli settlers in the West Bank, family says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-12 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/alcaraz-vs-sinner-wimbledon-mens-single-final-start-prize-money-form?traffic_source=rss" target="_blank">Alcaraz vs Sinner: Wimbledon men’s single final – start, prize money, form</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/iranian-fm-warns-un-sanctions-would-end-europes-role-in-nuclear-issue?traffic_source=rss" target="_blank">Iranian FM warns UN sanctions would ‘end’ Europe’s role in nuclear issue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 15:31</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc6" target="_blank">Bcachefs Lands Fixes In Linux 6.16 For Some &quot;High Severity&quot; Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-12 19:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6" target="_blank">Error Handling Strategies in High-Performance Web Servers(3735)</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough9317-ln6" target="_blank">Rust Async Web Framework Performance Breakthrough(9317)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-Staging-10.2-Released" target="_blank">Wine-Staging 10.2 Release Brings Patch For 11 Year Old Bug</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-12 13:55</span>
             </div>
         </div>
 </div>
@@ -314,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
