@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 10:01:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-12 11:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/new-secretary-general-of-international-civil-defence-organization-elected?traffic_source=rss" target="_blank">New secretary-general of International Civil Defence Organization elected</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5464098/texas-flooding-lost-pets" target="_blank">In the Texas flood zone, volunteers help reunite lost pets with their owners</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/colombia-arrests-alleged-leader-of-italian-mafia-in-latin-america?traffic_source=rss" target="_blank">Colombia arrests alleged leader of Italian mafia in Latin America</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-12 06:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak as temperatures soar over 30C" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak as temperatures soar over 30C</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-12 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/recently-recaptured-ecuador-drug-lord-fito-accepts-us-extradition-request?traffic_source=rss" target="_blank">Recently recaptured Ecuador drug lord ‘Fito’ accepts US extradition request</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 05:51</span>
             </div>
         </div>
 </div>
@@ -160,6 +173,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-RTXNTC-0.7-Beta" target="_blank">NVIDIA Publishes RTXNTC 0.7 Beta For Neural Texture Compression</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-12 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8a2272d3/resource-management-and-memory-efficiency-in-web-servers4994-2lg9" target="_blank">Resource Management and Memory Efficiency in Web Servers(4994)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 10:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmzhgin9031mslp9j9t42.png" alt="How to kill the idea of Perfection" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +226,6 @@
                 <span class="time">2025-07-12 07:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhoiwqpcrnudiu4txhzs.png" alt="THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fonyuygita/the-javascript-needed-to-be-top-1-react-native-developer-1lad" target="_blank">THE JAVASCRIPT NEEDED TO BE TOP 1% REACT NATIVE DEVELOPER</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darthmoomancer/im-sorry-arch-part-2-163h" target="_blank">I&#x27;m Sorry Arch! Part 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +254,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/tinytick.jpg" alt="Hot Tick Summer Is Here. Here’s What You Need to Know and How to Stay Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hot-tick-summer-is-here-heres-what-you-need-to-know-about-these-tiny-eight-legged-menaces-2000627629" target="_blank">Hot Tick Summer Is Here. Here’s What You Need to Know and How to Stay Safe</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I Love Playing This MIDI Keyboard, and It’s $20 Off for a Few More Hours When Prime Day Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +308,6 @@
                 <span class="time">2025-07-11 22:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ3TH33QTE0W8ZNER51V1627/hero-image.png" alt="Tonight Is Your Last Chance to Grab These Prime Day Tech Deals for Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/last-chance-best-tech-deals-under-25-prime-day-2025?utm_medium=RSS" target="_blank">Tonight Is Your Last Chance to Grab These Prime Day Tech Deals for Under $25</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-11 22:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
