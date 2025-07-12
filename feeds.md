@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 02:36:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 03:28:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/11/nx-s1-5462618/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles" target="_blank">Federal judge orders stop to indiscriminate immigration raids in Los Angeles</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-12 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-ice-rs-d1a915.jpg" alt="Judge halts immigration raids in Southern California based on race or language" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/immigration-officials-cant-detain-people-based-race-speaking-spanish-l-rcna218400" target="_blank">Judge halts immigration raids in Southern California based on race or language</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-12 02:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: Role of plane fuel switches explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: Role of plane fuel switches explained</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 22:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: What do the switches cut off before Air India crash do?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: What do the switches cut off before Air India crash do?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-11 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/dbb523c0-5ead-11f0-a40e-a1af2950b220.jpg" alt="BBC correspondent explains the role of fuel switches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">BBC correspondent explains the role of fuel switches</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-11 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/11/fuel-switches-cut-off-just-before-deadly-air-india-crash-early-report-says?traffic_source=rss" target="_blank">Fuel switches cut off just before deadly Air India crash, early report says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-dan-bongino-se-532p-56471c.jpg" alt="Dan Bongino weighs resigning from FBI after heated confrontation with Pam Bondi over Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388" target="_blank">Dan Bongino weighs resigning from FBI after heated confrontation with Pam Bondi over Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-11 22:06</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jinparkmida/dev-hell-fraud-or-fcking-genius-32km" target="_blank">DEV HELL: FRAUD OR F*CKING GENIUS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robbiecahill/how-to-give-your-rhel-server-a-public-url-with-tunnelmole-pjn" target="_blank">How to Give Your RHEL Server a Public URL with Tunnelmole</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 02:18</span>
@@ -180,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add" target="_blank">Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.12-Released" target="_blank">Wine 10.12 Released With Experimental EGL Backend For The X11 Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-12 00:48</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/zuuwn21/uniface-forlistendfor-mastering-list-loops-kaj" target="_blank">🔄 Uniface forlist...endfor: Mastering List Loops</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-11 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.theverge.com/openai/705999/google-windsurf-ceo-openai" target="_blank">OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-11 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18406690&w=600" alt="How to Reduce Technical Debt With Artificial Intelligence (AI)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-powered-technical-debt-reduction-saas" target="_blank">How to Reduce Technical Debt With Artificial Intelligence (AI)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-11 20:00</span>
             </div>
         </div>
 </div>
@@ -355,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
