@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 05:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 06:01:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave set to peak as temperatures soar over 30C" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave set to peak as temperatures soar over 30C</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 05:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/recently-recaptured-ecuador-drug-lord-fito-accepts-us-extradition-request?traffic_source=rss" target="_blank">Recently recaptured Ecuador drug lord ‘Fito’ accepts US extradition request</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 05:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-07-12 02:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/us-sanctions-cuban-president-regime-controlled-luxury-hotels?traffic_source=rss" target="_blank">US sanctions Cuban president, ‘regime-controlled’ luxury hotels</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/11/g-s1-77303/david-gergen-obituary" target="_blank">David Gergen, adviser to 4 presidents, dies at 83</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 00:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/11/sequoia-bets-on-silence/" target="_blank">Sequoia bets on silence</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-12 04:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +159,20 @@
                 <span class="time">2025-07-11 22:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4" target="_blank">Prime Day is almost over, but our favorite deals are still live</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darthmoomancer/im-sorry-arch-part-2-163h" target="_blank">I&#x27;m Sorry Arch! Part 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 05:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.12-Released" target="_blank">Wine 10.12 Released With Experimental EGL Backend For The X11 Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-12 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/calibre-ebook-manager-app.jpg?resize=406%2C232&amp;ssl=1" alt="Calibre 8.6.0 Delivers Dramatic Database Speed Boost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/calibre-8-6-0-delivers-dramatic-database-speed-boost" target="_blank">Calibre 8.6.0 Delivers Dramatic Database Speed Boost</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-11 22:59</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
