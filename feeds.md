@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 20:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-12 21:01:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/uk-lawmakers-urge-foreign-secretary-lammy-to-recognise-palestinian-state?traffic_source=rss" target="_blank">UK lawmakers urge Foreign Secretary Lammy to recognise Palestinian state</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-12 20:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/at-least-59-killed-after-israeli-military-opens-fire-near-gaza-aid-centre-and-carries-out-strikes-13395908" target="_blank">&#x27;At least 59 killed&#x27; in Gaza after Israeli military opens fire near aid centre and carries out strikes</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-12 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/west-bank-fence-ap-jt-250712_1752329790339_hpMain_4x3t_384.jpg" alt="American killed by Israeli settlers in the West Bank, family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/american-killed-israeli-settlers-west-bank-family/story?id=123700222" target="_blank">American killed by Israeli settlers in the West Bank, family says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-12 16:31</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://angr.io/" target="_blank">angr (open-source binary analysis platform for Python)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-12 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc6" target="_blank">Bcachefs Lands Fixes In Linux 6.16 For Some &quot;High Severity&quot; Regressions</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +213,6 @@
                 <span class="time">2025-07-12 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_c4991035/rust-async-web-framework-performance-breakthrough9317-ln6" target="_blank">Rust Async Web Framework Performance Breakthrough(9317)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-12 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dune-part-two-paul-timothee-chalamet.jpg" alt="Legendary Entertainment May Have Lionsgate in Its Acquisition Sights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/legendary-entertainment-may-have-lionsgate-in-its-acquisition-sights-2000628414" target="_blank">Legendary Entertainment May Have Lionsgate in Its Acquisition Sights</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-12 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Odonnell.jpeg?fit=1080%2C702&amp;quality=60&amp;ssl=1" alt="Rosie O&#x27;Donnell taunts Trump after he threatens to take away her citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/12/rosie-odonnell-taunts-trump-after-he-threatens-to-take-away-her-citizenship.html" target="_blank">Rosie O&#x27;Donnell taunts Trump after he threatens to take away her citizenship</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-12 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/rise-skywalker-hed.jpg" alt="Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +286,6 @@
                 <span class="time">2025-07-12 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZVNSFHMG26Y8Q4ZFRJ6J4FB/hero-image.jpg" alt="I Love Playing This MIDI Keyboard, and It’s $20 Off for a Few More Hours When Prime Day Ends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/last-chance-akai-midi-keyboard-prime-day-2025?utm_medium=RSS" target="_blank">I Love Playing This MIDI Keyboard, and It’s $20 Off for a Few More Hours When Prime Day Ends</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-12 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Universal-Horror-Unleashed-1.jpg" alt="There’s No Need to Wait for October: Summerween Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/theres-no-need-to-wait-for-october-summerween-is-here-2000628297" target="_blank">There’s No Need to Wait for October: Summerween Is Here</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-11 23:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,7 +306,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
