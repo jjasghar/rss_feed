@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-12 00:04:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-12 01:29:32 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, July 12, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 12, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d2/live/67cd0f40-5ebc-11f0-a40e-a1af2950b220.jpg" alt="Watch: What do the switches cut off before Air India crash do?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cx2vrdd5xkeo" target="_blank">Watch: What do the switches cut off before Air India crash do?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-11 22:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/dbb523c0-5ead-11f0-a40e-a1af2950b220.jpg" alt="BBC correspondent explains the role of fuel switches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2025-07-11 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/11/trumps-new-brazil-tariffs-could-raise-us-beef-prices?traffic_source=rss" target="_blank">Trump’s new Brazil tariffs could raise US beef prices</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-11 21:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686c00655a75e253c609987c/master/pass/7.jpg" alt="Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/" target="_blank">Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-12 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,21 +149,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-500x500.jpg" alt="AI therapy bots fuel delusions and give dangerous advice, Stanford study finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal" target="_blank">The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/11/can-an-ethical-spyware-maker-provide-its-tech-to-ice/" target="_blank">Can an ‘ethical’ spyware maker justify providing its tech to ICE?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-11 21:00</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/" target="_blank">AI therapy bots fuel delusions and give dangerous advice, Stanford study finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-11 22:01</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1628847%2F097e3404-a85d-4fbf-a107-d984c96fcf8f.jpeg" alt="Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrmemory/fun-project-i-put-together-this-week-in-response-to-the-rise-of-quishing-or-qr-code-phishing-5add" target="_blank">Fun project I put together this week in response to the rise of Quishing, or QR-code phishing. QRTrust is a free progressive web app that scans QR codes and checks the URLs they encode against the PhishTank database.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-12 01:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/server-driven-ui-agile-interfaces-without-app-releases" target="_blank">Server-Driven UI: Agile Interfaces Without App Releases</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-11 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asross311/ode-to-advanced-typescript-a-poem-by-grok-1pn4" target="_blank">&quot;Ode to Advanced TypeScript&quot;, a poem by Grok</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-11 18:42</span>
             </div>
         </div>
 </div>
@@ -354,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
