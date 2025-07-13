@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 18:01:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-13 19:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/13/former-nigeria-president-muhammadu-buhari-dies-aged-82-in-london" target="_blank">Former Nigerian president Muhammadu Buhari dies aged 82 in London</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-13 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/several-dead-in-clashes-in-predominantly-druze-syrian-city?traffic_source=rss" target="_blank">Several dead in clashes in predominantly Druze Syrian city</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-13 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Trump-Butler-1-gty-jm-241004_1728055199364_hpMain_4x3t_384.jpg" alt="Senate Trump assassination report details Secret Service failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-trump-assassination-report-details-secret-service-failures/story?id=123719300" target="_blank">Senate Trump assassination report details Secret Service failures</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-13 17:38</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5464918/how-china-is-likely-to-respond-to-taiwans-military-exercises" target="_blank">How China is likely to respond to Taiwan&#x27;s military exercises</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-13 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5462858/politics" target="_blank">POLITICS</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752412493778_mtp_clip_noemFEMA_250713_1920x1080-z27a6u.jpg" alt="Sec. Noem says FEMA ‘should not exist’ in its current form after Trump called for phasing it out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/sec-noem-says-fema-should-not-exist-in-its-current-form-after-trump-called-for-phasing-it-out-243138117683" target="_blank">Sec. Noem says FEMA ‘should not exist’ in its current form after Trump called for phasing it out</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-13 13:14</span>
             </div>
         </div>
 </div>
@@ -224,6 +225,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/grok-x-twitter-image.jpg" alt="Elon Musk’s AI Was Ordered to Be Edgy. It Became a Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musks-ai-was-ordered-to-be-edgy-it-became-a-monster-2000628691" target="_blank">Elon Musk’s AI Was Ordered to Be Edgy. It Became a Monster</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 18:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg" alt="Ford’s Recall Affects Almost Every Cool Car They Make, and There’s No Fix Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,15 +278,6 @@
                 <span class="time">2025-07-12 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/dune-part-two-paul-timothee-chalamet.jpg" alt="Legendary Entertainment May Have Lionsgate in Its Acquisition Sights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/legendary-entertainment-may-have-lionsgate-in-its-acquisition-sights-2000628414" target="_blank">Legendary Entertainment May Have Lionsgate in Its Acquisition Sights</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-12 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
