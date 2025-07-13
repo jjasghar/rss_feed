@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 22:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f1a/live/14cec530-602f-11f0-84f9-89e4b88729bf.jpg" alt="South Africa&#x27;s police minister suspended over organised crime allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8d6lzn733jo" target="_blank">South Africa&#x27;s police minister suspended over organised crime allegations</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-13 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Trump-Butler-1-gty-jm-241004_1728055199364_hpMain_4x3t_384.jpg" alt="Senate report highlights resources denied for Trump events in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/senate-trump-assassination-report-details-secret-service-failures/story?id=123719300" target="_blank">Senate report highlights resources denied for Trump events in 2024</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-13 21:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/nigerias-former-president-muhammadu-buhari-dies-in-london-aged-82?traffic_source=rss" target="_blank">Nigeria’s ex-President Muhammadu Buhari dies in London aged 82</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 20:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +100,20 @@
                 <span class="time">2025-07-13 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Trump-Butler-1-gty-jm-241004_1728055199364_hpMain_4x3t_384.jpg" alt="Senate Trump assassination report details Secret Service failures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-trump-assassination-report-details-secret-service-failures/story?id=123719300" target="_blank">Senate Trump assassination report details Secret Service failures</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-13 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5463514/north-carolinas-senate-race-is-expected-to-be-a-toss-up-in-2026" target="_blank">North Carolina&#x27;s Senate race is expected to be a toss-up in 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/13/marc-marquez-wins-chaotic-german-motogp-at-sachsenring?traffic_source=rss" target="_blank">Marc Marquez wins chaotic German MotoGP at Sachsenring</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/13/meta-acquires-voice-startup-play-ai/" target="_blank">Meta acquires voice startup Play AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-13 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-electric-scooters/" target="_blank">9 Best Electric Scooters (2025), Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-13 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687191d2efa0064cf10eee1d/master/pass/Review-%20Garmin%20Forerunner%20970%20Courtesy%20of%20Garmin.png" alt="Garmin Forerunner 970 Review: A Very Extra Running Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/garmin-forerunner-970/" target="_blank">Garmin Forerunner 970 Review: A Very Extra Running Watch</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-13 13:00</span>
             </div>
         </div>
 </div>
@@ -223,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-david-corenswet.jpg" alt="‘Superman’ Blasts Off To a Big Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superman-blasts-off-to-a-big-opening-weekend-2000628686" target="_blank">‘Superman’ Blasts Off To a Big Opening Weekend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/grok-x-twitter-image.jpg" alt="Elon Musk’s AI Was Ordered to Be Edgy. It Became a Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,15 +277,6 @@
                 <span class="time">2025-07-13 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/pleasantville-scaled.jpg?fit=2560%2C1522&amp;quality=60&amp;ssl=1" alt="Pleasantville creates magic in debut album" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/12/digital-age-duo-pleasantville-creates-magic-without-meeting-in-studio-for-debut-album.html" target="_blank">Pleasantville creates magic in debut album</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-12 23:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
