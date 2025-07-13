@@ -1,40 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 03:29:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-13 04:13:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 03:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a44/live/bf030010-5f2c-11f0-a883-a7b58f2b254f.jpg" alt="EU and Mexico criticise Trump&#x27;s proposed 30% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cyvj13d9ylpo" target="_blank">EU and Mexico criticise Trump&#x27;s proposed 30% tariff</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-13 03:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +90,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave peaks at 33C as whole of UK swelters</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-12 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/12/uk-lawmakers-urge-foreign-secretary-lammy-to-recognise-palestinian-state?traffic_source=rss" target="_blank">UK lawmakers urge Foreign Secretary Lammy to recognise Palestinian state</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 20:19</span>
             </div>
         </div>
 </div>
@@ -172,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nosytlabs/why-this-error-httpsdevtonosytlabswhy-this-error-10hm-1n55" target="_blank">why this error? https://dev.to/nosytlabs/why-this-error-10hm</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vilo-time/join-the-dev-community-today-323" target="_blank">Join the DEV Community today</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 02:48</span>
@@ -211,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/member_c4991035/error-handling-strategies-in-high-performance-web-servers3735-17e6" target="_blank">Error Handling Strategies in High-Performance Web Servers(3735)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-12 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/" target="_blank">Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-12 16:31</span>
             </div>
         </div>
 </div>
@@ -300,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
