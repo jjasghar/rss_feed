@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 17:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 18:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/several-dead-in-clashes-in-predominantly-druze-syrian-city?traffic_source=rss" target="_blank">Several dead in clashes in predominantly Druze Syrian city</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 17:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/sec-noem-says-fema-should-not-exist-in-its-current-form-after-trump-called-for-phasing-it-out-243138117683" target="_blank">Sec. Noem says FEMA ‘should not exist’ in its current form after Trump called for phasing it out</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-13 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/know-their-names-west-bank-palestinians-killed-by-israelis-this-week?traffic_source=rss" target="_blank">Know their names: West Bank Palestinians killed by Israelis this week</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 12:40</span>
             </div>
         </div>
 </div>
@@ -180,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-July-2025" target="_blank">CachyOS July 2025 Ships With Mesa Patched For Anti-Lag, Plasma Defaulting To Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-13 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8" target="_blank">Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/hmzas/why-c-is-still-the-goat-of-programming-languages-4fdc" target="_blank">Why C++ Is Still the GOAT of Programming Languages 🐐</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shutemov-Intel-Linux-Leaving" target="_blank">Another Longtime Intel Linux Engineer Leaves The Company</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-13 10:52</span>
             </div>
         </div>
 </div>
@@ -301,7 +297,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:01 UTC
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
