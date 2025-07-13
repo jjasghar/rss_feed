@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 15:01:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-13 16:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/13/marc-marquez-wins-chaotic-german-motogp-at-sachsenring?traffic_source=rss" target="_blank">Marc Marquez wins chaotic German MotoGP at Sachsenring</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5464918/how-china-is-likely-to-respond-to-taiwans-military-exercises" target="_blank">How China is likely to respond to Taiwan&#x27;s military exercises</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -62,6 +71,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5462858/politics" target="_blank">POLITICS</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-13 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752412493778_mtp_clip_noemFEMA_250713_1920x1080-z27a6u.jpg" alt="Sec. Noem says FEMA ‘should not exist’ in its current form after Trump called for phasing it out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/sec-noem-says-fema-should-not-exist-in-its-current-form-after-trump-called-for-phasing-it-out-243138117683" target="_blank">Sec. Noem says FEMA ‘should not exist’ in its current form after Trump called for phasing it out</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-13 13:14</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +100,20 @@
                 <span class="time">2025-07-13 12:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5466054/los-angeles-houses-of-worship-plan-ice-raids" target="_blank">Los Angeles houses of worship plan for possible ICE Raids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5464830/love-island-usa-season-7-race-chelley-olandria-huda" target="_blank">&#x27;Love Island USA&#x27; might decenter whiteness — but the show still won&#x27;t face reality</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/" target="_blank">Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-13 15:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer" target="_blank">Foldables are in and suddenly really thin</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-1-500x500.jpeg" alt="A new Martian climate model suggest a mostly cold, harsh environment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/a-new-martian-climate-model-suggest-a-mostly-cold-harsh-environment/" target="_blank">A new Martian climate model suggest a mostly cold, harsh environment</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-13 11:13</span>
             </div>
         </div>
 </div>
@@ -224,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg" alt="Ford’s Recall Affects Almost Every Cool Car They Make, and There’s No Fix Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fords-recall-affects-almost-every-cool-car-they-make-and-theres-no-fix-yet-2000628676" target="_blank">Ford’s Recall Affects Almost Every Cool Car They Make, and There’s No Fix Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 15:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="The Fantastic Four Were Too OP For the Infinity Saga" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,27 +277,18 @@
                 <span class="time">2025-07-12 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Odonnell.jpeg?fit=1080%2C702&amp;quality=60&amp;ssl=1" alt="Rosie O&#x27;Donnell taunts Trump after he threatens to take away her citizenship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/12/rosie-odonnell-taunts-trump-after-he-threatens-to-take-away-her-citizenship.html" target="_blank">Rosie O&#x27;Donnell taunts Trump after he threatens to take away her citizenship</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-12 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752123748-20250712.png" alt="Saturday Morning Breakfast Cereal - Rolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1752300534-20250713.png" alt="Saturday Morning Breakfast Cereal - Summary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/rolling-2" target="_blank">Saturday Morning Breakfast Cereal - Rolling</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/summary" target="_blank">Saturday Morning Breakfast Cereal - Summary</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-12 15:20</span>
+                <span class="time">2025-07-13 15:20</span>
             </div>
         </div>
 </div>
@@ -296,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
