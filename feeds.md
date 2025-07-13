@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 10:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 11:01:25 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5464830/love-island-usa-season-7-race-chelley-olandria-huda" target="_blank">&#x27;Love Island USA&#x27; might decenter whiteness — but the show still won&#x27;t face reality</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/13/alligator-alcatraz-is-aninternment-camp-for-detained-migrants?traffic_source=rss" target="_blank">“Alligator Alcatraz” is an”internment camp” for detained migrants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-butler-assassination-attempt-gty-lv-250113-2_1736804471535_hpMain_4x3t_384.jpg" alt="A year after Butler: Remembering a fallen hero, reckoning with security breakdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/year-after-trump-rally-shooting-remembering-fallen-hero/story?id=123707071" target="_blank">A year after Butler: Remembering a fallen hero, reckoning with security breakdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-13 10:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53b2/live/6ba4c850-5fc6-11f0-8755-2f8b5e5e47a7.jpg" alt="Child dies at Alder Hey as measles cases surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +104,20 @@
                 <span class="time">2025-07-13 05:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5465635/camp-mystic-flood-maps-fema-texas-flooding" target="_blank">Camp Mystic asked to remove buildings from government flood maps despite risk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a44/live/bf030010-5f2c-11f0-a883-a7b58f2b254f.jpg" alt="EU and Mexico criticise Trump&#x27;s proposed 30% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cyvj13d9ylpo" target="_blank">EU and Mexico criticise Trump&#x27;s proposed 30% tariff</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-13 03:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/russia-ukraine-war-list-of-key-events-day-1235?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,235</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 02:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump" target="_blank">Why GM’s CEO is still betting on electric vehicles (and racing)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="20% Off HP Coupon Code | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +163,38 @@
                 <span class="time">2025-07-12 14:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look" target="_blank">24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shutemov-Intel-Linux-Leaving" target="_blank">Another Longtime Intel Linux Engineer Leaves The Company</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-13 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodaq0f1jiu0as5u3vdc6.png" alt="How to create a simple waitlist form in Next.js using Supabase to collect responses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charanx/how-to-create-a-simple-waitlist-form-in-nextjs-using-supabase-to-collect-responses-4dpe" target="_blank">How to create a simple waitlist form in Next.js using Supabase to collect responses</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/arm-sme2-android/en/headerimage/arm-sme2-android-1752325153941.jpeg" alt="Arm Scalable Matrix Extension 2 Coming to Android To Accelerate On-Device AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/arm-sme2-android/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Arm Scalable Matrix Extension 2 Coming to Android To Accelerate On-Device AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-13 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhxlemjz209yqczodkq26.jpg" alt="Office Edition Animated Frontend HomePage for Axero" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,38 +222,20 @@
                 <span class="time">2025-07-13 05:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nosytlabs/why-this-error-httpsdevtonosytlabswhy-this-error-10hm-1n55" target="_blank">why this error? https://dev.to/nosytlabs/why-this-error-10hm</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vilo-time/join-the-dev-community-today-323" target="_blank">Join the DEV Community today</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://angr.io/" target="_blank">angr (open-source binary analysis platform for Python)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-12 20:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/airport-radar-air-traffic-control.jpg" alt="Aliens Can Detect Earth’s Airports From 200 Light-Years Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/aliens-can-detect-earths-airports-from-200-light-years-away-2000627049" target="_blank">Aliens Can Detect Earth’s Airports From 200 Light-Years Away</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/pleasantville-scaled.jpg?fit=2560%2C1522&amp;quality=60&amp;ssl=1" alt="Pleasantville creates magic in debut album" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +281,6 @@
                 <span class="time">2025-07-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/hp-omen-max-pc-gear-review-8.jpg" alt="All Gaming Laptops Should Copy the HP Omen Max 16’s All-Too Obvious Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/all-gaming-laptops-should-copy-the-hp-omen-max-16s-all-too-obvious-feature-2000628329" target="_blank">All Gaming Laptops Should Copy the HP Omen Max 16’s All-Too Obvious Feature</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
