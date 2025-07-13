@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 23:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/13/chelsea-trounce-psg-to-lift-fifa-club-world-cup?traffic_source=rss" target="_blank">Chelsea trounce PSG to lift FIFA Club World Cup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f1a/live/14cec530-602f-11f0-84f9-89e4b88729bf.jpg" alt="South Africa&#x27;s police minister suspended over organised crime allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/jul/13/former-nigeria-president-muhammadu-buhari-dies-aged-82-in-london" target="_blank">Former Nigerian president Muhammadu Buhari dies aged 82 in London</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-13 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/several-dead-in-clashes-in-predominantly-druze-syrian-city?traffic_source=rss" target="_blank">Several dead in clashes in predominantly Druze Syrian city</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 17:42</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">OpenCut: The open-source CapCut alternative</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-13 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/" target="_blank">Most people who buy games on Steam never play them</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-13 17:47</span>
@@ -209,20 +220,20 @@
                 <span class="time">2025-07-13 13:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsfundamentals/ubuntu-fundamentals-groupadd-1ba" target="_blank">Ubuntu Fundamentals: groupadd</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="The CEO of Nvidia Admits What Everybody Is Afraid of About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-ceo-of-nvidia-admits-what-everybody-is-afraid-of-about-ai-2000628701" target="_blank">The CEO of Nvidia Admits What Everybody Is Afraid of About AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 22:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-david-corenswet.jpg" alt="‘Superman’ Blasts Off To a Big Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +279,6 @@
                 <span class="time">2025-07-13 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/airport-radar-air-traffic-control.jpg" alt="Aliens Can Detect Earth’s Airports From 200 Light-Years Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/aliens-can-detect-earths-airports-from-200-light-years-away-2000627049" target="_blank">Aliens Can Detect Earth’s Airports From 200 Light-Years Away</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
