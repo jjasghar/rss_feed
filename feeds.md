@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 00:05:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 01:29:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +53,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5464881/is-the-fifa-club-world-cup-final-a-barometer-of-soccers-success-in-america" target="_blank">Is the FIFA Club World Cup final a barometer of soccer&#x27;s success in America?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/a4f6d320-5ebb-11f0-960d-e9f1088a89fe.jpg" alt="Heatwave peaks at 33C as whole of UK swelters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y2jd5yye9o" target="_blank">Heatwave peaks at 33C as whole of UK swelters</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-12 20:59</span>
             </div>
         </div>
 <div class="story">
@@ -88,20 +100,20 @@
                 <span class="time">2025-07-12 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/india-level-up-with-england-as-tempers-nearly-boil-over-at-lords?traffic_source=rss" target="_blank">India level up with England as tempers nearly boil over at Lord’s</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-12 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/" target="_blank">A United Nations research institute created an AI refugee avatar</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-12 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/review/timekettle-t1-handheld-translator/" target="_blank">Timekettle T1 Handheld Translator Review: Global Offline Translation</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm" target="_blank">Rivian R1S review: second time’s the charm</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-12 12:00</span>
             </div>
         </div>
 </div>
@@ -221,6 +224,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/pleasantville-scaled.jpg?fit=2560%2C1522&amp;quality=60&amp;ssl=1" alt="Pleasantville creates magic in debut album" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/12/digital-age-duo-pleasantville-creates-magic-without-meeting-in-studio-for-debut-album.html" target="_blank">Pleasantville creates magic in debut album</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-12 23:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/dune-part-two-paul-timothee-chalamet.jpg" alt="Legendary Entertainment May Have Lionsgate in Its Acquisition Sights" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,15 +277,6 @@
                 <span class="time">2025-07-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/tinytick.jpg" alt="Hot Tick Summer Is Here. Here’s What You Need to Know and How to Stay Safe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hot-tick-summer-is-here-heres-what-you-need-to-know-about-these-tiny-eight-legged-menaces-2000627629" target="_blank">Hot Tick Summer Is Here. Here’s What You Need to Know and How to Stay Safe</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-12 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
