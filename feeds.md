@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 11:01:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-13 12:01:56 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/a02a6500-5fce-11f0-8a86-378d494e3c54.jpg" alt="Children fetching water killed in Israeli strike in Gaza, emergency officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0rvxjnvv71o" target="_blank">Children fetching water killed in Israeli strike in Gaza, emergency officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-13 10:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-butler-assassination-attempt-gty-lv-250113-2_1736804471535_hpMain_4x3t_384.jpg" alt="A year after Butler: Remembering a fallen hero, reckoning with security breakdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -95,20 +98,38 @@
                 <span class="time">2025-07-13 09:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/true-crime-reports/2025/7/13/held-captive-by-a-russian-serial-killer-true-crime-reports?traffic_source=rss" target="_blank">Held Captive by a Russian Serial Killer | True Crime Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer" target="_blank">Foldables are in and suddenly really thin</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-1-500x500.jpeg" alt="A new Martian climate model suggest a mostly cold, harsh environment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/a-new-martian-climate-model-suggest-a-mostly-cold-harsh-environment/" target="_blank">A new Martian climate model suggest a mostly cold, harsh environment</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-13 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686c028b5a75e253c609987e/master/pass/Space-Complexity-Breakthrough_crIrene-Perez-Lede.jpg" alt="For Algorithms, Memory Is a Far More Powerful Resource Than Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/" target="_blank">For Algorithms, Memory Is a Far More Powerful Resource Than Time</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,38 +157,20 @@
                 <span class="time">2025-07-13 00:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/" target="_blank">A United Nations research institute created an AI refugee avatar</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-12 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/" target="_blank">xAI and Grok apologize for ‘horrific behavior’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-12 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025" target="_blank">The best Amazon Prime Day deals you can still shop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-12 14:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hmzas/why-c-is-still-the-goat-of-programming-languages-4fdc" target="_blank">Why C++ Is Still the GOAT of Programming Languages 🐐</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 11:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5" target="_blank">GoFr: An Opinionated Microservice Development Framework</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg" target="_blank">Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 05:55</span>
             </div>
         </div>
 </div>
@@ -300,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
