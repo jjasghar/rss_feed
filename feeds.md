@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 14:01:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-13 15:01:24 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5464918/how-china-is-likely-to-respond-to-taiwans-military-exercises" target="_blank">How China is likely to respond to Taiwan&#x27;s military exercises</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-13 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,29 @@
                 <span class="time">2025-07-13 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/13/alligator-alcatraz-is-aninternment-camp-for-detained-migrants?traffic_source=rss" target="_blank">“Alligator Alcatraz” is an”internment camp” for detained migrants</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 10:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/" target="_blank">UK launches £500M package to support diverse, underrepresented investors and founders</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686ec87c2d78d816921763f0/master/pass/The%20Best%20Electric%20Scooters.png" alt="9 Best Electric Scooters (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electric-scooters/" target="_blank">9 Best Electric Scooters (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-13 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687191d2efa0064cf10eee1d/master/pass/Review-%20Garmin%20Forerunner%20970%20Courtesy%20of%20Garmin.png" alt="Garmin Forerunner 970 Review: A Very Extra Running Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +159,29 @@
                 <span class="time">2025-07-13 11:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c028b5a75e253c609987e/master/pass/Space-Complexity-Breakthrough_crIrene-Perez-Lede.jpg" alt="For Algorithms, Memory Is a Far More Powerful Resource Than Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/" target="_blank">For Algorithms, Memory Is a Far More Powerful Resource Than Time</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump" target="_blank">Why GM’s CEO is still betting on electric vehicles (and racing)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-13 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8" target="_blank">Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent" target="_blank">Linux 6.16 Ready With Fixes For Old AMD Hardware &quot;Which Wasn&#x27;t Even Supposed To Run Linux&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-13 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +218,20 @@
                 <span class="time">2025-07-13 10:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/arm-sme2-android/en/headerimage/arm-sme2-android-1752325153941.jpeg" alt="Arm Scalable Matrix Extension 2 Coming to Android To Accelerate On-Device AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/arm-sme2-android/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Arm Scalable Matrix Extension 2 Coming to Android To Accelerate On-Device AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-13 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhxlemjz209yqczodkq26.jpg" alt="Office Edition Animated Frontend HomePage for Axero" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f" target="_blank">Office Edition Animated Frontend HomePage for Axero</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 08:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="The Fantastic Four Were Too OP For the Infinity Saga" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-fantastic-four-were-too-op-for-the-infinity-saga-2000628605" target="_blank">The Fantastic Four Were Too OP For the Infinity Saga</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/whoop-5-band-review-10.jpg" alt="The Whoop 5.0 Is a Massive Upgrade to Health Tracking. I Wasn’t Ready." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +277,6 @@
                 <span class="time">2025-07-12 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/rise-skywalker-hed.jpg" alt="Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rian-johnson-feels-fine-about-star-wars-the-rise-of-skywalker-2000628551" target="_blank">Rian Johnson Feels Fine About ‘Star Wars: The Rise of Skywalker’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-12 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
