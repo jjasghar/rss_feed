@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 13:09:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 14:01:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5462858/politics" target="_blank">POLITICS</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-13 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/13/alligator-alcatraz-is-aninternment-camp-for-detained-migrants?traffic_source=rss" target="_blank">“Alligator Alcatraz” is an”internment camp” for detained migrants</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-13 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/a02a6500-5fce-11f0-8a86-378d494e3c54.jpg" alt="Children fetching water killed in Israeli strike in Gaza, emergency officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0rvxjnvv71o" target="_blank">Children fetching water killed in Israeli strike in Gaza, emergency officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-13 10:12</span>
             </div>
         </div>
 </div>
@@ -173,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsfundamentals/ubuntu-fundamentals-groupadd-1ba" target="_blank">Ubuntu Fundamentals: groupadd</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hmzas/why-c-is-still-the-goat-of-programming-languages-4fdc" target="_blank">Why C++ Is Still the GOAT of Programming Languages 🐐</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 11:56</span>
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/volde/office-edition-animated-frontend-homepage-for-axero-333f" target="_blank">Office Edition Animated Frontend HomePage for Axero</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/asottile/dict-unpacking-at-home" target="_blank">dict-unpacking-at-home: can we have dict unpacking in python?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-13 08:17</span>
             </div>
         </div>
 </div>
@@ -301,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
