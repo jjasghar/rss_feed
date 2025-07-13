@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 07:02:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-13 08:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 13, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/true-crime-reports/2025/7/13/held-captive-by-a-russian-serial-killer-true-crime-reports?traffic_source=rss" target="_blank">Held Captive by a Russian Serial Killer | True Crime Reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-13 05:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5465635/camp-mystic-flood-maps-fema-texas-flooding" target="_blank">Camp Mystic asked to remove buildings from government flood maps despite risk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-13 04:29</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/12/alcaraz-vs-sinner-tennis-champions-set-to-resume-rivalry-at-wimbledon-2025?traffic_source=rss" target="_blank">Alcaraz vs Sinner: Tennis champions set to resume rivalry at Wimbledon 2025</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-12 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/12/nx-s1-5464881/is-the-fifa-club-world-cup-final-a-barometer-of-soccers-success-in-america" target="_blank">Is the FIFA Club World Cup final a barometer of soccer&#x27;s success in America?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-12 21:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amankrsharma/gofr-an-opinionated-microservice-development-framework-47j5" target="_blank">GoFr: An Opinionated Microservice Development Framework</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-13 07:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/weekly/weekly-28-2025-git-mastery-algorithms-why-are-there-so-many-databases-ai-agents-prompting-ohg" target="_blank">Weekly #28-2025: Git Mastery, Algorithms, Why are there So many Databases, AI Agents &amp; Prompting</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 05:55</span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc6" target="_blank">Bcachefs Lands Fixes In Linux 6.16 For Some &quot;High Severity&quot; Regressions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-12 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://0x44.xyz/blog/web-request-blocking/" target="_blank">Bypassing Google&#x27;s big anti-adblock update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-12 19:06</span>
             </div>
         </div>
 </div>
@@ -294,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
