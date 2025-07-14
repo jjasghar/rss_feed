@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 12:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 13:12:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/7/14/the-new-global-nuclear-arms-race?traffic_source=rss" target="_blank">The New Global Nuclear Arms Race</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 12:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-launches-136-drones-ukraine-ahead-expected-trump/story?id=123729140" target="_blank">Russia launches 136 drones into Ukraine ahead of expected Trump announcement</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-14 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250701-ice-detention-center-kitchen-2019-se-414p-503609.jpg" alt="Immigrants in overcapacity ICE detention say they&#x27;re hungry, raise food quality concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/immigrants-overcapacity-ice-detention-say-hungry-raise-food-quality-co-rcna214193" target="_blank">Immigrants in overcapacity ICE detention say they&#x27;re hungry, raise food quality concerns</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-14 09:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507715&w=600" alt="Cloud Hardware Diagnostics for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloud-hardware-diagnostics-for-ai-workloads" target="_blank">Cloud Hardware Diagnostics for AI Workloads</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carlosrambles/reverse-k-segments-in-linked-list-2hfo" target="_blank">Reverse k Segments in Linked List</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 12:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,29 +219,29 @@
                 <span class="time">2025-07-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-VRT-Toggle" target="_blank">Intel Mesa Drivers Add Option To Disable Xe3&#x27;s Variable Register Thread &quot;VRT&quot; Feature</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-14 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/en/headerimage/docker-compose-agents-1752478525499.jpeg" alt="Docker Expands Compose for Agent Development and Ties in Cloud Offload Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Expands Compose for Agent Development and Ties in Cloud Offload Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-14 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6fcf3fedc2da7fde7775d9644d60736c.jpg" alt="The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101" target="_blank">The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-14 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZR2WRD1113K9GGW8VYZCN64/hero-image.png" alt="Five Ways to Tell That a Neighborhood Is About to Change (for the Worse)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/how-to-tell-neighborhood-about-to-change?utm_medium=RSS" target="_blank">Five Ways to Tell That a Neighborhood Is About to Change (for the Worse)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bf19df8f0888f659c45b0e46cc8e6e1c.jpg" alt="Superman&#x27;s Opening Weekend Is The Best The Man Of Steel Has Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,24 +278,6 @@
                 <span class="time">2025-07-14 01:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Donald-Trump-alabama-may-1-2025.jpg" alt="The U.S. and EU Are Fighting Over Who Controls Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-u-s-and-eu-are-fighting-over-who-controls-big-tech-2000628704" target="_blank">The U.S. and EU Are Fighting Over Who Controls Big Tech</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 23:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="The CEO of Nvidia Admits What Everybody Is Afraid of About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-ceo-of-nvidia-admits-what-everybody-is-afraid-of-about-ai-2000628701" target="_blank">The CEO of Nvidia Admits What Everybody Is Afraid of About AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 40 | 📸 With Images: 284 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
