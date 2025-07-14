@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 06:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 07:03:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +56,24 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles" target="_blank">Hungary&#x27;s oldest library is fighting to save 100,000 books from a beetle infestation</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-14 05:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/texas-flooding-ap-mf-20250713_1752423909229_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Over 130 dead as flash flood threat increases in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Over 130 dead as flash flood threat increases in Texas</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-14 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-druze-syria_6964306.jpg?20250714051819" alt="At least 30 dead and 100 injured as armed groups clash in Syria, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-30-dead-100-injured-in-clashes-between-armed-groups-in-southern-city-of-sweida-say-syrian-officials-13396334" target="_blank">At least 30 dead and 100 injured as armed groups clash in Syria, officials say</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-14 03:27</span>
             </div>
         </div>
 <div class="story">
@@ -73,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1jw71kjx14o" target="_blank">Southend airport to remain closed after fireball plane crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-14 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5465114/at-sunday-services-taking-stock-and-moving-forward-in-texas" target="_blank">At Sunday services, taking stock and moving forward in Texas</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/ceasefire-hopes-fade-as-gaza-death-toll-passes-58000?traffic_source=rss" target="_blank">Gaza death toll passes 58,000 from Israeli attacks as ceasefire hopes fade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 22:55</span>
             </div>
         </div>
 </div>
@@ -158,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/clariti_backlink_f55a1922/team-communication-is-broken-how-are-you-fixing-it-lgc" target="_blank">Team communication is broken. How are YOU fixing it?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 06:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawb314vn3zrh0qfe1zat.png" alt="Why Your Development Team Is 40% Slower Than Your Competitors (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/rio-terminal-emulator-ubuntu" target="_blank">Rio is a Fast, WebGPU-Powered Terminal Emulator for Ubuntu</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-13 22:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gpfault.net/posts/asm-tut-0.txt.html" target="_blank">Let&#x27;s Learn x86-64 Assembly (2020)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-13 22:22</span>
             </div>
         </div>
 </div>
@@ -289,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
