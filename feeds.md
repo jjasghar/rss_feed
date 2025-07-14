@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 15:02:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-14 16:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-donald-trump-white-house_6964842.jpg?20250714164724" alt="Trump announces weapons deal with NATO to help Ukraine - as he gives Putin 50-day ultimatum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-agrees-to-send-top-of-the-line-weapons-to-nato-to-support-ukraine-13396641" target="_blank">Trump announces weapons deal with NATO to help Ukraine - as he gives Putin 50-day ultimatum</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/kerrville-main_1752484263760_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Search continues for missing with 130 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752494613956_tdy_news_7a_gutierrez_trump_ukraine_250714_1920x1080-3b8qya.jpg" alt="Trump Announces US Will Send Patriot Missiles to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-live-updates/?id=123729682" target="_blank">Texas flooding live updates: Search continues for missing with 130 dead</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-14 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/g-s1-77458/european-ministers-meet-trump-tariffs" target="_blank">European trade ministers meet to forge strategy after Trump&#x27;s surprise 30% tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 11:29</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-announces-new-support-for-ukraine-criticizes-putin-243160133821" target="_blank">Trump Announces US Will Send Patriot Missiles to Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-14 11:33</span>
             </div>
         </div>
 </div>
@@ -104,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach" target="_blank">These are Sony’s new noise-canceling headphones for NFL coaches</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2026-Hyundai-Ioniq-6-N-1-500x500.jpg" alt="Hyundai’s Ioniq 6 N offers more sound, more shifts, more smiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +160,6 @@
                 <span class="time">2025-07-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat" target="_blank">Google exec: ‘We’re going to be combining ChromeOS and Android’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-14 09:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +172,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/14/building-stronger-engineering-teams-with-aligned-autonomy/" target="_blank">Building stronger engineering teams with aligned autonomy</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/mesa-252-nvk-nvidia" target="_blank">Mesa 25.2 NVK vs. NVIDIA R575 Linux Graphics Performance For GeForce RTX 40 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-14 15:38</span>
             </div>
         </div>
 <div class="story">
@@ -208,20 +219,38 @@
                 <span class="time">2025-07-14 12:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maulik-0207/everything-you-need-to-know-about-strings-in-python-28c0" target="_blank">Everything You Need to Know About Strings in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/superhero-reboots-hed.jpg" alt="Superheroes Are Spending 2025 in Their Reboot Eras" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superheroes-are-spending-2025-in-their-reboot-eras-2000626752" target="_blank">Superheroes Are Spending 2025 in Their Reboot Eras</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8636df6136395093b3c45045d682459f.jpg" alt="Switch 2 Players Are Begging For A Nintendo Direct And One Is Reportedly Coming Before The End Of July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-nintendo-direct-july-mario-red-dead-2-1851786219" target="_blank">Switch 2 Players Are Begging For A Nintendo Direct And One Is Reportedly Coming Before The End Of July</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-14 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K04R8JDQQ0J9X46EJ31J1FFN/hero-image.png" alt="This Site Will Show You Hotels Where You Can Keep Your Peloton Streak Alive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/this-site-will-show-you-hotels-where-you-can-keep-your-peloton-streak-alive?utm_medium=RSS" target="_blank">This Site Will Show You Hotels Where You Can Keep Your Peloton Streak Alive</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-14 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/60d61f05fdb29e4981ec7cbf7967e224.jpg" alt="Jack Dorsey Drops His Second New App in a Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,33 +278,6 @@
                 <span class="time">2025-07-14 13:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6fcf3fedc2da7fde7775d9644d60736c.jpg" alt="The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101" target="_blank">The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-14 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZR2WRD1113K9GGW8VYZCN64/hero-image.png" alt="Five Ways to Tell That a Neighborhood Is About to Change (for the Worse)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/how-to-tell-neighborhood-about-to-change?utm_medium=RSS" target="_blank">Five Ways to Tell That a Neighborhood Is About to Change (for the Worse)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bf19df8f0888f659c45b0e46cc8e6e1c.jpg" alt="Superman&#x27;s Opening Weekend Is The Best The Man Of Steel Has Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/superman-james-gunn-opening-weekend-box-office-1851786190" target="_blank">Superman&#x27;s Opening Weekend Is The Best The Man Of Steel Has Ever Seen</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,22 +292,13 @@
                 <span class="time">2025-07-14 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752300534-20250713.png" alt="Saturday Morning Breakfast Cereal - Summary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/summary" target="_blank">Saturday Morning Breakfast Cereal - Summary</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 40 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
