@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 09:04:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 10:01:36 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-firefighters-DB-250714_1752482977293_hpMain_4x3t_384.jpg" alt="Russia launches 136 drones into Ukraine ahead of expected Trump announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-launches-136-drones-ukraine-ahead-expected-trump/story?id=123729140" target="_blank">Russia launches 136 drones into Ukraine ahead of expected Trump announcement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-14 09:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -56,6 +68,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/14/nigerians-divided-over-former-president-buharis-legacy?traffic_source=rss" target="_blank">Nigerians “divided” over former President Buhari’s legacy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-14 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dd/live/bc46f860-6060-11f0-a2d9-712c1b53e44a.jpg" alt="Aviation authority says Boeing fuel switches are safe during crash probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce9xpgnx3vdo" target="_blank">Aviation authority says Boeing fuel switches are safe during crash probe</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-14 05:46</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +97,29 @@
                 <span class="time">2025-07-14 04:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-druze-syria_6964306.jpg?20250714051819" alt="At least 30 dead and 100 injured as armed groups clash in Syria, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-dead-100-injured-in-clashes-between-armed-groups-in-southern-city-of-sweida-say-syrian-officials-13396334" target="_blank">At least 30 dead and 100 injured as armed groups clash in Syria, officials say</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-14 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-druze-syria_6964306.jpg?20250714051819" alt="At least 30 dead, 100 injured, in clashes between armed groups, say Syrian officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-30-dead-100-injured-in-clashes-between-armed-groups-in-southern-city-of-sweida-say-syrian-officials-13396334" target="_blank">At least 30 dead, 100 injured, in clashes between armed groups, say Syrian officials</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-14 03:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat" target="_blank">Google exec: ‘We’re going to be combining ChromeOS and Android’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-14 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686d0d8d664ea88a108c8153/master/pass/GettyImages-1217774642.jpg" alt="The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/space-ice-structure-order-chaos/" target="_blank">The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687173733bbe2f34f11867ea/master/pass/Review-%20Le%20Wand%20Dive.png" alt="Le Wand Dive Review: A Waterproof Wand Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2025/07/species-at-30-makes-for-a-great-guilty-pleasure/" target="_blank">Species at 30 makes for a great guilty pleasure</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-13 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/" target="_blank">Elon Musk’s SpaceX might invest $2 billion in Musk’s xAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-13 15:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/13/uk-launches-500-package-to-support-diverse-underrepresented-investors-and-founders/" target="_blank">UK launches £500M package to support diverse, underrepresented investors and founders</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-13 14:30</span>
             </div>
         </div>
 </div>
@@ -218,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/PepperTheScienceCat.jpg" alt="Florida Cat Named Pepper Brings Home Never-Before-Seen Virus—for the Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/florida-cat-uncovers-never-before-seen-virus-again-2000628206" target="_blank">Florida Cat Named Pepper Brings Home Never-Before-Seen Virus—for the Second Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/185350d7ff77f575b3c2c76a9e889b26.jpg" alt="Tesla Makes a Desperate Move in Canada As Sales Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -262,15 +274,6 @@
                 <span class="time">2025-07-13 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg" alt="Ford’s Recall Affects Almost Every Cool Car They Make, and There’s No Fix Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fords-recall-affects-almost-every-cool-car-they-make-and-theres-no-fix-yet-2000628676" target="_blank">Ford’s Recall Affects Almost Every Cool Car They Make, and There’s No Fix Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
