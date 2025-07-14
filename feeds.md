@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 18:01:55 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-14 19:02:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +108,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/" target="_blank">Cognition, maker of the AI coding agent Devin, acquires Windsurf</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-14 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/nvidia-rtx-a6000-500x500.jpeg" alt="Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/" target="_blank">Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-14 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6874fc58441a8d428dd14933/master/pass/GettyImages-1229622995.jpg" alt="It&#x27;s Not Just Epstein. MAGA Is Angry About a Lot of Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/" target="_blank">It&#x27;s Not Just Epstein. MAGA Is Angry About a Lot of Things</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-14 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract" target="_blank">US government announces $200 million Grok contract a week after ‘MechaHitler’ incident</a></span>
                 <span class="feed">The Verge</span>
@@ -135,33 +159,6 @@
                 <span class="time">2025-07-14 16:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68752281d86cea116e506abc/master/pass/Ultium%20Cells%20Spring%20HIll%201.jpg" alt="GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/" target="_blank">GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-14 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach" target="_blank">These are Sony’s new noise-canceling headphones for NFL coaches</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2026-Hyundai-Ioniq-6-N-1-500x500.jpg" alt="Hyundai’s Ioniq 6 N offers more sound, more shifts, more smiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/hyundais-ioniq-6-n-offers-more-sound-more-shifts-more-smiles/" target="_blank">Hyundai’s Ioniq 6 N offers more sound, more shifts, more smiles</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-14 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kiani0x01/is-nodejs-javascript-nll" target="_blank">Is Node.js JavaScript?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18511602&w=600" alt="Turn SQL into Conversation: Natural Language Database Queries With MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/natural-language-sql-queries-with-mcp" target="_blank">Turn SQL into Conversation: Natural Language Database Queries With MCP</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-14 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cristea_theodora_6200140b/how-i-got-started-why-we-shouldnt-give-up-1dl3" target="_blank">How I Got Started — Why We Shouldn&#x27;t Give Up❗</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-14 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/code-review-in-the-age-of-ai-why-developers-will-always-own-the-merge-button/" target="_blank">Code review in the age of AI: Why developers will always own the merge button</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-14 16:38</span>
             </div>
         </div>
 <div class="story">
@@ -194,31 +218,18 @@
                 <span class="time">2025-07-14 16:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/mesa-252-nvk-nvidia" target="_blank">Mesa 25.2 NVK vs. NVIDIA R575 Linux Graphics Performance For GeForce RTX 40 Series</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-14 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-is-linux-support" target="_blank">What is Linux Support?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-14 14:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507740&w=600" alt="The 7 Biggest Cloud Misconfigurations That Hackers Love (and How to Fix Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/biggest-cloud-misconfigurations-that-hackers-love" target="_blank">The 7 Biggest Cloud Misconfigurations That Hackers Love (and How to Fix Them)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-14 14:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/report-from-the-cambridge-cybercrime-conference.html" target="_blank">Report from the Cambridge Cybercrime Conference</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-14 18:46</span>
             </div>
         </div>
 </div>
@@ -226,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Bananza.jpg" alt="Donkey Kong Might Be Nintendo’s Next Cinematic Leading… Ape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/donkey-kong-might-be-nintendos-next-cinematic-leading-ape-2000628973" target="_blank">Donkey Kong Might Be Nintendo’s Next Cinematic Leading… Ape</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/db656dc46133ca00be19f7ba071a7322.png" alt="The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps1-30th-anniversary-ps5-dualsense-stock-pre-order-1851786249" target="_blank">The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-14 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Image-SatisFactory-Process-at-the-Beelink-facto.jpg?fit=1080%2C609&amp;quality=60&amp;ssl=1" alt="Video: how mini PCs are made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/puyo-puyo-tetris-2s-cheat-code-adventure-mode-character-1851786237" target="_blank">Unlock Every Character, Skin, And More Using This Puyo Puyo Tetris 2S Cheat Code</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-14 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Thanksgiving_2C-cover-inset.-Used-with-permission.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Comic writer and satirist Mark Russell is looking to massacre your Thanksgiving" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/14/comic-writer-and-satirist-mark-russell-is-looking-to-massacre-your-thanksgiving.html" target="_blank">Comic writer and satirist Mark Russell is looking to massacre your Thanksgiving</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-14 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K04SYWJ5YPACFQ5MR4Z5498Y/hero-image.jpg" alt="If the Viral Strawberry Pasta Isn&#x27;t Your Thing, Consider These Other Pairings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/viral-strawberry-pasta-other-options?utm_medium=RSS" target="_blank">If the Viral Strawberry Pasta Isn&#x27;t Your Thing, Consider These Other Pairings</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-14 16:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
