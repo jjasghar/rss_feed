@@ -1,30 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 02:39:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 03:30:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 02:40 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/cameroons-paul-biya-92-says-he-will-seek-eighth-presidential-term?traffic_source=rss" target="_blank">Cameroon’s Paul Biya, 92, says he will seek eighth presidential term</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 02:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f01/live/83204b30-602a-11f0-82b0-07e01aa823d2.jpg" alt="Southend airport to remain closed after fireball plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/13/chelsea-trounce-psg-to-lift-fifa-club-world-cup?traffic_source=rss" target="_blank">Chelsea trounce PSG to lift FIFA Club World Cup</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-13 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f1a/live/14cec530-602f-11f0-84f9-89e4b88729bf.jpg" alt="South Africa&#x27;s police minister suspended over organised crime allegations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8d6lzn733jo" target="_blank">South Africa&#x27;s police minister suspended over organised crime allegations</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-13 21:16</span>
             </div>
         </div>
 </div>
@@ -159,6 +171,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul07-2025/en/headerimage/java-istock-image-01-1752439014920.jpg" alt="Java News Roundup: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-14 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/rio-terminal.jpg?resize=406%2C232&amp;ssl=1" alt="Rio is a Fast, WebGPU-Powered Terminal for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/rio-terminal-emulator-ubuntu" target="_blank">Rio is a Fast, WebGPU-Powered Terminal for Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-13 22:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/rio-terminal.jpg?resize=406%2C232&amp;ssl=1" alt="Rio is a Fast, WebGPU-Powered Terminal Emulator for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -194,29 +224,20 @@
                 <span class="time">2025-07-13 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/" target="_blank">Most people who buy games on Steam never play them</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-13 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_786/the-importance-of-coding-in-the-human-world-1im0" target="_blank">The Importance of Coding in the Human World</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/185350d7ff77f575b3c2c76a9e889b26.jpg" alt="Tesla Makes a Desperate Move in Canada As Sales Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-makes-a-desperate-move-in-canada-as-sales-collapse-2000628708" target="_blank">Tesla Makes a Desperate Move in Canada As Sales Collapse</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 01:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Donald-Trump-alabama-may-1-2025.jpg" alt="The U.S. and EU Are Fighting Over Who Controls Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +283,6 @@
                 <span class="time">2025-07-13 15:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/fantastic-four-newhed.jpg" alt="The Fantastic Four Were Too OP For the Infinity Saga" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-fantastic-four-were-too-op-for-the-infinity-saga-2000628605" target="_blank">The Fantastic Four Were Too OP For the Infinity Saga</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:40 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
