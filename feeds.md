@@ -1,9 +1,7 @@
-<!-- Processing 54 RSS feeds at 2025-07-13 23:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-14 00:05:24 UTC -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
@@ -11,28 +9,26 @@
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, July 13, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/ceasefire-hopes-fade-as-gaza-death-toll-passes-58000?traffic_source=rss" target="_blank">Gaza death toll passes 58,000 from Israeli attacks as ceasefire hopes fade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-13 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752448248147_nn_gso_kentucky_shootings_250713_1920x1080-27k6c2.jpg" alt="2 dead, multiple people injured in Kentucky shootings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/2-dead-multiple-people-injured-in-kentucky-shootings-243144773558" target="_blank">2 dead, multiple people injured in Kentucky shootings</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-13 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/nigerias-former-president-muhammadu-buhari-dies-in-london-aged-82?traffic_source=rss" target="_blank">Nigeria’s ex-President Muhammadu Buhari dies in London aged 82</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-13 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5466180/nigerias-former-president-muhammadu-buhari-dies-at-82" target="_blank">Nigeria&#x27;s former President Muhammadu Buhari dies at 82</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-13 19:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/13/former-nigeria-president-muhammadu-buhari-dies-aged-82-in-london" target="_blank">Former Nigerian president Muhammadu Buhari dies aged 82 in London</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-13 18:44</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc6-Released" target="_blank">Linux 6.16-rc6 Released With Transient Scheduler Attacks Mitigations, AMD Zen 2 Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-13 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/OpenCut-app/OpenCut" target="_blank">OpenCut: The open-source CapCut alternative</a></span>
                 <span class="feed">Hacker News</span>
@@ -211,20 +216,20 @@
                 <span class="time">2025-07-13 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent" target="_blank">Linux 6.16 Ready With Fixes For Old AMD Hardware &quot;Which Wasn&#x27;t Even Supposed To Run Linux&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-13 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Donald-Trump-alabama-may-1-2025.jpg" alt="The U.S. and EU Are Fighting Over Who Controls Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-u-s-and-eu-are-fighting-over-who-controls-big-tech-2000628704" target="_blank">The U.S. and EU Are Fighting Over Who Controls Big Tech</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-13 23:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="The CEO of Nvidia Admits What Everybody Is Afraid of About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +275,6 @@
                 <span class="time">2025-07-13 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/whoop-5-band-review-10.jpg" alt="The Whoop 5.0 Is a Massive Upgrade to Health Tracking. I Wasn’t Ready." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-whoop-5-0-is-a-massive-upgrade-to-health-tracking-i-wasnt-ready-2000628501" target="_blank">The Whoop 5.0 Is a Massive Upgrade to Health Tracking. I Wasn’t Ready.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
