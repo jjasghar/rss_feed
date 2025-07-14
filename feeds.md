@@ -1,42 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 21:01:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-14 22:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +114,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/" target="_blank">Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-14 21:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Pebblebee-Clip-500x500-1752523315.jpg" alt="Bluetooth tracker Pebblebee adds free SOS alarm to already-purchased devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -156,20 +167,20 @@
                 <span class="time">2025-07-14 18:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6874fc58441a8d428dd14933/master/pass/GettyImages-1229622995.jpg" alt="It&#x27;s Not Just Epstein. MAGA Is Angry About a Lot of Things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/" target="_blank">It&#x27;s Not Just Epstein. MAGA Is Angry About a Lot of Things</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-14 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6m8khjxwsrl3ksjstmmp.png" alt="Turn Any File Into a Art Masterpiece!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/notreeceharris/turn-any-file-into-a-pixel-art-masterpiece-nl0" target="_blank">Turn Any File Into a Art Masterpiece!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 21:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +188,15 @@
                 <span class="title"><a href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations" target="_blank">Anthropic signs a $200mm deal with the Department of Defense</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-14 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date" target="_blank">LIGO detects most massive black hole merger to date</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-14 20:06</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +226,6 @@
                 <span class="time">2025-07-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kiani0x01/is-nodejs-javascript-nll" target="_blank">Is Node.js JavaScript?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18511602&w=600" alt="Turn SQL into Conversation: Natural Language Database Queries With MCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/natural-language-sql-queries-with-mcp" target="_blank">Turn SQL into Conversation: Natural Language Database Queries With MCP</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-14 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,11 +246,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ff010f9b2bf2a966323f582883f48690.png" alt="TV Report On Retro Games Absolutely Nails It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266" target="_blank">TV Report On Retro Games Absolutely Nails It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-14 21:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/HowToTrainYourDragon_homerelease.jpg" alt="‘How to Train Your Dragon’ Hits Digital Tomorrow With Tons of Extras" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/how-to-train-your-dragon-2025-home-release-date-streaming-2000628969" target="_blank">‘How to Train Your Dragon’ Hits Digital Tomorrow With Tons of Extras</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K058CJADF5361949VDPG63TW/hero-image.jpg" alt="Three Things I Learned When I Used My Air Fryer Make a Week’s Worth of Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/three-things-i-learned-when-i-cooked-a-week-of-meals-in-my-air-fryer?utm_medium=RSS" target="_blank">Three Things I Learned When I Used My Air Fryer Make a Week’s Worth of Meals</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-14 21:00</span>
             </div>
         </div>
@@ -277,24 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/watching-x-men-25-years-ago-was-a-game-changing-moment-2000628928" target="_blank">Watching ‘X-Men’ 25 Years Ago Was a Game-Changing Moment</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-14 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Bananza.jpg" alt="Donkey Kong Might Be Nintendo’s Next Cinematic Leading… Ape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/donkey-kong-might-be-nintendos-next-cinematic-leading-ape-2000628973" target="_blank">Donkey Kong Might Be Nintendo’s Next Cinematic Leading… Ape</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/shutterstock_406413301-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Axon&#x27;s AI police report generator designed to help cops avoid &quot;disclosure headaches&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/14/axons-ai-police-report-generator-designed-to-help-cops-avoid-disclosure-headaches.html" target="_blank">Axon&#x27;s AI police report generator designed to help cops avoid &quot;disclosure headaches&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-14 18:21</span>
             </div>
         </div>
 </div>
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
