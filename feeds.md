@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 08:02:01 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-14 09:04:41 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Monday, July 14, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5426671/dating-ai-chatbot-replika" target="_blank">I went on a date with my AI dream guy. Then I cried over shrimp</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-14 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/14/nigerians-divided-over-former-president-buharis-legacy?traffic_source=rss" target="_blank">Nigerians “divided” over former President Buhari’s legacy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 08:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +94,20 @@
                 <span class="time">2025-07-14 03:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/cameroons-paul-biya-92-says-he-will-seek-eighth-presidential-term?traffic_source=rss" target="_blank">Cameroon’s Paul Biya, 92, says he will seek eighth presidential term</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f01/live/83204b30-602a-11f0-82b0-07e01aa823d2.jpg" alt="Southend airport to remain closed after fireball plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jw71kjx14o" target="_blank">Southend airport to remain closed after fireball plane crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-14 00:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687173733bbe2f34f11867ea/master/pass/Review-%20Le%20Wand%20Dive.png" alt="Le Wand Dive Review: A Waterproof Wand Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/le-wand-dive/" target="_blank">Le Wand Dive Review: A Waterproof Wand Vibrator</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +153,20 @@
                 <span class="time">2025-07-13 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686ec87c2d78d816921763f0/master/pass/The%20Best%20Electric%20Scooters.png" alt="9 Best Electric Scooters (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-electric-scooters/" target="_blank">9 Best Electric Scooters (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-13 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/en/headerimage/docker-compose-agents-1752478525499.jpeg" alt="Docker Expands Compose for Agent Development and Ties in Cloud Offload Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Expands Compose for Agent Development and Ties in Cloud Offload Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsbbbdzksh777rvt3vu1.png" alt="I Built a DevOps CLI Tool in Go – Meet Codewise-CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +210,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-14 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/rio-terminal.jpg?resize=406%2C232&amp;ssl=1" alt="Rio is a Fast, WebGPU-Powered Terminal for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/rio-terminal-emulator-ubuntu" target="_blank">Rio is a Fast, WebGPU-Powered Terminal for Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-13 22:39</span>
             </div>
         </div>
 </div>
@@ -304,7 +300,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 08:02 UTC
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
