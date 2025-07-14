@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 10:01:36 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-14 11:01:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/14/there-is-hope?traffic_source=rss" target="_blank">There is hope</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 10:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-firefighters-DB-250714_1752482977293_hpMain_4x3t_384.jpg" alt="Russia launches 136 drones into Ukraine ahead of expected Trump announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles" target="_blank">Hungary&#x27;s oldest library is fighting to save 100,000 books from a beetle infestation</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-14 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flooding-ap-mf-20250713_1752423909229_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Over 130 dead as flash flood threat increases in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-updates-13-dead-20-campers-unaccounted/?id=123488468" target="_blank">Texas flooding live updates: Over 130 dead as flash flood threat increases in Texas</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-14 04:47</span>
             </div>
         </div>
 </div>
@@ -162,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/podcasts/java-ecosystem-continuously-adapting-developers/en/smallimage/the-infoq-podcast-logo-thumbnail-1750234518419.jpg" alt="Podcast: The Java Ecosystem Remains Ever-Green By Continuously Adapting to Developers&#x27; Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/java-ecosystem-continuously-adapting-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: The Java Ecosystem Remains Ever-Green By Continuously Adapting to Developers&#x27; Needs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Mesa-VRT-Toggle" target="_blank">Intel Mesa Drivers Add Option To Disable Xe3&#x27;s Variable Register Thread &quot;VRT&quot; Feature</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-14 10:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/en/headerimage/docker-compose-agents-1752478525499.jpeg" alt="Docker Expands Compose for Agent Development and Ties in Cloud Offload Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -189,30 +207,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawb314vn3zrh0qfe1zat.png" alt="Why Your Development Team Is 40% Slower Than Your Competitors (And How to Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teamcamp/why-your-development-team-is-40-slower-than-your-competitors-and-how-to-fix-it-7on" target="_blank">Why Your Development Team Is 40% Slower Than Your Competitors (And How to Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 04:25</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-at-risc-v-summit-china-2025" target="_blank">Canonical at RISC-V Summit China 2025</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-14 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul07-2025/en/headerimage/java-istock-image-01-1752439014920.jpg" alt="Java News Roundup: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-14 02:30</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://refine.sh" target="_blank">Show HN: Refine – A Local Alternative to Grammarly</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-14 05:12</span>
             </div>
         </div>
 </div>
@@ -302,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
