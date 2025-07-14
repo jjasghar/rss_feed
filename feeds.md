@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 22:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 23:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/states-sue-trump-over-more-than-6bn-in-education-funds?traffic_source=rss" target="_blank">States sue Trump over more than $6bn in education funds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-bondi-gty-jef-250714_1752503283114_hpMain_4x3t_384.jpg" alt="Trump&#x27;s effort to quell MAGA revolt over Epstein files seems to add fuel to the fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-effort-quell-maga-revolt-epstein-files-add/story?id=123737775" target="_blank">Trump&#x27;s effort to quell MAGA revolt over Epstein files seems to add fuel to the fire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-14 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6237/live/5aad4540-60d9-11f0-91b8-b32fbb96c188.jpg" alt="Trump threatens Russia with tariffs while unveiling Ukraine weapons plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czdv20v9lp1o" target="_blank">Trump threatens Russia with tariffs while unveiling Ukraine weapons plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-14 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/education-gty-er-250714_1752522483697_hpMain_4x3t_384.jpg" alt="Supreme Court allows Trump to continue effort to gut Education Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,33 +101,6 @@
                 <span class="time">2025-07-14 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6237/live/5aad4540-60d9-11f0-91b8-b32fbb96c188.jpg" alt="Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czdv20v9lp1o" target="_blank">Trump threatens Russia with tariffs while unveiling new Ukraine weapons plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-14 18:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5467343/immigration-judges-doj-trump-enforcement" target="_blank">More immigration judges are being fired amid Trump&#x27;s efforts to speed up deportations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/former-nigerian-president-buhari-to-be-buried-in-hometown-on-tuesday?traffic_source=rss" target="_blank">Former Nigerian President Buhari to be buried in hometown on Tuesday</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -120,6 +113,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/" target="_blank">Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-14 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Pebblebee-Clip-500x500-1752523315.jpg" alt="Pebblebee tracker’s new SOS alert reminds us that updates can be good for gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/bluetooth-tracker-pebblebee-adds-free-sos-alarm-to-already-purchased-devices/" target="_blank">Pebblebee tracker’s new SOS alert reminds us that updates can be good for gadgets</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-14 20:54</span>
             </div>
         </div>
 <div class="story">
@@ -156,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/" target="_blank">Cognition, maker of the AI coding agent Devin, acquires Windsurf</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-14 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/nvidia-rtx-a6000-500x500.jpeg" alt="Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/" target="_blank">Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-14 18:25</span>
             </div>
         </div>
 </div>
@@ -336,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
