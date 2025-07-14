@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 01:29:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-14 02:39:53 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 02:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f01/live/83204b30-602a-11f0-82b0-07e01aa823d2.jpg" alt="Southend airport to remain closed after fireball plane crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jw71kjx14o" target="_blank">Southend airport to remain closed after fireball plane crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-14 00:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/13/nx-s1-5465114/at-sunday-services-taking-stock-and-moving-forward-in-texas" target="_blank">At Sunday services, taking stock and moving forward in Texas</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-14 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8d6lzn733jo" target="_blank">South Africa&#x27;s police minister suspended over organised crime allegations</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-13 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Trump-Butler-1-gty-jm-241004_1728055199364_hpMain_4x3t_384.jpg" alt="Senate report highlights resources denied for Trump events in 2024" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/senate-trump-assassination-report-details-secret-service-failures/story?id=123719300" target="_blank">Senate report highlights resources denied for Trump events in 2024</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-13 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/13/nigerias-former-president-muhammadu-buhari-dies-in-london-aged-82?traffic_source=rss" target="_blank">Nigeria’s ex-President Muhammadu Buhari dies in London aged 82</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-13 20:28</span>
             </div>
         </div>
 </div>
@@ -162,6 +159,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/rio-terminal.jpg?resize=406%2C232&amp;ssl=1" alt="Rio is a Fast, WebGPU-Powered Terminal Emulator for Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/rio-terminal-emulator-ubuntu" target="_blank">Rio is a Fast, WebGPU-Powered Terminal Emulator for Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-13 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gpfault.net/posts/asm-tut-0.txt.html" target="_blank">Let&#x27;s Learn x86-64 Assembly (2020)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-13 22:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -195,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/david_786/the-importance-of-coding-in-the-human-world-1im0" target="_blank">The Importance of Coding in the Human World</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-13 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-July-2025" target="_blank">CachyOS July 2025 Ships With Mesa Patched For Anti-Lag, Plasma Defaulting To Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-13 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/suvrajeet/visualize-data-with-quicksight-turn-raw-data-into-stunning-visuals-part-4-1go8" target="_blank">Visualize Data with QuickSight: Turn Raw Data into Stunning Visuals [Part 4]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-13 14:43</span>
             </div>
         </div>
 </div>
@@ -293,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
