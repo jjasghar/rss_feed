@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 11:01:39 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-14 12:02:13 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +53,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/14/deadly-gun-battles-erupt-in-mainly-druze-city-in-syria?traffic_source=rss" target="_blank">Deadly gun battles erupt in mainly Druze city in Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kerrville-main_1752484263760_hpMain_4x3t_384.jpg" alt="Texas flooding live updates: Search continues for missing with 130 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/texas-flooding-live-updates/?id=123729682" target="_blank">Texas flooding live updates: Search continues for missing with 130 dead</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-14 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/14/g-s1-77458/european-ministers-meet-trump-tariffs" target="_blank">European trade ministers meet to forge strategy after Trump&#x27;s surprise 30% tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-14 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/14/there-is-hope?traffic_source=rss" target="_blank">There is hope</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-14 10:46</span>
@@ -62,39 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250701-ice-detention-center-kitchen-2019-se-414p-503609.jpg" alt="Immigrants in overcapacity ICE detention say they&#x27;re hungry, raise food quality concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5426671/dating-ai-chatbot-replika" target="_blank">I went on a date with my AI dream guy. Then I cried over shrimp</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/immigrants-overcapacity-ice-detention-say-hungry-raise-food-quality-co-rcna214193" target="_blank">Immigrants in overcapacity ICE detention say they&#x27;re hungry, raise food quality concerns</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/14/nigerians-divided-over-former-president-buharis-legacy?traffic_source=rss" target="_blank">Nigerians “divided” over former President Buhari’s legacy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dd/live/bc46f860-6060-11f0-a2d9-712c1b53e44a.jpg" alt="Aviation authority says Boeing fuel switches are safe during crash probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce9xpgnx3vdo" target="_blank">Aviation authority says Boeing fuel switches are safe during crash probe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-14 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles" target="_blank">Hungary&#x27;s oldest library is fighting to save 100,000 books from a beetle infestation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 05:24</span>
             </div>
         </div>
 </div>
@@ -102,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/internet-culture/697406/algospeak-adam-aleksic-excerpt" target="_blank">Wordpilled slangmaxxing: how incel language infected the mainstream internet — and brought its toxicity with it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,38 @@
                 <span class="time">2025-07-13 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/speciesTOP-500x500.jpg" alt="Species at 30 makes for a great guilty pleasure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/07/species-at-30-makes-for-a-great-guilty-pleasure/" target="_blank">Species at 30 makes for a great guilty pleasure</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-13 19:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maulik-0207/everything-you-need-to-know-about-strings-in-python-28c0" target="_blank">Everything You Need to Know About Strings in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jstor.org/stable/26169128" target="_blank">Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18508010&w=600" alt="My Dive into Local LLMs, Part 2: Taming Personal Finance with Homegrown AI (and Why Privacy Matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/local-llm-finance-tracker" target="_blank">My Dive into Local LLMs, Part 2: Taming Personal Finance with Homegrown AI (and Why Privacy Matters)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/java-ecosystem-continuously-adapting-developers/en/smallimage/the-infoq-podcast-logo-thumbnail-1750234518419.jpg" alt="Podcast: The Java Ecosystem Remains Ever-Green By Continuously Adapting to Developers&#x27; Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,38 +221,29 @@
                 <span class="time">2025-07-14 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsbbbdzksh777rvt3vu1.png" alt="I Built a DevOps CLI Tool in Go – Meet Codewise-CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aryansharma9917/i-built-a-devops-cli-tool-in-go-meet-codewise-cli-5149" target="_blank">I Built a DevOps CLI Tool in Go – Meet Codewise-CLI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/clariti_backlink_f55a1922/team-communication-is-broken-how-are-you-fixing-it-lgc" target="_blank">Team communication is broken. How are YOU fixing it?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://refine.sh" target="_blank">Show HN: Refine – A Local Alternative to Grammarly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-14 05:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bf19df8f0888f659c45b0e46cc8e6e1c.jpg" alt="Superman&#x27;s Opening Weekend Is The Best The Man Of Steel Has Ever Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/superman-james-gunn-opening-weekend-box-office-1851786190" target="_blank">Superman&#x27;s Opening Weekend Is The Best The Man Of Steel Has Ever Seen</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-14 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/08/3a333dc0a73e33c91134114af055080b.jpg" alt="Bitcoin Hits New Highs Daily, but Experts Warn It’s a ‘Crisis Mode’ Rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bitcoin-hits-new-highs-daily-but-experts-warn-its-a-crisis-mode-rally-2000628749" target="_blank">Bitcoin Hits New Highs Daily, but Experts Warn It’s a ‘Crisis Mode’ Rally</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 11:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/PepperTheScienceCat.jpg" alt="Florida Cat Named Pepper Brings Home Never-Before-Seen Virus—for the Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +280,6 @@
                 <span class="time">2025-07-13 22:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-david-corenswet.jpg" alt="‘Superman’ Blasts Off To a Big Opening Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/superman-blasts-off-to-a-big-opening-weekend-2000628686" target="_blank">‘Superman’ Blasts Off To a Big Opening Weekend</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/grok-x-twitter-image.jpg" alt="Elon Musk’s AI Was Ordered to Be Edgy. It Became a Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-ai-was-ordered-to-be-edgy-it-became-a-monster-2000628691" target="_blank">Elon Musk’s AI Was Ordered to Be Edgy. It Became a Monster</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-13 18:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
