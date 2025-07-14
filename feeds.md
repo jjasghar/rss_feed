@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 14:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-14 15:02:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 14, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/14/what-is-the-uss-crypto-week-why-has-bitcoin-hit-a-record-high?traffic_source=rss" target="_blank">What is the US’s Crypto Week? Why has Bitcoin hit a record high?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 14:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,29 @@
                 <span class="time">2025-07-14 11:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/14/there-is-hope?traffic_source=rss" target="_blank">There is hope</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2026-Hyundai-Ioniq-6-N-1-500x500.jpg" alt="Hyundai’s Ioniq 6 N offers more sound, more shifts, more smiles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/hyundais-ioniq-6-n-offers-more-sound-more-shifts-more-smiles/" target="_blank">Hyundai’s Ioniq 6 N offers more sound, more shifts, more smiles</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-14 14:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/706635/texas-governor-greg-abbott-elon-musk-emails-refusal" target="_blank">Texas governor says his emails with Elon Musk are too ‘intimate or embarrassing’ to release</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-14 14:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/prime-one-sam-alex-500x500-1752266015.jpg" alt="Two guys hated using Comcast, so they built their own fiber ISP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +158,29 @@
                 <span class="time">2025-07-14 09:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d0d8d664ea88a108c8153/master/pass/GettyImages-1217774642.jpg" alt="The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/space-ice-structure-order-chaos/" target="_blank">The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687173733bbe2f34f11867ea/master/pass/Review-%20Le%20Wand%20Dive.png" alt="Le Wand Dive Review: A Waterproof Wand Vibrator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/le-wand-dive/" target="_blank">Le Wand Dive Review: A Waterproof Wand Vibrator</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-14 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/14/building-stronger-engineering-teams-with-aligned-autonomy/" target="_blank">Building stronger engineering teams with aligned autonomy</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18507740&w=600" alt="The 7 Biggest Cloud Misconfigurations That Hackers Love (and How to Fix Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/biggest-cloud-misconfigurations-that-hackers-love" target="_blank">The 7 Biggest Cloud Misconfigurations That Hackers Love (and How to Fix Them)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-14 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,29 +217,29 @@
                 <span class="time">2025-07-14 11:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jstor.org/stable/26169128" target="_blank">Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18508010&w=600" alt="My Dive into Local LLMs, Part 2: Taming Personal Finance with Homegrown AI (and Why Privacy Matters)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/local-llm-finance-tracker" target="_blank">My Dive into Local LLMs, Part 2: Taming Personal Finance with Homegrown AI (and Why Privacy Matters)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-14 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/60d61f05fdb29e4981ec7cbf7967e224.jpg" alt="Jack Dorsey Drops His Second New App in a Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jack-dorsey-drops-his-second-new-app-in-a-week-2000628855" target="_blank">Jack Dorsey Drops His Second New App in a Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K04M5V43SK6Q0V33M9BA0K8W/hero-image.jpg" alt="You Can Now Share Class Recommendations Directly With Your Peloton Team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/you-can-now-share-class-recommendations-directly-with-your-peloton-team?utm_medium=RSS" target="_blank">You Can Now Share Class Recommendations Directly With Your Peloton Team</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-14 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2020/08/z1olh9qw8p81mdbspql3.jpg" alt="Bill Gates Sounds the Alarm on a Global Health Catastrophe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +276,6 @@
                 <span class="time">2025-07-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/08/3a333dc0a73e33c91134114af055080b.jpg" alt="Bitcoin Hits New Highs Daily, but Experts Warn It’s a ‘Crisis Mode’ Rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bitcoin-hits-new-highs-daily-but-experts-warn-its-a-crisis-mode-rally-2000628749" target="_blank">Bitcoin Hits New Highs Daily, but Experts Warn It’s a ‘Crisis Mode’ Rally</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/PepperTheScienceCat.jpg" alt="Florida Cat Named Pepper Brings Home Never-Before-Seen Virus—for the Second Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/florida-cat-uncovers-never-before-seen-virus-again-2000628206" target="_blank">Florida Cat Named Pepper Brings Home Never-Before-Seen Virus—for the Second Time</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
