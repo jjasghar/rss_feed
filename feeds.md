@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 05:05:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 06:01:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Error processing https://lifehacker.com/rss: The read operation timed out -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 05:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/g-s1-77594/temporary-protections-afghans-appeals-court" target="_blank">With temporary protections for some Afghans set to expire, appeals court steps in</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 05:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/648e/live/3eb4a1d0-613d-11f0-b5c5-012c5796682d.jpg" alt="I&#x27;m &#x27;disappointed but not done&#x27; with Putin, Trump tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1e02q12z32o" target="_blank">I&#x27;m &#x27;disappointed but not done&#x27; with Putin, Trump tells BBC</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-15 05:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/15/chinas-economy-grows-at-steady-pace-despite-trumps-trade-war?traffic_source=rss" target="_blank">China’s economy grows at steady pace despite Trump’s trade war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 04:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +105,20 @@
                 <span class="time">2025-07-15 01:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein_1752533587709_hpMain_4x3t_384.jpg" alt="DOJ urges Supreme Court to turn away Ghislaine Maxwell&#x27;s appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/doj-urges-supreme-court-turn-epstein-accomplice-ghislaine/story?id=123752067" target="_blank">DOJ urges Supreme Court to turn away Ghislaine Maxwell&#x27;s appeal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-15 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/15/sudan-paramilitary-forces-kill-almost-300-in-village-raids-say-lawyers" target="_blank">Sudan paramilitary forces kill almost 300 in village raids, say lawyers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-15 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/israel-continues-to-pound-gaza-killing-72-as-truce-talks-stall?traffic_source=rss" target="_blank">Israel continues to pound Gaza, killing 72, as truce talks stall</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/" target="_blank">Meta is reportedly using actual tents to build data centers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 05:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Code &amp; Deals: 16% Off July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +162,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/bluetooth-tracker-pebblebee-adds-free-sos-alarm-to-already-purchased-devices/" target="_blank">Bluetooth tracker Pebblebee adds free SOS alarm to already-purchased devices</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-14 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy" target="_blank">Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-14 20:06</span>
             </div>
         </div>
 </div>
@@ -338,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
