@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 20:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 21:01:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468585/doge-usda-farmers" target="_blank">U.S. senator wants DOGE out of sensitive farmer payment system</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 20:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,29 @@
                 <span class="time">2025-07-15 16:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/15/sudan-paramilitary-forces-kill-almost-300-in-village-raids-say-lawyers" target="_blank">Sudanese paramilitary RSF accused of killing almost 300 people in village raids</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-15 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/" target="_blank">A former OpenAI engineer describes what it’s really like to work there</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions" target="_blank">Trump announces billions in investments to make Pennsylvania an AI hub</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-15 20:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-15 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686d551fced45ec3b806b212/master/pass/Palmer-Luckey-Joe-Lonsdale-Starting-Bank-Business.jpg" alt="Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/" target="_blank">Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/" target="_blank">Lucid Motors will roll out hands-free highway driving this month</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 16:34</span>
             </div>
         </div>
 </div>
@@ -239,6 +235,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/cow-dog.jpg?fit=1200%2C1032&amp;quality=60&amp;ssl=1" alt="Bizarre cow markings stun readers of 1902 Australian magazine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/15/bizarre-cow-markings-stun-readers-of-1902-australian-magazine.html" target="_blank">Bizarre cow markings stun readers of 1902 Australian magazine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-15 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1d1e615019a7727b59afefb60c63bc9e.jpg" alt="Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358" target="_blank">Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-15 20:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a6de5c80d58758a36639cc2b088f6c6.jpg" alt="Minecraft Adds Jack Black&#x27;s Lava Chicken Song, But You Gotta Do Something Special To Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,24 +288,6 @@
                 <span class="time">2025-07-15 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HADWAP0AXJ0HW76C843SW/hero-image.jpg" alt="Five Common Mistakes People Make When Checking for Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/five-common-mistakes-when-checking-for-ticks?utm_medium=RSS" target="_blank">Five Common Mistakes People Make When Checking for Ticks</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-15 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/989538cd4a8bd09be1c91d6a2d05e460.jpg" alt="A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/creepy-dark-brotherhood-door-oblivion-remastered-1-2-pc-1851786326" target="_blank">A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-15 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
