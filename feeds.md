@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-14 23:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-15 00:05:23 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 14, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/israel-continues-to-pound-gaza-killing-72-as-truce-talks-stall?traffic_source=rss" target="_blank">Israel continues to pound Gaza, killing 72, as truce talks stall</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-14 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +100,6 @@
                 <span class="time">2025-07-14 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/1255667288/syrians-in-turkey-decide-whether-to-return-home" target="_blank">Syrians in Turkey Decide Whether to Return Home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +112,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/14/former-sequoia-partner-matt-miller-raises-355m-for-new-fund-with-sequoias-backing/" target="_blank">Former Sequoia partner Matt Miller raises $355M for new fund — with Sequoia’s backing</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-14 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/film/706663/superman-box-office-dc-studios-james-gunn-cinematic-universe-supergirl-clayface" target="_blank">Superman is a box office hit, but the hard part comes next</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-14 21:22</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +159,20 @@
                 <span class="time">2025-07-14 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/14/cognition-maker-of-the-ai-coding-agent-devin-acquires-windsurf/" target="_blank">Cognition, maker of the AI coding agent Devin, acquires Windsurf</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-14 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saint_vandora/ai-powered-database-optimisation-with-claude-ai-mcp-and-mongodb-20c8" target="_blank">AI Powered Database Optimisation with Claude AI, MCP and MongoDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-14 23:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6m8khjxwsrl3ksjstmmp.png" alt="Turn Any File Into a Art Masterpiece!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +218,6 @@
                 <span class="time">2025-07-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514870&w=600" alt="Testing Distributed Microservices Using XState" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/testing-distributed-microservices-using-xstate" target="_blank">Testing Distributed Microservices Using XState</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-14 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Walt-Disney-Audio-Animatronic-io9-Gizmodo.jpg" alt="Walt Disney Returns as a Surreal Animatronic for Disneyland’s 70th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/walt-disney-returns-as-a-surreal-animatronic-for-disneylands-70th-anniversary-2000629030" target="_blank">Walt Disney Returns as a Surreal Animatronic for Disneyland’s 70th Anniversary</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-14 23:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0569Q15N9Z0PGDT9V491ZKM/hero-image.png" alt="Did Apple Kill Liquid Glass in the Third iOS 26 Developer Beta?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-biggest-features-and-changes-in-ios-26-beta-3?utm_medium=RSS" target="_blank">Did Apple Kill Liquid Glass in the Third iOS 26 Developer Beta?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-14 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ff010f9b2bf2a966323f582883f48690.png" alt="TV Report On Retro Games Absolutely Nails It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/hitman-woa-stealth-metal-gear-splinter-cell-freelancer-1851786255" target="_blank">When I Stopped Playing Mission Stories In Hitman, I Discovered What A Great Stealth Game It Is</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-14 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/IMG_5640.jpg?fit=1266%2C1600&amp;quality=60&amp;ssl=1" alt="Why &quot;banana flavoring&quot; doesn&#x27;t taste like bananas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/14/why-banana-flavoring-doesnt-taste-like-bananas.html" target="_blank">Why &quot;banana flavoring&quot; doesn&#x27;t taste like bananas</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-14 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/X-Men-2000.jpg" alt="Watching ‘X-Men’ 25 Years Ago Was a Game-Changing Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watching-x-men-25-years-ago-was-a-game-changing-moment-2000628928" target="_blank">Watching ‘X-Men’ 25 Years Ago Was a Game-Changing Moment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 20:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
