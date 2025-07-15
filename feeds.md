@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 00:05:23 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-15 01:29:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,9 +53,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/sesame-street-puppet-elmos-x-account-posts-anti-jewish-rant-after-hacking?traffic_source=rss" target="_blank">Sesame Street puppet Elmo’s X account posts anti-Jewish rant after hacking</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/15/sudan-paramilitary-forces-kill-almost-300-in-village-raids-say-lawyers" target="_blank">Sudan paramilitary forces kill almost 300 in village raids, say lawyers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-15 00:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/israel-continues-to-pound-gaza-killing-72-as-truce-talks-stall?traffic_source=rss" target="_blank">Israel continues to pound Gaza, killing 72, as truce talks stall</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-14 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/14/1255667286/trump-threatens-russia-over-ukraine" target="_blank">Trump threatens Russia over Ukraine. Will it make a difference?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-14 22:27</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trumps-effort-quell-maga-revolt-epstein-files-add/story?id=123737775" target="_blank">Trump&#x27;s effort to quell MAGA revolt over Epstein files seems to add fuel to the fire</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-14 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6237/live/5aad4540-60d9-11f0-91b8-b32fbb96c188.jpg" alt="Trump threatens Russia with tariffs while unveiling Ukraine weapons plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czdv20v9lp1o" target="_blank">Trump threatens Russia with tariffs while unveiling Ukraine weapons plan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-14 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/education-gty-er-250714_1752522483697_hpMain_4x3t_384.jpg" alt="Supreme Court allows Trump to continue effort to gut Education Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/supreme-court-allows-trump-continue-effort-gut-education/story?id=123747924" target="_blank">Supreme Court allows Trump to continue effort to gut Education Department</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-14 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250606-Linda-McMahon-4-ew-1251p-28631a.jpg" alt="Supreme Court allows Trump administration to implement widespread Education Department layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-administration-layoffs-education-department-rcna211450" target="_blank">Supreme Court allows Trump administration to implement widespread Education Department layoffs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-14 19:40</span>
             </div>
         </div>
 </div>
@@ -186,6 +189,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/ml-explore/mlx/pull/1983" target="_blank">Apple&#x27;s MLX adding CUDA support</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-14 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations" target="_blank">Anthropic signs a $200mm deal with the Department of Defense</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-14 20:38</span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/is-chrome-os-merging-with-android" target="_blank">Is Chrome OS Merging with Android? Apparently So</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-14 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514930&w=600" alt="Designing Configuration-Driven Apache Spark SQL ETL Jobs with Delta Lake CDC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/config-driven-spark-sql-etl-delta-cdc" target="_blank">Designing Configuration-Driven Apache Spark SQL ETL Jobs with Delta Lake CDC</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-14 20:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
