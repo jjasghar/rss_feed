@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 17:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 18:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/15/tesla-launches-model-y-in-india-with-elevated-price-tag-amid-high-tariffs?traffic_source=rss" target="_blank">Tesla launches Model Y in India with elevated price tag amid high tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 17:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6904/live/265222a0-618f-11f0-904a-1d76e1991eb9.jpg" alt="Thousands of Afghans were moved to UK in secret scheme after data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">Thousands of Afghans were moved to UK in secret scheme after data breach</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-15 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aac3/live/bb9212d0-2cc4-11f0-8f57-b7237f6a66e6.jpg" alt="Men jailed for felling &#x27;irreplaceable&#x27; sycamore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93969ln7zwo" target="_blank">Men jailed for felling &#x27;irreplaceable&#x27; sycamore</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-15 16:13</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468293/inflation-cpi-consumer-prices-tariffs" target="_blank">Inflation heats up in June as President Trump&#x27;s tariffs start to bite</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-15 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/how-were-babies-mass-graves-discovered-in-church-run-home-in-ireland?traffic_source=rss" target="_blank">How were babies’ mass graves discovered in church-run home in Ireland?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/272c5c30-6172-11f0-960d-e9f1088a89fe.jpg" alt="UK set up secret Afghan relocation scheme after data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">UK set up secret Afghan relocation scheme after data breach</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-15 12:49</span>
             </div>
         </div>
 </div>
@@ -168,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prachiguptaaaaaaaaaa/javascript-vs-typescript-complete-guide-for-developers-2dm9" target="_blank">JavaScript vs TypeScript: Complete Guide for Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/" target="_blank">From chaos to clarity: Using GitHub Copilot agents to improve developer workflows</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -210,15 +214,6 @@
                 <span class="time">2025-07-15 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grenishrai/a-summer-of-security-how-googles-ai-led-cybersecurity-push-is-changing-the-game-1e1p" target="_blank">A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/mike-waltz.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Signalgate&#x27;s Waltz blames his own inept war-plan leak on, er, Joe Biden (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/15/signalgates-waltz-blames-his-own-war-plan-leak-on-er-joe-biden-video.html" target="_blank">Signalgate&#x27;s Waltz blames his own inept war-plan leak on, er, Joe Biden (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-15 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2HADWAP0AXJ0HW76C843SW/hero-image.jpg" alt="Five Common Mistakes People Make When Checking for Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +296,6 @@
                 <span class="time">2025-07-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K05AD3E37T9W674T3NRWQN2R/hero-image.jpg" alt="These Are the Biggest Rumors for the Next Generation of Meta Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/biggest-rumors-for-next-generation-of-meta-smart-glasses?utm_medium=RSS" target="_blank">These Are the Biggest Rumors for the Next Generation of Meta Smart Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +319,13 @@
                 <span class="time">2025-07-15 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/14/tony-hurk" target="_blank">Tony Hurk</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-14 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
