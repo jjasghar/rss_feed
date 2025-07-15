@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 13:12:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-15 14:02:18 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/272c5c30-6172-11f0-960d-e9f1088a89fe.jpg" alt="Thousands of Afghans moved to UK under secret scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">Thousands of Afghans moved to UK under secret scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-15 13:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="time">2025-07-15 09:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-donald-trump-big-beautiful-bill-cs-84d73c.jpg" alt="Republicans try to sell Trump&#x27;s megabill as &#x27;working families tax cut&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/working-families-tax-cut-republicans-sell-big-beautiful-bill-medicaid-rcna217868" target="_blank">Republicans try to sell Trump&#x27;s megabill as &#x27;working families tax cut&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/" target="_blank">DOGE staffer with access to Americans’ personal data leaked private xAI API key</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/" target="_blank">xAI says it has fixed Grok 4’s problematic responses</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-15 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6875b84d0a6a265cd5de25d6/master/pass/Best%20Yoga%20Mats.png" alt="Best Yoga Mat (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/the-best-yoga-mats/" target="_blank">Best Yoga Mat (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -135,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/699151/eu-age-verification-app-dsa-enforcement" target="_blank">The EU is testing a prototype age verification app</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-15 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/nextdoor-redesigns-app-with-ai-recommendations-local-news-and-real-time-emergency-alerts/" target="_blank">Nextdoor redesigns app with AI recommendations, local news, and real-time emergency alerts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/706618/nextdoor-redesign-ai-recommendations-local-news-emergency-alerts" target="_blank">Can Nextdoor overhaul itself to be useful?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 09:00</span>
             </div>
         </div>
 </div>
@@ -243,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/how-to-train-your-dragon-2025-stunt-work-vfx.jpg" alt="Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-train-your-dragon-digital-bts-stunts-2000629151" target="_blank">Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/zuckglasses.jpg" alt="Mark Zuckerberg Interview Derailed After His Audio Doesn’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +302,6 @@
                 <span class="time">2025-07-14 21:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/HowToTrainYourDragon_homerelease.jpg" alt="‘How to Train Your Dragon’ Hits Digital Tomorrow With Tons of Extras" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-train-your-dragon-2025-home-release-date-streaming-2000628969" target="_blank">‘How to Train Your Dragon’ Hits Digital Tomorrow With Tons of Extras</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
