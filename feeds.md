@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 14:02:18 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-15 15:01:47 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +39,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/thousands-of-afghans-brought-to-uk-under-secret-program-after-data-leak?traffic_source=rss" target="_blank">Thousands of Afghans brought to UK under secret programme after data leak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 14:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/272c5c30-6172-11f0-960d-e9f1088a89fe.jpg" alt="Thousands of Afghans moved to UK under secret scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">Thousands of Afghans moved to UK under secret scheme</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-15 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468293/inflation-cpi-consumer-prices-tariffs" target="_blank">Inflation heats up in June as President Trump&#x27;s tariffs start to bite</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 13:07</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +92,29 @@
                 <span class="time">2025-07-15 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Trump-Oval-DB-250715_1752567823671_hpMain_4x3t_384.jpg" alt="Russia &#x27;didn’t care&#x27; about Trump&#x27;s weapons for Ukraine, tariff threats, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-didnt-care-trumps-weapons-ukraine-tariff-threats/story?id=123759807" target="_blank">Russia &#x27;didn’t care&#x27; about Trump&#x27;s weapons for Ukraine, tariff threats, official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/15/uefa-womens-euro-2025-quarterfinals-qualified-teams-spain-england-preview-full-schedule?traffic_source=rss" target="_blank">UEFA Women’s Euro 2025 quarterfinals: Qualified teams and full schedule</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 09:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons" target="_blank">The Pro 3 is 8BitDo’s first controller with swappable buttons</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/" target="_blank">Reddit rolls out age verification in the UK to comply with new rules</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 14:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +151,29 @@
                 <span class="time">2025-07-15 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/" target="_blank">Amogy raises $80M to power ships and data centers with ammonia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/699151/eu-age-verification-app-dsa-enforcement" target="_blank">The EU is testing a prototype age verification app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grenishrai/a-summer-of-security-how-googles-ai-led-cybersecurity-push-is-changing-the-game-1e1p" target="_blank">A Summer of Security: How Google’s AI-Led Cybersecurity Push Is Changing the Game</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/junior-principal-lessons/en/mediumimage/bruno-rey-medium-1752147307553.jpg" alt="Presentation: From Junior to Staff and Beyond: Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/junior-principal-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Junior to Staff and Beyond: Lessons Learned</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-15 13:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514345&w=600" alt="Advanced SSL Certificate Troubleshooting for Windows: Chain of Trust, Debugging, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +210,6 @@
                 <span class="time">2025-07-15 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/hugging-face-reachy/en/headerimage/generatedHeaderImage-1752500715909.jpg" alt="Hugging Face Launches Reachy Mini Robots for Human-Robot Interaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/hugging-face-reachy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Launches Reachy Mini Robots for Human-Robot Interaction</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-15 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0e271jh25cpxd2jed0ll.png" alt="A practical guide to frontend System Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fahimulhaq/a-practical-guide-to-frontend-system-design-fnb" target="_blank">A practical guide to frontend System Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/irelandscotland.jpg?fit=1183%2C694&amp;quality=60&amp;ssl=1" alt="Colmcille map centers the relationship between Scotland and Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/15/colmcille-map-centers-the-relationship-between-scotland-and-ireland.html" target="_blank">Colmcille map centers the relationship between Scotland and Ireland</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-15 14:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/how-to-train-your-dragon-2025-stunt-work-vfx.jpg" alt="Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +292,6 @@
                 <span class="time">2025-07-14 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ff010f9b2bf2a966323f582883f48690.png" alt="TV Report On Retro Games Absolutely Nails It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266" target="_blank">TV Report On Retro Games Absolutely Nails It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-14 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
