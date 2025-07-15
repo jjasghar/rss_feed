@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 15:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 16:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +110,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/707075/roblox-creators-licensing-netflix-stranger-things-lionsgate-twilight" target="_blank">Roblox creators can now make their own Stranger Things and Twilight games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons" target="_blank">The Pro 3 is 8BitDo’s first controller with swappable buttons</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-15 15:00</span>
@@ -142,20 +160,47 @@
                 <span class="time">2025-07-15 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/04/PIA09113-orig-500x500.jpg" alt="We saw the heart of Pluto 10 years ago—it’ll be a long wait to see the rest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/ten-years-on-from-pluto-prospects-for-a-revisit-are-a-long-way-off/" target="_blank">We saw the heart of Pluto 10 years ago—it’ll be a long wait to see the rest</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-15 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/" target="_blank">From chaos to clarity: Using GitHub Copilot agents to improve developer workflows</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scofieldidehen/10-airdrop-you-can-make-100000-from-2025-3b2j" target="_blank">10 AirDrop: You Can Make $100,000 From (2025)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://simonwillison.net/2025/Jul/13/django-birthday/" target="_blank">Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-15 15:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514373&w=600" alt="How to Build a Real API Gateway With Spring Cloud Gateway and Eureka" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-build-a-real-api-gateway-with-spring-cloud" target="_blank">How to Build a Real API Gateway With Spring Cloud Gateway and Eureka</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-15 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,42 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/junior-principal-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Junior to Staff and Beyond: Lessons Learned</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-15 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514345&w=600" alt="Advanced SSL Certificate Troubleshooting for Windows: Chain of Trust, Debugging, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/advanced-ssl-certificate-troubleshooting-windows" target="_blank">Advanced SSL Certificate Troubleshooting for Windows: Chain of Trust, Debugging, and Best Practices</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb" target="_blank">No Laying Up Podcast: 1039: 2025 Open Championship Preview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 11:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://hakibenita.com/django-foreign-keys" target="_blank">How to Get Foreign Keys Horribly Wrong</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-15 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_466da0bd/modern-server-side-event-implementation7573-25jk" target="_blank">Modern Server-Side Event Implementation(7573)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 10:48</span>
             </div>
         </div>
 </div>
@@ -239,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8e7e75cd41f69770aa322b5cbe05f2cd.jpg" alt="Helldivers 2 Players Are Crashing Each Others&#x27; Games Thanks To &#x27;One True Flag&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-2-patch-notes-control-group-warbond-1851786318" target="_blank">Helldivers 2 Players Are Crashing Each Others&#x27; Games Thanks To &#x27;One True Flag&#x27; Update</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-15 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/irelandscotland.jpg?fit=1183%2C694&amp;quality=60&amp;ssl=1" alt="Colmcille map centers the relationship between Scotland and Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -253,6 +271,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/how-to-train-your-dragon-digital-bts-stunts-2000629151" target="_blank">Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K05AD3E37T9W674T3NRWQN2R/hero-image.jpg" alt="These Are the Biggest Rumors for the Next Generation of Meta Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/biggest-rumors-for-next-generation-of-meta-smart-glasses?utm_medium=RSS" target="_blank">These Are the Biggest Rumors for the Next Generation of Meta Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-15 14:00</span>
             </div>
         </div>
@@ -274,24 +301,6 @@
                 <span class="time">2025-07-15 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Walt-Disney-Audio-Animatronic-io9-Gizmodo.jpg" alt="Walt Disney Returns as a Surreal Animatronic for Disneyland’s 70th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/walt-disney-returns-as-a-surreal-animatronic-for-disneylands-70th-anniversary-2000629030" target="_blank">Walt Disney Returns as a Surreal Animatronic for Disneyland’s 70th Anniversary</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-14 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0569Q15N9Z0PGDT9V491ZKM/hero-image.png" alt="Did Apple Kill Liquid Glass in the Third iOS 26 Developer Beta?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-biggest-features-and-changes-in-ios-26-beta-3?utm_medium=RSS" target="_blank">Did Apple Kill Liquid Glass in the Third iOS 26 Developer Beta?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-14 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,22 +315,13 @@
                 <span class="time">2025-07-14 17:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752300579-20250714.png" alt="Saturday Morning Breakfast Cereal - Waa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/waa" target="_blank">Saturday Morning Breakfast Cereal - Waa</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
