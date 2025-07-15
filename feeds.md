@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 04:13:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 05:05:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Error processing https://lifehacker.com/rss: The read operation timed out -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 36 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Code &amp; Deals: 16% Off July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Code &amp; Deals: 16% Off July 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -158,15 +160,6 @@
                 <span class="time">2025-07-14 20:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/14/episource-is-notifying-millions-of-people-that-their-health-data-was-stolen/" target="_blank">Episource is notifying millions of people that their health data was stolen</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-14 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tomrenner.com/posts/llm-inevitabilism/" target="_blank">LLM Inevitabilism</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-15 04:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j" target="_blank">Terraform Fundamentals: Control Tower</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/aur-electron-update-issue/" target="_blank">The Curious Case of AUR Updates Fetching 30 GB of Data for Electron</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-15 03:44</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/notreeceharris/turn-any-file-into-a-pixel-art-masterpiece-nl0" target="_blank">Turn Any File Into a Art Masterpiece!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-14 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/ml-explore/mlx/pull/1983" target="_blank">Apple&#x27;s MLX adding CUDA support</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-14 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations" target="_blank">Anthropic signs a $200mm deal with the Department of Defense</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-14 20:38</span>
             </div>
         </div>
 </div>
@@ -345,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
