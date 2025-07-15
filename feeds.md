@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 16:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 17:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Error processing https://www.smbc-comics.com/rss.php: The read operation timed out -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6904/live/265222a0-618f-11f0-904a-1d76e1991eb9.jpg" alt="Thousands of Afghans were moved to UK in secret scheme after data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">Thousands of Afghans were moved to UK in secret scheme after data breach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-15 16:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,20 @@
                 <span class="time">2025-07-15 12:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/g-s1-77615/up-first-newsletter-moscow-trump-education-department-epstein-files" target="_blank">SCOTUS allows dismantling of Education Dept. And, Trump threatens Russia with tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/" target="_blank">Lucid Motors will roll out hands-free highway driving this month</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 16:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +160,6 @@
                 <span class="time">2025-07-15 13:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6875b84d0a6a265cd5de25d6/master/pass/Best%20Yoga%20Mats.png" alt="Best Yoga Mat (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/the-best-yoga-mats/" target="_blank">Best Yoga Mat (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,15 @@
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/" target="_blank">From chaos to clarity: Using GitHub Copilot agents to improve developer workflows</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-07-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world" target="_blank">NIST Ion Clock Sets New Record for Most Accurate Clock in the World</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-15 15:56</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="time">2025-07-15 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/junior-principal-lessons/en/mediumimage/bruno-rey-medium-1752147307553.jpg" alt="Presentation: From Junior to Staff and Beyond: Lessons Learned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/junior-principal-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Junior to Staff and Beyond: Lessons Learned</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-15 13:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HADWAP0AXJ0HW76C843SW/hero-image.jpg" alt="Five Common Mistakes People Make When Checking for Ticks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/five-common-mistakes-when-checking-for-ticks?utm_medium=RSS" target="_blank">Five Common Mistakes People Make When Checking for Ticks</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-15 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/989538cd4a8bd09be1c91d6a2d05e460.jpg" alt="A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/creepy-dark-brotherhood-door-oblivion-remastered-1-2-pc-1851786326" target="_blank">A Creepy, Lore-Breaking Door In The Oblivion Remaster Has Finally Been Fixed</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-15 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8e7e75cd41f69770aa322b5cbe05f2cd.jpg" alt="Helldivers 2 Players Are Crashing Each Others&#x27; Games Thanks To &#x27;One True Flag&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,29 +301,29 @@
                 <span class="time">2025-07-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/zuckglasses.jpg" alt="Mark Zuckerberg Interview Derailed After His Audio Doesn’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mark-zuckerberg-interview-derailed-after-his-audio-doesnt-work-2000629085" target="_blank">Mark Zuckerberg Interview Derailed After His Audio Doesn’t Work</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-15 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K06EV8304S25RRKZT272VS4H/hero-image.png" alt="The Google Nest Doorbell Is $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-nest-battery-doorbell-sale?utm_medium=RSS" target="_blank">The Google Nest Doorbell Is $60 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-15 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/wizard/" target="_blank">Wizard</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-07-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752556806-20250716.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/prompt" target="_blank">Saturday Morning Breakfast Cereal - Prompt</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-15 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
