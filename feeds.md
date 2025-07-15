@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 19:02:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-15 20:01:33 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +109,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/" target="_blank">Meta fixes bug that could leak users’ AI prompts and generated content</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68765d94d3c30d0c5e882e66/master/pass/GettyImages-593374632.jpg" alt="The FBI&#x27;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/" target="_blank">The FBI&#x27;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/unnamed-500x500-1752600323.jpg" alt="Corporate inadequacy has rendered my favorite rediscovered gadget useless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/fickle-business-strategy-has-turned-my-new-favorite-earbuds-into-e-waste/" target="_blank">Corporate inadequacy has rendered my favorite rediscovered gadget useless</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-15 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
@@ -123,33 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/" target="_blank">Lucid Motors will roll out hands-free highway driving this month</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-15 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/707075/roblox-creators-licensing-netflix-stranger-things-lionsgate-twilight" target="_blank">Roblox creators can now make their own Stranger Things and Twilight games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons" target="_blank">The Pro 3 is 8BitDo’s first controller with swappable buttons</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/reddit-rolls-out-age-verification-in-the-uk-to-comply-with-new-rules/" target="_blank">Reddit rolls out age verification in the UK to comply with new rules</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 14:55</span>
             </div>
         </div>
 </div>
@@ -176,6 +184,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/07/cropped-blender-software-logo-1.jpg?resize=406%2C232&amp;ssl=1" alt="Blender 4.5 LTS Released with ‘Full Vulkan Support’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/blender-4-5-lts-vulkan-support" target="_blank">Blender 4.5 LTS Released with ‘Full Vulkan Support’</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-15 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!b6ox!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46e94069-6e5c-4de3-814a-df6bbf992cd1_1402x970.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-15 16:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -191,24 +217,6 @@
                 <span class="title"><a href="https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world" target="_blank">NIST Ion Clock Sets New Record for Most Accurate Clock in the World</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-15 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scofieldidehen/10-airdrop-you-can-make-100000-from-2025-3b2j" target="_blank">10 AirDrop: You Can Make $100,000 From (2025)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://simonwillison.net/2025/Jul/13/django-birthday/" target="_blank">Happy 20th birthday Django! Here’s my talk on Django Origins from Django’s 10th</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-15 15:21</span>
             </div>
         </div>
 </div>
@@ -230,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a6de5c80d58758a36639cc2b088f6c6.jpg" alt="Minecraft Adds Jack Black&#x27;s Lava Chicken Song, But You Gotta Do Something Special To Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345" target="_blank">Minecraft Adds Jack Black&#x27;s Lava Chicken Song, But You Gotta Do Something Special To Get It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-15 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/shutterstock_1251389905-e1752606546599.jpg?fit=600%2C366&amp;quality=60&amp;ssl=1" alt="The Grand Canyon Lodge has burnt down, again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/15/the-grand-canyon-lodge-has-burnt-down-again.html" target="_blank">The Grand Canyon Lodge has burnt down, again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-15 19:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Jimmy-Olsen-Superman.jpg" alt="We Can’t Get Enough of Jimmy Olsen in ‘Superman’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +292,6 @@
                 <span class="time">2025-07-15 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8e7e75cd41f69770aa322b5cbe05f2cd.jpg" alt="Helldivers 2 Players Are Crashing Each Others&#x27; Games Thanks To &#x27;One True Flag&#x27; Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/helldivers-2-patch-notes-control-group-warbond-1851786318" target="_blank">Helldivers 2 Players Are Crashing Each Others&#x27; Games Thanks To &#x27;One True Flag&#x27; Update</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-15 15:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/irelandscotland.jpg?fit=1183%2C694&amp;quality=60&amp;ssl=1" alt="Colmcille map centers the relationship between Scotland and Ireland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/15/colmcille-map-centers-the-relationship-between-scotland-and-ireland.html" target="_blank">Colmcille map centers the relationship between Scotland and Ireland</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-15 14:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
