@@ -1,41 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 06:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 07:03:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/sudans-rsf-kills-about-300-people-in-north-kordofan-rights-group-says?traffic_source=rss" target="_blank">Sudan’s RSF kills about 300 people in North Kordofan, rights group says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 06:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +96,6 @@
                 <span class="time">2025-07-15 03:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/sesame-street-puppet-elmos-x-account-posts-anti-jewish-rant-after-hacking?traffic_source=rss" target="_blank">Sesame Street puppet Elmo’s X account posts anti-Jewish rant after hacking</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +108,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/" target="_blank">Meta is reportedly using actual tents to build data centers</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-15 05:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="NZXT Discount Codes: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nzxt-discount-code/" target="_blank">NZXT Discount Codes: 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 05:10</span>
             </div>
         </div>
 <div class="story">
@@ -155,20 +155,20 @@
                 <span class="time">2025-07-14 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Pebblebee-Clip-500x500-1752523315.jpg" alt="Bluetooth tracker Pebblebee adds free SOS alarm to already-purchased devices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/bluetooth-tracker-pebblebee-adds-free-sos-alarm-to-already-purchased-devices/" target="_blank">Bluetooth tracker Pebblebee adds free SOS alarm to already-purchased devices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-14 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn" target="_blank">5 Laravel Best Practices That Reduced My Bugs by 30%</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 06:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/saint_vandora/ai-powered-database-optimisation-with-claude-ai-mcp-and-mongodb-20c8" target="_blank">AI Powered Database Optimisation with Claude AI, MCP and MongoDB</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-14 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6m8khjxwsrl3ksjstmmp.png" alt="Turn Any File Into a Art Masterpiece!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/notreeceharris/turn-any-file-into-a-pixel-art-masterpiece-nl0" target="_blank">Turn Any File Into a Art Masterpiece!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-14 21:47</span>
             </div>
         </div>
 </div>
@@ -328,22 +319,13 @@
                 <span class="time">2025-07-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/14/tony-hurk" target="_blank">Tony Hurk</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-14 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
