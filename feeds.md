@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 11:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-15 12:02:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/g-s1-77615/up-first-newsletter-moscow-trump-education-department-epstein-files" target="_blank">SCOTUS allows dismantling of Education Dept. And, Trump threatens Russia with tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 11:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Trump-Oval-DB-250715_1752567823671_hpMain_4x3t_384.jpg" alt="Russia &#x27;didn’t care&#x27; about Trump&#x27;s weapons for Ukraine, tariff threats, official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -63,6 +68,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/15/uefa-womens-euro-2025-quarterfinals-qualified-teams-spain-england-preview-full-schedule?traffic_source=rss" target="_blank">UEFA Women’s Euro 2025 quarterfinals: Qualified teams and full schedule</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-15 09:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-donald-trump-big-beautiful-bill-cs-84d73c.jpg" alt="Republicans try to sell Trump&#x27;s megabill as &#x27;working families tax cut&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/working-families-tax-cut-republicans-sell-big-beautiful-bill-medicaid-rcna217868" target="_blank">Republicans try to sell Trump&#x27;s megabill as &#x27;working families tax cut&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-15 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +97,29 @@
                 <span class="time">2025-07-15 06:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/g-s1-77594/temporary-protections-afghans-appeals-court" target="_blank">With temporary protections for some Afghans set to expire, appeals court steps in</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/648e/live/3eb4a1d0-613d-11f0-b5c5-012c5796682d.jpg" alt="I&#x27;m &#x27;disappointed but not done&#x27; with Putin, Trump tells BBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1e02q12z32o" target="_blank">I&#x27;m &#x27;disappointed but not done&#x27; with Putin, Trump tells BBC</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-15 05:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/04/PIA09113-orig-500x500.jpg" alt="We saw the heart of Pluto 10 years ago—it’ll be a long wait to see the rest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/ten-years-on-from-pluto-prospects-for-a-revisit-are-a-long-way-off/" target="_blank">We saw the heart of Pluto 10 years ago—it’ll be a long wait to see the rest</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-15 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/amogy-raises-80m-to-power-ships-and-data-centers-with-ammonia/" target="_blank">Amogy raises $80M to power ships and data centers with ammonia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +156,20 @@
                 <span class="time">2025-07-15 05:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" alt="NZXT Discount Codes: 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nzxt-discount-code/" target="_blank">NZXT Discount Codes: 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" alt="Peacock Promo Code &amp; Deals: 16% Off July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/peacock-promo-code/" target="_blank">Peacock Promo Code &amp; Deals: 16% Off July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb" target="_blank">No Laying Up Podcast: 1039: 2025 Open Championship Preview</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 11:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/johaven/-5a9m" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jsandaruwan/5-laravel-best-practices-that-reduced-my-bugs-by-30-2ohn" target="_blank">5 Laravel Best Practices That Reduced My Bugs by 30%</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 06:29</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
