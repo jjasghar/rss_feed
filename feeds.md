@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 12:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 13:12:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/how-were-babies-mass-graves-discovered-in-church-run-home-in-ireland?traffic_source=rss" target="_blank">How were babies’ mass graves discovered in church-run home in Ireland?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/272c5c30-6172-11f0-960d-e9f1088a89fe.jpg" alt="UK set up secret Afghan relocation scheme after data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">UK set up secret Afghan relocation scheme after data breach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-15 12:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +96,20 @@
                 <span class="time">2025-07-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-donald-trump-big-beautiful-bill-cs-84d73c.jpg" alt="&#x27;Working families tax cut&#x27;: Republicans look for new ways to sell the &#x27;big, beautiful bill&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/working-families-tax-cut-republicans-sell-big-beautiful-bill-medicaid-rcna217868" target="_blank">&#x27;Working families tax cut&#x27;: Republicans look for new ways to sell the &#x27;big, beautiful bill&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/sudans-rsf-kills-about-300-people-in-north-kordofan-rights-group-says?traffic_source=rss" target="_blank">Sudan’s RSF kills about 300 people in North Kordofan, rights group says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 06:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/" target="_blank">xAI says it has fixed Grok 4’s problematic responses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 13:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2017/04/PIA09113-orig-500x500.jpg" alt="We saw the heart of Pluto 10 years ago—it’ll be a long wait to see the rest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +155,20 @@
                 <span class="time">2025-07-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/" target="_blank">Meta is reportedly using actual tents to build data centers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 05:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514345&w=600" alt="Advanced SSL Certificate Troubleshooting for Windows: Chain of Trust, Debugging, and Best Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/advanced-ssl-certificate-troubleshooting-windows" target="_blank">Advanced SSL Certificate Troubleshooting for Windows: Chain of Trust, Debugging, and Best Practices</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-1039-2025-open-championship-preview-5blb" target="_blank">No Laying Up Podcast: 1039: 2025 Open Championship Preview</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hakibenita.com/django-foreign-keys" target="_blank">How to Get Foreign Keys Horribly Wrong</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-15 11:35</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/fahimulhaq/a-practical-guide-to-frontend-system-design-fnb" target="_blank">A practical guide to frontend System Design</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fupw9dykm78shl61g9p1x.jpg" alt="How to Calculate Total Cost of Ownership (TCO)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teresa_tran/how-to-calculate-total-cost-of-ownership-tco-d6" target="_blank">How to Calculate Total Cost of Ownership (TCO)?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3355192%2F20c48bc5-ed9a-4cca-b9c7-9566ac08e88f.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johaven/-5a9m" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 07:51</span>
             </div>
         </div>
 </div>
@@ -243,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/zuckglasses.jpg" alt="Mark Zuckerberg Interview Derailed After His Audio Doesn’t Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mark-zuckerberg-interview-derailed-after-his-audio-doesnt-work-2000629085" target="_blank">Mark Zuckerberg Interview Derailed After His Audio Doesn’t Work</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-15 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K06EV8304S25RRKZT272VS4H/hero-image.png" alt="The Google Nest Doorbell Is $60 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-nest-battery-doorbell-sale?utm_medium=RSS" target="_blank">The Google Nest Doorbell Is $60 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-15 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Walt-Disney-Audio-Animatronic-io9-Gizmodo.jpg" alt="Walt Disney Returns as a Surreal Animatronic for Disneyland’s 70th Anniversary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +296,6 @@
                 <span class="time">2025-07-14 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K058CJADF5361949VDPG63TW/hero-image.jpg" alt="Three Things I Learned When I Used My Air Fryer Make a Week’s Worth of Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/three-things-i-learned-when-i-cooked-a-week-of-meals-in-my-air-fryer?utm_medium=RSS" target="_blank">Three Things I Learned When I Used My Air Fryer Make a Week’s Worth of Meals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/348d5a68ae059e64666663ddc1e44c03.jpg" alt="When I Stopped Playing Mission Stories In Hitman, I Discovered What A Great Stealth Game It Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hitman-woa-stealth-metal-gear-splinter-cell-freelancer-1851786255" target="_blank">When I Stopped Playing Mission Stories In Hitman, I Discovered What A Great Stealth Game It Is</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-14 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
