@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 08:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 09:06:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 09:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/706618/nextdoor-redesign-ai-recommendations-local-news-emergency-alerts" target="_blank">Can Nextdoor overhaul itself to be useful?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-15 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/14/meta-is-reportedly-using-actual-tents-to-build-data-centers/" target="_blank">Meta is reportedly using actual tents to build data centers</a></span>
                 <span class="feed">TechCrunch</span>
@@ -149,20 +158,20 @@
                 <span class="time">2025-07-14 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Pebblebee-Clip-500x500-1752523315.jpg" alt="Pebblebee tracker’s new SOS alert reminds us that updates can be good for gadgets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/bluetooth-tracker-pebblebee-adds-free-sos-alarm-to-already-purchased-devices/" target="_blank">Pebblebee tracker’s new SOS alert reminds us that updates can be good for gadgets</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-14 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fupw9dykm78shl61g9p1x.jpg" alt="How to Calculate Total Cost of Ownership (TCO)?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teresa_tran/how-to-calculate-total-cost-of-ownership-tco-d6" target="_blank">How to Calculate Total Cost of Ownership (TCO)?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 08:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3355192%2F20c48bc5-ed9a-4cca-b9c7-9566ac08e88f.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/aur-electron-update-issue/" target="_blank">The Curious Case of AUR Updates Fetching 30 GB of Data for Electron</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-07-15 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kdetv.jpg?resize=406%2C232&amp;ssl=1" alt="Plasma Bigscreen, KDE’s TV Interface, is Back on the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/plasma-bigscreen-revival-kde-tv" target="_blank">Plasma Bigscreen, KDE’s TV Interface, is Back on the Air</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-15 01:57</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 09:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
