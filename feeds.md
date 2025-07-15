@@ -1,43 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 03:29:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 04:13:59 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/15/france-willingness-discuss-reparations-niger" target="_blank">France signals willingness to discuss reparations for colonial massacres in Niger</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-15 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein_1752533587709_hpMain_4x3t_384.jpg" alt="DOJ urges Supreme Court to turn away Ghislaine Maxwell&#x27;s appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/doj-urges-supreme-court-turn-epstein-accomplice-ghislaine/story?id=123752067" target="_blank">DOJ urges Supreme Court to turn away Ghislaine Maxwell&#x27;s appeal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-15 00:42</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -87,24 +106,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/israel-continues-to-pound-gaza-killing-72-as-truce-talks-stall?traffic_source=rss" target="_blank">Israel continues to pound Gaza, killing 72, as truce talks stall</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-14 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/14/1255667286/trump-threatens-russia-over-ukraine" target="_blank">Trump threatens Russia over Ukraine. Will it make a difference?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-14 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/14/states-sue-trump-over-more-than-6bn-in-education-funds?traffic_source=rss" target="_blank">States sue Trump over more than $6bn in education funds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-14 22:24</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsfundamentals/terraform-fundamentals-control-tower-512j" target="_blank">Terraform Fundamentals: Control Tower</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 03:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kdetv.jpg?resize=406%2C232&amp;ssl=1" alt="Plasma Bigscreen, KDE’s TV Interface, is Back on the Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -214,15 +224,6 @@
                 <span class="title"><a href="https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations" target="_blank">Anthropic signs a $200mm deal with the Department of Defense</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-14 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date" target="_blank">LIGO detects most massive black hole merger to date</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-14 20:06</span>
             </div>
         </div>
 </div>
@@ -344,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
