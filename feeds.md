@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 23:01:24 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/mike-johnson-ap-jt-250715_1752611952671_hpMain_4x3t_384.jpg" alt="Johnson says Bondi needs to &#x27;come forward and explain&#x27; handling of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/johnson-bondi-forward-explain-handling-epstein-files/story?id=123782633" target="_blank">Johnson says Bondi needs to &#x27;come forward and explain&#x27; handling of Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-15 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468438/medical-debt-credit-reports-ruling" target="_blank">Americans&#x27; medical debt can stay in credit reports, judge rules. What does that mean?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,38 @@
                 <span class="time">2025-07-15 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/court-says-trump-cant-bar-refugees-from-entering-us-with-travel-ban?traffic_source=rss" target="_blank">Court says Trump can’t bar refugees from entering US with travel ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5467490/mike-waltz-un-ambassador-signal-senate-hearing" target="_blank">Trump&#x27;s pick for U.N. Ambassador grilled over Signal chat scandal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/" target="_blank">The Chainsmokers’ Mantis Ventures closes $100M third fund</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-500x500.jpeg" alt="Large study squashes anti-vaccine talking points about aluminum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/large-study-squashes-anti-vaccine-talking-points-about-aluminum/" target="_blank">Large study squashes anti-vaccine talking points about aluminum</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-15 22:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6876aa0f40ee0d77bac5b85b/master/pass/Mira-Murati-Cofounders-Business-1258711450.jpg" alt="Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/" target="_blank">Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 22:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/nanoscale-023-440x1080-1-500x500.jpg" alt="Seagate’s massive, 30TB, $600 hard drives are now available for anyone to buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +161,20 @@
                 <span class="time">2025-07-15 20:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions" target="_blank">Trump announces billions in investments to make Pennsylvania an AI hub</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/" target="_blank">Meta fixes bug that could leak users’ AI prompts and generated content</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68765d94d3c30d0c5e882e66/master/pass/GettyImages-593374632.jpg" alt="The FBI&#x27;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/" target="_blank">The FBI&#x27;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i" target="_blank">Server-Side Events Implementation for Real-Time Applications(9190)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack?</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-15 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/" target="_blank">From chaos to clarity: Using GitHub Copilot agents to improve developer workflows</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-15 16:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
