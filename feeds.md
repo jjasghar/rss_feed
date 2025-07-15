@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-15 18:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-15 19:02:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, July 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 15, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/court-says-trump-cant-bar-refugees-from-entering-us-with-travel-ban?traffic_source=rss" target="_blank">Court says Trump can’t bar refugees from entering US with travel ban</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-15 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5467490/mike-waltz-un-ambassador-signal-senate-hearing" target="_blank">Trump&#x27;s pick for U.N. Ambassador grilled over Signal chat scandal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 18:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,28 +87,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/thousands-of-afghans-brought-to-uk-under-secret-program-after-data-leak?traffic_source=rss" target="_blank">Thousands of Afghans brought to UK under secret programme after data leak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/272c5c30-6172-11f0-960d-e9f1088a89fe.jpg" alt="Thousands of Afghans moved to UK under secret scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg8zy78787o" target="_blank">Thousands of Afghans moved to UK under secret scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-15 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468293/inflation-cpi-consumer-prices-tariffs" target="_blank">Inflation heats up in June as President Trump&#x27;s tariffs start to bite</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 13:07</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/15/sudan-paramilitary-forces-kill-almost-300-in-village-raids-say-lawyers" target="_blank">Sudanese paramilitary RSF accused of killing almost 300 people in village raids</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-15 15:08</span>
             </div>
         </div>
 </div>
@@ -101,6 +98,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-15 18:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686d551fced45ec3b806b212/master/pass/Palmer-Luckey-Joe-Lonsdale-Starting-Bank-Business.jpg" alt="Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/" target="_blank">Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +152,20 @@
                 <span class="time">2025-07-15 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/doge-staffer-with-access-to-americans-personal-data-leaked-private-xai-api-key/" target="_blank">DOGE staffer with access to Americans’ personal data leaked private xAI API key</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/xai-says-it-has-fixed-grok-4s-problematic-responses/" target="_blank">xAI says it has fixed Grok 4’s problematic responses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fym0yimje5ey5jm8ccarv.png" alt="Stripe-To-Postgres Sync Engine as standalone Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd" target="_blank">Stripe-To-Postgres Sync Engine as standalone Library</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-15 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +211,6 @@
                 <span class="time">2025-07-15 15:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514373&w=600" alt="How to Build a Real API Gateway With Spring Cloud Gateway and Eureka" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-build-a-real-api-gateway-with-spring-cloud" target="_blank">How to Build a Real API Gateway With Spring Cloud Gateway and Eureka</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-15 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +225,20 @@
                 <span class="time">2025-07-15 01:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/report-from-the-cambridge-cybercrime-conference.html" target="_blank">Report from the Cambridge Cybercrime Conference</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-14 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Jimmy-Olsen-Superman.jpg" alt="We Can’t Get Enough of Jimmy Olsen in ‘Superman’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/we-cant-get-enough-of-jimmy-olsen-in-superman-2000629490" target="_blank">We Can’t Get Enough of Jimmy Olsen in ‘Superman’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-15 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/mike-waltz.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Signalgate&#x27;s Waltz blames his own inept war-plan leak on, er, Joe Biden (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +284,6 @@
                 <span class="time">2025-07-15 14:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/how-to-train-your-dragon-2025-stunt-work-vfx.jpg" alt="Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-train-your-dragon-digital-bts-stunts-2000629151" target="_blank">Watch ‘How to Train Your Dragon’ Light a Bunch of Things on Fire in This Exclusive BTS Clip</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
