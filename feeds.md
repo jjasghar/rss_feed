@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 03:28:57 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-16 04:13:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/unrwa-sounds-alarm-as-1-in-10-children-in-gaza-malnourished?traffic_source=rss" target="_blank">UNRWA sounds alarm as 1 in 10 children in Gaza malnourished</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 03:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +105,6 @@
                 <span class="time">2025-07-15 23:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468470/conservative-leaning-thinktank-weighs-in-on-whats-next-for-the-education-department" target="_blank">Conservative-leaning thinktank weighs in on what&#x27;s next for the Education Department</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 23:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -142,6 +147,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/chaucerTOP-500x500.jpg" alt="Medieval preacher invoked chivalric hero as a meme in sermon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/medieval-preacher-invoked-chivalric-hero-as-a-meme-in-sermon/" target="_blank">Medieval preacher invoked chivalric hero as a meme in sermon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-15 23:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,20 +164,20 @@
                 <span class="time">2025-07-15 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-500x500.jpeg" alt="Large study squashes anti-vaccine talking points about aluminum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/large-study-squashes-anti-vaccine-talking-points-about-aluminum/" target="_blank">Large study squashes anti-vaccine talking points about aluminum</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-15 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lovkplala8i2ie5mssn.gif" alt="Welcome Thread - v335" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/welcome-thread-v335-2hm1" target="_blank">Welcome Thread - v335</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,21 +215,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kiro-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Kiro, Amazon-Backed Agentic IDE, Enters Public Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_466da0bd/server-side-events-implementation-for-real-time-applications9190-237i" target="_blank">Server-Side Events Implementation for Real-Time Applications(9190)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yowise/building-roamsense-ai-powered-accommodation-review-analysis-for-romania-3n6e" target="_blank">Building RoamSense: AI-powered accommodation review analysis for Romania</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 21:54</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/kiro-ai-ide-public-preview-linux" target="_blank">Kiro, Amazon-Backed Agentic IDE, Enters Public Preview</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-15 22:59</span>
             </div>
         </div>
 </div>
@@ -223,6 +228,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/09/df4df207f8e4f1a17115a13e65ffa60b.jpg" alt="Joe Rogan Accuses Trump’s Team of Hiding Epstein Files to Protect Powerful People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/joe-rogan-accuses-trumps-team-of-hiding-epstein-files-to-protect-powerful-figures-2000629857" target="_blank">Joe Rogan Accuses Trump’s Team of Hiding Epstein Files to Protect Powerful People</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 03:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Propstore-Darth-Vaders-Lightsaber.jpg" alt="Become a Master of Evil With Darth Vader’s Actual Lightsaber (if You Have $3 Million)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +282,6 @@
                 <span class="time">2025-07-15 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1d1e615019a7727b59afefb60c63bc9e.jpg" alt="Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358" target="_blank">Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-15 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
