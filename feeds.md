@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 19:02:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 20:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469755/james-craig-trial-colorado-dentist-poison-protein-shakes" target="_blank">A dentist is on trial for allegedly killing his wife with poisoned protein shakes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-03-jef-250716_1752668836813_hpMain_4x3t_384.jpg" alt="Trump blasts &#x27;past supporters&#x27; for demanding release of more Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2025-07-16 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/trump_epstein-mt08i3.jpg" alt="Trump fires back at &#x27;stupid Republicans&#x27; calling for release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-fires-back-at-stupid-republicans-calling-for-release-of-epstein-files-243336773856" target="_blank">Trump fires back at &#x27;stupid Republicans&#x27; calling for release of Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-16 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/incest-500x500-1752693605.png" alt="Steam cracks down on some sex games to appease payment processors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/steam-cracks-down-on-some-sex-games-to-appease-payment-processors/" target="_blank">Steam cracks down on some sex games to appease payment processors</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 19:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/posting-guidelines-crypto-spammer-500x500.jpg" alt="Introducing the Ars Technica Posting Guidelines version 3.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +117,15 @@
                 <span class="title"><a href="https://arstechnica.com/staff/2025/07/introducing-the-ars-technica-posting-guidelines-version-3-0/" target="_blank">Introducing the Ars Technica Posting Guidelines version 3.0</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-16 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686c0b9c006ed189517b4339/master/pass/WIRED_Measles-Outbreak.jpg" alt="Can US Measles Outbreaks Be Stopped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/" target="_blank">Can US Measles Outbreaks Be Stopped?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 18:42</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +155,20 @@
                 <span class="time">2025-07-16 17:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/f9_kf01-500x500.jpg" alt="Amazon’s ride on the rocket merry-go-round continues with SpaceX launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/amazons-ride-on-the-rocket-merry-go-round-continues-with-spacex-launch/" target="_blank">Amazon’s ride on the rocket merry-go-round continues with SpaceX launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/16/call-of-duty-cheaters-complain-after-activision-launches-new-wave-of-mass-bans/" target="_blank">Call of Duty cheaters complain after Activision launches new wave of mass-bans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-16 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519317&w=600" alt="Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ibm-cloud-app-configuration-idp" target="_blank">Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-16 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/" target="_blank">How to catch GitHub Actions workflow injections before attackers do</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-07-16 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji" target="_blank">10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 15:54</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
