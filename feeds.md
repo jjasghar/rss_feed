@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 20:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-16 21:01:54 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-jef-250716_1752668836813_hpMain_4x3t_384.jpg" alt="Trump blasts &#x27;stupid,&#x27; &#x27;foolish&#x27; Republicans amid calls to reveal more Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-blasts-epstein-files-release-supporters/story?id=123799343" target="_blank">Trump blasts &#x27;stupid,&#x27; &#x27;foolish&#x27; Republicans amid calls to reveal more Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-16 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469967/trump-federal-reserve-jerome-powell" target="_blank">Trump floats firing the Federal Reserve chair as White House criticism boils</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 20:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,20 @@
                 <span class="time">2025-07-16 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-06-jef-250716_1752682494542_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says it&#x27;s &#x27;highly unlikely&#x27; he&#x27;ll fire Fed&#x27;s Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Trump says it&#x27;s &#x27;highly unlikely&#x27; he&#x27;ll fire Fed&#x27;s Powell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d61/live/59e3ec90-625f-11f0-b877-9f61ae236590.jpg" alt="Trump says it is highly unlikely he will fire US Fed chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4geyrdprwjo" target="_blank">Trump says it is highly unlikely he will fire US Fed chair</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/" target="_blank">India eyes global quantum computer push — and QpiAI is its chosen vehicle</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-16 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/incest-500x500-1752693605.png" alt="Steam cracks down on some sex games to appease payment processors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +162,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/16/gm-teams-up-with-redwood-materials-to-power-data-centers-with-ev-batteries/" target="_blank">GM teams up with Redwood Materials to power data centers with EV batteries</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68773935a5c59eb7ebb482aa/master/pass/Review-%20ElliQ%20AI%20Companion%20Robot.png" alt="ElliQ Review: An AI Companion Bot for Lonely Elders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/elliq-ai-companion-robot/" target="_blank">ElliQ Review: An AI Companion Bot for Lonely Elders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-16 17:43</span>
             </div>
         </div>
 </div>
@@ -234,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98b04c3e344042eeca84f943fe1450c4.jpg" alt="YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/youtuber-retro-gaming-jail-time-italy-once-were-nerd-1851786451" target="_blank">YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-16 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0A7FGW7YP1R71VWVKK92ERM/hero-image.png" alt="Google Is Dropping Chrome Support for These Macs Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/chrome-will-stop-working-on-these-macs-soon?utm_medium=RSS" target="_blank">Google Is Dropping Chrome Support for These Macs Soon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Alpha-Universe-July-RXAnnouncement-Main.webp?fit=2000%2C1121&amp;quality=55&amp;ssl=1" alt="Sony&#x27;s RX1R III fixed-lens flagship: old sensor, new price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/sonys-new-fixed-lens-flagship-old-sensor-new-price.html" target="_blank">Sony&#x27;s RX1R III fixed-lens flagship: old sensor, new price</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 19:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Jan-30-2025-President-Donald-Trump-speaks-at-a-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Yikes! Trump is &quot;surprised&quot; that Powell runs Fed Reserve — forgets that he himself hired him (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -258,33 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431" target="_blank">EA FC 26&#x27;s Reveal Trailer Is Just EA Responding To All Your Complaints</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-16 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Donald Trump doubles down on Epstein files: &quot;stupid Republicans&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/donald-trump-doubles-down-on-epstein-files-stupid-republicans.html" target="_blank">Donald Trump doubles down on Epstein files: &quot;stupid Republicans&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K09Z53Z2C9CCZTVV5HFMQ94V/hero-image.jpg" alt="These Cars Will Soon Support Apple Wallet&#x27;s Digital Car Keys" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/these-cars-will-soon-support-apple-wallet-digital-car-keys?utm_medium=RSS" target="_blank">These Cars Will Soon Support Apple Wallet&#x27;s Digital Car Keys</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/July-16-2025-Iceland-fissure-eruption-lava-flow.jpg" alt="A Mile-Long Gateway to Hell Opens Up in Iceland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-mile-long-gateway-to-hell-opens-up-in-iceland-2000630127" target="_blank">A Mile-Long Gateway to Hell Opens Up in Iceland</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 16:55</span>
             </div>
         </div>
 </div>
@@ -324,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
