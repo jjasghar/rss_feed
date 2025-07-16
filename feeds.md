@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 01:29:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-16 02:37:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/israel-bombs-syrias-druze-city-of-suwayda-hours-after-ceasefire?traffic_source=rss" target="_blank">Israel bombs Syria’s Druze city of Suwayda hours after ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 02:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,15 +99,6 @@
                 <span class="time">2025-07-15 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468438/medical-debt-credit-reports-ruling" target="_blank">Americans&#x27; medical debt can stay in credit reports, judge rules. What does that mean?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -129,6 +120,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/" target="_blank">Of course, Grok’s AI companions want to have sex and burn down schools</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-15 23:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68756717ece5e54991c7c891/master/pass/Grok4-Test-Business-2224449837.jpg" alt="I Tried Grok’s Built-In Anime Companion and It Called Me a Twat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-xai-ai-companion-ani/" target="_blank">I Tried Grok’s Built-In Anime Companion and It Called Me a Twat</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-15 23:05</span>
             </div>
         </div>
 <div class="story">
@@ -158,20 +158,20 @@
                 <span class="time">2025-07-15 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/nanoscale-023-440x1080-1-500x500.jpg" alt="Seagate’s massive, 30TB, $600 hard drives are now available for anyone to buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/seagates-massive-30tb-600-hard-drives-are-now-available-for-anyone-to-buy/" target="_blank">Seagate’s massive, 30TB, $600 hard drives are now available for anyone to buy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-15 21:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_patel_35864ca1db6093c/what-are-matrix-operations-5cgi" target="_blank">What are Matrix Operations?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 02:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -215,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/zero-trust-ci-cd-secure-pipelines" target="_blank">Securing Software Delivery: Zero Trust CI/CD Patterns for Modern Pipelines</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fym0yimje5ey5jm8ccarv.png" alt="Stripe-To-Postgres Sync Engine as standalone Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd" target="_blank">Stripe-To-Postgres Sync Engine as standalone Library</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 18:59</span>
             </div>
         </div>
 </div>
@@ -313,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
