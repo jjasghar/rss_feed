@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 04:13:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 05:05:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 04:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgtstqrfnhwq2pu6ezb1z.png" alt="Gemini 2.5 API Missing Manual: How to get started (or upgrade from Gemini 1.0/1.5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wescpy/gemini-25-api-missing-manual-how-to-get-started-or-upgrade-from-gemini-1015-1el6" target="_blank">Gemini 2.5 API Missing Manual: How to get started (or upgrade from Gemini 1.0/1.5)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 04:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9lovkplala8i2ie5mssn.gif" alt="Welcome Thread - v335" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://geminiprotocol.net/news/2025_06_20.gmi" target="_blank">Six Years of Gemini</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-16 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dev_patel_35864ca1db6093c/what-are-matrix-operations-5cgi" target="_blank">What are Matrix Operations?</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,24 +215,6 @@
                 <span class="title"><a href="https://gpuhammer.com/" target="_blank">GPUHammer: Rowhammer attacks on GPU memories are practical</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-16 00:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://requilence.any.org/open-ai-vulnerability-responsible-disclosure" target="_blank">OpenAI Vulnerability: 48 Days, No Response</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-15 23:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kiro-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Kiro, Amazon-Backed Agentic IDE, Enters Public Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/kiro-ai-ide-public-preview-linux" target="_blank">Kiro, Amazon-Backed Agentic IDE, Enters Public Preview</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-15 22:59</span>
             </div>
         </div>
 </div>
@@ -310,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 04:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
