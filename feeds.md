@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 15:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 16:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77c/live/45c0a280-6255-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Starmer suspends four Labour MPs for breaching party discipline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7zqdwzqyo" target="_blank">Starmer suspends four Labour MPs for breaching party discipline</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 15:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77c/live/45c0a280-6255-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Starmer suspends three Labour MPs for breaching party discipline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +98,20 @@
                 <span class="time">2025-07-16 12:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/16/zohran-mamdani-cannot-be-boxed?traffic_source=rss" target="_blank">Zohran Mamdani cannot be boxed in</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-16 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/google-rolls-out-ai-powered-business-calling-feature-brings-gemini-2-5-pro-to-ai-mode/" target="_blank">Google rolls out AI-powered business calling feature, brings Gemini 2.5 Pro to AI Mode</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-16 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2409182-0vg1jjq9ua-whr-500x500.webp" alt="Stellantis abandons hydrogen fuel cell development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,47 @@
                 <span class="time">2025-07-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/dkb1-500x500.jpg" alt="Donkey Kong Bananza is a worthy successor to Super Mario Odyssey’s legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/donkey-kong-bananza-is-a-worthy-successor-to-super-mario-odysseys-legacy/" target="_blank">Donkey Kong Bananza is a worthy successor to Super Mario Odyssey’s legacy</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elena_martin_174c6c4aef6a/10-powerful-reasons-why-iot-is-shaping-the-future-of-mobile-app-development-4nji" target="_blank">10 Powerful Reasons Why IoT is Shaping the Future of Mobile App Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/" target="_blank">Fedora SIG changes Python packaging strategy</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-16 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/zero-trust-principles/en/mediumimage/infoqlive-540x400-1752487145764.jpg" alt="Presentation: Designing for Defense: Architecting APIs with Zero Trust Principles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/zero-trust-principles/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Designing for Defense: Architecting APIs with Zero Trust Principles</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-16 15:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/" target="_blank">The Great Unracking: Saying goodbye to the servers at our physical datacenter</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,53 +216,35 @@
                 <span class="time">2025-07-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibmdeveloper/build-a-rag-powered-assistant-4h4h" target="_blank">Build a RAG-powered assistant</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18512972&w=600" alt="Debug Like a Pro in 2025: 10 New Eclipse Java Debugger Features to Enhance Your Productivity (With Spring Boot Examples)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/debug-like-a-pro-in-2025-10-new-eclipse-java-debug" target="_blank">Debug Like a Pro in 2025: 10 New Eclipse Java Debugger Features to Enhance Your Productivity (With Spring Boot Examples)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/the-hidden-economics-of-image-optimization-why-your-cdn-bill-is-just-the-beginning-4bl8" target="_blank">The Hidden Economics of Image Optimization: Why Your CDN Bill is Just the Beginning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/izmroen/edge-first-web-development-why-the-future-of-the-web-is-happening-closer-than-you-think-429e" target="_blank">Edge-First Web Development: Why the Future of the Web Is Happening Closer Than You Think</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/66645e6ccdd20811e457f1822f2470d6.jpg" alt="Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later [Update: It Does]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358" target="_blank">Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later [Update: It Does]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-16 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/hops-315-baby-solar-system.jpg" alt="Wild New Image Shows a Twin of Our Solar System Being Born" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/wild-new-image-shows-a-twin-of-our-solar-system-being-born-2000629996" target="_blank">Wild New Image Shows a Twin of Our Solar System Being Born</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Skoove-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Goodbye Lydia Tar! Learning Piano has never been easier with Skoove" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/goodbye-lydia-tar-learning-piano-has-never-been-easier-with-skoove.html" target="_blank">Goodbye Lydia Tar! Learning Piano has never been easier with Skoove</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-16 15:00</span>
             </div>
         </div>
@@ -263,24 +275,6 @@
                 <span class="time">2025-07-16 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills.jpg" alt="Life-Extension Guru Bryan Johnson Says He Has Way More Microplastics in His Semen Than His Blood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/life-extension-guru-bryan-johnson-says-he-has-way-more-microplastics-in-his-semen-than-his-blood-2000629767" target="_blank">Life-Extension Guru Bryan Johnson Says He Has Way More Microplastics in His Semen Than His Blood</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/BALL-PIT.jpg?fit=1859%2C1165&amp;quality=60&amp;ssl=1" alt="Fyre Festival rights &quot;sold&quot; on eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/fyre-festival-rights-sold-on-ebay.html" target="_blank">Fyre Festival rights &quot;sold&quot; on eBay</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 13:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,31 +289,13 @@
                 <span class="time">2025-07-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/wizard/" target="_blank">Wizard</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752556806-20250716.png" alt="Saturday Morning Breakfast Cereal - Prompt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/prompt" target="_blank">Saturday Morning Breakfast Cereal - Prompt</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
