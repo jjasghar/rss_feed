@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 02:37:11 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-16 03:28:57 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/indonesia-arrests-12-for-trafficking-babies-to-singapore?traffic_source=rss" target="_blank">Indonesia arrests 12 for trafficking babies to Singapore</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 02:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2025-07-15 23:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mike-johnson-ap-jt-250715_1752611952671_hpMain_4x3t_384.jpg" alt="Johnson says Bondi needs to &#x27;come forward and explain&#x27; handling of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/johnson-bondi-forward-explain-handling-epstein-files/story?id=123782633" target="_blank">Johnson says Bondi needs to &#x27;come forward and explain&#x27; handling of Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-15 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687704c3320c1bddbbbe4036/master/pass/Open-Ai-Meta-WIRED.jpg" alt="Another High-Profile OpenAI Researcher Departs for Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jason-wei-open-ai-meta/" target="_blank">Another High-Profile OpenAI Researcher Departs for Meta</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 02:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2025-07-15 22:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6876aa0f40ee0d77bac5b85b/master/pass/Mira-Murati-Cofounders-Business-1258711450.jpg" alt="Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/" target="_blank">Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-15 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-1h17" target="_blank">Azure Fundamentals: Microsoft.AAD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 03:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/yowise/building-roamsense-ai-powered-accommodation-review-analysis-for-romania-3n6e" target="_blank">Building RoamSense: AI-powered accommodation review analysis for Romania</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519302&w=600" alt="Securing Software Delivery: Zero Trust CI/CD Patterns for Modern Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/zero-trust-ci-cd-secure-pipelines" target="_blank">Securing Software Delivery: Zero Trust CI/CD Patterns for Modern Pipelines</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-15 20:00</span>
             </div>
         </div>
 </div>
@@ -304,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
