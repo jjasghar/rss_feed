@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 22:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 23:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbf/live/adcf4f70-6291-11f0-b903-f515e3045d80.jpg" alt="US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp90l77187zo" target="_blank">US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +96,29 @@
                 <span class="time">2025-07-16 18:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-jef-250716_1752668836813_hpMain_4x3t_384.jpg" alt="Trump blasts &#x27;past supporters&#x27; for demanding release of more Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-blasts-epstein-files-release-supporters/story?id=123799343" target="_blank">Trump blasts &#x27;past supporters&#x27; for demanding release of more Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1755494482-500x500.jpg" alt="More VMware cloud partners axed as Broadcom launches new invite-only program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/more-vmware-cloud-partners-axed-as-broadcom-launches-new-invite-only-program/" target="_blank">More VMware cloud partners axed as Broadcom launches new invite-only program</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/" target="_blank">Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-16 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +155,20 @@
                 <span class="time">2025-07-16 19:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/posting-guidelines-crypto-spammer-500x500.jpg" alt="Introducing the Ars Technica Posting Guidelines version 3.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/staff/2025/07/introducing-the-ars-technica-posting-guidelines-version-3-0/" target="_blank">Introducing the Ars Technica Posting Guidelines version 3.0</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c0b9c006ed189517b4339/master/pass/WIRED_Measles-Outbreak.jpg" alt="Can US Measles Outbreaks Be Stopped?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/" target="_blank">Can US Measles Outbreaks Be Stopped?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-16 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2025/" target="_blank">GitHub Availability Report: June 2025</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-16 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519324&w=600" alt="The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/aws-espanol/procesamiento-de-contenido-multimodal-con-strands-agent-y-solo-unas-pocas-lineas-de-codigo-4mkk" target="_blank">Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-16 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/amazon-google-and-vibe-coding-with" target="_blank">Amazon, Google and Vibe Coding with Steve Yegge</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-16 17:34</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
