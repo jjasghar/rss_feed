@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 16:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-16 17:03:29 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-06-jef-250716_1752682494542_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says it&#x27;s &#x27;highly unlikely&#x27; he&#x27;ll fire Fed&#x27;s Powell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Trump says it&#x27;s &#x27;highly unlikely&#x27; he&#x27;ll fire Fed&#x27;s Powell</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-16 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d61/live/59e3ec90-625f-11f0-b877-9f61ae236590.jpg" alt="Trump says it is highly unlikely he will fire US Fed chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4geyrdprwjo" target="_blank">Trump says it is highly unlikely he will fire US Fed chair</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 16:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77c/live/45c0a280-6255-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Starmer suspends four Labour MPs for breaching party discipline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +92,38 @@
                 <span class="time">2025-07-16 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5463723/influencers-recession-tiktok-instagram" target="_blank">The economy is turbulent for influencers, too — here&#x27;s how you might see it online</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/robert-kennedy-1-gty-gmh-250624_1750784720222_hpMain_4x3t_384.jpg" alt="Robert F. Kennedy Jr. fires two top deputies at HHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/robert-kennedy-jr-fires-top-deputies-department-health/story?id=123795370" target="_blank">Robert F. Kennedy Jr. fires two top deputies at HHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/call-of-duty-cheaters-complain-after-activision-launches-new-wave-of-mass-bans/" target="_blank">Call of Duty cheaters complain after Activision launches new wave of mass-bans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-16 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68759710f2b15191c172b27e/master/pass/Dyneema,%20Hyperlite%20Mountain%20Gear%20Collaborate%20on%20New%20Ultralight%20Backpack%20Fabric.png" alt="Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/" target="_blank">Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 16:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_0228-500x500-1752682179.jpeg" alt="Mac graphics settings for Cyberpunk 2077 aim for console-like simplicity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/cyberpunk-2077s-mac-port-will-run-on-all-apple-silicon-chips-even-the-aging-m1/" target="_blank">Mac graphics settings for Cyberpunk 2077 aim for console-like simplicity</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,33 +149,6 @@
                 <span class="title"><a href="https://www.wired.com/review/razer-freyja-haptic-gaming-cushion/" target="_blank">Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-16 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1332636603-500x500.jpg" alt="Rough road to “energy dominance” after GOP kneecaps wind and solar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/rough-to-energy-dominance-after-gop-kneecaps-wind-and-solar-power/" target="_blank">Rough road to “energy dominance” after GOP kneecaps wind and solar</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6876dbb724b5ad5a43b039f5/master/pass/AI-Lab-AI-Coding-from-Slack-Messages-Business.jpg" alt="Former Top Google Researchers Have Made A New Kind of AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/" target="_blank">Former Top Google Researchers Have Made A New Kind of AI Agent</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-16 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour" target="_blank">How Knox Morris went from TikToker to rock star</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-16 13:00</span>
             </div>
         </div>
 </div>
@@ -218,9 +212,41 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/hacking-trains.html" target="_blank">Hacking Trains</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-16 16:57</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/July-16-2025-Iceland-fissure-eruption-lava-flow.jpg" alt="A Mile-Long Gateway to Hell Opens Up in Iceland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-mile-long-gateway-to-hell-opens-up-in-iceland-2000630127" target="_blank">A Mile-Long Gateway to Hell Opens Up in Iceland</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/umumasume.jpg?fit=570%2C480&amp;quality=60&amp;ssl=1" alt="Horse racing but it&#x27;s anime girls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/horse-racing-but-its-anime-girls.html" target="_blank">Horse racing but it&#x27;s anime girls</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/66645e6ccdd20811e457f1822f2470d6.jpg" alt="Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later [Update: It Does]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -228,6 +254,15 @@
                 <span class="title"><a href="https://kotaku.com/cyberpunk-2077-2-3-update-patch-stream-autopilot-cars-1851786358" target="_blank">Cyberpunk 2077&#x27;s New Patch May Fix One Of The Game&#x27;s Biggest Annoyances Five Years Later [Update: It Does]</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-16 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K09WTTBR0SWH07EXW385FT8W/hero-image.png" alt="This 2nd Gen Google Nest Cam Just Dropped $50 on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/2nd-gen-google-nest-cam-50-off-amazon?utm_medium=RSS" target="_blank">This 2nd Gen Google Nest Cam Just Dropped $50 on Amazon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-16 15:30</span>
             </div>
         </div>
 <div class="story">
@@ -248,38 +283,20 @@
                 <span class="time">2025-07-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K09S8FFX39KAYT97G647TJMS/hero-image.jpg" alt="The Public Beta for iOS 26 Might Drop Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-public-beta-for-ios-26-might-drop-next-week?utm_medium=RSS" target="_blank">The Public Beta for iOS 26 Might Drop Next Week</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-16 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/image-50.png?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="It is finally the year of Linux on the Desktop: free OS reaches 5% market share" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/it-is-finally-the-year-of-linux-on-the-desktop-free-os-reaches-5-market-share.html" target="_blank">It is finally the year of Linux on the Desktop: free OS reaches 5% market share</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a1e98137eaf4223d0464d72c9c5d1224.jpg" alt="Sourcing Iron In Dune: Awakening Means Risking Life And Limb" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dune-awakening-iron-farming-ore-craft-refinery-water-1851786388" target="_blank">Sourcing Iron In Dune: Awakening Means Risking Life And Limb</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-16 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752556983-20250717.png" alt="Saturday Morning Breakfast Cereal - Boyfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/boyfriend" target="_blank">Saturday Morning Breakfast Cereal - Boyfriend</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -294,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
