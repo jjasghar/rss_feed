@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 00:05:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 01:29:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +58,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/russia-ukraine-war-list-of-key-events-day-1238?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,238</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 00:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752621476614_nn_kod_house_speaker_calls_for_release_of_epstein_files250715_1920x1080-4kwmep.jpg" alt="House Speaker calls for release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/house-speaker-calls-for-release-of-epstein-files-243296837515" target="_blank">House Speaker calls for release of Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-15 23:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/ai-and-disinformation-prompt-political-rivalries-in-the-philippines?traffic_source=rss" target="_blank">AI and disinformation fuel political rivalries in the Philippines</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-15 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468470/conservative-leaning-thinktank-weighs-in-on-whats-next-for-the-education-department" target="_blank">Conservative-leaning thinktank weighs in on what&#x27;s next for the Education Department</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-15 23:08</span>
             </div>
         </div>
 <div class="story">
@@ -75,33 +108,6 @@
                 <span class="time">2025-07-15 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/g-s1-77698/pam-bondi-jeffrey-epstein-justice-department" target="_blank">Attorney General Bondi brushes aside questions about her handling of Epstein files</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/un-rapporteur-demands-global-action-to-stop-israels-genocide-in-gaza?traffic_source=rss" target="_blank">UN rapporteur demands global action to stop Israel’s ‘genocide’ in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/15/nx-s1-5468585/doge-usda-farmers" target="_blank">U.S. senator wants DOGE out of sensitive farmer payment system</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-15 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +120,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop" target="_blank">Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-15 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/" target="_blank">Of course, Grok’s AI companions want to have sex and burn down schools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-15 23:46</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +167,20 @@
                 <span class="time">2025-07-15 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/us-army-soldier-pleads-guilty-to-hacking-telcos-and-extortion/" target="_blank">US Army soldier pleads guilty to hacking telcos and extortion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gpuhammer.com/" target="_blank">GPUHammer: Rowhammer attacks on GPU memories are practical</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-16 00:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,44 +209,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519302&w=600" alt="Securing Software Delivery: Zero Trust CI/CD Patterns for Modern Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zero-trust-ci-cd-secure-pipelines" target="_blank">Securing Software Delivery: Zero Trust CI/CD Patterns for Modern Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fym0yimje5ey5jm8ccarv.png" alt="Stripe-To-Postgres Sync Engine as standalone Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/supabase/stripe-to-postgres-sync-engine-as-standalone-library-3mcd" target="_blank">Stripe-To-Postgres Sync Engine as standalone Library</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-15 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prachiguptaaaaaaaaaa/javascript-vs-typescript-complete-guide-for-developers-2dm9" target="_blank">JavaScript vs TypeScript: Complete Guide for Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-15 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2019/07/cropped-blender-software-logo-1.jpg?resize=406%2C232&amp;ssl=1" alt="Blender 4.5 LTS Released with ‘Full Vulkan Support’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/blender-4-5-lts-vulkan-support" target="_blank">Blender 4.5 LTS Released with ‘Full Vulkan Support’</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-15 17:22</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/" target="_blank">DOGE Denizen Marko Elez Leaked API Key for xAI</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-15 01:23</span>
             </div>
         </div>
 </div>
@@ -246,6 +238,15 @@
                 <span class="title"><a href="https://gizmodo.com/original-darth-vader-lightsaber-auction-star-wars-2000629787" target="_blank">Become a Master of Evil With Darth Vader’s Actual Lightsaber (if You Have $3 Million)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-15 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K07XTBMX1CCV5XR0GT2QZ54X/hero-image.png" alt="The GoPro Hero 12 Black Is Still $90 Off at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-gopro-hero-12-black-is-still-at-its-prime-day-price?utm_medium=RSS" target="_blank">The GoPro Hero 12 Black Is Still $90 Off at Amazon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-15 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -284,15 +285,6 @@
                 <span class="time">2025-07-15 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5a6de5c80d58758a36639cc2b088f6c6.jpg" alt="Minecraft Adds Jack Black&#x27;s Lava Chicken Song, But You Gotta Do Something Special To Get It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345" target="_blank">Minecraft Adds Jack Black&#x27;s Lava Chicken Song, But You Gotta Do Something Special To Get It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-15 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
