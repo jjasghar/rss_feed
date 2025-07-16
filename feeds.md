@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 13:13:07 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-16 14:02:13 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/russia-monitoring-western-weapons-deliveries-to-ukraine-kremlin-says?traffic_source=rss" target="_blank">Russia monitoring Western weapons deliveries to Ukraine, Kremlin says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 13:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251f/live/e3c84c80-623c-11f0-83d2-4f671b8c1523.jpg" alt="Serious questions for Tories over Afghan data breach, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -59,6 +71,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5463723/influencers-recession-tiktok-instagram" target="_blank">The economy is turbulent for influencers, too — here&#x27;s how you might see it online</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/robert-kennedy-1-gty-gmh-250624_1750784720222_hpMain_4x3t_384.jpg" alt="Robert F. Kennedy Jr. fires two top deputies at HHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/robert-kennedy-jr-fires-top-deputies-department-health/story?id=123795370" target="_blank">Robert F. Kennedy Jr. fires two top deputies at HHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-16 12:54</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +100,20 @@
                 <span class="time">2025-07-16 11:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250528-US-deportations-2-RS-7348b9.jpg" alt="Trump administration restarts third country deportations with flight to Eswatini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/trump-admin-restarts-third-country-deportations-flight-eswatini-rcna219041" target="_blank">Trump administration restarts third country deportations with flight to Eswatini</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-16 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_4x3t_384.jpg" alt="Ukraine braces for Trump’s 50-day window amid escalating Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/ukraine-braces-trumps-50-day-window-amid-escalating/story?id=123791637" target="_blank">Ukraine braces for Trump’s 50-day window amid escalating Russian strikes</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 10:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1332636603-500x500.jpg" alt="Rough road to “energy dominance” after GOP kneecaps wind and solar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/rough-to-energy-dominance-after-gop-kneecaps-wind-and-solar-power/" target="_blank">Rough road to “energy dominance” after GOP kneecaps wind and solar</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 13:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6876dbb724b5ad5a43b039f5/master/pass/AI-Lab-AI-Coding-from-Slack-Messages-Business.jpg" alt="Former Top Google Researchers Have Made A New Kind of AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2025-07-16 10:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/" target="_blank">Chinese authorities are using a new tool to hack seized phones and extract data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/the-data-science-behind-image-optimization-when-machine-learning-meets-web-performance-16e4" target="_blank">The Data Science Behind Image Optimization: When Machine Learning Meets Web Performance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18513019&w=600" alt="ZapBot: Building a Chatbot With OpenAI and Gradio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/zapbot-building-a-chatbot-with-openai-and-gradio" target="_blank">ZapBot: Building a Chatbot With OpenAI and Gradio</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,29 +218,38 @@
                 <span class="time">2025-07-16 09:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/optimizing-search-systems/en/headerimage/optimizing-search-systems-header-1752139120744.jpg" alt="Article: Optimizing Search Systems:  Balancing Speed, Relevance, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/optimizing-search-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Optimizing Search Systems:  Balancing Speed, Relevance, and Scalability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu" target="_blank">ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-16 08:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a1e98137eaf4223d0464d72c9c5d1224.jpg" alt="Sourcing Iron In Dune: Awakening Means Risking Life And Limb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dune-awakening-iron-farming-ore-craft-refinery-water-1851786388" target="_blank">Sourcing Iron In Dune: Awakening Means Risking Life And Limb</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-16 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills.jpg" alt="Life-Extension Guru Bryan Johnson Says He Has Way More Microplastics in His Semen Than His Blood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/life-extension-guru-bryan-johnson-says-he-has-way-more-microplastics-in-his-semen-than-his-blood-2000629767" target="_blank">Life-Extension Guru Bryan Johnson Says He Has Way More Microplastics in His Semen Than His Blood</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/BALL-PIT.jpg?fit=1859%2C1165&amp;quality=60&amp;ssl=1" alt="Fyre Festival rights &quot;sold&quot; on eBay" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/fyre-festival-rights-sold-on-ebay.html" target="_blank">Fyre Festival rights &quot;sold&quot; on eBay</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 13:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bdfdfbee75a70342304a374073f03ed0.jpg" alt="Nintendo&#x27;s Other Switch 2 Exclusive Gets A Limited-Time Demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,33 +275,6 @@
                 <span class="title"><a href="https://gizmodo.com/as-trump-scrubs-climate-reports-nasa-breaks-its-promise-to-save-them-2000629688" target="_blank">As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/09/df4df207f8e4f1a17115a13e65ffa60b.jpg" alt="Joe Rogan Accuses Trump’s Team of Hiding Epstein Files to Protect Powerful People" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/joe-rogan-accuses-trumps-team-of-hiding-epstein-files-to-protect-powerful-figures-2000629857" target="_blank">Joe Rogan Accuses Trump’s Team of Hiding Epstein Files to Protect Powerful People</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Trump pulls out: 2,000 National Guard to withdraw from Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/15/trump-pulls-out-2000-national-guard-to-withdraw-from-los-angeles.html" target="_blank">Trump pulls out: 2,000 National Guard to withdraw from Los Angeles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Propstore-Darth-Vaders-Lightsaber.jpg" alt="Become a Master of Evil With Darth Vader’s Actual Lightsaber (if You Have $3 Million)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/original-darth-vader-lightsaber-auction-star-wars-2000629787" target="_blank">Become a Master of Evil With Darth Vader’s Actual Lightsaber (if You Have $3 Million)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-15 23:15</span>
             </div>
         </div>
 </div>
@@ -311,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
