@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 05:05:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-16 06:01:54 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 05:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469676/la-national-guard-deployment" target="_blank">Pentagon ends deployment of 2,000 National Guard troops in Los Angeles</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 05:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/trump-says-ukraine-should-not-target-moscow?traffic_source=rss" target="_blank">Trump says Ukraine should not target Moscow</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 04:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/russia-ukraine-war-list-of-key-events-day-1238?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,238</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-16 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752621476614_nn_kod_house_speaker_calls_for_release_of_epstein_files250715_1920x1080-4kwmep.jpg" alt="House Speaker calls for release of Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/house-speaker-calls-for-release-of-epstein-files-243296837515" target="_blank">House Speaker calls for release of Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-15 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/15/ai-and-disinformation-prompt-political-rivalries-in-the-philippines?traffic_source=rss" target="_blank">AI and disinformation fuel political rivalries in the Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-15 23:12</span>
             </div>
         </div>
 </div>
@@ -232,6 +232,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Trump pulls out: 2,000 National Guard to withdraw from Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/15/trump-pulls-out-2000-national-guard-to-withdraw-from-los-angeles.html" target="_blank">Trump pulls out: 2,000 National Guard to withdraw from Los Angeles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 00:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Propstore-Darth-Vaders-Lightsaber.jpg" alt="Become a Master of Evil With Darth Vader’s Actual Lightsaber (if You Have $3 Million)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,15 +276,6 @@
                 <span class="time">2025-07-15 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/cow-dog.jpg?fit=1200%2C1032&amp;quality=60&amp;ssl=1" alt="Bizarre cow markings stun readers of 1902 Australian magazine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/15/bizarre-cow-markings-stun-readers-of-1902-australian-magazine.html" target="_blank">Bizarre cow markings stun readers of 1902 Australian magazine</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-15 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
