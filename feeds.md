@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 21:01:54 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-16 22:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/16/nx-s1-5468304/mitochondria-disease-gene-donation-three-parents" target="_blank">How a third parent&#x27;s DNA can prevent an inherited disease</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e23/live/a49702b0-5e75-11f0-a633-790fe0633fd6.jpg" alt="Babies made using three people&#x27;s DNA are born free of hereditary disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn8179z199vo" target="_blank">Babies made using three people&#x27;s DNA are born free of hereditary disease</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-03-jef-250716_1752668836813_hpMain_4x3t_384.jpg" alt="Trump blasts &#x27;stupid,&#x27; &#x27;foolish&#x27; Republicans amid calls to reveal more Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,24 +102,6 @@
                 <span class="time">2025-07-16 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d61/live/59e3ec90-625f-11f0-b877-9f61ae236590.jpg" alt="Trump says he discussed firing Fed chair but &#x27;highly unlikely&#x27; he will" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4geyrdprwjo" target="_blank">Trump says he discussed firing Fed chair but &#x27;highly unlikely&#x27; he will</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/us-deports-immigrants-to-african-country-of-eswatini-amid-rights-concerns?traffic_source=rss" target="_blank">US deports immigrants to African country of Eswatini amid rights concerns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-16 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/beepers-all-in-one-messsaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/" target="_blank">Beeper’s all-in-one messsaging app relaunches with an on-device model and premium upgrades</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-16 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/" target="_blank">India eyes global quantum computer push — and QpiAI is its chosen vehicle</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-16 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription" target="_blank">Google is raising the price of Nest Aware subscriptions again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-16 20:24</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +161,29 @@
                 <span class="time">2025-07-16 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev" target="_blank">GM and Redwood teaming up to make batteries for energy storage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/16/gm-teams-up-with-redwood-materials-to-power-data-centers-with-ev-batteries/" target="_blank">GM teams up with Redwood Materials to power data centers with EV batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519324&w=600" alt="The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/nextjs-middleware-vulnerability" target="_blank">The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-16 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fix-over.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Fixes the Dock’s Inconsistent Radii" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-gives-the-dock-a-rounder-radii" target="_blank">Ubuntu 25.10 Fixes the Dock’s Inconsistent Radii</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-16 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519317&w=600" alt="Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +220,6 @@
                 <span class="time">2025-07-16 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516589&w=600" alt="Engineering High-Scale Real Estate Listings Systems Using Golang, Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/high-scale-real-estate-mls-integration-golang" target="_blank">Engineering High-Scale Real Estate Listings Systems Using Golang, Part 1</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/vulnerability-research/how-to-catch-github-actions-workflow-injections-before-attackers-do/" target="_blank">How to catch GitHub Actions workflow injections before attackers do</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-16 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/plasma.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Plasma centers reduce local crime by 12%, new research finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/plasma-centers-reduce-local-crime-by-12-new-research-finds.html" target="_blank">Plasma centers reduce local crime by 12%, new research finds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 21:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98b04c3e344042eeca84f943fe1450c4.jpg" alt="YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +293,6 @@
                 <span class="time">2025-07-16 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7349371988a88df237fc25781bdbf5da.jpg" alt="EA FC 26&#x27;s Reveal Trailer Is Just EA Responding To All Your Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431" target="_blank">EA FC 26&#x27;s Reveal Trailer Is Just EA Responding To All Your Complaints</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-16 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,13 +325,22 @@
                 <span class="time">2025-07-16 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="Echo Chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3116/" target="_blank">Echo Chamber</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-16 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
