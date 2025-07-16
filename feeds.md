@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 14:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-16 15:01:57 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77c/live/45c0a280-6255-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Starmer suspends three Labour MPs for breaching party discipline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y7zqdwzqyo" target="_blank">Starmer suspends three Labour MPs for breaching party discipline</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +104,29 @@
                 <span class="time">2025-07-16 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_4x3t_384.jpg" alt="Why Trump&#x27;s 50-day window may pose danger for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/ukraine-braces-trumps-50-day-window-amid-escalating/story?id=123791637" target="_blank">Why Trump&#x27;s 50-day window may pose danger for Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/2409182-0vg1jjq9ua-whr-500x500.webp" alt="Stellantis abandons hydrogen fuel cell development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/stellantis-abandons-hydrogen-fuel-cell-development/" target="_blank">Stellantis abandons hydrogen fuel cell development</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6877461760c7c38483ed15ab/master/pass/Review-%20Razer%20Freyja.png" alt="Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/razer-freyja-haptic-gaming-cushion/" target="_blank">Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/GettyImages-1332636603-500x500.jpg" alt="Rough road to “energy dominance” after GOP kneecaps wind and solar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +161,6 @@
                 <span class="title"><a href="https://arstechnica.com/gaming/2025/07/donkey-kong-bananza-is-a-worthy-successor-to-super-mario-odysseys-legacy/" target="_blank">Donkey Kong Bananza is a worthy successor to Super Mario Odyssey’s legacy</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-500x500.png" alt="There could be “dark main sequence” stars at the galactic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/there-may-be-dark-main-sequence-stars-at-the-galactic-center/" target="_blank">There could be “dark main sequence” stars at the galactic center</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing" target="_blank">Here’s what Mac you need for Cyberpunk 2077</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-16 10:57</span>
             </div>
         </div>
 </div>
@@ -224,6 +228,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/hops-315-baby-solar-system.jpg" alt="Wild New Image Shows a Twin of Our Solar System Being Born" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wild-new-image-shows-a-twin-of-our-solar-system-being-born-2000629996" target="_blank">Wild New Image Shows a Twin of Our Solar System Being Born</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K09S8FFX39KAYT97G647TJMS/hero-image.jpg" alt="The Public Beta for iOS 26 Might Drop Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-public-beta-for-ios-26-might-drop-next-week?utm_medium=RSS" target="_blank">The Public Beta for iOS 26 Might Drop Next Week</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-16 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/image-50.png?fit=1920%2C1080&amp;quality=55&amp;ssl=1" alt="It is finally the year of Linux on the Desktop: free OS reaches 5% market share" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/it-is-finally-the-year-of-linux-on-the-desktop-free-os-reaches-5-market-share.html" target="_blank">It is finally the year of Linux on the Desktop: free OS reaches 5% market share</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 13:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a1e98137eaf4223d0464d72c9c5d1224.jpg" alt="Sourcing Iron In Dune: Awakening Means Risking Life And Limb" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -248,33 +279,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/16/fyre-festival-rights-sold-on-ebay.html" target="_blank">Fyre Festival rights &quot;sold&quot; on eBay</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-16 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bdfdfbee75a70342304a374073f03ed0.jpg" alt="Nintendo&#x27;s Other Switch 2 Exclusive Gets A Limited-Time Demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-drag-x-drive-basketball-free-demo-1851786377" target="_blank">Nintendo&#x27;s Other Switch 2 Exclusive Gets A Limited-Time Demo</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/zelda-movie-casting-link-zelda.jpg" alt="Nintendo Has Found Its Live-Action Link and Zelda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/legend-of-zelda-movie-casting-link-zelda-sony-nintendo-2000629929" target="_blank">Nintendo Has Found Its Live-Action Link and Zelda</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 11:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/NASA-sign.jpg" alt="As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-trump-scrubs-climate-reports-nasa-breaks-its-promise-to-save-them-2000629688" target="_blank">As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 09:00</span>
             </div>
         </div>
 </div>
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
