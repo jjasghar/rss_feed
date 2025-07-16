@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 08:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-07-16 09:03:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off | July 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/687704c3320c1bddbbbe4036/master/pass/Open-Ai-Meta-WIRED.jpg" alt="Another High-Profile OpenAI Researcher Departs for Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -153,20 +157,29 @@
                 <span class="time">2025-07-15 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/" target="_blank">The Chainsmokers’ Mantis Ventures closes $100M third fund</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/optimizing-search-systems/en/headerimage/optimizing-search-systems-header-1752139120744.jpg" alt="Article: Optimizing Search Systems:  Balancing Speed, Relevance, and Scalability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/optimizing-search-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Optimizing Search Systems:  Balancing Speed, Relevance, and Scalability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-16 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/eswin-computing-launches-the-ebc77-series-single-board-computer-with-ubuntu" target="_blank">ESWIN Computing launches the EBC77 Series Single Board Computer with Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-16 08:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +216,20 @@
                 <span class="time">2025-07-16 03:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devopsfundamentals/azure-fundamentals-microsoftaad-1h17" target="_blank">Azure Fundamentals: Microsoft.AAD</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://geminiprotocol.net/news/2025_06_20.gmi" target="_blank">Six Years of Gemini</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-16 02:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/NASA-sign.jpg" alt="As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/as-trump-scrubs-climate-reports-nasa-breaks-its-promise-to-save-them-2000629688" target="_blank">As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2021/09/df4df207f8e4f1a17115a13e65ffa60b.jpg" alt="Joe Rogan Accuses Trump’s Team of Hiding Epstein Files to Protect Powerful People" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +275,6 @@
                 <span class="time">2025-07-15 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e14f0d917be780e38b19abb2fd3b2b80.jpg" alt="The Second-Best Deus Ex Is Stupid Cheap (And DRM-Free), But Hurry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/deus-ex-human-revolution-gog-drm-sale-1851786362" target="_blank">The Second-Best Deus Ex Is Stupid Cheap (And DRM-Free), But Hurry</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-15 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
