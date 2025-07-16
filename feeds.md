@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 12:02:11 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-16 13:13:07 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251f/live/e3c84c80-623c-11f0-83d2-4f671b8c1523.jpg" alt="Serious questions for Tories over Afghan data breach, says PM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98w2e9leywo" target="_blank">Serious questions for Tories over Afghan data breach, says PM</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-16 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5463723/influencers-recession-tiktok-instagram" target="_blank">The economy is turbulent for influencers, too — here&#x27;s how you might see it online</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250528-US-deportations-2-RS-7348b9.jpg" alt="Trump administration restarts third country deportations with flight to Eswatini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/trump-admin-restarts-third-country-deportations-flight-eswatini-rcna219041" target="_blank">Trump administration restarts third country deportations with flight to Eswatini</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-16 10:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_4x3t_384.jpg" alt="Ukraine braces for Trump’s 50-day window amid escalating Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -69,38 +97,38 @@
                 <span class="time">2025-07-16 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/why-is-europe-facing-record-breaking-heatwaves?traffic_source=rss" target="_blank">Why is Europe facing record-breaking heatwaves?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-16 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5c7/live/2529f650-618f-11f0-904a-1d76e1991eb9.jpg" alt="UK inflation at highest for almost a year and a half" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3en2enpy7po" target="_blank">UK inflation at highest for almost a year and a half</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5c7/live/2529f650-618f-11f0-904a-1d76e1991eb9.jpg" alt="UK inflation hits highest for almost a year and a half" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3en2enpy7po" target="_blank">UK inflation hits highest for almost a year and a half</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 07:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6876dbb724b5ad5a43b039f5/master/pass/AI-Lab-AI-Coding-from-Slack-Messages-Business.jpg" alt="Former Top Google Researchers Have Made A New Kind of AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/" target="_blank">Former Top Google Researchers Have Made A New Kind of AI Agent</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-16 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour" target="_blank">How Knox Morris went from TikToker to rock star</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/dkb1-500x500.jpg" alt="Donkey Kong Bananza is a worthy successor to Super Mario Odyssey’s legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/donkey-kong-bananza-is-a-worthy-successor-to-super-mario-odysseys-legacy/" target="_blank">Donkey Kong Bananza is a worthy successor to Super Mario Odyssey’s legacy</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-500x500.png" alt="There could be “dark main sequence” stars at the galactic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,33 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/" target="_blank">Chinese authorities are using a new tool to hack seized phones and extract data</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-16 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off | July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-16 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687704c3320c1bddbbbe4036/master/pass/Open-Ai-Meta-WIRED.jpg" alt="Another High-Profile OpenAI Researcher Departs for Meta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jason-wei-open-ai-meta/" target="_blank">Another High-Profile OpenAI Researcher Departs for Meta</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-16 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop" target="_blank">Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-15 23:49</span>
             </div>
         </div>
 </div>
@@ -220,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bdfdfbee75a70342304a374073f03ed0.jpg" alt="Nintendo&#x27;s Other Switch 2 Exclusive Gets A Limited-Time Demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-drag-x-drive-basketball-free-demo-1851786377" target="_blank">Nintendo&#x27;s Other Switch 2 Exclusive Gets A Limited-Time Demo</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/zelda-movie-casting-link-zelda.jpg" alt="Nintendo Has Found Its Live-Action Link and Zelda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,15 +274,6 @@
                 <span class="time">2025-07-15 23:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K07XTBMX1CCV5XR0GT2QZ54X/hero-image.png" alt="The GoPro Hero 12 Black Is Still $90 Off at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-gopro-hero-12-black-is-still-at-its-prime-day-price?utm_medium=RSS" target="_blank">The GoPro Hero 12 Black Is Still $90 Off at Amazon</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-15 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
