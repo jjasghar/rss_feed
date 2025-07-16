@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 11:01:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-16 12:02:11 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 16, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/16/zohran-mamdani-cannot-be-boxed?traffic_source=rss" target="_blank">Zohran Mamdani cannot be boxed in</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_4x3t_384.jpg" alt="Why Trump&#x27;s 50-day window may pose danger for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/ukraine-braces-trumps-50-day-window-amid-escalating/story?id=123791637" target="_blank">Why Trump&#x27;s 50-day window may pose danger for Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-16 11:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_4x3t_384.jpg" alt="Ukraine braces for Trump’s 50-day window amid escalating Russian strikes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +96,20 @@
                 <span class="time">2025-07-16 07:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469676/la-national-guard-deployment" target="_blank">Pentagon ends deployment of 2,000 National Guard troops in Los Angeles</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-16 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/trump-says-ukraine-should-not-target-moscow?traffic_source=rss" target="_blank">Trump says Ukraine should not target Moscow</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-16 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/image-500x500.png" alt="There could be “dark main sequence” stars at the galactic center" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/there-may-be-dark-main-sequence-stars-at-the-galactic-center/" target="_blank">There could be “dark main sequence” stars at the galactic center</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-16 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +155,29 @@
                 <span class="time">2025-07-15 23:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/" target="_blank">Of course, Grok’s AI companions want to have sex and burn down schools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-15 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibmdeveloper/build-a-rag-powered-assistant-4h4h" target="_blank">Build a RAG-powered assistant</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-16 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18512972&w=600" alt="Debug Like a Pro in 2025: 10 New Eclipse Java Debugger Features to Enhance Your Productivity (With Spring Boot Examples)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/debug-like-a-pro-in-2025-10-new-eclipse-java-debug" target="_blank">Debug Like a Pro in 2025: 10 New Eclipse Java Debugger Features to Enhance Your Productivity (With Spring Boot Examples)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-16 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +214,20 @@
                 <span class="time">2025-07-16 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harsh_p30/why-i-chose-tailwind-css-as-a-frontend-developer-and-never-looked-back-1b0p" target="_blank">Why I Chose Tailwind CSS as a Frontend Developer — And Never Looked Back</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgtstqrfnhwq2pu6ezb1z.png" alt="Gemini 2.5 API Missing Manual: How to get started (or upgrade from Gemini 1.0/1.5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wescpy/gemini-25-api-missing-manual-how-to-get-started-or-upgrade-from-gemini-1015-1el6" target="_blank">Gemini 2.5 API Missing Manual: How to get started (or upgrade from Gemini 1.0/1.5)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 04:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/zelda-movie-casting-link-zelda.jpg" alt="Nintendo Has Found Its Live-Action Link and Zelda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/legend-of-zelda-movie-casting-link-zelda-sony-nintendo-2000629929" target="_blank">Nintendo Has Found Its Live-Action Link and Zelda</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 11:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/NASA-sign.jpg" alt="As Trump Scrubs Climate Reports, NASA Breaks Its Promise to Save Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +273,6 @@
                 <span class="time">2025-07-15 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/colin-farrell-cristin-milioti-2.jpg" alt="You’re Gonna Be Waiting a While for the Return of ‘Last of Us’ or ‘Penguin’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/youre-gonna-be-waiting-a-while-for-the-return-of-last-of-us-or-penguin-2000629695" target="_blank">You’re Gonna Be Waiting a While for the Return of ‘Last of Us’ or ‘Penguin’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-15 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
