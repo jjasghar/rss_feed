@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 14:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 15:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099d/live/ee1ccda0-62f5-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Iraq&#x27;s shopping centre fire leaves 61 dead, many missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">Iraq&#x27;s shopping centre fire leaves 61 dead, many missing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-17 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bondi-2-rt-er-250715_1752605645344_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Attorney General Bondi to visit Alcatraz, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Attorney General Bondi to visit Alcatraz, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 13:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +102,6 @@
                 <span class="time">2025-07-17 11:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6261/live/5feac8d0-62f4-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Voting age to be lowered to 16 by next general election" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c628ep4j5kno" target="_blank">Voting age to be lowered to 16 by next general election</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 11:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/g-s1-78019/up-first-newsletter-rescission-package-israel-syria-trump-jerome-powell" target="_blank">Rescission package heads to final vote. And, Trump floats firing the Fed chairman</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,10 +110,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/" target="_blank">Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68781eb9842904aa24581672/master/pass/The%20Best%20Hall%20Effect%20Keyboards%20for%20Gamers%20and%20Serious%20Typists.png" alt="3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-hall-effect-keyboards/" target="_blank">3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-17 14:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search" target="_blank">Perplexity’s CEO on why the browser is AI&amp;#8217;s killer app</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2215816697-500x500.jpg" alt="Feds tell automakers to forget about paying fuel economy fines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/feds-let-automakers-off-the-hook-for-fuel-economy-violations/" target="_blank">Feds tell automakers to forget about paying fuel economy fines</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-17 13:27</span>
             </div>
         </div>
 <div class="story">
@@ -135,38 +161,20 @@
                 <span class="time">2025-07-17 12:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant" target="_blank">Slack says its AI can make sense of your company&amp;#8217;s jargon</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/" target="_blank">Slack bolsters search with AI, adds transcriptions and summaries for huddles</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="9 Best MagSafe Wallets, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">9 Best MagSafe Wallets, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 11:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514873&w=600" alt="Rapid AWS Prototyping With LocalStack: A Developer’s Guide to Building AWS PoCs Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-serverless-poc-using-localstack" target="_blank">Rapid AWS Prototyping With LocalStack: A Developer’s Guide to Building AWS PoCs Locally</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18513191&w=600" alt="11 Best Practices for Developing Secure Web Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +220,6 @@
                 <span class="time">2025-07-17 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Proxy-Execution" target="_blank">Single RunQueue Proxy Execution Appears Ready For Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-17 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Techno-G-Fold-Concept-5-Hero.jpg" alt="This ‘G’ Tri-Fold Phone Bends in Ways That Make Me Uncomfortable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-g-tri-fold-phone-bends-in-ways-that-make-me-uncomfortable-2000630685" target="_blank">This ‘G’ Tri-Fold Phone Bends in Ways That Make Me Uncomfortable</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/incomm.jpg?fit=778%2C643&amp;quality=60&amp;ssl=1" alt="Scientology&#x27; s custom mechanical keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/17/scientology-s-custom-mechanical-keyboard.html" target="_blank">Scientology&#x27; s custom mechanical keyboard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-17 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JX0XMBE6NBHEWTXEMW4ADQ6B/hero-image.jpg" alt="Eight Settings I Changed to Have a ’Dumb Phone Summer’ With My iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-i-turned-my-iphone-into-a-dumbphone?utm_medium=RSS" target="_blank">Eight Settings I Changed to Have a ’Dumb Phone Summer’ With My iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-17 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/07/bfe320b26bdf046c5754c43700fad9c5.jpg" alt="Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,33 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/hoppers-trailer-pixar-animation-teaser-inside-out-2-1851786456" target="_blank">Pixar&#x27;s Hoppers Asks, What If Avatar Had Been About Beavers?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Wicked-for-good-Mattel-Dorothy-Glinda.jpg" alt="Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mattels-new-wicked-for-good-toys-give-us-a-spoilery-glimpse-at-the-wizard-of-oz-crew-2000630251" target="_blank">Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-16 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/A-_245.3m-rock-from-Mars.-Photo-Sothebys.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Meteorite from Mars fetches $5.3 million at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/meteorite-from-mars-fetches-5-3-million-at-auction.html" target="_blank">Meteorite from Mars fetches $5.3 million at auction</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0AC6FNC542X16P35F0PCJNW/hero-image.png" alt="Wireless Charging Is About to Get a Lot Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/qi2-wireless-charging-upgrade?utm_medium=RSS" target="_blank">Wireless Charging Is About to Get a Lot Faster</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-16 22:30</span>
             </div>
         </div>
 </div>
@@ -340,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
