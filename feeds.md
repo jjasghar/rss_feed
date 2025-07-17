@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 13:12:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-17 14:01:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -86,21 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6261/live/5feac8d0-62f4-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Voting age to be lowered to 16 by next general election" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c628ep4j5kno" target="_blank">Voting age to be lowered to 16 by next general election</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-17 11:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/17/g-s1-78019/up-first-newsletter-rescission-package-israel-syria-trump-jerome-powell" target="_blank">Rescission package heads to final vote. And, Trump floats firing the Fed chairman</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-17 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/french-court-orders-pro-palestinian-lebanese-fighter-freed-after-40-years?traffic_source=rss" target="_blank">French court orders pro-Palestinian Lebanese fighter freed after 40 years</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 10:26</span>
             </div>
         </div>
 </div>
@@ -111,10 +111,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search" target="_blank">Perplexity’s CEO on why the browser is AI&amp;#8217;s killer app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/" target="_blank">Uber makes multi-million-dollar investment in Lucid and Nuro to build a premium robotaxi service</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-17 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68782ce860e77bea9f197500/master/pass/Review%20-%20LEAD%20Shark%20Steam%20Pickup%203-in-1%202%20Hard%20Floor%20Cleaner%20(SD201)%20Source%20Louryn%20Strampe.png" alt="Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/" target="_blank">Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-17 12:05</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +162,20 @@
                 <span class="time">2025-07-17 11:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Ars-Technica-Apple-CarPlay-Ultra-42-500x500.jpg" alt="Everything we learned from a week with Apple CarPlay Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/" target="_blank">Everything we learned from a week with Apple CarPlay Ultra</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy" target="_blank">Roblox will require a facial scan or government ID to have unfiltered chats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18513191&w=600" alt="11 Best Practices for Developing Secure Web Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/11-best-practices-for-developing-secure-web-application" target="_blank">11 Best Practices for Developing Secure Web Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgehoo7jm8z9rrnko3rkw.png" alt="What’s Missing With AI-Generated Code? Refactoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/_steve_fenton_/whats-missing-with-ai-generated-code-refactoring-20h6" target="_blank">What’s Missing With AI-Generated Code? Refactoring</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/" target="_blank">My bank keeps on undermining anti-phishing education</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-17 12:04</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Proxy-Execution" target="_blank">Single RunQueue Proxy Execution Appears Ready For Linux 6.17</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-17 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMDGPU-Hibernation" target="_blank">Linux 6.17 To Fix AMDGPU Hibernation So It Doesn&#x27;t Take ~50 Minutes On Large GPU Servers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-17 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fps5htmadwh86e87ktc69.png" alt="How High-Quality Ad Creation Is Transforming Brand Growth for Modern Businesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devarticles/how-high-quality-ad-creation-is-transforming-brand-growth-for-modern-businesses-110o" target="_blank">How High-Quality Ad Creation Is Transforming Brand Growth for Modern Businesses</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 09:46</span>
             </div>
         </div>
 </div>
@@ -340,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
