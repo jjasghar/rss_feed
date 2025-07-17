@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 12:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 13:12:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/former-colonial-ruler-france-hands-over-its-last-military-bases-in-senegal?traffic_source=rss" target="_blank">Former colonial ruler France hands over its last military bases in Senegal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/1238530020/connie-francis-dead" target="_blank">1960s pop star Connie Francis has died. The singer&#x27;s life was touched by tragedies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 12:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +103,20 @@
                 <span class="time">2025-07-17 10:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5469816/israel-launches-airstrikes-on-the-syrian-capital-of-damascus" target="_blank">Israel launches airstrikes on the Syrian capital of Damascus</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-06-jef-250716_1752682494542_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Senate narrowly approves $9 billion budget claw back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Senate narrowly approves $9 billion budget claw back</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/" target="_blank">Uber makes multi-million-dollar investment in Lucid and Nuro to build a premium robotaxi service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 12:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +162,20 @@
                 <span class="time">2025-07-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/" target="_blank">Roblox introduces new safeguards for teens, including age estimation tech</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgehoo7jm8z9rrnko3rkw.png" alt="What’s Missing With AI-Generated Code? Refactoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_steve_fenton_/whats-missing-with-ai-generated-code-refactoring-20h6" target="_blank">What’s Missing With AI-Generated Code? Refactoring</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 12:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/augmented-reality-maps/en/mediumimage/ohan-oda-medium-1752150885065.jpg" alt="Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,20 +221,20 @@
                 <span class="time">2025-07-17 09:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://2025.europe.foss4g.org/livestream/" target="_blank">FOSS4G Europe 2025 Live Streaming</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 09:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html" target="_blank">Security Vulnerabilities in ICEBlock</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-17 11:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/07/bfe320b26bdf046c5754c43700fad9c5.jpg" alt="Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wall-streets-ai-bubble-is-worse-than-the-1999-dot-com-bubble-warns-a-top-economist-2000630487" target="_blank">Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +303,6 @@
                 <span class="time">2025-07-16 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/escalator.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Woman heroically walks up down escalator, destroys morning commute, refuses to be told things" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/woman-heroically-walks-up-down-escalator-destroys-morning-commute-refuses-to-be-told-things.html" target="_blank">Woman heroically walks up down escalator, destroys morning commute, refuses to be told things</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
