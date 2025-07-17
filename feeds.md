@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 20:01:39 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-17 21:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/elon-musk-gty-jef-250717_1752776773715_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343" target="_blank">&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump" target="_blank">A &#x27;Crypto Week&#x27; win: Congress passes 1st major crypto legislation in the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 20:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +99,20 @@
                 <span class="time">2025-07-17 18:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump underwent vascular testing because of leg swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump underwent vascular testing because of leg swelling: White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 18:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump had vascular testing because of leg swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump had vascular testing because of leg swelling: White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable" target="_blank">Anker’s new charging station battles desktop clutter with two retractable USB-C cables</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2025-07-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 12 Switch 2 cases and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516710&w=600" alt="Terraform vs Pulumi vs SST: A Tradeoffs Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/iac-tool-comparison-terraform-pulumi-sst" target="_blank">Terraform vs Pulumi vs SST: A Tradeoffs Analysis</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="time">2025-07-17 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/ed1d099e-2421-4f95-a2be-217af574d599_420x300.png" alt="The Pulse #140: Does Cursor make developers less effective?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-140" target="_blank">The Pulse #140: Does Cursor make developers less effective?</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-17 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106.jpg" alt="ChatGPT Agent Wants You to Hand Over Full Control of Your Computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/chatgpt-agent-wants-you-to-hand-over-full-control-of-your-computer-2000630925" target="_blank">ChatGPT Agent Wants You to Hand Over Full Control of Your Computer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/974c727be964228690180678e655dc96.png" alt="Esports Player Changes Name From ‘Hitler’ To ‘Henry’ And Apologizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pubg-moble-player-hitler-henry-apology-name-change-1851786533" target="_blank">Esports Player Changes Name From ‘Hitler’ To ‘Henry’ And Apologizes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Arcane-Riot-Games-League-of-Legends.jpg" alt="‘Arcane’ Season 2 Gets a Lavish Home Release, Just in Time for Emmy Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="time">2025-07-17 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="Check out this big, beautiful billboard depicting Trump as &quot;Swamp King&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/17/check-out-this-big-beautiful-billboard-depicting-trump-as-swamp-king.html" target="_blank">Check out this big, beautiful billboard depicting Trump as &quot;Swamp King&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-17 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CQ2SS3QDBNP666AZ416ZMK/hero-image.png" alt="My Favorite Amazon Deal of the Day: This Massive Hisense U7 QLED TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-u7-qled-tv-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: This Massive Hisense U7 QLED TV</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,6 +302,15 @@
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/puddle/" target="_blank">Puddle</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
                 <span class="time">2025-07-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752557080-20250718.png" alt="Saturday Morning Breakfast Cereal - Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/code" target="_blank">Saturday Morning Breakfast Cereal - Code</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-17 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -321,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
