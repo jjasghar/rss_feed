@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 03:28:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 04:13:12 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 04:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/17/its-just-better-trump-says-hes-convinced-coca-cola-to-use-cane-sugar?traffic_source=rss" target="_blank">‘It’s just better!’ Trump says he has convinced Coca-Cola to use cane sugar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 01:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2025-07-16 23:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752707590731_nn_gha_trump_slams_some_supporters_over_epstein_files_250716_1920x1080-w1066e.jpg" alt="Trump slams some supporters over Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-slams-some-supporters-over-epstein-files-243363909638" target="_blank">Trump slams some supporters over Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-16 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/" target="_blank">Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2025-07-16 20:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription" target="_blank">Google is raising the price of Nest Aware subscriptions again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-16 20:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moni121189/graph-or-chain-choosing-the-right-engine-for-your-ai-app-3fo0" target="_blank">Graph or Chain? Choosing the Right Engine for Your AI App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 03:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhvs6dwpzm7uxsu3low8.png" alt="Crafting Visual Designs with AI: Design-Focused Prompting Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/david_ocean_d-libro/crafting-visual-designs-with-ai-design-focused-prompting-explained-4909" target="_blank">Crafting Visual Designs with AI: Design-Focused Prompting Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 01:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/" target="_blank">“Reading Rainbow” was created to combat summer reading slumps</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-17 00:43</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/nextjs-middleware-vulnerability" target="_blank">The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fix-over.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Fixes Something You Didn’t Know Needed Fixing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-gives-the-dock-a-rounder-radii" target="_blank">Ubuntu 25.10 Fixes Something You Didn’t Know Needed Fixing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-16 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fix-over.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Fixes the Dock’s Inconsistent Radii" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-gives-the-dock-a-rounder-radii" target="_blank">Ubuntu 25.10 Fixes the Dock’s Inconsistent Radii</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-16 19:50</span>
             </div>
         </div>
 </div>
@@ -331,22 +332,13 @@
                 <span class="time">2025-07-16 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="Echo Chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3116/" target="_blank">Echo Chamber</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-16 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
