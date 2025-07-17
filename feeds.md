@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 02:37:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 03:28:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 02:37 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +52,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/17/its-just-better-trump-says-hes-convinced-coca-cola-to-use-cane-sugar?traffic_source=rss" target="_blank">‘It’s just better!’ Trump says he’s convinced Coca-Cola to use cane sugar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-17 01:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/16/g-s1-77971/veterans-help-congress-va-foreclosure" target="_blank">Thousands of veterans get help from Congress to save their homes from foreclosure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 00:24</span>
             </div>
         </div>
 <div class="story">
@@ -81,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-tomorrowland-belgium_6966626.jpg?20250716234247" alt="&#x27;Devastating&#x27; blaze destroys main stage at major festival - two days before it was due to begin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752707590731_nn_gha_trump_slams_some_supporters_over_epstein_files_250716_1920x1080-w1066e.jpg" alt="Trump slams some supporters over Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/tomorrowland-devastating-blaze-destroys-main-stage-at-major-festival-two-days-before-it-was-due-to-begin-13397743" target="_blank">&#x27;Devastating&#x27; blaze destroys main stage at major festival - two days before it was due to begin</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-16 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbf/live/adcf4f70-6291-11f0-b903-f515e3045d80.jpg" alt="US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp90l77187zo" target="_blank">US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 21:48</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-slams-some-supporters-over-epstein-files-243363909638" target="_blank">Trump slams some supporters over Epstein files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-16 23:13</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage" target="_blank">Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-16 23:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1755494482-500x500.jpg" alt="More VMware cloud partners axed as Broadcom launches new invite-only program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +158,6 @@
                 <span class="time">2025-07-16 20:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/incest-500x500-1752693605.png" alt="Steam cracks down on some sex games to appease payment processors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/steam-cracks-down-on-some-sex-games-to-appease-payment-processors/" target="_blank">Steam cracks down on some sex games to appease payment processors</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 19:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/david_ocean_d-libro/crafting-visual-designs-with-ai-design-focused-prompting-explained-4909" target="_blank">Crafting Visual Designs with AI: Design-Focused Prompting Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 01:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ESWIN-EBC77-RISC-V-single-board-computer.jpg?resize=406%2C232&amp;ssl=1" alt="New RISC-V SBC Supports Ubuntu 24.04, Won’t Run Future Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/eswin-ebc77-risc-v-sbc-ubuntu-24-04-support" target="_blank">New RISC-V SBC Supports Ubuntu 24.04, Won’t Run Future Releases</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-16 22:05</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +217,6 @@
                 <span class="time">2025-07-16 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.1.6-Released" target="_blank">Mesa 25.1.6 Released With Intel Xe3 Panther Lake Graphics Enabled By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-16 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/mattels-new-wicked-for-good-toys-give-us-a-spoilery-glimpse-at-the-wizard-of-oz-crew-2000630251" target="_blank">Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/A-_245.3m-rock-from-Mars.-Photo-Sothebys.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Meteorite from Mars fetches $5.3 million at auction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/meteorite-from-mars-fetches-5-3-million-at-auction.html" target="_blank">Meteorite from Mars fetches $5.3 million at auction</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 22:56</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/youtuber-retro-gaming-jail-time-italy-once-were-nerd-1851786451" target="_blank">YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-16 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0A7FGW7YP1R71VWVKK92ERM/hero-image.png" alt="Google Is Dropping Chrome Support for These Macs Soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/chrome-will-stop-working-on-these-macs-soon?utm_medium=RSS" target="_blank">Google Is Dropping Chrome Support for These Macs Soon</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-16 20:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:37 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
