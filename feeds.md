@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 22:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-17 23:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/low-turnout-in-togo-municipal-polls-after-deadly-protests?traffic_source=rss" target="_blank">Low turnout in Togo municipal polls after deadly protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5467260/trump-emil-bove-judge" target="_blank">Senate panel approves federal judge nomination for Emil Bove, who defended Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6da/live/856f9020-6350-11f0-ba6f-83c0b591c748.jpg" alt="Child dies and 21 injured after school coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-17 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/tool-of-a-tyrant-former-fbi-head-james-comeys-daughter-fired-by-trump?traffic_source=rss" target="_blank">‘Tool of a tyrant’: Former FBI head James Comey’s daughter fired by Trump</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/slovenia-bars-far-right-israeli-cabinet-ministers-ben-gvir-and-smotrich?traffic_source=rss" target="_blank">Slovenia bars far-right Israeli cabinet ministers Ben-Gvir and Smotrich</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 18:48</span>
             </div>
         </div>
 </div>
@@ -158,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625" target="_blank">New Choice for Cross-Platform Web Service Development(5643)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/LLVM-21.1-rc1" target="_blank">LLVM 21.1-rc1 Released For Testing: Better RISC-V Support, AMD GFX1250 &amp; NVIDIA GB10</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,15 +218,6 @@
                 <span class="time">2025-07-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tmorin/architecture-that-delivers-real-value-not-just-diagrams-3ldm" target="_blank">📄 Architecture That Delivers Real Value — Not Just Diagrams</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Star-Wars-Reylo-kiss.jpg" alt="Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/love-hypothesis-movie-reylo-daisy-ridley-tom-bateman-2000630979" target="_blank">Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f1bac605f1169e2dc476ceaea31a1f33.jpg" alt="The New RoboCop Game Is A Fun But Shallow Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/robocop-rogue-city-unfinished-business-expansion-review-1851786534" target="_blank">The New RoboCop Game Is A Fun But Shallow Spin-Off</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106.jpg" alt="ChatGPT Agent Wants You to Hand Over Full Control of Your Computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +291,6 @@
                 <span class="time">2025-07-17 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/RFK.jpg" alt="More Signs RFK Jr. Wants to Be Your President in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/more-signs-rfk-jr-wants-to-be-your-president-in-2028-2000630731" target="_blank">More Signs RFK Jr. Wants to Be Your President in 2028</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b45a1eb0561926d56d91e428b7a52095.jpg" alt="New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tron-3-ares-jared-leto-trailer-official-nin-new-song-1851786513" target="_blank">New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
