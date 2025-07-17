@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 10:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-17 11:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/french-court-orders-pro-palestinian-lebanese-fighter-freed-after-40-years?traffic_source=rss" target="_blank">French court orders pro-Palestinian Lebanese fighter freed after 40 years</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 10:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5469816/israel-launches-airstrikes-on-the-syrian-capital-of-damascus" target="_blank">Israel launches airstrikes on the Syrian capital of Damascus</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 10:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-06-jef-250716_1752682494542_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Senate narrowly approves $9 billion budget claw back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +100,29 @@
                 <span class="time">2025-07-17 08:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/how-were-identities-of-thousands-of-afghan-refugees-leaked-by-uk-military?traffic_source=rss" target="_blank">How were identities of thousands of Afghan refugees leaked by UK military?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/b34d5a00-62e1-11f0-80b4-633e269c65cb.png" alt="Deadly fire rips through shopping centre in Iraq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">Deadly fire rips through shopping centre in Iraq</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 06:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy" target="_blank">Roblox will require a facial scan or government ID to have unfiltered chats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/" target="_blank">Roblox introduces new safeguards for teens, including age estimation tech</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +159,20 @@
                 <span class="time">2025-07-17 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage" target="_blank">Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-16 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1755494482-500x500.jpg" alt="More VMware cloud partners axed as Broadcom launches new invite-only program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/more-vmware-cloud-partners-axed-as-broadcom-launches-new-invite-only-program/" target="_blank">More VMware cloud partners axed as Broadcom launches new invite-only program</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-16 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025" target="_blank">UbuCon Africa and DjangoCon Africa 2025</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-07-17 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88" target="_blank">My Journey: Discovering the Relationship Between Kali Linux and Black Arch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-29/" target="_blank">FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-17 04:27</span>
             </div>
         </div>
 </div>
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
