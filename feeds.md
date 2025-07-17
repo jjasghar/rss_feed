@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 00:05:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 01:29:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -194,6 +188,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.1.6-Released" target="_blank">Mesa 25.1.6 Released With Intel Xe3 Panther Lake Graphics Enabled By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-16 19:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519317&w=600" alt="Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -209,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/nextblockcms/why-were-betting-on-a-monorepo-for-nextblock-cms-l6c" target="_blank">Why We&#x27;re Betting on a Monorepo for NextBlock CMS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-16 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717518%2Fb550b165-b8b9-405d-acfb-e5dc846765b0.png" alt="Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-espanol/procesamiento-de-contenido-multimodal-con-strands-agent-y-solo-unas-pocas-lineas-de-codigo-4mkk" target="_blank">Procesamiento de Contenido Multimodal con Strands Agent y solo unas pocas líneas de código</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 17:59</span>
             </div>
         </div>
 </div>
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Wicked-for-good-Mattel-Dorothy-Glinda.jpg" alt="Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mattels-new-wicked-for-good-toys-give-us-a-spoilery-glimpse-at-the-wizard-of-oz-crew-2000630251" target="_blank">Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0AC6FNC542X16P35F0PCJNW/hero-image.png" alt="Wireless Charging Is About to Get a Lot Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/qi2-wireless-charging-upgrade?utm_medium=RSS" target="_blank">Wireless Charging Is About to Get a Lot Faster</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-16 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/escalator.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Woman heroically walks up down escalator, destroys morning commute, refuses to be told things" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/chrome-will-stop-working-on-these-macs-soon?utm_medium=RSS" target="_blank">Google Is Dropping Chrome Support for These Macs Soon</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Alpha-Universe-July-RXAnnouncement-Main.webp?fit=2000%2C1121&amp;quality=55&amp;ssl=1" alt="Sony&#x27;s RX1R III fixed-lens flagship: old sensor, new price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/sonys-new-fixed-lens-flagship-old-sensor-new-price.html" target="_blank">Sony&#x27;s RX1R III fixed-lens flagship: old sensor, new price</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/Jan-30-2025-President-Donald-Trump-speaks-at-a-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Yikes! Trump is &quot;surprised&quot; that Powell runs Fed Reserve — forgets that he himself hired him (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/yikes-trump-is-surprised-that-powell-runs-fed-reserve-forgets-that-he-himself-hired-him-video.html" target="_blank">Yikes! Trump is &quot;surprised&quot; that Powell runs Fed Reserve — forgets that he himself hired him (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 18:14</span>
             </div>
         </div>
 </div>
@@ -348,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
