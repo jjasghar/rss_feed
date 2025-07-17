@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 11:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-17 12:02:10 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/17/palestinian-girl-recounts-losing-legs-and-family-in-israeli-attack-in-gaza?traffic_source=rss" target="_blank">Palestinian girl recounts losing legs and family in Israeli attack in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752751616982_tdy_news_7a_senate_trump_250717_1920x1080-czhsc8.jpg" alt="Senate Approves Funding Cuts to Foreign Aid, Public Broadcasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/senate-approves-trump-s-funding-cuts-package-243386949582" target="_blank">Senate Approves Funding Cuts to Foreign Aid, Public Broadcasting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-17 11:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/g-s1-78019/up-first-newsletter-rescission-package-israel-syria-trump-jerome-powell" target="_blank">Rescission package heads to final vote. And, Trump floats firing the Fed chairman</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +102,47 @@
                 <span class="time">2025-07-17 09:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5469933/virginia-data-centers-residents-saying-no" target="_blank">Virginia is for … data centers? Residents are increasingly saying no</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f6/live/78b25a80-62e6-11f0-964a-ff2f7d0da737.jpg" alt="60 dead after fire tears through Iraqi shopping centre, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">60 dead after fire tears through Iraqi shopping centre, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/17/syrian-forces-withdraw-from-suwayda-as-mediation-restores-calm?traffic_source=rss" target="_blank">Syrian forces withdraw from Suwayda as mediation restores calm</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant" target="_blank">Slack says its AI can make sense of your company&amp;#8217;s jargon</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/" target="_blank">Slack bolsters search with AI, adds transcriptions and summaries for huddles</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="9 Best MagSafe Wallets, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">9 Best MagSafe Wallets, Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-17 11:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Ars-Technica-Apple-CarPlay-Ultra-42-500x500.jpg" alt="Everything we learned from a week with Apple CarPlay Ultra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/" target="_blank">Everything we learned from a week with Apple CarPlay Ultra</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,47 +161,20 @@
                 <span class="time">2025-07-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/" target="_blank">TikTok is adding features for songwriters to its app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab" target="_blank">TikTok is putting the spotlight on songwriters</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" alt="Squarespace Promo Codes: 50% Off | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/squarespace-promo-code/" target="_blank">Squarespace Promo Codes: 50% Off | July 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/" target="_blank">Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/augmented-reality-maps/en/mediumimage/ohan-oda-medium-1752150885065.jpg" alt="Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/augmented-reality-maps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-17 11:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +182,15 @@
                 <span class="title"><a href="https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025" target="_blank">UbuCon Africa and DjangoCon Africa 2025</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-07-17 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Proxy-Execution" target="_blank">Single RunQueue Proxy Execution Appears Ready For Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-17 10:36</span>
             </div>
         </div>
 <div class="story">
@@ -192,30 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/articles/digital-banking-products/en/headerimage/digital-banking-products-header-1752561787405.jpg" alt="Article: From Legacy to Value: Building Digital Banking Products Across Central and Eastern Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/digital-banking-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: From Legacy to Value: Building Digital Banking Products Across Central and Eastern Europe</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Furm1ynyxczlcsjk9561h.png" alt="Multinational Marketing: How to Improve Translations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/liamcorwin/multinational-marketing-how-to-improve-translations-49p9" target="_blank">Multinational Marketing: How to Improve Translations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 07:48</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88" target="_blank">My Journey: Discovering the Relationship Between Kali Linux and Black Arch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 04:59</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://2025.europe.foss4g.org/livestream/" target="_blank">FOSS4G Europe 2025 Live Streaming</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-17 09:36</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/an-engineers-diary-reveals-the-human-cost-of-building-openais-next-big-thing-2000630482" target="_blank">An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/176c1ad468e5de5b8812111aff6d0c0f.jpg" alt="Pixar&#x27;s Hoppers Asks, What If Avatar Had Been About Beavers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hoppers-trailer-pixar-animation-teaser-inside-out-2-1851786456" target="_blank">Pixar&#x27;s Hoppers Asks, What If Avatar Had Been About Beavers?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Wicked-for-good-Mattel-Dorothy-Glinda.jpg" alt="Mattel’s New ‘Wicked: For Good’ Toys Give Us a Spoilery Glimpse at the ‘Wizard of Oz’ Crew" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/16/woman-heroically-walks-up-down-escalator-destroys-morning-commute-refuses-to-be-told-things.html" target="_blank">Woman heroically walks up down escalator, destroys morning commute, refuses to be told things</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-16 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/plasma.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Plasma centers reduce local crime by 12%, new research finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/16/plasma-centers-reduce-local-crime-by-12-new-research-finds.html" target="_blank">Plasma centers reduce local crime by 12%, new research finds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-16 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98b04c3e344042eeca84f943fe1450c4.jpg" alt="YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/youtuber-retro-gaming-jail-time-italy-once-were-nerd-1851786451" target="_blank">YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-16 20:55</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
