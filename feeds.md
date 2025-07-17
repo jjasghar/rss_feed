@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 16:01:47 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-17 17:02:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5471391/israel-hamas-war-gaza-catholic-church-priest" target="_blank">Israel hits a Gaza church, killing 3 and wounding a priest who spoke to Pope Francis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099d/live/ee1ccda0-62f5-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Iraq&#x27;s shopping centre fire leaves 61 dead, many missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +94,20 @@
                 <span class="time">2025-07-17 11:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752751616982_tdy_news_7a_senate_trump_250717_1920x1080-czhsc8.jpg" alt="Senate Approves Funding Cuts to Foreign Aid, Public Broadcasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/senate-approves-trump-s-funding-cuts-package-243386949582" target="_blank">Senate Approves Funding Cuts to Foreign Aid, Public Broadcasting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-17 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/" target="_blank">OpenAI launches a general purpose agent in ChatGPT</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +153,38 @@
                 <span class="time">2025-07-17 13:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/" target="_blank">Uber makes multi-million-dollar investment in Lucid and Nuro to build a premium robotaxi service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/ed1d099e-2421-4f95-a2be-217af574d599_420x300.png" alt="The Pulse #140: Does Cursor make developers less effective?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-140" target="_blank">The Pulse #140: Does Cursor make developers less effective?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-17 16:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://onebadbit.com/posts/2025/07/python-and-make-in-2025/" target="_blank">Python and Make in 2025</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-17 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516599&w=600" alt="Best Practices for Syncing Hive Data to Apache Doris :  From Scenario Matching to Performance Tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/syncing-hive-to-apache-doris-best-practices-performance" target="_blank">Best Practices for Syncing Hive Data to Apache Doris :  From Scenario Matching to Performance Tuning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514941&w=600" alt="Migrating Traditional Workloads From Classic Compute to Serverless Compute on Databricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +212,6 @@
                 <span class="time">2025-07-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18513191&w=600" alt="11 Best Practices for Developing Secure Web Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/11-best-practices-for-developing-secure-web-application" target="_blank">11 Best Practices for Developing Secure Web Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgehoo7jm8z9rrnko3rkw.png" alt="What’s Missing With AI-Generated Code? Refactoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_steve_fenton_/whats-missing-with-ai-generated-code-refactoring-20h6" target="_blank">What’s Missing With AI-Generated Code? Refactoring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/pollen-robotics/AmazingHand" target="_blank">Hand: open-source Robot Hand</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 12:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,20 +226,29 @@
                 <span class="time">2025-07-17 11:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/hacking-trains.html" target="_blank">Hacking Trains</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-16 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4bb8ab1e8e479a1a1bbb10b758ff703e.jpg" alt="Help, The PS5 Store Is Flooded With AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494" target="_blank">Help, The PS5 Store Is Flooded With AI Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/boeings-starliner-crew-ship-approach.gif" alt="Boeing’s Starliner Won’t Get to Fly This Year, but the Wonky Spacecraft Is Far From Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/boeings-starliner-wont-get-to-fly-this-year-but-the-wonky-spacecraft-isnt-dead-yet-2000630694" target="_blank">Boeing’s Starliner Won’t Get to Fly This Year, but the Wonky Spacecraft Is Far From Dead</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Mortal-Kombat-II.jpg" alt="The First Trailer for ‘Mortal Kombat II’ Is a Johnny Cage-filled Extravaganza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +285,20 @@
                 <span class="time">2025-07-17 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/incomm.jpg?fit=778%2C643&amp;quality=60&amp;ssl=1" alt="Scientology&#x27; s custom mechanical keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/17/scientology-s-custom-mechanical-keyboard.html" target="_blank">Scientology&#x27; s custom mechanical keyboard</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-17 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JX0XMBE6NBHEWTXEMW4ADQ6B/hero-image.jpg" alt="Eight Settings I Changed to Have a ’Dumb Phone Summer’ With My iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-i-turned-my-iphone-into-a-dumbphone?utm_medium=RSS" target="_blank">Eight Settings I Changed to Have a ’Dumb Phone Summer’ With My iPhone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-17 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/puddle/" target="_blank">Puddle</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-07-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
