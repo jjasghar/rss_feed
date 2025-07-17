@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 19:02:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 20:01:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/tool-of-a-tyrant-former-fbi-head-james-comeys-daughter-fired-by-trump?traffic_source=rss" target="_blank">‘Tool of a tyrant’: Former FBI head James Comey’s daughter fired by Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 18:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/slovenia-bars-far-right-israeli-cabinet-ministers-ben-gvir-and-smotrich?traffic_source=rss" target="_blank">Slovenia bars far-right Israeli cabinet ministers Ben-Gvir and Smotrich</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-17 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2270/live/52db1f70-6324-11f0-bd40-3b148bc1feb0.jpg" alt="British spies and SAS named in Afghan data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4ek9njknvo" target="_blank">British spies and SAS named in Afghan data breach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-17 18:29</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +102,20 @@
                 <span class="time">2025-07-17 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5469945/vogue-vanity-fair-new-yorker-conde-nast-empire-of-the-elite-michael-grynbaum" target="_blank">How did Condé Nast go from dominance to decline? A new book explains</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5471391/israel-hamas-war-gaza-catholic-church-priest" target="_blank">Israel hits a Gaza church, killing 3 and wounding a priest who spoke to Pope Francis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/dems_walkout-zhxnee.jpg" alt="Senate Democrats walk out of hearing on Emil Bove&#x27;s judicial nomination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/senate-democrats-walk-out-of-hearing-on-emil-bove-s-judicial-nomination-243400773503" target="_blank">Senate Democrats walk out of hearing on Emil Bove&#x27;s judicial nomination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-17 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/microsoft-is-buying-tons-of-carbon-removal-from-xprize-startup-vaulted-deep/" target="_blank">Microsoft is buying tons of carbon removal from Xprize startup Vaulted Deep</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 19:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +161,6 @@
                 <span class="time">2025-07-17 15:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/" target="_blank">Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -199,21 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/introducing-chatgpt-agent/" target="_blank">ChatGPT agent: bridging research and action</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-17 17:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/ed1d099e-2421-4f95-a2be-217af574d599_420x300.png" alt="The Pulse #140: Does Cursor make developers less effective?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-140" target="_blank">The Pulse #140: Does Cursor make developers less effective?</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-17 16:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://onebadbit.com/posts/2025/07/python-and-make-in-2025/" target="_blank">Python and Make in 2025</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-17 16:01</span>
             </div>
         </div>
 </div>
@@ -235,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Arcane-Riot-Games-League-of-Legends.jpg" alt="‘Arcane’ Season 2 Gets a Lavish Home Release, Just in Time for Emmy Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/arcane-season-2-gets-a-lavish-home-release-just-in-time-for-emmy-season-2000630806" target="_blank">‘Arcane’ Season 2 Gets a Lavish Home Release, Just in Time for Emmy Season</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CNX0HGVWY8VS4GMX19E9AV/hero-image.jpg" alt="You Can Pre-Order Tickets for Christopher Nolan&#x27;s Next Movie a Year in Advance (for Some Reason)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/christopher-nolan-the-odyssey-imax-ticket-preorders?utm_medium=RSS" target="_blank">You Can Pre-Order Tickets for Christopher Nolan&#x27;s Next Movie a Year in Advance (for Some Reason)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-17 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/RFK.jpg" alt="More Signs RFK Jr. Wants to Be Your President in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +293,6 @@
                 <span class="time">2025-07-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-06-at-8.40.24%E2%80%AFAM-e1747327391943.jpg?fit=768%2C676&amp;quality=60&amp;ssl=1" alt="Man on the street interviews suggest Elon&#x27;s new political party won&#x27;t be a success (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/17/man-on-the-street-interviews-suggest-elons-new-political-party-wont-be-a-success-video.html" target="_blank">Man on the street interviews suggest Elon&#x27;s new political party won&#x27;t be a success (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-17 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CD6NVAA7JTKE9K48NRP5FQ/hero-image.png" alt="Android&#x27;s Canary Channel Lets You Try New Features Before Anyone Else" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-canary-channel-lets-you-try-new-features-before-anyone-else?utm_medium=RSS" target="_blank">Android&#x27;s Canary Channel Lets You Try New Features Before Anyone Else</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-17 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
