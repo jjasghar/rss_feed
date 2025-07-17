@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 18:01:48 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-07-17 19:02:41 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/slovenia-bars-far-right-israeli-cabinet-ministers-ben-gvir-and-smotrich?traffic_source=rss" target="_blank">Slovenia bars far-right Israeli cabinet ministers Ben-Gvir and Smotrich</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump underwent vascular testing because of leg swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump underwent vascular testing because of leg swelling: White House</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 18:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump had vascular testing because of leg swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +98,6 @@
                 <span class="time">2025-07-17 15:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099d/live/ee1ccda0-62f5-11f0-b1b9-2b94c1f6d9f3.jpg" alt="Iraq&#x27;s shopping centre fire leaves 61 dead, many missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">Iraq&#x27;s shopping centre fire leaves 61 dead, many missing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bondi-2-rt-er-250715_1752605645344_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Attorney General Bondi to visit Alcatraz, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Attorney General Bondi to visit Alcatraz, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +110,15 @@
                 <span class="title"><a href="https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale" target="_blank">Here are the best streaming service deals available right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/alien3-500x500.jpg" alt="Synths hunt down deadly monsters in latest Alien: Earth trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/07/fx-hulu-drops-one-last-trailer-for-alien-earth/" target="_blank">Synths hunt down deadly monsters in latest Alien: Earth trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-17 17:57</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +157,38 @@
                 <span class="time">2025-07-17 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68781eb9842904aa24581672/master/pass/The%20Best%20Hall%20Effect%20Keyboards%20for%20Gamers%20and%20Serious%20Typists.png" alt="3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hall-effect-keyboards/" target="_blank">3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h" target="_blank">Manual Testing with AI: Using Playwright MCP for No-Code Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Fixing-AMD-Polaris-Spam" target="_blank">Linux Receiving Fix For AMD Radeon Polaris GPUs Producing Lots Of Log Spam</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-17 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516633&w=600" alt="The Twelve-Factor Agents: Building Production-Ready LLM Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-twelve-factor-agents" target="_blank">The Twelve-Factor Agents: Building Production-Ready LLM Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +216,6 @@
                 <span class="time">2025-07-17 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516599&w=600" alt="Best Practices for Syncing Hive Data to Apache Doris :  From Scenario Matching to Performance Tuning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/syncing-hive-to-apache-doris-best-practices-performance" target="_blank">Best Practices for Syncing Hive Data to Apache Doris :  From Scenario Matching to Performance Tuning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514941&w=600" alt="Migrating Traditional Workloads From Classic Compute to Serverless Compute on Databricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/migrate-classic-to-serverless-databricks" target="_blank">Migrating Traditional Workloads From Classic Compute to Serverless Compute on Databricks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Magma-Cross-Platform" target="_blank">Google Continues Working On &quot;Magma&quot; For Mesa Cross-Platform System Call Interface</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-17 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +236,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/RFK.jpg" alt="More Signs RFK Jr. Wants to Be Your President in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/more-signs-rfk-jr-wants-to-be-your-president-in-2028-2000630731" target="_blank">More Signs RFK Jr. Wants to Be Your President in 2028</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b45a1eb0561926d56d91e428b7a52095.jpg" alt="New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tron-3-ares-jared-leto-trailer-official-nin-new-song-1851786513" target="_blank">New Tron: Ares Trailer Looks Good...Ah, Damn, I Forgot Jared Leto Is In It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="Check out this big, beautiful billboard depicting Trump as &quot;Swamp King&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/17/check-out-this-big-beautiful-billboard-depicting-trump-as-swamp-king.html" target="_blank">Check out this big, beautiful billboard depicting Trump as &quot;Swamp King&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-17 18:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CQ2SS3QDBNP666AZ416ZMK/hero-image.png" alt="My Favorite Amazon Deal of the Day: This Massive Hisense U7 QLED TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-u7-qled-tv-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: This Massive Hisense U7 QLED TV</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-17 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-06-at-8.40.24%E2%80%AFAM-e1747327391943.jpg?fit=768%2C676&amp;quality=60&amp;ssl=1" alt="Man on the street interviews suggest Elon&#x27;s new political party won&#x27;t be a success (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -249,42 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/android-canary-channel-lets-you-try-new-features-before-anyone-else?utm_medium=RSS" target="_blank">Android&#x27;s Canary Channel Lets You Try New Features Before Anyone Else</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4bb8ab1e8e479a1a1bbb10b758ff703e.jpg" alt="Help, The PS5 Store Is Flooded With AI Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494" target="_blank">Help, The PS5 Store Is Flooded With AI Slop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/boeings-starliner-crew-ship-approach.gif" alt="Boeing’s Starliner Won’t Get to Fly This Year, but the Wonky Spacecraft Is Far From Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/boeings-starliner-wont-get-to-fly-this-year-but-the-wonky-spacecraft-isnt-dead-yet-2000630694" target="_blank">Boeing’s Starliner Won’t Get to Fly This Year, but the Wonky Spacecraft Is Far From Dead</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Mortal-Kombat-II.jpg" alt="The First Trailer for ‘Mortal Kombat II’ Is a Johnny Cage-filled Extravaganza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-trailer-for-mortal-kombat-ii-is-a-johnny-cage-filled-extravaganza-2000630199" target="_blank">The First Trailer for ‘Mortal Kombat II’ Is a Johnny Cage-filled Extravaganza</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/43f2d6829afdef2d61bcf76435045e98.jpg" alt="Assassin&#x27;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/netflix-assassins-creed-tv-show-ubisoft-plot-date-1851786489" target="_blank">Assassin&#x27;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 15:37</span>
             </div>
         </div>
 </div>
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
