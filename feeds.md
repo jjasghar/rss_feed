@@ -1,27 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 08:01:58 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-17 09:03:38 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f6/live/78b25a80-62e6-11f0-964a-ff2f7d0da737.jpg" alt="60 dead after fire tears through Iraqi shopping centre, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">60 dead after fire tears through Iraqi shopping centre, officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-17 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +99,20 @@
                 <span class="time">2025-07-17 05:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/g-s1-78006/gulf-coast-storm-tropical-depression" target="_blank">Gulf Coast braces for flooding as storm builds into possible tropical depression</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/" target="_blank">TikTok is adding features for songwriters to its app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +158,20 @@
                 <span class="time">2025-07-16 22:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/" target="_blank">Beeper’s all-in-one messaging app relaunches with an on-device model and premium upgrades</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-16 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/digital-banking-products/en/headerimage/digital-banking-products-header-1752561787405.jpg" alt="Article: From Legacy to Value: Building Digital Banking Products Across Central and Eastern Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/digital-banking-products/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: From Legacy to Value: Building Digital Banking Products Across Central and Eastern Europe</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-17 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Furm1ynyxczlcsjk9561h.png" alt="Multinational Marketing: How to Improve Translations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/david_ocean_d-libro/crafting-visual-designs-with-ai-design-focused-prompting-explained-4909" target="_blank">Crafting Visual Designs with AI: Design-Focused Prompting Explained</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/" target="_blank">“Reading Rainbow” was created to combat summer reading slumps</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 00:43</span>
             </div>
         </div>
 </div>
@@ -319,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
