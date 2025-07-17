@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 01:29:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 02:37:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 02:37 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/17/its-just-better-trump-says-hes-convinced-coca-cola-to-use-cane-sugar?traffic_source=rss" target="_blank">‘It’s just better!’ Trump says he’s convinced Coca-Cola to use cane sugar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 01:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-tomorrowland-belgium_6966626.jpg?20250716234247" alt="&#x27;Devastating&#x27; blaze destroys main stage at major festival - two days before it was due to begin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/tomorrowland-devastating-blaze-destroys-main-stage-at-major-festival-two-days-before-it-was-due-to-begin-13397743" target="_blank">&#x27;Devastating&#x27; blaze destroys main stage at major festival - two days before it was due to begin</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-16 21:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbf/live/adcf4f70-6291-11f0-b903-f515e3045d80.jpg" alt="US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp90l77187zo" target="_blank">US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-16 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/16/nx-s1-5468304/mitochondria-disease-gene-donation-three-parents" target="_blank">How a third parent&#x27;s DNA can prevent an inherited disease</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e23/live/a49702b0-5e75-11f0-a633-790fe0633fd6.jpg" alt="Babies made using three people&#x27;s DNA are born free of hereditary disease" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn8179z199vo" target="_blank">Babies made using three people&#x27;s DNA are born free of hereditary disease</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-16 21:00</span>
             </div>
         </div>
 </div>
@@ -161,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhvs6dwpzm7uxsu3low8.png" alt="Crafting Visual Designs with AI: Design-Focused Prompting Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/david_ocean_d-libro/crafting-visual-designs-with-ai-design-focused-prompting-explained-4909" target="_blank">Crafting Visual Designs with AI: Design-Focused Prompting Explained</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 01:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
@@ -179,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fix-over.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Fixes Something You Didn’t Know Needed Fixing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-gives-the-dock-a-rounder-radii" target="_blank">Ubuntu 25.10 Fixes Something You Didn’t Know Needed Fixing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-16 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fix-over.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Fixes the Dock’s Inconsistent Radii" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.1.6-Released" target="_blank">Mesa 25.1.6 Released With Intel Xe3 Panther Lake Graphics Enabled By Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-16 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519317&w=600" alt="Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ibm-cloud-app-configuration-idp" target="_blank">Optimizing Your IDP Using Centralized Configuration Management With IBM Cloud App Configuration: A Complete Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nextblockcms/why-were-betting-on-a-monorepo-for-nextblock-cms-l6c" target="_blank">Why We&#x27;re Betting on a Monorepo for NextBlock CMS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-16 18:47</span>
             </div>
         </div>
 </div>
@@ -342,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:37 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
