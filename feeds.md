@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 09:03:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 10:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 09:03 UTC</div>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-06-jef-250716_1752682494542_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Senate narrowly approves $9 billion budget claw back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123730069" target="_blank">Trump admin live updates: Senate narrowly approves $9 billion budget claw back</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5469933/virginia-data-centers-residents-saying-no" target="_blank">Virginia is for … data centers? Residents are increasingly saying no</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f6/live/78b25a80-62e6-11f0-964a-ff2f7d0da737.jpg" alt="60 dead after fire tears through Iraqi shopping centre, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">60 dead after fire tears through Iraqi shopping centre, officials say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-17 08:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/17/syrian-forces-withdraw-from-suwayda-as-mediation-restores-calm?traffic_source=rss" target="_blank">Syrian forces withdraw from Suwayda as mediation restores calm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 08:38</span>
             </div>
         </div>
 <div class="story">
@@ -70,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq7d45v5v3o" target="_blank">Deadly fire rips through shopping centre in Iraq</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-17 06:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/17/infectious-diseases-sudan-children-vaccination-rates-immunisation-routine-jabs-measles" target="_blank">Sudan’s children face growing threat of deadly infectious diseases as vaccination rates halve</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-17 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/17/trump-administration-pulls-4bn-in-funds-for-high-speed-rail-in-california?traffic_source=rss" target="_blank">Trump administration pulls $4bn in funds for high-speed rail in California</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 05:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/fifty-people-killed-in-huge-fire-at-hypermarket-in-iraqs-kut?traffic_source=rss" target="_blank">Fifty people killed in huge fire at hypermarket in Iraq’s Kut: INA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 05:34</span>
             </div>
         </div>
 </div>
@@ -164,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMDGPU-Hibernation" target="_blank">Linux 6.17 To Fix AMDGPU Hibernation So It Doesn&#x27;t Take ~50 Minutes On Large GPU Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-17 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fps5htmadwh86e87ktc69.png" alt="How High-Quality Ad Creation Is Transforming Brand Growth for Modern Businesses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devarticles/how-high-quality-ad-creation-is-transforming-brand-growth-for-modern-businesses-110o" target="_blank">How High-Quality Ad Creation Is Transforming Brand Growth for Modern Businesses</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 09:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/digital-banking-products/en/headerimage/digital-banking-products-header-1752561787405.jpg" alt="Article: From Legacy to Value: Building Digital Banking Products Across Central and Eastern Europe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-29/" target="_blank">FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-07-17 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moni121189/graph-or-chain-choosing-the-right-engine-for-your-ai-app-3fo0" target="_blank">Graph or Chain? Choosing the Right Engine for Your AI App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhvs6dwpzm7uxsu3low8.png" alt="Crafting Visual Designs with AI: Design-Focused Prompting Explained" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_ocean_d-libro/crafting-visual-designs-with-ai-design-focused-prompting-explained-4909" target="_blank">Crafting Visual Designs with AI: Design-Focused Prompting Explained</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 01:59</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
