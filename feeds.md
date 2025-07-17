@@ -1,35 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 21:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-17 22:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6da/live/856f9020-6350-11f0-ba6f-83c0b591c748.jpg" alt="Child dies and 21 injured after school coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg538x0lm5o" target="_blank">Child dies and 21 injured after school coach crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-17 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/elon-musk-gty-jef-250717_1752776773715_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +91,29 @@
                 <span class="time">2025-07-17 18:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2270/live/52db1f70-6324-11f0-bd40-3b148bc1feb0.jpg" alt="British spies and SAS named in Afghan data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4ek9njknvo" target="_blank">British spies and SAS named in Afghan data breach</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue" target="_blank">Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68793c5c92c45d3ff90fd1c9/master/pass/ICE-Getting-Unprecedented-Access-Medicaid-Data-Politics-2224826639.jpg" alt="ICE Is Getting Unprecedented Access to Medicaid Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ice-access-medicaid-data/" target="_blank">ICE Is Getting Unprecedented Access to Medicaid Data</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-17 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +150,20 @@
                 <span class="time">2025-07-17 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6843b9c166fee30ac25db143/master/pass/Review-%20Dell%2014%20Plus.png" alt="This Killer Dell 14 Plus Deal Changed My Opinion of the Laptop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dell-14-plus-deal-july-2025/" target="_blank">This Killer Dell 14 Plus Deal Changed My Opinion of the Laptop</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/openai-launches-a-general-purpose-agent-in-chatgpt/" target="_blank">OpenAI launches a general purpose agent in ChatGPT</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-21.1-rc1" target="_blank">LLVM 21.1-rc1 Released For Testing: Better RISC-V Support, AMD GFX1250 &amp; NVIDIA GB10</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-17 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516710&w=600" alt="Terraform vs Pulumi vs SST: A Tradeoffs Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/tmorin/architecture-that-delivers-real-value-not-just-diagrams-3ldm" target="_blank">📄 Architecture That Delivers Real Value — Not Just Diagrams</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/introducing-chatgpt-agent/" target="_blank">ChatGPT agent: bridging research and action</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 17:01</span>
             </div>
         </div>
 </div>
@@ -313,22 +305,13 @@
                 <span class="time">2025-07-17 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/16/discorbs" target="_blank">Discorbs</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-16 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
