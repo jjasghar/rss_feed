@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-16 23:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-17 00:05:14 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, July 16, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/16/g-s1-77847/rescission-clawback-foreign-aid-bill-fraud-waste-abuse" target="_blank">Clawing back foreign aid is tied to &#x27;waste, fraud and abuse.&#x27; What&#x27;s the evidence?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-16 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/why-did-israel-bomb-syria-a-look-at-the-druze-and-the-violence-in-suwayda?traffic_source=rss" target="_blank">Why did Israel bomb Syria? A look at the Druze and the violence in Suwayda</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-16 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/comey-ap-er-250716_1752704952280_hpMain_4x3t_384.jpg" alt="James Comey&#x27;s daughter, and &#x27;Diddy&#x27; prosecutor, fired from SDNY: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/maurene-comey-fired-doj-southern-district-new-york/story?id=123817739" target="_blank">James Comey&#x27;s daughter, and &#x27;Diddy&#x27; prosecutor, fired from SDNY: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-16 23:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbf/live/adcf4f70-6291-11f0-b903-f515e3045d80.jpg" alt="US says &#x27;specific steps&#x27; agreed to end Syria violence after Israeli strikes hit Damascus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn8179z199vo" target="_blank">Babies made using three people&#x27;s DNA are born free of hereditary disease</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-jef-250716_1752668836813_hpMain_4x3t_384.jpg" alt="Trump blasts &#x27;stupid,&#x27; &#x27;foolish&#x27; Republicans amid calls to reveal more Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-blasts-epstein-files-release-supporters/story?id=123799343" target="_blank">Trump blasts &#x27;stupid,&#x27; &#x27;foolish&#x27; Republicans amid calls to reveal more Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469967/trump-federal-reserve-jerome-powell" target="_blank">Trump floats firing the Federal Reserve chair as White House criticism boils</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-16 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/16/nx-s1-5469755/james-craig-trial-colorado-dentist-poison-protein-shakes" target="_blank">A dentist is on trial for allegedly killing his wife with poisoned protein shakes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-16 18:35</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/escalator.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Woman heroically walks up down escalator, destroys morning commute, refuses to be told things" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/16/woman-heroically-walks-up-down-escalator-destroys-morning-commute-refuses-to-be-told-things.html" target="_blank">Woman heroically walks up down escalator, destroys morning commute, refuses to be told things</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-16 22:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/plasma.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Plasma centers reduce local crime by 12%, new research finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,20 +293,20 @@
                 <span class="time">2025-07-16 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0A403V1SPMH42T8P8XDJTFV/hero-image.png" alt="13 Home Maintenance Tasks You Can Do In Just Five Minutes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/easy-daily-home-maintenance-tasks?utm_medium=RSS" target="_blank">13 Home Maintenance Tasks You Can Do In Just Five Minutes</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/16/discorbs" target="_blank">Discorbs</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-16 21:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -333,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
