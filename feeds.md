@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 04:13:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-17 05:04:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 04:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/russia-ukraine-war-list-of-key-events-day-1239?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,239</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-17 03:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/16/why-did-israel-bomb-syria-a-look-at-the-druze-and-the-violence-in-suwayda?traffic_source=rss" target="_blank">Why did Israel bomb Syria? A look at the Druze and the violence in Suwayda</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-16 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/comey-ap-er-250716_1752704952280_hpMain_4x3t_384.jpg" alt="James Comey&#x27;s daughter, and &#x27;Diddy&#x27; prosecutor, fired from SDNY: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/maurene-comey-fired-doj-southern-district-new-york/story?id=123817739" target="_blank">James Comey&#x27;s daughter, and &#x27;Diddy&#x27; prosecutor, fired from SDNY: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-16 23:13</span>
             </div>
         </div>
 </div>
@@ -168,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kalyan-dev/my-journey-discovering-the-relationship-between-kali-linux-and-black-arch-4n88" target="_blank">My Journey: Discovering the Relationship Between Kali Linux and Black Arch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-29/" target="_blank">FOSS Weekly #25.29: End of Ubuntu 24.10, AUR Issue, Terminal Tips, Screenshot Editing and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-17 04:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/moni121189/graph-or-chain-choosing-the-right-engine-for-your-ai-app-3fo0" target="_blank">Graph or Chain? Choosing the Right Engine for Your AI App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-17 03:58</span>
@@ -198,24 +220,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/eswin-ebc77-risc-v-sbc-ubuntu-24-04-support" target="_blank">New RISC-V SBC Supports Ubuntu 24.04, Won’t Run Future Releases</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-16 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-june-2025/" target="_blank">GitHub Availability Report: June 2025</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-16 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519324&w=600" alt="The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/nextjs-middleware-vulnerability" target="_blank">The Invisible Risk in Your Middleware: A Next.js Flaw You Shouldn’t Ignore</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-16 20:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
