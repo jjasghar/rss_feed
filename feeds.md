@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 15:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-17 16:01:47 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 17, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/691319/best-switch-2-cases" target="_blank">I tested 12 Switch 2 cases and these are the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/" target="_blank">Confident Security, ‘the Signal for AI,’ comes out of stealth with $4.2M</a></span>
                 <span class="feed">TechCrunch</span>
@@ -152,20 +155,29 @@
                 <span class="time">2025-07-17 12:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68782ce860e77bea9f197500/master/pass/Review%20-%20LEAD%20Shark%20Steam%20Pickup%203-in-1%202%20Hard%20Floor%20Cleaner%20(SD201)%20Source%20Louryn%20Strampe.png" alt="Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/" target="_blank">Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514941&w=600" alt="Migrating Traditional Workloads From Classic Compute to Serverless Compute on Databricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/migrate-classic-to-serverless-databricks" target="_blank">Migrating Traditional Workloads From Classic Compute to Serverless Compute on Databricks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-17 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Magma-Cross-Platform" target="_blank">Google Continues Working On &quot;Magma&quot; For Mesa Cross-Platform System Call Interface</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-17 14:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514873&w=600" alt="Rapid AWS Prototyping With LocalStack: A Developer’s Guide to Building AWS PoCs Locally" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,27 +209,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/" target="_blank">My bank keeps on undermining anti-phishing education</a></span>
+                <span class="title"><a href="https://github.com/pollen-robotics/AmazingHand" target="_blank">Hand: open-source Robot Hand</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/augmented-reality-maps/en/mediumimage/ohan-oda-medium-1752150885065.jpg" alt="Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/augmented-reality-maps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Making Augmented Reality Accessible: A Case Study of Lens in Maps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-17 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubucon-africa-and-djangocon-africa-2025" target="_blank">UbuCon Africa and DjangoCon Africa 2025</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-17 10:42</span>
+                <span class="time">2025-07-17 12:08</span>
             </div>
         </div>
 </div>
@@ -249,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Mortal-Kombat-II.jpg" alt="The First Trailer for ‘Mortal Kombat II’ Is a Johnny Cage-filled Extravaganza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-trailer-for-mortal-kombat-ii-is-a-johnny-cage-filled-extravaganza-2000630199" target="_blank">The First Trailer for ‘Mortal Kombat II’ Is a Johnny Cage-filled Extravaganza</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/43f2d6829afdef2d61bcf76435045e98.jpg" alt="Assassin&#x27;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/netflix-assassins-creed-tv-show-ubisoft-plot-date-1851786489" target="_blank">Assassin&#x27;s Creed TV Show Announced 5 Years Ago Finally Moving Forward At Netflix</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-17 15:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CB4M8SX224J5XM75GWX7SS/hero-image.png" alt="Apple Has a Final iPhone Update Before iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-has-a-final-iphone-update-before-ios-26?utm_medium=RSS" target="_blank">Apple Has a Final iPhone Update Before iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-17 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Techno-G-Fold-Concept-5-Hero.jpg" alt="This ‘G’ Tri-Fold Phone Bends in Ways That Make Me Uncomfortable" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,33 +296,6 @@
                 <span class="time">2025-07-17 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/07/bfe320b26bdf046c5754c43700fad9c5.jpg" alt="Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wall-streets-ai-bubble-is-worse-than-the-1999-dot-com-bubble-warns-a-top-economist-2000630487" target="_blank">Wall Street’s AI Bubble Is Worse Than the 1999 Dot-com Bubble, Warns a Top Economist</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/openai-rawstory-copyright.jpg" alt="An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/an-engineers-diary-reveals-the-human-cost-of-building-openais-next-big-thing-2000630482" target="_blank">An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/176c1ad468e5de5b8812111aff6d0c0f.jpg" alt="Pixar&#x27;s Hoppers Asks, What If Avatar Had Been About Beavers?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hoppers-trailer-pixar-animation-teaser-inside-out-2-1851786456" target="_blank">Pixar&#x27;s Hoppers Asks, What If Avatar Had Been About Beavers?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +319,13 @@
                 <span class="time">2025-07-16 17:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752556983-20250717.png" alt="Saturday Morning Breakfast Cereal - Boyfriend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/boyfriend" target="_blank">Saturday Morning Breakfast Cereal - Boyfriend</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
