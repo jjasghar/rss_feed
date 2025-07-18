@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 22:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 23:01:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/us-attorney-general-paves-way-for-more-convicted-criminals-to-own-guns?traffic_source=rss" target="_blank">US attorney general paves way for more convicted criminals to own guns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5472460/funding-cuts-will-hit-rural-areas-hard-one-station-manager-explains-how" target="_blank">Funding cuts will hit rural areas hard. One station manager explains how</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/18/1255880064/trump-says-no-one-cares-about-epstein-why-wont-his-base-let-it-go" target="_blank">Trump says no one cares about Epstein. Why won&#x27;t his base let it go?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-18 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752874431935_now_hallie_wsj_trump_250718_1920x1080-63ejre.jpg" alt="Trump sues WSJ over Epstein report and pushes to unseal grand jury files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-sues-wsj-over-epstein-report-and-pushes-to-unseal-grand-jury-files-243487301939" target="_blank">Trump sues WSJ over Epstein report and pushes to unseal grand jury files</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-18 21:33</span>
             </div>
         </div>
 <div class="story">
@@ -79,38 +101,29 @@
                 <span class="time">2025-07-18 21:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/venezuela-frees-10-americans-in-swap-for-deported-migrants-in-el-salvador?traffic_source=rss" target="_blank">Venezuela frees 10 Americans in swap for deported migrants in El Salvador</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/dubious-usyk-2-londoner-on-a-different-level-ahead-of-title-fight?traffic_source=rss" target="_blank">Dubois-Usyk 2: Londoner ‘on a different level’ before title fight</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78187/fresh-air-goes-out-to-the-ballgame" target="_blank">&#x27;Fresh Air&#x27; goes out to the ballgame</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/" target="_blank">Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 22:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/652171/best-sonos-speakers" target="_blank">The best Sonos speakers to buy in 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,24 +160,6 @@
                 <span class="time">2025-07-18 19:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/660e5a03fbff4e2940488bcd-1-500x500.webp" alt="After 5 years in development, the Assassin’s Creed TV series is happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/07/netflix-green-lights-live-action-assassins-creed-tv-series/" target="_blank">After 5 years in development, the Assassin’s Creed TV series is happening</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2225090711-500x500.jpg" alt="Experts lay into Tesla safety in federal autopilot trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/experts-lay-into-tesla-safety-in-federal-autopilot-trial/" target="_blank">Experts lay into Tesla safety in federal autopilot trial</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Ends-Clear-Linux" target="_blank">Intel Announces It&#x27;s Shutting Down Clear Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5" target="_blank">Security isn&#x27;t a feature. It&#x27;s a mindset.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://mchav.github.io/benchmarking-haskell-dataframes/" target="_blank">Benchmarking Haskell dataframes against Python dataframes</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-18 21:04</span>
             </div>
         </div>
 <div class="story">
@@ -204,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp" target="_blank">Mastering Uniface getitem: Your Guide to List Manipulation 📋</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kristoff.it/blog/asynchrony-is-not-concurrency/" target="_blank">Asynchrony Is Not Concurrency</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aerabi/how-to-fixup-a-commit-4ngk" target="_blank">How to Fixup a Commit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 18:39</span>
             </div>
         </div>
 </div>
@@ -262,12 +257,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Spider-Man-Beyond-Spider-Verse-miles-1.jpg" alt="‘Spider-Man: Beyond the Spider-Verse’ Is Delayed Again, but Only for a Bit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-beyond-the-spider-verse-is-delayed-again-but-only-for-a-bit-2000631616" target="_blank">‘Spider-Man: Beyond the Spider-Verse’ Is Delayed Again, but Only for a Bit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-18 22:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0FBT0QJK2Z1QXCWC3WJ0WD3/hero-image.png" alt="Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-fold7-amazon-preorder?utm_medium=RSS" target="_blank">Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-18 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98661eb5528826db580b0b0184c1e806.png" alt="Coldplay Concert Kiss Cam Scandal &#x27;Vibe Coded&#x27; Into A Game By Song A Day Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603" target="_blank">Coldplay Concert Kiss Cam Scandal &#x27;Vibe Coded&#x27; Into A Game By Song A Day Guy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-18 20:50</span>
             </div>
         </div>
 <div class="story">
@@ -297,24 +310,6 @@
                 <span class="time">2025-07-18 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CNX0HGVWY8VS4GMX19E9AV/hero-image.jpg" alt="IMAX Tickets to Christopher Nolan’s ‘The Odyssey’ Are Sold Out a Year in Advance, and You Can Probably Guess Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/christopher-nolan-the-odyssey-imax-ticket-preorders?utm_medium=RSS" target="_blank">IMAX Tickets to Christopher Nolan’s ‘The Odyssey’ Are Sold Out a Year in Advance, and You Can Probably Guess Why</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-18 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/garbage-musk-e1742913037257.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump pours salt in Elon&#x27;s wounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/18/trump-pours-salt-in-elons-wounds.html" target="_blank">Trump pours salt in Elon&#x27;s wounds</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-18 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,13 +333,22 @@
                 <span class="time">2025-07-18 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/replication_crisis.png" alt="Replication Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3117/" target="_blank">Replication Crisis</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-18 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
