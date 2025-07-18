@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 02:38:40 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-18 03:29:13 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 02:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5471583/trump-threatens-to-sue-wall-street-journal-over-article-about-his-epstein-ties" target="_blank">Trump threatens to sue &#x27;Wall Street Journal&#x27; over article about his Epstein ties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 02:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,15 +104,6 @@
                 <span class="time">2025-07-17 22:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5467260/trump-emil-bove-judge" target="_blank">Senate panel approves federal judge nomination for Emil Bove, who defended Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 21:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -127,6 +125,15 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2025/07/jared-leto-is-the-ultimate-solder-in-new-tron-ares-trailer/" target="_blank">Jared Leto is the ultimate soldier in new TRON: Ares trailer</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-17 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/" target="_blank">‘Utopian’ city California Forever announces huge tech manufacturing park</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-17 22:44</span>
             </div>
         </div>
 <div class="story">
@@ -154,15 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable" target="_blank">Anker’s new charging station battles desktop clutter with two retractable USB-C cables</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-17 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/microsoft-is-buying-tons-of-carbon-removal-from-xprize-startup-vaulted-deep/" target="_blank">Microsoft is buying tons of carbon removal from Xprize startup Vaulted Deep</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 19:03</span>
             </div>
         </div>
 </div>
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 289 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
