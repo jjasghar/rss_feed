@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 01:29:47 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-18 02:38:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 02:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/russia-ukraine-war-list-of-key-events-day-1240?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,240</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 01:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-ap-jef-250717_1752755096014_hpMain_4x3t_384.jpg" alt="Bondi says she&#x27;ll try to unseal Epstein grand jury records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-facing-maga-uproar-epstein-files-shift-blame/story?id=123833646" target="_blank">Bondi says she&#x27;ll try to unseal Epstein grand jury records</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-18 01:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +106,20 @@
                 <span class="time">2025-07-17 21:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6da/live/856f9020-6350-11f0-ba6f-83c0b591c748.jpg" alt="Child dies and 21 injured after school coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg538x0lm5o" target="_blank">Child dies and 21 injured after school coach crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-17 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/elon-musk-gty-jef-250717_1752776773715_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343" target="_blank">&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709530/nintendo-switch-online-playtest-program-july-august-invitations-application" target="_blank">Nintendo wants you to join its next mysterious Switch Online playtest</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-17 23:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ares3-500x500.jpg" alt="Jared Leto is the ultimate soldier in new TRON: Ares trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +165,6 @@
                 <span class="time">2025-07-17 19:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale" target="_blank">Here are the best streaming service deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -193,6 +200,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/" target="_blank">My favorite use-case for AI is writing logs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-17 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625" target="_blank">New Choice for Cross-Platform Web Service Development(5643)</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,20 +224,20 @@
                 <span class="time">2025-07-17 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516710&w=600" alt="Terraform vs Pulumi vs SST: A Tradeoffs Analysis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/iac-tool-comparison-terraform-pulumi-sst" target="_blank">Terraform vs Pulumi vs SST: A Tradeoffs Analysis</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-17 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/" target="_blank">Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-18 01:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -273,21 +289,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/lawson.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s Lawson stores turn parking spots into mini campgrounds for $16 a night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/17/japans-lawson-stores-turn-parking-spots-into-mini-campgrounds-for-16-a-night.html" target="_blank">Japan&#x27;s Lawson stores turn parking spots into mini campgrounds for $16 a night</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-17 21:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/GettyImages-2185275106.jpg" alt="ChatGPT Agent Wants You to Hand Over Full Control of Your Computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/chatgpt-agent-wants-you-to-hand-over-full-control-of-your-computer-2000630925" target="_blank">ChatGPT Agent Wants You to Hand Over Full Control of Your Computer</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-17 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/974c727be964228690180678e655dc96.png" alt="Esports Player Changes Name From ‘Hitler’ To ‘Henry’ And Apologizes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pubg-moble-player-hitler-henry-apology-name-change-1851786533" target="_blank">Esports Player Changes Name From ‘Hitler’ To ‘Henry’ And Apologizes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 20:52</span>
             </div>
         </div>
 </div>
@@ -318,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 289 |
+        🔄 Last Updated: 02:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
