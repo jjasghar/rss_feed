@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 08:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 09:03:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78018/trump-tennis-love-island-emmys-new-york-mayor" target="_blank">What did Trump tell supporters to &#x27;not waste Time and Energy&#x27; on? Take our quiz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/israel-kills-18-in-attacks-using-drone-missiles-packed-with-nails?traffic_source=rss" target="_blank">Israel kills 18 in attacks, using ‘drone missiles packed with nails’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/trump-seeks-release-of-grand-jury-transcripts-as-epstein-uproar?traffic_source=rss" target="_blank">Trump seeks release of grand jury transcripts as Epstein uproar widens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5471583/trump-threatens-to-sue-wall-street-journal-over-article-about-his-epstein-ties" target="_blank">Trump threatens to sue &#x27;Wall Street Journal&#x27; over article about his Epstein ties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/russia-ukraine-war-list-of-key-events-day-1240?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,240</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 01:58</span>
             </div>
         </div>
 </div>
@@ -169,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(2070)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/18/how-to-do-your-job-happier/" target="_blank">How to do your job happier</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -209,15 +210,6 @@
                 <span class="title"><a href="https://bozmen.io/fhe" target="_blank">Fully homomorphic encryption and the dawn of a private internet</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-18 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant" target="_blank">Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-18 00:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
