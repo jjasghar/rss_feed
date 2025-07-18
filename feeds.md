@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 21:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 22:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +55,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/1255880064/trump-says-no-one-cares-about-epstein-why-wont-his-base-let-it-go" target="_blank">Trump says no one cares about Epstein. Why won&#x27;t his base let it go?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250716-donald-trump-mn-1256-259506.jpg" alt="Trump sues Wall Street Journal&#x27;s publisher and 2 reporters over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-sues-wall-street-journals-publisher-reporters-epstein-article-rcna219703" target="_blank">Trump sues Wall Street Journal&#x27;s publisher and 2 reporters over Epstein article</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-18 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump sues Murdoch for libel over Jeffrey Epstein letter story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch for libel over Jeffrey Epstein letter story</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-18 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/venezuela-frees-10-americans-in-swap-for-deported-migrants-in-el-salvador?traffic_source=rss" target="_blank">Venezuela frees 10 Americans in swap for deported migrants in El Salvador</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/dubious-usyk-2-londoner-on-a-different-level-ahead-of-title-fight?traffic_source=rss" target="_blank">Dubois-Usyk 2: Londoner ‘on a different level’ before title fight</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -64,47 +106,20 @@
                 <span class="time">2025-07-18 18:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/18/trump-administration-destroy-contraceptives-usaid-africa" target="_blank">Trump administration to destroy nearly $10m in contraceptives</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-18 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc53/live/012c6640-63db-11f0-82cf-cfdaec0ea16c.jpg" alt="Boy, 10, dead as nine in hospital after coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg98l9x0j0o" target="_blank">Boy, 10, dead as nine in hospital after coach crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-ap-jef-250717_1752755096014_hpMain_4x3t_384.jpg" alt="Bondi says she&#x27;ll try to unseal Epstein grand jury records; the process could be long" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-facing-maga-uproar-epstein-files-shift-blame/story?id=123833646" target="_blank">Bondi says she&#x27;ll try to unseal Epstein grand jury records; the process could be long</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-18 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc59/live/28fbe6e0-63f5-11f0-b6f0-53138033c34e.jpg" alt="Three killed in explosion at Los Angeles police training facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62891d4p50o" target="_blank">Three killed in explosion at Los Angeles police training facility</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/" target="_blank">ServiceNow’s acquisition of Moveworks is reportedly being reviewed over antitrust concerns</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +165,20 @@
                 <span class="time">2025-07-18 17:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/" target="_blank">SpaceX worker injury rates at Starbase outpace industry rivals</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5" target="_blank">Security isn&#x27;t a feature. It&#x27;s a mindset.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,20 +224,20 @@
                 <span class="time">2025-07-18 18:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy" target="_blank">Third patient dies from acute liver failure caused by a Sarepta gene therapy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 18:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html" target="_blank">Friday Squid Blogging: The Giant Squid Nebula</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-18 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -246,6 +261,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0FBT0QJK2Z1QXCWC3WJ0WD3/hero-image.png" alt="Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-fold7-amazon-preorder?utm_medium=RSS" target="_blank">Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-18 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Wonder-Woman-DC-Comics.jpg" alt="James Gunn and DC Haven’t Started Casting Wonder Woman… Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +315,6 @@
                 <span class="time">2025-07-18 19:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/mri-machine.jpg" alt="Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/man-wearing-chain-necklace-in-critical-condition-after-getting-sucked-into-mri-machine-2000631405" target="_blank">Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-18 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
