@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-17 23:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2025-07-18 00:05:12 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
 <!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, July 17, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-10-gty-er-250715_1752608776297_hpMain_4x3t_384.jpg" alt="What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/chronic-venous-insufficiency-trumps-diagnosis/story?id=123841146" target="_blank">What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-17 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2025-07-17 20:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-02-ap-jef-250717_1752755095623_hpMain_4x3t_384.jpg" alt="Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vascular-testing-leg-swelling-white-house/story?id=123839307" target="_blank">Trump diagnosed with &#x27;chronic venous insufficiency&#x27; after swelling: White House</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ares3-500x500.jpg" alt="Jared Leto is the ultimate soldier in new TRON: Ares trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/07/jared-leto-is-the-ultimate-solder-in-new-tron-ares-trailer/" target="_blank">Jared Leto is the ultimate soldier in new TRON: Ares trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-17 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2025-07-17 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/alien3-500x500.jpg" alt="Synths hunt down deadly monsters in latest Alien: Earth trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/07/fx-hulu-drops-one-last-trailer-for-alien-earth/" target="_blank">Synths hunt down deadly monsters in latest Alien: Earth trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-17 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-SmartMux-Linux-6.17" target="_blank">AMD Bringing SmartMux Support To Linux 6.17 For Better Hybrid GPU Laptop Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_a26aac70/server-side-events-implementation-for-real-time-applications1277-3b5a" target="_blank">Server-Side Events Implementation for Real-Time Applications(1277)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-17 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2025-07-17 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Fixing-AMD-Polaris-Spam" target="_blank">Linux Receiving Fix For AMD Radeon Polaris GPUs Producing Lots Of Log Spam</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-17 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516633&w=600" alt="The Twelve-Factor Agents: Building Production-Ready LLM Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-twelve-factor-agents" target="_blank">The Twelve-Factor Agents: Building Production-Ready LLM Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-17 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,11 +238,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Suzzannareview.jpg" alt="‘Suzzanna: The Queen of Black Magic’ Is a Colorful Portrait of a Cult Horror Legend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/suzzanna-the-queen-of-black-magic-is-a-colorful-portrait-of-a-cult-horror-legend-2000630250" target="_blank">‘Suzzanna: The Queen of Black Magic’ Is a Colorful Portrait of a Cult Horror Legend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Star-Wars-Reylo-kiss.jpg" alt="Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/love-hypothesis-movie-reylo-daisy-ridley-tom-bateman-2000630979" target="_blank">Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CYTYJ8VC21VXKDFC88BXPD/hero-image.png" alt="Here’s a Sneak Peak at the Next Batch of Emoji Coming to Your Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/preview-new-emoji-coming-2026?utm_medium=RSS" target="_blank">Here’s a Sneak Peak at the Next Batch of Emoji Coming to Your Device</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-17 22:00</span>
             </div>
         </div>
@@ -273,24 +291,6 @@
                 <span class="time">2025-07-17 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Arcane-Riot-Games-League-of-Legends.jpg" alt="‘Arcane’ Season 2 Gets a Lavish Home Release, Just in Time for Emmy Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/arcane-season-2-gets-a-lavish-home-release-just-in-time-for-emmy-season-2000630806" target="_blank">‘Arcane’ Season 2 Gets a Lavish Home Release, Just in Time for Emmy Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CNX0HGVWY8VS4GMX19E9AV/hero-image.jpg" alt="You Can Pre-Order Tickets for Christopher Nolan&#x27;s Next Movie a Year in Advance (for Some Reason)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/christopher-nolan-the-odyssey-imax-ticket-preorders?utm_medium=RSS" target="_blank">You Can Pre-Order Tickets for Christopher Nolan&#x27;s Next Movie a Year in Advance (for Some Reason)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-17 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
