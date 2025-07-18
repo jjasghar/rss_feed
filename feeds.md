@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 15:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 16:02:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/man-utd-close-on-mbeumo-deal-with-medical-imminent?traffic_source=rss" target="_blank">Man Utd close on Mbeumo deal with medical imminent</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 15:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -97,20 +103,38 @@
                 <span class="time">2025-07-18 11:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752836978740_tdy_news_7a_nobles_epstein_250718_1920x1080-q3djt1.jpg" alt="Trump Calls for Release of Epstein Testimony Amid Fierce Uproar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-sue-wsj-over-esptein-birthday-letter-claims-243454021688" target="_blank">Trump Calls for Release of Epstein Testimony Amid Fierce Uproar</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-18 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/The_Exploration_Company_cargo_vehicle_rendering_pillars-500x500.jpg" alt="European firm has an ambitious plan to dock with the space station in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" target="_blank">European firm has an ambitious plan to dock with the space station in 2028</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on" target="_blank">Spotify’s new 30-hour audiobook plans are too short to finish long books</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68799030363200bf27601351/master/pass/security_chinese_hackers_honkers.jpg" alt="How China’s Patriotic ‘Honkers’ Became the Nation’s Elite Cyber Spies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-honkers-elite-cyber-spies/" target="_blank">How China’s Patriotic ‘Honkers’ Became the Nation’s Elite Cyber Spies</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 15:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +162,38 @@
                 <span class="time">2025-07-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/" target="_blank">Meta refuses to sign EU’s AI code of practice</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879a27961e7729c9536d4fb/master/pass/Review-%20Roborock%20Saros%20Z70.png" alt="Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/roborock-saros-z70/" target="_blank">Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/" target="_blank">Netflix starts using GenAI in its shows and films</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 12:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj" target="_blank">The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/ubuntu-raspberry-pi.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Shrinks its Raspberry Pi Install Footprint" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-raspberry-pi-minimal-install" target="_blank">Ubuntu 25.10 Shrinks its Raspberry Pi Install Footprint</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-18 15:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514995&w=600" alt="How We Built a Smarter University Chatbot Using LLaMA2, AWS SageMaker, and RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/smarter-university-chatbot-llama2-rag-sagemaker" target="_blank">How We Built a Smarter University Chatbot Using LLaMA2, AWS SageMaker, and RAG</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/youtube_golf/golfcom-rory-mcilroys-journey-to-royal-portrush-a-hopeful-homecoming-4bbm" target="_blank">Golf.com: Rory McIlroy&#x27;s Journey to Royal Portrush: A Hopeful Homecoming</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514963&w=600" alt="Build AI Agents With MCP Server in C# and Run in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-ai-agents-csharp-mcp-server-vscode" target="_blank">Build AI Agents With MCP Server in C# and Run in VS Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-18 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tangled.sh/@rockorager.dev/lsr" target="_blank">lsr: ls with io_uring</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/IMG-AM62P-AM67A-J722S" target="_blank">Imagination Kernel Graphics Driver Being Extended To AM62P/AM67A/J722S SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-18 12:30</span>
             </div>
         </div>
 </div>
@@ -252,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f13a0d544db77346aab3b4c5ebf5bff3.jpg" alt="Xbox Is Done Selling Movies And TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-movies-tv-shows-store-ending-support-shut-down-1851786567" target="_blank">Xbox Is Done Selling Movies And TV Shows</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-18 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0E0NYQ84TP5MDSKVDE1S9JS/hero-image.jpg" alt="These Security Cameras Are Subscription-Free Alternatives to Google Nest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +303,6 @@
                 <span class="time">2025-07-18 04:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/NGS-117405S-25_250708_005307-1ss100-.5-Brian-Skerry-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="National Geographic photographer captures first underwater image of Great White shark in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/17/national-geographic-photographer-captures-first-underwater-image-of-great-white-shark-in-maine.html" target="_blank">National Geographic photographer captures first underwater image of Great White shark in Maine</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-18 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,31 +317,13 @@
                 <span class="time">2025-07-18 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/puddle/" target="_blank">Puddle</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752557080-20250718.png" alt="Saturday Morning Breakfast Cereal - Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/code" target="_blank">Saturday Morning Breakfast Cereal - Code</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
