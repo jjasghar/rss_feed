@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 09:03:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 10:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +51,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5466369/camp-fire-heat-flood-safety" target="_blank">Ask your kids&#x27; camps these key questions about heat and flood safety, experts say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b783/live/8baba370-63b4-11f0-af20-030418be2ca5.jpg" alt="Serious pollution incidents by water companies up 60% last year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg5zl75dmm0o" target="_blank">Serious pollution incidents by water companies up 60% last year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-18 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78018/trump-tennis-love-island-emmys-new-york-mayor" target="_blank">What did Trump tell supporters to &#x27;not waste Time and Energy&#x27; on? Take our quiz</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-18 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/israel-kills-18-in-attacks-using-drone-missiles-packed-with-nails?traffic_source=rss" target="_blank">Israel kills 26 in Gaza attacks, using ‘drone missiles packed with nails’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 08:46</span>
             </div>
         </div>
 <div class="story">
@@ -67,38 +101,20 @@
                 <span class="time">2025-07-18 05:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/ccdbf5e0-637b-11f0-af20-030418be2ca5.jpg" alt="Trump orders officials to &#x27;produce&#x27; more Epstein documents after mounting pressure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9w1014rlq9o" target="_blank">Trump orders officials to &#x27;produce&#x27; more Epstein documents after mounting pressure</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/270718-npr-mb-0722-4a47bf.jpg" alt="Trump&#x27;s cuts to NPR, PBS and foreign aid clear Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/trumps-cuts-npr-pbs-foreign-aid-pass-congress-rcna219296" target="_blank">Trump&#x27;s cuts to NPR, PBS and foreign aid clear Congress</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-18 04:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/trump-seeks-release-of-grand-jury-transcripts-as-epstein-uproar?traffic_source=rss" target="_blank">Trump seeks release of grand jury transcripts as Epstein uproar widens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 03:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets" target="_blank">Apple sues leaker Jon Prosser for stealing iOS secrets</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 09:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue" target="_blank">Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-17 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68793c5c92c45d3ff90fd1c9/master/pass/ICE-Getting-Unprecedented-Access-Medicaid-Data-Politics-2224826639.jpg" alt="ICE Is Getting Unprecedented Access to Medicaid Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ice-access-medicaid-data/" target="_blank">ICE Is Getting Unprecedented Access to Medicaid Data</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-17 21:44</span>
             </div>
         </div>
 </div>
@@ -331,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
