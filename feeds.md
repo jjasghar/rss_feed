@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 14:02:16 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-18 15:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,9 +115,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule" target="_blank">Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 14:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6879b9a31478c4b15eb6f6c5/master/pass/Review-%20Lettuce%20Grow%20Indoor%20Farmstand_.png" alt="Lettuce Grow Indoor Farmstand Review: Grow Your Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lettuce-grow-indoor-farmstand/" target="_blank">Lettuce Grow Indoor Farmstand Review: Grow Your Own</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad" target="_blank">Microsoft&amp;#8217;s constant layoffs risk creating a culture of fear</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-18 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/meta-refuses-to-sign-eus-ai-code-of-practice/" target="_blank">Meta refuses to sign EU’s AI code of practice</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 13:52</span>
             </div>
         </div>
 <div class="story">
@@ -133,38 +165,29 @@
                 <span class="time">2025-07-18 12:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879afeb687e96e4f2948537/master/pass/Bo%20Turbo%20SOURCE%20Bo.jpg" alt="This Turbo Escooter Wants to Set a Guinness World Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bo-turbo-e-scooter-guinness-world-record/" target="_blank">This Turbo Escooter Wants to Set a Guinness World Record</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor" target="_blank">Perplexity&amp;#8217;s Comet is the AI browser Google wants</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/jsc2025e041107medium-500x500.jpg" alt="Rocket Report: SpaceX won’t land at Johnston Atoll; new North Sea launch site" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/rocket-report-avio-celebrates-independence-pld-outlines-grand-ambitions/" target="_blank">Rocket Report: SpaceX won’t land at Johnston Atoll; new North Sea launch site</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mdarifulhaque/2163-minimum-difference-in-sums-after-removal-of-elements-aa2" target="_blank">2163. Minimum Difference in Sums After Removal of Elements</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.27.34303.5" target="_blank">Intel Compute Runtime 25.27.34303.5 Brings Support For Wildcat Lake &amp; BMG G31</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,37 +209,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/IMG-AM62P-AM67A-J722S" target="_blank">Imagination Kernel Graphics Driver Being Extended To AM62P/AM67A/J722S SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-18 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qljuhwlcnsaczx87kd9.png" alt="What is LDAP Port [A Complete Guide for Beginners]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp" target="_blank">What is LDAP Port [A Complete Guide for Beginners]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 11:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/building-product-first-engineering-culture/en/smallimage/engineering-culture-podcast-thumbnail-1752490298012.jpg" alt="Podcast: Building a Product-First Engineering Culture in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/building-product-first-engineering-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Building a Product-First Engineering Culture in the Age of AI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-18 11:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tangled.sh/@rockorager.dev/lsr" target="_blank">lsr: ls with io_uring</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 12:40</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download" target="_blank">CP/M Creator Gary Kildall&#x27;s Memoirs Released as Free Download</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 10:22</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/IMG-AM62P-AM67A-J722S" target="_blank">Imagination Kernel Graphics Driver Being Extended To AM62P/AM67A/J722S SoCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 12:30</span>
             </div>
         </div>
 </div>
@@ -247,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0E0NYQ84TP5MDSKVDE1S9JS/hero-image.jpg" alt="These Security Cameras Are Subscription-Free Alternatives to Google Nest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/subscription-free-alternatives-google-nest-security-camera?utm_medium=RSS" target="_blank">These Security Cameras Are Subscription-Free Alternatives to Google Nest</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-18 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Mark-Zuckerberg.jpg" alt="Settlement in Meta Privacy Suit Spares Board Members Zuck, Sandberg, and Thiel From Testifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +306,6 @@
                 <span class="time">2025-07-18 00:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Suzzannareview.jpg" alt="‘Suzzanna: The Queen of Black Magic’ Is a Colorful Portrait of a Cult Horror Legend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/suzzanna-the-queen-of-black-magic-is-a-colorful-portrait-of-a-cult-horror-legend-2000630250" target="_blank">‘Suzzanna: The Queen of Black Magic’ Is a Colorful Portrait of a Cult Horror Legend</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
