@@ -1,4 +1,4 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 10:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 11:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
@@ -6,32 +6,30 @@
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6879bbc21a043c7b080998b0/master/pass/Coffee%20Concentrates.png" alt="7 Best Coffee Concentrates for Instant Caffeine (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-concentrates/" target="_blank">7 Best Coffee Concentrates for Instant Caffeine (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 10:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -151,20 +158,20 @@
                 <span class="time">2025-07-17 22:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue" target="_blank">Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/building-product-first-engineering-culture/en/smallimage/engineering-culture-podcast-thumbnail-1752490298012.jpg" alt="Podcast: Building a Product-First Engineering Culture in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/building-product-first-engineering-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Building a Product-First Engineering Culture in the Age of AI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(2070)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/" target="_blank">When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 08:36</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad" target="_blank">9 JavaScript Function Types You Should Know as a Beginner</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2s9f3opz65ygd6oerc14.gif" alt="What was your win this week!?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-45n0" target="_blank">What was your win this week!?!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bozmen.io/fhe" target="_blank">Fully homomorphic encryption and the dawn of a private internet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 03:49</span>
             </div>
         </div>
 </div>
@@ -338,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
