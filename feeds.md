@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 05:05:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-18 06:01:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 05:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/18/indias-ban-on-jane-street-raises-concerns-over-regulator-role?traffic_source=rss" target="_blank">India’s ban on Jane Street raises concerns over regulator role</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 05:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/ccdbf5e0-637b-11f0-af20-030418be2ca5.jpg" alt="Trump orders officials to &#x27;produce&#x27; more Epstein documents after mounting pressure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9w1014rlq9o" target="_blank">Trump orders officials to &#x27;produce&#x27; more Epstein documents after mounting pressure</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-18 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2025-07-18 01:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/18/indonesia-has-44-million-youths-its-struggling-to-get-them-jobs?traffic_source=rss" target="_blank">Indonesia has 44 million youths. It’s struggling to get them jobs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-10-gty-er-250715_1752608776297_hpMain_4x3t_384.jpg" alt="What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/chronic-venous-insufficiency-trumps-diagnosis/story?id=123841146" target="_blank">What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-17 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/" target="_blank">Perplexity sees India as a shortcut in its race against OpenAI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 04:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +162,6 @@
                 <span class="time">2025-07-17 21:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable" target="_blank">Anker’s new charging station battles desktop clutter with two retractable USB-C cables</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 19:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +177,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj1byiqf4nfuv7jmas93.png" alt="9 JavaScript Function Types You Should Know as a Beginner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad" target="_blank">9 JavaScript Function Types You Should Know as a Beginner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 05:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2s9f3opz65ygd6oerc14.gif" alt="What was your win this week!?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -185,8 +197,17 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bozmen.io/fhe" target="_blank">Fully homomorphic encryption and the dawn of a private internet</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-18-2025" target="_blank">Friday Five — July 18, 2025</a></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/getting-started-red-hat-ansible-lightspeed-ibm-watsonx-code-assistant" target="_blank">Getting started with Red Hat Ansible Lightspeed with IBM watsonx Code Assistant</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-07-18 00:00</span>
             </div>
@@ -194,28 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-SmartMux-Linux-6.17" target="_blank">AMD Bringing SmartMux Support To Linux 6.17 For Better Hybrid GPU Laptop Support</a></span>
-                <span class="feed">Phoronix</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-18-2025" target="_blank">Friday Five — July 18, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-07-18 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a26aac70/server-side-events-implementation-for-real-time-applications1277-3b5a" target="_blank">Server-Side Events Implementation for Real-Time Applications(1277)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/" target="_blank">My favorite use-case for AI is writing logs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-17 23:38</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
