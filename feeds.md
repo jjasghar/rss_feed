@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 04:14:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 05:05:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 05:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/trump-seeks-release-of-grand-jury-transcripts-as-epstein-uproar?traffic_source=rss" target="_blank">Trump seeks release of grand jury transcripts as Epstein uproar widens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 03:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Health/chronic-venous-insufficiency-trumps-diagnosis/story?id=123841146" target="_blank">What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-17 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/17/low-turnout-in-togo-municipal-polls-after-deadly-protests?traffic_source=rss" target="_blank">Low turnout in Togo municipal polls after deadly protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-17 22:25</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/18/how-to-do-your-job-happier/" target="_blank">How to do your job happier</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-18 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2s9f3opz65ygd6oerc14.gif" alt="What was your win this week!?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +218,6 @@
                 <span class="time">2025-07-17 23:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_aa44a2ae/new-choice-for-cross-platform-web-service-development5643-625" target="_blank">New Choice for Cross-Platform Web Service Development(5643)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 22:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Crypto’s Wild West Era Is Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cryptos-wild-west-era-is-over-2000631148" target="_blank">Crypto’s Wild West Era Is Over</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-18 04:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/NGS-117405S-25_250708_005307-1ss100-.5-Brian-Skerry-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="National Geographic photographer captures first underwater image of Great White shark in Maine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +300,6 @@
                 <span class="time">2025-07-17 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/lawson.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Japan&#x27;s Lawson stores turn parking spots into mini campgrounds for $16 a night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/17/japans-lawson-stores-turn-parking-spots-into-mini-campgrounds-for-16-a-night.html" target="_blank">Japan&#x27;s Lawson stores turn parking spots into mini campgrounds for $16 a night</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-17 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 05:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
