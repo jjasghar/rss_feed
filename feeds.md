@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 19:02:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-18 20:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-ap-jef-250717_1752755096014_hpMain_4x3t_384.jpg" alt="Bondi says she&#x27;ll try to unseal Epstein grand jury records; the process could be long" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-facing-maga-uproar-epstein-files-shift-blame/story?id=123833646" target="_blank">Bondi says she&#x27;ll try to unseal Epstein grand jury records; the process could be long</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-18 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc59/live/28fbe6e0-63f5-11f0-b6f0-53138033c34e.jpg" alt="Three killed in explosion at Los Angeles police training facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -83,20 +103,29 @@
                 <span class="time">2025-07-18 16:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/g20-finance-ministers-reach-consensus-on-key-economic-issues?traffic_source=rss" target="_blank">G20 finance ministers reach consensus on key economic issues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/" target="_blank">Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GwE3Uu9XsAAr_oX-500x500.jpeg" alt="Exhausted man defeats AI model in world coding championship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/" target="_blank">Exhausted man defeats AI model in world coding championship</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-18 19:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/660e5a03fbff4e2940488bcd-1-500x500.webp" alt="After 5 years in development, the Assassin’s Creed TV series is happening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +162,6 @@
                 <span class="time">2025-07-18 16:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/The_Exploration_Company_cargo_vehicle_rendering_pillars-500x500.jpg" alt="European firm has an ambitious plan to dock with the space station in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" target="_blank">European firm has an ambitious plan to dock with the space station in 2028</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on" target="_blank">Spotify’s new 30-hour audiobook plans are too short to finish long books</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -160,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp" target="_blank">Mastering Uniface getitem: Your Guide to List Manipulation 📋</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aerabi/how-to-fixup-a-commit-4ngk" target="_blank">How to Fixup a Commit</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy" target="_blank">Third patient dies from acute liver failure caused by a Sarepta gene therapy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 18:26</span>
             </div>
         </div>
 <div class="story">
@@ -190,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Raspberry-Pi" target="_blank">Ubuntu 25.10 Raspberry Pi Images Will Be Much Leaner</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-18 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devcorner/the-ultimate-guide-to-mastering-business-acumen-people-skills-and-sales-expertise-5ggj" target="_blank">The Ultimate Guide to Mastering Business Acumen, People Skills, and Sales Expertise</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/ubuntu-raspberry-pi.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Shrinks its Raspberry Pi Install Footprint" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-raspberry-pi-minimal-install" target="_blank">Ubuntu 25.10 Shrinks its Raspberry Pi Install Footprint</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-18 15:03</span>
             </div>
         </div>
 </div>
@@ -238,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CNX0HGVWY8VS4GMX19E9AV/hero-image.jpg" alt="IMAX Tickets to Christopher Nolan’s ‘The Odyssey’ Are Sold Out a Year in Advance, and You Can Probably Guess Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/christopher-nolan-the-odyssey-imax-ticket-preorders?utm_medium=RSS" target="_blank">IMAX Tickets to Christopher Nolan’s ‘The Odyssey’ Are Sold Out a Year in Advance, and You Can Probably Guess Why</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-18 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/garbage-musk-e1742913037257.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Trump pours salt in Elon&#x27;s wounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/18/trump-pours-salt-in-elons-wounds.html" target="_blank">Trump pours salt in Elon&#x27;s wounds</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-18 19:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/mri-machine.jpg" alt="Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +303,6 @@
                 <span class="time">2025-07-18 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JVFNHAABS07G4HRJACK9XZTV/hero-image.jpg" alt="I Already Destroyed My Summer Reading Goal Thanks to the Phone-Sized Boox Palma E-Reader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-already-destroyed-my-summer-reading-goal-thanks-to-the-boox-palma-2?utm_medium=RSS" target="_blank">I Already Destroyed My Summer Reading Goal Thanks to the Phone-Sized Boox Palma E-Reader</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f13a0d544db77346aab3b4c5ebf5bff3.jpg" alt="Xbox Is Done Selling Movies And TV Shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-movies-tv-shows-store-ending-support-shut-down-1851786567" target="_blank">Xbox Is Done Selling Movies And TV Shows</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-18 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
