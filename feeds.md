@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 07:04:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 08:01:48 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/270718-npr-mb-0722-4a47bf.jpg" alt="Trump&#x27;s cuts to NPR, PBS and foreign aid clear Congress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/trumps-cuts-npr-pbs-foreign-aid-pass-congress-rcna219296" target="_blank">Trump&#x27;s cuts to NPR, PBS and foreign aid clear Congress</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-18 04:05</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/russia-ukraine-war-list-of-key-events-day-1240?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,240</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-ap-jef-250717_1752755096014_hpMain_4x3t_384.jpg" alt="Bondi says she&#x27;ll try to unseal Epstein grand jury records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-facing-maga-uproar-epstein-files-shift-blame/story?id=123833646" target="_blank">Bondi says she&#x27;ll try to unseal Epstein grand jury records</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-18 01:34</span>
             </div>
         </div>
 </div>
@@ -310,6 +310,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/18/itch-io" target="_blank">Itch.io</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-18 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/puddle/" target="_blank">Puddle</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
