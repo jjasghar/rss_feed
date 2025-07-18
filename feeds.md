@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 11:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-18 12:02:06 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/indian-state-blames-cricket-team-for-deadly-stampede?traffic_source=rss" target="_blank">Indian state blames cricket team for deadly stampede</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 11:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,38 @@
                 <span class="time">2025-07-18 08:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/18/indias-ban-on-jane-street-raises-concerns-over-regulator-role?traffic_source=rss" target="_blank">India’s ban on Jane Street raises concerns over regulator role</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 05:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6879afeb687e96e4f2948537/master/pass/Bo%20Turbo%20SOURCE%20Bo.jpg" alt="This Turbo Escooter Wants to Set a Guinness World Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bo-turbo-e-scooter-guinness-world-record/" target="_blank">This Turbo Escooter Wants to Set a Guinness World Record</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor" target="_blank">Perplexity&amp;#8217;s Comet is the AI browser Google wants</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/jsc2025e041107medium-500x500.jpg" alt="Rocket Report: SpaceX won’t land at Johnston Atoll; new North Sea launch site" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/rocket-report-avio-celebrates-independence-pld-outlines-grand-ambitions/" target="_blank">Rocket Report: SpaceX won’t land at Johnston Atoll; new North Sea launch site</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-18 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6879bbc21a043c7b080998b0/master/pass/Coffee%20Concentrates.png" alt="7 Best Coffee Concentrates for Instant Caffeine (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +162,20 @@
                 <span class="time">2025-07-18 04:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709530/nintendo-switch-online-playtest-program-july-august-invitations-application" target="_blank">Nintendo wants you to join its next mysterious Switch Online playtest</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-17 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ares3-500x500.jpg" alt="Jared Leto is the ultimate soldier in new TRON: Ares trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/07/jared-leto-is-the-ultimate-solder-in-new-tron-ares-trailer/" target="_blank">Jared Leto is the ultimate soldier in new TRON: Ares trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-17 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/utopian-city-california-forever-announces-huge-tech-manufacturing-park/" target="_blank">‘Utopian’ city California Forever announces huge tech manufacturing park</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-17 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qljuhwlcnsaczx87kd9.png" alt="What is LDAP Port [A Complete Guide for Beginners]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardy_mervana/what-is-ldap-port-a-complete-guide-for-beginners-15jp" target="_blank">What is LDAP Port [A Complete Guide for Beginners]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 11:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/building-product-first-engineering-culture/en/smallimage/engineering-culture-podcast-thumbnail-1752490298012.jpg" alt="Podcast: Building a Product-First Engineering Culture in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +221,6 @@
                 <span class="time">2025-07-18 06:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foj1byiqf4nfuv7jmas93.png" alt="9 JavaScript Function Types You Should Know as a Beginner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devshefali/9-javascript-function-types-you-should-know-as-a-beginner-4pad" target="_blank">9 JavaScript Function Types You Should Know as a Beginner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 05:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -225,19 +229,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/" target="_blank">Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-18 01:23</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html" target="_blank">New Mobile Phone Forensics Tool</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-18 11:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/security-vulnerabilities-in-iceblock.html" target="_blank">Security Vulnerabilities in ICEBlock</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-17 11:06</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/" target="_blank">Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-18 01:23</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
