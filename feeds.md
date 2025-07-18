@@ -1,39 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 16:02:15 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-07-18 17:03:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +39,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc59/live/28fbe6e0-63f5-11f0-b6f0-53138033c34e.jpg" alt="Three killed in explosion at Los Angeles police training facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62891d4p50o" target="_blank">Three killed in explosion at Los Angeles police training facility</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-18 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5471428/unesco-world-heritage-sites-2025" target="_blank">Here are some of the newest UNESCO World Heritage sites</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/g20-finance-ministers-reach-consensus-on-key-economic-issues?traffic_source=rss" target="_blank">G20 finance ministers reach consensus on key economic issues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 16:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -59,48 +75,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="Trump suggests there is no &#x27;smoking gun&#x27; in the Jeffrey Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/18/how-israeli-backed-gangs-in-gaza-are-extorting-starving-civilians?traffic_source=rss" target="_blank">How Israeli-backed gangs in Gaza are extorting starving civilians</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 13:35</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-suggests-smoking-gun-jeffrey-epstein-files/story?id=123860043" target="_blank">Trump suggests there is no &#x27;smoking gun&#x27; in the Jeffrey Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-18 14:51</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-angeles-training_6967995.png?20250718172336" alt="At least three killed after &#x27;horrific incident&#x27; at sheriff training facility in LA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/18/israels-narrative-cannot-survive-the-truth-so-its-silencing-the-world?traffic_source=rss" target="_blank">Israel’s narrative cannot survive the truth, so it’s silencing the world</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8a/live/4fae08e0-63c8-11f0-8593-69390a0f393c.jpg" alt="&#x27;There were bodies everywhere&#x27;: Druze residents describe &#x27;bloodbath&#x27; in Syrian city Suweida" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y76e9p1gno" target="_blank">&#x27;There were bodies everywhere&#x27;: Druze residents describe &#x27;bloodbath&#x27; in Syrian city Suweida</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78166/up-first-newsletter-rescission-package-npr-pbs-jeffrey-epstein-trump-health" target="_blank">Trump threatens to sue over article about Epstein. And, what&#x27;s next for public media</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/indian-state-blames-cricket-team-for-deadly-stampede?traffic_source=rss" target="_blank">Indian state blames cricket team for deadly stampede</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 11:19</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-three-killed-after-horrific-incident-at-sheriff-training-facility-in-la-13398500" target="_blank">At least three killed after &#x27;horrific incident&#x27; at sheriff training facility in LA</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-18 14:36</span>
             </div>
         </div>
 </div>
@@ -108,6 +97,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2225090711-500x500.jpg" alt="Experts lay into Tesla safety in federal autopilot trial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/experts-lay-into-tesla-safety-in-federal-autopilot-trial/" target="_blank">Experts lay into Tesla safety in federal autopilot trial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-18 17:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/" target="_blank">Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 16:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/The_Exploration_Company_cargo_vehicle_rendering_pillars-500x500.jpg" alt="European firm has an ambitious plan to dock with the space station in 2028" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +149,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule" target="_blank">Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-18 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879b9a31478c4b15eb6f6c5/master/pass/Review-%20Lettuce%20Grow%20Indoor%20Farmstand_.png" alt="Lettuce Grow Indoor Farmstand Review: Grow Your Own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lettuce-grow-indoor-farmstand/" target="_blank">Lettuce Grow Indoor Farmstand Review: Grow Your Own</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad" target="_blank">Microsoft&amp;#8217;s constant layoffs risk creating a culture of fear</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 14:00</span>
             </div>
         </div>
 </div>
@@ -309,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752732160-20250719.png" alt="Saturday Morning Breakfast Cereal - Paperclip" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/paperclip-2" target="_blank">Saturday Morning Breakfast Cereal - Paperclip</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-18 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -322,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
