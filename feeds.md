@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 13:13:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-18 14:02:16 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Error processing https://feeds.skynews.com/feeds/rss/world.xml: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/18/how-israeli-backed-gangs-in-gaza-are-extorting-starving-civilians?traffic_source=rss" target="_blank">How Israeli-backed gangs in Gaza are extorting starving civilians</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/18/israels-narrative-cannot-survive-the-truth-so-its-silencing-the-world?traffic_source=rss" target="_blank">Israel’s narrative cannot survive the truth, so it’s silencing the world</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8a/live/4fae08e0-63c8-11f0-8593-69390a0f393c.jpg" alt="&#x27;There were bodies everywhere&#x27;: Druze residents describe &#x27;bloodbath&#x27; in Syrian city Suweida" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y76e9p1gno" target="_blank">&#x27;There were bodies everywhere&#x27;: Druze residents describe &#x27;bloodbath&#x27; in Syrian city Suweida</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-18 12:29</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +101,20 @@
                 <span class="time">2025-07-18 11:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5466369/camp-fire-heat-flood-safety" target="_blank">Ask your kids&#x27; camps these key questions about heat and flood safety, experts say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b783/live/8baba370-63b4-11f0-af20-030418be2ca5.jpg" alt="Serious pollution incidents by water companies up 60% last year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg5zl75dmm0o" target="_blank">Serious pollution incidents by water companies up 60% last year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad" target="_blank">Microsoft&amp;#8217;s constant layoffs risk creating a culture of fear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6879a27961e7729c9536d4fb/master/pass/Review-%20Roborock%20Saros%20Z70.png" alt="Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +160,20 @@
                 <span class="time">2025-07-18 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879bbc21a043c7b080998b0/master/pass/Coffee%20Concentrates.png" alt="7 Best Coffee Concentrates for Instant Caffeine (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-coffee-concentrates/" target="_blank">7 Best Coffee Concentrates for Instant Caffeine (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-18 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/youtube_golf/golfcom-rory-mcilroys-journey-to-royal-portrush-a-hopeful-homecoming-4bbm" target="_blank">Golf.com: Rory McIlroy&#x27;s Journey to Royal Portrush: A Hopeful Homecoming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 14:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514963&w=600" alt="Build AI Agents With MCP Server in C# and Run in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download" target="_blank">CP/M Creator Gary Kildall&#x27;s Memoirs Released as Free Download</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-18 10:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(2070)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 08:48</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
