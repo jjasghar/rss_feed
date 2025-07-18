@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 18:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 19:02:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +38,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/dubious-usyk-2-londoner-on-a-different-level-ahead-of-title-fight?traffic_source=rss" target="_blank">Dubois-Usyk 2: Londoner ‘on a different level’ before title fight</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78187/fresh-air-goes-out-to-the-ballgame" target="_blank">&#x27;Fresh Air&#x27; goes out to the ballgame</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 18:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc53/live/012c6640-63db-11f0-82cf-cfdaec0ea16c.jpg" alt="Boy, 10, dead as nine in hospital after coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/g20-finance-ministers-reach-consensus-on-key-economic-issues?traffic_source=rss" target="_blank">G20 finance ministers reach consensus on key economic issues</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/man-utd-close-on-mbeumo-deal-with-medical-imminent?traffic_source=rss" target="_blank">Man Utd close on Mbeumo deal with medical imminent</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="Trump suggests there is no &#x27;smoking gun&#x27; in the Jeffrey Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-suggests-smoking-gun-jeffrey-epstein-files/story?id=123860043" target="_blank">Trump suggests there is no &#x27;smoking gun&#x27; in the Jeffrey Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-18 14:51</span>
             </div>
         </div>
 </div>
@@ -170,6 +160,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aerabi/how-to-fixup-a-commit-4ngk" target="_blank">How to Fixup a Commit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516717&w=600" alt="AI-Driven Threat Hunting: Catching Zero Day Exploits Before They Strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-zero-day-threat-hunting" target="_blank">AI-Driven Threat Hunting: Catching Zero Day Exploits Before They Strike</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-18 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ariondev/viboxai-after-the-hack-wlh-challenge-2jk7" target="_blank">viboxai: After the Hack - WLH Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 17:50</span>
@@ -202,24 +210,6 @@
                 <span class="time">2025-07-18 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514995&w=600" alt="How We Built a Smarter University Chatbot Using LLaMA2, AWS SageMaker, and RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/smarter-university-chatbot-llama2-rag-sagemaker" target="_blank">How We Built a Smarter University Chatbot Using LLaMA2, AWS SageMaker, and RAG</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mdarifulhaque/2163-minimum-difference-in-sums-after-removal-of-elements-aa2" target="_blank">2163. Minimum Difference in Sums After Removal of Elements</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/mri-machine.jpg" alt="Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/man-wearing-chain-necklace-in-critical-condition-after-getting-sucked-into-mri-machine-2000631405" target="_blank">Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-18 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/46f5dc9beae8c343d18eb83ae463360a.jpg" alt="Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rune-factory-azuma-fishing-pescapedia-holes-1851786588" target="_blank">Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-18 18:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Foundation_Bayta_Toran.jpg" alt="Influencers Have Arrived on ‘Foundation,’ and Somehow You Can’t Hate Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +292,6 @@
                 <span class="time">2025-07-18 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0E0NYQ84TP5MDSKVDE1S9JS/hero-image.jpg" alt="These Security Cameras Are Subscription-Free Alternatives to Google Nest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/subscription-free-alternatives-google-nest-security-camera?utm_medium=RSS" target="_blank">These Security Cameras Are Subscription-Free Alternatives to Google Nest</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-18 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Mark-Zuckerberg.jpg" alt="Settlement in Meta Privacy Suit Spares Board Members Zuck, Sandberg, and Thiel From Testifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/settlement-in-meta-privacy-suit-spares-board-members-zuck-sandberg-and-thiel-from-testifying-2000631038" target="_blank">Settlement in Meta Privacy Suit Spares Board Members Zuck, Sandberg, and Thiel From Testifying</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
