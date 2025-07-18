@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 20:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 21:01:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/jul/18/trump-administration-destroy-contraceptives-usaid-africa" target="_blank">Trump administration to destroy nearly $10m in contraceptives</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-18 18:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc53/live/012c6640-63db-11f0-82cf-cfdaec0ea16c.jpg" alt="Boy, 10, dead as nine in hospital after coach crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -94,20 +100,20 @@
                 <span class="time">2025-07-18 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5471428/unesco-world-heritage-sites-2025" target="_blank">Here are some of the newest UNESCO World Heritage sites</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 16:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 20:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +159,6 @@
                 <span class="time">2025-07-18 16:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/" target="_blank">Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc7" target="_blank">Bcachefs Lands More Fixes Ahead Of Linux 6.16-rc7</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519374&w=600" alt="How to Expose IBM FS Cloud Container App to Public" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-expose-ibm-fs-cloud-container-app-to-public" target="_blank">How to Expose IBM FS Cloud Container App to Public</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-18 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp" target="_blank">Mastering Uniface getitem: Your Guide to List Manipulation 📋</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kristoff.it/blog/asynchrony-is-not-concurrency/" target="_blank">Asynchrony Is Not Concurrency</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 19:21</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +216,6 @@
                 <span class="title"><a href="https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy" target="_blank">Third patient dies from acute liver failure caused by a Sarepta gene therapy</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-18 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18516717&w=600" alt="AI-Driven Threat Hunting: Catching Zero Day Exploits Before They Strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-zero-day-threat-hunting" target="_blank">AI-Driven Threat Hunting: Catching Zero Day Exploits Before They Strike</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ariondev/viboxai-after-the-hack-wlh-challenge-2jk7" target="_blank">viboxai: After the Hack - WLH Challenge</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Raspberry-Pi" target="_blank">Ubuntu 25.10 Raspberry Pi Images Will Be Much Leaner</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-18 17:15</span>
             </div>
         </div>
 </div>
@@ -250,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Wonder-Woman-DC-Comics.jpg" alt="James Gunn and DC Haven’t Started Casting Wonder Woman… Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunn-and-dc-havent-started-casting-wonder-woman-yet-2000631465" target="_blank">James Gunn and DC Haven’t Started Casting Wonder Woman… Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-18 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Kash_Patel_52588173144.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FBI deployed 1,000 agents to search Epstein files for Trump mentions, whistleblower says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/18/fbi-deployed-1000-agents-to-search-epstein-files-for-trump-mentions-whistleblower-says.html" target="_blank">FBI deployed 1,000 agents to search Epstein files for Trump mentions, whistleblower says</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-18 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0FCH6Q1PZXQB357DZ38FTZB/hero-image.png" alt="I&#x27;m Not Multitasking During At-Home Workouts Anymore (and You Shouldn&#x27;t Either)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/not-multitasking-during-home-workouts?utm_medium=RSS" target="_blank">I&#x27;m Not Multitasking During At-Home Workouts Anymore (and You Shouldn&#x27;t Either)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-18 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0CNX0HGVWY8VS4GMX19E9AV/hero-image.jpg" alt="IMAX Tickets to Christopher Nolan’s ‘The Odyssey’ Are Sold Out a Year in Advance, and You Can Probably Guess Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -274,33 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/man-wearing-chain-necklace-in-critical-condition-after-getting-sucked-into-mri-machine-2000631405" target="_blank">Man Wearing Chain Necklace in Critical Condition After Getting Sucked Into MRI Machine</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-18 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/46f5dc9beae8c343d18eb83ae463360a.jpg" alt="Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rune-factory-azuma-fishing-pescapedia-holes-1851786588" target="_blank">Becoming A Pro Fisher In Rune Factory: Guardians Of Azuma Is Worth The Effort</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-18 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Foundation_Bayta_Toran.jpg" alt="Influencers Have Arrived on ‘Foundation,’ and Somehow You Can’t Hate Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/influencers-have-arrived-on-foundation-and-somehow-you-cant-hate-them-2000630939" target="_blank">Influencers Have Arrived on ‘Foundation,’ and Somehow You Can’t Hate Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0b5fb24c4920ee9330655cf702f71579.jpg" alt="It&#x27;s Less Than A Month Until Alien: Earth--I Have So Many Thoughts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/alien-earth-noah-hawley-fx-tv-series-trailer-scott-1851786549" target="_blank">It&#x27;s Less Than A Month Until Alien: Earth--I Have So Many Thoughts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-18 18:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
