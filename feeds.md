@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 00:05:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 01:29:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/18/indonesia-has-44-million-youths-its-struggling-to-get-them-jobs?traffic_source=rss" target="_blank">Indonesia has 44 million youths. It’s struggling to get them jobs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 00:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-10-gty-er-250715_1752608776297_hpMain_4x3t_384.jpg" alt="What is chronic venous insufficiency? Everything to know about Trump&#x27;s diagnosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343" target="_blank">&#x27;It&#x27;s a cover up&#x27;: Musk floods X with posts attacking Trump over Epstein</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-17 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump" target="_blank">A &#x27;Crypto Week&#x27; win: Congress passes 1st major crypto legislation in the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-17 20:36</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-july-18-2025" target="_blank">Friday Five — July 18, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-SmartMux-Linux-6.17" target="_blank">AMD Bringing SmartMux Support To Linux 6.17 For Better Hybrid GPU Laptop Support</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/iac-tool-comparison-terraform-pulumi-sst" target="_blank">Terraform vs Pulumi vs SST: A Tradeoffs Analysis</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-17 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/debs_obrien/manual-testing-with-ai-using-playwright-mcp-for-no-code-testing-1f8h" target="_blank">Manual Testing with AI: Using Playwright MCP for No-Code Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-17 18:47</span>
             </div>
         </div>
 </div>
@@ -320,7 +319,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 00:05 UTC
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
