@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 12:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-18 13:13:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 18, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +54,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/18/israels-narrative-cannot-survive-the-truth-so-its-silencing-the-world?traffic_source=rss" target="_blank">Israel’s narrative cannot survive the truth, so it’s silencing the world</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-18 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78166/up-first-newsletter-rescission-package-npr-pbs-jeffrey-epstein-trump-health" target="_blank">Trump threatens to sue over article about Epstein. And, what&#x27;s next for public media</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-18 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/18/indian-state-blames-cricket-team-for-deadly-stampede?traffic_source=rss" target="_blank">Indian state blames cricket team for deadly stampede</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752836978740_tdy_news_7a_nobles_epstein_250718_1920x1080-q3djt1.jpg" alt="Trump Calls for Release of Epstein Testimony Amid Fierce Uproar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-sue-wsj-over-esptein-birthday-letter-claims-243454021688" target="_blank">Trump Calls for Release of Epstein Testimony Amid Fierce Uproar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-18 11:09</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +104,29 @@
                 <span class="time">2025-07-18 09:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/g-s1-78018/trump-tennis-love-island-emmys-new-york-mayor" target="_blank">What did Trump tell supporters to &#x27;not waste Time and Energy&#x27; on? Take our quiz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/israel-kills-18-in-attacks-using-drone-missiles-packed-with-nails?traffic_source=rss" target="_blank">Israel kills 26 in Gaza attacks, using ‘drone missiles packed with nails’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/israel-kills-18-in-attacks-using-drone-missiles-packed-with-nails?traffic_source=rss" target="_blank">Israel kills 18 in attacks, using ‘drone missiles packed with nails’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 08:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6879a27961e7729c9536d4fb/master/pass/Review-%20Roborock%20Saros%20Z70.png" alt="Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/roborock-saros-z70/" target="_blank">Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/netflix-starts-using-genai-in-its-shows-and-films/" target="_blank">Netflix starts using GenAI in its shows and films</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 12:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6879afeb687e96e4f2948537/master/pass/Bo%20Turbo%20SOURCE%20Bo.jpg" alt="This Turbo Escooter Wants to Set a Guinness World Record" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2025-07-18 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets" target="_blank">Apple sues leaker Jon Prosser for stealing iOS secrets</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/17/perplexity-sees-india-as-a-shortcut-in-its-race-against-openai/" target="_blank">Perplexity sees India as a shortcut in its race against OpenAI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 04:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18514963&w=600" alt="Build AI Agents With MCP Server in C# and Run in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-ai-agents-csharp-mcp-server-vscode" target="_blank">Build AI Agents With MCP Server in C# and Run in VS Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/IMG-AM62P-AM67A-J722S" target="_blank">Imagination Kernel Graphics Driver Being Extended To AM62P/AM67A/J722S SoCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-18 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2qljuhwlcnsaczx87kd9.png" alt="What is LDAP Port [A Complete Guide for Beginners]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,37 +207,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download" target="_blank">CP/M Creator Gary Kildall&#x27;s Memoirs Released as Free Download</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-18 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/member_214bcde5/memory-safety-meets-extreme-performance-in-web-servers2070-38cf" target="_blank">Memory Safety Meets Extreme Performance in Web Servers(2070)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/" target="_blank">When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-18 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/18/how-to-do-your-job-happier/" target="_blank">How to do your job happier</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-18 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_a26aac70/rust-implementation-for-high-concurrency-processing7286-515h" target="_blank">Rust Implementation for High Concurrency Processing(7286)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 06:49</span>
             </div>
         </div>
 </div>
@@ -250,6 +251,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Mark-Zuckerberg.jpg" alt="Settlement in Meta Privacy Suit Spares Board Members Zuck, Sandberg, and Thiel From Testifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/settlement-in-meta-privacy-suit-spares-board-members-zuck-sandberg-and-thiel-from-testifying-2000631038" target="_blank">Settlement in Meta Privacy Suit Spares Board Members Zuck, Sandberg, and Thiel From Testifying</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0D9CTP5Q6XZG14YQ79D816W/hero-image.png" alt="This Site Lets You Browse Instagram Without an Account" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/imginn-browse-instagram-pages-without-an-account?utm_medium=RSS" target="_blank">This Site Lets You Browse Instagram Without an Account</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/45e2fa22f636a2346f23d764ee61f86c.png" alt="Subnautica 2 Studio Founders Go To War With Krafton Over Controversial Delay And Firings In New Lawsuit [Update]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439" target="_blank">Subnautica 2 Studio Founders Go To War With Krafton Over Controversial Delay And Firings In New Lawsuit [Update]</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-18 12:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="Crypto’s Wild West Era Is Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,33 +302,6 @@
                 <span class="title"><a href="https://gizmodo.com/suzzanna-the-queen-of-black-magic-is-a-colorful-portrait-of-a-cult-horror-legend-2000630250" target="_blank">‘Suzzanna: The Queen of Black Magic’ Is a Colorful Portrait of a Cult Horror Legend</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-17 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Star-Wars-Reylo-kiss.jpg" alt="Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/love-hypothesis-movie-reylo-daisy-ridley-tom-bateman-2000630979" target="_blank">Daisy Ridley’s Husband Cast in Adaptation of Former Reylo ‘Star Wars’ Fan Fiction</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CYTYJ8VC21VXKDFC88BXPD/hero-image.png" alt="Here’s a Sneak Peak at the Next Batch of Emoji Coming to Your Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/preview-new-emoji-coming-2026?utm_medium=RSS" target="_blank">Here’s a Sneak Peak at the Next Batch of Emoji Coming to Your Device</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-17 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f1bac605f1169e2dc476ceaea31a1f33.jpg" alt="The New RoboCop Game Is A Fun But Shallow Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/robocop-rogue-city-unfinished-business-expansion-review-1851786534" target="_blank">The New RoboCop Game Is A Fun But Shallow Spin-Off</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-17 21:15</span>
             </div>
         </div>
 </div>
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
