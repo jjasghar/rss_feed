@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 20:01:38 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-19 21:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b08/live/e064c370-64df-11f0-9715-4fd94ad71b4c.png" alt="Sectarian clashes erupt in Syria despite ceasefire announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0m87d4p9gvo" target="_blank">Sectarian clashes erupt in Syria despite ceasefire announcement</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-19 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/la-car-crash-main-02-ap-jt-250719_1752929967857_hpMain_4x3t_384.jpg" alt="At least 30 injured after car plows into crowd outside music venue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +103,20 @@
                 <span class="time">2025-07-19 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158b/live/c59651f0-64b0-11f0-9881-954771c01d18.jpg" alt="At least 80 arrests at Palestine Action ban protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20rvdexj8jo" target="_blank">At least 80 arrests at Palestine Action ban protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-19 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/" target="_blank">Astronomer CEO resigns following Coldplay concert scandal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-19 20:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +162,6 @@
                 <span class="time">2025-07-19 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/mobile/709093/nothing-phone-3-review" target="_blank">Nothing Phone 3 review: flagship-ish</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-19 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cristianalex_17/how-to-scrape-image-data-from-a-website-programmatically-29o5" target="_blank">How to Scrape Image Data From a Website Programmatically?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95" target="_blank">DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://infrastructurereportcard.org/" target="_blank">2025 Infrastructure Report Card</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 19:42</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +221,6 @@
                 <span class="time">2025-07-19 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davanico1122/why-i-am-sharing-veko-ecosystem-publicly-and-for-free-5150" target="_blank">Why I am Sharing Veko Ecosystem Publicly and for Free</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://matharena.ai/imo/" target="_blank">Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-gorn.jpg" alt="‘Star Trek: Strange New Worlds’ Isn’t Done With the Gorn Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-isnt-done-with-the-gorn-yet-2000631552" target="_blank">‘Star Trek: Strange New Worlds’ Isn’t Done With the Gorn Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-19 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/marvel-ultimate-endgame.jpg" alt="Marvel’s Ultimate Universe Is Approaching Its Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +294,20 @@
                 <span class="time">2025-07-19 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/fermi-bubble-graphic-final-for-print-4k.jpg" alt="‘Ice Cubes in a Volcano’: Scientists Baffled by Mysterious Clouds in Center of the Milky Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ice-cubes-in-a-volcano-scientists-baffled-by-mysterious-clouds-in-center-of-the-milky-way-2000631349" target="_blank">‘Ice Cubes in a Volcano’: Scientists Baffled by Mysterious Clouds in Center of the Milky Way</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-19 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752732301-20250720.png" alt="Saturday Morning Breakfast Cereal - Poseidon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/poseidon" target="_blank">Saturday Morning Breakfast Cereal - Poseidon</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-19 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -308,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
