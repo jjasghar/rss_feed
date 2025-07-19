@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 16:01:33 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-19 17:01:32 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/19/g-s1-78285/wait-wait-for-july-19-2025-with-not-my-job-guest-james-gunn" target="_blank">&#x27;Wait Wait&#x27; for July 19, 2025: With Not My Job guest James Gunn</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-19 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158b/live/c59651f0-64b0-11f0-9881-954771c01d18.jpg" alt="At least 80 arrests at Palestine Action ban protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +101,20 @@
                 <span class="time">2025-07-19 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5473376/vehicle-drove-crowd-los-angeles-injuring-30-people" target="_blank">A vehicle drove into a crowd in Los Angeles, injuring 30 people, including at least 3 critically</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-19 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/" target="_blank">The perfect pitch: This NEA partner says every founder should answer these 5 questions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +160,20 @@
                 <span class="time">2025-07-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2" target="_blank">Fast Fusion scratches the hyper fast F-Zero itch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.emailprivacytester.com/badClients" target="_blank">Known Bad Email Clients</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +219,6 @@
                 <span class="time">2025-07-19 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://fstrings.wtf/" target="_blank">Do you understand f-strings?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-19 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/mortalkombat2-scorpion.jpg" alt="‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mortal-kombat-ii-is-ready-to-be-a-bigger-better-sequel-2000631526" target="_blank">‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-19 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Controller-Pic-2-2.jpg" alt="The Switch 2’s Pro Controller Beats the Competition, for All the Wrong Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +292,6 @@
                 <span class="time">2025-07-18 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0FBT0QJK2Z1QXCWC3WJ0WD3/hero-image.png" alt="Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-fold7-amazon-preorder?utm_medium=RSS" target="_blank">Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-18 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
