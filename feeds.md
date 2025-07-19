@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 18:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 19:01:30 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/la-car-crash-main-02-ap-jt-250719_1752929967857_hpMain_4x3t_384.jpg" alt="At least 30 injured after car plows into crowd outside music venue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/car-plows-crowd-los-angeles-after-driver-loses/story?id=123887059" target="_blank">At least 30 injured after car plows into crowd outside music venue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-19 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5473444/tourist-boat-capsizes-vietnam-34-dead" target="_blank">Tourist boat capsizes during a thunderstorm in Vietnam, leaving 34 dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-19 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/over-20-dead-after-tourist-boat-capsizes-in-vietnams-ha-long-bay?traffic_source=rss" target="_blank">Dozens dead after tourist boat capsizes in Vietnam’s Halong Bay</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-19 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158b/live/c59651f0-64b0-11f0-9881-954771c01d18.jpg" alt="Ninety-six arrests at Palestine Action ban protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,33 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20rvdexj8jo" target="_blank">At least 80 arrests at Palestine Action ban protests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-19 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/19/starvation-is-killing-my-nieces-and-i-cannot-do-anything-to-save-them?traffic_source=rss" target="_blank">Starvation is killing my nieces and I cannot do anything to save them</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/south-korea-ex-leader-yoon-indicted-as-martial-law-probe-continues?traffic_source=rss" target="_blank">South Korea ex-leader Yoon indicted as martial law probe continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-9-ap-er-250715_1752608657520_hpMain_4x3t_384.jpg" alt="Are Trump&#x27;s tariffs helping the US economy? Experts weigh in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trumps-tariffs-achieved-experts-weigh/story?id=123859218" target="_blank">Are Trump&#x27;s tariffs helping the US economy? Experts weigh in</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-19 14:28</span>
             </div>
         </div>
 </div>
@@ -243,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/marvel-ultimate-endgame.jpg" alt="Marvel’s Ultimate Universe Is Approaching Its Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvels-ultimate-universe-is-approaching-its-endgame-2000631438" target="_blank">Marvel’s Ultimate Universe Is Approaching Its Endgame</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-19 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/mortalkombat2-scorpion.jpg" alt="‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/mortal-kombat-ii-is-ready-to-be-a-bigger-better-sequel-2000631526" target="_blank">‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-19 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Qlango-Language-Learning-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Learn 56 languages for less than one month of Duolingo Plus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/19/learn-56-languages-for-less-than-one-month-of-duolingo-plus.html" target="_blank">Learn 56 languages for less than one month of Duolingo Plus</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-19 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -278,24 +294,6 @@
                 <span class="time">2025-07-19 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump files $10 billion lawsuit against Wall Street Journal over alleged Epstein birthday card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/18/trump-files-10-billion-lawsuit-against-wall-street-journal-over-alleged-epstein-birthday-card.html" target="_blank">Trump files $10 billion lawsuit against Wall Street Journal over alleged Epstein birthday card</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-19 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Spider-Man-Beyond-Spider-Verse-miles-1.jpg" alt="‘Spider-Man: Beyond the Spider-Verse’ Is Delayed Again, but Only for a Bit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-beyond-the-spider-verse-is-delayed-again-but-only-for-a-bit-2000631616" target="_blank">‘Spider-Man: Beyond the Spider-Verse’ Is Delayed Again, but Only for a Bit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-18 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
