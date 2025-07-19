@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 05:03:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-19 06:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +57,15 @@
                 <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/19/health-malaria-mosquito-deaths-zimbabwe-trump-usaid-cuts-disease-control" target="_blank">Malaria ‘back with a vengeance’ in Zimbabwe as number of deaths from the disease triple</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-19 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump sues Murdoch and Wall Street Journal over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch and Wall Street Journal over Epstein article</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-19 02:47</span>
             </div>
         </div>
 <div class="story">
@@ -94,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-suggests-smoking-gun-jeffrey-epstein-files/story?id=123860043" target="_blank">DOJ files request to unseal Epstein grand jury records after uproar over files</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-18 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752886341645_nn_gha_trump_sues_for_10_billion_over_wsjs_epstein_report_250718_1920x1080-1eugn7.jpg" alt="Trump sues for $10 billion over WSJ’s Epstein report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-sues-for-10-billion-over-wsj-s-epstein-report-243496005615" target="_blank">Trump sues for $10 billion over WSJ’s Epstein report</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-18 23:41</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6" target="_blank">Why &quot;USED&quot; Condition Fails in eBay Inventory API (Action Figure Category)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 04:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqzxvx6afbwm055fg0cr4.png" alt="Conectando Backend e Frontend - Next Js + Nest Js" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h" target="_blank">20 Go Performance Tricks I Learned the Hard Way</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3318002%2Ff449a2c1-156d-46e4-8436-553a693bf056.png" alt="How i make the first AI fake product DETECTOR :)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7" target="_blank">How i make the first AI fake product DETECTOR :)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 01:15</span>
             </div>
         </div>
 </div>
@@ -342,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
