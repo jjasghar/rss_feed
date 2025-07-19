@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 01:29:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 02:33:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/russia-ukraine-war-list-of-key-events-day-1241?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,241</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-19 02:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="DOJ files request to unseal Epstein grand jury records after uproar over files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,15 +98,6 @@
                 <span class="time">2025-07-18 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/1255880064/trump-says-no-one-cares-about-epstein-why-wont-his-base-let-it-go" target="_blank">Trump says no one cares about Epstein. Why won&#x27;t his base let it go?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -146,6 +140,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/687a7bee93808b4bb00b60b6/master/pass/Apple-WWDC25-iOS-26-hero-250609.jpg" alt="Apple Sues the YouTuber Who Leaked iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/" target="_blank">Apple Sues the YouTuber Who Leaked iOS 26</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-18 21:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -154,20 +157,20 @@
                 <span class="time">2025-07-18 21:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-500x500-1738093209.jpg" alt="As White House talks about impounding NASA funding, Congress takes the threat seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" target="_blank">As White House talks about impounding NASA funding, Congress takes the threat seriously</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 20:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9o9jfqeug85c0uh3qfg.png" alt="20 Go Performance Tricks I Learned the Hard Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h" target="_blank">20 Go Performance Tricks I Learned the Hard Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 02:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3318002%2Ff449a2c1-156d-46e4-8436-553a693bf056.png" alt="How i make the first AI fake product DETECTOR :)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/vmware-Workstation-on-Ubuntu-running-Windows-11-1.jpg?resize=406%2C232&amp;ssl=1" alt="4 Critical Security Flaws Patched in VMware Workstation Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vmware-workstation-pro-update-security-patches" target="_blank">4 Critical Security Flaws Patched in VMware Workstation Pro</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-18 22:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5" target="_blank">Security isn&#x27;t a feature. It&#x27;s a mindset.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-18 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://mchav.github.io/benchmarking-haskell-dataframes/" target="_blank">Benchmarking Haskell dataframes against Python dataframes</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-18 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Fixes-Linux-6.16-rc7" target="_blank">Bcachefs Lands More Fixes Ahead Of Linux 6.16-rc7</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-18 20:44</span>
             </div>
         </div>
 </div>
@@ -350,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
