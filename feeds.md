@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 09:01:27 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-19 10:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -158,12 +166,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/en/headerimage/generatedHeaderImage-1752752513432.jpg" alt="Google Cloud Introduces Non-Disruptive Cloud Storage Bucket Relocation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Cloud Introduces Non-Disruptive Cloud Storage Bucket Relocation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code_2/180-days-of-frontend-development-challenge-day-35-css-pseudo-classes-and-pseudo-elements-56pf" target="_blank">180 Days of Frontend Development Challenge: Day 35 CSS Pseudo-classes and Pseudo-elements</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 09:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fswwn3ar29cpjrl3sf5tj.jpg" alt="Why Match &amp; Merge Behaves Differently in Cloud MDM (And What Most People Miss)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/inventmodel/why-match-merge-behaves-differently-in-cloud-mdm-and-what-most-people-miss-336n" target="_blank">Why Match &amp; Merge Behaves Differently in Cloud MDM (And What Most People Miss)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/" target="_blank">Why your website should be under 14kB in size</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 08:26</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo" target="_blank">Conectando Backend e Frontend - Next Js + Nest Js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Malicious-AURs" target="_blank">Arch Linux AUR Packages For Firefox &amp; Other Browsers Removed For Containing Malware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-19 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Self-Hosting Setup</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Ultimate Self-Hosting Setup</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 02:56</span>
             </div>
         </div>
 </div>
@@ -239,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Climate-crisis-artwork_Final_2.jpg" alt="Is Climate Change an Existential Threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/is-climate-change-an-existential-threat-2000629702" target="_blank">Is Climate Change an Existential Threat?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/fermi-bubble-graphic-final-for-print-4k.jpg" alt="‘Ice Cubes in a Volcano’: Scientists Baffled by Mysterious Clouds in Center of the Milky Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +301,6 @@
                 <span class="time">2025-07-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98661eb5528826db580b0b0184c1e806.png" alt="Coldplay Concert Kiss Cam Scandal &#x27;Vibe Coded&#x27; Into A Game By Song A Day Guy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/coldplay-concert-kiss-cam-game-ai-black-mirror-1851786603" target="_blank">Coldplay Concert Kiss Cam Scandal &#x27;Vibe Coded&#x27; Into A Game By Song A Day Guy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-18 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
