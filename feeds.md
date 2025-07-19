@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 12:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 13:09:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fc/live/69d44150-6498-11f0-89ea-4d6f9851f623.jpg" alt="More yellow rain and thunderstorm alerts bring threat of flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8j1nvp9440o" target="_blank">More yellow rain and thunderstorm alerts bring threat of flash floods</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +97,29 @@
                 <span class="time">2025-07-19 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6f/live/eaa860e0-6475-11f0-b00b-8d03ed9a9b70.jpg" alt="Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-19 02:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687b17f31d005c057f7adcb0/master/pass/How%20to%20Buy%20an%20Electric%20Bike.png" alt="How to Buy an Electric Bike (2025): Classes, Range, Repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-buy-an-electric-bike/" target="_blank">How to Buy an Electric Bike (2025): Classes, Range, Repairs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2" target="_blank">Fast Fusion scratches the hyper fast F-Zero itch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="time">2025-07-18 23:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/" target="_blank">Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 22:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/652171/best-sonos-speakers" target="_blank">The best Sonos speakers to buy in 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +168,15 @@
                 <span class="title"><a href="https://dev.to/rosahadi/stop-showing-your-database-schema-to-the-world-a-better-way-to-handle-errors-in-express-prisma-3i0" target="_blank">Stop Showing Your Database Schema to the World: A Better Way to Handle Errors in Express + Prisma</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://fstrings.wtf/" target="_blank">Do you understand f-strings?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-19 11:03</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +215,6 @@
                 <span class="time">2025-07-19 08:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/" target="_blank">Why your website should be under 14kB in size</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 08:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Controller-Pic-2-2.jpg" alt="The Switch 2’s Pro Controller Beats the Competition, for All the Wrong Reasons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-switch-2s-pro-controller-beats-the-competition-for-all-the-wrong-reasons-2000631506" target="_blank">The Switch 2’s Pro Controller Beats the Competition, for All the Wrong Reasons</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Climate-crisis-artwork_Final_2.jpg" alt="Is Climate Change an Existential Threat?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +288,6 @@
                 <span class="time">2025-07-18 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/1min.AI-Advanced-Business-Plan-Lifetime-Subscription-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The AI space race may have a winner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/18/the-ai-space-race-may-have-a-winner.html" target="_blank">The AI space race may have a winner</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-18 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
