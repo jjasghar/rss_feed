@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 11:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 12:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -89,10 +92,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump sues Murdoch and Wall Street Journal over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6f/live/eaa860e0-6475-11f0-b00b-8d03ed9a9b70.jpg" alt="Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch and Wall Street Journal over Epstein article</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch and Wall Street Journal for $10bn over Epstein article</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-19 02:47</span>
             </div>
@@ -102,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/19/for-privacy-and-security-think-twice-before-granting-ai-access-to-your-personal-data/" target="_blank">For privacy and security, think twice before granting AI access to your personal data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687aadc91c05d85bf540909d/master/pass/Security-Roundup-Salt-Typhoon-Chinese-Hackers-Security-1327877479.jpg" alt="China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,20 @@
                 <span class="time">2025-07-18 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687a7bee93808b4bb00b60b6/master/pass/Apple-WWDC25-iOS-26-hero-250609.jpg" alt="Apple Sues the YouTuber Who Leaked iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/" target="_blank">Apple Sues the YouTuber Who Leaked iOS 26</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-18 21:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rosahadi/stop-showing-your-database-schema-to-the-world-a-better-way-to-handle-errors-in-express-prisma-3i0" target="_blank">Stop Showing Your Database Schema to the World: A Better Way to Handle Errors in Express + Prisma</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
                 <span class="time">2025-07-19 08:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6" target="_blank">Why &quot;USED&quot; Condition Fails in eBay Inventory API (Action Figure Category)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 04:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,15 +230,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html" target="_blank">Friday Squid Blogging: The Giant Squid Nebula</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-07-18 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html" target="_blank">New Mobile Phone Forensics Tool</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-18 11:07</span>
             </div>
         </div>
 </div>
@@ -325,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
