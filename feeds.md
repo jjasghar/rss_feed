@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 04:08:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-19 05:03:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 04:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/19/health-malaria-mosquito-deaths-zimbabwe-trump-usaid-cuts-disease-control" target="_blank">Malaria ‘back with a vengeance’ in Zimbabwe as number of deaths from the disease triple</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-19 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump administration asks court to release some Epstein documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-3-rt-er-250715_1752605248756_hpMain_4x3t_384.jpg" alt="&#x27;We are so back&#x27;: MAGA supporters rally around Trump following WSJ article" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/back-maga-supporters-rally-trump-wsj-article/story?id=123872097" target="_blank">&#x27;We are so back&#x27;: MAGA supporters rally around Trump following WSJ article</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-19 00:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="DOJ files request to unseal Epstein grand jury records after uproar over files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-sues-for-10-billion-over-wsj-s-epstein-report-243496005615" target="_blank">Trump sues for $10 billion over WSJ’s Epstein report</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-18 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-syria-alex-crawford_6968168.jpg?20250718213355" alt="Every shop and home burned or ransacked: The Syrian city engulfed in tribal violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/every-shop-and-home-burned-or-ransacked-the-syrian-city-engulfed-in-tribal-violence-13398653" target="_blank">Every shop and home burned or ransacked: The Syrian city engulfed in tribal violence</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-18 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/us-attorney-general-paves-way-for-more-convicted-criminals-to-own-guns?traffic_source=rss" target="_blank">US attorney general paves way for more convicted criminals to own guns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-18 22:41</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqzxvx6afbwm055fg0cr4.png" alt="Conectando Backend e Frontend - Next Js + Nest Js" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo" target="_blank">Conectando Backend e Frontend - Next Js + Nest Js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 04:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -209,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7" target="_blank">How i make the first AI fake product DETECTOR :)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tomokat/my-journey-of-setting-up-local-environment-off-of-lovable-app-4469" target="_blank">My journey of setting up local environment (off of Lovable app)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 23:18</span>
             </div>
         </div>
 </div>
@@ -339,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
