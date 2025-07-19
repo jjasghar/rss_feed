@@ -1,37 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-18 23:01:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-19 00:04:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, July 18, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +101,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet" target="_blank">Why AI is moving from chatbots to the browser</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-18 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/18/why-a-y-combinator-startup-tackling-ai-agents-for-windows-gave-up-and-pivoted/" target="_blank">Why a Y Combinator startup tackling AI agents for Windows gave up and pivoted</a></span>
                 <span class="feed">TechCrunch</span>
@@ -151,20 +152,20 @@
                 <span class="time">2025-07-18 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GwE3Uu9XsAAr_oX-500x500.jpeg" alt="Exhausted man defeats AI model in world coding championship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/" target="_blank">Exhausted man defeats AI model in world coding championship</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-18 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tomokat/my-journey-of-setting-up-local-environment-off-of-lovable-app-4469" target="_blank">My journey of setting up local environment (off of Lovable app)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-18 23:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +209,6 @@
                 <span class="title"><a href="https://dzone.com/articles/how-to-expose-ibm-fs-cloud-container-app-to-public" target="_blank">How to Expose IBM FS Cloud Container App to Public</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/petercode/mastering-uniface-getitem-your-guide-to-list-manipulation-3pkp" target="_blank">Mastering Uniface getitem: Your Guide to List Manipulation 📋</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 19:49</span>
             </div>
         </div>
 </div>
@@ -316,6 +308,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/18/itch-io" target="_blank">Itch.io</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-18 22:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1752732160-20250719.png" alt="Saturday Morning Breakfast Cereal - Paperclip" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -347,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
