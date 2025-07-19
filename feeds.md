@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 19:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 20:01:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -170,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gulsher_50044cd38a2d9e954/devsolve-earn-by-solving-code-selling-pre-built-modules-1e95" target="_blank">DevSolve — Earn by Solving Code &amp; Selling Pre-Built Modules</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://viralinstruction.com/posts/borrowchecker/" target="_blank">The borrowchecker is what I like the least about Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.emailprivacytester.com/badClients" target="_blank">Known Bad Email Clients</a></span>
                 <span class="feed">Hacker News</span>
@@ -201,24 +214,6 @@
                 <span class="title"><a href="https://matharena.ai/imo/" target="_blank">Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-19 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-NOVA-Driver" target="_blank">Rust-Written NOVA Open-Source NVIDIA Driver Being Further Built Out In Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-19 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rosahadi/stop-showing-your-database-schema-to-the-world-a-better-way-to-handle-errors-in-express-prisma-3i0" target="_blank">Stop Showing Your Database Schema to the World: A Better Way to Handle Errors in Express + Prisma</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 11:52</span>
             </div>
         </div>
 </div>
@@ -313,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
