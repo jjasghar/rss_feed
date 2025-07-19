@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 02:33:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 03:27:06 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 03:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump administration asks court to release some Epstein documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump administration asks court to release some Epstein documents</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-19 02:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/18/us-attorney-general-paves-way-for-more-convicted-criminals-to-own-guns?traffic_source=rss" target="_blank">US attorney general paves way for more convicted criminals to own guns</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-18 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/18/nx-s1-5472460/funding-cuts-will-hit-rural-areas-hard-one-station-manager-explains-how" target="_blank">Funding cuts will hit rural areas hard. One station manager explains how</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-18 22:35</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Ultimate Self-Hosting Setup</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f" target="_blank">Understanding Derivatives: The Slope of Change</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 02:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9o9jfqeug85c0uh3qfg.png" alt="20 Go Performance Tricks I Learned the Hard Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vmware-workstation-pro-update-security-patches" target="_blank">4 Critical Security Flaws Patched in VMware Workstation Pro</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-18 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Ends-Clear-Linux" target="_blank">Intel Announces It&#x27;s Shutting Down Clear Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-18 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tonystpierre/security-isnt-a-feature-its-a-mindset-3ni5" target="_blank">Security isn&#x27;t a feature. It&#x27;s a mindset.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-18 21:50</span>
             </div>
         </div>
 </div>
@@ -344,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
