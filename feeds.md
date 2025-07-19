@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 22:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-19 23:01:28 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5464149/examining-the-role-of-men-in-the-gender-gap-in-american-society" target="_blank">Examining the role of men in the gender gap in American society</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-19 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b08/live/e064c370-64df-11f0-9715-4fd94ad71b4c.png" alt="Sectarian clashes erupt in Syria despite ceasefire announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +95,20 @@
                 <span class="time">2025-07-19 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/19/g-s1-78285/wait-wait-for-july-19-2025-with-not-my-job-guest-james-gunn" target="_blank">&#x27;Wait Wait&#x27; for July 19, 2025: With Not My Job guest James Gunn</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-19 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/" target="_blank">Microsoft says it will no longer use engineers in China for Department of Defense work</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-19 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +151,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date" target="_blank">Here’s how to save on a Samsung Galaxy Z Fold 7 preorder</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-07-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/19/these-are-our-favorite-cyber-books-on-hacking-espionage-crypto-surveillance-and-more/" target="_blank">These are our favorite cyber books on hacking, espionage, crypto, surveillance, and more</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-19 15:00</span>
             </div>
         </div>
@@ -287,22 +286,13 @@
                 <span class="time">2025-07-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/18/itch-io" target="_blank">Itch.io</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-18 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
