@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 06:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 07:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 06:02 UTC</div>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/four-dead-as-south-korea-lashed-by-torrential-rain-displacing-thousands?traffic_source=rss" target="_blank">Four dead as South Korea lashed by torrential rain, displacing thousands</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-19 05:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/back-maga-supporters-rally-trump-wsj-article/story?id=123872097" target="_blank">&#x27;We are so back&#x27;: MAGA supporters rally around Trump following WSJ article</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-19 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="DOJ files request to unseal Epstein grand jury records after uproar over files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-suggests-smoking-gun-jeffrey-epstein-files/story?id=123860043" target="_blank">DOJ files request to unseal Epstein grand jury records after uproar over files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-18 23:48</span>
             </div>
         </div>
 </div>
@@ -199,6 +195,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Self-Hosting Setup</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-19 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Ultimate Self-Hosting Setup</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-19 02:56</span>
@@ -211,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/dev_patel_35864ca1db6093c/understanding-derivatives-the-slope-of-change-290f" target="_blank">Understanding Derivatives: The Slope of Change</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe9o9jfqeug85c0uh3qfg.png" alt="20 Go Performance Tricks I Learned the Hard Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leapcell/20-go-performance-tricks-i-learned-the-hard-way-2h8h" target="_blank">20 Go Performance Tricks I Learned the Hard Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 02:27</span>
             </div>
         </div>
 </div>
@@ -327,22 +323,13 @@
                 <span class="time">2025-07-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/18/itch-io" target="_blank">Itch.io</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-18 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
