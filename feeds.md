@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 17:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 18:01:44 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158b/live/c59651f0-64b0-11f0-9881-954771c01d18.jpg" alt="Ninety-six arrests at Palestine Action ban protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20rvdexj8jo" target="_blank">Ninety-six arrests at Palestine Action ban protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-19 16:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +105,6 @@
                 <span class="time">2025-07-19 14:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-listening-post/2025/7/19/the-epstein-crisis-a-maga-mess-of-trumps-making?traffic_source=rss" target="_blank">The Epstein Crisis: A MAGA mess of Trump’s making</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 13:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +114,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/" target="_blank">David Sacks and the blurred lines of government service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-19 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/" target="_blank">The perfect pitch: This NEA partner says every founder should answer these 5 questions</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6878199ab0beb0806a0737e2/master/pass/Cowdstrike-outage-2024-Security-2162011685.jpg" alt="At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/" target="_blank">At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-19 15:54</span>
             </div>
         </div>
 <div class="story">
@@ -140,24 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/mobile/709093/nothing-phone-3-review" target="_blank">Nothing Phone 3 review: flagship-ish</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b0adcbc398274954124ff/master/pass/How%20to%20Get%20the%20Most%20Out%20of%20(or%20Into)%20Your%20Robot%20Vacuum.png" alt="Robot Vacuum Tips to Help You Keep a Tidy Home (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/" target="_blank">Robot Vacuum Tips to Help You Keep a Tidy Home (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-19 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b17f31d005c057f7adcb0/master/pass/How%20to%20Buy%20an%20Electric%20Bike.png" alt="How to Buy an Electric Bike (2025): Classes, Range, Repairs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-buy-an-electric-bike/" target="_blank">How to Buy an Electric Bike (2025): Classes, Range, Repairs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-19 13:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 108 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
