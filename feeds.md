@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 03:27:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-19 04:08:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 03:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Malicious-AURs" target="_blank">Arch Linux AUR Packages For Firefox &amp; Other Browsers Removed For Containing Malware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-19 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://codecaptured.com/blog/my-ultimate-self-hosting-setup/" target="_blank">My Ultimate Self-Hosting Setup</a></span>
                 <span class="feed">Hacker News</span>
@@ -210,15 +220,6 @@
                 <span class="time">2025-07-18 23:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/05/vmware-Workstation-on-Ubuntu-running-Windows-11-1.jpg?resize=406%2C232&amp;ssl=1" alt="4 Critical Security Flaws Patched in VMware Workstation Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/vmware-workstation-pro-update-security-patches" target="_blank">4 Critical Security Flaws Patched in VMware Workstation Pro</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-18 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/trump-mad.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump files $10 billion lawsuit against Wall Street Journal over alleged Epstein birthday card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/18/trump-files-10-billion-lawsuit-against-wall-street-journal-over-alleged-epstein-birthday-card.html" target="_blank">Trump files $10 billion lawsuit against Wall Street Journal over alleged Epstein birthday card</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-19 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Spider-Man-Beyond-Spider-Verse-miles-1.jpg" alt="‘Spider-Man: Beyond the Spider-Verse’ Is Delayed Again, but Only for a Bit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +302,6 @@
                 <span class="time">2025-07-18 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Kash_Patel_52588173144.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FBI deployed 1,000 agents to search Epstein files for Trump mentions, whistleblower says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/18/fbi-deployed-1000-agents-to-search-epstein-files-for-trump-mentions-whistleblower-says.html" target="_blank">FBI deployed 1,000 agents to search Epstein files for Trump mentions, whistleblower says</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-18 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,22 +334,13 @@
                 <span class="time">2025-07-18 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/replication_crisis.png" alt="Replication Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3117/" target="_blank">Replication Crisis</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-18 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
