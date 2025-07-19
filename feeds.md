@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 00:04:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-19 01:29:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-rt-jef-250718_1752844434141_hpMain_4x3t_384.jpg" alt="DOJ files request to unseal Epstein grand jury records after uproar over files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-suggests-smoking-gun-jeffrey-epstein-files/story?id=123860043" target="_blank">DOJ files request to unseal Epstein grand jury records after uproar over files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-18 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752886341645_nn_gha_trump_sues_for_10_billion_over_wsjs_epstein_report_250718_1920x1080-1eugn7.jpg" alt="Trump sues for $10 billion over WSJ’s Epstein report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-sues-for-10-billion-over-wsj-s-epstein-report-243496005615" target="_blank">Trump sues for $10 billion over WSJ’s Epstein report</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-18 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-syria-alex-crawford_6968168.jpg?20250718213355" alt="Every shop and home burned or ransacked: The Syrian city engulfed in tribal violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/every-shop-and-home-burned-or-ransacked-the-syrian-city-engulfed-in-tribal-violence-13398653" target="_blank">Every shop and home burned or ransacked: The Syrian city engulfed in tribal violence</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-18 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,38 +104,20 @@
                 <span class="time">2025-07-18 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752874431935_now_hallie_wsj_trump_250718_1920x1080-63ejre.jpg" alt="Trump sues WSJ over Epstein report and pushes to unseal grand jury files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-sues-wsj-over-epstein-report-and-pushes-to-unseal-grand-jury-files-243487301939" target="_blank">Trump sues WSJ over Epstein report and pushes to unseal grand jury files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-18 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250716-donald-trump-mn-1256-259506.jpg" alt="Trump sues Wall Street Journal&#x27;s publisher and 2 reporters over Epstein article" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-sues-wall-street-journals-publisher-reporters-epstein-article-rcna219703" target="_blank">Trump sues Wall Street Journal&#x27;s publisher and 2 reporters over Epstein article</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-18 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump sues Murdoch for libel over Jeffrey Epstein letter story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump sues Murdoch for libel over Jeffrey Epstein letter story</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-18 21:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/18/benchmark-in-talks-to-lead-series-a-for-greptile-valuing-ai-code-reviewer-at-180m-sources-say/" target="_blank">Benchmark in talks to lead Series A for Greptile, valuing AI-code reviewer at $180M, sources say</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-18 23:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,21 +155,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-500x500-1738093209.jpg" alt="As White House talks about impounding NASA funding, Congress takes the threat seriously" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak" target="_blank">The best instant cameras you can buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-18 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/cursor-snaps-up-enterprise-startup-koala-in-challenge-to-github-copilot/" target="_blank">Cursor snaps up enterprise startup Koala in challenge to GitHub Copilot</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 19:56</span>
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" target="_blank">As White House talks about impounding NASA funding, Congress takes the threat seriously</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-18 20:54</span>
             </div>
         </div>
 </div>
@@ -157,6 +168,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3318002%2Ff449a2c1-156d-46e4-8436-553a693bf056.png" alt="How i make the first AI fake product DETECTOR :)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/getappsai/how-i-make-the-first-ai-fake-product-detector--24f7" target="_blank">How i make the first AI fake product DETECTOR :)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 01:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +222,6 @@
                 <span class="time">2025-07-18 20:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519374&w=600" alt="How to Expose IBM FS Cloud Container App to Public" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-expose-ibm-fs-cloud-container-app-to-public" target="_blank">How to Expose IBM FS Cloud Container App to Public</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-18 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,15 +245,6 @@
                 <span class="time">2025-07-18 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/" target="_blank">Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-18 01:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -264,6 +266,15 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-z-fold7-amazon-preorder?utm_medium=RSS" target="_blank">Pre-Orders of the Samsung Galaxy Z Fold7 Include a $300 Amazon Gift Card</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-18 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/1min.AI-Advanced-Business-Plan-Lifetime-Subscription-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="The AI space race may have a winner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/18/the-ai-space-race-may-have-a-winner.html" target="_blank">The AI space race may have a winner</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-18 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -291,15 +302,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/18/fbi-deployed-1000-agents-to-search-epstein-files-for-trump-mentions-whistleblower-says.html" target="_blank">FBI deployed 1,000 agents to search Epstein files for Trump mentions, whistleblower says</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-18 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0FCH6Q1PZXQB357DZ38FTZB/hero-image.png" alt="I&#x27;m Not Multitasking During At-Home Workouts Anymore (and You Shouldn&#x27;t Either)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/not-multitasking-during-home-workouts?utm_medium=RSS" target="_blank">I&#x27;m Not Multitasking During At-Home Workouts Anymore (and You Shouldn&#x27;t Either)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-18 20:00</span>
             </div>
         </div>
 </div>
@@ -348,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
