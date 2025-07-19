@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 10:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-19 11:01:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, July 19, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/vehicle-driven-into-crowd-in-los-angeles-injuring-more-than-20-lafd-2?traffic_source=rss" target="_blank">Vehicle driven into crowd in Los Angeles injuring more than 20: LAFD</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-19 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-9-ap-er-250715_1752608657520_hpMain_4x3t_384.jpg" alt="What have Trump&#x27;s tariffs achieved so far? Experts weigh in." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/trumps-tariffs-achieved-experts-weigh/story?id=123859218" target="_blank">What have Trump&#x27;s tariffs achieved so far? Experts weigh in.</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-19 10:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c6/live/e24b2f30-63f9-11f0-8ab2-3decfbe5acd5.jpg" alt="Amber warning as thunderstorms set to bring flash floods" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2025-07-19 02:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b3/live/ff4729b0-6415-11f0-8566-ed46720cdaf3.jpg" alt="Trump administration asks court to release some Epstein documents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23g5xpggzmo" target="_blank">Trump administration asks court to release some Epstein documents</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-19 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/russia-ukraine-war-list-of-key-events-day-1241?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,241</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 02:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687aadc91c05d85bf540909d/master/pass/Security-Roundup-Salt-Typhoon-Chinese-Hackers-Security-1327877479.jpg" alt="China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/" target="_blank">China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-19 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2025-07-18 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/18/servicenows-acquisition-of-moveworks-is-reportedly-being-reviewed-over-antitrust-concerns/" target="_blank">ServiceNow’s acquisition of Moveworks is reportedly being reviewed over antitrust concerns</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-18 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Burn-MATMUL-Kernels-CUDA" target="_blank">Open-Source &amp; Rust-Written Burn MATMUL Kernels Can Compete With NVIDIA&#x27;s CUDA/cuBLAS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-19 10:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/en/headerimage/generatedHeaderImage-1752752513432.jpg" alt="Google Cloud Introduces Non-Disruptive Cloud Storage Bucket Relocation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/snowball0002/why-used-condition-fails-in-ebay-inventory-api-action-figure-category-4pm6" target="_blank">Why &quot;USED&quot; Condition Fails in eBay Inventory API (Action Figure Category)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqzxvx6afbwm055fg0cr4.png" alt="Conectando Backend e Frontend - Next Js + Nest Js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alsetchannel/conectando-backend-e-frontend-next-js-nest-js-4gdo" target="_blank">Conectando Backend e Frontend - Next Js + Nest Js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-19 04:49</span>
             </div>
         </div>
 </div>
@@ -330,7 +326,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 10:01 UTC
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
