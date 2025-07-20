@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 03:31:11 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-20 04:16:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 03:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9495/live/d2401f40-651d-11f0-8dbd-f3d32ebd3327.jpg" alt="Syria struggles to quell deadly Bedouin-Druze clashes in south" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0m87d4p9gvo" target="_blank">Syria struggles to quell deadly Bedouin-Druze clashes in south</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-20 04:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5469908/trump-npr-public-community-radio-corporation-broadcasting-federal-funding-cuts" target="_blank">Cuts to public media will smash budgets of some local radio stations</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/russia-ukraine-war-list-of-key-events-day-1242?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,242</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-20 03:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/texas-flood-debris-04-gty-jt-250705_1751738269956_hpMain_4x3t_384.jpg" alt="Number of missing in Texas floods drops from nearly 100 to 3 in hard-hit county" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/19/g-s1-78420/palestinians-food-aid-deaths" target="_blank">32 Palestinians killed trying to reach food distribution hubs, Gaza authorities say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-19 23:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752966744417_nn_yal_doj_seeks_court_release_of_grand_jury_docs_epstein_250719_1920x1080-kk8hwm.jpg" alt="Trump asks Department of Justice to release ‘all Grand Jury testimony’  from Epstein case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-asks-department-of-justice-to-release-all-grand-jury-testimony-from-epstein-case-243517509921" target="_blank">Trump asks Department of Justice to release ‘all Grand Jury testimony’  from Epstein case</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-19 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/19/usyk-knocks-out-dubois-to-unify-heavyweight-boxing-belts?traffic_source=rss" target="_blank">Usyk knocks out Dubois in fifth to unify heavyweight boxing belts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5464149/examining-the-role-of-men-in-the-gender-gap-in-american-society" target="_blank">Examining the role of men in the gender gap in American society</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-19 22:49</span>
             </div>
         </div>
 </div>
@@ -299,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
