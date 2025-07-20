@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 19:01:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-20 20:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/japans-far-right-party-makes-electoral-gains-with-anti-globalist-message?traffic_source=rss" target="_blank">Japan’s far-right party makes electoral gains with anti-globalist message</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-20 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474123/100-killed-seeking-aid-gaza-palestinian" target="_blank">Nearly 100 people killed seeking aid in Gaza on Sunday, Palestinian officials say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-20 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5473886/india-centenarian-marathon-speeding-car" target="_blank">Age didn&#x27;t kill India&#x27;s beloved centenarian marathon runner. A speeding car did.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f278/live/a67ebca0-6553-11f0-9a2a-e5f350a58481.jpg" alt="Israel issues new evacuation orders in crowded central Gazan city" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israel issues new evacuation orders in crowded central Gazan city</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-20 11:58</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc7-sched-urgent" target="_blank">Linux 6.16-rc7 Bringing Fix For Possible Bogus/Miscalculated Load Averages</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-20 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do" target="_blank">How to Make Your First Chrome Extension with Manifest V3</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V" target="_blank">NVIDIA Bringing CUDA To RISC-V</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-20 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon" target="_blank">Implementing Light/Dark Theme - My Struggles and Tips</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 12:49</span>
             </div>
         </div>
 </div>
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
