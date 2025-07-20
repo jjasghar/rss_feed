@@ -1,40 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 17:01:31 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-20 18:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f278/live/a67ebca0-6553-11f0-9a2a-e5f350a58481.jpg" alt="Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-20 15:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,15 +91,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/tech/internet/maga-ai-bot-network-divided-trump-epstein-backlash-rcna219167" target="_blank">A MAGA bot network on X is divided over the Trump-Epstein backlash</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-20 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5471268/teens-ai-friends-chat-risks" target="_blank">Most teens have used AI to flirt and chat — but still prefer human interaction</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 11:00</span>
             </div>
         </div>
 </div>
@@ -169,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/topgrade.jpg?resize=406%2C232&amp;ssl=1" alt="This Tool Upgrades Everything on Ubuntu with One Command" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/topgrade-ubuntu-one-command-updater" target="_blank">This Tool Upgrades Everything on Ubuntu with One Command</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-20 16:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="How to Use minio-go for S3-Compatible Storage in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi" target="_blank">The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-20 11:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-CRC32C-VPCLMULQDQ" target="_blank">Linux Kernel Patches Speed-Up CRC32 Performance For CPUs With &quot;Good&quot; AVX-512</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-20 11:05</span>
             </div>
         </div>
 </div>
@@ -283,11 +272,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1752732385-20250721.png" alt="Saturday Morning Breakfast Cereal - Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/monster-3" target="_blank">Saturday Morning Breakfast Cereal - Monster</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-20 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
