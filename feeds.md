@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 10:01:29 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-20 11:01:23 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/20/arrested-kenyan-activist-boniface-mwangi-faces-terror-charges" target="_blank">Arrested Kenyan activist Boniface Mwangi faces terror charges</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-20 10:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2025-07-20 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/russia-ukraine-war-list-of-key-events-day-1242?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,242</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-20 03:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6879325a19fb0e4d83fc6b2d/master/pass/_%20Commodore%2064U%20Starlight.jpg" alt="This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/" target="_blank">This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,20 @@
                 <span class="time">2025-07-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6878199ab0beb0806a0737e2/master/pass/Cowdstrike-outage-2024-Security-2162011685.jpg" alt="At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/" target="_blank">At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-19 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-13-RISC-V-Ready" target="_blank">Debian 13.0 Ready To Introduce Formal RISC-V Support But Still Bound By Slow Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-20 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/pulumi-terraform-module-support/en/headerimage/header-1752699630403.jpeg" alt="Pulumi Enables Direct Consumption of Terraform Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,19 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/_a3742acef86a9239f63/building-a-mini-dbaas-with-kubernetes-in-one-week-part-1-architecture-overview-3eka" target="_blank">Building a Mini DBaaS with Kubernetes in One Week - Part 1: Architecture Overview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrcaption49/utlfile-practical-guide-mrcaption49-4492" target="_blank">UTL_FILE – Practical Guide | mrcaption49</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 05:47</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html" target="_blank">The bewildering phenomenon of declining quality</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-20 08:10</span>
             </div>
         </div>
 </div>
@@ -222,6 +222,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Larq-Bottle-PureVis-2-review-04.jpg" alt="Larq Bottle PureVis 2 Review: Drinking Water as a Video Game Isn’t as Dumb as It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/larq-bottle-purevis-2-review-drinking-water-as-a-video-game-isnt-as-dumb-as-it-sounds-2000631132" target="_blank">Larq Bottle PureVis 2 Review: Drinking Water as a Video Game Isn’t as Dumb as It Sounds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/juno-pic-jupiter-south-pole.jpg" alt="Astronomers Detect Entirely New Type of Plasma Wave Above Jupiter’s North Pole" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +276,6 @@
                 <span class="time">2025-07-19 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/mortalkombat2-scorpion.jpg" alt="‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mortal-kombat-ii-is-ready-to-be-a-bigger-better-sequel-2000631526" target="_blank">‘Mortal Kombat II’ Is Ready to Be a Bigger, Better Sequel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-19 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
