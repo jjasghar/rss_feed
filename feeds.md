@@ -1,49 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 21:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-20 22:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 40 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b3/live/bbf49400-6581-11f0-9658-9540642a5f19.jpg" alt="New water ombudsman will tackle leaks and overcharging" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c056r4jzg88o" target="_blank">New water ombudsman will tackle leaks and overcharging</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-20 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ICE-LA-protest-20250720-getty-jh_1753029642819_hpMain_4x3t_384.jpg" alt="&#x27;When the raids started, fear spread&#x27;: LA Mayor Bass on Trump&#x27;s deportation efforts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/raids-started-fear-spread-la-mayor-bass-trumps/story?id=123902468" target="_blank">&#x27;When the raids started, fear spread&#x27;: LA Mayor Bass on Trump&#x27;s deportation efforts</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-20 21:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5430394/jane-austen-fans-mark-250-years-since-the-writers-birth-with-a-wave-of-parties" target="_blank">Jane Austen fans mark 250 years since the writer&#x27;s birth with a wave of parties</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-20 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ICE-LA-protest-20250720-getty-jh_1753029642819_hpMain_4x3t_384.jpg" alt="‘When the raids started, fear spread’: LA Mayor Bass on Trump&#x27;s deportation efforts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/raids-started-fear-spread-la-mayor-bass-trumps/story?id=123902468" target="_blank">‘When the raids started, fear spread’: LA Mayor Bass on Trump&#x27;s deportation efforts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-20 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/heatwave-causes-water-shortages-in-iran-as-temps-top-50c?traffic_source=rss" target="_blank">Heatwave causes water shortages in Iran as temps top 50C</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-20 16:33</span>
             </div>
         </div>
 </div>
@@ -255,6 +240,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/1min.AI-Advanced-Business-Plan-Lifetime-Subscription-1-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="$185 for a laptop that actually runs? Student sidekick secured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/20/185-for-a-laptop-that-actually-runs-student-sidekick-secured.html" target="_blank">$185 for a laptop that actually runs? Student sidekick secured</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2021/09/26c303726ec2038b053a894424992578.jpg" alt="Ethereum Is Quietly Soaring. What Comes Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,15 +275,6 @@
                 <span class="time">2025-07-20 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/juno-pic-jupiter-south-pole.jpg" alt="Astronomers Detect Entirely New Type of Plasma Wave Above Jupiter’s North Pole" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/astronomers-detect-entirely-new-type-of-plasma-wave-above-jupiters-north-pole-2000630859" target="_blank">Astronomers Detect Entirely New Type of Plasma Wave Above Jupiter’s North Pole</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
