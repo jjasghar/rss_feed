@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 13:10:27 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-20 14:01:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +116,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/710047/labubu-pop-mart-blind-boxes-scarcity-marketing" target="_blank">The frenzied, gamified chase for Labubus</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/" target="_blank">Tesla loses its charm for India’s loyalists — even as Musk finally delivers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media" target="_blank">The intolerable memes of Alligator Alcatraz</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-20 13:00</span>
@@ -139,29 +166,20 @@
                 <span class="time">2025-07-20 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223867721-500x500.jpg" alt="Southwestern drought likely to continue through 2100, research finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/southwestern-drought-likely-to-continue-through-2100-research-finds/" target="_blank">Southwestern drought likely to continue through 2100, research finds</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-20 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879325a19fb0e4d83fc6b2d/master/pass/_%20Commodore%2064U%20Starlight.jpg" alt="This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/" target="_blank">This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V" target="_blank">NVIDIA Bringing CUDA To RISC-V</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-20 13:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,20 +225,20 @@
                 <span class="time">2025-07-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Self-implemented IFTTT Pro&#x27;s RSS feed notification feature with AWS serverless architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope" target="_blank">Self-implemented IFTTT Pro&#x27;s RSS feed notification feature with AWS serverless architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/titan.jpg" alt="Titan’s Methane Lakes Could Form Bubble-Like Structures Essential to Life, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/titans-methane-lakes-could-form-bubble-like-structures-essential-to-life-scientists-say-2000630865" target="_blank">Titan’s Methane Lakes Could Form Bubble-Like Structures Essential to Life, Scientists Say</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-20 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Larq-Bottle-PureVis-2-review-04.jpg" alt="Larq Bottle PureVis 2 Review: Drinking Water as a Video Game Isn’t as Dumb as It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +284,6 @@
                 <span class="time">2025-07-19 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/marvel-ultimate-endgame.jpg" alt="Marvel’s Ultimate Universe Is Approaching Its Endgame" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvels-ultimate-universe-is-approaching-its-endgame-2000631438" target="_blank">Marvel’s Ultimate Universe Is Approaching Its Endgame</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-19 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
