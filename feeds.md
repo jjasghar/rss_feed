@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 22:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-20 23:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin" target="_blank">Trump administration shuts down EPA&#x27;s scientific research arm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 22:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b3/live/bbf49400-6581-11f0-9658-9540642a5f19.jpg" alt="New water ombudsman will tackle leaks and overcharging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474123/100-killed-seeking-aid-gaza-palestinian" target="_blank">Nearly 100 people killed seeking aid in Gaza on Sunday, Palestinian officials say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-20 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5430394/jane-austen-fans-mark-250-years-since-the-writers-birth-with-a-wave-of-parties" target="_blank">Jane Austen fans mark 250 years since the writer&#x27;s birth with a wave of parties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 18:42</span>
             </div>
         </div>
 </div>
@@ -163,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0md1nxbrtn3z63zvdoe.jpg" alt="How Kinde Billing Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc" target="_blank">How Kinde Billing Actually Works</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-20 22:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd" target="_blank">The SQL Renaissance: More Than Just Tables</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-20 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling" target="_blank">Staying cool without refrigerants: Next-generation Peltier cooling</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-20 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do" target="_blank">How to Make Your First Chrome Extension with Manifest V3</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-20 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/topgrade.jpg?resize=406%2C232&amp;ssl=1" alt="This Tool Upgrades Everything on Ubuntu with One Command" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/topgrade-ubuntu-one-command-updater" target="_blank">This Tool Upgrades Everything on Ubuntu with One Command</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-20 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="How to Use minio-go for S3-Compatible Storage in Go" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/how-to-use-minio-go-for-s3-compatible-storage-in-go-5eai" target="_blank">How to Use minio-go for S3-Compatible Storage in Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 16:50</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
