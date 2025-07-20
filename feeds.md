@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 12:01:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-20 13:10:27 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +51,24 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israel issues new evacuation orders in crowded central Gazan city</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-20 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-maga-bots-x-to-dfc72c.jpg" alt="A MAGA bot network on X is divided over the Trump-Epstein backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/internet/maga-ai-bot-network-divided-trump-epstein-backlash-rcna219167" target="_blank">A MAGA bot network on X is divided over the Trump-Epstein backlash</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-20 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5471268/teens-ai-friends-chat-risks" target="_blank">Most teens have used AI to flirt and chat — but still prefer human interaction</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +98,29 @@
                 <span class="time">2025-07-20 10:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5473901/japan-election-ishiba" target="_blank">Japan votes in a key election as Prime Minister Ishiba faces a possible loss</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ce/live/11a01780-6532-11f0-80c4-01fda5be40ab.jpg" alt="At least 14 dead in South Korea floods and landslides" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwygzxd8g9jo" target="_blank">At least 14 dead in South Korea floods and landslides</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-20 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media" target="_blank">The intolerable memes of Alligator Alcatraz</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687b5eec67619bad37581c73/master/pass/The%20Best%20Dolby%20Atmos%20Experience%20Could%20Be%20Waiting%20in%20Your%20Driveway.png" alt="The Ultimate Dolby Atmos Experience Might Be In Your Car" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/" target="_blank">The Ultimate Dolby Atmos Experience Might Be In Your Car</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-20 12:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,6 +140,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223867721-500x500.jpg" alt="Southwestern drought likely to continue through 2100, research finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/southwestern-drought-likely-to-continue-through-2100-research-finds/" target="_blank">Southwestern drought likely to continue through 2100, research finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-20 11:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6879325a19fb0e4d83fc6b2d/master/pass/_%20Commodore%2064U%20Starlight.jpg" alt="This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -133,38 +157,20 @@
                 <span class="time">2025-07-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs" target="_blank">Anker Nebula X1 review: a terrific home theater that goes anywhere</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-20 06:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/19/microsoft-says-it-will-no-longer-use-engineers-in-china-for-department-of-defense-work/" target="_blank">Microsoft says it will no longer use engineers in China for Department of Defense work</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-19 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/19/astronomer-ceo-resigns-following-coldplay-concert-scandal/" target="_blank">Astronomer CEO resigns following Coldplay concert scandal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-19 20:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uzzy412_73/implementing-lightdark-theme-my-struggles-and-tips-1aon" target="_blank">Implementing Light/Dark Theme - My Struggles and Tips</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-20 12:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope" target="_blank">Self-implemented IFTTT Pro&#x27;s RSS feed notification feature with AWS serverless architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-20 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/en/headerimage/generatedHeaderImage-1752959002177.jpg" alt="Wix Adds Chaos to CI/CD Pipelines with AI and Improves Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Wix Adds Chaos to CI/CD Pipelines with AI and Improves Reliability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-20 09:00</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
