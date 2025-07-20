@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 14:01:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-20 15:01:20 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5473886/india-centenarian-marathon-speeding-car" target="_blank">Age didn&#x27;t kill India&#x27;s beloved centenarian marathon runner. A speeding car did.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f278/live/a67ebca0-6553-11f0-9a2a-e5f350a58481.jpg" alt="Israel issues new evacuation orders in crowded central Gazan city" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +96,20 @@
                 <span class="time">2025-07-20 10:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/20/arrested-kenyan-activist-boniface-mwangi-faces-terror-charges" target="_blank">Arrested Kenyan activist Boniface Mwangi faces terror charges</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-20 10:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687b5256d4a901096a09c8b8/master/pass/Best%20Switch%202%20Controllers_.png" alt="Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-nintendo-switch-2-controllers/" target="_blank">Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-20 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +155,20 @@
                 <span class="time">2025-07-20 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687acfc0d38494b55a1e9916/master/pass/Limit-Galaxy-AI-Gear-2214204053.jpg" alt="How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/" target="_blank">How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-20 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.jonudell.net/2025/07/18/introducing-xmlui/" target="_blank">XMLUI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-20 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,20 +214,20 @@
                 <span class="time">2025-07-20 10:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/pulumi-terraform-module-support/en/headerimage/header-1752699630403.jpeg" alt="Pulumi Enables Direct Consumption of Terraform Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/pulumi-terraform-module-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Enables Direct Consumption of Terraform Modules</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-20 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/09/26c303726ec2038b053a894424992578.jpg" alt="Ethereum Is Quietly Soaring. What Comes Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ethereum-is-quietly-soaring-what-comes-next-2000631839" target="_blank">Ethereum Is Quietly Soaring. What Comes Next?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-20 14:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/titan.jpg" alt="Titan’s Methane Lakes Could Form Bubble-Like Structures Essential to Life, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +273,6 @@
                 <span class="time">2025-07-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-gorn.jpg" alt="‘Star Trek: Strange New Worlds’ Isn’t Done With the Gorn Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-isnt-done-with-the-gorn-yet-2000631552" target="_blank">‘Star Trek: Strange New Worlds’ Isn’t Done With the Gorn Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-19 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
