@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-19 23:01:28 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-20 00:05:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +47,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/19/g-s1-78420/palestinians-food-aid-deaths" target="_blank">32 Palestinians killed trying to reach food distribution hubs, Gaza authorities say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-19 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1752966744417_nn_yal_doj_seeks_court_release_of_grand_jury_docs_epstein_250719_1920x1080-kk8hwm.jpg" alt="Trump asks Department of Justice to release ‘all Grand Jury testimony’  from Epstein case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-asks-department-of-justice-to-release-all-grand-jury-testimony-from-epstein-case-243517509921" target="_blank">Trump asks Department of Justice to release ‘all Grand Jury testimony’  from Epstein case</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-19 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/19/usyk-knocks-out-dubois-to-unify-heavyweight-boxing-belts?traffic_source=rss" target="_blank">Usyk knocks out Dubois in fifth to unify heavyweight boxing belts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-19 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5464149/examining-the-role-of-men-in-the-gender-gap-in-american-society" target="_blank">Examining the role of men in the gender gap in American society</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-19 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-syria-middle-east-sweida_6968925.png?20250719225235" alt="Inside besieged Syrian city ravaged by sectarian violence - where bodies line streets and homes are burned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/inside-sweida-the-syrian-city-ravaged-by-sectarian-violence-where-bodies-line-streets-and-homes-are-burned-13399070" target="_blank">Inside besieged Syrian city ravaged by sectarian violence - where bodies line streets and homes are burned</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-19 21:46</span>
             </div>
         </div>
 <div class="story">
@@ -57,42 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0m87d4p9gvo" target="_blank">Sectarian clashes erupt in Syria despite ceasefire announcement</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-19 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/la-car-crash-main-02-ap-jt-250719_1752929967857_hpMain_4x3t_384.jpg" alt="At least 30 injured after car plows into crowd outside music venue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/car-plows-crowd-los-angeles-after-driver-loses/story?id=123887059" target="_blank">At least 30 injured after car plows into crowd outside music venue</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-19 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/19/nx-s1-5473444/tourist-boat-capsizes-vietnam-34-dead" target="_blank">Tourist boat capsizes during a thunderstorm in Vietnam, leaving 34 dead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-19 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/19/over-20-dead-after-tourist-boat-capsizes-in-vietnams-ha-long-bay?traffic_source=rss" target="_blank">Dozens dead after tourist boat capsizes in Vietnam’s Halong Bay</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-19 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158b/live/c59651f0-64b0-11f0-9881-954771c01d18.jpg" alt="Ninety-six arrests at Palestine Action ban protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20rvdexj8jo" target="_blank">Ninety-six arrests at Palestine Action ban protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-19 16:41</span>
             </div>
         </div>
 </div>
@@ -160,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arbythecoder/my-200-aws-mistake-how-i-learned-the-hard-way-that-free-tier-isnt-actually-free-ebg" target="_blank">My $200 AWS Mistake: How I Learned the Hard Way That &quot;Free Tier&quot; Isn&#x27;t Actually Free</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-19 23:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3364184%2Fc37c5399-fcf3-4110-8cf3-b686c1abe089.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/little_coding_things/-2jn0" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-19 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://sbaziotis.com/compilers/metap.html" target="_blank">metap: A Meta-Programming Layer for Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-19 21:19</span>
             </div>
         </div>
 <div class="story">
@@ -190,27 +210,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://infrastructurereportcard.org/" target="_blank">2025 Infrastructure Report Card</a></span>
+                <span class="title"><a href="https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/" target="_blank">Make Your Own Backup System – Part 1: Strategy Before Scripts</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://viralinstruction.com/posts/borrowchecker/" target="_blank">The borrowchecker is what I like the least about Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.emailprivacytester.com/badClients" target="_blank">Known Bad Email Clients</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-19 15:58</span>
+                <span class="time">2025-07-19 19:43</span>
             </div>
         </div>
 </div>
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
