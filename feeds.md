@@ -1,39 +1,49 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 20:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-20 21:01:25 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 40 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +59,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/20/why-are-so-many-palestinian-religious-sites-under-attack-by-israel?traffic_source=rss" target="_blank">Why are so many Palestinian religious sites under attack by Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-20 20:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +113,20 @@
                 <span class="time">2025-07-20 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f278/live/a67ebca0-6553-11f0-9a2a-e5f350a58481.jpg" alt="Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israeli forces kill 67 Palestinians seeking aid in northern Gaza, Hamas-run ministry says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-20 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xmen5-500x500-1752941188.jpg" alt="X-Men at 25 is more relevant than ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/07/x-men-at-25-is-more-relevant-than-ever/" target="_blank">X-Men at 25 is more relevant than ever</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-20 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +172,6 @@
                 <span class="time">2025-07-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media" target="_blank">The intolerable memes of Alligator Alcatraz</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,10 +180,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd" target="_blank">The SQL Renaissance: More Than Just Tables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-20 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc7-sched-urgent" target="_blank">Linux 6.16-rc7 Bringing Fix For Possible Bogus/Miscalculated Load Averages</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-20 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/ai-productivity/en/headerimage/generatedHeaderImage-1752897810891.jpg" alt="AI Coding Tools Underperform in Field Study with Experienced Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Coding Tools Underperform in Field Study with Experienced Developers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-20 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,29 +231,20 @@
                 <span class="time">2025-07-20 16:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.jonudell.net/2025/07/18/introducing-xmlui/" target="_blank">XMLUI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-20 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V" target="_blank">NVIDIA Bringing CUDA To RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-20 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/forever-purge.jpg" alt="‘The Purge’ Movies May Return to Keep America Violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-purge-movies-may-return-to-keep-america-violent-2000631851" target="_blank">‘The Purge’ Movies May Return to Keep America Violent</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-20 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/superman-movies-ranked.jpg" alt="‘Superman’ Reignites Interest in ‘Man of Steel’ and ‘Peacemaker’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +290,6 @@
                 <span class="time">2025-07-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Elon-Musk-Trump-May-30-2025.jpg" alt="How Elon Musk Created a Nightmare for Donald Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-elon-musk-created-a-nightmare-for-donald-trump-2000631776" target="_blank">How Elon Musk Created a Nightmare for Donald Trump</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-19 22:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,7 +310,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 20:01 UTC
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
