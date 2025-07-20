@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 11:01:23 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-20 12:01:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f278/live/a67ebca0-6553-11f0-9a2a-e5f350a58481.jpg" alt="Israel issues new evacuation orders in crowded central Gazan city" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8rp62480r3o" target="_blank">Israel issues new evacuation orders in crowded central Gazan city</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-20 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5468516/lesotho-tariffs-africa" target="_blank">&quot;We are on our knees&quot;: U.S. tariffs devastate Lesotho&#x27;s garment workers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4316/live/6f67d6a0-655f-11f0-89ea-4d6f9851f623.png" alt="Sewage discharges to halve by 2030 in &#x27;water revolution&#x27;, minister pledges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g8m8r6grzo" target="_blank">Sewage discharges to halve by 2030 in &#x27;water revolution&#x27;, minister pledges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-20 10:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +101,29 @@
                 <span class="time">2025-07-20 07:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5473878/missing-floods-drops-3-kerr-county" target="_blank">3 people are still missing from deadly floods in Texas county, down from nearly 100</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9495/live/d2401f40-651d-11f0-8dbd-f3d32ebd3327.jpg" alt="Syria struggles to quell deadly Bedouin-Druze clashes in south" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0m87d4p9gvo" target="_blank">Syria struggles to quell deadly Bedouin-Druze clashes in south</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-20 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5469908/trump-npr-public-community-radio-corporation-broadcasting-federal-funding-cuts" target="_blank">Cuts to public media will smash budgets of some local radio stations</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/710035/amazon-alexa-plus-ai-agent-features-hands-on" target="_blank">I asked Alexa Plus to tackle my to-do list — it mostly failed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687acfc0d38494b55a1e9916/master/pass/Limit-Galaxy-AI-Gear-2214204053.jpg" alt="How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/" target="_blank">How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-20 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6879325a19fb0e4d83fc6b2d/master/pass/_%20Commodore%2064U%20Starlight.jpg" alt="This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +160,29 @@
                 <span class="time">2025-07-19 20:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/19/david-sacks-and-the-blurred-lines-of-government-service/" target="_blank">David Sacks and the blurred lines of government service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-19 17:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/" target="_blank">The perfect pitch: This NEA partner says every founder should answer these 5 questions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karthikeyans21/the-power-of-html-part-22-the-future-of-html-webassembly-ai-integration-and-predictions-4ngi" target="_blank">The Power of HTML - Part 22: The Future of HTML: WebAssembly, AI Integration, and Predictions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-20 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-CRC32C-VPCLMULQDQ" target="_blank">Linux Kernel Patches Speed-Up CRC32 Performance For CPUs With &quot;Good&quot; AVX-512</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-20 11:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Wix Adds Chaos to CI/CD Pipelines with AI and Improves Reliability</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-20 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dpvasani56/docker-orchestration-with-aws-ecs-full-guide-with-nodejs-production-testing-tips-4i9f" target="_blank">Docker Orchestration with AWS ECS – Full Guide (with Node.js Production Testing &amp; Tips</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 08:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html" target="_blank">The bewildering phenomenon of declining quality</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-20 08:10</span>
             </div>
         </div>
 </div>
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
