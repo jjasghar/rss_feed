@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 09:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-20 10:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, July 20, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5473901/japan-election-ishiba" target="_blank">Japan votes in a key election as Prime Minister Ishiba faces a possible loss</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-20 09:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ce/live/11a01780-6532-11f0-80c4-01fda5be40ab.jpg" alt="At least 14 dead in South Korea floods and landslides" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/russia-ukraine-war-list-of-key-events-day-1242?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,242</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-20 03:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/texas-flood-debris-04-gty-jt-250705_1751738269956_hpMain_4x3t_384.jpg" alt="Number of missing in Texas floods drops from nearly 100 to 3 in hard-hit county" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/number-missing-texas-floods-drops-100-3/story?id=123898660" target="_blank">Number of missing in Texas floods drops from nearly 100 to 3 in hard-hit county</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-20 02:22</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/pulumi-terraform-module-support/en/headerimage/header-1752699630403.jpeg" alt="Pulumi Enables Direct Consumption of Terraform Modules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/pulumi-terraform-module-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pulumi Enables Direct Consumption of Terraform Modules</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-20 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Self-implemented IFTTT Pro&#x27;s RSS feed notification feature with AWS serverless architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/masutaka/self-implemented-ifttt-pros-rss-feed-notification-feature-with-aws-serverless-architecture-2ope" target="_blank">Self-implemented IFTTT Pro&#x27;s RSS feed notification feature with AWS serverless architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-20 09:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/en/headerimage/generatedHeaderImage-1752959002177.jpg" alt="Wix Adds Chaos to CI/CD Pipelines with AI and Improves Reliability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -197,29 +217,20 @@
                 <span class="time">2025-07-20 05:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxbk9mlp7c72lzeazkmo.png" alt="I Built a Visual Roadmap Builder with a Twist – AI + Drag &amp; Drop Planning!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bugblitz98/i-built-a-visual-roadmap-builder-with-a-twist-ai-drag-drop-planning-1217" target="_blank">I Built a Visual Roadmap Builder with a Twist – AI + Drag &amp; Drop Planning!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srushti/state-of-mind-react-usestate-made-simple-part-1-4j73" target="_blank">State of Mind: React useState Made Simple - Part 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 02:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/juno-pic-jupiter-south-pole.jpg" alt="Astronomers Detect Entirely New Type of Plasma Wave Above Jupiter’s North Pole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/astronomers-detect-entirely-new-type-of-plasma-wave-above-jupiters-north-pole-2000630859" target="_blank">Astronomers Detect Entirely New Type of Plasma Wave Above Jupiter’s North Pole</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Elon-Musk-Trump-May-30-2025.jpg" alt="How Elon Musk Created a Nightmare for Donald Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +276,6 @@
                 <span class="time">2025-07-19 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Qlango-Language-Learning-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Learn 56 languages for less than one month of Duolingo Plus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/19/learn-56-languages-for-less-than-one-month-of-duolingo-plus.html" target="_blank">Learn 56 languages for less than one month of Duolingo Plus</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
