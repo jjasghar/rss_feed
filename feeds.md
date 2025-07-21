@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 13:13:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 14:02:21 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,9 +47,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/21/this-is-how-people-are-trying-not-to-starve-in-gaza?traffic_source=rss" target="_blank">This is how people are trying not to starve in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-explosion-DB-250721_1753085296988_hpMain_4x3t_384.jpg" alt="Moscow and Kyiv rocked by drone strikes as leaders position for fresh talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/scale-russia-ukraine-drone-strikes-builds-ahead-ceasefire/story?id=123916732" target="_blank">Moscow and Kyiv rocked by drone strikes as leaders position for fresh talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 13:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be9/live/b57da210-6603-11f0-a91e-6325aab01240.jpg" alt="Man accused of violent disorder at asylum hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyedn0vlg1o" target="_blank">Man accused of violent disorder at asylum hotel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/what-is-the-kill-zone-people-in-gaza-need-to-cross-to-receive-aid?traffic_source=rss" target="_blank">What is the ‘kill zone’ people in Gaza need to cross to receive aid?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-21 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-02/240206-harvard-university-campus-ac-441p-58b188.jpg" alt="Federal judge to hear arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-harvard-epstein-tariffs-doge-immigration-live-updates-rcna219794" target="_blank">Federal judge to hear arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-21 11:41</span>
             </div>
         </div>
 <div class="story">
@@ -58,47 +97,29 @@
                 <span class="time">2025-07-21 11:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/g-s1-78495/up-first-newsletter-harvard-university-texas-congressional-map-gaza-aid" target="_blank">Harvard and Trump admin. face off in court. And, Texas seeks new congressional map</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/syria-evacuates-bedouins-from-clashes-hit-suwayda-as-shaky-ceasefire-holds?traffic_source=rss" target="_blank">Syria evacuates Bedouins from clashes-hit Suwayda as shaky ceasefire holds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 10:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-dhaka-bangladesh-milestone_6969819.jpg?20250721113846" alt="Plane crashes into college campus in Bangladesh - at least 16 people dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-16-dead-after-plane-crashes-in-to-college-campus-in-bangladesh-13399574" target="_blank">Plane crashes into college campus in Bangladesh - at least 16 people dead</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-21 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250721-Nedzad-Avdic-mb-1025-a99d7f.jpg" alt="He survived a mass execution at 17. Now he&#x27;s fighting disinformation and denialism." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/europe/war-crime-genocide-denialism-disinformation-rcna219896" target="_blank">He survived a mass execution at 17. Now he&#x27;s fighting disinformation and denialism.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-21 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/apple-encryption-500x500-1741119073.jpg" alt="UK backing down on Apple encryption backdoor after pressure from US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/" target="_blank">UK backing down on Apple encryption backdoor after pressure from US</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g" target="_blank">T-Mobile is bringing low-latency tech to 5G for the first time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/the-judge-and-the-six-fingered-man-500x500.jpg" alt="It’s “frighteningly likely” many US courts will overlook AI errors, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,29 +156,20 @@
                 <span class="time">2025-07-21 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit" target="_blank">Microsoft SharePoint servers are under attack because of a major security flaw</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/xmen5-500x500-1752941188.jpg" alt="X-Men at 25 is more relevant than ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/07/x-men-at-25-is-more-relevant-than-ever/" target="_blank">X-Men at 25 is more relevant than ever</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-20 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hnq90/how-do-i-cancel-a-subscription-from-dev-mbe" target="_blank">How do I cancel a subscription from Dev++?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25 in RDP2, Spring Framework, Payara Platform, Open Liberty, Eclipse DataGrid</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-21 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayatas_technologies_ec1ca/understanding-the-mvp-approach-in-web-application-development-29j4" target="_blank">Understanding the MVP Approach in Web Application Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 10:48</span>
             </div>
         </div>
 </div>
@@ -313,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
