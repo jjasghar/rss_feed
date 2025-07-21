@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 21:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 22:01:37 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/21/what-are-the-implications-of-the-uk-ban-on-palestine-action?traffic_source=rss" target="_blank">What are the implications of the UK ban on Palestine Action?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gaza-5-rt-gmh-250721_1753109530764_hpMain_4x3t_384.jpg" alt="25 countries demand Israel end the war in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/25-countries-sign-statement-calling-end-war-gaza/story?id=123926786" target="_blank">25 countries demand Israel end the war in Gaza</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 21:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trumps-big-beautiful-bill-add-3-trillion-debt-cbo-says-rcna220004" target="_blank">Trump&#x27;s &#x27;big, beautiful bill&#x27; is projected to add $3.4 trillion to the debt, budget office says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-21 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472448/after-his-father-died-in-the-hospital-a-nurse-held-him-in-his-arms" target="_blank">After his father died in the hospital, a nurse held him in his arms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-food-aid_6970247.jpg?20250721190240" alt="Gaza food situation &#x27;worst it&#x27;s ever been&#x27;, charity says &amp;#8211; as UK promises &amp;#163;40m in aid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-food-situation-worst-its-ever-been-charity-says-8211-as-uk-promises-16340m-in-aid-13399832" target="_blank">Gaza food situation &#x27;worst it&#x27;s ever been&#x27;, charity says &amp;#8211; as UK promises &amp;#163;40m in aid</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30" target="_blank">🔥 Top 5 Emerging Trends in Smart Home AI for 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-6.4.2" target="_blank">AMD ROCm 6.4.2 Released With Official Support For The Radeon RX 7700 XT</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg" target="_blank">Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 20:47</span>
@@ -195,24 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/software-supply-chain-security-regulations-devsecops" target="_blank">Software Supply Chain Security Regulations From a DevSecOps Perspective</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-21 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32" target="_blank">A Tale of Two Threads (APIs)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/firefox-141.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/firefox-141-release-ai-tabs-linux-memory" target="_blank">Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
 </div>
@@ -253,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c00efc0aa6985c2e7b90d13c8fc55f7b.png" alt="&#x27;Stop Killing Games&#x27; YouTuber Says Someone&#x27;s Filing False Claims Against EU Initiative" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/accursed-farms-stop-killing-games-eu-petition-ubisoft-1851786660" target="_blank">&#x27;Stop Killing Games&#x27; YouTuber Says Someone&#x27;s Filing False Claims Against EU Initiative</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-21 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trans-flag.jpg?fit=1200%2C726&amp;quality=60&amp;ssl=1" alt="Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -286,15 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/how-to-wear-a-fitness-tracker-without-putting-it-on-your-wrist?utm_medium=RSS" target="_blank">All the Ways You Can Wear a Fitness Tracker Without Having Something on Your Wrist</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-21 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/T-Mobile.jpg" alt="T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/t-mobile-upgrades-network-with-l4s-to-improve-video-calls-and-cloud-gaming-2000632202" target="_blank">T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 18:55</span>
             </div>
         </div>
 </div>
@@ -343,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
