@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 05:06:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 06:02:01 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 05:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5474807/syria-bedouin-druze-withdraws" target="_blank">Syria&#x27;s armed Bedouins say they have withdrawn from Druze-majority city</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 05:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b9/live/af22a700-659d-11f0-89ea-4d6f9851f623.jpg" alt="Asylum hotel protest escalated into &#x27;mindless thuggery&#x27;, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdr3716kd8mo" target="_blank">Asylum hotel protest escalated into &#x27;mindless thuggery&#x27;, police say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 03:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin" target="_blank">Trump administration shuts down EPA&#x27;s scientific research arm</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-20 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b3/live/bbf49400-6581-11f0-9658-9540642a5f19.jpg" alt="New water ombudsman will tackle leaks and overcharging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c056r4jzg88o" target="_blank">New water ombudsman will tackle leaks and overcharging</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-20 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ICE-LA-protest-20250720-getty-jh_1753029642819_hpMain_4x3t_384.jpg" alt="&#x27;When the raids started, fear spread&#x27;: LA Mayor Bass on Trump&#x27;s deportation efforts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/raids-started-fear-spread-la-mayor-bass-trumps/story?id=123902468" target="_blank">&#x27;When the raids started, fear spread&#x27;: LA Mayor Bass on Trump&#x27;s deportation efforts</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-20 21:17</span>
             </div>
         </div>
 </div>
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
