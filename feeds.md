@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 17:03:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 18:01:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/21/russia-launches-major-aerial-attacks-on-kyiv?traffic_source=rss" target="_blank">Russia launches major aerial attacks on Kyiv</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/washington-commanders-ap-jef-250721_1753103576549_hpMain_4x3t_384.jpg" alt="Trump &#x27;won&#x27;t make a deal&#x27; with Washington Commanders if team refuses to change name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-demands-washington-commanders-reverse-change-threatens-facilitate/story?id=123921777" target="_blank">Trump &#x27;won&#x27;t make a deal&#x27; with Washington Commanders if team refuses to change name</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f2/live/e6de22b0-60b5-11f0-8f76-673f2ccf81d9.png" alt="Man who dumped remains in suitcases guilty of murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c98wz78jy6zo" target="_blank">Man who dumped remains in suitcases guilty of murder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 16:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +96,20 @@
                 <span class="time">2025-07-21 13:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be9/live/b57da210-6603-11f0-a91e-6325aab01240.jpg" alt="Man accused of violent disorder at asylum hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyedn0vlg1o" target="_blank">Man accused of violent disorder at asylum hotel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/what-is-the-kill-zone-people-in-gaza-need-to-cross-to-receive-aid?traffic_source=rss" target="_blank">What is the ‘kill zone’ people in Gaza need to cross to receive aid?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-02/240206-harvard-university-campus-ac-441p-58b188.jpg" alt="Federal judge hears arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-harvard-epstein-tariffs-doge-immigration-live-updates-rcna219794" target="_blank">Federal judge hears arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-21 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687e683e647fb437b22c5c93/master/pass/Fidji-Simo-Note-OpenAI-Business-2198334790.jpg" alt="OpenAI&#x27;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-fidji-simo-note-employees/" target="_blank">OpenAI&#x27;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,29 @@
                 <span class="time">2025-07-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710764/xbox-cloud-gaming-roaming-pc-console-play-history-feature" target="_blank">Xbox cloud games will soon follow you across Xbox, PC, and Windows handhelds</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32" target="_blank">A Tale of Two Threads (APIs)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18432345&w=600" alt="Reasoning Models Explained: What They Are, How They Work, and When to Use Them Over Traditional LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reasoning-models-vs-llms-guide" target="_blank">Reasoning Models Explained: What They Are, How They Work, and When to Use Them Over Traditional LLMs</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/designing-and-operating-single-tenant-architecture" target="_blank">Designing and Operating Single-Tenant Architectures at Scale</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519963&w=600" alt="ArchUnit, Unit Testing The Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/archunit-unit-testing-the-architecture" target="_blank">ArchUnit, Unit Testing The Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hnq90/how-do-i-cancel-a-subscription-from-dev-mbe" target="_blank">How do I cancel a subscription from Dev++?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 13:51</span>
             </div>
         </div>
 </div>
@@ -304,6 +305,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/21/michael-but-also-angelo" target="_blank">Michael But Also Angelo</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-21 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/21/michael-but-also-angelo" target="_blank">Michael But Also Angelo</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-07-21 07:01</span>
@@ -323,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
