@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 10:01:55 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-21 11:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/syria-evacuates-bedouins-from-clashes-hit-suwayda-as-shaky-ceasefire-holds?traffic_source=rss" target="_blank">Syria evacuates Bedouins from clashes-hit Suwayda as shaky ceasefire holds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472445/safer-beauty-bill-package-remove-toxic-chemicals-cosmestics" target="_blank">Many beauty products have toxic ingredients. Newly proposed bills could change that</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +101,29 @@
                 <span class="time">2025-07-21 06:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5474807/syria-bedouin-druze-withdraws" target="_blank">Syria&#x27;s armed Bedouins say they have withdrawn from Druze-majority city</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 05:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-deir-al-balah-central-gaza_6969750.jpg?20250721101826" alt="Israel launches ground assault on central Gazan city, says charity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-launches-ground-assault-on-central-gazan-city-says-charity-13399479" target="_blank">Israel launches ground assault on central Gazan city, says charity</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-21 05:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710535/microsoft-windows-11-performance-improvements-25h2-version" target="_blank">Microsoft wants to fix &amp;#8216;slow or sluggish&amp;#8217; performance in Windows 11</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68717d91d8fa9870beb01afa/master/pass/GettyImages-1231391675.jpg" alt="The Demise of China’s Hottest Online Shopping Craze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chinese-group-buying-startups-meituan-pinduoduo/" target="_blank">The Demise of China’s Hottest Online Shopping Craze</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687645a0acabb83a02edafdf/master/pass/071525_Beyond-Wellness-LP-2.jpg" alt="Beyond Wellness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +160,29 @@
                 <span class="time">2025-07-20 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b6f785be8b955cdab7089/master/pass/Best%20pickleball%20paddles%20update_.png" alt="My 9 Favorite Pickleball Paddles From 3 Years of Testing (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pickleball-paddles/" target="_blank">My 9 Favorite Pickleball Paddles From 3 Years of Testing (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-20 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b5256d4a901096a09c8b8/master/pass/Best%20Switch%202%20Controllers_.png" alt="Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-nintendo-switch-2-controllers/" target="_blank">Best Nintendo Switch 2 Controllers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-20 14:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayatas_technologies_ec1ca/understanding-the-mvp-approach-in-web-application-development-29j4" target="_blank">Understanding the MVP Approach in Web Application Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-DTLTO-Distributed-Thin" target="_blank">LLVM Begins Landing Distributed ThinLTO &quot;DTLTO&quot; Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,29 +219,20 @@
                 <span class="time">2025-07-21 06:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/axboe/liburing/discussions/1047" target="_blank">How to handle people dismissing io_uring as insecure?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-21 06:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha" target="_blank">How to Demotivate Your Development Team And Make Them Leave (Guaranteed Results)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Soundcore-Sleep-A30-review-4.jpg" alt="Soundcore Sleep A30: ANC Earbuds for Sleep That Can Save Your Marriage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/soundcore-sleep-a30-anc-earbuds-for-sleep-that-can-save-your-marriage-2000630874" target="_blank">Soundcore Sleep A30: ANC Earbuds for Sleep That Can Save Your Marriage</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/forever-purge.jpg" alt="‘The Purge’ Movies May Return to Keep America Violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +278,6 @@
                 <span class="time">2025-07-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Larq-Bottle-PureVis-2-review-04.jpg" alt="Larq Bottle PureVis 2 Review: Drinking Water as a Video Game Isn’t as Dumb as It Sounds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/larq-bottle-purevis-2-review-drinking-water-as-a-video-game-isnt-as-dumb-as-it-sounds-2000631132" target="_blank">Larq Bottle PureVis 2 Review: Drinking Water as a Video Game Isn’t as Dumb as It Sounds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
