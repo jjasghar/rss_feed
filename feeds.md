@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 23:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/us-police-officer-in-breonna-taylor-death-sentenced-to-33-months-in-prison?traffic_source=rss" target="_blank">US police officer in Breonna Taylor death sentenced to 33 months in prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 22:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5475109/immigrant-detention-military-bases" target="_blank">Military bases in New Jersey, Indiana, to be expanded to detain immigrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +95,20 @@
                 <span class="time">2025-07-21 19:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/italy-cancels-concert-by-putin-ally-gergiev?traffic_source=rss" target="_blank">Italy cancels concert by Putin ally Gergiev</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-donald-trump-big-beautiful-bill-cs-84d73c.jpg" alt="Trump&#x27;s &#x27;big, beautiful bill&#x27; is projected to add $3.4 trillion to the debt, budget office says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trumps-big-beautiful-bill-add-3-trillion-debt-cbo-says-rcna220004" target="_blank">Trump&#x27;s &#x27;big, beautiful bill&#x27; is projected to add $3.4 trillion to the debt, budget office says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-21 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687e91283dfd9b55b8f0e6e9/master/pass/epa-closure-sci-2167038723.jpg" alt="EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/" target="_blank">EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 21:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/videoframe_13291-500x500.png" alt="Google gets ahead of the leaks and reveals the Pixel 10 early" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +152,6 @@
                 <span class="title"><a href="https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/" target="_blank">Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-21 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2210433548-500x500.jpg" alt="Here’s why there are so few new cars for under $30,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/heres-why-there-are-so-few-new-cars-for-under-30000/" target="_blank">Here’s why there are so few new cars for under $30,000</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 18:05</span>
             </div>
         </div>
 </div>
@@ -248,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/mephisto.jpg" alt="Kevin Feige Says Mephisto Was Never the Plan for ‘WandaVision’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kevin-feige-mephisto-ironheart-wandavision-2000632352" target="_blank">Kevin Feige Says Mephisto Was Never the Plan for ‘WandaVision’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 22:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/superman-james-gunn-lois-clark-interview-scene.jpg" alt="I Love That ‘Superman’ Loves Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655" target="_blank">Infamous Coldplay &#x27;Cheating&#x27; Clip Is Being Spoofed At Sporting Events Everywhere</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-21 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HZ0DZZ9B19EY5B6H4W59YTH4/hero-image.jpg" alt="All the Ways You Can Wear a Fitness Tracker Without Having Something on Your Wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-wear-a-fitness-tracker-without-putting-it-on-your-wrist?utm_medium=RSS" target="_blank">All the Ways You Can Wear a Fitness Tracker Without Having Something on Your Wrist</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-21 19:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
