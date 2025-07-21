@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 06:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 07:04:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/ecuadors-biggest-drug-lord-fito-extradited-to-us-to-plead-not-guilty?traffic_source=rss" target="_blank">Ecuador’s biggest drug lord ‘Fito’ extradited to US, to plead ‘not guilty’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 06:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/southeast-asias-foreign-assistance-to-fall-more-than-two-billion-next-year?traffic_source=rss" target="_blank">Southeast Asia’s foreign assistance to fall more than $2bn next year</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-21 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474320/trump-epa-scientific-research-zeldin" target="_blank">Trump administration shuts down EPA&#x27;s scientific research arm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 22:23</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fvia.placeholder.com%2F800x400%2F1e293b%2Fffffff%3Ftext%3DLLM%2BLandscape%2B2025" alt="Large Language Models in 2025: The Ultimate Comparison Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/onirestart/large-language-models-in-2025-the-ultimate-comparison-guide-4fpm" target="_blank">Large Language Models in 2025: The Ultimate Comparison Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 06:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/kitty-customization/" target="_blank">I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-21 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/axboe/liburing/discussions/1047" target="_blank">How to handle people dismissing io_uring as insecure?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-21 06:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je" target="_blank">Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 02:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4" target="_blank">Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/h2337/connmap" target="_blank">Show HN: X11 desktop widget that shows location of your network peers on a map</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-21 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwxh8muj7o9qt9yx25jtd.png" alt="PastePoint – Zero-Signup File Sharing &amp; Chat over LAN or Private Code 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/slomr/pastepoint-zero-signup-file-sharing-chat-over-lan-or-private-code-2d0e" target="_blank">PastePoint – Zero-Signup File Sharing &amp; Chat over LAN or Private Code 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 00:00</span>
             </div>
         </div>
 </div>
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
