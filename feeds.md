@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 11:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-21 12:02:02 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +53,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/g-s1-78495/up-first-newsletter-harvard-university-texas-congressional-map-gaza-aid" target="_blank">Harvard and Trump admin. face off in court. And, Texas seeks new congressional map</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/syria-evacuates-bedouins-from-clashes-hit-suwayda-as-shaky-ceasefire-holds?traffic_source=rss" target="_blank">Syria evacuates Bedouins from clashes-hit Suwayda as shaky ceasefire holds</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-21 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-dhaka-bangladesh-milestone_6969819.jpg?20250721113846" alt="Plane crashes into college campus in Bangladesh - at least 16 people dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-16-dead-after-plane-crashes-in-to-college-campus-in-bangladesh-13399574" target="_blank">Plane crashes into college campus in Bangladesh - at least 16 people dead</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-21 09:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250721-Nedzad-Avdic-mb-1025-a99d7f.jpg" alt="He survived a mass execution at 17. Now he&#x27;s fighting disinformation and denialism." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/europe/war-crime-genocide-denialism-disinformation-rcna219896" target="_blank">He survived a mass execution at 17. Now he&#x27;s fighting disinformation and denialism.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-21 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +104,20 @@
                 <span class="time">2025-07-21 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/b65ac300-6600-11f0-a91e-6325aab01240.jpg" alt="Victims&#x27; families decry report blaming pilot error for Jeju Air crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g812eyy28o" target="_blank">Victims&#x27; families decry report blaming pilot error for Jeju Air crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 08:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec3/live/f32e8990-65fd-11f0-9cd1-a121919897fe.jpg" alt="Will the water industry proposals make any difference?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj4e7nj0q1zo" target="_blank">Will the water industry proposals make any difference?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/ecuadors-biggest-drug-lord-fito-extradited-to-us-to-plead-not-guilty?traffic_source=rss" target="_blank">Ecuador’s biggest drug lord ‘Fito’ extradited to US, to plead ‘not guilty’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/the-judge-and-the-six-fingered-man-500x500.jpg" alt="It’s “frighteningly likely” many US courts will overlook AI errors, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/its-frighteningly-likely-many-us-courts-will-overlook-ai-errors-expert-says/" target="_blank">It’s “frighteningly likely” many US courts will overlook AI errors, expert says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +163,29 @@
                 <span class="time">2025-07-20 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/" target="_blank">Former Tesla president discloses the secret to scaling a company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-20 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarony11/is-terraform-for-kubernetes-applications-flawed-the-case-for-a-gitops-native-future-49ce" target="_blank">Is Terraform for Kubernetes Applications Flawed? GitOps for Kubernetes is The Way</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul14-2025/en/headerimage/java-istock-image-01-1753097817566.jpg" alt="Java News Roundup: JDK 25 in RDP2, Spring Framework, Payara Platform, Open Liberty, Eclipse DataGrid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25 in RDP2, Spring Framework, Payara Platform, Open Liberty, Eclipse DataGrid</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-21 11:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,22 +222,18 @@
                 <span class="time">2025-07-21 07:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fvia.placeholder.com%2F800x400%2F1e293b%2Fffffff%3Ftext%3DLLM%2BLandscape%2B2025" alt="Large Language Models in 2025: The Ultimate Comparison Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/onirestart/large-language-models-in-2025-the-ultimate-comparison-guide-4fpm" target="_blank">Large Language Models in 2025: The Ultimate Comparison Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 06:54</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/kitty-customization/" target="_blank">I Made Kitty Terminal Even More Awesome by Using These 15 Customization Tips and Tweaks</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-21 06:38</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html" target="_blank">Another Supply Chain Vulnerability</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-21 11:04</span>
             </div>
         </div>
 </div>
@@ -224,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cc02a7c3062feeb1de5ff49c4edcda5f.jpg" alt="Ubisoft CEO Blames Outlaws&#x27; Struggles On &#x27;Choppy&#x27; Star Wars Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-outlaws-ubisoft-ceo-shareholders-choppy-1851786615" target="_blank">Ubisoft CEO Blames Outlaws&#x27; Struggles On &#x27;Choppy&#x27; Star Wars Universe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-21 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Soundcore-Sleep-A30-review-4.jpg" alt="Soundcore Sleep A30: ANC Earbuds for Sleep That Can Save Your Marriage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +295,6 @@
                 <span class="time">2025-07-20 14:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/titan.jpg" alt="Titan’s Methane Lakes Could Form Bubble-Like Structures Essential to Life, Scientists Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/titans-methane-lakes-could-form-bubble-like-structures-essential-to-life-scientists-say-2000630865" target="_blank">Titan’s Methane Lakes Could Form Bubble-Like Structures Essential to Life, Scientists Say</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
