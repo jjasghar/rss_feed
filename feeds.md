@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 19:02:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-21 20:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Malcolm-Jamal-Warner-gty-gmh-250721_1753117623951_hpMain_4x3t_384.jpg" alt="Malcolm-Jamal Warner, former &#x27;Cosby Show&#x27; star, dead at 54" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/malcolm-jamal-warner-former-cosby-show-star-dead/story?id=123932998" target="_blank">Malcolm-Jamal Warner, former &#x27;Cosby Show&#x27; star, dead at 54</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 19:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/italy-cancels-concert-by-putin-ally-gergiev?traffic_source=rss" target="_blank">Italy cancels concert by Putin ally Gergiev</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 18:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472448/after-his-father-died-in-the-hospital-a-nurse-held-him-in-his-arms" target="_blank">After his father died in the hospital, a nurse held him in his arms</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-21 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-food-aid_6970247.jpg?20250721190240" alt="Gaza food situation &#x27;worst it&#x27;s ever been&#x27;, charity says &amp;#8211; as UK promises &amp;#163;40m in aid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-food-situation-worst-its-ever-been-charity-says-8211-as-uk-promises-16340m-in-aid-13399832" target="_blank">Gaza food situation &#x27;worst it&#x27;s ever been&#x27;, charity says &amp;#8211; as UK promises &amp;#163;40m in aid</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +103,29 @@
                 <span class="time">2025-07-21 17:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f2/live/e6de22b0-60b5-11f0-8f76-673f2ccf81d9.png" alt="Man who dumped remains in suitcases guilty of murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c98wz78jy6zo" target="_blank">Man who dumped remains in suitcases guilty of murder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472453/syria-syrian-refugees-return" target="_blank">Assad is gone. But can Syrians go home?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/21/this-is-how-people-are-trying-not-to-starve-in-gaza?traffic_source=rss" target="_blank">This is how people are trying not to starve in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-500x500-1751402471.jpg" alt="FCC to eliminate gigabit speed goal and scrap analysis of broadband prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices/" target="_blank">FCC to eliminate gigabit speed goal and scrap analysis of broadband prices</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale" target="_blank">Sony’s gamer-friendly X90L TV is on sale for a new low price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 19:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687ab179057dbd23f7776e33/master/pass/Cantor-Fitzgerald-Offers-to-Buy-Trump-Tariff-Refunds-Business-2216989642.jpg" alt="Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,29 @@
                 <span class="time">2025-07-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/chrome-for-ios-makes-it-easier-to-switch-between-work-and-personal-google-accounts/" target="_blank">Chrome for iOS makes it easier to switch between work and personal Google accounts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6879329fe6a6b93defeaf82c/master/pass/Uncanny-Valley-Gen-Z-Sex-Recession-641831648.jpg" alt="What’s Behind Gen Z’s Sex Recession?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/" target="_blank">What’s Behind Gen Z’s Sex Recession?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528522&w=600" alt="6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-phishing-attacks-developer-workflows" target="_blank">6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/21/community-products-roadmap-update-july-2025/" target="_blank">Community Products roadmap update, July 2025</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526948&w=600" alt="Software Supply Chain Security Regulations From a DevSecOps Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +221,6 @@
                 <span class="time">2025-07-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grantwatsondev/12-powerful-react-libraries-every-developer-should-master-in-2025-4po" target="_blank">12 Powerful React Libraries Every Developer Should Master in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Hopper-Blackwell-DMA" target="_blank">NVIDIA Makes More Hopper &amp; Blackwell Header Files Open-Source</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/PolymarketCoplan.jpg" alt="Polymarket Says Its Coming Back to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/polymarket-says-its-coming-back-to-the-u-s-2000632113" target="_blank">Polymarket Says Its Coming Back to the U.S.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6a384be16da7df03140aec7d7277f762.jpg" alt="Infamous Coldplay &#x27;Cheating&#x27; Clip Is Being Spoofed At Sporting Events Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655" target="_blank">Infamous Coldplay &#x27;Cheating&#x27; Clip Is Being Spoofed At Sporting Events Everywhere</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-21 19:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HZ0DZZ9B19EY5B6H4W59YTH4/hero-image.jpg" alt="All the Ways You Can Wear a Fitness Tracker Without Having Something on Your Wrist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-wear-a-fitness-tracker-without-putting-it-on-your-wrist?utm_medium=RSS" target="_blank">All the Ways You Can Wear a Fitness Tracker Without Having Something on Your Wrist</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-21 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/T-Mobile.jpg" alt="T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,33 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/warframe-soulsframe-switch-2-tau-trailer-tennocon-2025-1851786622" target="_blank">5 Things We Just Learned About The Future Of Warframe</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-21 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a8b24c01bb66fec05d50c66490ad1691.jpg" alt="Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-mcu-x-men-movies-multiverse-phase-6-avengers-1851786617" target="_blank">Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/5b31ce6f7311225043a509d60f24ba9a.jpg" alt="Mercedes-Benz’s Latest Decision Signals Trouble Ahead for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mercedes-benzs-latest-decision-signals-trouble-ahead-for-evs-2000632048" target="_blank">Mercedes-Benz’s Latest Decision Signals Trouble Ahead for EVs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-2025-07-20-at-4.45.32-PM.png?fit=1200%2C694&amp;quality=55&amp;ssl=1" alt="Atlanta-based reporter has been in jail for over a month, for the U.S. crime of Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/21/atlanta-based-reporter-has-been-in-jail-for-over-a-month-for-the-u-s-crime-of-journalism.html" target="_blank">Atlanta-based reporter has been in jail for over a month, for the U.S. crime of Journalism</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-21 15:49</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
