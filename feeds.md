@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 18:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 19:02:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472448/after-his-father-died-in-the-hospital-a-nurse-held-him-in-his-arms" target="_blank">After his father died in the hospital, a nurse held him in his arms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 18:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +99,29 @@
                 <span class="time">2025-07-21 13:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-explosion-DB-250721_1753085296988_hpMain_4x3t_384.jpg" alt="Moscow and Kyiv rocked by drone strikes as leaders position for fresh talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/scale-russia-ukraine-drone-strikes-builds-ahead-ceasefire/story?id=123916732" target="_blank">Moscow and Kyiv rocked by drone strikes as leaders position for fresh talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 13:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687ab179057dbd23f7776e33/master/pass/Cantor-Fitzgerald-Offers-to-Buy-Trump-Tariff-Refunds-Business-2216989642.jpg" alt="Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/" target="_blank">Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2210433548-500x500.jpg" alt="Here’s why there are so few new cars for under $30,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/heres-why-there-are-so-few-new-cars-for-under-30000/" target="_blank">Here’s why there are so few new cars for under $30,000</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687e683e647fb437b22c5c93/master/pass/Fidji-Simo-Note-OpenAI-Business-2198334790.jpg" alt="OpenAI&#x27;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +158,20 @@
                 <span class="time">2025-07-21 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1782225491-2-500x500-1753112878.jpg" alt="Researcher threatens X with lawsuit after falsely linking him to French probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/researcher-threatens-x-with-lawsuit-after-falsely-linking-him-to-french-probe/" target="_blank">Researcher threatens X with lawsuit after falsely linking him to French probe</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-9-1-1-calls/" target="_blank">AI voice company Hyper raises $6.3M to help automate 9-1-1 calls</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-21 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526948&w=600" alt="Software Supply Chain Security Regulations From a DevSecOps Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/software-supply-chain-security-regulations-devsecops" target="_blank">Software Supply Chain Security Regulations From a DevSecOps Perspective</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/pauljlucas/a-tale-of-two-threads-apis-2m32" target="_blank">A Tale of Two Threads (APIs)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/firefox-141.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/firefox-141-release-ai-tabs-linux-memory" target="_blank">Firefox 141 Adds AI Tab Grouping, Reduces Memory Use on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
 <div class="story">
@@ -190,28 +211,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/saraf_furniture/how-to-choose-the-perfect-coffee-table-for-your-living-room-4i9e" target="_blank">How to Choose the Perfect Coffee Table for Your Living Room</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.iter.org/node/20687/new-records-wendelstein-7-x" target="_blank">New records on Wendelstein 7-X</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-21 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18520440&w=600" alt="Designing and Operating Single-Tenant Architectures at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-and-operating-single-tenant-architecture" target="_blank">Designing and Operating Single-Tenant Architectures at Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-Hopper-Blackwell-DMA" target="_blank">NVIDIA Makes More Hopper &amp; Blackwell Header Files Open-Source</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 15:54</span>
             </div>
         </div>
 </div>
@@ -243,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/T-Mobile.jpg" alt="T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/t-mobile-upgrades-network-with-l4s-to-improve-video-calls-and-cloud-gaming-2000632202" target="_blank">T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/phone_on_fire.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Digital self-censorship: The new norm for international travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/21/digital-self-censorship-the-new-norm-for-international-travelers.html" target="_blank">Digital self-censorship: The new norm for international travelers</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-21 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/78d8efd381bbe42c7f3e67c13715babc.jpg" alt="5 Things We Just Learned About The Future Of Warframe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/warframe-soulsframe-switch-2-tau-trailer-tennocon-2025-1851786622" target="_blank">5 Things We Just Learned About The Future Of Warframe</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-21 18:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a8b24c01bb66fec05d50c66490ad1691.jpg" alt="Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,33 +299,6 @@
                 <span class="time">2025-07-21 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled-1.jpg?fit=1064%2C796&amp;quality=60&amp;ssl=1" alt="Britain&#x27;s Swingathon festival attracts thousands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/21/britains-swingathon-festival-attracts-thousands.html" target="_blank">Britain&#x27;s Swingathon festival attracts thousands</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-21 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0G18B72V4S3967AM2A5832Z/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Freeze Branding&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-freeze-branding?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Freeze Branding&#x27;?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cc02a7c3062feeb1de5ff49c4edcda5f.jpg" alt="Ubisoft CEO Blames Outlaws&#x27; Struggles On &#x27;Choppy&#x27; Star Wars Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-outlaws-ubisoft-ceo-shareholders-choppy-1851786615" target="_blank">Ubisoft CEO Blames Outlaws&#x27; Struggles On &#x27;Choppy&#x27; Star Wars Universe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-21 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,6 +311,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/21/michael-but-also-angelo" target="_blank">Michael But Also Angelo</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-07-21 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753068043-20250722 (1).png" alt="Saturday Morning Breakfast Cereal - Canon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/canon" target="_blank">Saturday Morning Breakfast Cereal - Canon</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-21 15:20</span>
             </div>
         </div>
 <div class="story">
@@ -333,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 112 | 📡 Total Sources: 40 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
