@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 09:04:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-21 10:01:55 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5470131/us-coffee-prices-brazil-trump-tariffs" target="_blank">U.S. coffee drinkers and businesses will pay the price for Trump&#x27;s Brazil tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/b65ac300-6600-11f0-a91e-6325aab01240.jpg" alt="Victims&#x27; families decry report blaming pilot error for Jeju Air crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g812eyy28o" target="_blank">Victims&#x27; families decry report blaming pilot error for Jeju Air crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 08:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec3/live/f32e8990-65fd-11f0-9cd1-a121919897fe.jpg" alt="Will the water industry proposals make any difference?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eaf/live/0aca6490-6584-11f0-adfc-7f6db2af6565.jpg" alt="Japan&#x27;s PM vows to stay on despite bruising election loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-deir-al-balah-central-gaza_6969750.jpg?20250721101826" alt="Israel launches ground assault on central Gazan city, says charity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8xvn90yr8go" target="_blank">Japan&#x27;s PM vows to stay on despite bruising election loss</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 03:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b9/live/af22a700-659d-11f0-89ea-4d6f9851f623.jpg" alt="Asylum hotel protest escalated into &#x27;mindless thuggery&#x27;, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdr3716kd8mo" target="_blank">Asylum hotel protest escalated into &#x27;mindless thuggery&#x27;, police say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474356/trump-washington-commanders-new-stadium-team-name" target="_blank">Trump threatens to derail Washington Commanders&#x27; new stadium deal over team name</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 01:30</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-launches-ground-assault-on-central-gazan-city-says-charity-13399479" target="_blank">Israel launches ground assault on central Gazan city, says charity</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-21 05:09</span>
             </div>
         </div>
 </div>
@@ -109,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687645a0acabb83a02edafdf/master/pass/071525_Beyond-Wellness-LP-2.jpg" alt="Beyond Wellness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/beyond-wellness/" target="_blank">Beyond Wellness</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +160,20 @@
                 <span class="time">2025-07-20 14:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/710047/labubu-pop-mart-blind-boxes-scarcity-marketing" target="_blank">The frenzied, gamified chase for Labubus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-141-Available" target="_blank">Firefox 141 Release Brings Lower RAM Usage On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 09:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/canro91/how-to-demotivate-your-development-team-and-make-them-leave-guaranteed-results-6ha" target="_blank">How to Demotivate Your Development Team And Make Them Leave (Guaranteed Results)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/magipunk/crashes-in-rive-1knk" target="_blank">Crashes in Rive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 03:50</span>
             </div>
         </div>
 </div>
@@ -309,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
