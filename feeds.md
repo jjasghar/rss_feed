@@ -1,26 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 16:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 17:03:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 18 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +103,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google" target="_blank">Chrome will let you switch between personal and work accounts on iOS</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/21/chrome-for-ios-makes-it-easier-to-switch-between-work-and-personal-google-accounts/" target="_blank">Chrome for iOS makes it easier to switch between work and personal Google accounts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6879329fe6a6b93defeaf82c/master/pass/Uncanny-Valley-Gen-Z-Sex-Recession-641831648.jpg" alt="What’s Behind Gen Z’s Sex Recession?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/" target="_blank">What’s Behind Gen Z’s Sex Recession?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1782225491-2-500x500-1753112878.jpg" alt="Researcher threatens X with lawsuit after falsely linking him to French probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/researcher-threatens-x-with-lawsuit-after-falsely-linking-him-to-french-probe/" target="_blank">Researcher threatens X with lawsuit after falsely linking him to French probe</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-9-1-1-calls/" target="_blank">AI voice company Hyper raises $6.3M to help automate 9-1-1 calls</a></span>
                 <span class="feed">TechCrunch</span>
@@ -113,47 +154,20 @@
                 <span class="time">2025-07-21 15:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710627/tesla-deal-discount-incentive-financing-fsd-free-trial" target="_blank">Tesla’s response to cratering sales? A deals blitz</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687b65a7de683abfc4adcf70/master/pass/The%20Best%20Pizza%20Ovens%20to%20Make%20the%20Perfect%20Slice.png" alt="Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-backyard-pizza-oven/" target="_blank">Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/apple-encryption-500x500-1741119073.jpg" alt="UK backing down on Apple encryption backdoor after pressure from US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/" target="_blank">UK backing down on Apple encryption backdoor after pressure from US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g" target="_blank">T-Mobile is bringing low-latency tech to 5G for the first time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grantwatsondev/12-powerful-react-libraries-every-developer-should-master-in-2025-4po" target="_blank">12 Powerful React Libraries Every Developer Should Master in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +213,6 @@
                 <span class="time">2025-07-21 13:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7" target="_blank">Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#x27;s Triumph at The Open</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a8b24c01bb66fec05d50c66490ad1691.jpg" alt="Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-mcu-x-men-movies-multiverse-phase-6-avengers-1851786617" target="_blank">Marvel Cinematic Universe Mercifully Ending Its Multiverse Nonsense</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-21 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/5b31ce6f7311225043a509d60f24ba9a.jpg" alt="Mercedes-Benz’s Latest Decision Signals Trouble Ahead for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +295,6 @@
                 <span class="time">2025-07-21 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Soundcore-Sleep-A30-review-4.jpg" alt="Soundcore Sleep A30: ANC Earbuds for Sleep That Can Save Your Marriage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/soundcore-sleep-a30-anc-earbuds-for-sleep-that-can-save-your-marriage-2000630874" target="_blank">Soundcore Sleep A30: ANC Earbuds for Sleep That Can Save Your Marriage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,13 +309,22 @@
                 <span class="time">2025-07-21 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png" alt="iNaturalist Animals and Plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3118/" target="_blank">iNaturalist Animals and Plants</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-21 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
