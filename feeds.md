@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 20:01:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-21 21:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/21/as-trumps-tariff-deadline-looms-economists-see-calm-before-the-storm?traffic_source=rss" target="_blank">As Trump’s tariff deadline looms, economists see calm before the storm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 20:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Malcolm-Jamal-Warner-gty-gmh-250721_1753117623951_hpMain_4x3t_384.jpg" alt="Malcolm-Jamal Warner, former &#x27;Cosby Show&#x27; star, dead at 54" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -65,6 +68,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/italy-cancels-concert-by-putin-ally-gergiev?traffic_source=rss" target="_blank">Italy cancels concert by Putin ally Gergiev</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-21 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250708-donald-trump-big-beautiful-bill-cs-84d73c.jpg" alt="Trump&#x27;s &#x27;big, beautiful bill&#x27; is projected to add $3.4 trillion to the debt, budget office says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trumps-big-beautiful-bill-add-3-trillion-debt-cbo-says-rcna220004" target="_blank">Trump&#x27;s &#x27;big, beautiful bill&#x27; is projected to add $3.4 trillion to the debt, budget office says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-21 18:53</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +97,20 @@
                 <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/21/russia-launches-major-aerial-attacks-on-kyiv?traffic_source=rss" target="_blank">Russia launches major aerial attacks on Kyiv</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/washington-commanders-ap-jef-250721_1753103576549_hpMain_4x3t_384.jpg" alt="Trump &#x27;won&#x27;t make a deal&#x27; with Washington Commanders if team refuses to change name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-demands-washington-commanders-reverse-change-threatens-facilitate/story?id=123921777" target="_blank">Trump &#x27;won&#x27;t make a deal&#x27; with Washington Commanders if team refuses to change name</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/videoframe_13291-500x500.png" alt="Google gets ahead of the leaks and reveals the Pixel 10 early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/google-reveals-the-pixel-10-and-yep-it-looks-like-the-pixel-9/" target="_blank">Google gets ahead of the leaks and reveals the Pixel 10 early</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-500x500-1751402471.jpg" alt="FCC to eliminate gigabit speed goal and scrap analysis of broadband prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -124,6 +127,15 @@
                 <span class="title"><a href="https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale" target="_blank">Sony’s gamer-friendly X90L TV is on sale for a new low price</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-21 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687ab179057dbd23f7776e33/master/pass/Cantor-Fitzgerald-Offers-to-Buy-Trump-Tariff-Refunds-Business-2216989642.jpg" alt="Trump’s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/" target="_blank">Trump’s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 18:51</span>
             </div>
         </div>
 <div class="story">
@@ -144,29 +156,20 @@
                 <span class="time">2025-07-21 18:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687e683e647fb437b22c5c93/master/pass/Fidji-Simo-Note-OpenAI-Business-2198334790.jpg" alt="OpenAI&#x27;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-fidji-simo-note-employees/" target="_blank">OpenAI&#x27;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google" target="_blank">Chrome will let you switch between personal and work accounts on iOS</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg" target="_blank">Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 20:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528522&w=600" alt="6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +215,6 @@
                 <span class="time">2025-07-21 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18432345&w=600" alt="Reasoning Models Explained: What They Are, How They Work, and When to Use Them Over Traditional LLMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reasoning-models-vs-llms-guide" target="_blank">Reasoning Models Explained: What They Are, How They Work, and When to Use Them Over Traditional LLMs</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/superman-james-gunn-lois-clark-interview-scene.jpg" alt="I Love That ‘Superman’ Loves Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superman-james-gunn-journalism-lois-lane-daily-planet-2000632278" target="_blank">I Love That ‘Superman’ Loves Journalism</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trans-flag.jpg?fit=1200%2C726&amp;quality=60&amp;ssl=1" alt="Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/21/grab-this-bundle-to-enjoy-harry-potter-and-support-lgbtq-kids.html" target="_blank">Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-21 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/PolymarketCoplan.jpg" alt="Polymarket Says Its Coming Back to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/t-mobile-upgrades-network-with-l4s-to-improve-video-calls-and-cloud-gaming-2000632202" target="_blank">T-Mobile Upgrades Network With L4S to Improve Video Calls and Cloud Gaming</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-21 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/phone_on_fire.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Digital self-censorship: The new norm for international travelers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/21/digital-self-censorship-the-new-norm-for-international-travelers.html" target="_blank">Digital self-censorship: The new norm for international travelers</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-21 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/78d8efd381bbe42c7f3e67c13715babc.jpg" alt="5 Things We Just Learned About The Future Of Warframe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/warframe-soulsframe-switch-2-tau-trailer-tennocon-2025-1851786622" target="_blank">5 Things We Just Learned About The Future Of Warframe</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-21 18:05</span>
             </div>
         </div>
 </div>
@@ -349,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
