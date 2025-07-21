@@ -1,35 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 15:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing 54 RSS feeds at 2025-07-21 16:01:51 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,10 +98,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-9-1-1-calls/" target="_blank">AI voice company Hyper raises $6.3M to help automate 9-1-1 calls</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-21 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710764/xbox-cloud-gaming-roaming-pc-console-play-history-feature" target="_blank">Xbox cloud games will soon follow you across Xbox, PC, and Windows handhelds</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 15:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/710627/tesla-deal-discount-incentive-financing-fsd-free-trial" target="_blank">Tesla’s response to cratering sales? A deals blitz</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-21 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687b65a7de683abfc4adcf70/master/pass/The%20Best%20Pizza%20Ovens%20to%20Make%20the%20Perfect%20Slice.png" alt="Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-backyard-pizza-oven/" target="_blank">Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-21 14:04</span>
             </div>
         </div>
 <div class="story">
@@ -131,38 +149,38 @@
                 <span class="time">2025-07-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/the-judge-and-the-six-fingered-man-500x500.jpg" alt="It’s “frighteningly likely” many US courts will overlook AI errors, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/its-frighteningly-likely-many-us-courts-will-overlook-ai-errors-expert-says/" target="_blank">It’s “frighteningly likely” many US courts will overlook AI errors, expert says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/710535/microsoft-windows-11-performance-improvements-25h2-version" target="_blank">Microsoft wants to fix &amp;#8216;slow or sluggish&amp;#8217; performance in Windows 11</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68717d91d8fa9870beb01afa/master/pass/GettyImages-1231391675.jpg" alt="The Demise of China’s Hottest Online Shopping Craze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chinese-group-buying-startups-meituan-pinduoduo/" target="_blank">The Demise of China’s Hottest Online Shopping Craze</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/saraf_furniture/how-to-choose-the-perfect-coffee-table-for-your-living-room-4i9e" target="_blank">How to Choose the Perfect Coffee Table for Your Living Room</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.iter.org/node/20687/new-records-wendelstein-7-x" target="_blank">New records on Wendelstein 7-X</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-21 15:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18520440&w=600" alt="Designing and Operating Single-Tenant Architectures at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-and-operating-single-tenant-architecture" target="_blank">Designing and Operating Single-Tenant Architectures at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519963&w=600" alt="ArchUnit, Unit Testing The Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,38 +208,20 @@
                 <span class="time">2025-07-21 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519952&w=600" alt="Today’s Platform Engineer Needs to Build AI-Ready Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/platform-engineering-ai-infrastructure" target="_blank">Today’s Platform Engineer Needs to Build AI-Ready Infrastructure</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Metadata-Compression" target="_blank">EROFS Implementing Metadata Compression For Even Smaller Image Sizes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/zendesk-interface-platform/en/headerimage/generatedHeaderImage-1752833463855.jpg" alt="Zendesk Streamlines Infrastructure Provisioning with Foundation Interface Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/zendesk-interface-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zendesk Streamlines Infrastructure Provisioning with Foundation Interface Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-21 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/" target="_blank">Microsoft Fix Targets Attacks on SharePoint Zero-Day</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-21 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/5b31ce6f7311225043a509d60f24ba9a.jpg" alt="Mercedes-Benz’s Latest Decision Signals Trouble Ahead for EVs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mercedes-benzs-latest-decision-signals-trouble-ahead-for-evs-2000632048" target="_blank">Mercedes-Benz’s Latest Decision Signals Trouble Ahead for EVs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-21 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-2025-07-20-at-4.45.32-PM.png?fit=1200%2C694&amp;quality=55&amp;ssl=1" alt="Atlanta-based reporter has been in jail for over a month, for the U.S. crime of Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/21/atlanta-based-reporter-has-been-in-jail-for-over-a-month-for-the-u-s-crime-of-journalism.html" target="_blank">Atlanta-based reporter has been in jail for over a month, for the U.S. crime of Journalism</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-21 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled-1.jpg?fit=1064%2C796&amp;quality=60&amp;ssl=1" alt="Britain&#x27;s Swingathon festival attracts thousands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +290,6 @@
                 <span class="time">2025-07-21 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/forever-purge.jpg" alt="‘The Purge’ Movies May Return to Keep America Violent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-purge-movies-may-return-to-keep-america-violent-2000631851" target="_blank">‘The Purge’ Movies May Return to Keep America Violent</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/superman-movies-ranked.jpg" alt="‘Superman’ Reignites Interest in ‘Man of Steel’ and ‘Peacemaker’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/superman-reignites-interest-in-man-of-steel-and-peacemaker-2000631775" target="_blank">‘Superman’ Reignites Interest in ‘Man of Steel’ and ‘Peacemaker’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,22 +304,13 @@
                 <span class="time">2025-07-21 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1752732385-20250721.png" alt="Saturday Morning Breakfast Cereal - Monster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/monster-3" target="_blank">Saturday Morning Breakfast Cereal - Monster</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
