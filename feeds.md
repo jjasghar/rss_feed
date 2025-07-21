@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-20 23:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 00:05:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 20, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -82,21 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sweida-syria_6969572.jpg?20250720235305" alt="30,000 trapped inside Syria&#x27;s besieged city despite ceasefire - as humanitarian crisis unfolds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/30000-trapped-inside-syrias-besieged-city-despite-ceasefire-as-humanitarian-crisis-unfolds-13399428" target="_blank">30,000 trapped inside Syria&#x27;s besieged city despite ceasefire - as humanitarian crisis unfolds</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-20 19:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/20/japans-far-right-party-makes-electoral-gains-with-anti-globalist-message?traffic_source=rss" target="_blank">Japan’s far-right party makes electoral gains with anti-globalist message</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-20 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474123/100-killed-seeking-aid-gaza-palestinian" target="_blank">Nearly 100 people killed seeking aid in Gaza on Sunday, Palestinian officials say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-20 19:10</span>
             </div>
         </div>
 </div>
@@ -164,12 +169,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwxh8muj7o9qt9yx25jtd.png" alt="PastePoint – Zero-Signup File Sharing &amp; Chat over LAN or Private Code 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/slomr/pastepoint-zero-signup-file-sharing-chat-over-lan-or-private-code-2d0e" target="_blank">PastePoint – Zero-Signup File Sharing &amp; Chat over LAN or Private Code 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0md1nxbrtn3z63zvdoe.jpg" alt="How Kinde Billing Actually Works" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sholajegede/how-kinde-billing-actually-works-8fc" target="_blank">How Kinde Billing Actually Works</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-20 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc7-Released" target="_blank">Linux 6.16-rc7 Released: &quot;I Think We&#x27;re In Good Shape&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-20 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/gradia-code-snippet.jpg?resize=406%2C232&amp;ssl=1" alt="Screenshot Tool Gradia Adds Code Snippet Generator, Snap Install" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-code-snippets-snap-store" target="_blank">Screenshot Tool Gradia Adds Code Snippet Generator, Snap Install</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-20 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +220,6 @@
                 <span class="title"><a href="https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling" target="_blank">Staying cool without refrigerants: Next-generation Peltier cooling</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-20 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc7-sched-urgent" target="_blank">Linux 6.16-rc7 Bringing Fix For Possible Bogus/Miscalculated Load Averages</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-20 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/ai-productivity/en/headerimage/generatedHeaderImage-1752897810891.jpg" alt="AI Coding Tools Underperform in Field Study with Experienced Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AI Coding Tools Underperform in Field Study with Experienced Developers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-20 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keith_mark_441c6f16e803a6/how-to-make-your-first-chrome-extension-with-manifest-v3-38do" target="_blank">How to Make Your First Chrome Extension with Manifest V3</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 18:54</span>
             </div>
         </div>
 </div>
@@ -295,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
