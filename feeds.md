@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 07:04:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-21 08:02:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 07:04 UTC</div>
+    <div class="newspaper-date">Monday, July 21, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec3/live/f32e8990-65fd-11f0-9cd1-a121919897fe.jpg" alt="Will the water industry proposals make any difference?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj4e7nj0q1zo" target="_blank">Will the water industry proposals make any difference?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 07:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eaf/live/0aca6490-6584-11f0-adfc-7f6db2af6565.jpg" alt="Japan&#x27;s PM vows to stay on despite bruising election loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8xvn90yr8go" target="_blank">Japan&#x27;s PM vows to stay on despite bruising election loss</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 03:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b9/live/af22a700-659d-11f0-89ea-4d6f9851f623.jpg" alt="Asylum hotel protest escalated into &#x27;mindless thuggery&#x27;, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -83,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474356/trump-washington-commanders-new-stadium-team-name" target="_blank">Trump threatens to derail Washington Commanders&#x27; new stadium deal over team name</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-21 01:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Delta-aircraft-gty-BH-250720_1753035074713_hpMain_4x3t_384.jpg" alt="Delta regional pilot makes &#x27;aggressive maneuver&#x27; to avoid B-52 collision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/delta-regional-pilot-takes-evasive-action-avoid-52/story?id=123908431" target="_blank">Delta regional pilot makes &#x27;aggressive maneuver&#x27; to avoid B-52 collision</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/southeast-asias-foreign-assistance-to-fall-more-than-two-billion-next-year?traffic_source=rss" target="_blank">Southeast Asia’s foreign assistance to fall more than $2bn next year</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 00:20</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sake/kiro-is-amazing-2ia0" target="_blank">Kiro is amazing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 07:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fvia.placeholder.com%2F800x400%2F1e293b%2Fffffff%3Ftext%3DLLM%2BLandscape%2B2025" alt="Large Language Models in 2025: The Ultimate Comparison Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/magipunk/crashes-in-rive-1knk" target="_blank">Crashes in Rive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdn4bjs20j2ks8glpq3yh.png" alt="Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je" target="_blank">Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 02:53</span>
             </div>
         </div>
 </div>
@@ -299,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
