@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 01:29:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-07-21 02:42:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 02:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474356/trump-washington-commanders-new-stadium-team-name" target="_blank">Trump threatens to derail Washington Commanders&#x27; new stadium deal over team name</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/southeast-asias-foreign-assistance-to-fall-more-than-two-billion-next-year?traffic_source=rss" target="_blank">Southeast Asia’s foreign assistance to fall more than $2bn next year</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 00:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/20/why-are-so-many-palestinian-religious-sites-under-attack-by-israel?traffic_source=rss" target="_blank">Why are so many Palestinian religious sites under attack by Israel?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-20 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sweida-syria_6969572.jpg?20250720235305" alt="Homes still burning after mass pillaging and 30,000 trapped in besieged city - as Syria&#x27;s fragile ceasefire holds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/30000-trapped-inside-syrias-besieged-city-despite-ceasefire-as-humanitarian-crisis-unfolds-13399428" target="_blank">Homes still burning after mass pillaging and 30,000 trapped in besieged city - as Syria&#x27;s fragile ceasefire holds</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-20 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-sweida-syria_6969572.jpg?20250720235305" alt="30,000 trapped inside Syria&#x27;s besieged city despite ceasefire - as humanitarian crisis unfolds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/30000-trapped-inside-syrias-besieged-city-despite-ceasefire-as-humanitarian-crisis-unfolds-13399428" target="_blank">30,000 trapped inside Syria&#x27;s besieged city despite ceasefire - as humanitarian crisis unfolds</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-20 19:45</span>
             </div>
         </div>
 </div>
@@ -159,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codewithrajat/advanced-angular-testing-10-real-world-mocking-scenarios-that-actually-work-1no4" target="_blank">Advanced Angular Testing: 10+ Real-World Mocking Scenarios That Actually Work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/h2337/connmap" target="_blank">Show HN: X11 desktop widget that shows location of your network peers on a map</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-21 00:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwxh8muj7o9qt9yx25jtd.png" alt="PastePoint – Zero-Signup File Sharing &amp; Chat over LAN or Private Code 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,24 +213,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-code-snippets-snap-store" target="_blank">Screenshot Tool Gradia Adds Code Snippet Generator, Snap Install</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-20 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/farlamo/the-sql-renaissance-more-than-just-tables-2ckd" target="_blank">The SQL Renaissance: More Than Just Tables</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-20 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling" target="_blank">Staying cool without refrigerants: Next-generation Peltier cooling</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-20 20:18</span>
             </div>
         </div>
 </div>
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 02:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
