@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 02:42:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 03:30:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 02:42 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +54,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/20/nx-s1-5474356/trump-washington-commanders-new-stadium-team-name" target="_blank">Trump threatens to derail Washington Commanders&#x27; new stadium deal over team name</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-21 01:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Delta-aircraft-gty-BH-250720_1753035074713_hpMain_4x3t_384.jpg" alt="Delta regional pilot makes &#x27;aggressive maneuver&#x27; to avoid B-52 collision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/delta-regional-pilot-takes-evasive-action-avoid-52/story?id=123908431" target="_blank">Delta regional pilot makes &#x27;aggressive maneuver&#x27; to avoid B-52 collision</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 01:25</span>
             </div>
         </div>
 <div class="story">
@@ -86,15 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/raids-started-fear-spread-la-mayor-bass-trumps/story?id=123902468" target="_blank">&#x27;When the raids started, fear spread&#x27;: LA Mayor Bass on Trump&#x27;s deportation efforts</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-20 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/20/why-are-so-many-palestinian-religious-sites-under-attack-by-israel?traffic_source=rss" target="_blank">Why are so many Palestinian religious sites under attack by Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-20 20:14</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdn4bjs20j2ks8glpq3yh.png" alt="Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blockopensource/orchestrating-6-subagents-to-build-a-collaborative-api-playground-for-kids-52je" target="_blank">Orchestrating 6 Subagents to Build a Collaborative API Playground for Kids</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 02:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-rc7-Released" target="_blank">Linux 6.16-rc7 Released: &quot;I Think We&#x27;re In Good Shape&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-20 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/gradia-code-snippet.jpg?resize=406%2C232&amp;ssl=1" alt="Screenshot Tool Gradia Adds Code Snippet Generator, Snap Install" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/gradia-screenshot-tool-code-snippets-snap-store" target="_blank">Screenshot Tool Gradia Adds Code Snippet Generator, Snap Install</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-20 21:28</span>
             </div>
         </div>
 </div>
@@ -293,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 02:42 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
