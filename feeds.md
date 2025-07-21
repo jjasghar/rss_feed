@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 14:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-21 15:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472453/syria-syrian-refugees-return" target="_blank">Assad is gone. But can Syrians go home?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-21 14:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-02/240206-harvard-university-campus-ac-441p-58b188.jpg" alt="Federal judge to hear arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-02/240206-harvard-university-campus-ac-441p-58b188.jpg" alt="Federal judge hears arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-harvard-epstein-tariffs-doge-immigration-live-updates-rcna219794" target="_blank">Federal judge to hear arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/trump-harvard-epstein-tariffs-doge-immigration-live-updates-rcna219794" target="_blank">Federal judge hears arguments in Harvard&#x27;s lawsuit over Trump&#x27;s funding cuts</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-21 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb7/live/b933a130-662f-11f0-8dbd-f3d32ebd3327.jpg" alt="At least 19 dead after air force jet crashes into Bangladesh school" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75rprqwr67o" target="_blank">At least 19 dead after air force jet crashes into Bangladesh school</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-21 11:18</span>
             </div>
         </div>
 </div>
@@ -102,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710627/tesla-deal-discount-incentive-financing-fsd-free-trial" target="_blank">Tesla’s response to cratering sales? A deals blitz</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 14:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/apple-encryption-500x500-1741119073.jpg" alt="UK backing down on Apple encryption backdoor after pressure from US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +158,20 @@
                 <span class="time">2025-07-21 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687645a0acabb83a02edafdf/master/pass/071525_Beyond-Wellness-LP-2.jpg" alt="Beyond Wellness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/beyond-wellness/" target="_blank">Beyond Wellness</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519963&w=600" alt="ArchUnit, Unit Testing The Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/archunit-unit-testing-the-architecture" target="_blank">ArchUnit, Unit Testing The Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,21 +209,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarony11/is-terraform-for-kubernetes-applications-flawed-the-case-for-a-gitops-native-future-49ce" target="_blank">Is Terraform for Kubernetes Applications Flawed? GitOps for Kubernetes is The Way</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul14-2025/en/headerimage/java-istock-image-01-1753097817566.jpg" alt="Java News Roundup: JDK 25 in RDP2, Spring Framework, Payara Platform, Open Liberty, Eclipse DataGrid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/07/zendesk-interface-platform/en/headerimage/generatedHeaderImage-1752833463855.jpg" alt="Zendesk Streamlines Infrastructure Provisioning with Foundation Interface Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25 in RDP2, Spring Framework, Payara Platform, Open Liberty, Eclipse DataGrid</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/zendesk-interface-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zendesk Streamlines Infrastructure Provisioning with Foundation Interface Platform</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2025-07-21 11:40</span>
+                <span class="time">2025-07-21 12:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled-1.jpg?fit=1064%2C796&amp;quality=60&amp;ssl=1" alt="Britain&#x27;s Swingathon festival attracts thousands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/21/britains-swingathon-festival-attracts-thousands.html" target="_blank">Britain&#x27;s Swingathon festival attracts thousands</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-21 13:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0G18B72V4S3967AM2A5832Z/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Freeze Branding&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-freeze-branding?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: What Is &#x27;Freeze Branding&#x27;?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cc02a7c3062feeb1de5ff49c4edcda5f.jpg" alt="Ubisoft CEO Blames Outlaws&#x27; Struggles On &#x27;Choppy&#x27; Star Wars Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +290,6 @@
                 <span class="time">2025-07-20 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/1min.AI-Advanced-Business-Plan-Lifetime-Subscription-1-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="$185 for a laptop that actually runs? Student sidekick secured" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/20/185-for-a-laptop-that-actually-runs-student-sidekick-secured.html" target="_blank">$185 for a laptop that actually runs? Student sidekick secured</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/09/26c303726ec2038b053a894424992578.jpg" alt="Ethereum Is Quietly Soaring. What Comes Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ethereum-is-quietly-soaring-what-comes-next-2000631839" target="_blank">Ethereum Is Quietly Soaring. What Comes Next?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-20 14:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
