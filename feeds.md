@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 12:02:02 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-21 13:13:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, July 21, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/21/what-is-the-kill-zone-people-in-gaza-need-to-cross-to-receive-aid?traffic_source=rss" target="_blank">What is the ‘kill zone’ people in Gaza need to cross to receive aid?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-21 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb7/live/b933a130-662f-11f0-8dbd-f3d32ebd3327.jpg" alt="At least 19 dead after air force jet crashes into Bangladesh school" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75rprqwr67o" target="_blank">At least 19 dead after air force jet crashes into Bangladesh school</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-21 11:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +91,6 @@
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/world/europe/war-crime-genocide-denialism-disinformation-rcna219896" target="_blank">He survived a mass execution at 17. Now he&#x27;s fighting disinformation and denialism.</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5472445/safer-beauty-bill-package-remove-toxic-chemicals-cosmestics" target="_blank">Many beauty products have toxic ingredients. Newly proposed bills could change that</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5470131/us-coffee-prices-brazil-trump-tariffs" target="_blank">U.S. coffee drinkers and businesses will pay the price for Trump&#x27;s Brazil tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-21 09:00</span>
             </div>
         </div>
@@ -172,6 +162,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/youtube_golf/golfcom-scheffler-dominates-royal-portrush-inside-scotties-triumph-at-the-open-4gf7" target="_blank">Golf.com: Scheffler Dominates Royal Portrush | Inside Scottie&#x27;s Triumph at The Open</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18519952&w=600" alt="Today’s Platform Engineer Needs to Build AI-Ready Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/platform-engineering-ai-infrastructure" target="_blank">Today’s Platform Engineer Needs to Build AI-Ready Infrastructure</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EROFS-Metadata-Compression" target="_blank">EROFS Implementing Metadata Compression For Even Smaller Image Sizes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sarony11/is-terraform-for-kubernetes-applications-flawed-the-case-for-a-gitops-native-future-49ce" target="_blank">Is Terraform for Kubernetes Applications Flawed? GitOps for Kubernetes is The Way</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 11:56</span>
@@ -193,33 +210,6 @@
                 <span class="title"><a href="https://dev.to/ayatas_technologies_ec1ca/understanding-the-mvp-approach-in-web-application-development-29j4" target="_blank">Understanding the MVP Approach in Web Application Development</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-DTLTO-Distributed-Thin" target="_blank">LLVM Begins Landing Distributed ThinLTO &quot;DTLTO&quot; Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-141-Available" target="_blank">Firefox 141 Release Brings Lower RAM Usage On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sake/kiro-is-amazing-2ia0" target="_blank">Kiro is amazing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 07:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
