@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 22:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 23:01:38 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78817/usopc-olympic-paralympic-transgender-women-sports-ban" target="_blank">U.S. Olympic and Paralympic officials bar transgender women from Olympic women&#x27;s sports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 22:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/22/england-beat-italy-to-reach-uefa-womens-euro-2025-final?traffic_source=rss" target="_blank">England beat Italy to reach UEFA Women’s Euro 2025 final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 22:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-15-ap-gmh-250722_1753201119010_hpMain_4x3t_384.jpg" alt="&#x27;Outrageous&#x27;: Obama pushes back on Trump &#x27;treason&#x27; comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5472652/national-urban-league-says-trumps-policies-amount-to-emergency-for-black-americans" target="_blank">National Urban League says Trump&#x27;s policies amount to emergency for Black Americans</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-22 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5476293/car-makers-tariff-pain-general-motors-profits" target="_blank">Car makers are feeling tariff pain: GM is the 2nd company to take a hit to profits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/ozzy-osbourne-02-gty-jef-250722_1753208131932_hpMain_4x3t_384.jpg" alt="Black Sabbath frontman Ozzy Osbourne dead at 76" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/ozzy-osbourne-heavy-metal-music-legend-dead-76/story?id=72692115" target="_blank">Black Sabbath frontman Ozzy Osbourne dead at 76</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-22 18:58</span>
             </div>
         </div>
 </div>
@@ -165,6 +169,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8osapdc3hrn3wuulah5.png" alt="Ferramentas e rotina nos meus estudos com IA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj" target="_blank">Ferramentas e rotina nos meus estudos com IA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html" target="_blank">Python 3.14 release candidate 1 is go</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-22 22:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/" target="_blank">Debugging UI with AI: GitHub Copilot agent mode meets MCP servers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-22 21:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -174,48 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://qwenlm.github.io/blog/qwen3-coder/" target="_blank">Qwen3-Coder: Agentic Coding in the World</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-22 21:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojg82e9nw6bm6chkeegx.png" alt="Measures of central tendency and their significance in the field of data science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76" target="_blank">Measures of central tendency and their significance in the field of data science</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525069&w=600" alt="Implementing ΔE-ITP in Python: Accurate Color Difference Metric for Image Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/image-difference-deltae-itp-python" target="_blank">Implementing ΔE-ITP in Python: Accurate Color Difference Metric for Image Processing</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taliastorymaker/i-just-typed-big-instead-of-git-e55" target="_blank">I just typed &quot;big&quot; instead of &quot;git&quot; ????</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248" target="_blank">Swift-erlang-actor-system</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-22 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bbc.co.uk/news/live/cn0qq5nyxn0t" target="_blank">Black Sabbath&#x27;s Ozzy Osbourne dies aged 76</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-22 18:20</span>
             </div>
         </div>
 </div>
@@ -319,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
