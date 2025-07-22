@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-21 23:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 00:05:16 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 21, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/bill-gty-er-250721_1753137637441_hpMain_4x3t_384.jpg" alt="Bill Cosby speaks to ABC News about late co-star Malcolm-Jamal Warner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Entertainment/bill-cosby-mourns-late-star-malcolm-jamal-warner/story?id=123940226" target="_blank">Bill Cosby speaks to ABC News about late co-star Malcolm-Jamal Warner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-21 23:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250715-pam-bondi-donald-trump-mn-1430-517662.jpg" alt="Trump turns to old grievances as Jeffrey Epstein questions linger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/21/as-trumps-tariff-deadline-looms-economists-see-calm-before-the-storm?traffic_source=rss" target="_blank">As Trump’s tariff deadline looms, economists see calm before the storm</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Malcolm-Jamal-Warner-gty-gmh-250721_1753117623951_hpMain_4x3t_384.jpg" alt="Malcolm-Jamal Warner, former &#x27;Cosby Show&#x27; star, dead at 54" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/malcolm-jamal-warner-former-cosby-show-star-dead/story?id=123932998" target="_blank">Malcolm-Jamal Warner, former &#x27;Cosby Show&#x27; star, dead at 54</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 19:32</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/jeffrey-epstein-fallout-trump-administration-maga-greatest-hits-rcna220038" target="_blank">Trump turns to old grievances as Jeffrey Epstein questions linger</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-21 21:03</span>
             </div>
         </div>
 </div>
@@ -100,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance" target="_blank">Citizen will share crime videos with the NYPD</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-21 21:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687e91283dfd9b55b8f0e6e9/master/pass/epa-closure-sci-2167038723.jpg" alt="EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +161,29 @@
                 <span class="time">2025-07-21 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687ab179057dbd23f7776e33/master/pass/Cantor-Fitzgerald-Offers-to-Buy-Trump-Tariff-Refunds-Business-2216989642.jpg" alt="Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/" target="_blank">Trump&#x27;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/argon-one-up.jpg?resize=406%2C232&amp;ssl=1" alt="Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop" target="_blank">Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-21 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Wildcat-Lake-Mesa" target="_blank">Intel Wildcat Lake OpenGL &amp; Vulkan Support Upstreamed In Mesa</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-21 22:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-phishing-attacks-developer-workflows" target="_blank">6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-21 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/21/community-products-roadmap-update-july-2025/" target="_blank">Community Products roadmap update, July 2025</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-21 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526948&w=600" alt="Software Supply Chain Security Regulations From a DevSecOps Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/software-supply-chain-security-regulations-devsecops" target="_blank">Software Supply Chain Security Regulations From a DevSecOps Perspective</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 18:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0QDWKT9T1MAA2ZJ26AH123Y/hero-image.png" alt="This Beats Pill Speaker Is on Sale for $90 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/refurbished-2024-beats-pill-speaker-deal?utm_medium=RSS" target="_blank">This Beats Pill Speaker Is on Sale for $90 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-21 22:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/superman-james-gunn-lois-clark-interview-scene.jpg" alt="I Love That ‘Superman’ Loves Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/polymarket-says-its-coming-back-to-the-u-s-2000632113" target="_blank">Polymarket Says Its Coming Back to the U.S.</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-21 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6a384be16da7df03140aec7d7277f762.jpg" alt="Infamous Coldplay &#x27;Cheating&#x27; Clip Is Being Spoofed At Sporting Events Everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655" target="_blank">Infamous Coldplay &#x27;Cheating&#x27; Clip Is Being Spoofed At Sporting Events Everywhere</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-21 19:10</span>
             </div>
         </div>
 </div>
@@ -341,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
