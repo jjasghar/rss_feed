@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 03:29:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 04:14:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,12 +172,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="The Complete Guide to Virtual Onboarding for Remote Employees" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kruti12/the-complete-guide-to-virtual-onboarding-for-remote-employees-5ao8" target="_blank">The Complete Guide to Virtual Onboarding for Remote Employees</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-WSI-Atomic-KMS" target="_blank">Mesa 25.3 Merges Vulkan WSI  Support For Using Atomic Mode-Setting</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-22 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1fr5f7p729xye99w2ze.png" alt="🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27" target="_blank">🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 02:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/argon-one-up.jpg?resize=406%2C232&amp;ssl=1" alt="Argon ONE Up Laptop Runs on a Raspberry Pi CM5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop" target="_blank">Argon ONE Up Laptop Runs on a Raspberry Pi CM5</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-21 23:14</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Wildcat-Lake-Mesa" target="_blank">Intel Wildcat Lake OpenGL &amp; Vulkan Support Upstreamed In Mesa</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-21 22:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/denis_dymov/top-5-emerging-trends-in-smart-home-ai-for-2025-3p30" target="_blank">🔥 Top 5 Emerging Trends in Smart Home AI for 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-6.4.2" target="_blank">AMD ROCm 6.4.2 Released With Official Support For The Radeon RX 7700 XT</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg" target="_blank">Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-21 20:47</span>
             </div>
         </div>
 </div>
@@ -329,22 +339,13 @@
                 <span class="time">2025-07-21 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png" alt="iNaturalist Animals and Plants" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3118/" target="_blank">iNaturalist Animals and Plants</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-21 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
