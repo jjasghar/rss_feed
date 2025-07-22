@@ -1,35 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 13:13:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 14:02:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +36,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5476161/coca-cola-cane-sugar-coke-trump-recipe" target="_blank">Coca-Cola says it will use &#x27;U.S. cane sugar&#x27; in a new drink offering</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/22/qatar-confirms-2036-olympic-games-host-city-bid?traffic_source=rss" target="_blank">Qatar confirms 2036 Olympic Games host city bid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131a/live/6f080310-66c2-11f0-a4de-6d8ec3aa70c3.jpg" alt="Cleverly returns to Tory front bench as Badenoch reshuffles team" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c24v0j73e75o" target="_blank">Cleverly returns to Tory front bench as Badenoch reshuffles team</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +90,20 @@
                 <span class="time">2025-07-22 11:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-pakistan-balochistan_6970638.jpg?20250722113409" alt="Police arrest 14 over viral &#x27;honour killing&#x27; video in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/police-arrest-14-over-viral-honour-killing-video-in-pakistan-13400035" target="_blank">Police arrest 14 over viral &#x27;honour killing&#x27; video in Pakistan</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-22 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78673/up-first-newsletter-military-bases-immigrant-detention-harvard-trump-gaza-israel" target="_blank">2 military bases expand to detain immigrants. And, Israel advances into central Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/inside-irans-crackdown-on-afghan-migrants?traffic_source=rss" target="_blank">Inside Iran’s crackdown on Afghan migrants after the war with Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup" target="_blank">A daily Pokémon puzzle game is out now as part of a busy lineup</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-22 13:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687f174978b365533f75d1f0/master/pass/I%20Found%20the%20Perfect%20Sleeping%20Bag.png" alt="This Is the Best Sleeping Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +149,20 @@
                 <span class="time">2025-07-22 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Code: Get a Gift Card Worth Up to $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Code: Get a Gift Card Worth Up to $200</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8" target="_blank">Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 13:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +208,6 @@
                 <span class="time">2025-07-22 10:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9y09v5tgtfkyzbtprh1.png" alt="How to use Terraform to generate secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techielass/how-to-use-terraform-to-generate-secrets-1loh" target="_blank">How to use Terraform to generate secrets</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +242,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/dc-studios-wonder-woman-movie-writer-confirmed-2000632486" target="_blank">DC Has Found a Familiar Face to Write the ‘Wonder Woman’ Movie</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0RN1HET5NMDM8BQ5R4H8315/hero-image.png" alt="This Ring Wireless Outdoor Camera Is at Its Lowest Price Ever Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ring-spotlight-cam-pro-sale?utm_medium=RSS" target="_blank">This Ring Wireless Outdoor Camera Is at Its Lowest Price Ever Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-22 13:00</span>
             </div>
         </div>
@@ -290,15 +290,6 @@
                 <span class="time">2025-07-21 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0QDWKT9T1MAA2ZJ26AH123Y/hero-image.png" alt="This Beats Pill Speaker Is on Sale for $90 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/refurbished-2024-beats-pill-speaker-deal?utm_medium=RSS" target="_blank">This Beats Pill Speaker Is on Sale for $90 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-21 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
