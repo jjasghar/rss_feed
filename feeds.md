@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 21:01:34 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-22 22:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-15-ap-gmh-250722_1753201119010_hpMain_4x3t_384.jpg" alt="&#x27;Outrageous&#x27;: Obama pushes back on Trump &#x27;treason&#x27; comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-accuses-obama-treason-oval-office/story?id=123963917" target="_blank">&#x27;Outrageous&#x27;: Obama pushes back on Trump &#x27;treason&#x27; comments</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-22 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78737/trump-state-department-unesco-withdrawal-again" target="_blank">U.S. withdraws from U.N. cultural agency over &#x27;divisive social and cultural causes&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 21:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/GMA/Culture/ozzy-osbourne-heavy-metal-music-legend-dead-76/story?id=72692115" target="_blank">Black Sabbath frontman Ozzy Osbourne dead at 76</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-22 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/22/uks-aid-cuts-will-hit-childrens-education-and-raise-risk-of-death" target="_blank">UK’s aid cuts ‘will hit children’s education and raise risk of death’</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-22 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/Ozzy-i7o8su.jpg" alt="Ozzy Osbourne dies at 76" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/ozzy-osbourne-dies-at-76-243642437623" target="_blank">Ozzy Osbourne dies at 76</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-22 18:40</span>
             </div>
         </div>
 </div>
@@ -161,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba" target="_blank">97% drop in traffic. No code changes. Just added a package.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 21:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojg82e9nw6bm6chkeegx.png" alt="Measures of central tendency and their significance in the field of data science" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76" target="_blank">Measures of central tendency and their significance in the field of data science</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525069&w=600" alt="Implementing ΔE-ITP in Python: Accurate Color Difference Metric for Image Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/image-difference-deltae-itp-python" target="_blank">Implementing ΔE-ITP in Python: Accurate Color Difference Metric for Image Processing</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-22 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +218,6 @@
                 <span class="time">2025-07-22 18:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Release-Criteria-CD-DVDs" target="_blank">Fedora Weighs Dropping Release Criteria For DVD Optical Media</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-22 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-Silicon-Linux-6.17" target="_blank">Apple Silicon SoC/DT Changes Submitted Ahead Of Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-22 17:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunn-thinks-anti-american-sentiment-is-hurting-superman-overseas-2000632655" target="_blank">James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Stranger-Things-Dungeons-and-Dragons.jpg" alt="‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +291,6 @@
                 <span class="time">2025-07-22 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Disney-Animation-Walt-Disney-World.jpg" alt="Disney World Is Shutting Down One Part of Its ‘Star Wars’ Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-world-is-shutting-down-one-part-of-its-star-wars-experience-2000632649" target="_blank">Disney World Is Shutting Down One Part of Its ‘Star Wars’ Experience</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
