@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 10:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 11:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli attacks on facilities in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 10:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/22/man-rescued-trying-to-reach-spain-from-morocco-in-rubber-ring-and-flippers" target="_blank">Man rescued trying to reach Spain from Morocco in rubber ring and flippers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-22 09:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-andrew-cuomo-donald-trump-cs-4c7ddf.jpg" alt="Trump as foil disappears from Andrew Cuomo&#x27;s rebooted New York mayoral bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli raid on central Gaza residence and warehouse attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-22 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ef/live/768156f0-669a-11f0-86da-2f6de91e0663.jpg" alt="Gang leaders and fake passport dealers to be named in smuggling sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg3lpwx41xo" target="_blank">Gang leaders and fake passport dealers to be named in smuggling sanctions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 06:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5475968/swimming-pools-recall-us-canada" target="_blank">Over 5 million pools sold in the U.S., Canada under recall after reports of 9 deaths</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 05:26</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-LLVM-RDNA3-True16" target="_blank">AMDGPU LLVM Backend Flips On &quot;True16&quot; Mode For All RDNA3 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-22 10:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9y09v5tgtfkyzbtprh1.png" alt="How to use Terraform to generate secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +219,6 @@
                 <span class="time">2025-07-22 07:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/harper-grammar-checker/" target="_blank">I Found a New Open Source Grammar Checker Tool And I Like it... Well... Kind of</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-22 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/smarhome.jpg" alt="How to Build a Functional Smart Home When You’ll Never Own a House Yourself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-build-a-functional-smart-home-when-youll-never-own-a-house-yourself-2000610722" target="_blank">How to Build a Functional Smart Home When You’ll Never Own a House Yourself</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/chihuahua.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Hilarious chihuahua tiptoes in slo-mo to get what he wants (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +301,6 @@
                 <span class="time">2025-07-21 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trans-flag.jpg?fit=1200%2C726&amp;quality=60&amp;ssl=1" alt="Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/21/grab-this-bundle-to-enjoy-harry-potter-and-support-lgbtq-kids.html" target="_blank">Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-21 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
