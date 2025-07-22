@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 06:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 07:03:26 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +56,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5475968/swimming-pools-recall-us-canada" target="_blank">Over 5 million pools sold in the U.S., Canada under recall after reports of 9 deaths</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-22 05:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/china-starts-construction-of-worlds-biggest-hydropower-dam-in-tibet?traffic_source=rss" target="_blank">China starts construction of world’s biggest hydropower dam in Tibet</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 04:46</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwyxp280dxwo" target="_blank">Rents rise £221 a month in three years, analysis suggests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-22 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5475234/martin-luther-king-jr-records" target="_blank">Trump administration releases trove of files on Martin Luther King Jr. assassination</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 00:43</span>
             </div>
         </div>
 </div>
@@ -175,6 +177,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdocs-git-docs-update-pr-agent-content-gibsonai.vercel.app%2F_next%2Fimage%3Furl%3D%252Fdocs%252Fguides%252Fautomatic-pr-creation-for-database-schema-change%252Fdatabase_schema_change_prompt.png%26w%3D1920%26q%3D75%26dpl%3Ddpl_3opbcJAEcnYNvKfzoTydqjYoeg2i" alt="Automatic PR creation on GitHub for database schema change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bobur/automatic-pr-creation-on-github-for-database-schema-change-2cpn" target="_blank">Automatic PR creation on GitHub for database schema change</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/openai/whisper/discussions/2608" target="_blank">Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-22 05:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="The Complete Guide to Virtual Onboarding for Remote Employees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27" target="_blank">🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/argon-one-up.jpg?resize=406%2C232&amp;ssl=1" alt="Argon ONE Up Laptop Runs on a Raspberry Pi CM5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop" target="_blank">Argon ONE Up Laptop Runs on a Raspberry Pi CM5</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-21 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/argon-one-up.jpg?resize=406%2C232&amp;ssl=1" alt="Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop" target="_blank">Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-21 23:14</span>
             </div>
         </div>
 </div>
@@ -324,22 +326,13 @@
                 <span class="time">2025-07-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/21/michael-but-also-angelo" target="_blank">Michael But Also Angelo</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-21 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
