@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 00:05:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-22 01:29:36 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5475234/martin-luther-king-jr-records" target="_blank">Trump administration releases trove of files on Martin Luther King Jr. assassination</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/russia-ukraine-war-list-of-key-events-day-1244?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,244</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 00:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/bill-gty-er-250721_1753137637441_hpMain_4x3t_384.jpg" alt="Bill Cosby speaks to ABC News about late co-star Malcolm-Jamal Warner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +97,38 @@
                 <span class="time">2025-07-21 21:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gaza-5-rt-gmh-250721_1753109530764_hpMain_4x3t_384.jpg" alt="25 countries demand Israel end the war in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/25-countries-sign-statement-calling-end-war-gaza/story?id=123926786" target="_blank">25 countries demand Israel end the war in Gaza</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250715-pam-bondi-donald-trump-mn-1430-517662.jpg" alt="Trump turns to old grievances as Jeffrey Epstein questions linger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/jeffrey-epstein-fallout-trump-administration-maga-greatest-hits-rcna220038" target="_blank">Trump turns to old grievances as Jeffrey Epstein questions linger</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-21 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/647901/best-smart-rings" target="_blank">The best smart rings for tracking sleep and health</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-22 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/" target="_blank">OpenAI and Google outdo the mathletes, but not each other</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-22 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/53558312758_7c11add992_k-500x500.jpg" alt="Nearly 3,000 people are leaving NASA, and this director is one of them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/the-director-of-nasas-largest-science-center-is-leaving-government/" target="_blank">Nearly 3,000 people are leaving NASA, and this director is one of them</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-21 23:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/google-reveals-the-pixel-10-and-yep-it-looks-like-the-pixel-9/" target="_blank">Google gets ahead of the leaks and reveals the Pixel 10 early</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-21 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-500x500-1751402471.jpg" alt="FCC to eliminate gigabit speed goal and scrap analysis of broadband prices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/fcc-to-eliminate-gigabit-speed-goal-and-scrap-analysis-of-broadband-prices/" target="_blank">FCC to eliminate gigabit speed goal and scrap analysis of broadband prices</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale" target="_blank">Sony’s gamer-friendly X90L TV is on sale for a new low price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-21 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687ab179057dbd23f7776e33/master/pass/Cantor-Fitzgerald-Offers-to-Buy-Trump-Tariff-Refunds-Business-2216989642.jpg" alt="Trump’s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/" target="_blank">Trump’s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 18:51</span>
             </div>
         </div>
 </div>
@@ -249,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/chihuahua.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Hilarious chihuahua tiptoes in slo-mo to get what he wants (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/21/hilarious-chihuahua-tiptoes-in-slo-mo-to-get-what-he-wants-video.html" target="_blank">Hilarious chihuahua tiptoes in slo-mo to get what he wants (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-21 23:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/mephisto.jpg" alt="Kevin Feige Says Mephisto Was Never the Plan for ‘WandaVision’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -291,15 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/21/grab-this-bundle-to-enjoy-harry-potter-and-support-lgbtq-kids.html" target="_blank">Grab this bundle to enjoy Harry Potter and support LGBTQ+ kids</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/PolymarketCoplan.jpg" alt="Polymarket Says Its Coming Back to the U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/polymarket-says-its-coming-back-to-the-u-s-2000632113" target="_blank">Polymarket Says Its Coming Back to the U.S.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 19:55</span>
             </div>
         </div>
 </div>
@@ -348,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
