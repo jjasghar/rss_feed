@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 08:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 09:03:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="World Health Organization condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">World Health Organization condemns Israeli attacks on facilities in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 07:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli raid on central Gaza residence and warehouse attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli raid on central Gaza residence and warehouse attack</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-22 07:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ef/live/768156f0-669a-11f0-86da-2f6de91e0663.jpg" alt="Gang leaders and fake passport dealers to be named in smuggling sanctions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg3lpwx41xo" target="_blank">Gang leaders and fake passport dealers to be named in smuggling sanctions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 06:32</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckg3lpwx41xo" target="_blank">Smugglers to be named in sanctions on small boat gangs</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-22 04:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/5dcffb40-667a-11f0-9509-9be5a28f5d85.jpg" alt="&#x27;Substantial changes&#x27; announced on infected blood compensation scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9dgznqvwe9o" target="_blank">&#x27;Substantial changes&#x27; announced on infected blood compensation scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 03:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/irans-fm-says-nuclear-enrichment-will-continue-but-open-to-talks?traffic_source=rss" target="_blank">Iran’s FM says nuclear enrichment will continue, but open to talks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 02:55</span>
             </div>
         </div>
 </div>
@@ -163,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/aws-blue-green-ecs/en/headerimage/generatedHeaderImage-1753032328839.jpg" alt="AWS Introduces Built-in Blue-Green Deployment Capability for ECS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-blue-green-ecs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Built-in Blue-Green Deployment Capability for ECS</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmnp58ajuhfb2nky7j0a.png" alt="The API Apocalypse: When Third-Party Services Turn into Supervillains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vibhuvibes/the-api-apocalypse-when-third-party-services-turn-into-supervillains-395m" target="_blank">The API Apocalypse: When Third-Party Services Turn into Supervillains</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 08:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
@@ -181,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/harper-grammar-checker/" target="_blank">I Found a New Open Source Grammar Checker Tool And I Like it... Well... Kind of</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-22 07:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdocs-git-docs-update-pr-agent-content-gibsonai.vercel.app%2F_next%2Fimage%3Furl%3D%252Fdocs%252Fguides%252Fautomatic-pr-creation-for-database-schema-change%252Fdatabase_schema_change_prompt.png%26w%3D1920%26q%3D75%26dpl%3Ddpl_3opbcJAEcnYNvKfzoTydqjYoeg2i" alt="Automatic PR creation on GitHub for database schema change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bobur/automatic-pr-creation-on-github-for-database-schema-change-2cpn" target="_blank">Automatic PR creation on GitHub for database schema change</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/openai/whisper/discussions/2608" target="_blank">Complete silence is always hallucinated as &quot;ترجمة نانسي قنقر&quot; in Arabic</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-22 05:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="The Complete Guide to Virtual Onboarding for Remote Employees" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kruti12/the-complete-guide-to-virtual-onboarding-for-remote-employees-5ao8" target="_blank">The Complete Guide to Virtual Onboarding for Remote Employees</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-WSI-Atomic-KMS" target="_blank">Mesa 25.3 Merges Vulkan WSI  Support For Using Atomic Mode-Setting</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-22 04:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
