@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 05:05:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-22 06:01:59 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 05:05 UTC</div>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5475968/swimming-pools-recall-us-canada" target="_blank">Over 5 million pools sold in the U.S., Canada under recall after reports of 9 deaths</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 05:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ef/live/768156f0-669a-11f0-86da-2f6de91e0663.jpg" alt="Smugglers to be named in sanctions on small boat gangs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg3lpwx41xo" target="_blank">Smugglers to be named in sanctions on small boat gangs</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 04:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/5dcffb40-667a-11f0-9509-9be5a28f5d85.jpg" alt="&#x27;Substantial changes&#x27; announced on infected blood compensation scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +101,29 @@
                 <span class="time">2025-07-22 00:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/russia-ukraine-war-list-of-key-events-day-1244?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,244</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/bill-gty-er-250721_1753137637441_hpMain_4x3t_384.jpg" alt="Bill Cosby speaks to ABC News about late co-star Malcolm-Jamal Warner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Entertainment/bill-cosby-mourns-late-star-malcolm-jamal-warner/story?id=123940226" target="_blank">Bill Cosby speaks to ABC News about late co-star Malcolm-Jamal Warner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-21 23:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/" target="_blank">Latent Labs launches web-based AI model to democratize protein design</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-22 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Code: Get a Gift Card Worth Up to $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Code: Get a Gift Card Worth Up to $200</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-22 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +160,20 @@
                 <span class="time">2025-07-22 00:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/openai-and-google-outdo-the-mathletes-but-not-each-other/" target="_blank">OpenAI and Google outdo the mathletes, but not each other</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/53558312758_7c11add992_k-500x500.jpg" alt="Nearly 3,000 people are leaving NASA, and this director is one of them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/the-director-of-nasas-largest-science-center-is-leaving-government/" target="_blank">Nearly 3,000 people are leaving NASA, and this director is one of them</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-21 23:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/22/ai-has-been-the-wild-west-creating-standards-for-agents-with-sean-falconer/" target="_blank">“AI has been the wild west”: Creating standards for agents with Sean Falconer</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-22 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10233%2Fa214d929-4a86-43e3-8a25-ba25c166bdae.png" alt="The Complete Guide to Virtual Onboarding for Remote Employees" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/argon-one-up-raspberry-pi-cm5-laptop" target="_blank">Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-21 23:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Wildcat-Lake-Mesa" target="_blank">Intel Wildcat Lake OpenGL &amp; Vulkan Support Upstreamed In Mesa</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-21 22:05</span>
             </div>
         </div>
 </div>
@@ -332,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
