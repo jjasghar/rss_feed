@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 02:38:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-07-22 03:29:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 02:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/irans-fm-says-nuclear-enrichment-will-continue-but-open-to-talks?traffic_source=rss" target="_blank">Iran’s FM says nuclear enrichment will continue, but open to talks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 02:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0956/live/4eeab1c0-5bd9-11f0-9176-c710c4836875.jpg" alt="Rents rise £221 a month in three years, analysis suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxp280dxwo" target="_blank">Rents rise £221 a month in three years, analysis suggests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +97,20 @@
                 <span class="time">2025-07-21 22:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/21/nx-s1-5475109/immigrant-detention-military-bases" target="_blank">Military bases in New Jersey, Indiana, to be expanded to detain immigrants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-21 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/21/what-are-the-implications-of-the-uk-ban-on-palestine-action?traffic_source=rss" target="_blank">What are the implications of the UK ban on Palestine Action?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-21 21:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/" target="_blank">Tesla’s retro-futuristic diner officially opens as Elon Musk hints at more locations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-22 02:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687e878e647fb437b22c5c95/master/pass/Dario-Explains-Need-Gulf-Money-Business-2194823537.jpg" alt="Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +156,20 @@
                 <span class="time">2025-07-21 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687e91283dfd9b55b8f0e6e9/master/pass/epa-closure-sci-2167038723.jpg" alt="EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/" target="_blank">EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-21 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1fr5f7p729xye99w2ze.png" alt="🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27" target="_blank">🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 02:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/argon-one-up.jpg?resize=406%2C232&amp;ssl=1" alt="Argon ONE Up is a 14-inch Raspberry Pi Laptop Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/hexshift/building-a-real-time-notification-system-in-mediawiki-using-extension-hooks-and-websockets-2jlg" target="_blank">Building a Real-Time Notification System in MediaWiki Using Extension Hooks and WebSockets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-21 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528522&w=600" alt="6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-phishing-attacks-developer-workflows" target="_blank">6 Ways AI-Enhanced Phishing Can Hijack Developer Workflows (and What to Do About It)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-21 19:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
