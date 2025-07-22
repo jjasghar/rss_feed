@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 07:03:26 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-22 08:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli raid on central Gaza residence and warehouse attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli raid on central Gaza residence and warehouse attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 07:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/irans-fm-says-nuclear-enrichment-will-continue-but-open-to-talks?traffic_source=rss" target="_blank">Iran’s FM says nuclear enrichment will continue, but open to talks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-22 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0956/live/4eeab1c0-5bd9-11f0-9176-c710c4836875.jpg" alt="Rents rise £221 a month in three years, analysis suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxp280dxwo" target="_blank">Rents rise £221 a month in three years, analysis suggests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 02:07</span>
             </div>
         </div>
 </div>
@@ -177,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frvr20etvzkid1185t7pr.png" alt="I Tested 25+ (Free &amp; Paid) Web Scraping Tools - These 8 Are the Absolute Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nitinfab/i-tested-25-free-paid-web-scraping-tools-these-8-are-the-absolute-best-2a4p" target="_blank">I Tested 25+ (Free &amp; Paid) Web Scraping Tools - These 8 Are the Absolute Best</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 07:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdocs-git-docs-update-pr-agent-content-gibsonai.vercel.app%2F_next%2Fimage%3Furl%3D%252Fdocs%252Fguides%252Fautomatic-pr-creation-for-database-schema-change%252Fdatabase_schema_change_prompt.png%26w%3D1920%26q%3D75%26dpl%3Ddpl_3opbcJAEcnYNvKfzoTydqjYoeg2i" alt="Automatic PR creation on GitHub for database schema change" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-WSI-Atomic-KMS" target="_blank">Mesa 25.3 Merges Vulkan WSI  Support For Using Atomic Mode-Setting</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-22 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv1fr5f7p729xye99w2ze.png" alt="🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahdeep/the-ai-native-browser-wars-comet-vs-chatgpt-agent-1b27" target="_blank">🚀 The AI-Native Browser Wars: Comet vs. ChatGPT Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 02:59</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
