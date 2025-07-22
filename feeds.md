@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 09:03:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-22 10:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-andrew-cuomo-donald-trump-cs-4c7ddf.jpg" alt="Trump as foil disappears from Andrew Cuomo&#x27;s rebooted New York mayoral bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-foil-disappears-andrew-cuomos-rebooted-new-york-mayoral-bid-rcna219595" target="_blank">Trump as foil disappears from Andrew Cuomo&#x27;s rebooted New York mayoral bid</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-22 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/22/video-us-police-officer-in-breonna-taylor-death-jailed-for-33-months?traffic_source=rss" target="_blank">Video: US police officer in Breonna Taylor death jailed for 33 months</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 08:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="World Health Organization condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +98,20 @@
                 <span class="time">2025-07-22 05:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/china-starts-construction-of-worlds-biggest-hydropower-dam-in-tibet?traffic_source=rss" target="_blank">China starts construction of world’s biggest hydropower dam in Tibet</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ef/live/768156f0-669a-11f0-86da-2f6de91e0663.jpg" alt="Smugglers to be named in sanctions on small boat gangs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg3lpwx41xo" target="_blank">Smugglers to be named in sanctions on small boat gangs</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 04:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687a7c3de532bc38f9815b57/master/pass/galaxia%20infinito.jpg" alt="Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/newly-discovered-infinity-galaxy-could-prove-how-ancient-supermassive-black-holes-formed/" target="_blank">Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +157,20 @@
                 <span class="time">2025-07-22 00:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/647901/best-smart-rings" target="_blank">The best smart rings for tracking sleep and health</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-22 00:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9y09v5tgtfkyzbtprh1.png" alt="How to use Terraform to generate secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/techielass/how-to-use-terraform-to-generate-secrets-1loh" target="_blank">How to use Terraform to generate secrets</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 09:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/aws-blue-green-ecs/en/headerimage/generatedHeaderImage-1753032328839.jpg" alt="AWS Introduces Built-in Blue-Green Deployment Capability for ECS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://itsfoss.com/harper-grammar-checker/" target="_blank">I Found a New Open Source Grammar Checker Tool And I Like it... Well... Kind of</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-07-22 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdocs-git-docs-update-pr-agent-content-gibsonai.vercel.app%2F_next%2Fimage%3Furl%3D%252Fdocs%252Fguides%252Fautomatic-pr-creation-for-database-schema-change%252Fdatabase_schema_change_prompt.png%26w%3D1920%26q%3D75%26dpl%3Ddpl_3opbcJAEcnYNvKfzoTydqjYoeg2i" alt="Automatic PR creation on GitHub for database schema change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bobur/automatic-pr-creation-on-github-for-database-schema-change-2cpn" target="_blank">Automatic PR creation on GitHub for database schema change</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 06:46</span>
             </div>
         </div>
 </div>
@@ -330,7 +327,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:04 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
