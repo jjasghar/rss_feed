@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 11:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 12:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/palestinains-hunger_1753183034962_hpMain_4x3t_384.jpg" alt="15 dead of malnutrition in Gaza in 24 hours, Hamas-run ministry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/15-dead-including-4-children-malnutrition-gaza-past/story?id=123951220" target="_blank">15 dead of malnutrition in Gaza in 24 hours, Hamas-run ministry says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-22 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-pakistan-balochistan_6970638.jpg?20250722113409" alt="Police arrest 14 over viral &#x27;honour killing&#x27; video in Pakistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-arrest-14-over-viral-honour-killing-video-in-pakistan-13400035" target="_blank">Police arrest 14 over viral &#x27;honour killing&#x27; video in Pakistan</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-22 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78673/up-first-newsletter-military-bases-immigrant-detention-harvard-trump-gaza-israel" target="_blank">2 military bases expand to detain immigrants. And, Israel advances into central Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 11:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/inside-irans-crackdown-on-afghan-migrants?traffic_source=rss" target="_blank">Inside Iran’s crackdown on Afghan migrants after the war with Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,47 +100,20 @@
                 <span class="time">2025-07-22 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-andrew-cuomo-donald-trump-cs-4c7ddf.jpg" alt="Trump as foil disappears from Andrew Cuomo&#x27;s rebooted New York mayoral bid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/trump-foil-disappears-andrew-cuomos-rebooted-new-york-mayoral-bid-rcna219595" target="_blank">Trump as foil disappears from Andrew Cuomo&#x27;s rebooted New York mayoral bid</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/22/video-us-police-officer-in-breonna-taylor-death-jailed-for-33-months?traffic_source=rss" target="_blank">Video: US police officer in Breonna Taylor death jailed for 33 months</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 08:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="World Health Organization condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">World Health Organization condemns Israeli attacks on facilities in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli raid on central Gaza residence and warehouse attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli raid on central Gaza residence and warehouse attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 07:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cs/features/709635/knock-it-off" target="_blank">Knock it off!</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-22 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687a7c3de532bc38f9815b57/master/pass/galaxia%20infinito.jpg" alt="Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/" target="_blank">Tesla’s retro-futuristic diner officially opens as Elon Musk hints at more locations</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-22 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687e878e647fb437b22c5c95/master/pass/Dario-Explains-Need-Gulf-Money-Business-2194823537.jpg" alt="Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/" target="_blank">Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 00:46</span>
             </div>
         </div>
 </div>
@@ -227,19 +226,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/" target="_blank">Microsoft Fix Targets Attacks on SharePoint Zero-Day</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-21 14:45</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html" target="_blank">“Encryption Backdoors and the Fourth Amendment”</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-22 11:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html" target="_blank">Another Supply Chain Vulnerability</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-21 11:04</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/" target="_blank">Microsoft Fix Targets Attacks on SharePoint Zero-Day</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-21 14:45</span>
             </div>
         </div>
 </div>
@@ -247,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/693e8e1e45370e19e5096ef90b3e9b82.jpg" alt="Predator: Badlands Looks Like The Glorious &#x27;80s Action Movie The World Desperately Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/predator-badlands-trailer-dan-trachtenberg-prey-aliens-1851786667" target="_blank">Predator: Badlands Looks Like The Glorious &#x27;80s Action Movie The World Desperately Needs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/smarhome.jpg" alt="How to Build a Functional Smart Home When You’ll Never Own a House Yourself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +300,6 @@
                 <span class="time">2025-07-21 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c00efc0aa6985c2e7b90d13c8fc55f7b.png" alt="&#x27;Stop Killing Games&#x27; YouTuber Says Someone&#x27;s Filing False Claims Against EU Initiative" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/accursed-farms-stop-killing-games-eu-petition-ubisoft-1851786660" target="_blank">&#x27;Stop Killing Games&#x27; YouTuber Says Someone&#x27;s Filing False Claims Against EU Initiative</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-21 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
