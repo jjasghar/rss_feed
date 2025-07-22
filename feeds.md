@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 12:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 13:13:27 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/28-countries-called-for-an-end-to-israels-war-on-gaza-what-did-they-say?traffic_source=rss" target="_blank">28 countries called for an end to Israel’s war on Gaza: What did they say?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli attacks on facilities in central Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli attacks on facilities in central Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 11:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/palestinains-hunger_1753183034962_hpMain_4x3t_384.jpg" alt="15 dead of malnutrition in Gaza in 24 hours, Hamas-run ministry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2025-07-22 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli attacks on facilities in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli attacks on facilities in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 10:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/22/man-rescued-trying-to-reach-spain-from-morocco-in-rubber-ring-and-flippers" target="_blank">Man rescued trying to reach Spain from Morocco in rubber ring and flippers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-22 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687f174978b365533f75d1f0/master/pass/I%20Found%20the%20Perfect%20Sleeping%20Bag.png" alt="This Is the Best Sleeping Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/" target="_blank">This Is the Best Sleeping Bag</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-22 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features" target="_blank">Elgato’s new capture card lowers the price for 4K 60fps gameplay recording</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +158,29 @@
                 <span class="time">2025-07-22 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/instead-of-selling-to-meta-ai-chip-startup-furiosaai-signed-a-huge-customer/" target="_blank">Instead of selling to Meta, AI chip startup FuriosaAI signed a huge customer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/teslas-retro-futuristic-diner-officially-opens-as-elon-musk-hints-at-more-locations/" target="_blank">Tesla’s retro-futuristic diner officially opens as Elon Musk hints at more locations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Zstd-Initrd-Toolchain" target="_blank">Fedora 43 Cleared To Ship With Zstd Initrd, Updated Compiler Toolchains &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-22 12:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18521886&w=600" alt="How to Create Loki Alerts via PrometheusRule Resource" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/create-loki-alerts-via-prometheusrule" target="_blank">How to Create Loki Alerts via PrometheusRule Resource</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-22 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,48 +191,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://kau.sh/blog/how-to-firefox/" target="_blank">How to Firefox</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-22 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/en/headerimage/generatedHeaderImage-1753142254970.jpg" alt="Amazon Launches Bedrock AgentCore for Enterprise AI Agent Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon Launches Bedrock AgentCore for Enterprise AI Agent Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-22 10:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9y09v5tgtfkyzbtprh1.png" alt="How to use Terraform to generate secrets" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/techielass/how-to-use-terraform-to-generate-secrets-1loh" target="_blank">How to use Terraform to generate secrets</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/aws-blue-green-ecs/en/headerimage/generatedHeaderImage-1753032328839.jpg" alt="AWS Introduces Built-in Blue-Green Deployment Capability for ECS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-blue-green-ecs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Built-in Blue-Green Deployment Capability for ECS</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmnp58ajuhfb2nky7j0a.png" alt="The API Apocalypse: When Third-Party Services Turn into Supervillains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vibhuvibes/the-api-apocalypse-when-third-party-services-turn-into-supervillains-395m" target="_blank">The API Apocalypse: When Third-Party Services Turn into Supervillains</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 08:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/22/ai-has-been-the-wild-west-creating-standards-for-agents-with-sean-falconer/" target="_blank">“AI has been the wild west”: Creating standards for agents with Sean Falconer</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-22 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frvr20etvzkid1185t7pr.png" alt="I Tested 25+ (Free &amp; Paid) Web Scraping Tools - These 8 Are the Absolute Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nitinfab/i-tested-25-free-paid-web-scraping-tools-these-8-are-the-absolute-best-2a4p" target="_blank">I Tested 25+ (Free &amp; Paid) Web Scraping Tools - These 8 Are the Absolute Best</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 07:36</span>
             </div>
         </div>
 </div>
@@ -246,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/MS-0722-wonder-woman.jpg" alt="DC Has Found a Familiar Face to Write the ‘Wonder Woman’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dc-studios-wonder-woman-movie-writer-confirmed-2000632486" target="_blank">DC Has Found a Familiar Face to Write the ‘Wonder Woman’ Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/693e8e1e45370e19e5096ef90b3e9b82.jpg" alt="Predator: Badlands Looks Like The Glorious &#x27;80s Action Movie The World Desperately Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +299,6 @@
                 <span class="time">2025-07-21 22:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/superman-james-gunn-lois-clark-interview-scene.jpg" alt="I Love That ‘Superman’ Loves Journalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/superman-james-gunn-journalism-lois-lane-daily-planet-2000632278" target="_blank">I Love That ‘Superman’ Loves Journalism</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
