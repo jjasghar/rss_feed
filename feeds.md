@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 20:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-22 21:01:34 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/donald-trump-accuses-barack-obama-of-treason-over-2016-election-claims?traffic_source=rss" target="_blank">Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5472652/national-urban-league-says-trumps-policies-amount-to-emergency-for-black-americans" target="_blank">National Urban League says Trump&#x27;s policies amount to emergency for Black Americans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 20:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/ozzy-osbourne-dies-at-76-243642437623" target="_blank">Ozzy Osbourne dies at 76</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-22 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5476234/trump-epstein-obama" target="_blank">Trump deflects from questions about Epstein probe with accusations about Obama</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/trump-team-seeks-meeting-with-ghislaine-maxwell-amid-epstein-pressure?traffic_source=rss" target="_blank">Trump team seeks meeting with Ghislaine Maxwell amid Epstein pressure</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 17:49</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojg82e9nw6bm6chkeegx.png" alt="Measures of central tendency and their significance in the field of data science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76" target="_blank">Measures of central tendency and their significance in the field of data science</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 20:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +214,6 @@
                 <span class="time">2025-07-22 17:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18522045&w=600" alt="Building a Multi Tenancy Platform Using Camunda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-multi-tenancy-platform-using-camunda" target="_blank">Building a Multi Tenancy Platform Using Camunda</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-22 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Stranger-Things-Dungeons-and-Dragons.jpg" alt="‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dungeons-and-dragons-strange-things-hellfire-club-game-2000632716" target="_blank">‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0SWH626MT9EVBNK4GGHP6WC/hero-image.jpg" alt="How Wordle, Connections, and Strands Stack Up in Gameplay (and Which One You’ll Likely Enjoy)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/how-wordle-connections-and-strands-stack-up-in-gameplay?utm_medium=RSS" target="_blank">How Wordle, Connections, and Strands Stack Up in Gameplay (and Which One You’ll Likely Enjoy)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-22 20:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-1955314177.jpg" alt="Tech Billionaires Wanted to Build a New California City. They’re Settling for an Industrial Park, Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +287,6 @@
                 <span class="time">2025-07-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0fc10b5e37e257311a3eb68d7db06596.jpg" alt="Splitgate 2 Fails To &#x27;Make FPS Great Again,&#x27; Shuttering Before Relaunching Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/splitgate-2-maga-refunds-reboot-beta-season-3-servers-1851786742" target="_blank">Splitgate 2 Fails To &#x27;Make FPS Great Again,&#x27; Shuttering Before Relaunching Next Year</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-22 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="Trump wants &quot;severe consequences&quot; for Obama, whether it&#x27;s &quot;right or wrong&quot; (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/22/trump-says-he-wants-severe-consequences-for-obama-whether-its-right-or-wrong-video.html" target="_blank">Trump wants &quot;severe consequences&quot; for Obama, whether it&#x27;s &quot;right or wrong&quot; (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-22 17:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
