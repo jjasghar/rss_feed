@@ -1,26 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 14:02:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-22 15:02:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5476192/npr-news-chief-edith-chapin-to-step-down-congress-funding-trump" target="_blank">NPR news chief announces she&#x27;s leaving days after Congress kills federal funding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 14:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,20 +96,29 @@
                 <span class="time">2025-07-22 11:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/palestinains-hunger_1753183034962_hpMain_4x3t_384.jpg" alt="15 dead of malnutrition in Gaza in 24 hours, Hamas-run ministry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/15-dead-including-4-children-malnutrition-gaza-past/story?id=123951220" target="_blank">15 dead of malnutrition in Gaza in 24 hours, Hamas-run ministry says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-22 11:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2220743976-500x500.jpg" alt="Tesla is the least-trusted car brand in America, survey finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/tesla-is-the-least-trusted-car-brand-in-america-survey-finds/" target="_blank">Tesla is the least-trusted car brand in America, survey finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-22 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/22/national-security-meets-next-gen-tech-at-techcrunch-disrupt-2025s-ai-defense-panel/" target="_blank">National security meets next-gen tech at TechCrunch Disrupt 2025’s AI Defense panel</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,29 +155,47 @@
                 <span class="time">2025-07-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687a7c3de532bc38f9815b57/master/pass/galaxia%20infinito.jpg" alt="Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/newly-discovered-infinity-galaxy-could-prove-how-ancient-supermassive-black-holes-formed/" target="_blank">Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/21/latent-labs-launches-web-based-ai-model-to-democratize-protein-design/" target="_blank">Latent Labs launches web-based AI model to democratize protein design</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deyrupak/swagrlite-say-hello-to-a-lightweight-swagger-editor-alternative-4340" target="_blank">swagrLite ⚡️ – Say Hello to a Lightweight Swagger Editor Alternative</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-22 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco" target="_blank">The United States Withdraws from UNESCO</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-22 14:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-Struggles-WoA-Laptops" target="_blank">A Number Of Problems Make Debian &amp; Other Linux Distros A Pain On Snapdragon X Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-22 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18521962&w=600" alt="Building a Proactive Cloud Environment Using AWS Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/proactive-cloud-monitoring-with-aws" target="_blank">Building a Proactive Cloud Environment Using AWS Monitoring</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,42 +214,6 @@
                 <span class="time">2025-07-22 12:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18521886&w=600" alt="How to Create Loki Alerts via PrometheusRule Resource" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/create-loki-alerts-via-prometheusrule" target="_blank">How to Create Loki Alerts via PrometheusRule Resource</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-LLVM-RDNA3-True16" target="_blank">AMDGPU LLVM Backend Flips On &quot;True16&quot; Mode For All RDNA3 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-22 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kau.sh/blog/how-to-firefox/" target="_blank">How to Firefox</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-22 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/en/headerimage/generatedHeaderImage-1753142254970.jpg" alt="Amazon Launches Bedrock AgentCore for Enterprise AI Agent Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon Launches Bedrock AgentCore for Enterprise AI Agent Infrastructure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-22 10:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -222,20 +228,20 @@
                 <span class="time">2025-07-22 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/" target="_blank">Microsoft Fix Targets Attacks on SharePoint Zero-Day</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-21 14:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/spider-origins-main-image.jpg" alt="We Might Have Been Wrong About Where Spiders Came From" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/we-might-have-been-wrong-about-where-spiders-came-from-2000632561" target="_blank">We Might Have Been Wrong About Where Spiders Came From</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/MS-0722-wonder-woman.jpg" alt="DC Has Found a Familiar Face to Write the ‘Wonder Woman’ Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +287,6 @@
                 <span class="time">2025-07-21 23:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/mephisto.jpg" alt="Kevin Feige Says Mephisto Was Never the Plan for ‘WandaVision’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kevin-feige-mephisto-ironheart-wandavision-2000632352" target="_blank">Kevin Feige Says Mephisto Was Never the Plan for ‘WandaVision’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-21 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
