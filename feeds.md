@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 15:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-22 16:01:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 22, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/maxwell-mo_1753188891044_hpMain_4x3t_384.jpg" alt="Epstein associate Ghislaine Maxwell to meet with Deputy AG, Bondi says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/deputy-attorney-general-todd-blanche-meet-ghislaine-maxwell/story?id=123954983" target="_blank">Epstein associate Ghislaine Maxwell to meet with Deputy AG, Bondi says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-22 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5471382/births-boys-girls-odd-chance-research" target="_blank">Have all girls or all boys? Study suggests the odds aren&#x27;t 50/50</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-22 15:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5476192/npr-news-chief-edith-chapin-to-step-down-congress-funding-trump" target="_blank">NPR news chief announces she&#x27;s leaving days after Congress kills federal funding</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-22 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-09/240918-jeffrey-epstein-ghislaine-maxwell-al-0922-6672c4.jpg" alt="Deputy attorney general to meet with Epstein accomplice Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/deputy-attorney-general-meet-epstein-accomplice-ghislaine-maxwell-rcna219652" target="_blank">Deputy attorney general to meet with Epstein accomplice Ghislaine Maxwell</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-22 13:38</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +99,20 @@
                 <span class="time">2025-07-22 13:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131a/live/6f080310-66c2-11f0-a4de-6d8ec3aa70c3.jpg" alt="Cleverly returns to Tory front bench as Badenoch reshuffles team" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24v0j73e75o" target="_blank">Cleverly returns to Tory front bench as Badenoch reshuffles team</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/28-countries-called-for-an-end-to-israels-war-on-gaza-what-did-they-say?traffic_source=rss" target="_blank">28 countries called for an end to Israel’s war on Gaza: What did they say?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af63/live/231bf5e0-66c9-11f0-a4de-6d8ec3aa70c3.jpg" alt="WHO condemns Israeli attacks on facilities in central Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly80kzxx07o" target="_blank">WHO condemns Israeli attacks on facilities in central Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 11:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687e9e09661156a6d8685af8/master/pass/Fake-news-false-flag-pol-200331518-001.jpg" alt="Everything Is a ‘False Flag’ Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/false-flag-conspiracy-theory-trump/" target="_blank">Everything Is a ‘False Flag’ Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-22 15:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2220743976-500x500.jpg" alt="Tesla is the least-trusted car brand in America, survey finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +158,38 @@
                 <span class="time">2025-07-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cs/features/709635/knock-it-off" target="_blank">Knock it off!</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="OpenAI Announces Generalist ChatGPT Agent to Take On Excel, PowerPoint, and Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/openai-chatgpt-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Announces Generalist ChatGPT Agent to Take On Excel, PowerPoint, and Chrome</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-22 15:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://maalvika.substack.com/p/compression-culture-is-making-you" target="_blank">Compression culture is making you stupid and uninteresting</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-22 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18521072&w=600" alt="Why Microservices Teams Struggle to Ship Independently" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microservices-teams-shipping-challenges" target="_blank">Why Microservices Teams Struggle to Ship Independently</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +217,6 @@
                 <span class="time">2025-07-22 14:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18521962&w=600" alt="Building a Proactive Cloud Environment Using AWS Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/proactive-cloud-monitoring-with-aws" target="_blank">Building a Proactive Cloud Environment Using AWS Monitoring</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pelk/threats-vulnerabilities-and-mitigations-understanding-threat-actors-and-attack-vectors-gk8" target="_blank">Threats, Vulnerabilities, and Mitigations: Understanding Threat Actors and Attack Vectors</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Zstd-Initrd-Toolchain" target="_blank">Fedora 43 Cleared To Ship With Zstd Initrd, Updated Compiler Toolchains &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-22 12:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c0744472230c3f8153d1714be2bb90c9.jpg" alt="Cyberpunk 2077&#x27;s Photo Mode Is Wonderful Because It Focuses On What Matters: The Punks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-photo-mode-update-v-judy-johnny-1851786699" target="_blank">Cyberpunk 2077&#x27;s Photo Mode Is Wonderful Because It Focuses On What Matters: The Punks</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-22 15:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/spider-origins-main-image.jpg" alt="We Might Have Been Wrong About Where Spiders Came From" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +290,20 @@
                 <span class="time">2025-07-22 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/chihuahua.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Hilarious chihuahua tiptoes in slo-mo to get what he wants (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/21/hilarious-chihuahua-tiptoes-in-slo-mo-to-get-what-he-wants-video.html" target="_blank">Hilarious chihuahua tiptoes in slo-mo to get what he wants (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-21 23:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753143656-20250723.png" alt="Saturday Morning Breakfast Cereal - Unjust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/unjust" target="_blank">Saturday Morning Breakfast Cereal - Unjust</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -301,22 +313,13 @@
                 <span class="time">2025-07-21 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753068043-20250722 (1).png" alt="Saturday Morning Breakfast Cereal - Canon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/canon" target="_blank">Saturday Morning Breakfast Cereal - Canon</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
