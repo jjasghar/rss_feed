@@ -1,49 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 10:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 11:01:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 39 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d6/live/24d67840-67a7-11f0-8dbd-f3d32ebd3327.jpg" alt="City traders have rate-rigging convictions quashed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5vgqr8p14o" target="_blank">City traders have rate-rigging convictions quashed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 10:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-Protest-DB-250723_1753260574341_hpMain_4x3t_384.jpg" alt="Zelenskyy faces major anti-corruption protests as Ukraine prepares for Russia talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-faces-major-anti-corruption-protests-ukraine-prepares/story?id=123987847" target="_blank">Zelenskyy faces major anti-corruption protests as Ukraine prepares for Russia talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-23 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/23/protests-in-ukraine-as-zelenskyy-signs-bill-curbing-anticorruption-agencies?traffic_source=rss" target="_blank">Protests in Ukraine as Zelenskyy signs bill curbing anticorruption agencies</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 09:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78f/live/031a9070-67a6-11f0-8979-21e9e3d3b0da.png" alt="Trump says US has struck trade deal with Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,38 +97,20 @@
                 <span class="time">2025-07-23 08:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/1256100372/code-switch-does-protesting-work-07-23-2025" target="_blank">Protests are near constant. Do they work?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/la-nightclub-car-ramming-driver-charged-with-attempted-murder-in-us?traffic_source=rss" target="_blank">LA nightclub car ramming driver charged with attempted murder in US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 06:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a783/live/97ed9ea0-678c-11f0-94b8-27d2d011118c.jpg" alt="Africa to be hit hard as UK foreign aid cuts revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1wpr39zg5xo" target="_blank">Africa to be hit hard as UK foreign aid cuts revealed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 05:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/" target="_blank">Instagram adds new protections for accounts that primarily feature children</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -163,20 +156,29 @@
                 <span class="time">2025-07-23 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_7213-500x500.jpg" alt="2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/2025-aston-martin-vanquish-volante-a-ms-ultimate-gt-goes-topless/" target="_blank">2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-22 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3356841%2Fcad33db8-55df-47de-9479-9047930b8bc6.png" alt="The clock is still ticking! You still got your chance!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rrrferreira/the-clock-is-still-ticking-you-still-got-your-chance-2cnh" target="_blank">The clock is still ticking! You still got your chance!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/aws-risk-free-account-credits/en/headerimage/generatedHeaderImage-1753105075614.jpg" alt="AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,24 +213,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/what-is-practice-leadership" target="_blank">What is practice leadership?</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-07-23 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/" target="_blank">We need a European Sovereign Tech Fund</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-23 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdpl18rl24jr9u324a0yk.jpg" alt="What Are the Main Steps in Problem Solving?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/writegenic/what-are-the-main-steps-in-problem-solving-1367" target="_blank">What Are the Main Steps in Problem Solving?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 06:48</span>
             </div>
         </div>
 </div>
@@ -341,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
