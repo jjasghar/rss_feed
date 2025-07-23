@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 06:02:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-23 07:03:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/la-nightclub-car-ramming-driver-charged-with-attempted-murder-in-us?traffic_source=rss" target="_blank">LA nightclub car ramming driver charged with attempted murder in US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 06:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a783/live/97ed9ea0-678c-11f0-94b8-27d2d011118c.jpg" alt="Africa to be hit hard as UK foreign aid cuts revealed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1wpr39zg5xo" target="_blank">Africa to be hit hard as UK foreign aid cuts revealed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 05:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/40d0d650-6778-11f0-8dbd-f3d32ebd3327.jpg" alt="&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +101,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/jul/23/eswatini-petition-us-deportees" target="_blank">Eswatini opposition attacks US deal as ‘human trafficking disguised as deportation’</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-23 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/columbia-university-suspends-expels-nearly-80-students-over-gaza-protests?traffic_source=rss" target="_blank">Columbia University suspends, expels nearly 80 students over Gaza protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 01:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/ozzy-osbourne-05-gty-jef-250722_1753211816198_hpMain_4x3t_384.jpg" alt="Rock musicians and celebrities honor Ozzy Osbourne following his death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/Culture/rock-musicians-celebrities-honor-ozzy-osbourne-death/story?id=123975631" target="_blank">Rock musicians and celebrities honor Ozzy Osbourne following his death</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 00:56</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdpl18rl24jr9u324a0yk.jpg" alt="What Are the Main Steps in Problem Solving?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/writegenic/what-are-the-main-steps-in-problem-solving-1367" target="_blank">What Are the Main Steps in Problem Solving?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 06:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc99p2jkjl0mtzm5rfz05.png" alt="Choosing a financial charting library for your trading app: 7 things to look for" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/obs-studio-snap-update-core24-plugins" target="_blank">OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-22 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8osapdc3hrn3wuulah5.png" alt="Ferramentas e rotina nos meus estudos com IA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj" target="_blank">Ferramentas e rotina nos meus estudos com IA</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 22:48</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
