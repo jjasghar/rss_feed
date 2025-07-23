@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 01:29:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-23 02:39:06 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 02:39 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/columbia-university-suspends-expels-nearly-80-students-over-gaza-protests?traffic_source=rss" target="_blank">Columbia University suspends, expels nearly 80 students over Gaza protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 01:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250207-trump-ishiba-ew-214p-e1db6d.jpg" alt="Trump sets 15% tariff on Japanese imports as part of investment agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2025-07-22 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/42bc5cd0-672f-11f0-85fb-2b8164eeaf68.jpg" alt="Ozzy Osbourne dies, weeks after farewell show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cyvjd3p887qo" target="_blank">Ozzy Osbourne dies, weeks after farewell show</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-22 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687fd4bb02d947fe8f99b59e/master/pass/goddard-nasa-sciGSFC_20171208_Archive_e000542large-1536x1022.jpg" alt="A Top NASA Official Is Among Thousands of Staff Leaving the Agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-top-nasa-official-is-among-thousands-of-staff-leaving-the-agency/" target="_blank">A Top NASA Official Is Among Thousands of Staff Leaving the Agency</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-23 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_7213-500x500.jpg" alt="2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +121,15 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2025/07/2025-aston-martin-vanquish-volante-a-ms-ultimate-gt-goes-topless/" target="_blank">2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-22 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/" target="_blank">Apple alerted Iranians to iPhone spyware attacks, say researchers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-22 20:57</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/" target="_blank">iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-22 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687ea4751a37ae90feb98e11/master/pass/OpenAI-Opening-Up-to-Investors-Business-2224154485.jpg" alt="OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/" target="_blank">OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/711278/microsoft-surface-laptop-5g-specs-release-date-pricing" target="_blank">Microsoft’s new Intel-powered Surface Laptop 5G arrives in August</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-22 16:57</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0SZK4RE1QW99C307F0SNRYG/hero-image.png" alt="Google Has Given Us Our First Official Look at the Pixel 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-has-given-us-our-first-official-peek-at-the-pixel-10?utm_medium=RSS" target="_blank">Google Has Given Us Our First Official Look at the Pixel 10</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-22 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +291,6 @@
                 <span class="time">2025-07-22 20:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-1955314177.jpg" alt="Tech Billionaires Wanted to Build a New California City. They’re Settling for an Industrial Park, Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tech-billionaires-wanted-to-build-a-new-california-city-theyre-settling-for-an-industrial-park-instead-2000632618" target="_blank">Tech Billionaires Wanted to Build a New California City. They’re Settling for an Industrial Park, Instead</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-22 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 02:39 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
