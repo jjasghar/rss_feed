@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 13:13:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing 54 RSS feeds at 2025-07-23 14:02:29 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 25 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +40,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477327/ukraine-corruption-zelenskyy-protests-russia" target="_blank">Zelenskyy faces outcry after signing bill curbing Ukraine&#x27;s anti-corruption agencies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/23/malaysia-calls-on-world-leaders-to-restrain-israel?traffic_source=rss" target="_blank">Malaysia “calls on world leaders” to restrain Israel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-23 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/hunger-main_1753266601616_hpMain_4x3t_384.jpg" alt="More than 100 aid groups warn of &#x27;mass starvation&#x27; in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/100-aid-groups-warn-mass-starvation-gaza-blaming/story?id=123989368" target="_blank">More than 100 aid groups warn of &#x27;mass starvation&#x27; in Gaza</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-23 11:47</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +91,20 @@
                 <span class="time">2025-07-23 10:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-Protest-DB-250723_1753260574341_hpMain_4x3t_384.jpg" alt="Zelenskyy faces major anti-corruption protests as Ukraine prepares for Russia talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-faces-major-anti-corruption-protests-ukraine-prepares/story?id=123987847" target="_blank">Zelenskyy faces major anti-corruption protests as Ukraine prepares for Russia talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/23/protests-in-ukraine-as-zelenskyy-signs-bill-curbing-anticorruption-agencies?traffic_source=rss" target="_blank">Protests in Ukraine as Zelenskyy signs bill curbing anticorruption agencies</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 09:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/iphone-display-500x500.jpg" alt="Conduct rules are coming for Google and Apple in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/uk-ready-to-impose-competition-interventions-on-apple-and-google/" target="_blank">Conduct rules are coming for Google and Apple in the UK</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-23 13:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +150,20 @@
                 <span class="time">2025-07-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot" target="_blank">Proton is launching a privacy-focused AI chatbot</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-23 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/w3speedup/w3speedup-vs-wp-rocket-plugin-vs-professional-optimization-5dc1" target="_blank">W3SpeedUp vs WP Rocket: Plugin vs Professional Optimization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 13:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +209,6 @@
                 <span class="time">2025-07-23 10:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/aws-risk-free-account-credits/en/headerimage/generatedHeaderImage-1753105075614.jpg" alt="AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-23 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +228,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/08/179da8fc9d15ced5e53112bc1828892d.jpg" alt="MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/maga-senator-mike-lee-falls-for-fake-letter-that-appears-to-be-generated-by-ai-2000632864" target="_blank">MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Image-Maingear.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Retro95 PC puts today&#x27;s tech in an old-fashioned case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/23/retro95-pc-puts-todays-tech-in-an-old-fashioned-case.html" target="_blank">Retro95 PC puts today&#x27;s tech in an old-fashioned case</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-23 13:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0SRJP52NJTJEH98EXW1DD6V/hero-image.jpg" alt="How I Meal Prepped an Entire Week of Steak Lunches in My Air Fryer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +280,6 @@
                 <span class="title"><a href="https://gizmodo.com/how-to-play-your-retro-games-as-authentically-as-possible-2000629770" target="_blank">How to Play Your Retro Games as Authentically as Possible</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/spiderman-animatronics.jpg" alt="Disney Parks Animatronics, Rated Yearbook-Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-parks-animatronics-rated-yearbook-style-2000630458" target="_blank">Disney Parks Animatronics, Rated Yearbook-Style</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-22 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0SZK4RE1QW99C307F0SNRYG/hero-image.png" alt="Google Has Given Us Our First Official Look at the Pixel 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-has-given-us-our-first-official-peek-at-the-pixel-10?utm_medium=RSS" target="_blank">Google Has Given Us Our First Official Look at the Pixel 10</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-22 22:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
