@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 00:05:18 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-23 01:29:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250207-trump-ishiba-ew-214p-e1db6d.jpg" alt="Trump sets 15% tariff on Japanese imports as part of investment agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-sets-15-tariff-japanese-imports-part-investment-agreement-rcna220416" target="_blank">Trump sets 15% tariff on Japanese imports as part of investment agreement</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-22 23:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cyvjd3p887qo" target="_blank">Ozzy Osbourne dies, weeks after farewell show</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-22 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78737/trump-state-department-unesco-withdrawal-again" target="_blank">U.S. withdraws from U.N. cultural agency over &#x27;divisive social and cultural causes&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 21:10</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmgyjapj7802ugolof6t.png" alt="Deploy Netflix Clone App on EKS with Cloudformation and GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ndzenyuy/deploy-netflix-clone-app-on-eks-with-cloudformation-and-github-actions-4m2o" target="_blank">Deploy Netflix Clone App on EKS with Cloudformation and GitHub Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 00:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba" target="_blank">97% drop in traffic. No code changes. Just added a package.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://qwenlm.github.io/blog/qwen3-coder/" target="_blank">Qwen3-Coder: Agentic Coding in the World</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-22 21:12</span>
             </div>
         </div>
 </div>
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
