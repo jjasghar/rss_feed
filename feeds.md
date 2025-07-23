@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 19:02:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-23 20:01:40 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477567/jeffrey-epstein-transcripts-florida" target="_blank">Judge denies release of Jeffrey Epstein transcripts in Florida</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 19:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +95,20 @@
                 <span class="time">2025-07-23 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5213904/trump-ai-regulations" target="_blank">Trump aims to get rid of AI regulations and finance exports to win AI race</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/trumps-ai-action-plan-aims-to-block-chip-exports-to-china-but-lacks-key-details/" target="_blank">Trump’s AI Action Plan aims to block chip exports to China but lacks key details</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 18:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68810aeb110f6c1d8920afca/master/pass/IMG_3716.jpg" alt="Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +154,29 @@
                 <span class="time">2025-07-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/iphone-display-500x500.jpg" alt="Conduct rules are coming for Google and Apple in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/uk-ready-to-impose-competition-interventions-on-apple-and-google/" target="_blank">Conduct rules are coming for Google and Apple in the UK</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-23 13:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developer.accuweather.com/new-portal" target="_blank">AccuWeather to discontinue free access to Core Weather API</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-23 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526599&w=600" alt="Configuring Model Context Protocol (MCP) With Amazon Q CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amazon-q-cli-mcp-setup-guide" target="_blank">Configuring Model Context Protocol (MCP) With Amazon Q CLI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="time">2025-07-23 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525152&w=600" alt="The Golden Signals of Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-golden-signals-of-monitoring" target="_blank">The Golden Signals of Monitoring</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Docker Volumes Explained with docker-compose" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f" target="_blank">Docker Volumes Explained with docker-compose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/beetlejuice2.jpg" alt="Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/beetlejuice-3-jenna-ortega-tim-burton-2000633227" target="_blank">Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/12779f657038c0912a0e64b4fb0bec71.jpg" alt="Battlefield 6 Leak Claims It Will Launch In October With No Early Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bf6-battlefield-6-leak-october-launch-early-access-beta-1851786824" target="_blank">Battlefield 6 Leak Claims It Will Launch In October With No Early Access</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-23 19:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/alien-earth-xenomorph.jpg" alt="New ‘Alien: Earth’ Footage Teases the Creepy Creatures to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/23/collection-of-1990s-website-background-tiles-from-geocities.html" target="_blank">Collection of 1990s website background tiles from Geocities</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-23 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Fnord.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A dollar buys you one minute of digital billboard fame — unless no one follows, then your message stays forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/23/a-dollar-buys-you-one-minute-of-digital-billboard-fame-unless-no-one-follows-then-your-message-stays-forever.html" target="_blank">A dollar buys you one minute of digital billboard fame — unless no one follows, then your message stays forever</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-23 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/superheated-gold-slac-main.jpg" alt="Physicists Blow Up Gold With Giant Lasers, Accidentally Disprove Renowned Physics Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/physicists-blow-up-gold-with-giant-lasers-accidentally-disprove-renowned-physics-model-2000633078" target="_blank">Physicists Blow Up Gold With Giant Lasers, Accidentally Disprove Renowned Physics Model</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 15:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
