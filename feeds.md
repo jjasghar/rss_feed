@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 22:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 23:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6881487f934263f2a6077fed/master/pass/Trump-AI-Speech-Business-2225682598.jpg" alt="Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/president-trump-ai-action-plan-speech/" target="_blank">Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-23 22:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/687febfe799eda52cce2ebde/master/pass/Microsoft-Sharepoint-Hacks-Reveals-Race-to-The-Bottom-Security-2225634274.jpg" alt="Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +152,20 @@
                 <span class="time">2025-07-23 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68810aeb110f6c1d8920afca/master/pass/IMG_3716.jpg" alt="Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/photos-bedding-childrens-play-sets-doge-old-offices/" target="_blank">Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc" target="_blank">Dreaming of Jupiter - Three.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 22:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +209,6 @@
                 <span class="title"><a href="https://dpdani.github.io/cereggii/examples/AtomicDict/reduce/" target="_blank">Aggregation and reduction in free-threaded Python using AtomicDict</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-07-23 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526599&w=600" alt="Configuring Model Context Protocol (MCP) With Amazon Q CLI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/amazon-q-cli-mcp-setup-guide" target="_blank">Configuring Model Context Protocol (MCP) With Amazon Q CLI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-23 19:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
