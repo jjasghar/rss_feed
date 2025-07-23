@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 08:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-23 09:04:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5465632/heat-air-conditioning-forecast-supercooling-precooling" target="_blank">How effective is &#x27;precooling&#x27; your home during off-peak hours? It depends</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/23/the-egyptians-finding-a-second-home-after-migrating-south-to-tanzania?traffic_source=rss" target="_blank">The Egyptians finding a ‘second home’ after migrating south to Tanzania</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 08:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c17w4wn71z9o" target="_blank">&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-23 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/afp-calls-on-israel-to-allow-evacuation-of-its-journalists-from-gaza?traffic_source=rss" target="_blank">AFP calls on Israel to allow evacuation of its journalists from Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 05:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477245/climate-change-island-nations-un-court-ruling" target="_blank">The U.N.&#x27;s highest court will decide on the climate obligations of countries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 05:04</span>
             </div>
         </div>
 </div>
@@ -210,12 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc99p2jkjl0mtzm5rfz05.png" alt="Choosing a financial charting library for your trading app: 7 things to look for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436" target="_blank">Choosing a financial charting library for your trading app: 7 things to look for</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 05:36</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/" target="_blank">Extending Emacs with Fennel (2024)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-23 05:54</span>
             </div>
         </div>
 </div>
@@ -328,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
