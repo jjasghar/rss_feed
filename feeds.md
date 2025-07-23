@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 14:02:29 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-23 15:02:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 19 feeds processed -->
+<!-- Generated 13 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477365/israel-gaza-aid-casualties" target="_blank">Israeli forces have killed over 1,000 aid-seekers in Gaza since May, the U.N. says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 14:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/what-can-we-expect-as-fire-season-ramps-up-in-california?traffic_source=rss" target="_blank">What can we expect as fire season ramps up in California?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 14:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477327/ukraine-corruption-zelenskyy-protests-russia" target="_blank">Zelenskyy faces outcry after signing bill curbing Ukraine&#x27;s anti-corruption agencies</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-23 13:20</span>
@@ -56,39 +87,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/hunger-main_1753266601616_hpMain_4x3t_384.jpg" alt="More than 100 aid groups warn of &#x27;mass starvation&#x27; in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/100-aid-groups-warn-mass-starvation-gaza-blaming/story?id=123989368" target="_blank">More than 100 aid groups warn of &#x27;mass starvation&#x27; in Gaza</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/23/protesters-target-uns-guterres-to-stop-israel-starving-gaza?traffic_source=rss" target="_blank">Protesters target UN’s Guterres to stop Israel starving Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753269890248_tdy_news_7a_haake_japan_trade_250723_1920x1080-ngwams.jpg" alt="Trump Announces New Trade Deal with Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-gaza-6-rs-78dac7.jpg" alt="Mass starvation is spreading across Gaza, aid groups warn, as more children die of hunger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-reaches-15-tariff-deal-with-japan-243693125534" target="_blank">Trump Announces New Trade Deal with Japan</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/gaza/gaza-baby-dies-starvation-spreads-hunger-israel-aid-rcna220200" target="_blank">Mass starvation is spreading across Gaza, aid groups warn, as more children die of hunger</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-23 11:24</span>
+                <span class="time">2025-07-23 12:18</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d6/live/24d67840-67a7-11f0-8dbd-f3d32ebd3327.jpg" alt="City traders have rate-rigging convictions quashed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0628/live/b51689a0-67b5-11f0-af20-030418be2ca5.jpg" alt="Air India crash victim&#x27;s son says he received wrong remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5vgqr8p14o" target="_blank">City traders have rate-rigging convictions quashed</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyld3vwqwzo" target="_blank">Air India crash victim&#x27;s son says he received wrong remains</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 10:37</span>
+                <span class="time">2025-07-23 11:51</span>
             </div>
         </div>
 </div>
@@ -156,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525109&w=600" alt="Building Resilient Event-Driven Applications Using Temporal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/temporal-workflow-guide-event-driven-applications" target="_blank">Building Resilient Event-Driven Applications Using Temporal</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/w3speedup/w3speedup-vs-wp-rocket-plugin-vs-professional-optimization-5dc1" target="_blank">W3SpeedUp vs WP Rocket: Plugin vs Professional Optimization</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-23 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.blacksmith.sh/blog/cache" target="_blank">Reverse engineering GitHub Actions cache to make it fast</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-23 13:17</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +222,6 @@
                 <span class="time">2025-07-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support" target="_blank">Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3356841%2Fcad33db8-55df-47de-9479-9047930b8bc6.png" alt="The clock is still ticking! You still got your chance!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rrrferreira/the-clock-is-still-ticking-you-still-got-your-chance-2cnh" target="_blank">The clock is still ticking! You still got your chance!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +242,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/superheated-gold-slac-main.jpg" alt="Physicists Blow Up Gold With Giant Lasers, Accidentally Disprove Renowned Physics Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/physicists-blow-up-gold-with-giant-lasers-accidentally-disprove-renowned-physics-model-2000633078" target="_blank">Physicists Blow Up Gold With Giant Lasers, Accidentally Disprove Renowned Physics Model</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Exorcist_Stairs.jpg?fit=798%2C1200&amp;quality=60&amp;ssl=1" alt="The Exorcist stairs: Georgetown&#x27;s haunted landmark with a hidden past" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/23/the-exorcist-stairs-georgetowns-haunted-landmark-with-a-hidden-past.html" target="_blank">The Exorcist stairs: Georgetown&#x27;s haunted landmark with a hidden past</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-23 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6dc13949a8a037b78b54ed7e25dc5210.png" alt="5 Things We Just Learned About The Best-Selling Games In June 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-sales-mario-kart-world-elden-ring-nightreign-1851786793" target="_blank">5 Things We Just Learned About The Best-Selling Games In June 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-23 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0TB3X1J8KQBWMCSVZF2101J/hero-image.jpg" alt="The Biggest Rumors About Apple Smart Glasses Are Disappointing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/biggest-rumors-about-apple-smart-glasses?utm_medium=RSS" target="_blank">The Biggest Rumors About Apple Smart Glasses Are Disappointing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/08/179da8fc9d15ced5e53112bc1828892d.jpg" alt="MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -244,42 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/23/retro95-pc-puts-todays-tech-in-an-old-fashioned-case.html" target="_blank">Retro95 PC puts today&#x27;s tech in an old-fashioned case</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-23 13:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0SRJP52NJTJEH98EXW1DD6V/hero-image.jpg" alt="How I Meal Prepped an Entire Week of Steak Lunches in My Air Fryer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/best-way-to-meal-prep-steak-in-air-fryer?utm_medium=RSS" target="_blank">How I Meal Prepped an Entire Week of Steak Lunches in My Air Fryer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-23 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bb48d062be19eba303014870b14912fe.jpg" alt="R.I.P. Julian LeFay, The Father Of The Elder Scrolls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/julian-lefay-the-elder-scrolls-daggerfall-bethesda-1851786769" target="_blank">R.I.P. Julian LeFay, The Father Of The Elder Scrolls</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-23 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Macbook-Cyberpunk-2.jpg" alt="I Played ‘Cyberpunk 2077’ on Mac and It Feels Perilously Close to PC Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cyberpunk-2077-makes-the-future-of-mac-gaming-look-a-lot-like-a-pc-2000632203" target="_blank">I Played ‘Cyberpunk 2077’ on Mac and It Feels Perilously Close to PC Gaming</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/retro-emulation-03.jpg" alt="How to Play Your Retro Games as Authentically as Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-play-your-retro-games-as-authentically-as-possible-2000629770" target="_blank">How to Play Your Retro Games as Authentically as Possible</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 10:00</span>
             </div>
         </div>
 </div>
@@ -305,22 +318,13 @@
                 <span class="time">2025-07-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/raven/" target="_blank">Raven</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
