@@ -1,31 +1,49 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 09:04:26 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-23 10:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 39 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +59,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78f/live/031a9070-67a6-11f0-8979-21e9e3d3b0da.png" alt="Trump says US has struck trade deal with Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwq4dljjdko" target="_blank">Trump says US has struck trade deal with Japan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 09:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +113,38 @@
                 <span class="time">2025-07-23 05:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/40d0d650-6778-11f0-8dbd-f3d32ebd3327.jpg" alt="&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c17w4wn71z9o" target="_blank">&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot" target="_blank">Proton is launching a privacy-focused AI chatbot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-23 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687fb323433d07767855fc82/master/pass/Silicon-Valley-Embracing-Chinese-996-Schedule-Business-157318010.jpg" alt="Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/silicon-valley-china-996-work-schedule/" target="_blank">Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-23 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/" target="_blank">Gupshup raises $60M in equity and debt, leaves unicorn status hanging</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 06:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +172,29 @@
                 <span class="time">2025-07-22 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal" target="_blank">The Escobar Phone scam saga has finally come to an end</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-22 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/" target="_blank">Apple alerted Iranians to iPhone spyware attacks, say researchers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/20250509-SHIFFMAN_SCIENTIST_DAY1-110-500x500-1752861268.jpg" alt="Marine biologist for a day: Ars goes shark tagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/marine-biologist-for-a-day-ars-goes-shark-tagging/" target="_blank">Marine biologist for a day: Ars goes shark tagging</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-22 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing1460-46m4" target="_blank">Middleware Architecture Patterns for Request Processing(1460)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/spring-ai-1-0/en/headerimage/spring-ai-1-0-header-1753091174091.jpg" alt="Article: Spring AI 1.0 Delivers Easy AI Systems and Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/spring-ai-1-0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spring AI 1.0 Delivers Easy AI Systems and Services</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/en/headerimage/mistral-voxtral-1753253734546.jpeg" alt="Mistral Voxtral is an Open-Weights Competitor to OpenAI Whisper and Other ASR Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +231,6 @@
                 <span class="time">2025-07-23 06:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2" target="_blank">Rescuing two PDP-11s from a former British Telecom underground shelter (2023)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/" target="_blank">Extending Emacs with Fennel (2024)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 05:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/retro-emulation-03.jpg" alt="How to Play Your Retro Games as Authentically as Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-play-your-retro-games-as-authentically-as-possible-2000629770" target="_blank">How to Play Your Retro Games as Authentically as Possible</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/spiderman-animatronics.jpg" alt="Disney Parks Animatronics, Rated Yearbook-Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +304,6 @@
                 <span class="time">2025-07-22 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Stranger-Things-Dungeons-and-Dragons.jpg" alt="‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dungeons-and-dragons-strange-things-hellfire-club-game-2000632716" target="_blank">‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
