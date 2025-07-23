@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 18:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-23 19:02:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/g-s1-78913/author-asks-chatgpt-for-advice-on-her-book-about-tech-heres-what-it-said" target="_blank">Author asks ChatGPT for advice on her book about tech — here&#x27;s what it said</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 18:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kohberger-abc-jef-250723_1753278332565_hpMain_4x3t_384.jpg" alt="LIVE:  Idaho college student killer gets four life sentences: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5213904/trump-ai-regulations" target="_blank">Trump aims to get rid of AI regulations and finance exports to win AI race</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-23 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/23/eu-steps-up-air-defences-for-ukraine-and-sanctions-for-russia?traffic_source=rss" target="_blank">EU steps up air defences for Ukraine and sanctions for Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 15:14</span>
             </div>
         </div>
 </div>
@@ -169,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-strix-point-2025" target="_blank">AMD Strix Point Linux Performance Comparison One Year After Launch</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-23 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18434098&w=600" alt="Undocumented Java 16 Feature: The End-of-File Comment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-end-of-file-comment" target="_blank">Undocumented Java 16 Feature: The End-of-File Comment</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software" target="_blank">Measuring the impact of AI on software engineering – with Laura Tacho</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-23 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/perplexity-comet/en/headerimage/generatedHeaderImage-1753291358733.jpg" alt="Perplexity Launches Comet: A Browser Designed Around AI-Assisted Interaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/perplexity-comet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Perplexity Launches Comet: A Browser Designed Around AI-Assisted Interaction</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-23 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/lovestaco/docker-volumes-explained-with-docker-compose-2p3f" target="_blank">Docker Volumes Explained with docker-compose</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-23 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Zed-Option-Disable-AI-Features" target="_blank">Zed Editor&#x27;s Newest Feature: Being Able To Disable All AI Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/23/building-better-platforms-with-continuous-discovery/" target="_blank">Building better platforms with continuous discovery</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/" target="_blank">Solving the inference problem for open source AI projects with GitHub Models</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-23 16:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/alien-earth-xenomorph.jpg" alt="New ‘Alien: Earth’ Footage Teases the Creepy Creatures to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alien-earth-footage-new-creatures-xenomorph-2000633237" target="_blank">New ‘Alien: Earth’ Footage Teases the Creepy Creatures to Come</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/monsterislandrev.jpg" alt="‘Monster Island’ Feels Like a ‘Predator’ Movie Set During World War II" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +291,6 @@
                 <span class="time">2025-07-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Exorcist_Stairs.jpg?fit=798%2C1200&amp;quality=60&amp;ssl=1" alt="The Exorcist stairs: Georgetown&#x27;s haunted landmark with a hidden past" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/23/the-exorcist-stairs-georgetowns-haunted-landmark-with-a-hidden-past.html" target="_blank">The Exorcist stairs: Georgetown&#x27;s haunted landmark with a hidden past</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-23 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
