@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 04:14:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 05:07:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 04:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/23/eswatini-petition-us-deportees" target="_blank">Eswatini opposition attacks US deal as ‘human trafficking disguised as deportation’</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-23 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,20 @@
                 <span class="time">2025-07-22 22:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78817/usopc-olympic-paralympic-transgender-women-sports-ban" target="_blank">U.S. Olympic and Paralympic officials bar transgender women from Olympic women&#x27;s sports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 22:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/" target="_blank">PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 04:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687fd4bb02d947fe8f99b59e/master/pass/goddard-nasa-sciGSFC_20171208_Archive_e000542large-1536x1022.jpg" alt="A Top NASA Official Is Among Thousands of Staff Leaving the Agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-07-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/22/ios-26-beta-4-arrives-with-liquid-glass-tweaks-and-ai-news-summaries/" target="_blank">iOS 26 beta 4 arrives, with Liquid Glass tweaks and AI news summaries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-22 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/member_8c78b76f/websocket-revolution-in-real-time-communication7201-504b" target="_blank">WebSocket Revolution in Real-Time Communication(7201)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 04:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmmgyjapj7802ugolof6t.png" alt="Deploy Netflix Clone App on EKS with Cloudformation and GitHub Actions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +217,6 @@
                 <span class="title"><a href="https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html" target="_blank">Python 3.14 release candidate 1 is go</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-07-22 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/debugging-ui-with-ai-github-copilot-agent-mode-meets-mcp-servers/" target="_blank">Debugging UI with AI: GitHub Copilot agent mode meets MCP servers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-22 21:58</span>
             </div>
         </div>
 </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 04:15 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
