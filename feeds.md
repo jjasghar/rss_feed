@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 05:07:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 06:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 05:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6d/live/40d0d650-6778-11f0-8dbd-f3d32ebd3327.jpg" alt="&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c17w4wn71z9o" target="_blank">&#x27;Lost our brother&#x27;: Bandmates and fans pay tribute to Ozzy Osbourne</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 05:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/afp-calls-on-israel-to-allow-evacuation-of-its-journalists-from-gaza?traffic_source=rss" target="_blank">AFP calls on Israel to allow evacuation of its journalists from Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 05:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477245/climate-change-island-nations-un-court-ruling" target="_blank">The U.N.&#x27;s highest court will decide on the climate obligations of countries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 05:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/GMA/Culture/rock-musicians-celebrities-honor-ozzy-osbourne-death/story?id=123975631" target="_blank">Rock musicians and celebrities honor Ozzy Osbourne following his death</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-23 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250207-trump-ishiba-ew-214p-e1db6d.jpg" alt="Trump sets 15% tariff on Japanese imports as part of investment agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-sets-15-tariff-japanese-imports-part-investment-agreement-rcna220416" target="_blank">Trump sets 15% tariff on Japanese imports as part of investment agreement</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-22 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/my-duty-columbia-protester-mahmoud-khalil-meets-lawmakers-at-us-capitol?traffic_source=rss" target="_blank">‘My duty’: Columbia protester Mahmoud Khalil meets lawmakers at US Capitol</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250714-donald-trump-alligator-alcatraz-mn-1420-2f5499.jpg" alt="Detainees held at Alligator Alcatraz describe cage-like units swarmed by mosquitoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/alligator-alcatraz-florida-detainees-conditions-fungus-mosquitoes-rcna220205" target="_blank">Detainees held at Alligator Alcatraz describe cage-like units swarmed by mosquitoes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-22 22:51</span>
             </div>
         </div>
 </div>
@@ -136,6 +135,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal" target="_blank">The Escobar Phone scam saga has finally come to an end</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-22 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/" target="_blank">Apple alerted Iranians to iPhone spyware attacks, say researchers</a></span>
                 <span class="feed">TechCrunch</span>
@@ -151,20 +159,20 @@
                 <span class="time">2025-07-22 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687ea883b1f8553535717f13/master/pass/Hulu-Show-Guide-Culture-WBLACK_Air106Prod105_LJ_01977R.jpg" alt="The 47 Best Shows on Hulu Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-tv-shows-hulu-this-week/" target="_blank">The 47 Best Shows on Hulu Right Now (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc99p2jkjl0mtzm5rfz05.png" alt="Choosing a financial charting library for your trading app: 7 things to look for" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devexperts/choosing-a-financial-charting-library-for-your-trading-app-7-things-to-look-for-4436" target="_blank">Choosing a financial charting library for your trading app: 7 things to look for</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 05:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/anabiscalchin/ferramentas-e-rotina-nos-meus-estudos-com-ia-4alj" target="_blank">Ferramentas e rotina nos meus estudos com IA</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-22 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html" target="_blank">Python 3.14 release candidate 1 is go</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-22 22:22</span>
             </div>
         </div>
 </div>
@@ -320,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
