@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 11:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-23 12:02:17 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/23/protesters-target-uns-guterres-to-stop-israel-starving-gaza?traffic_source=rss" target="_blank">Protesters target UN’s Guterres to stop Israel starving Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753269890248_tdy_news_7a_haake_japan_trade_250723_1920x1080-ngwams.jpg" alt="Trump Announces New Trade Deal with Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-reaches-15-tariff-deal-with-japan-243693125534" target="_blank">Trump Announces New Trade Deal with Japan</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-23 11:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d6/live/24d67840-67a7-11f0-8dbd-f3d32ebd3327.jpg" alt="City traders have rate-rigging convictions quashed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +97,20 @@
                 <span class="time">2025-07-23 09:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5465632/heat-air-conditioning-forecast-supercooling-precooling" target="_blank">How effective is &#x27;precooling&#x27; your home during off-peak hours? It depends</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/23/the-egyptians-finding-a-second-home-after-migrating-south-to-tanzania?traffic_source=rss" target="_blank">The Egyptians finding a ‘second home’ after migrating south to Tanzania</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 08:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/" target="_blank">Trump is set to unveil his AI roadmap: Here’s what to know</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2025-07-23 04:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687fd4bb02d947fe8f99b59e/master/pass/goddard-nasa-sciGSFC_20171208_Archive_e000542large-1536x1022.jpg" alt="A Top NASA Official Is Among Thousands of Staff Leaving the Agency" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-top-nasa-official-is-among-thousands-of-staff-leaving-the-agency/" target="_blank">A Top NASA Official Is Among Thousands of Staff Leaving the Agency</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525060&w=600" alt="Software Engineering Trade-Offs: Why We Cannot Build the Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-imperfect-systems-in-software-engineering" target="_blank">Software Engineering Trade-Offs: Why We Cannot Build the Perfect</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3356841%2Fcad33db8-55df-47de-9479-9047930b8bc6.png" alt="The clock is still ticking! You still got your chance!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,34 +215,29 @@
                 <span class="time">2025-07-23 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-is-practice-leadership" target="_blank">What is practice leadership?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-23 07:42</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html" target="_blank">“Encryption Backdoors and the Fourth Amendment”</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-22 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bb48d062be19eba303014870b14912fe.jpg" alt="R.I.P. Julian LeFay, The Father Of The Elder Scrolls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/julian-lefay-the-elder-scrolls-daggerfall-bethesda-1851786769" target="_blank">R.I.P. Julian LeFay, The Father Of The Elder Scrolls</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-23 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Macbook-Cyberpunk-2.jpg" alt="I Played ‘Cyberpunk 2077’ on Mac and It Feels Perilously Close to PC Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cyberpunk-2077-makes-the-future-of-mac-gaming-look-a-lot-like-a-pc-2000632203" target="_blank">I Played ‘Cyberpunk 2077’ on Mac and It Feels Perilously Close to PC Gaming</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/retro-emulation-03.jpg" alt="How to Play Your Retro Games as Authentically as Possible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +272,6 @@
                 <span class="title"><a href="https://gizmodo.com/james-gunn-thinks-anti-american-sentiment-is-hurting-superman-overseas-2000632655" target="_blank">James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-22 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/cbp-1.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;The fear is real&#x27;: How to protect your devices and digital life from U.S. border agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/22/the-fear-is-real-how-to-protect-your-devices-and-digital-life-from-u-s-border-agents.html" target="_blank">&#x27;The fear is real&#x27;: How to protect your devices and digital life from U.S. border agents</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-22 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/53e09dd444f38f1fe7304aadf3566816.jpg" alt="New Awesome-Looking Fallout Shooter Is Actually A Fan-Made Doom Mod" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/doom-mod-fallout-bakersfield-boomer-shooter-trailer-pc-1851786757" target="_blank">New Awesome-Looking Fallout Shooter Is Actually A Fan-Made Doom Mod</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-22 21:15</span>
             </div>
         </div>
 </div>
@@ -325,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
