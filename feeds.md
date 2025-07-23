@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 12:02:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-23 13:13:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/23/malaysia-calls-on-world-leaders-to-restrain-israel?traffic_source=rss" target="_blank">Malaysia “calls on world leaders” to restrain Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 12:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +98,38 @@
                 <span class="time">2025-07-23 09:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78f/live/031a9070-67a6-11f0-8979-21e9e3d3b0da.png" alt="Trump says US has struck trade deal with Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwq4dljjdko" target="_blank">Trump says US has struck trade deal with Japan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace" target="_blank">Sonos names Tom Conrad permanent CEO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-23 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/" target="_blank">Eight months in, Swedish unicorn Lovable crosses the $100M ARR milestone</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/AJH_9026-500x500.jpg" alt="Audi has a new midsize EV, and we’ve driven it: The 2025 A6 Sportback" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/audis-midsize-sedan-goes-electric-the-2025-a6-and-s6-sportback-driven/" target="_blank">Audi has a new midsize EV, and we’ve driven it: The 2025 A6 Sportback</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +157,29 @@
                 <span class="time">2025-07-23 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687fb323433d07767855fc82/master/pass/Silicon-Valley-Embracing-Chinese-996-Schedule-Business-157318010.jpg" alt="Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/silicon-valley-china-996-work-schedule/" target="_blank">Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/22/gupshup-raises-60m-in-equity-and-debt-leaves-unicorn-status-hanging/" target="_blank">Gupshup raises $60M in equity and debt, leaves unicorn status hanging</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/" target="_blank">PayPal taps wallets from China and India to make cross-border payments easier for 2 billion people</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb" target="_blank">Zup: The Self-Healing CLI That Automates Your Dev Environment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Btrfs" target="_blank">Btrfs Preps Performance Improvements &amp; Experimental Large Folios For Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-23 12:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525060&w=600" alt="Software Engineering Trade-Offs: Why We Cannot Build the Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +187,15 @@
                 <span class="title"><a href="https://dzone.com/articles/building-imperfect-systems-in-software-engineering" target="_blank">Software Engineering Trade-Offs: Why We Cannot Build the Perfect</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support" target="_blank">Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-23 10:51</span>
             </div>
         </div>
 <div class="story">
@@ -188,31 +216,18 @@
                 <span class="time">2025-07-23 10:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8c78b76f/middleware-architecture-patterns-for-request-processing1460-46m4" target="_blank">Middleware Architecture Patterns for Request Processing(1460)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/spring-ai-1-0/en/headerimage/spring-ai-1-0-header-1753091174091.jpg" alt="Article: Spring AI 1.0 Delivers Easy AI Systems and Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/spring-ai-1-0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Spring AI 1.0 Delivers Easy AI Systems and Services</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/en/headerimage/mistral-voxtral-1753253734546.jpeg" alt="Mistral Voxtral is an Open-Weights Competitor to OpenAI Whisper and Other ASR Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Mistral Voxtral is an Open-Weights Competitor to OpenAI Whisper and Other ASR Tools</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-23 08:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/google-sues-the-badbox-botnet-operators.html" target="_blank">Google Sues the Badbox Botnet Operators</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-23 11:04</span>
             </div>
         </div>
 </div>
@@ -220,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0SRJP52NJTJEH98EXW1DD6V/hero-image.jpg" alt="How I Meal Prepped an Entire Week of Steak Lunches in My Air Fryer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/food-drink/best-way-to-meal-prep-steak-in-air-fryer?utm_medium=RSS" target="_blank">How I Meal Prepped an Entire Week of Steak Lunches in My Air Fryer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-23 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/bb48d062be19eba303014870b14912fe.jpg" alt="R.I.P. Julian LeFay, The Father Of The Elder Scrolls" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +289,6 @@
                 <span class="time">2025-07-22 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Superman-Fortress.jpg" alt="James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-gunn-thinks-anti-american-sentiment-is-hurting-superman-overseas-2000632655" target="_blank">James Gunn Thinks ‘Anti-American Sentiment’ Is Hurting ‘Superman’ Overseas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-22 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
