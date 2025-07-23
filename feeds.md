@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 20:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 21:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Generated 14 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/g-s1-78924/etan-patz-missing-kids-children-legacy" target="_blank">The Etan Patz case changed how America responds to missing kids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/us-federal-judge-refuses-trumps-bid-to-unseal-epstein-grand-jury-records?traffic_source=rss" target="_blank">US federal judge refuses Trump’s bid to unseal Epstein grand jury records</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Mother and two children killed in Fermanagh shooting, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753292798627_now_brk_kohberger_sentenced_250723_1920x1080-ccncrd.jpg" alt="Kohberger sentenced to life in prison for Idaho student murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqx2537w5e2o" target="_blank">Mother and two children killed in Fermanagh shooting, BBC understands</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/trump-white-house-probes-harvard-universitys-scholar-exchange-programme?traffic_source=rss" target="_blank">Trump White House probes Harvard University’s scholar exchange programme</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Police say a woman and two children killed in Fermanagh shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqx2537w5e2o" target="_blank">Police say a woman and two children killed in Fermanagh shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 15:56</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/kohberger-sentenced-to-life-in-prison-for-idaho-student-murders-243714629725" target="_blank">Kohberger sentenced to life in prison for Idaho student murders</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-23 17:46</span>
             </div>
         </div>
 </div>
@@ -162,10 +167,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Builder-Foundry-2025" target="_blank">GNOME Foundry Taking Shape As &quot;An IDE In A Box&quot; With CLI Tooling</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-23 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526609&w=600" alt="Building a Modern Data Platform That Delivers Real Business Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-modernization-strategy-cloud-governance-ai" target="_blank">Building a Modern Data Platform That Delivers Real Business Value</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://developer.accuweather.com/new-portal" target="_blank">AccuWeather to discontinue free access to Core Weather API</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-23 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://dpdani.github.io/cereggii/examples/AtomicDict/reduce/" target="_blank">Aggregation and reduction in free-threaded Python using AtomicDict</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-23 19:17</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/amd-strix-point-2025" target="_blank">AMD Strix Point Linux Performance Comparison One Year After Launch</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-23 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18434098&w=600" alt="Undocumented Java 16 Feature: The End-of-File Comment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-end-of-file-comment" target="_blank">Undocumented Java 16 Feature: The End-of-File Comment</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-23 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software" target="_blank">Measuring the impact of AI on software engineering – with Laura Tacho</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-07-23 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/perplexity-comet/en/headerimage/generatedHeaderImage-1753291358733.jpg" alt="Perplexity Launches Comet: A Browser Designed Around AI-Assisted Interaction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/perplexity-comet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Perplexity Launches Comet: A Browser Designed Around AI-Assisted Interaction</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-23 17:45</span>
             </div>
         </div>
 </div>
@@ -233,11 +238,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Panty-And-Stocking-Anime-Studio-Trigger-Prime-Video.jpg" alt="‘Panty &amp; Stocking’ Just Did Its Own ‘Mandalorian’ Spoof" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-panty-and-stocking-episode-3-mandalorian-reference-star-wars-2000633241" target="_blank">‘Panty &amp; Stocking’ Just Did Its Own ‘Mandalorian’ Spoof</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/beetlejuice2.jpg" alt="Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/beetlejuice-3-jenna-ortega-tim-burton-2000633227" target="_blank">Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-23 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0W6JKATZ77A128QP8BZGQQM/hero-image.jpg" alt="The Difference Between TikTok’s New ‘Pwerking,’ ‘Bwerking,’ and ‘Dwerking’ Dances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/tiktok-dances-pwerking-bwerking-dwerking-explained?utm_medium=RSS" target="_blank">The Difference Between TikTok’s New ‘Pwerking,’ ‘Bwerking,’ and ‘Dwerking’ Dances</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-23 20:00</span>
             </div>
         </div>
@@ -266,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/monster-island-review-shudder-ww-ii-horror-2000632611" target="_blank">‘Monster Island’ Feels Like a ‘Predator’ Movie Set During World War II</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f1c881a7c8ab26ed14546fb2c465d26e.jpg" alt="New PS5 Feature Will Limit Performance In Some Games To Save Power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ps5-feature-power-saver-limit-performance-beta-update-1851786790" target="_blank">New PS5 Feature Will Limit Performance In Some Games To Save Power</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-23 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-Pixel-Moondust.jpg?fit=1080%2C637&amp;quality=60&amp;ssl=1" alt="Collection of 1990s website background tiles from Geocities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/23/collection-of-1990s-website-background-tiles-from-geocities.html" target="_blank">Collection of 1990s website background tiles from Geocities</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-23 16:10</span>
             </div>
         </div>
 </div>
@@ -318,13 +323,22 @@
                 <span class="time">2025-07-23 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/flettner_rotor.png" alt="Flettner Rotor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3119/" target="_blank">Flettner Rotor</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-23 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
