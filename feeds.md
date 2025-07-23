@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-22 23:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-23 00:05:18 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 22, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/my-duty-columbia-protester-mahmoud-khalil-meets-lawmakers-at-us-capitol?traffic_source=rss" target="_blank">‘My duty’: Columbia protester Mahmoud Khalil meets lawmakers at US Capitol</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-22 22:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/42bc5cd0-672f-11f0-85fb-2b8164eeaf68.jpg" alt="Ozzy Osbourne dies, weeks after farewell show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cyvjd3p887qo" target="_blank">Ozzy Osbourne dies, weeks after farewell show</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-22 21:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -86,29 +101,20 @@
                 <span class="time">2025-07-22 21:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/22/donald-trump-accuses-barack-obama-of-treason-over-2016-election-claims?traffic_source=rss" target="_blank">Donald Trump accuses Barack Obama of ‘treason’ over 2016 election claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/22/nx-s1-5472652/national-urban-league-says-trumps-policies-amount-to-emergency-for-black-americans" target="_blank">National Urban League says Trump&#x27;s policies amount to emergency for Black Americans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-22 20:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/IMG_7213-500x500.jpg" alt="2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/2025-aston-martin-vanquish-volante-a-ms-ultimate-gt-goes-topless/" target="_blank">2025 Aston Martin Vanquish Volante: A-M’s ultimate GT goes topless</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-22 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/20250509-SHIFFMAN_SCIENTIST_DAY1-110-500x500-1752861268.jpg" alt="Marine biologist for a day: Ars goes shark tagging" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +160,20 @@
                 <span class="time">2025-07-22 16:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687fa8417c5cc66a70fff37b/master/pass/pokemon-gear-shutterstock_2584635709.jpg" alt="A Surprise Pokémon Game Just Dropped for Switch and Mobile" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-surprise-pokemon-game-just-dropped-for-switch-and-mobile/" target="_blank">A Surprise Pokémon Game Just Dropped for Switch and Mobile</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-22 15:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/obs-studio-snap-update-core24-plugins" target="_blank">OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-22 22:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk8osapdc3hrn3wuulah5.png" alt="Ferramentas e rotina nos meus estudos com IA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +219,6 @@
                 <span class="time">2025-07-22 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fojg82e9nw6bm6chkeegx.png" alt="Measures of central tendency and their significance in the field of data science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cherotich/measures-of-central-tendency-and-their-significance-in-the-field-of-data-science-4a76" target="_blank">Measures of central tendency and their significance in the field of data science</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +248,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/cbp-1.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;The fear is real&#x27;: How to protect your devices and digital life from U.S. border agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/22/the-fear-is-real-how-to-protect-your-devices-and-digital-life-from-u-s-border-agents.html" target="_blank">&#x27;The fear is real&#x27;: How to protect your devices and digital life from U.S. border agents</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-22 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/53e09dd444f38f1fe7304aadf3566816.jpg" alt="New Awesome-Looking Fallout Shooter Is Actually A Fan-Made Doom Mod" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/doom-mod-fallout-bakersfield-boomer-shooter-trailer-pc-1851786757" target="_blank">New Awesome-Looking Fallout Shooter Is Actually A Fan-Made Doom Mod</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-22 21:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Stranger-Things-Dungeons-and-Dragons.jpg" alt="‘Dungeons &amp; Dragons’ Is Trying a ‘Stranger Things’ Collab Game Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/tech-billionaires-wanted-to-build-a-new-california-city-theyre-settling-for-an-industrial-park-instead-2000632618" target="_blank">Tech Billionaires Wanted to Build a New California City. They’re Settling for an Industrial Park, Instead</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/383396149e22d502acf263f31eb2bef6.jpg" alt="Remembering The Late Ozzy Osbourne&#x27;s Short, Sweet Stint In Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ozzy-osbourne-death-guitar-hero-brutal-legend-actor-1851786753" target="_blank">Remembering The Late Ozzy Osbourne&#x27;s Short, Sweet Stint In Video Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-22 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0SJ26AF0Y9YGZFT77KAMD9C/hero-image.png" alt="This Free Mac App &#x27;Glues&#x27; Two Desktop Windows Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-mac-app-glues-two-desktop-windows-together?utm_medium=RSS" target="_blank">This Free Mac App &#x27;Glues&#x27; Two Desktop Windows Together</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-22 19:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
