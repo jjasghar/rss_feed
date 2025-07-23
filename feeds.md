@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 03:29:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 04:14:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 04:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250714-donald-trump-alligator-alcatraz-mn-1420-2f5499.jpg" alt="Detainees held at Alligator Alcatraz describe cage-like units swarmed by mosquitoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/alligator-alcatraz-florida-detainees-conditions-fungus-mosquitoes-rcna220205" target="_blank">Detainees held at Alligator Alcatraz describe cage-like units swarmed by mosquitoes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-22 22:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/22/g-s1-78817/usopc-olympic-paralympic-transgender-women-sports-ban" target="_blank">U.S. Olympic and Paralympic officials bar transgender women from Olympic women&#x27;s sports</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-22 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/22/england-beat-italy-to-reach-uefa-womens-euro-2025-final?traffic_source=rss" target="_blank">England beat Italy to reach UEFA Women’s Euro 2025 final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-22 22:37</span>
             </div>
         </div>
 </div>
@@ -176,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15-KDE-Install-Plan" target="_blank">FreeBSD 15.0 Aims To Have A KDE Desktop Install Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-23 00:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio Snap App Gets a Major Upgrade – AI Plugins Inbound" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -211,15 +217,6 @@
                 <span class="time">2025-07-22 21:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avraham_neeman/97-drop-in-traffic-no-code-changes-just-added-a-package-1jba" target="_blank">97% drop in traffic. No code changes. Just added a package.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-22 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/spiderman-animatronics.jpg" alt="Disney Parks Animatronics, Rated Yearbook-Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-parks-animatronics-rated-yearbook-style-2000630458" target="_blank">Disney Parks Animatronics, Rated Yearbook-Style</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-22 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K0SZK4RE1QW99C307F0SNRYG/hero-image.png" alt="Google Has Given Us Our First Official Look at the Pixel 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +290,6 @@
                 <span class="time">2025-07-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0SWH626MT9EVBNK4GGHP6WC/hero-image.jpg" alt="How Wordle, Connections, and Strands Stack Up in Gameplay (and Which One You’ll Likely Enjoy)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/how-wordle-connections-and-strands-stack-up-in-gameplay?utm_medium=RSS" target="_blank">How Wordle, Connections, and Strands Stack Up in Gameplay (and Which One You’ll Likely Enjoy)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-22 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 04:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
