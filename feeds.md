@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 17:03:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 18:01:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kohberger-abc-jef-250723_1753278332565_hpMain_4x3t_384.jpg" alt="LIVE:  Idaho college student killer gets four life sentences: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Idaho college student killer gets four life sentences: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-23 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Mother and two children killed in Fermanagh shooting, BBC understands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +102,20 @@
                 <span class="time">2025-07-23 15:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kohberger-abc-jef-250723_1753278332565_hpMain_4x3t_384.jpg" alt="LIVE:  Idaho college student killer faces sentencing: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Idaho college student killer faces sentencing: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68810aeb110f6c1d8920afca/master/pass/IMG_3716.jpg" alt="Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/photos-bedding-childrens-play-sets-doge-old-offices/" target="_blank">Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-23 17:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-500x500-1753287220.jpg" alt="Whistleblower scientists outline Trump’s plan to politicize and dismantle NSF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +161,29 @@
                 <span class="time">2025-07-23 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace" target="_blank">Sonos names Tom Conrad permanent CEO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-23 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/measuring-the-impact-of-ai-on-software" target="_blank">Measuring the impact of AI on software engineering – with Laura Tacho</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-23 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525152&w=600" alt="The Golden Signals of Monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-golden-signals-of-monitoring" target="_blank">The Golden Signals of Monitoring</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-23 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Docker Volumes Explained with docker-compose" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,46 +196,28 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/" target="_blank">Solving the inference problem for open source AI projects with GitHub Models</a></span>
-                <span class="feed">The GitHub Blog</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Zed-Option-Disable-AI-Features" target="_blank">Zed Editor&#x27;s Newest Feature: Being Able To Disable All AI Features</a></span>
+                <span class="feed">Phoronix</span>
                 <span class="time">2025-07-23 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibrahimsi/kubernetes-finops-opencost-5b4b" target="_blank">Kubernetes + FinOps = OpenCost 🔍💰</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 15:50</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/23/building-better-platforms-with-continuous-discovery/" target="_blank">Building better platforms with continuous discovery</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-23 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Blender-HDR-Video-Import-Export" target="_blank">Blender Now Supports Properly Importing &amp; Exporting HDR Videos</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-23 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.perl.com/article/proxmox-donates-to-tprf/" target="_blank">Proxmox Donates €10k to the Perl and Raku Foundation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525109&w=600" alt="Building Resilient Event-Driven Applications Using Temporal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/temporal-workflow-guide-event-driven-applications" target="_blank">Building Resilient Event-Driven Applications Using Temporal</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-23 14:00</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/" target="_blank">Solving the inference problem for open source AI projects with GitHub Models</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-23 16:00</span>
             </div>
         </div>
 </div>
@@ -302,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/23/deceptively-delicious" target="_blank">Deceptively Delicious</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-23 16:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1753229135-20250724.png" alt="Saturday Morning Breakfast Cereal - Positive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
