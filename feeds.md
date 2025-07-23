@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 21:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-23 22:01:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 14 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/israeli-parliament-approves-symbolic-motion-on-west-bank-annexation?traffic_source=rss" target="_blank">Israeli parliament approves symbolic motion on West Bank annexation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 21:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +102,47 @@
                 <span class="time">2025-07-23 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753292798627_now_brk_kohberger_sentenced_250723_1920x1080-ccncrd.jpg" alt="Kohberger sentenced to life in prison for Idaho student murders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/kohberger-sentenced-to-life-in-prison-for-idaho-student-murders-243714629725" target="_blank">Kohberger sentenced to life in prison for Idaho student murders</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-23 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687febfe799eda52cce2ebde/master/pass/Microsoft-Sharepoint-Hacks-Reveals-Race-to-The-Bottom-Security-2225634274.jpg" alt="Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/" target="_blank">Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-23 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store" target="_blank">Google leaks its full Pixel 10 lineup</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-23 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/stargate-advances-with-partnership-with-oracle-1-500x500.jpg" alt="OpenAI and partners are building a massive AI data center in Texas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/openai-and-partners-are-building-a-massive-ai-data-center-in-texas/" target="_blank">OpenAI and partners are building a massive AI data center in Texas</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-23 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/" target="_blank">Google’s AI Overviews have 2B monthly users, AI Mode 100M in the US and India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-23 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -123,47 +161,20 @@
                 <span class="time">2025-07-23 17:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2221489911-500x500-1753287220.jpg" alt="Whistleblower scientists outline Trump’s plan to politicize and dismantle NSF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/whistleblower-scientists-outline-trumps-plan-to-politicize-and-dismantle-nsf/" target="_blank">Whistleblower scientists outline Trump’s plan to politicize and dismantle NSF</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-23 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam" target="_blank">Wheel World is the feel-good game of the summer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2215584013-500x500.jpg" alt="What exactly is Golden Dome? This Space Force general owes Trump an answer." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/what-exactly-is-golden-dome-this-space-force-general-owes-trump-an-answer/" target="_blank">What exactly is Golden Dome? This Space Force general owes Trump an answer.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-23 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687ff0ad8359ebf04f1ac88b/master/pass/politics_silicon_valley_billionaires.jpg" alt="The GOP&#x27;s Message for Tech Billionaires: Be Like Peter Thiel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/peter-thiel-silicon-valley-billionaires-dc/" target="_blank">The GOP&#x27;s Message for Tech Billionaires: Be Like Peter Thiel</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2" target="_blank">AI Data Collection: Foundations and Strategies for Modern AI Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 21:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-07-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-strix-point-2025" target="_blank">AMD Strix Point Linux Performance Comparison One Year After Launch</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-23 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4b8d496ed20d07c0e6ebae3f46c24534.jpg" alt="That Cool Survival Game That Mixes Minecraft And Half-Life Is Out Now On Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/minecraft-half-life-abiotic-factor-game-pass-ps5-1-0-pc-1851786836" target="_blank">That Cool Survival Game That Mixes Minecraft And Half-Life Is Out Now On Game Pass</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-23 21:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Panty-And-Stocking-Anime-Studio-Trigger-Prime-Video.jpg" alt="‘Panty &amp; Stocking’ Just Did Its Own ‘Mandalorian’ Spoof" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/new-panty-and-stocking-episode-3-mandalorian-reference-star-wars-2000633241" target="_blank">‘Panty &amp; Stocking’ Just Did Its Own ‘Mandalorian’ Spoof</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="US citizen hospitalized after ICE encounter at the supermarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/23/us-citizen-hospitalized-after-ice-encounter-at-the-supermarket.html" target="_blank">US citizen hospitalized after ICE encounter at the supermarket</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-23 20:18</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/bf6-battlefield-6-leak-october-launch-early-access-beta-1851786824" target="_blank">Battlefield 6 Leak Claims It Will Launch In October With No Early Access</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-23 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/alien-earth-xenomorph.jpg" alt="New ‘Alien: Earth’ Footage Teases the Creepy Creatures to Come" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alien-earth-footage-new-creatures-xenomorph-2000633237" target="_blank">New ‘Alien: Earth’ Footage Teases the Creepy Creatures to Come</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/monsterislandrev.jpg" alt="‘Monster Island’ Feels Like a ‘Predator’ Movie Set During World War II" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/monster-island-review-shudder-ww-ii-horror-2000632611" target="_blank">‘Monster Island’ Feels Like a ‘Predator’ Movie Set During World War II</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 17:00</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
