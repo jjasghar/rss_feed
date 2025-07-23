@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 15:02:23 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-23 16:01:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 23, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Police say a woman and two children killed in Fermanagh shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqx2537w5e2o" target="_blank">Police say a woman and two children killed in Fermanagh shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5213904/trump-ai-regulations" target="_blank">Trump aims to get rid of AI regulations and finance exports to win AI race</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 15:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/23/eu-steps-up-air-defences-for-ukraine-and-sanctions-for-russia?traffic_source=rss" target="_blank">EU steps up air defences for Ukraine and sanctions for Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kohberger-abc-jef-250723_1753278332565_hpMain_4x3t_384.jpg" alt="LIVE:  Idaho college student killer faces sentencing: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Idaho college student killer faces sentencing: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-23 15:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,47 +98,29 @@
                 <span class="time">2025-07-23 14:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477327/ukraine-corruption-zelenskyy-protests-russia" target="_blank">Zelenskyy faces outcry after signing bill curbing Ukraine&#x27;s anti-corruption agencies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 13:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/23/malaysia-calls-on-world-leaders-to-restrain-israel?traffic_source=rss" target="_blank">Malaysia “calls on world leaders” to restrain Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-gaza-6-rs-78dac7.jpg" alt="Mass starvation is spreading across Gaza, aid groups warn, as more children die of hunger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/gaza/gaza-baby-dies-starvation-spreads-hunger-israel-aid-rcna220200" target="_blank">Mass starvation is spreading across Gaza, aid groups warn, as more children die of hunger</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-23 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0628/live/b51689a0-67b5-11f0-af20-030418be2ca5.jpg" alt="Air India crash victim&#x27;s son says he received wrong remains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyld3vwqwzo" target="_blank">Air India crash victim&#x27;s son says he received wrong remains</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam" target="_blank">Wheel World is the feel-good game of the summer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2215584013-500x500.jpg" alt="What exactly is Golden Dome? This Space Force general owes Trump an answer." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/what-exactly-is-golden-dome-this-space-force-general-owes-trump-an-answer/" target="_blank">What exactly is Golden Dome? This Space Force general owes Trump an answer.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-23 15:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/iphone-display-500x500.jpg" alt="Conduct rules are coming for Google and Apple in the UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +157,38 @@
                 <span class="time">2025-07-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/trump-is-set-to-unveil-his-ai-roadmap-heres-what-to-know/" target="_blank">Trump is set to unveil his AI roadmap: Here’s what to know</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/instagram-adds-new-protections-for-accounts-that-primarily-feature-children/" target="_blank">Instagram adds new protections for accounts that primarily feature children</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/" target="_blank">Solving the inference problem for open source AI projects with GitHub Models</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibrahimsi/kubernetes-finops-opencost-5b4b" target="_blank">Kubernetes + FinOps = OpenCost 🔍💰</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-23 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Blender-HDR-Video-Import-Export" target="_blank">Blender Now Supports Properly Importing &amp; Exporting HDR Videos</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-23 15:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525109&w=600" alt="Building Resilient Event-Driven Applications Using Temporal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,33 +216,6 @@
                 <span class="time">2025-07-23 13:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/satish_chadive_a741973542/zup-the-self-healing-cli-that-automates-your-dev-environment-37cb" target="_blank">Zup: The Self-Healing CLI That Automates Your Dev Environment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Btrfs" target="_blank">Btrfs Preps Performance Improvements &amp; Experimental Large Folios For Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-23 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18525060&w=600" alt="Software Engineering Trade-Offs: Why We Cannot Build the Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-imperfect-systems-in-software-engineering" target="_blank">Software Engineering Trade-Offs: Why We Cannot Build the Perfect</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Fnord.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="A dollar buys you one minute of digital billboard fame — unless no one follows, then your message stays forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/23/a-dollar-buys-you-one-minute-of-digital-billboard-fame-unless-no-one-follows-then-your-message-stays-forever.html" target="_blank">A dollar buys you one minute of digital billboard fame — unless no one follows, then your message stays forever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-23 15:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/superheated-gold-slac-main.jpg" alt="Physicists Blow Up Gold With Giant Lasers, Accidentally Disprove Renowned Physics Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +289,6 @@
                 <span class="time">2025-07-23 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Image-Maingear.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Retro95 PC puts today&#x27;s tech in an old-fashioned case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/23/retro95-pc-puts-todays-tech-in-an-old-fashioned-case.html" target="_blank">Retro95 PC puts today&#x27;s tech in an old-fashioned case</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-23 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,22 +303,13 @@
                 <span class="time">2025-07-23 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753143656-20250723.png" alt="Saturday Morning Breakfast Cereal - Unjust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/unjust" target="_blank">Saturday Morning Breakfast Cereal - Unjust</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 40 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
