@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 22:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-24 23:01:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5479173/europe-iran-talks-istanbul" target="_blank">European countries are set for Iran talks, but expectations for a breakthrough are low</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5479139/trump-homelessness-executive-order-civil-commitment-camping" target="_blank">Trump signs an executive order making it easier to remove homeless people from streets</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-24 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753388819274_now_mtp_powell_trump_250724_1920x1080-l6mbtk.jpg" alt="Trump pushes Powell on rates and renovation costs during Fed visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-pushes-powell-on-rates-and-renovation-costs-during-fed-visit-243788869902" target="_blank">Trump pushes Powell on rates and renovation costs during Fed visit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-24 20:27</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +103,29 @@
                 <span class="time">2025-07-24 19:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/24/indias-pant-defies-injury-but-england-control-of-fourth-test?traffic_source=rss" target="_blank">India’s Pant defies injury but England control of fourth Test</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/24/aje-onl-usa_mediacontrol_av_v33-240725?traffic_source=rss" target="_blank">Has media freedom in the US collapsed?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/" target="_blank">How a Y Combinator food delivery app used TikTok to soar in the App Store</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/687fcfbfcc34f84ebcc01ab6/master/pass/STEAM-Remove-ornographic-Games-Culture-1659833597.jpg" alt="Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#x27;s a Slippery Slope to More Censorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/" target="_blank">Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#x27;s a Slippery Slope to More Censorship</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-24 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/" target="_blank">Chime backer Lauren Kolodny bets on AI to revolutionize estate processing</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-24 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2226709730-500x500.jpg" alt="Trump’s order to make chatbots anti-woke is unconstitutional, senator says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/gop-ignores-groks-right-wing-bias-in-anti-woke-chatbot-fight-democrat-claims/" target="_blank">Trump’s order to make chatbots anti-woke is unconstitutional, senator says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-24 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-24 18:00</span>
             </div>
         </div>
 </div>
@@ -254,6 +259,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/Yarygin.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Magic mushrooms reversed aging in mice, human cells live 50% longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/magic-mushrooms-reversed-aging-in-mice-human-cells-live-50-longer.html" target="_blank">Magic mushrooms reversed aging in mice, human cells live 50% longer</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 21:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0696b01ca39c66e003c84790a03f6abb.jpg" alt="Here’s Our First Look At The New Avatar Sequel Series Set After Korra" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -289,15 +303,6 @@
                 <span class="time">2025-07-24 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/06/Gay-Pride-500x245-680x340.jpg?fit=680%2C340&amp;quality=60&amp;ssl=1" alt="Kaiser to halt surgical care for trans teens as legal risks grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/24/kaiser-to-halt-surgical-care-for-trans-teens-as-legal-risks-grow.html" target="_blank">Kaiser to halt surgical care for trans teens as legal risks grow</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-24 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
