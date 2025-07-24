@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 05:05:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 06:01:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 05:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/australia-lifts-curbs-on-us-beef-that-angered-trump?traffic_source=rss" target="_blank">Australia lifts curbs on US beef that angered Trump</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ghislaine-maxwell_1753326382361_hpMain_4x3t_384.jpg" alt="DOJ meeting with Ghislaine Maxwell set for Thursday: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ meeting with Ghislaine Maxwell set for Thursday: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-24 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-suarez-kelner_6972156.jpg?20250724045316" alt="&#x27;Welcome to hell&#x27;: Venezuelan scarred after being sent to maximum security prison by Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/we-were-constantly-beaten-venezuelan-sent-to-maximum-security-prison-by-trump-administration-speaks-out-13400927" target="_blank">&#x27;Welcome to hell&#x27;: Venezuelan scarred after being sent to maximum security prison by Trump administration</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-24 03:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Court rules against Trump&#x27;s birthright citizenship EO</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-24 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/russia-ukraine-war-list-of-key-events-day-1246?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,246</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d3/live/452f22c0-67f9-11f0-8c3a-352af5639695.jpg" alt="UK vehicle making hits lowest level since 1953" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5vglq04zeo" target="_blank">UK vehicle making hits lowest level since 1953</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/us-supreme-court-says-trump-can-remove-democrats-from-consumer-safety-panel?traffic_source=rss" target="_blank">US Supreme Court says Trump can remove Democrats from consumer safety panel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 23:06</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 05:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
