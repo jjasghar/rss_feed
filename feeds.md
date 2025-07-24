@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 13:13:35 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-24 14:02:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 10 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/blast-in-syrias-idlib-province-kills-at-least-four-people?traffic_source=rss" target="_blank">Blast in Syria’s Idlib province kills at least four people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3d/live/1dfd36e0-687d-11f0-8f9f-1d38db11c370.png" alt="Mum and children killed in Northern Ireland shooting named" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5477562/aparna-nancherla-anxiety-club-anxious-comedy" target="_blank">Aparna Nancherla is tapping into ancestral rage</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d95/live/89a869f0-6855-11f0-8dbd-f3d32ebd3327.jpg" alt="Twelve killed in Thailand-Cambodia military clashes on disputed border" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80p8z0y0eko" target="_blank">Twelve killed in Thailand-Cambodia military clashes on disputed border</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 10:58</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simuldyne: Empowering stock exchanges with AI-driven market simulation</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stormkit/nodejs-hosting-diy-flexibility-vs-stormkits-streamlined-power-5bkj" target="_blank">Node.js Hosting: DIY Flexibility vs. Stormkit’s Streamlined Power</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18524217&w=600" alt="The Hidden Bias in AI: How Data Shapes the Ethics of Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hidden-bias-in-ai-how-data-impacts-ml-ethics" target="_blank">The Hidden Bias in AI: How Data Shapes the Ethics of Machine Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E" target="_blank">Ubuntu Concept For Snapdragon X1 Laptops Moves To Linux 6.16, Enables More Devices</a></span>
                 <span class="feed">Phoronix</span>
@@ -185,38 +217,20 @@
                 <span class="time">2025-07-24 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm429rdyd7w9ibztnh6xh.png" alt="5 Essential Frontend Tools I Learned At My Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/surajondev/5-essential-frontend-tools-i-learned-at-job-127h" target="_blank">5 Essential Frontend Tools I Learned At My Job</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://detekt.dev/" target="_blank">Detekt – A static code analyzer for Kotlin</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-24 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-AMD-Anti-Lag" target="_blank">Mesa 25.3 Merges Vulkan AMD Anti-Lag Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/M64.png" alt="The People Behind the Most Accurate Game Boy Recreation Are Making an N64" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-people-behind-the-most-accurate-game-boy-recreation-are-making-an-n64-2000633714" target="_blank">The People Behind the Most Accurate Game Boy Recreation Are Making an N64</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/e4c1545064b9ed90267332f76a3ad32f.jpg" alt="Tesla Turns to a Classic Tactic to Spark a Buying Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -236,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c4d7e2271a85e2c7737c124b9e8bb5b8.jpg" alt="The Fantastic Four: First Steps: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-fantastic-four-first-steps-review-movie-marvel-mcu-1851786852" target="_blank">The Fantastic Four: First Steps: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-24 12:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1f47c791fa099382f13699b647955e90.jpg" alt="The Lego Game Boy Looks Pretty Much Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -251,24 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/adorable-triassic-reptile-used-its-freaky-back-fin-to-communicate-2000633389" target="_blank">Adorable Triassic Reptile Used its Freaky Back Fin to Communicate</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/265205e1f6e1ea5206d835773c82312c.jpg" alt="Major Gaming Store Delists All NSFW Games Following Pressure From Anti-Porn Campaigners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/itch-io-nsfw-porn-games-delisted-collective-shout-1851786841" target="_blank">Major Gaming Store Delists All NSFW Games Following Pressure From Anti-Porn Campaigners</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-24 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Comic-Con-25-Show-Floor-1.jpg" alt="San Diego Comic-Con 2025: All the Coolest Things We Saw On the Floor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-show-floor-gallery-star-wars-marvel-tron-2000633480" target="_blank">San Diego Comic-Con 2025: All the Coolest Things We Saw On the Floor</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 03:20</span>
             </div>
         </div>
 </div>
@@ -299,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
