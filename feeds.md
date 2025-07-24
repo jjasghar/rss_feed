@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 17:03:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 18:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/24/aje-onl-usa_mediacontrol_av_v33-240725?traffic_source=rss" target="_blank">Has media freedom in the US collapsed?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5430/live/a6566580-68b3-11f0-a7a7-2fa09728ca14.jpg" alt="One in five children in Gaza is malnourished, UN aid agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxy5k70rzo" target="_blank">One in five children in Gaza is malnourished, UN aid agency says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +103,29 @@
                 <span class="time">2025-07-24 14:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3d/live/1dfd36e0-687d-11f0-8f9f-1d38db11c370.png" alt="Mum and children killed in shooting &#x27;valued and much loved&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vrw3xd77jo" target="_blank">Mum and children killed in shooting &#x27;valued and much loved&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/blast-in-syrias-idlib-province-kills-at-least-four-people?traffic_source=rss" target="_blank">Blast in Syria’s Idlib province kills at least four people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 13:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/" target="_blank">AI companions: A threat to love, or an evolution of it?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/695230/ios-26-beta-install-how-to" target="_blank">How to install the iOS 26 public beta</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-24 17:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/" target="_blank">AI slop and fake reports are exhausting some security bug bounties</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/GettyImages-1281976224-500x500.jpg" alt="White House unveils sweeping plan to “win” global AI race through deregulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/white-house-unveils-sweeping-plan-to-win-global-ai-race-through-deregulation/" target="_blank">White House unveils sweeping plan to “win” global AI race through deregulation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-24 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68822db547e702a519d69caf/master/pass/072425_Lego-Game-Boy-1.jpg" alt="No, of Course You Can&#x27;t Actually Play the New Lego Game Boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/" target="_blank">No, of Course You Can&#x27;t Actually Play the New Lego Game Boy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-24 14:31</span>
             </div>
         </div>
 </div>
@@ -229,6 +229,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/" target="_blank">Phishers Target Aviation Execs to Scam Customers</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-24 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html" target="_blank">How Solid Protocol Restores Digital Agency</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -240,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-via-Panic.jpg?fit=1080%2C765&amp;quality=60&amp;ssl=1" alt="Time Flies is a game about our &quot;limited time in this world&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/time-flies-is-a-game-about-our-limited-time-in-this-world.html" target="_blank">Time Flies is a game about our &quot;limited time in this world&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 17:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JXAM245MDGBKFE1FBPYT1D99/hero-image.png" alt="The First Public Beta of iOS 26 Is Out, and Here’s Why You Shouldn’t Install It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-install-the-ios-26-public-beta?utm_medium=RSS" target="_blank">The First Public Beta of iOS 26 Is Out, and Here’s Why You Shouldn’t Install It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-24 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/768cc576b56f25bdbab81e62278c00e3.jpg" alt="The 15th Air Bud Film Is Coming, And There&#x27;s Nothing You Can Do To Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +303,6 @@
                 <span class="time">2025-07-24 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0WT3953MYJKRT4Y473MB12T/hero-image.png" alt="Use This App to Turn Any Windows PC Into an Airplay Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/turn-windows-pc-into-airplay-server?utm_medium=RSS" target="_blank">Use This App to Turn Any Windows PC Into an Airplay Server</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-24 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/e4c1545064b9ed90267332f76a3ad32f.jpg" alt="Tesla Turns to a Classic Tactic to Spark a Buying Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tesla-turns-to-a-classic-tactic-to-spark-a-buying-frenzy-2000633617" target="_blank">Tesla Turns to a Classic Tactic to Spark a Buying Frenzy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
