@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-23 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 00:05:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 23, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +49,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/us-supreme-court-says-trump-can-remove-democrats-from-consumer-safety-panel?traffic_source=rss" target="_blank">US Supreme Court says Trump can remove Democrats from consumer safety panel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-23 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/maxwell-mo_1753188891044_hpMain_2_4x3t_384.jpg" alt="Justice Department faces subpoena over Epstein files by House Oversight Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoena-ghislaine-maxwell/story?id=124009512" target="_blank">Justice Department faces subpoena over Epstein files by House Oversight Committee</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-23 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/israeli-parliament-approves-symbolic-motion-on-west-bank-annexation?traffic_source=rss" target="_blank">Israeli parliament approves symbolic motion on West Bank annexation</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-23 21:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Mother and two children killed in Fermanagh shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqx2537w5e2o" target="_blank">Mother and two children killed in Fermanagh shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 21:20</span>
             </div>
         </div>
 <div class="story">
@@ -66,38 +99,29 @@
                 <span class="time">2025-07-23 20:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/nx-s1-5477567/jeffrey-epstein-transcripts-florida" target="_blank">Judge denies release of Jeffrey Epstein transcripts in Florida</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 19:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/g-s1-78913/author-asks-chatgpt-for-advice-on-her-book-about-tech-heres-what-it-said" target="_blank">Author asks ChatGPT for advice on her book about tech — here&#x27;s what it said</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kohberger-abc-jef-250723_1753278332565_hpMain_4x3t_384.jpg" alt="LIVE:  Idaho college student killer gets four life sentences: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Idaho college student killer gets four life sentences: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/" target="_blank">A new AI coding challenge just published its first results – and they aren’t pretty</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai" target="_blank">Trump wanted to break up Nvidia — but then its CEO won him over</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-23 23:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6881487f934263f2a6077fed/master/pass/Trump-AI-Speech-Business-2225682598.jpg" alt="Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,24 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/ai/2025/07/openai-and-partners-are-building-a-massive-ai-data-center-in-texas/" target="_blank">OpenAI and partners are building a massive AI data center in Texas</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-23 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/googles-ai-overviews-have-2b-monthly-users-ai-mode-100m-in-the-us-and-india/" target="_blank">Google’s AI Overviews have 2B monthly users, AI Mode 100M in the US and India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 21:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/trumps-ai-action-plan-aims-to-block-chip-exports-to-china-but-lacks-key-details/" target="_blank">Trump’s AI Action Plan aims to block chip exports to China but lacks key details</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-23 18:39</span>
             </div>
         </div>
 </div>
@@ -231,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-lego-stranger-things.jpg" alt="Lego Returns to ‘Stranger Things’ With These Adorable Chibi Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-lego-stranger-things-price-release-date-2000633392" target="_blank">Lego Returns to ‘Stranger Things’ With These Adorable Chibi Models</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0WKFFQ4H3887JX2TZD88CTF/hero-image.png" alt="This Small (but Punchy) Bluetooth Speaker Is $35 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/refurbished-sony-travel-speaker-woot?utm_medium=RSS" target="_blank">This Small (but Punchy) Bluetooth Speaker Is $35 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-23 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4b8d496ed20d07c0e6ebae3f46c24534.jpg" alt="That Cool Survival Game That Mixes Minecraft And Half-Life Is Out Now On Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -249,39 +273,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Still gaming on Windows 10? Here&#x27;s what you&#x27;re missing in Windows 11 Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/23/still-gaming-on-windows-10-heres-what-youre-missing-in-windows-11-pro.html" target="_blank">Still gaming on Windows 10? Here&#x27;s what you&#x27;re missing in Windows 11 Pro</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/shutterstock_76713673-e1749492591632.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="US citizen hospitalized after ICE encounter at the supermarket" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/07/23/us-citizen-hospitalized-after-ice-encounter-at-the-supermarket.html" target="_blank">US citizen hospitalized after ICE encounter at the supermarket</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-23 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/beetlejuice2.jpg" alt="Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/beetlejuice-3-jenna-ortega-tim-burton-2000633227" target="_blank">Tim Burton and Jenna Ortega Claim No Knowledge of ‘Beetlejuice 3’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0W6JKATZ77A128QP8BZGQQM/hero-image.jpg" alt="The Difference Between TikTok’s New ‘Pwerking,’ ‘Bwerking,’ and ‘Dwerking’ Dances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/tiktok-dances-pwerking-bwerking-dwerking-explained?utm_medium=RSS" target="_blank">The Difference Between TikTok’s New ‘Pwerking,’ ‘Bwerking,’ and ‘Dwerking’ Dances</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/12779f657038c0912a0e64b4fb0bec71.jpg" alt="Battlefield 6 Leak Claims It Will Launch In October With No Early Access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bf6-battlefield-6-leak-october-launch-early-access-beta-1851786824" target="_blank">Battlefield 6 Leak Claims It Will Launch In October With No Early Access</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-23 19:50</span>
             </div>
         </div>
 </div>
@@ -330,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
