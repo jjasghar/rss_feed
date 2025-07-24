@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 11:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-24 12:02:32 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 11:01 UTC</div>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +50,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/101-east/2025/7/24/cyber-kidnapping-scams-target-chinese-international-students?traffic_source=rss" target="_blank">Cyber kidnapping scams target Chinese international students</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/g-s1-79074/up-first-newsletter-jeffrey-epstein-trump-columbia-university-settlement-ai-executive-order" target="_blank">DOJ to question Epstein associate Ghislaine Maxwell. And, Trump unveils new AI order</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 11:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5477562/aparna-nancherla-anxiety-club-anxious-comedy" target="_blank">Aparna Nancherla is tapping into ancestral rage</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d95/live/89a869f0-6855-11f0-8dbd-f3d32ebd3327.jpg" alt="Twelve killed in Thailand-Cambodia military clashes on disputed border" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80p8z0y0eko" target="_blank">Twelve killed in Thailand-Cambodia military clashes on disputed border</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 10:58</span>
             </div>
         </div>
 <div class="story">
@@ -68,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6af/live/33376040-6868-11f0-89ea-4d6f9851f623.jpg" alt="Inquiry into asylum seeker payment cards for gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/Politics/Ghislaine-gty-er-250723_1753310128508_hpMain_4x3t_384.jpg" alt="Here&#x27;s what prosecutors said about Ghislaine Maxwell 3 years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9dgd1qyq29o" target="_blank">Inquiry into asylum seeker payment cards for gambling</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/israel-kills-two-palestinian-minors-amid-raids-across-occupied-west-bank?traffic_source=rss" target="_blank">Israel kills two Palestinian minors amid raids across occupied West Bank</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5302162/climate-change-trump-epa" target="_blank">Trump&#x27;s EPA now says greenhouses gases don&#x27;t endanger people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250723-donald-trump-ew-537p-11a697.jpg" alt="White House tightens its grip on Jeffrey Epstein messaging" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/white-house-tightens-grip-jeffrey-epstein-messaging-rcna220615" target="_blank">White House tightens its grip on Jeffrey Epstein messaging</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-24 09:00</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/ghislaine-maxwell-engaged-significant-pattern-dishonest-conduct-doj/story?id=124017081" target="_blank">Here&#x27;s what prosecutors said about Ghislaine Maxwell 3 years ago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-24 10:24</span>
             </div>
         </div>
 </div>
@@ -108,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/mission-barns-is-betting-that-animal-free-pork-fat-will-make-artificial-meat-delicious/" target="_blank">Mission Barns is betting that animal-free pork fat will make artificial meat delicious</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,29 @@
                 <span class="time">2025-07-24 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai" target="_blank">Trump wanted to break up Nvidia — but then its CEO won him over</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-23 23:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm429rdyd7w9ibztnh6xh.png" alt="5 Essential Frontend Tools I Learned At My Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/surajondev/5-essential-frontend-tools-i-learned-at-job-127h" target="_blank">5 Essential Frontend Tools I Learned At My Job</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://detekt.dev/" target="_blank">Detekt – A static code analyzer for Kotlin</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-24 11:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,43 +219,20 @@
                 <span class="time">2025-07-24 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/__52904/the-future-of-cybersecurity-careers-1i" target="_blank">The Future of Cybersecurity Careers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 03:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1" target="_blank">Valve Linux Engineer Working On A Big Improvement For Old AMD Radeon GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 00:32</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/google-sues-the-badbox-botnet-operators.html" target="_blank">Google Sues the Badbox Botnet Operators</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-23 11:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1f47c791fa099382f13699b647955e90.jpg" alt="The Lego Game Boy Looks Pretty Much Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-game-boy-pre-order-commercial-nintendo-1851786845" target="_blank">The Lego Game Boy Looks Pretty Much Perfect</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-24 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/mirasaura-illustration-main.jpg" alt="Adorable Triassic Reptile Used its Freaky Back Fin to Communicate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +278,6 @@
                 <span class="time">2025-07-23 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4b8d496ed20d07c0e6ebae3f46c24534.jpg" alt="That Cool Survival Game That Mixes Minecraft And Half-Life Is Out Now On Game Pass" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/minecraft-half-life-abiotic-factor-game-pass-ps5-1-0-pc-1851786836" target="_blank">That Cool Survival Game That Mixes Minecraft And Half-Life Is Out Now On Game Pass</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-23 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
