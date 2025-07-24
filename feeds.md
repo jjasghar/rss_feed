@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 07:03:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 08:01:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/chinas-xi-calls-for-pragmatism-at-summit-with-eu-in-uncertain-times?traffic_source=rss" target="_blank">China’s Xi calls for pragmatism at summit with EU in uncertain times</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 07:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,21 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-suarez-kelner_6972156.jpg?20250724045316" alt="&#x27;Welcome to hell&#x27;: Venezuelan scarred after being sent to maximum security prison by Trump administration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-venezuela-suarez_6972157.jpg?20250724045445" alt="&#x27;Welcome to hell&#x27;: Singer sent to maximum security prison by Trump administration tells Sky News about his ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/we-were-constantly-beaten-venezuelan-sent-to-maximum-security-prison-by-trump-administration-speaks-out-13400927" target="_blank">&#x27;Welcome to hell&#x27;: Venezuelan scarred after being sent to maximum security prison by Trump administration</a></span>
+                <span class="title"><a href="https://news.sky.com/story/we-were-constantly-beaten-venezuelan-sent-to-maximum-security-prison-by-trump-administration-speaks-out-13400927" target="_blank">&#x27;Welcome to hell&#x27;: Singer sent to maximum security prison by Trump administration tells Sky News about his ordeal</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-24 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/thai-military-reports-clash-with-cambodian-troops-at-disputed-border-area?traffic_source=rss" target="_blank">Thailand, Cambodian troops trade fire in latest clash over disputed border</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 02:36</span>
             </div>
         </div>
 </div>
@@ -159,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/devproxy-ai-mcp/en/headerimage/header-1753223092774.jpg" alt="DevProxy 0.28 Adds AI Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/devproxy-ai-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DevProxy 0.28 Adds AI Support</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-24 07:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc" target="_blank">Dreaming of Jupiter - Three.js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-23 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2" target="_blank">AI Data Collection: Foundations and Strategies for Modern AI Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 21:38</span>
             </div>
         </div>
 </div>
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 07:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
