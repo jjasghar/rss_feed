@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 03:29:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 04:14:16 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/thai-military-reports-clash-with-cambodian-troops-at-disputed-border-area?traffic_source=rss" target="_blank">Thailand, Cambodian troops trade fire in latest clash over disputed border</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 02:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250530-jeffrey-epstein-sign-protester-se-1122a-e4c061.jpg" alt="House Oversight Committee to subpoena DOJ for Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-oversight-committee-subpoena-doj-epstein-files-rcna220387" target="_blank">House Oversight Committee to subpoena DOJ for Epstein files</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-24 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-ai-summit-01-gty-jt-250723_1753306475275_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Court rules against Trump&#x27;s birthright citizenship EO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Court rules against Trump&#x27;s birthright citizenship EO</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-24 01:07</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/us-supreme-court-says-trump-can-remove-democrats-from-consumer-safety-panel?traffic_source=rss" target="_blank">US Supreme Court says Trump can remove Democrats from consumer safety panel</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-23 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/maxwell-mo_1753188891044_hpMain_2_4x3t_384.jpg" alt="Justice Department faces subpoena over Epstein files by House Oversight Committee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoena-ghislaine-maxwell/story?id=124009512" target="_blank">Justice Department faces subpoena over Epstein files by House Oversight Committee</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-23 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/1256100366/six-months-of-shock-and-awe-on-immigration-enforcement" target="_blank">Six months of &#x27;shock and awe&#x27; on immigration enforcement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 22:24</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__52904/the-future-of-cybersecurity-careers-1i" target="_blank">The Future of Cybersecurity Careers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 03:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1" target="_blank">Valve Linux Engineer Working On A Big Improvement For Old AMD Radeon GPUs</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/kapusto/ai-data-collection-foundations-and-strategies-for-modern-ai-systems-4jg2" target="_blank">AI Data Collection: Foundations and Strategies for Modern AI Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-23 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Builder-Foundry-2025" target="_blank">GNOME Foundry Taking Shape As &quot;An IDE In A Box&quot; With CLI Tooling</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-23 20:38</span>
             </div>
         </div>
 </div>
@@ -319,22 +319,13 @@
                 <span class="time">2025-07-23 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/flettner_rotor.png" alt="Flettner Rotor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3119/" target="_blank">Flettner Rotor</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-23 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
