@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 08:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-24 09:03:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5442539/kids-cook-family-dinner" target="_blank">Cooking with kids is messy. This dad chef wants you to do it anyway</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/7/24/trump-interfering-in-brazils-legal-process?traffic_source=rss" target="_blank">Trump interfering in Brazil’s legal process</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 08:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5478384/birthright-citizenship-appeals-court-blocks-trump" target="_blank">Appeals court upholds block against Trump&#x27;s effort to end birthright citizenship</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ghislaine-maxwell_1753326382361_hpMain_4x3t_384.jpg" alt="DOJ meeting with Ghislaine Maxwell set for Thursday: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ meeting with Ghislaine Maxwell set for Thursday: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 04:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-venezuela-suarez_6972157.jpg?20250724045445" alt="&#x27;Welcome to hell&#x27;: Singer sent to maximum security prison by Trump administration tells Sky News about his ordeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-soldier-land-mine-hospital_6972253.jpg?20250724080358" alt="Boy among 11 killed in escalating Thailand and Cambodia border dispute" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/we-were-constantly-beaten-venezuelan-sent-to-maximum-security-prison-by-trump-administration-speaks-out-13400927" target="_blank">&#x27;Welcome to hell&#x27;: Singer sent to maximum security prison by Trump administration tells Sky News about his ordeal</a></span>
+                <span class="title"><a href="https://news.sky.com/story/nine-civilians-killed-as-thailand-and-cambodia-exchange-fire-in-escalating-border-dispute-13400941" target="_blank">Boy among 11 killed in escalating Thailand and Cambodia border dispute</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-24 03:19</span>
+                <span class="time">2025-07-24 05:38</span>
             </div>
         </div>
 </div>
@@ -108,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687ea98ef6dc238f720ac669/master/pass/Obsessed-Drama-ReelShort-Business-2165351450.jpg" alt="Americans Are Obsessed With Watching Short Video Dramas From China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-reel-short-dramas-video-social-media/" target="_blank">Americans Are Obsessed With Watching Short Video Dramas From China</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-24 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +163,20 @@
                 <span class="time">2025-07-23 22:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687febfe799eda52cce2ebde/master/pass/Microsoft-Sharepoint-Hacks-Reveals-Race-to-The-Bottom-Security-2225634274.jpg" alt="Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/" target="_blank">Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqck7ekfwg3jsycvvjsxb.png" alt="A Preview of Python 3.14 Release: 7 Major New Features You Must Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/platypus98/a-preview-of-python-314-release-7-major-new-features-you-must-know-2cil" target="_blank">A Preview of Python 3.14 Release: 7 Major New Features You Must Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 08:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/devproxy-ai-mcp/en/headerimage/header-1753223092774.jpg" alt="DevProxy 0.28 Adds AI Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/thunderbird-141-update-available" target="_blank">Thunderbird 141 Adds ‘Archive’ Notification Action &amp; Fixes</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-23 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc" target="_blank">Dreaming of Jupiter - Three.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-23 22:55</span>
             </div>
         </div>
 </div>
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
