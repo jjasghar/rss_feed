@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 19:02:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 20:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +53,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5478924/trump-epstein-congress" target="_blank">Questions about Epstein files follow lawmakers home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/24/indias-pant-defies-injury-but-england-control-of-fourth-test?traffic_source=rss" target="_blank">India’s Pant defies injury but England control of fourth Test</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 19:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/24/aje-onl-usa_mediacontrol_av_v33-240725?traffic_source=rss" target="_blank">Has media freedom in the US collapsed?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-24 17:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5430/live/a6566580-68b3-11f0-a7a7-2fa09728ca14.jpg" alt="One in five children in Gaza City is malnourished, UN aid agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxy5k70rzo" target="_blank">One in five children in Gaza City is malnourished, UN aid agency says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 17:07</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +104,29 @@
                 <span class="time">2025-07-24 16:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/todd-blanche-4-abc-gmh-250724_1753364825281_hpMain_4x3t_384.jpg" alt="DOJ meeting with longtime Jeffrey Epstein associate Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ meeting with longtime Jeffrey Epstein associate Ghislaine Maxwell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/7/24/china-v-eu-the-fight-for-europes-electric-vehicle-market?traffic_source=rss" target="_blank">China v EU: The fight for Europe’s electric vehicle market</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-malnutrition_6972712.jpg?20250724154605" alt="Inside Gaza&#x27;s Nasser Hospital - where there&#x27;s virtually no food for malnourished children" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/inside-gazas-nasser-hospital-8211-where-theres-virtually-no-food-for-malnourished-children-13401219" target="_blank">Inside Gaza&#x27;s Nasser Hospital - where there&#x27;s virtually no food for malnourished children</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-24 14:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations" target="_blank">VTuber agency VShojo shuts down after talent exodus</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-24 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/chime-backer-lauren-kolodny-bets-on-ai-to-revolutionize-estate-processing/" target="_blank">Chime backer Lauren Kolodny bets on AI to revolutionize estate processing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 18:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2226709730-500x500.jpg" alt="Trump’s order to make chatbots anti-woke is unconstitutional, senator says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +163,20 @@
                 <span class="time">2025-07-24 17:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/googles-new-web-view-search-experiment-organizes-results-with-ai/" target="_blank">Google’s new Web View search experiment organizes results with AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/713162/microsoft-satya-nadella-layoffs-memo" target="_blank">Satya Nadella seeks to reassure Microsoft employees in layoffs memo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-24 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simudyne-empowering-stock-exchanges" target="_blank">Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-25 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +222,6 @@
                 <span class="time">2025-07-24 16:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/" target="_blank">How to streamline GitHub API calls in Azure Pipelines</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/nif-hohlraum-image-main.jpg" alt="Startup Claims Its Fusion Reactor Concept Can Turn Cheap Mercury Into Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/startup-claims-its-fusion-reactor-can-turn-cheap-mercury-into-gold-2000633862" target="_blank">Startup Claims Its Fusion Reactor Concept Can Turn Cheap Mercury Into Gold</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2014/06/Gay-Pride-500x245-680x340.jpg?fit=680%2C340&amp;quality=60&amp;ssl=1" alt="Kaiser to halt surgical care for trans teens as legal risks grow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/kaiser-to-halt-surgical-care-for-trans-teens-as-legal-risks-grow.html" target="_blank">Kaiser to halt surgical care for trans teens as legal risks grow</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 19:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/m9cast-sdcc.jpg" alt="‘Mighty Nein’ Rolls ‘Critical Role’ Into a New Animated Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +304,6 @@
                 <span class="time">2025-07-24 17:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/768cc576b56f25bdbab81e62278c00e3.jpg" alt="The 15th Air Bud Film Is Coming, And There&#x27;s Nothing You Can Do To Stop It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/air-bud-returns-air-bud-15-new-film-2026-poster-teaser-1851786906" target="_blank">The 15th Air Bud Film Is Coming, And There&#x27;s Nothing You Can Do To Stop It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-24 16:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/google-chrome-antitrust.jpg" alt="Google Neutralizes Its Rivals… For Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-neutralizes-its-rivals-for-now-2000633642" target="_blank">Google Neutralizes Its Rivals… For Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
