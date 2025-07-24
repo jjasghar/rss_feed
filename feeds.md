@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 20:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 21:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5479139/trump-homelessness-executive-order-civil-commitment-camping" target="_blank">Trump signs an executive order making it easier to remove homeless people from streets</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/todd-blanche-4-abc-gmh-250724_1753364825281_hpMain_4x3t_384.jpg" alt="DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-24 20:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/1539e560-687a-11f0-89ea-4d6f9851f623.jpg" alt="Starmer pleads with resident doctors to halt strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn5k5w7vrdvo" target="_blank">Starmer pleads with resident doctors to halt strike</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 20:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/7/24/aje-onl-usa_mediacontrol_av_v33-240725?traffic_source=rss" target="_blank">Has media freedom in the US collapsed?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-24 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5430/live/a6566580-68b3-11f0-a7a7-2fa09728ca14.jpg" alt="One in five children in Gaza City is malnourished, UN aid agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxy5k70rzo" target="_blank">One in five children in Gaza City is malnourished, UN aid agency says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5430/live/a6566580-68b3-11f0-a7a7-2fa09728ca14.jpg" alt="One in five children in Gaza is malnourished, UN aid agency says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyxy5k70rzo" target="_blank">One in five children in Gaza is malnourished, UN aid agency says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/24/usyk-to-face-parker-in-heavyweight-title-fight-on-wbo-order?traffic_source=rss" target="_blank">Usyk set to face Parker in heavyweight title fight on WBO orders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 16:04</span>
             </div>
         </div>
 </div>
@@ -196,30 +191,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526626&w=600" alt="Data Partitioning and Bucketing: How Modern Data Systems Organize and Optimize Your Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/partitioning-vs-bucketing-big-data" target="_blank">Data Partitioning and Bucketing: How Modern Data Systems Organize and Optimize Your Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-24 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.starlink.com/us" target="_blank">Starlink is currently experiencing a service outage. Our team is investigating</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-24 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701" target="_blank">Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-24 18:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3196799%2Fd708787d-ccb2-4a56-a1da-f86fd8c86618.png" alt="New Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harith_y_a97ea256afe8255f/new-project-564e" target="_blank">New Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/linux-foundation-openstack" target="_blank">The Linux Foundation and OpenStack – a new chapter for cloud-native infrastructure</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-07-24 16:59</span>
             </div>
         </div>
 </div>
@@ -250,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/MyPillow-CEO-Mike-Lindell-leans-against-a-fence.jpg" alt="Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/court-rules-mike-lindell-doesnt-have-to-pay-5-million-in-hacked-voting-machine-bet-2000633979" target="_blank">Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Joseph__Yellow_Kid__Weil_1918.jpg?fit=1200%2C833&amp;quality=60&amp;ssl=1" alt="This legendary conman&#x27;s dog trick exposed human nature&#x27;s dark side" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/this-legendary-conmans-dog-trick-exposed-human-natures-dark-side.html" target="_blank">This legendary conman&#x27;s dog trick exposed human nature&#x27;s dark side</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 20:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/nif-hohlraum-image-main.jpg" alt="Startup Claims Its Fusion Reactor Concept Can Turn Cheap Mercury Into Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,24 +299,6 @@
                 <span class="time">2025-07-24 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-via-Panic.jpg?fit=1080%2C765&amp;quality=60&amp;ssl=1" alt="Time Flies is a game about our &quot;limited time in this world&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/24/time-flies-is-a-game-about-our-limited-time-in-this-world.html" target="_blank">Time Flies is a game about our &quot;limited time in this world&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-24 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JXAM245MDGBKFE1FBPYT1D99/hero-image.png" alt="The First Public Beta of iOS 26 Is Out, and Here’s Why You Shouldn’t Install It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-install-the-ios-26-public-beta?utm_medium=RSS" target="_blank">The First Public Beta of iOS 26 Is Out, and Here’s Why You Shouldn’t Install It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-24 17:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
