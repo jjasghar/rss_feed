@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 12:02:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 13:13:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 10 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3d/live/1dfd36e0-687d-11f0-8f9f-1d38db11c370.png" alt="Mum and children killed in Northern Ireland shooting named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vrw3xd77jo" target="_blank">Mum and children killed in Northern Ireland shooting named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/russia-seeking-to-create-buffer-zones-in-ukraine-says-kremlin?traffic_source=rss" target="_blank">Russia seeking to create ‘buffer zones’ in Ukraine, says Kremlin</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 12:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +94,20 @@
                 <span class="time">2025-07-24 10:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/24/michelle-agyemang-in-england-spotlight-ahead-of-uefa-euro-2025-final?traffic_source=rss" target="_blank">Michelle Agyemang in England spotlight before UEFA Euro 2025 final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Ghislaine-gty-er-250723_1753310128508_hpMain_4x3t_384.jpg" alt="Here&#x27;s what prosecutors said about Ghislaine Maxwell 3 years ago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/ghislaine-maxwell-engaged-significant-pattern-dishonest-conduct-doj/story?id=124017081" target="_blank">Here&#x27;s what prosecutors said about Ghislaine Maxwell 3 years ago</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 10:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/" target="_blank">Google’s new AI feature lets you virtually try on clothes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +153,38 @@
                 <span class="time">2025-07-24 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/" target="_blank">A new AI coding challenge just published its first results – and they aren’t pretty</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E" target="_blank">Ubuntu Concept For Snapdragon X1 Laptops Moves To Linux 6.16, Enables More Devices</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-24 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html" target="_blank">Web fingerprinting is worse than I thought</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-24 12:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/serverless-rust-aws/en/mediumimage/benjamen-pyle-medium-1752656143641.jpeg" alt="Presentation: High Performance Serverless with Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/serverless-rust-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: High Performance Serverless with Rust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm429rdyd7w9ibztnh6xh.png" alt="5 Essential Frontend Tools I Learned At My Job" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,38 +212,29 @@
                 <span class="time">2025-07-24 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_8c78b76f/asynchronous-programming-patterns-for-web-development8905-3556" target="_blank">Asynchronous Programming Patterns for Web Development(8905)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqck7ekfwg3jsycvvjsxb.png" alt="A Preview of Python 3.14 Release: 7 Major New Features You Must Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/platypus98/a-preview-of-python-314-release-7-major-new-features-you-must-know-2cil" target="_blank">A Preview of Python 3.14 Release: 7 Major New Features You Must Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 08:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/devproxy-ai-mcp/en/headerimage/header-1753223092774.jpg" alt="DevProxy 0.28 Adds AI Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/devproxy-ai-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DevProxy 0.28 Adds AI Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-24 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/e4c1545064b9ed90267332f76a3ad32f.jpg" alt="Tesla Turns to a Classic Tactic to Spark a Buying Frenzy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tesla-turns-to-a-classic-tactic-to-spark-a-buying-frenzy-2000633617" target="_blank">Tesla Turns to a Classic Tactic to Spark a Buying Frenzy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0XNG818H1FZE2R26BK6NXDH/hero-image.png" alt="These Powerbeats Pro 2 Earbuds Are $85 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/refurbished-beats-powerbeats-pro-2-earbuds-sale?utm_medium=RSS" target="_blank">These Powerbeats Pro 2 Earbuds Are $85 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1f47c791fa099382f13699b647955e90.jpg" alt="The Lego Game Boy Looks Pretty Much Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +271,6 @@
                 <span class="time">2025-07-24 03:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-lego-stranger-things.jpg" alt="Lego Returns to ‘Stranger Things’ With These Adorable Chibi Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-lego-stranger-things-price-release-date-2000633392" target="_blank">Lego Returns to ‘Stranger Things’ With These Adorable Chibi Models</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0WKFFQ4H3887JX2TZD88CTF/hero-image.png" alt="This Small (but Punchy) Bluetooth Speaker Is $35 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/refurbished-sony-travel-speaker-woot?utm_medium=RSS" target="_blank">This Small (but Punchy) Bluetooth Speaker Is $35 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-23 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
