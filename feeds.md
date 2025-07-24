@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 21:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-24 22:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +106,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/intel-continues-to-pull-back-on-its-manufacturing-projects/" target="_blank">Intel continues to pull back on its manufacturing projects</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk" target="_blank">No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-24 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations" target="_blank">VTuber agency VShojo shuts down after talent exodus</a></span>
                 <span class="feed">The Verge</span>
@@ -138,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/ai-companions-a-threat-to-love-or-an-evolution-of-it/" target="_blank">AI companions: A threat to love, or an evolution of it?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/695230/ios-26-beta-install-how-to" target="_blank">How to install the iOS 26 public beta</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-24 17:35</span>
             </div>
         </div>
 </div>
@@ -191,30 +190,30 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526626&w=600" alt="Data Partitioning and Bucketing: How Modern Data Systems Organize and Optimize Your Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/partitioning-vs-bucketing-big-data" target="_blank">Data Partitioning and Bucketing: How Modern Data Systems Organize and Optimize Your Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-24 20:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.starlink.com/us" target="_blank">Starlink is currently experiencing a service outage. Our team is investigating</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-24 19:26</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Seamless-Firmware-Servicing" target="_blank">New AMD Linux Driver Ushers In Seamless Firmware Servicing &quot;SFS&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-24 21:58</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701" target="_blank">Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM</a></span>
+                <span class="title"><a href="https://dev.to/patrickbastosdeveloper/my-first-experience-as-a-feature-lead-in-technology-k1k" target="_blank">My First Experience as a Feature Lead in Technology✅</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 18:55</span>
+                <span class="time">2025-07-24 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ipnsig.org" target="_blank">Inter-Planetary Network Special Interest Group</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-24 20:19</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Invincible-San-Diego-Comic-Con.jpg" alt="‘Invincible’ Season 4 Is Bringing in Matthew Rhys for a Major Role" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/san-diego-comic-con-invincible-dinosaurus-matthew-rhys-cast-announcement-2000634033" target="_blank">‘Invincible’ Season 4 Is Bringing in Matthew Rhys for a Major Role</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0696b01ca39c66e003c84790a03f6abb.jpg" alt="Here’s Our First Look At The New Avatar Sequel Series Set After Korra" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/avatar-seven-havens-pavi-earthbender-image-sdcc-panel-1851786934" target="_blank">Here’s Our First Look At The New Avatar Sequel Series Set After Korra</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-24 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/MyPillow-CEO-Mike-Lindell-leans-against-a-fence.jpg" alt="Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +298,6 @@
                 <span class="time">2025-07-24 19:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/m9cast-sdcc.jpg" alt="‘Mighty Nein’ Rolls ‘Critical Role’ Into a New Animated Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mighty-nein-trailer-prime-video-sdcc-2025-2000633081" target="_blank">‘Mighty Nein’ Rolls ‘Critical Role’ Into a New Animated Era</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/image3.jpeg?fit=1200%2C663&amp;quality=60&amp;ssl=1" alt="Surprise! Google kills another service because they&#x27;re bored" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/24/surprise-google-kills-another-service-because-theyre-bored.html" target="_blank">Surprise! Google kills another service because they&#x27;re bored</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-24 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
