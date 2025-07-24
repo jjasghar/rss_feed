@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 14:02:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-24 15:01:47 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3d/live/1dfd36e0-687d-11f0-8f9f-1d38db11c370.png" alt="Mum and children killed in shooting &#x27;valued and much loved&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vrw3xd77jo" target="_blank">Mum and children killed in shooting &#x27;valued and much loved&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,29 @@
                 <span class="time">2025-07-24 11:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5477562/aparna-nancherla-anxiety-club-anxious-comedy" target="_blank">Aparna Nancherla is tapping into ancestral rage</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/" target="_blank">AI slop and fake reports are exhausting some security bug bounties</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68822db547e702a519d69caf/master/pass/072425_Lego-Game-Boy-1.jpg" alt="No, of Course You Can&#x27;t Actually Play the New Lego Game Boy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/" target="_blank">No, of Course You Can&#x27;t Actually Play the New Lego Game Boy</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-24 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2025-07-24 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display" target="_blank">Here is Lego’s official Nintendo Game Boy — with lenticular display</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-24 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/" target="_blank">A new AI coding challenge just published its first results — and they aren’t pretty</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-07-25 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,48 +181,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjksd9oiov7sxpqhxjdzm.png" alt="Designing Smart Multi-Agent Workflows with Agno &amp; LangDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/langdb/designing-smart-multi-agent-workflows-with-agno-langdb-nic" target="_blank">Designing Smart Multi-Agent Workflows with Agno &amp; LangDB</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18524223&w=600" alt="Deploying Containers on Azure Container Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/deploying-containers-on-azure-infrastructure" target="_blank">Deploying Containers on Azure Container Apps</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/state-space-models-edge-compute/en/headerimage/state-space-model-low-power-1753257525965.jpeg" alt="State Space Models Can Enable AI in Low-Power Edge Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/state-space-models-edge-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">State Space Models Can Enable AI in Low-Power Edge Computing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/stormkit/nodejs-hosting-diy-flexibility-vs-stormkits-streamlined-power-5bkj" target="_blank">Node.js Hosting: DIY Flexibility vs. Stormkit’s Streamlined Power</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-24 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18524217&w=600" alt="The Hidden Bias in AI: How Data Shapes the Ethics of Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hidden-bias-in-ai-how-data-impacts-ml-ethics" target="_blank">The Hidden Bias in AI: How Data Shapes the Ethics of Machine Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E" target="_blank">Ubuntu Concept For Snapdragon X1 Laptops Moves To Linux 6.16, Enables More Devices</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 12:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html" target="_blank">Web fingerprinting is worse than I thought</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-24 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/serverless-rust-aws/en/mediumimage/benjamen-pyle-medium-1752656143641.jpeg" alt="Presentation: High Performance Serverless with Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/serverless-rust-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: High Performance Serverless with Rust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-24 12:00</span>
             </div>
         </div>
 </div>
@@ -229,6 +228,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-people-behind-the-most-accurate-game-boy-recreation-are-making-an-n64-2000633714" target="_blank">The People Behind the Most Accurate Game Boy Recreation Are Making an N64</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-24 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0WT3953MYJKRT4Y473MB12T/hero-image.png" alt="Use This App to Turn Any Windows PC Into an Airplay Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/turn-windows-pc-into-airplay-server?utm_medium=RSS" target="_blank">Use This App to Turn Any Windows PC Into an Airplay Server</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-24 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -250,30 +258,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/search-for-dinosaurs.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="The history of gamebooks in 31 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/31-days-of-gamebooks.html" target="_blank">The history of gamebooks in 31 days</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 12:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c4d7e2271a85e2c7737c124b9e8bb5b8.jpg" alt="The Fantastic Four: First Steps: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/the-fantastic-four-first-steps-review-movie-marvel-mcu-1851786852" target="_blank">The Fantastic Four: First Steps: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-24 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1f47c791fa099382f13699b647955e90.jpg" alt="The Lego Game Boy Looks Pretty Much Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-game-boy-pre-order-commercial-nintendo-1851786845" target="_blank">The Lego Game Boy Looks Pretty Much Perfect</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/mirasaura-illustration-main.jpg" alt="Adorable Triassic Reptile Used its Freaky Back Fin to Communicate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/adorable-triassic-reptile-used-its-freaky-back-fin-to-communicate-2000633389" target="_blank">Adorable Triassic Reptile Used its Freaky Back Fin to Communicate</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 10:00</span>
             </div>
         </div>
 </div>
@@ -304,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
