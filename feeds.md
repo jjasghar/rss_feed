@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 00:05:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-24 01:29:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/russia-ukraine-war-list-of-key-events-day-1246?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,246</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d3/live/452f22c0-67f9-11f0-8c3a-352af5639695.jpg" alt="UK vehicle making hits lowest level since 1953" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5vglq04zeo" target="_blank">UK vehicle making hits lowest level since 1953</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-23 23:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,37 +88,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/23/1256100366/six-months-of-shock-and-awe-on-immigration-enforcement" target="_blank">Six months of &#x27;shock and awe&#x27; on immigration enforcement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-23 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/israeli-parliament-approves-symbolic-motion-on-west-bank-annexation?traffic_source=rss" target="_blank">Israeli parliament approves symbolic motion on West Bank annexation</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-23 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cdd/live/f320d030-67b9-11f0-b8da-2f6ba2aeaac8.jpg" alt="Mother and two children killed in Fermanagh shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqx2537w5e2o" target="_blank">Mother and two children killed in Fermanagh shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-23 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/23/g-s1-78924/etan-patz-missing-kids-children-legacy" target="_blank">The Etan Patz case changed how America responds to missing kids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-23 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/23/us-federal-judge-refuses-trumps-bid-to-unseal-epstein-grand-jury-records?traffic_source=rss" target="_blank">US federal judge refuses Trump’s bid to unseal Epstein grand jury records</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-23 20:26</span>
             </div>
         </div>
 </div>
@@ -166,6 +170,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1" target="_blank">Valve Linux Engineer Working On A Big Improvement For Old AMD Radeon GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-24 00:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aaronson.org/blog/i-drank-every-cocktail" target="_blank">I drank every cocktail</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-23 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/blancmonarch/dreaming-of-jupiter-threejs-3bdc" target="_blank">Dreaming of Jupiter - Three.js</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dzone.com/articles/data-modernization-strategy-cloud-governance-ai" target="_blank">Building a Modern Data Platform That Delivers Real Business Value</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-23 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.accuweather.com/new-portal" target="_blank">AccuWeather to discontinue free access to Core Weather API</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://dpdani.github.io/cereggii/examples/AtomicDict/reduce/" target="_blank">Aggregation and reduction in free-threaded Python using AtomicDict</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-23 19:17</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
