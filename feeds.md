@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 10:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-24 11:01:41 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5477562/aparna-nancherla-anxiety-club-anxious-comedy" target="_blank">Aparna Nancherla is tapping into ancestral rage</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/24/michelle-agyemang-in-england-spotlight-ahead-of-uefa-euro-2025-final?traffic_source=rss" target="_blank">Michelle Agyemang in England spotlight before UEFA Euro 2025 final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6af/live/33376040-6868-11f0-89ea-4d6f9851f623.jpg" alt="Inquiry into asylum seeker payment cards for gambling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9dgd1qyq29o" target="_blank">Inquiry into asylum seeker payment cards for gambling</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-24 10:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +103,20 @@
                 <span class="time">2025-07-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5442539/kids-cook-family-dinner" target="_blank">Cooking with kids is messy. This dad chef wants you to do it anyway</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/compare-contrast/2025/7/24/trump-interfering-in-brazils-legal-process?traffic_source=rss" target="_blank">Trump interfering in Brazil’s legal process</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-24 08:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d0/live/91c88650-6847-11f0-8dbd-f3d32ebd3327.jpg" alt="White House pushes back after reports Trump is named in Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyq921zqqzo" target="_blank">White House pushes back after reports Trump is named in Epstein files</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 07:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers" target="_blank">Itch.io follows Steam in removing adult games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-24 09:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687ea98ef6dc238f720ac669/master/pass/Obsessed-Drama-ReelShort-Business-2165351450.jpg" alt="Americans Are Obsessed With Watching Short Video Dramas From China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +162,20 @@
                 <span class="time">2025-07-23 23:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6881487f934263f2a6077fed/master/pass/Trump-AI-Speech-Business-2225682598.jpg" alt="Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/president-trump-ai-action-plan-speech/" target="_blank">Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-23 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-AMD-Anti-Lag" target="_blank">Mesa 25.3 Merges Vulkan AMD Anti-Lag Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-24 10:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1" target="_blank">Valve Linux Engineer Working On A Big Improvement For Old AMD Radeon GPUs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-24 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aaronson.org/blog/i-drank-every-cocktail" target="_blank">I drank every cocktail</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-23 23:56</span>
             </div>
         </div>
 </div>
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 141 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
