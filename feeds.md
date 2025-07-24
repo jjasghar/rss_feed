@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 06:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-24 07:03:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +44,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/macrons-file-defamation-suit-against-right-wing-us-podcaster-candace-owens?traffic_source=rss" target="_blank">Macrons file defamation suit against right-wing US podcaster Candace Owens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-24 06:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/24/australia-lifts-curbs-on-us-beef-that-angered-trump?traffic_source=rss" target="_blank">Australia lifts curbs on US beef that angered Trump</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-24 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5478384/birthright-citizenship-appeals-court-blocks-trump" target="_blank">Appeals court upholds block against Trump&#x27;s effort to end birthright citizenship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-24 04:57</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +94,6 @@
                 <span class="time">2025-07-24 02:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250530-jeffrey-epstein-sign-protester-se-1122a-e4c061.jpg" alt="House Oversight Committee to subpoena DOJ for Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-oversight-committee-subpoena-doj-epstein-files-rcna220387" target="_blank">House Oversight Committee to subpoena DOJ for Epstein files</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-24 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-ai-summit-01-gty-jt-250723_1753306475275_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Court rules against Trump&#x27;s birthright citizenship EO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Court rules against Trump&#x27;s birthright citizenship EO</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +106,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display" target="_blank">Here is Lego’s official Nintendo Game Boy — with lenticular display</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-24 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/23/a-new-ai-coding-challenge-just-published-its-first-results-and-they-arent-pretty/" target="_blank">A new AI coding challenge just published its first results — and they aren’t pretty</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-24 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -151,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/" target="_blank">Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-23 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store" target="_blank">Google leaks its full Pixel 10 lineup</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-23 21:46</span>
             </div>
         </div>
 </div>
@@ -317,22 +308,13 @@
                 <span class="time">2025-07-23 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/23/deceptively-delicious" target="_blank">Deceptively Delicious</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-23 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
