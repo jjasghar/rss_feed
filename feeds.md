@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-24 18:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-24 19:02:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 24, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 24, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2226709730-500x500.jpg" alt="Trump’s order to make chatbots anti-woke is unconstitutional, senator says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/gop-ignores-groks-right-wing-bias-in-anti-woke-chatbot-fight-democrat-claims/" target="_blank">Trump’s order to make chatbots anti-woke is unconstitutional, senator says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-24 18:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-24 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -144,24 +158,6 @@
                 <span class="time">2025-07-24 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686c75f63b38d50fc333d36a/master/pass/pol_bleach_getty.jpg" alt="An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dangerous-bleach-injecting-cancer-treatment/" target="_blank">An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-24 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/ai-slop-and-fake-reports-are-exhausting-some-security-bug-bounties/" target="_blank">AI slop and fake reports are exhausting some security bug bounties</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -186,6 +182,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/binyam/unify-your-genai-arsenal-deploying-bedrock-gemini-and-more-with-litellm-3701" target="_blank">Unify Your GenAI Arsenal: Deploying Bedrock, Gemini, and More with LiteLLM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-24 18:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3196799%2Fd708787d-ccb2-4a56-a1da-f86fd8c86618.png" alt="New Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,21 +209,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/07/dotnet-10-preview-6/en/headerimage/twitter_card+%2854%29-1753180105767.jpg" alt=".NET 10 Preview 6 Introduces Blazor Enhancements, Memory Optimization, and SDK Improvements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/dotnet-10-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Preview 6 Introduces Blazor Enhancements, Memory Optimization, and SDK Improvements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Strix-Halo-Linux-6.16" target="_blank">Linux 6.16 Brings Some Minor Performance Boosts For Strix Halo&#x27;s Radeon Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 15:29</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/" target="_blank">How to streamline GitHub API calls in Azure Pipelines</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-24 16:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/m9cast-sdcc.jpg" alt="‘Mighty Nein’ Rolls ‘Critical Role’ Into a New Animated Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mighty-nein-trailer-prime-video-sdcc-2025-2000633081" target="_blank">‘Mighty Nein’ Rolls ‘Critical Role’ Into a New Animated Era</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-24 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/image3.jpeg?fit=1200%2C663&amp;quality=60&amp;ssl=1" alt="Surprise! Google kills another service because they&#x27;re bored" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/surprise-google-kills-another-service-because-theyre-bored.html" target="_blank">Surprise! Google kills another service because they&#x27;re bored</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screenshot-via-Panic.jpg?fit=1080%2C765&amp;quality=60&amp;ssl=1" alt="Time Flies is a game about our &quot;limited time in this world&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +299,6 @@
                 <span class="time">2025-07-24 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2e9ac1934eac2a50bb756f74a2a3e022.jpg" alt="If You Don’t Want To Play The Last Of Us, You Can Now Read It Instead" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/last-of-us-script-hardcover-book-pre-order-part-2-1851786896" target="_blank">If You Don’t Want To Play The Last Of Us, You Can Now Read It Instead</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-24 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/M64.png" alt="The People Behind the Most Accurate Game Boy Recreation Are Making an N64" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-people-behind-the-most-accurate-game-boy-recreation-are-making-an-n64-2000633714" target="_blank">The People Behind the Most Accurate Game Boy Recreation Are Making an N64</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
