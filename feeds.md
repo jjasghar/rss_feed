@@ -1,44 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 10:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-25 11:01:35 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6882a95c3776a8a76da3c563/master/pass/2025_EH_VTUBE__DSC6331.jpg" alt="Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real?’ Depends on Who You Ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anime-girl-vtubers-are-selling-out-concerts-but-are-they-real-depends-on-who-you-ask/" target="_blank">Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real?’ Depends on Who You Ask</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68810b25bd71797a9c9360e5/master/pass/tuvalu.jpg" alt="The First Planned Migration of an Entire Country Is Underway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -158,20 +153,20 @@
                 <span class="time">2025-07-24 23:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688260ef4f088f314b8487bc/master/pass/Paramount-South-Park-Problem-Culture-TCDSOPA_EC204.jpg" alt="Paramount Has a $1.5 Billion ‘South Park’ Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-has-a-south-park-problem/" target="_blank">Paramount Has a $1.5 Billion ‘South Park’ Problem</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-24 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ayn-Handhelds-Linux-Driver" target="_blank">Ayn Gaming Handhelds To See Better Linux Support With New Open-Source Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-25 10:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxs96dbee0map14sidf4.png" alt="How to Change Hostname on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/7-image-conversion-mistakes-that-are-killing-your-app-performance-and-how-to-fix-them-1lgd" target="_blank">7 Image Conversion Mistakes That Are Killing Your App Performance (And How to Fix Them)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 07:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/" target="_blank">Saving the world with speed and at scale</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-25 07:40</span>
             </div>
         </div>
 </div>
@@ -345,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
