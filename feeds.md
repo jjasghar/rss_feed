@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 12:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 13:12:59 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/730ba570-693d-11f0-839d-3fa73d07d9bd.jpg" alt="NHS faces challenging few days during doctors strike, warns Streeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">NHS faces challenging few days during doctors strike, warns Streeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 12:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +97,20 @@
                 <span class="time">2025-07-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d8/live/2fd492b0-6917-11f0-af20-030418be2ca5.png" alt="Thailand warns clashes with Cambodia could &#x27;move towards war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5gz03d8no" target="_blank">Thailand warns clashes with Cambodia could &#x27;move towards war&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/683112d5fd04b44f214442b6/master/pass/Samsung%20Galaxy%20S25%20Edge.png" alt="The Best Samsung Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-phones/" target="_blank">The Best Samsung Phones of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6882a06ec2009ca102007c7d/master/pass/Review-%20Samsung%20Galaxy%20Watch8%20and%20Watch8%20Classic.png" alt="Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2025-07-25 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688002f97ccc224839fbb001/master/pass/Age-Checked-Internet-Security-1295026269.jpg" alt="The Age-Checked Internet Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-age-checked-internet-has-arrived/" target="_blank">The Age-Checked Internet Has Arrived</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/windows11key/windows-11-key-explained-activation-licensing-and-best-practices-30m0" target="_blank">Windows 11 Key Explained : Activation, Licensing, and Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-Non-UEFI-BIOS-Scope" target="_blank">Fedora Considers Reducing The Scope That BIOS Systems Can Hold Up A Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-25 12:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l" target="_blank">How to Change Hostname on Linux</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/google-apigee-llm-model-armor/en/headerimage/google-apigee-llm-model-header-1753257544106.jpg" alt="Google Apigee Adds Built-in LLM Governance with Model Armor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Apigee Adds Built-in LLM Governance with Model Armor</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-25 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk66gki4i91jqsap0is9f.png" alt="Introduction to Grafana Cloud &amp; Account Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514" target="_blank">Introduction to Grafana Cloud &amp; Account Creation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 08:53</span>
             </div>
         </div>
 </div>
@@ -341,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
