@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 11:01:35 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-25 12:02:07 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,54 +54,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/russian-rocket-launches-iran-satellite-into-space-iranian-media?traffic_source=rss" target="_blank">Russian rocket launches Iran satellite into space: Iranian media</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/25/why-is-indias-dharmasthala-temple-at-the-centre-of-a-mass-murder-case?traffic_source=rss" target="_blank">Why is India’s Dharmasthala temple at the centre of a mass murder case?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 09:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/730ba570-693d-11f0-839d-3fa73d07d9bd.jpg" alt="Streeting vows to keep disruption to a minimum as England doctor strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">Streeting vows to keep disruption to a minimum as England doctor strike begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 08:18</span>
+                <span class="time">2025-07-25 11:16</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5479681/france-palestine-statehood-macron-israel" target="_blank">French President Macron says France will recognize Palestine as a state</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/25/g-s1-79427/up-first-newsletter-trump-federal-reserve-jeffrey-epstein-gaza" target="_blank">Trump and Fed chairman clash over renovation site cost. And, Gaza peace talks stalled</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-25 05:48</span>
+                <span class="time">2025-07-25 11:05</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0997/live/398a2eb0-68b2-11f0-a7a7-2fa09728ca14.jpg" alt="Streeting vows to keep disruption to a minimum as doctor strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/US/salvador-prison-1-rt-gmh-2503_1743005044835_hpMain_4x3t_384.jpg" alt="&#x27;Real hell&#x27;: Venezuelan men allege physical and psychological abuse at CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">Streeting vows to keep disruption to a minimum as doctor strike begins</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 05:45</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/youre-real-hell-venezuelan-men-allege-physical-psychological/story?id=124036068" target="_blank">&#x27;Real hell&#x27;: Venezuelan men allege physical and psychological abuse at CECOT</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-25 09:30</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/death-toll-in-thai-cambodia-clashes-rises-to-16-as-120000-flee-border-area?traffic_source=rss" target="_blank">Death toll in Thai-Cambodia clashes rises to 16 as 120,000 flee border area</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/russian-rocket-launches-iran-satellite-into-space-iranian-media?traffic_source=rss" target="_blank">Russian rocket launches Iran satellite into space: Iranian media</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 04:48</span>
+                <span class="time">2025-07-25 09:28</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Politics/alina-habba_1753406406052_hpMain_4x3t_384.jpg" alt="Trump admin live updates: White House maneuver keeps Habba as top NJ prosecutor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-obama-and-gabbard-rs-c34e0d.jpg" alt="Tulsi Gabbard&#x27;s &#x27;treason&#x27; allegation triggers an Obama world high-wire act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: White House maneuver keeps Habba as top NJ prosecutor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-25 02:20</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-treason-allegation-obama-world-rcna220730" target="_blank">Tulsi Gabbard&#x27;s &#x27;treason&#x27; allegation triggers an Obama world high-wire act</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d8/live/2fd492b0-6917-11f0-af20-030418be2ca5.png" alt="Thailand warns clashes with Cambodia could &#x27;move towards war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5gz03d8no" target="_blank">Thailand warns clashes with Cambodia could &#x27;move towards war&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 08:54</span>
             </div>
         </div>
 </div>
@@ -99,6 +109,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6882a06ec2009ca102007c7d/master/pass/Review-%20Samsung%20Galaxy%20Watch8%20and%20Watch8%20Classic.png" alt="Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/samsung-galaxy-watch8-and-watch8-classic/" target="_blank">Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-500x500.jpg" alt="Lawmakers writing NASA’s budget want a cheaper upper stage for the SLS rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/lawmakers-writing-nasas-budget-want-a-cheaper-upper-stage-for-the-sls-rocket/" target="_blank">Lawmakers writing NASA’s budget want a cheaper upper stage for the SLS rocket</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-25 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/" target="_blank">Google is testing a vibe-coding app called Opal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 11:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6882a95c3776a8a76da3c563/master/pass/2025_EH_VTUBE__DSC6331.jpg" alt="Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real?’ Depends on Who You Ask" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +163,29 @@
                 <span class="time">2025-07-25 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupon and Discount Codes: 76% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nordvpn-coupon/" target="_blank">NordVPN Coupon and Discount Codes: 76% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/" target="_blank">Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias" target="_blank">Paramount-Skydance merger approved after companies agree to government speech demands</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-24 23:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/" target="_blank">433: How to Make a Font that Says Nothing</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-25 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526785&w=600" alt="Modern Data Projects Need Agile Thinking — Not Just Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-management-project" target="_blank">Modern Data Projects Need Agile Thinking — Not Just Tech</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +222,6 @@
                 <span class="time">2025-07-25 08:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/uber-secret-management-platform/en/headerimage/generatedHeaderImage-1753364773585.jpg" alt="Uber Unveils Multi-Cloud Secrets Management Platform to Secure 150,000+ Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/uber-secret-management-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Unveils Multi-Cloud Secrets Management Platform to Secure 150,000+ Credentials</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-25 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/7-image-conversion-mistakes-that-are-killing-your-app-performance-and-how-to-fix-them-1lgd" target="_blank">7 Image Conversion Mistakes That Are Killing Your App Performance (And How to Fix Them)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 07:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -220,19 +230,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/" target="_blank">Phishers Target Aviation Execs to Scam Customers</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-24 17:57</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/subliminal-learning-in-ais.html" target="_blank">Subliminal Learning in AIs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-25 11:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html" target="_blank">How Solid Protocol Restores Digital Agency</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-24 11:04</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/" target="_blank">Phishers Target Aviation Execs to Scam Customers</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-24 17:57</span>
             </div>
         </div>
 </div>
@@ -331,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
