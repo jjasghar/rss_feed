@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 00:05:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-25 01:29:34 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd14/live/8222b300-68ca-11f0-8dbd-f3d32ebd3327.jpg" alt="France will recognise Palestinian state, Macron says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5g4p3245o" target="_blank">France will recognise Palestinian state, Macron says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/todd-blanche-4-abc-gmh-250724_1753364825281_hpMain_4x3t_384.jpg" alt="Longtime Jeffrey Epstein associate Ghislaine Maxwell initiated DOJ meeting: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">Longtime Jeffrey Epstein associate Ghislaine Maxwell initiated DOJ meeting: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-24 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-24 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/1539e560-687a-11f0-89ea-4d6f9851f623.jpg" alt="Starmer pleads with resident doctors to halt strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn5k5w7vrdvo" target="_blank">Starmer pleads with resident doctors to halt strike</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-24 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5478924/trump-epstein-congress" target="_blank">Questions about Epstein files follow lawmakers home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 19:44</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63a6dpgri1sxssazjh6d.jpg" alt="🚀 Starting my journey to master Kotlin!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hitesh_motsra/starting-my-journey-to-master-kotlin-57ki" target="_blank">🚀 Starting my journey to master Kotlin!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 01:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
@@ -203,19 +212,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019" target="_blank">Scientists may have found a way to eliminate chromosome linked to Down syndrome</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-24 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-Seamless-Firmware-Servicing" target="_blank">New AMD Linux Driver Ushers In Seamless Firmware Servicing &quot;SFS&quot;</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-AI-RADV-Potential" target="_blank">Vulkan + Mesa Drivers For AI Inferencing? It&#x27;s Already Showing Potential On Radeon RADV</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 21:58</span>
+                <span class="time">2025-07-24 23:42</span>
             </div>
         </div>
 </div>
@@ -329,7 +329,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:05 UTC
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
