@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 06:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-25 07:03:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0997/live/398a2eb0-68b2-11f0-a7a7-2fa09728ca14.jpg" alt="Streeting vows to keep disruption to a minimum as doctor strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">Streeting vows to keep disruption to a minimum as doctor strike begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 05:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +105,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">Longtime Jeffrey Epstein associate Ghislaine Maxwell initiated DOJ meeting: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-24 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/072425NNHaake-twkfez.jpg" alt="Top DOJ official meets with convicted Epstein accomplice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/top-doj-official-meets-with-convicted-epstein-accomplice-243801157507" target="_blank">Top DOJ official meets with convicted Epstein accomplice</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-24 23:04</span>
             </div>
         </div>
 </div>
@@ -174,6 +181,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff4p62bby2nk8fmjm9bz0.png" alt="Best AI Code Generators You Should Know If You Want To Stay Ahead🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k" target="_blank">Best AI Code Generators You Should Know If You Want To Stay Ahead🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/" target="_blank">Google spoofed via DKIM replay attack: A technical breakdown</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-25 05:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6t0vg37m98uvga2ldwx.gif" alt="What was your win this week?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +223,6 @@
                 <span class="title"><a href="https://dev.to/hitesh_motsra/starting-my-journey-to-master-kotlin-57ki" target="_blank">🚀 Starting my journey to master Kotlin!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simudyne-empowering-stock-exchanges" target="_blank">Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-25 00:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
