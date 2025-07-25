@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 07:03:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 08:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 34 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 07:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/688002f97ccc224839fbb001/master/pass/Age-Checked-Internet-Security-1295026269.jpg" alt="The Age-Checked Internet Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-age-checked-internet-has-arrived/" target="_blank">The Age-Checked Internet Has Arrived</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 06:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupon and Discount Codes: 76% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -157,20 +161,29 @@
                 <span class="time">2025-07-24 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/" target="_blank">How a Y Combinator food delivery app used TikTok to soar in the App Store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/uber-secret-management-platform/en/headerimage/generatedHeaderImage-1753364773585.jpg" alt="Uber Unveils Multi-Cloud Secrets Management Platform to Secure 150,000+ Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/uber-secret-management-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Unveils Multi-Cloud Secrets Management Platform to Secure 150,000+ Credentials</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-25 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/7-image-conversion-mistakes-that-are-killing-your-app-performance-and-how-to-fix-them-1lgd" target="_blank">7 Image Conversion Mistakes That Are Killing Your App Performance (And How to Fix Them)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 07:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-51ja" target="_blank">What was your win this week?!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzck30wof4m4q797286zz.png" alt="Is Qwen3-MT the Game-Changing Translation Model We&#x27;ve Been Waiting For?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m" target="_blank">Is Qwen3-MT the Game-Changing Translation Model We&#x27;ve Been Waiting For?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63a6dpgri1sxssazjh6d.jpg" alt="🚀 Starting my journey to master Kotlin!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hitesh_motsra/starting-my-journey-to-master-kotlin-57ki" target="_blank">🚀 Starting my journey to master Kotlin!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 01:19</span>
             </div>
         </div>
 </div>
@@ -336,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 07:03 UTC
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
