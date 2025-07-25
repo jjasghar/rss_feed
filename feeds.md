@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 02:38:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-25 03:29:20 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 02:38 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 03:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/us-state-department-approves-4-7bn-surface-to-air-missile-package-to-egypt?traffic_source=rss" target="_blank">US State Department approves $4.7bn surface-to-air missile package to Egypt</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 01:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd14/live/8222b300-68ca-11f0-8dbd-f3d32ebd3327.jpg" alt="France will recognise Palestinian state, Macron says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-pushes-powell-on-rates-and-renovation-costs-during-fed-visit-243788869902" target="_blank">Trump pushes Powell on rates and renovation costs during Fed visit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-24 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/todd-blanche-4-abc-gmh-250724_1753364825281_hpMain_4x3t_384.jpg" alt="DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">DOJ met with longtime Jeffrey Epstein associate Ghislaine Maxwell</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 20:12</span>
             </div>
         </div>
 </div>
@@ -158,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzck30wof4m4q797286zz.png" alt="Is Qwen3-MT the Game-Changing Translation Model We&#x27;ve Been Waiting For?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashinno/is-qwen3-mt-the-game-changing-translation-model-weve-been-waiting-for-1k2m" target="_blank">Is Qwen3-MT the Game-Changing Translation Model We&#x27;ve Been Waiting For?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 02:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63a6dpgri1sxssazjh6d.jpg" alt="🚀 Starting my journey to master Kotlin!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/srini_n_ba4ec48b97d1c5383/--4df6" target="_blank">🚀 𝗔𝗪𝗦 𝗦𝘁𝗲𝗽𝘀 𝗜𝗻𝘁𝗼 𝗩𝗶𝗯𝗲 𝗖𝗼𝗱𝗶𝗻𝗴—𝘄𝗶𝘁𝗵 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: 𝗛𝗼𝘄 𝗶𝘁 𝗰𝗼𝗺𝗽𝗮𝗿𝗲𝘀 𝘁𝗼 𝗼𝘁𝗵𝗲𝗿 𝘁𝗼𝗼𝗹𝘀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-24 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Vulkan-AI-RADV-Potential" target="_blank">Vulkan + Mesa Drivers For AI Inferencing? It&#x27;s Already Showing Potential On Radeon RADV</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-24 23:42</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 02:38 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
