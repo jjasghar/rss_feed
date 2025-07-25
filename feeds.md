@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 16:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-25 17:02:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/" target="_blank">A timeline of the US semiconductor market in 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 17:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/250619_StarkDestinationExPyreneesDay4_Tim-Stevens_VARG_EX_@syovanvliet_87935_MR-500x500.jpg" alt="The Stark Varg EX motorbike is an all-terrain, all-electric weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -148,20 +159,20 @@
                 <span class="time">2025-07-25 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/713532/gemini-wear-os-pixel-watch-hands-on" target="_blank">I tried Gemini on the Pixel Watch. Here’s what it’s like</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/euphonica.jpg?resize=406%2C232&amp;ssl=1" alt="Euphonica is a Rust-Powered MPD Client Heavy on Bling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/euphonica-linux-mpd-music-player" target="_blank">Euphonica is a Rust-Powered MPD Client Heavy on Bling</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-25 16:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="time">2025-07-25 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jakearchibald.com/2021/f1-perf-part-3/" target="_blank">Who has the fastest F1 website (2021)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-25 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,12 +247,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Team-Rocket-SDCC-Cosplay-Day-One.jpg" alt="The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-cosplay-gallery-day-1-2000632373" target="_blank">The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 1</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-25 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dbb06a7a48a0fecc962fa6ed5f14921f.jpg" alt="South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/south-park-trump-episode-satan-white-house-response-1851786980" target="_blank">South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-25 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Turn your iPhone into a document-slaying beast for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/turn-your-iphone-into-a-document-slaying-beast-for-25.html" target="_blank">Turn your iPhone into a document-slaying beast for $25</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-25 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -278,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/food-drink/best-ways-clean-air-fryer?utm_medium=RSS" target="_blank">My Favorite Ways to Clean My Air Fryer</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Twisted-Metal-Activation-SDCC.jpg" alt="We Smashed Around While Waiting for ‘Twisted Metal’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/twisted-metal-season-2-activation-sdcc-2025-2000634184" target="_blank">We Smashed Around While Waiting for ‘Twisted Metal’ Season 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-25 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a95bb3c607817402e3bd85f0ed6bdf7d.jpg" alt="Every MCU Movie, Ranked From Worst To Best (Now With Fantastic Four: First Steps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913" target="_blank">Every MCU Movie, Ranked From Worst To Best (Now With Fantastic Four: First Steps)</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-25 13:40</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
