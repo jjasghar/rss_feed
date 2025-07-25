@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 03:29:20 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-25 04:14:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 03:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 04:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6t0vg37m98uvga2ldwx.gif" alt="What was your win this week?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-51ja" target="_blank">What was your win this week?!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzck30wof4m4q797286zz.png" alt="Is Qwen3-MT the Game-Changing Translation Model We&#x27;ve Been Waiting For?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simuldyne: Empowering stock exchanges with AI-driven market simulation</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-07-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb3hce1iw1mvabvkx96ly.png" alt="🚀 𝗔𝗪𝗦 𝗦𝘁𝗲𝗽𝘀 𝗜𝗻𝘁𝗼 𝗩𝗶𝗯𝗲 𝗖𝗼𝗱𝗶𝗻𝗴—𝘄𝗶𝘁𝗵 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: 𝗛𝗼𝘄 𝗶𝘁 𝗰𝗼𝗺𝗽𝗮𝗿𝗲𝘀 𝘁𝗼 𝗼𝘁𝗵𝗲𝗿 𝘁𝗼𝗼𝗹𝘀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/srini_n_ba4ec48b97d1c5383/--4df6" target="_blank">🚀 𝗔𝗪𝗦 𝗦𝘁𝗲𝗽𝘀 𝗜𝗻𝘁𝗼 𝗩𝗶𝗯𝗲 𝗖𝗼𝗱𝗶𝗻𝗴—𝘄𝗶𝘁𝗵 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: 𝗛𝗼𝘄 𝗶𝘁 𝗰𝗼𝗺𝗽𝗮𝗿𝗲𝘀 𝘁𝗼 𝗼𝘁𝗵𝗲𝗿 𝘁𝗼𝗼𝗹𝘀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-24 23:48</span>
             </div>
         </div>
 </div>
@@ -263,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/The-Macrons.-Frederic-Legrand-COMEO-_3Ca-href_3D.jpg?fit=1080%2C779&amp;quality=60&amp;ssl=1" alt="France to recognize Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/24/france-to-recognize-palestinian-state.html" target="_blank">France to recognize Palestinian state</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-24 21:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/Yarygin.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Magic mushrooms reversed aging in mice, human cells live 50% longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -287,15 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/avatar-seven-havens-pavi-earthbender-image-sdcc-panel-1851786934" target="_blank">Here’s Our First Look At The New Avatar Sequel Series Set After Korra</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-24 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/MyPillow-CEO-Mike-Lindell-leans-against-a-fence.jpg" alt="Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/court-rules-mike-lindell-doesnt-have-to-pay-5-million-in-hacked-voting-machine-bet-2000633979" target="_blank">Court Rules Mike Lindell Doesn’t Have to Pay $5 Million in Hacked Voting Machine Bet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-24 20:35</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
