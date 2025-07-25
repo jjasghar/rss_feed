@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 15:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 16:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/2226115906_1753449074982_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump does not rule out pardon for Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Trump does not rule out pardon for Maxwell</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-25 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/can-barack-obama-be-prosecuted-over-russian-interference-intelligence?traffic_source=rss" target="_blank">Can Barack Obama be prosecuted over ‘Russian interference’ intelligence?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 15:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +98,38 @@
                 <span class="time">2025-07-25 11:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/25/why-is-indias-dharmasthala-temple-at-the-centre-of-a-mass-murder-case?traffic_source=rss" target="_blank">Why is India’s Dharmasthala temple at the centre of a mass murder case?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/25/g-s1-79427/up-first-newsletter-trump-federal-reserve-jeffrey-epstein-gaza" target="_blank">Trump and Fed chairman clash over renovation site cost. And, Gaza peace talks stalled</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-25 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/250619_StarkDestinationExPyreneesDay4_Tim-Stevens_VARG_EX_@syovanvliet_87935_MR-500x500.jpg" alt="The Stark Varg EX motorbike is an all-terrain, all-electric weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/the-stark-varg-ex-motorbike-is-an-all-terrain-all-electric-weapon/" target="_blank">The Stark Varg EX motorbike is an all-terrain, all-electric weapon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale" target="_blank">Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-25 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688269f68153b05c7d2a082e/master/pass/Backchannel-Trump-Attack-Woke-AI-2226728177.jpg" alt="Trump’s Anti-Bias AI Order Is Just More Bias" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-ai-order-bias-openai-google/" target="_blank">Trump’s Anti-Bias AI Order Is Just More Bias</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,38 +157,29 @@
                 <span class="time">2025-07-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6882a06ec2009ca102007c7d/master/pass/Review-%20Samsung%20Galaxy%20Watch8%20and%20Watch8%20Classic.png" alt="Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/samsung-galaxy-watch8-and-watch8-classic/" target="_blank">Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-500x500.jpg" alt="Lawmakers writing NASA’s budget want a cheaper upper stage for the SLS rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/lawmakers-writing-nasas-budget-want-a-cheaper-upper-stage-for-the-sls-rocket/" target="_blank">Lawmakers writing NASA’s budget want a cheaper upper stage for the SLS rocket</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-25 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/" target="_blank">Google is testing a vibe-coding app called Opal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 11:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ml318097/knowledgehut-learn-tech-skills-that-get-you-job-ready-fast-mh6" target="_blank">🎓 KnowledgeHut — Learn Tech Skills that Get You Job-Ready, Fast</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526630&w=600" alt="Configuring Embedded Global Cache for App Connect Enterprise Running in Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/configuring-embedded-global-cache-for-app-connect" target="_blank">Configuring Embedded Global Cache for App Connect Enterprise Running in Containers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +216,6 @@
                 <span class="time">2025-07-25 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/windows11key/windows-11-key-explained-activation-licensing-and-best-practices-30m0" target="_blank">Windows 11 Key Explained : Activation, Licensing, and Best Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526838&w=600" alt="Smart-Doc: Generating gRPC API Documentation in Java Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/smart-doc-generate-grpc-api-docs-java" target="_blank">Smart-Doc: Generating gRPC API Documentation in Java Projects</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-25 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dbb06a7a48a0fecc962fa6ed5f14921f.jpg" alt="South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/south-park-trump-episode-satan-white-house-response-1851786980" target="_blank">South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-25 15:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/60668ce2e684d7e9510807472974b7ad.png" alt="So, Is Robert Downey Jr. In Fantastic Four: First Steps As Doctor Doom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,20 +298,29 @@
                 <span class="time">2025-07-25 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/AI-doesnt-know-what-a-judge_2C-a-gavel_2C-or-finger.jpg?fit=1080%2C1080&amp;quality=60&amp;ssl=1" alt="Smell of AI on judge&#x27;s opinion with made-up citations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/smell-of-ai-on-judges-opinion-with-made-up-citations.html" target="_blank">Smell of AI on judge&#x27;s opinion with made-up citations</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753229613-20250726.png" alt="Saturday Morning Breakfast Cereal - Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/long" target="_blank">Saturday Morning Breakfast Cereal - Long</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-25 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/25/choosing-sides" target="_blank">Choosing Sides</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-25 14:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,31 +330,13 @@
                 <span class="time">2025-07-25 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/excuse-me-spider/" target="_blank">Excuse Me, Spider</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-24 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753229445-20250725.png" alt="Saturday Morning Breakfast Cereal - Disjunction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/disjunction" target="_blank">Saturday Morning Breakfast Cereal - Disjunction</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
