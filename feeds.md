@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 21:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 22:01:27 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +110,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/" target="_blank">Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon" target="_blank">DJI couldn’t confirm or deny it disguised this drone to evade a US ban</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-25 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag" target="_blank">Google gets its swag back</a></span>
                 <span class="feed">The Verge</span>
@@ -139,29 +161,29 @@
                 <span class="time">2025-07-25 17:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/25/a-timeline-of-the-u-s-semiconductor-market-in-2025/" target="_blank">A timeline of the US semiconductor market in 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/250619_StarkDestinationExPyreneesDay4_Tim-Stevens_VARG_EX_@syovanvliet_87935_MR-500x500.jpg" alt="The Stark Varg EX motorbike is an all-terrain, all-electric weapon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/the-stark-varg-ex-motorbike-is-an-all-terrain-all-electric-weapon/" target="_blank">The Stark Varg EX motorbike is an all-terrain, all-electric weapon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/squehub_ee83cac6cffe767e7/hello-dev-community-meet-squehub-19dd" target="_blank">🚀 Hello Dev Community — Meet Squehub!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/" target="_blank">It&#x27;s time for modern CSS to kill the SPA</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-25 21:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2025-07-25 18:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus" target="_blank">Vanilla JavaScript support for Tailwind Plus</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-25 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/overcoming-aws-security-alert-fatigue-e28" target="_blank">Overcoming AWS Security Alert Fatigue</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/64560e9b048956d2947c660958dcad7c.jpg" alt="Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dk-bananaza-wheel-world-balatro-vampire-survivors-1851787023" target="_blank">Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-25 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K11F6637NP1RFSJWEX4X3SAC/hero-image.png" alt="I Knew the Viral &#x27;Tea&#x27; App Was Trouble, but I Didn&#x27;t Expect a Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/i-knew-the-viral-tea-app-was-trouble-but-i-didnt-expect-a-data-breach?utm_medium=RSS" target="_blank">I Knew the Viral &#x27;Tea&#x27; App Was Trouble, but I Didn&#x27;t Expect a Data Breach</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-25 21:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/President-Curtis-Image.jpg" alt="‘Rick and Morty’ Is Getting a Presidential Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/25/artist-amy-sherald-cancels-smithsonian-show-after-being-asked-to-remove-painting-of-trans-woman.html" target="_blank">Artist Amy Sherald cancels Smithsonian show after being asked to remove painting of trans woman</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-25 19:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K11EJHF5SNBMH4XXEAG6B07N/hero-image.jpg" alt="Four Things I Already Like About the Galaxy Watch 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/galaxy-watch-8-first-impressions?utm_medium=RSS" target="_blank">Four Things I Already Like About the Galaxy Watch 8</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-25 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/casu-marzu.jpg" alt="Our Neanderthal Cousins Were Big Maggot Eaters, Scientists Argue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-neanderthal-cousins-were-big-maggot-eaters-scientists-argue-2000634466" target="_blank">Our Neanderthal Cousins Were Big Maggot Eaters, Scientists Argue</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-25 18:00</span>
             </div>
         </div>
 </div>
@@ -344,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
