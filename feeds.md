@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 22:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 23:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/donald-trump-set-for-trade-talks-with-europe-as-he-arrives-in-scotland?traffic_source=rss" target="_blank">Donald Trump set for trade talks with Europe as he arrives in Scotland</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5462905/has-the-billboard-hot-100-caught-the-holy-ghost" target="_blank">Has the Billboard Hot 100 caught the Holy Ghost?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-25 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/maxwell-epstein-poster_1753481706315_hpMain_4x3t_384.jpg" alt="Maxwell had limited immunity during meetings with deputy AG: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/deputy-ag-blanche-set-meet-2nd-day-ghislaine/story?id=124064062" target="_blank">Maxwell had limited immunity during meetings with deputy AG: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-25 22:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +98,20 @@
                 <span class="time">2025-07-25 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ae/live/6b123400-6984-11f0-8dbd-f3d32ebd3327.jpg" alt="Almost a third of people in Gaza not eating for days, UN food programme warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgjg81qqwvo" target="_blank">Almost a third of people in Gaza not eating for days, UN food programme warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/uks-starmer-faces-mounting-pressure-to-recognise-palestinian-state?traffic_source=rss" target="_blank">UK’s Starmer faces mounting pressure to recognise Palestinian state</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/25/g-s1-79463/outrageous-dramatizes-the-lives-of-the-mitford-sisters" target="_blank">&#x27;Outrageous&#x27; dramatizes the lives of the Mitford sisters</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-25 18:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/" target="_blank">India bans streaming apps you’ve never heard of — but millions watch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,20 @@
                 <span class="time">2025-07-25 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1318519629-500x500.jpg" alt="Mistral’s new “environmental audit” shows how much AI is hurting the planet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/mistrals-new-environmental-audit-shows-how-much-ai-is-hurting-the-planet/" target="_blank">Mistral’s new “environmental audit” shows how much AI is hurting the planet</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-25 17:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5" target="_blank">Security news weekly round-up - 25th July 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 22:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2025-07-25 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl" target="_blank">Top 5 Python Libraries Every Control Engineer Should Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +245,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/kinkade.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How Thomas Kinkade&#x27;s cottagecore paintings became a blueprint for modern conservative propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/how-thomas-kinkades-cottagecore-paintings-became-a-blueprint-for-modern-conservative-propaganda.html" target="_blank">How Thomas Kinkade&#x27;s cottagecore paintings became a blueprint for modern conservative propaganda</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-25 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ToxicAvenger-2.jpg" alt="The New ‘Toxic Avenger’ Promises Heart Along With All That Goopy Gore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-toxic-avenger-panel-report-elijah-wood-peter-dinklage-2000631628" target="_blank">The New ‘Toxic Avenger’ Promises Heart Along With All That Goopy Gore</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-25 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K11PBPF1F8BV44358DBKT2K3/hero-image.jpg" alt="Coros Watches Just Got a Bunch of New Features I&#x27;ve Wanted for a While" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/coros-watches-new-features?utm_medium=RSS" target="_blank">Coros Watches Just Got a Bunch of New Features I&#x27;ve Wanted for a While</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/64560e9b048956d2947c660958dcad7c.jpg" alt="Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,33 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/sdcc-2025-rick-and-morty-spinoff-president-curtis-keith-david-2000634220" target="_blank">‘Rick and Morty’ Is Getting a Presidential Spin-Off</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-25 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Support.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Digital delusions: The rising phenomenon of AI-induced psychological distress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/digital-delusions-the-rising-phenomenon-of-ai-induced-psychological-distress.html" target="_blank">Digital delusions: The rising phenomenon of AI-induced psychological distress</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Unitree-Introducing-_-Unitree-R1-Intelligent-Companion-Price-from-5900-3.jpeg" alt="You Can Buy This Cartwheeling Humanoid Robot for Less Than Two Apple Vision Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-can-buy-this-cartwheeling-humanoid-robot-for-less-than-two-apple-vision-pros-2000634532" target="_blank">You Can Buy This Cartwheeling Humanoid Robot for Less Than Two Apple Vision Pros</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-25 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/sherald.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Artist Amy Sherald cancels Smithsonian show after being asked to remove painting of trans woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/artist-amy-sherald-cancels-smithsonian-show-after-being-asked-to-remove-painting-of-trans-woman.html" target="_blank">Artist Amy Sherald cancels Smithsonian show after being asked to remove painting of trans woman</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 19:37</span>
             </div>
         </div>
 </div>
@@ -348,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
