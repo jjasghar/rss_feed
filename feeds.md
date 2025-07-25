@@ -1,33 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 13:12:59 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-25 14:02:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +59,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">NHS faces challenging few days during doctors strike, warns Streeting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-25 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/24/03/1920x1080/skynews-gaza-aid_6479479.jpg?20240305141412" alt="Israel allows foreign countries to parachute aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-allows-foreign-countries-to-parachute-aid-into-gaza-13401638" target="_blank">Israel allows foreign countries to parachute aid into Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-25 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +106,6 @@
                 <span class="time">2025-07-25 09:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-obama-and-gabbard-rs-c34e0d.jpg" alt="Tulsi Gabbard&#x27;s &#x27;treason&#x27; allegation triggers an Obama world high-wire act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/tulsi-gabbard-treason-allegation-obama-world-rcna220730" target="_blank">Tulsi Gabbard&#x27;s &#x27;treason&#x27; allegation triggers an Obama world high-wire act</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-samsung-phones/" target="_blank">The Best Samsung Phones of 2025, Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-25 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/gadgets/713532/gemini-wear-os-pixel-watch-hands-on" target="_blank">I tried Gemini on the Pixel Watch. Here’s what it’s like</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-25 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -147,26 +165,35 @@
                 <span class="time">2025-07-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68810b25bd71797a9c9360e5/master/pass/tuvalu.jpg" alt="The First Planned Migration of an Entire Country Is Underway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/" target="_blank">The First Planned Migration of an Entire Country Is Underway</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxopguqyqovjzf9kj6tg.jpg" alt="How AI is Changing Mobile and Web Apps?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alberthiltonn/how-ai-is-changing-mobile-and-web-apps-2e43" target="_blank">How AI is Changing Mobile and Web Apps?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 13:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/windows11key/windows-11-key-explained-activation-licensing-and-best-practices-30m0" target="_blank">Windows 11 Key Explained : Activation, Licensing, and Best Practices</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526838&w=600" alt="Smart-Doc: Generating gRPC API Documentation in Java Projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/smart-doc-generate-grpc-api-docs-java" target="_blank">Smart-Doc: Generating gRPC API Documentation in Java Projects</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-25 13:00</span>
             </div>
         </div>
@@ -195,24 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/data-management-project" target="_blank">Modern Data Projects Need Agile Thinking — Not Just Tech</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-25 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ayn-Handhelds-Linux-Driver" target="_blank">Ayn Gaming Handhelds To See Better Linux Support With New Open-Source Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-25 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxs96dbee0map14sidf4.png" alt="How to Change Hostname on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l" target="_blank">How to Change Hostname on Linux</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 09:49</span>
             </div>
         </div>
 </div>
@@ -244,6 +253,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Twisted-Metal-Activation-SDCC.jpg" alt="We Smashed Around While Waiting for ‘Twisted Metal’ Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/twisted-metal-season-2-activation-sdcc-2025-2000634184" target="_blank">We Smashed Around While Waiting for ‘Twisted Metal’ Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-25 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a95bb3c607817402e3bd85f0ed6bdf7d.jpg" alt="Every MCU Movie, Ranked From Worst To Best (Now With Fantastic Four: First Steps)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913" target="_blank">Every MCU Movie, Ranked From Worst To Best (Now With Fantastic Four: First Steps)</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-25 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/AI-doesnt-know-what-a-judge_2C-a-gavel_2C-or-finger.jpg?fit=1080%2C1080&amp;quality=60&amp;ssl=1" alt="Smell of AI on judge&#x27;s opinion with made-up citations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/smell-of-ai-on-judges-opinion-with-made-up-citations.html" target="_blank">Smell of AI on judge&#x27;s opinion with made-up citations</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-25 12:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/teufelmynd.jpg" alt="This Ultra-Repairable Bluetooth Speaker Addresses the Ugliest Part of Consumer Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,33 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/24/france-to-recognize-palestinian-state.html" target="_blank">France to recognize Palestinian state</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-24 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/Yarygin.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Magic mushrooms reversed aging in mice, human cells live 50% longer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/24/magic-mushrooms-reversed-aging-in-mice-human-cells-live-50-longer.html" target="_blank">Magic mushrooms reversed aging in mice, human cells live 50% longer</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-24 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0YZMZCB2RSV9R0CT6SFPKPX/hero-image.png" alt="Here&#x27;s How iOS 26 Will Save You From Scam Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ios-26-scam-text-filter?utm_medium=RSS" target="_blank">Here&#x27;s How iOS 26 Will Save You From Scam Texts</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-24 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0696b01ca39c66e003c84790a03f6abb.jpg" alt="Here’s Our First Look At The New Avatar Sequel Series Set After Korra" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/avatar-seven-havens-pavi-earthbender-image-sdcc-panel-1851786934" target="_blank">Here’s Our First Look At The New Avatar Sequel Series Set After Korra</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-24 20:43</span>
             </div>
         </div>
 </div>
@@ -334,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
