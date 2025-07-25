@@ -1,27 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 09:03:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 10:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/russian-rocket-launches-iran-satellite-into-space-iranian-media?traffic_source=rss" target="_blank">Russian rocket launches Iran satellite into space: Iranian media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 09:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/730ba570-693d-11f0-839d-3fa73d07d9bd.jpg" alt="Streeting vows to keep disruption to a minimum as England doctor strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">Streeting vows to keep disruption to a minimum as England doctor strike begins</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 08:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +106,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: White House maneuver keeps Habba as top NJ prosecutor</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-25 02:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/us-state-department-approves-4-7bn-surface-to-air-missile-package-to-egypt?traffic_source=rss" target="_blank">US State Department approves $4.7bn surface-to-air missile package to Egypt</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd14/live/8222b300-68ca-11f0-8dbd-f3d32ebd3327.jpg" alt="France will recognise Palestinian state, Macron says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg5g4p3245o" target="_blank">France will recognise Palestinian state, Macron says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 01:19</span>
             </div>
         </div>
 </div>
@@ -156,6 +173,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxs96dbee0map14sidf4.png" alt="How to Change Hostname on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/serveravatar/how-to-change-hostname-on-linux-412l" target="_blank">How to Change Hostname on Linux</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/google-apigee-llm-model-armor/en/headerimage/google-apigee-llm-model-header-1753257544106.jpg" alt="Google Apigee Adds Built-in LLM Governance with Model Armor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Apigee Adds Built-in LLM Governance with Model Armor</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk66gki4i91jqsap0is9f.png" alt="Introduction to Grafana Cloud &amp; Account Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,24 +224,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/" target="_blank">Saving the world with speed and at scale</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-25 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff4p62bby2nk8fmjm9bz0.png" alt="Best AI Code Generators You Should Know If You Want To Stay Ahead🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_kiran/best-ai-code-generators-you-should-know-if-you-want-to-stay-ahead-252k" target="_blank">Best AI Code Generators You Should Know If You Want To Stay Ahead🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/" target="_blank">Google spoofed via DKIM replay attack: A technical breakdown</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-25 05:28</span>
             </div>
         </div>
 </div>
@@ -299,6 +316,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/25/choosing-sides" target="_blank">Choosing Sides</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-25 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/excuse-me-spider/" target="_blank">Excuse Me, Spider</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -319,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
