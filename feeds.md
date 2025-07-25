@@ -1,28 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 19:02:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-25 20:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 9 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5480226/trump-school-funding-grants" target="_blank">Education Department says it&#x27;s releasing more than $5 billion in frozen grants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-25 19:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ae/live/6b123400-6984-11f0-8dbd-f3d32ebd3327.jpg" alt="Almost a third of people in Gaza not eating for days, UN food programme warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +93,20 @@
                 <span class="time">2025-07-25 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/can-barack-obama-be-prosecuted-over-russian-interference-intelligence?traffic_source=rss" target="_blank">Can Barack Obama be prosecuted over ‘Russian interference’ intelligence?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag" target="_blank">Google gets its swag back</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-25 19:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6883b6b3961105cb77fcf550/master/pass/live_katie_drummond_bryan_johnson.jpg" alt="Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +152,20 @@
                 <span class="time">2025-07-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale" target="_blank">Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-25 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi38jccgynyvccfuq4yy7.png" alt="Zeigarnik Effect (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koshirok096/zeigarnik-effect-bite-size-article-4mh1" target="_blank">Zeigarnik Effect (Bite-size Article)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,10 +178,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus" target="_blank">Vanilla JavaScript support for Tailwind Plus</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-25 18:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/overcoming-aws-security-alert-fatigue-e28" target="_blank">Overcoming AWS Security Alert Fatigue</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/" target="_blank">How to build secure and scalable remote MCP servers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-25 17:12</span>
             </div>
         </div>
 <div class="story">
@@ -181,33 +209,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/euphonica-linux-mpd-music-player" target="_blank">Euphonica is a Rust-Powered MPD Client Heavy on Bling</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-25 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ml318097/knowledgehut-learn-tech-skills-that-get-you-job-ready-fast-mh6" target="_blank">🎓 KnowledgeHut — Learn Tech Skills that Get You Job-Ready, Fast</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526630&w=600" alt="Configuring Embedded Global Cache for App Connect Enterprise Running in Containers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/configuring-embedded-global-cache-for-app-connect" target="_blank">Configuring Embedded Global Cache for App Connect Enterprise Running in Containers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/clear-linux-48p-ubuntu" target="_blank">Final Benchmarks Of Clear Linux On Intel: ~48% Faster Than Ubuntu Out-Of-The-Box</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-25 14:52</span>
             </div>
         </div>
 </div>
@@ -229,6 +230,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Unitree-Introducing-_-Unitree-R1-Intelligent-Companion-Price-from-5900-3.jpeg" alt="You Can Buy This Cartwheeling Humanoid Robot for Less Than Two Apple Vision Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-can-buy-this-cartwheeling-humanoid-robot-for-less-than-two-apple-vision-pros-2000634532" target="_blank">You Can Buy This Cartwheeling Humanoid Robot for Less Than Two Apple Vision Pros</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-25 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/sherald.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="Artist Amy Sherald cancels Smithsonian show after being asked to remove painting of trans woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/artist-amy-sherald-cancels-smithsonian-show-after-being-asked-to-remove-painting-of-trans-woman.html" target="_blank">Artist Amy Sherald cancels Smithsonian show after being asked to remove painting of trans woman</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-25 19:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K11EJHF5SNBMH4XXEAG6B07N/hero-image.jpg" alt="Four Things I Already Like About the Galaxy Watch 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/galaxy-watch-8-first-impressions?utm_medium=RSS" target="_blank">Four Things I Already Like About the Galaxy Watch 8</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-25 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/casu-marzu.jpg" alt="Our Neanderthal Cousins Were Big Maggot Eaters, Scientists Argue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -254,33 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/sdcc-2025-cosplay-gallery-day-1-2000632373" target="_blank">The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 1</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-25 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dbb06a7a48a0fecc962fa6ed5f14921f.jpg" alt="South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/south-park-trump-episode-satan-white-house-response-1851786980" target="_blank">South Park Hit Trump Where It Hurts: In His Tiny, Shriveled Ego</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-25 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/iScanner-App.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Turn your iPhone into a document-slaying beast for $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/turn-your-iphone-into-a-document-slaying-beast-for-25.html" target="_blank">Turn your iPhone into a document-slaying beast for $25</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/60668ce2e684d7e9510807472974b7ad.png" alt="So, Is Robert Downey Jr. In Fantastic Four: First Steps As Doctor Doom?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fantastic-four-first-steps-doctor-doom-post-credits-rdj-1851786982" target="_blank">So, Is Robert Downey Jr. In Fantastic Four: First Steps As Doctor Doom?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-25 14:53</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
