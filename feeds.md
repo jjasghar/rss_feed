@@ -1,38 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 08:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-25 09:03:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5479681/france-palestine-statehood-macron-israel" target="_blank">French President Macron says France will recognize Palestine as a state</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-25 05:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0997/live/398a2eb0-68b2-11f0-a7a7-2fa09728ca14.jpg" alt="Streeting vows to keep disruption to a minimum as doctor strike begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +91,20 @@
                 <span class="time">2025-07-25 01:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/todd-blanche-4-abc-gmh-250724_1753364825281_hpMain_4x3t_384.jpg" alt="Longtime Jeffrey Epstein associate Ghislaine Maxwell initiated DOJ meeting: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/doj-meeting-ghislaine-maxwell-set-thursday-sources/story?id=124021785" target="_blank">Longtime Jeffrey Epstein associate Ghislaine Maxwell initiated DOJ meeting: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-24 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68810b25bd71797a9c9360e5/master/pass/tuvalu.jpg" alt="The First Planned Migration of an Entire Country Is Underway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/" target="_blank">The First Planned Migration of an Entire Country Is Underway</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688002f97ccc224839fbb001/master/pass/Age-Checked-Internet-Security-1295026269.jpg" alt="The Age-Checked Internet Has Arrived" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +150,20 @@
                 <span class="time">2025-07-24 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/" target="_blank">How a Y Combinator food-delivery app used TikTok to soar in the App Store</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk66gki4i91jqsap0is9f.png" alt="Introduction to Grafana Cloud &amp; Account Creation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srinivasuluparanduru/introduction-to-grafana-cloud-account-creation-514" target="_blank">Introduction to Grafana Cloud &amp; Account Creation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 08:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/uber-secret-management-platform/en/headerimage/generatedHeaderImage-1753364773585.jpg" alt="Uber Unveils Multi-Cloud Secrets Management Platform to Secure 150,000+ Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +207,6 @@
                 <span class="title"><a href="https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/" target="_blank">Google spoofed via DKIM replay attack: A technical breakdown</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-25 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6t0vg37m98uvga2ldwx.gif" alt="What was your win this week?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-51ja" target="_blank">What was your win this week?!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 04:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
