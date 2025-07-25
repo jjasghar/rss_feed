@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 05:06:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 06:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 05:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/death-toll-in-thai-cambodia-clashes-rises-to-16-as-120000-flee-border-area?traffic_source=rss" target="_blank">Death toll in Thai-Cambodia clashes rises to 16 as 120,000 flee border area</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-25 04:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/alina-habba_1753406406052_hpMain_4x3t_384.jpg" alt="Trump admin live updates: White House maneuver keeps Habba as top NJ prosecutor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: White House maneuver keeps Habba as top NJ prosecutor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-25 02:20</span>
             </div>
         </div>
 <div class="story">
@@ -81,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/072425NNHaake-twkfez.jpg" alt="Top DOJ official meets with convicted Epstein accomplice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5479173/europe-iran-talks-istanbul" target="_blank">European countries are set for Iran talks, but expectations for a breakthrough are low</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-hunger_6972406.jpg?20250724104931" alt="British surgeon claims IDF shooting Gazans in specific areas - &#x27;almost like a game of target practice&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/almost-like-a-game-of-target-practice-british-surgeon-says-idf-shooting-gazans-at-aid-points-13401434" target="_blank">British surgeon claims IDF shooting Gazans in specific areas - &#x27;almost like a game of target practice&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-24 21:56</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/top-doj-official-meets-with-convicted-epstein-accomplice-243801157507" target="_blank">Top DOJ official meets with convicted Epstein accomplice</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-24 23:04</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/25/saving-the-world-with-speed-and-at-scale/" target="_blank">Saving the world with speed and at scale</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-25 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa6t0vg37m98uvga2ldwx.gif" alt="What was your win this week?!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +214,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simudyne: Empowering stock exchanges with AI-driven market simulation</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-07-25 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-and-simuldyne-empowering-stock-exchanges" target="_blank">Red Hat and Simuldyne: Empowering stock exchanges with AI-driven market simulation</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-07-25 00:00</span>
             </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
