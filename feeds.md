@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 18:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 19:02:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ae/live/6b123400-6984-11f0-8dbd-f3d32ebd3327.jpg" alt="Almost a third of people in Gaza not eating for days, UN food programme warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgjg81qqwvo" target="_blank">Almost a third of people in Gaza not eating for days, UN food programme warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/uks-starmer-faces-mounting-pressure-to-recognise-palestinian-state?traffic_source=rss" target="_blank">UK’s Starmer faces mounting pressure to recognise Palestinian state</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/25/g-s1-79463/outrageous-dramatizes-the-lives-of-the-mitford-sisters" target="_blank">&#x27;Outrageous&#x27; dramatizes the lives of the Mitford sisters</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-25 18:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c89d/live/4c02c1d0-6973-11f0-8dbd-f3d32ebd3327.jpg" alt="220 MPs call for Starmer to recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +92,29 @@
                 <span class="time">2025-07-25 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/us-military-says-it-has-killed-senior-isil-isis-leader-in-syrias-aleppo?traffic_source=rss" target="_blank">US military says it has killed senior ISIL (ISIS) leader in Syria’s Aleppo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c2/live/62a2f5c0-695c-11f0-af20-030418be2ca5.jpg" alt="&#x27;All the people are hungry&#x27;: Voices from Gaza on desperate lack of food" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/c4g8gy52dwgo" target="_blank">&#x27;All the people are hungry&#x27;: Voices from Gaza on desperate lack of food</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/730ba570-693d-11f0-839d-3fa73d07d9bd.jpg" alt="NHS faces challenging few days during doctors strike, warns Streeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0epel8gd49o" target="_blank">NHS faces challenging few days during doctors strike, warns Streeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-25 12:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6883b6b3961105cb77fcf550/master/pass/live_katie_drummond_bryan_johnson.jpg" alt="Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/" target="_blank">Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2207302392-500x500-1753464900.jpg" alt="Delta’s AI spying to “jack up” prices must be banned, lawmakers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/deltas-ai-spying-to-jack-up-prices-must-be-banned-lawmakers-say/" target="_blank">Delta’s AI spying to “jack up” prices must be banned, lawmakers say</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-25 18:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1318519629-500x500.jpg" alt="Mistral’s new “environmental audit” shows how much AI is hurting the planet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,29 +151,20 @@
                 <span class="time">2025-07-25 15:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688269f68153b05c7d2a082e/master/pass/Backchannel-Trump-Attack-Woke-AI-2226728177.jpg" alt="Trump’s Anti-Bias AI Order Is Just More Bias" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-ai-order-bias-openai-google/" target="_blank">Trump’s Anti-Bias AI Order Is Just More Bias</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/" target="_blank">Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dumboprogrammer/top-5-python-libraries-every-control-engineer-should-know-3ejl" target="_blank">Top 5 Python Libraries Every Control Engineer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +208,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/clear-linux-48p-ubuntu" target="_blank">Final Benchmarks Of Clear Linux On Intel: ~48% Faster Than Ubuntu Out-Of-The-Box</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-25 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18526874&w=600" alt="CI/CD at Scale: Smarter Pipelines for Monorepo Mayhem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ci-cd-at-scale-smarter-pipelines-for-monorepos" target="_blank">CI/CD at Scale: Smarter Pipelines for Monorepo Mayhem</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-25 14:00</span>
             </div>
         </div>
 </div>
@@ -338,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
