@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 17:02:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 18:01:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c89d/live/4c02c1d0-6973-11f0-8dbd-f3d32ebd3327.jpg" alt="220 MPs call for Starmer to recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx202zvygmlo" target="_blank">220 MPs call for Starmer to recognise Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-25 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/2226115906_1753449074982_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump does not rule out pardon for Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2025-07-25 12:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/24/03/1920x1080/skynews-gaza-aid_6479479.jpg?20240305141412" alt="Israel allows foreign countries to parachute aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-allows-foreign-countries-to-parachute-aid-into-gaza-13401638" target="_blank">Israel allows foreign countries to parachute aid into Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-25 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1318519629-500x500.jpg" alt="Mistral’s new “environmental audit” shows how much AI is hurting the planet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/mistrals-new-environmental-audit-shows-how-much-ai-is-hurting-the-planet/" target="_blank">Mistral’s new “environmental audit” shows how much AI is hurting the planet</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-25 17:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,20 @@
                 <span class="time">2025-07-25 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683112d5fd04b44f214442b6/master/pass/Samsung%20Galaxy%20S25%20Edge.png" alt="The Best Samsung Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-phones/" target="_blank">The Best Samsung Phones of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/overcoming-aws-security-alert-fatigue-e28" target="_blank">Overcoming AWS Security Alert Fatigue</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 17:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/euphonica.jpg?resize=406%2C232&amp;ssl=1" alt="Euphonica is a Rust-Powered MPD Client Heavy on Bling" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2025-07-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faxopguqyqovjzf9kj6tg.jpg" alt="How AI is Changing Mobile and Web Apps?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alberthiltonn/how-ai-is-changing-mobile-and-web-apps-2e43" target="_blank">How AI is Changing Mobile and Web Apps?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,20 +233,29 @@
                 <span class="time">2025-07-25 11:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/" target="_blank">Phishers Target Aviation Execs to Scam Customers</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-24 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/casu-marzu.jpg" alt="Our Neanderthal Cousins Were Big Maggot Eaters, Scientists Argue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-neanderthal-cousins-were-big-maggot-eaters-scientists-argue-2000634466" target="_blank">Our Neanderthal Cousins Were Big Maggot Eaters, Scientists Argue</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f65bcb80b32652289b4d2b9e81b34570.jpg" alt="Fallout Director Is Producing A Wolfenstein Series For Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fallout-tv-show-wolfenstein-jonah-nolan-amazon-nazis-1851786995" target="_blank">Fallout Director Is Producing A Wolfenstein Series For Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-25 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Team-Rocket-SDCC-Cosplay-Day-One.jpg" alt="The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +292,6 @@
                 <span class="time">2025-07-25 14:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/Chuck-E.-Cheeses-sign-John-Oliver-JHVEPhoto-Shutterstock.com_.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Chuck E. Cheese escorted from restaurant by cops and charged with fraud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/chuck-e-cheese-escorted-from-restaurant-by-cops-and-charged-with-fraud.html" target="_blank">Chuck E. Cheese escorted from restaurant by cops and charged with fraud</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K10YD2CQ1WW64XJF23YVYPS0/hero-image.jpg" alt="My Favorite Ways to Clean My Air Fryer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/food-drink/best-ways-clean-air-fryer?utm_medium=RSS" target="_blank">My Favorite Ways to Clean My Air Fryer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,6 +304,15 @@
                 <span class="title"><a href="https://www.smbc-comics.com/comic/long" target="_blank">Saturday Morning Breakfast Cereal - Long</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
                 <span class="time">2025-07-25 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/25/choosing-sides" target="_blank">Jerry Didn&#x27;t Name This</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-25 14:31</span>
             </div>
         </div>
 <div class="story">
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
