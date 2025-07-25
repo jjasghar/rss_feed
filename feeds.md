@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 04:14:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-25 05:06:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 04:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, July 25, 2025 - 05:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/death-toll-in-thai-cambodia-clashes-rises-to-16-as-120000-flee-border-area?traffic_source=rss" target="_blank">Death toll in Thai-Cambodia clashes rises to 16 as 120,000 flee border area</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-25 04:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-hunger_6972406.jpg?20250724104931" alt="British surgeon claims IDF shooting Gazans in specific areas - &#x27;almost like a game of target practice&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/24/nx-s1-5479139/trump-homelessness-executive-order-civil-commitment-camping" target="_blank">Trump signs an executive order making it easier to remove homeless people from streets</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-24 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753388819274_now_mtp_powell_trump_250724_1920x1080-l6mbtk.jpg" alt="Trump pushes Powell on rates and renovation costs during Fed visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-pushes-powell-on-rates-and-renovation-costs-during-fed-visit-243788869902" target="_blank">Trump pushes Powell on rates and renovation costs during Fed visit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-24 20:27</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/almost-like-a-game-of-target-practice-british-surgeon-says-idf-shooting-gazans-at-aid-points-13401434" target="_blank">British surgeon claims IDF shooting Gazans in specific areas - &#x27;almost like a game of target practice&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-24 21:56</span>
             </div>
         </div>
 </div>
@@ -105,6 +103,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" alt="NordVPN Coupon and Discount Codes: 76% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nordvpn-coupon/" target="_blank">NordVPN Coupon and Discount Codes: 76% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/24/amid-increased-momentum-for-defense-the-nato-innovation-fund-refreshes-its-investment-team/" target="_blank">Amid increased momentum for defense, the NATO Innovation Fund refreshes its investment team</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 04:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/" target="_blank">How a Y Combinator food delivery app used TikTok to soar in the App Store</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-24 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687fcfbfcc34f84ebcc01ab6/master/pass/STEAM-Remove-ornographic-Games-Culture-1659833597.jpg" alt="Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#x27;s a Slippery Slope to More Censorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/" target="_blank">Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#x27;s a Slippery Slope to More Censorship</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-24 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/24/intel-continues-to-pull-back-on-its-manufacturing-projects/" target="_blank">Intel continues to pull back on its manufacturing projects</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-24 21:59</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
