@@ -1,25 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 08:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-26 09:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 17 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723d/live/7ad10d50-69a0-11f0-8dbd-f3d32ebd3327.jpg" alt="UK working to get aid dropped into Gaza, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5v5568mzro" target="_blank">UK working to get aid dropped into Gaza, Starmer says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-26 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79686/taiwan-votes-oust-lawmakers" target="_blank">Taiwan votes to decide whether to oust lawmakers from China-friendly party</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 05:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr5v5568mzro" target="_blank">Starmer suggests UK will play role in new Gaza aid air drops</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-26 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/polls-open-in-taiwans-key-recall-election-closely-watched-by-china?traffic_source=rss" target="_blank">Polls open in Taiwan’s key ‘recall election’ closely watched by China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-RFK-aa-355-d60821.jpg" alt="RFK Jr. considering firing all the members of the preventive services task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/cancer/rfk-jr-considering-firing-task-force-cancer-screening-rcna221188" target="_blank">RFK Jr. considering firing all the members of the preventive services task force</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-25 22:46</span>
             </div>
         </div>
 </div>
@@ -326,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
