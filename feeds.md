@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 02:35:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-26 03:28:35 UTC -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 02:35 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-nasser_6974083.jpg?20250726033037" alt="25% of young children and pregnant women malnourished in Gaza, charity says, as PM vows to fly critical medical cases to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/25-of-young-children-and-pregnant-women-malnourished-in-gaza-charity-says-as-pm-vows-to-fly-critical-medical-cases-to-uk-13401950" target="_blank">25% of young children and pregnant women malnourished in Gaza, charity says, as PM vows to fly critical medical cases to UK</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-26 02:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723d/live/7ad10d50-69a0-11f0-8dbd-f3d32ebd3327.jpg" alt="Starmer suggests UK will play role in new Gaza aid air drops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5462905/has-the-billboard-hot-100-caught-the-holy-ghost" target="_blank">Has the Billboard Hot 100 caught the Holy Ghost?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-25 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/maxwell-epstein-poster_1753481706315_hpMain_4x3t_384.jpg" alt="Maxwell had limited immunity during meetings with deputy AG: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/deputy-ag-blanche-set-meet-2nd-day-ghislaine/story?id=124064062" target="_blank">Maxwell had limited immunity during meetings with deputy AG: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-25 22:16</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5n4eefup9j8tizyxpxnz.png" alt="The Rise of Evaluation-as-a-Service (EaaS): Is It the Future of AI Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anil_csimplifyit_905c/the-rise-of-evaluation-as-a-service-eaas-is-it-the-future-of-ai-testing-2i9l" target="_blank">The Rise of Evaluation-as-a-Service (EaaS): Is It the Future of AI Testing?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 03:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://idiallo.com/blog/dont-download-apps" target="_blank">Do not download the app, use the website</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-25 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/squehub_ee83cac6cffe767e7/hello-dev-community-meet-squehub-19dd" target="_blank">🚀 Hello Dev Community — Meet Squehub!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 21:56</span>
             </div>
         </div>
 </div>
@@ -343,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 02:35 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
