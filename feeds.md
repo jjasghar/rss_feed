@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 19:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-26 20:01:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250726-Ghislaine-Maxwell-ch-1116-0fd319.jpg" alt="Ghislaine Maxwell&#x27;s meetings with Justice Department shrouded in secrecy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/ghislaine-maxwell-justice-department-meetings-rcna221240" target="_blank">Ghislaine Maxwell&#x27;s meetings with Justice Department shrouded in secrecy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-26 19:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/26/g-s1-79083/pepfar-hiv-aids-rescission" target="_blank">PEPFAR escaped the rescission ax. But where does it stand?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-26 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/26/nx-s1-5480717/venus-williams-health-insurance-cobra-aca-fibroids-tennis" target="_blank">Even megastars like Venus Williams get the health insurance blues</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 12:24</span>
             </div>
         </div>
 </div>
@@ -169,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/screenshot-desktop.png" alt="Hybrid Intrane -Modern PWA Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/paulo_abbcba03b4df70572fc/hybrid-intrane-modern-pwa-dashboard-4e08" target="_blank">Hybrid Intrane -Modern PWA Dashboard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 19:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/edalves/as-heuristicas-de-nielsen-41p0" target="_blank">As Heurísticas de Nielsen</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5 by Agner Fog</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-26 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/aditya_007/holistic-webdev-office-space-32gg" target="_blank">Holistic Webdev: Office Space</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Adreno-IFPC" target="_blank">Qualcomm Prepares IFPC Feature For Adreno X1-85 GPU With The Snapdragon X Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-26 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdjpknnery159cpbsg93.png" alt="MCP Servers That I Use as a Technical Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6" target="_blank">MCP Servers That I Use as a Technical Founder</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 15:54</span>
             </div>
         </div>
 </div>
@@ -314,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
