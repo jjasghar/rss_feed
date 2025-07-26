@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 16:01:38 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-26 17:01:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 16:01 UTC</div>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/pakistan-issues-glacial-floods-alert-for-northwest-heavy-rain-forecast?traffic_source=rss" target="_blank">Pakistan issues glacial floods alert for northwest, heavy rain forecast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-26 16:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/house-democrats-seek-birthday-book-epstein-estate/story?id=124089860" target="_blank">House Democrats seek &#x27;birthday book&#x27; from Epstein estate</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-26 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250724-tulsi-gabbard-ac-415p-68108f.jpg" alt="Gabbard and White House &#x27;lying&#x27; about intel on Russian interference in 2016, ex-CIA official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/gabbard-white-house-lying-intel-russian-interference-2016-ex-cia-offic-rcna220870" target="_blank">Gabbard and White House &#x27;lying&#x27; about intel on Russian interference in 2016, ex-CIA official says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-26 09:00</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsk8pdncdqpufgej20wo.png" alt="Holistic Webdev: Office Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aditya_007/holistic-webdev-office-space-32gg" target="_blank">Holistic Webdev: Office Space</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-Adreno-IFPC" target="_blank">Qualcomm Prepares IFPC Feature For Adreno X1-85 GPU With The Snapdragon X Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-26 16:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdjpknnery159cpbsg93.png" alt="MCP Servers That I Use as a Technical Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +220,6 @@
                 <span class="time">2025-07-26 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dangote/making-react-apps-delightful-with-confetti-effects-1ag5" target="_blank">Making React Apps Delightful with Confetti Effects</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="New RVA23 RISC-V Chips are Coming Sooner than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-risc-v-rva23-hardware-coming-soon" target="_blank">New RVA23 RISC-V Chips are Coming Sooner than You Think</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-26 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-cosplay-day-2-.jpg" alt="The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-cosplay-gallery-day-2-fantastic-four-2000634903" target="_blank">The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-26 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Alien-vs-Predator-SDCC.jpg" alt="It Sure Sounds Like ‘Alien Vs. Predator’ May Return In the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,13 +293,18 @@
                 <span class="time">2025-07-26 10:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-SDCC.jpg" alt="‘Predator: Badlands’ Just Feasted on Its Comic-Con Audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1753229703-20250727.png" alt="Saturday Morning Breakfast Cereal - Lesson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-hall-h-sdcc-2025-2000632175" target="_blank">‘Predator: Badlands’ Just Feasted on Its Comic-Con Audience</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-26 00:45</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/lesson" target="_blank">Saturday Morning Breakfast Cereal - Lesson</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-26 15:20</span>
             </div>
         </div>
 </div>
@@ -296,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
