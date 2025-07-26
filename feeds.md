@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 11:01:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-26 12:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 12:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/26/nx-s1-5471472/we-are-being-driven-from-the-land-after-a-massacre-a-nigerian-village-buries-its-dead" target="_blank">&#x27;We are being driven from the land&#x27; - after a massacre, a Nigerian village buries its dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/robert-garcia_1753497902455_hpMain_4x3t_384.jpg" alt="House Democrats seek &#x27;birthday book&#x27; from Epstein estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-democrats-seek-birthday-book-epstein-estate/story?id=124089860" target="_blank">House Democrats seek &#x27;birthday book&#x27; from Epstein estate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-26 10:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250724-tulsi-gabbard-ac-415p-68108f.jpg" alt="Gabbard and White House &#x27;lying&#x27; about intel on Russian interference in 2016, ex-CIA official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +101,20 @@
                 <span class="time">2025-07-26 05:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-nasser_6974083.jpg?20250726033037" alt="25% of young children now malnourished in Gaza, charity says, as PM vows to evacuate &#x27;critical&#x27; medical cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/25-of-young-children-and-pregnant-women-malnourished-in-gaza-charity-says-as-pm-vows-to-fly-critical-medical-cases-to-uk-13401950" target="_blank">25% of young children now malnourished in Gaza, charity says, as PM vows to evacuate &#x27;critical&#x27; medical cases</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-26 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-nasser_6974083.jpg?20250726033037" alt="25% of young children and pregnant women malnourished in Gaza, charity says, as PM vows to fly critical medical cases to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/25-of-young-children-and-pregnant-women-malnourished-in-gaza-charity-says-as-pm-vows-to-fly-critical-medical-cases-to-uk-13401950" target="_blank">25% of young children and pregnant women malnourished in Gaza, charity says, as PM vows to fly critical medical cases to UK</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-26 02:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop" target="_blank">Inside the struggle to create a cozy Lord of the Rings game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68827c59b145fbf132c29b3b/master/pass/bbqknives.jpg" alt="Do You Need a Barbecue Knife?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +160,29 @@
                 <span class="time">2025-07-25 22:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/25/india-bans-streaming-apps-youve-never-heard-of-but-millions-watch/" target="_blank">India bans streaming apps you’ve never heard of — but millions watch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 22:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-8.0-Coming-Soon" target="_blank">FFmpeg 8.0 Preparing For Release In August With Many Great Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-26 11:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/" target="_blank">Rust on Every GPU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-26 10:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +219,6 @@
                 <span class="time">2025-07-26 04:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.5-Low-Printer-Ink" target="_blank">KDE Plasma 6.5 Adds Notifications For Low Printer Ink Levels</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-26 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5n4eefup9j8tizyxpxnz.png" alt="The Rise of Evaluation-as-a-Service (EaaS): Is It the Future of AI Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anil_csimplifyit_905c/the-rise-of-evaluation-as-a-service-eaas-is-it-the-future-of-ai-testing-2i9l" target="_blank">The Rise of Evaluation-as-a-Service (EaaS): Is It the Future of AI Testing?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 03:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +231,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html" target="_blank">Friday Squid Blogging: Stable Quasi-Isodynamic Designs</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-07-25 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/subliminal-learning-in-ais.html" target="_blank">Subliminal Learning in AIs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-25 11:10</span>
             </div>
         </div>
 </div>
@@ -339,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 12:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
