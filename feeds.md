@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 13:10:22 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-26 14:01:24 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,9 +106,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students" target="_blank">Here are the laptops I’d tell any parent to consider for their back-to-school student</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688444d05a0da0f7516f91f9/master/pass/Review%20(2025)-%20CookUnity%20Prepared%20Meals.png" alt="CookUnity Prepared Meal Delivery Review (2025): Chef-Centric Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/cookunity-prepared-meal-delivery/" target="_blank">CookUnity Prepared Meal Delivery Review (2025): Chef-Centric Meals</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-26 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop" target="_blank">Inside the struggle to create a cozy Lord of the Rings game</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-26 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/us-china-flags-500x500-1747063498.jpg" alt="Microsoft to stop using China-based teams to support Department of Defense" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/microsoft-to-stop-using-china-based-teams-to-support-department-of-defense/" target="_blank">Microsoft to stop using China-based teams to support Department of Defense</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-26 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -127,33 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/07/after-blacksuit-is-taken-down-new-ransomware-group-chaos-emerges/" target="_blank">After BlackSuit is taken down, new ransomware group Chaos emerges</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-26 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/" target="_blank">Tesla wants to bring robotaxis to San Francisco. Here’s what’s standing in the way.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-25 23:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed" target="_blank">GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-25 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1259126916-500x500.jpg" alt="Starlink kept me connected to the Internet without fail—until Thursday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/starlink-kept-me-connected-to-the-internet-without-fail-until-thursday/" target="_blank">Starlink kept me connected to the Internet without fail—until Thursday</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-25 22:17</span>
             </div>
         </div>
 </div>
@@ -235,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dracula_death1_c64.gif.webp?fit=320%2C200&amp;quality=55&amp;ssl=1" alt="Pushed by payment processors, game sites remove adult material" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/26/pushed-by-payment-processors-game-sites-remove-adult-material.html" target="_blank">Pushed by payment processors, game sites remove adult material</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-26 13:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Gizmodo-feature-image.jpg" alt="An Even Scarier Predator Hunted Giant ‘Terror Birds’ in South America" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +288,6 @@
                 <span class="time">2025-07-25 22:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/ToxicAvenger-2.jpg" alt="The New ‘Toxic Avenger’ Promises Heart Along With All That Goopy Gore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-toxic-avenger-panel-report-elijah-wood-peter-dinklage-2000631628" target="_blank">The New ‘Toxic Avenger’ Promises Heart Along With All That Goopy Gore</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-25 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
