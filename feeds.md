@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 15:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-07-26 16:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/26/in-gaza-water-kills-too?traffic_source=rss" target="_blank">In Gaza, water kills too</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-26 15:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +100,20 @@
                 <span class="time">2025-07-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723d/live/7ad10d50-69a0-11f0-8dbd-f3d32ebd3327.jpg" alt="UK working to get aid dropped into Gaza, Starmer says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5v5568mzro" target="_blank">UK working to get aid dropped into Gaza, Starmer says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-26 08:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688421c8d632f582759c6e56/master/pass/The%20Best%20Noise-Canceling%20Headphones.png" alt="Best Noise-Canceling Headphones: Sony, Bose, Apple, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-noise-canceling-headphones/" target="_blank">Best Noise-Canceling Headphones: Sony, Bose, Apple, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-26 14:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +159,29 @@
                 <span class="time">2025-07-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68827c59b145fbf132c29b3b/master/pass/bbqknives.jpg" alt="Do You Need a Barbecue Knife?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-you-need-a-barbecue-knife/" target="_blank">Do You Need a Barbecue Knife?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-26 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdjpknnery159cpbsg93.png" alt="MCP Servers That I Use as a Technical Founder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/code42cate/mcp-servers-that-i-use-as-a-technical-founder-3ia6" target="_blank">MCP Servers That I Use as a Technical Founder</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/aws-s3-vectors/en/headerimage/generatedHeaderImage-1752836130567.jpg" alt="AWS Introduces Vector Capabilities on Amazon S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-s3-vectors/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Vector Capabilities on Amazon S3</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-26 13:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +218,6 @@
                 <span class="time">2025-07-26 12:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lucumr.pocoo.org/2025/7/26/virtual-threads/" target="_blank">From Async/Await to Virtual Threads</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-26 12:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-8.0-Coming-Soon" target="_blank">FFmpeg 8.0 Preparing For Release In August With Many Great Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-26 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Alien-vs-Predator-SDCC.jpg" alt="It Sure Sounds Like ‘Alien Vs. Predator’ May Return In the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-alien-vs-predator-badlands-alien-earth-2000634940" target="_blank">It Sure Sounds Like ‘Alien Vs. Predator’ May Return In the Future</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Mondly-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Mondly&#x27;s language deal might finally make you bilingual—or at least interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/26/mondlys-language-deal-might-finally-make-you-bilingual-or-at-least-interesting.html" target="_blank">Mondly&#x27;s language deal might finally make you bilingual—or at least interesting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Tron-Ares-SDCC.jpg" alt="‘Tron: Ares’ Just Brought the Grid Back to San Diego Comic-Con" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,45 +291,13 @@
                 <span class="time">2025-07-26 00:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tea.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Women&#x27;s safety app Tea breached, leaking 13,000 user photos to 4chan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/womens-safety-app-tea-breached-leaking-13000-user-photos-to-4chan.html" target="_blank">Women&#x27;s safety app Tea breached, leaking 13,000 user photos to 4chan</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-26 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/garter.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/groom-feels-violated-after-wifes-wedding-day-prank-triggers-relationship-crisis.html" target="_blank">Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 23:50</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753229613-20250726.png" alt="Saturday Morning Breakfast Cereal - Long" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/long" target="_blank">Saturday Morning Breakfast Cereal - Long</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
