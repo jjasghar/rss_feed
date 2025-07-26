@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 06:01:46 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-26 07:02:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/7/26/dahiyeh-families-displaced-by-war-now-trapped-by-identity?traffic_source=rss" target="_blank">Dahiyeh families displaced by war now trapped by identity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-26 05:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-gaza-nasser_6974083.jpg?20250726033037" alt="25% of young children now malnourished in Gaza, charity says, as PM vows to evacuate &#x27;critical&#x27; medical cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/25-of-young-children-and-pregnant-women-malnourished-in-gaza-charity-says-as-pm-vows-to-fly-critical-medical-cases-to-uk-13401950" target="_blank">25% of young children now malnourished in Gaza, charity says, as PM vows to evacuate &#x27;critical&#x27; medical cases</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-26 02:34</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/health/cancer/rfk-jr-considering-firing-task-force-cancer-screening-rcna221188" target="_blank">RFK Jr. considering firing all the members of the preventive services task force</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-25 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/25/donald-trump-set-for-trade-talks-with-europe-as-he-arrives-in-scotland?traffic_source=rss" target="_blank">Donald Trump set for trade talks with Europe as he arrives in Scotland</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 22:36</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/neuron_dev/prompt-nd-reranker-v-01-494j" target="_blank">[Prompt] ND-ReRanker v 0.1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04" target="_blank">CSS Multiple Columns: Build Layouts Like a Magazine</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 04:49</span>
@@ -205,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6" target="_blank">Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive (From DH to Welder to Dev) 🚀🇵🇭</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j85edbfmf6b3w0car3c.png" alt="Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-asff-ac1" target="_blank">Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 23:59</span>
             </div>
         </div>
 </div>
@@ -330,22 +335,13 @@
                 <span class="time">2025-07-25 14:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/25/choosing-sides" target="_blank">Choosing Sides</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-25 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
