@@ -1,39 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 00:04:53 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-26 01:29:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +115,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/" target="_blank">Tesla wants to bring robotaxis to San Francisco. Here’s what’s standing in the way.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-25 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed" target="_blank">GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger</a></span>
                 <span class="feed">The Verge</span>
@@ -153,20 +166,20 @@
                 <span class="time">2025-07-25 21:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon" target="_blank">DJI couldn’t confirm or deny it disguised this drone to evade a US ban</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-25 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6" target="_blank">Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive (From DH to Welder to Dev) 🚀🇵🇭</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 01:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j85edbfmf6b3w0car3c.png" alt="Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +225,6 @@
                 <span class="time">2025-07-25 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656" target="_blank">Here comes the troll (Original song ingredient)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-SDCC.jpg" alt="‘Predator: Badlands’ Just Feasted on Its Comic-Con Audience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-hall-h-sdcc-2025-2000632175" target="_blank">‘Predator: Badlands’ Just Feasted on Its Comic-Con Audience</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-26 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/garter.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +305,6 @@
                 <span class="title"><a href="https://kotaku.com/dk-bananaza-wheel-world-balatro-vampire-survivors-1851787023" target="_blank">Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-25 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K11F6637NP1RFSJWEX4X3SAC/hero-image.png" alt="I Knew the Viral &#x27;Tea&#x27; App Was Trouble, but I Didn&#x27;t Expect a Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/i-knew-the-viral-tea-app-was-trouble-but-i-didnt-expect-a-data-breach?utm_medium=RSS" target="_blank">I Knew the Viral &#x27;Tea&#x27; App Was Trouble, but I Didn&#x27;t Expect a Data Breach</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-25 21:15</span>
             </div>
         </div>
 </div>
@@ -350,7 +354,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:05 UTC
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
