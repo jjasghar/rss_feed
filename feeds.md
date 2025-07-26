@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 14:01:24 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-26 15:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/26/g-s1-79083/pepfar-hiv-aids-rescission" target="_blank">PEPFAR escaped the rescission ax. But where does it stand?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2025-07-26 08:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79686/taiwan-votes-oust-lawmakers" target="_blank">Taiwan votes to decide whether to oust lawmakers from China-friendly party</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 05:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/" target="_blank">Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2025-07-26 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-597257986-500x500.jpg" alt="After BlackSuit is taken down, new ransomware group Chaos emerges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/after-blacksuit-is-taken-down-new-ransomware-group-chaos-emerges/" target="_blank">After BlackSuit is taken down, new ransomware group Chaos emerges</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-26 00:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Sound" target="_blank">Linux 6.17 Sound Code Prepares For Upcoming AMD Hardware</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-26 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/file-transfer-apps-linux-android/" target="_blank">5 Open Source Apps You Can use for Seamless File Transfer Between Linux and Android</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-26 13:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="time">2025-07-26 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/" target="_blank">Rust on Every GPU</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-26 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca" target="_blank">Locally Weighted Linear Regression: When One Line Isn&#x27;t Enough (and Why It&#x27;s Non-Parametric!) ✨🗺️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Tron-Ares-SDCC.jpg" alt="‘Tron: Ares’ Just Brought the Grid Back to San Diego Comic-Con" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-tron-ares-footage-description-2000632168" target="_blank">‘Tron: Ares’ Just Brought the Grid Back to San Diego Comic-Con</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-26 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dracula_death1_c64.gif.webp?fit=320%2C200&amp;quality=55&amp;ssl=1" alt="Pushed by payment processors, game sites remove adult material" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-07-25 23:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/kinkade.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How Thomas Kinkade&#x27;s cottagecore paintings became a blueprint for modern conservative propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/25/how-thomas-kinkades-cottagecore-paintings-became-a-blueprint-for-modern-conservative-propaganda.html" target="_blank">How Thomas Kinkade&#x27;s cottagecore paintings became a blueprint for modern conservative propaganda</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-25 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,31 +305,13 @@
                 <span class="time">2025-07-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/25/choosing-sides" target="_blank">Jerry Didn&#x27;t Name This</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-25 14:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/25/choosing-sides" target="_blank">Choosing Sides</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-25 14:31</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
