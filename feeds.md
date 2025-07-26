@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 12:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-26 13:10:22 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 12:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/26/nx-s1-5480717/venus-williams-health-insurance-cobra-aca-fibroids-tennis" target="_blank">Even megastars like Venus Williams get the health insurance blues</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 12:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79686/taiwan-votes-oust-lawmakers" target="_blank">Taiwan votes to decide whether to oust lawmakers from China-friendly party</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-26 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/26/dahiyeh-families-displaced-by-war-now-trapped-by-identity?traffic_source=rss" target="_blank">Dahiyeh families displaced by war now trapped by identity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 05:21</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dangote/making-react-apps-delightful-with-confetti-effects-1ag5" target="_blank">Making React Apps Delightful with Confetti Effects</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/ubuntu-logo-riscv.jpg?resize=406%2C232&amp;ssl=1" alt="New RVA23 RISC-V Chips are Coming Sooner than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-risc-v-rva23-hardware-coming-soon" target="_blank">New RVA23 RISC-V Chips are Coming Sooner than You Think</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-26 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lucumr.pocoo.org/2025/7/26/virtual-threads/" target="_blank">From Async/Await to Virtual Threads</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-26 12:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-8.0-Coming-Soon" target="_blank">FFmpeg 8.0 Preparing For Release In August With Many Great Features</a></span>
                 <span class="feed">Phoronix</span>
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/randhir_kumar_6ccab967a14/locally-weighted-linear-regression-when-one-line-isnt-enough-and-why-its-non-parametric-3kca" target="_blank">Locally Weighted Linear Regression: When One Line Isn&#x27;t Enough (and Why It&#x27;s Non-Parametric!) ✨🗺️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzibkewdx77639a5z4c6.png" alt="Beyond Git: Tools That Make Senior Developers Insanely Productive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m" target="_blank">Beyond Git: Tools That Make Senior Developers Insanely Productive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/neuron_dev/prompt-nd-reranker-v-01-494j" target="_blank">[Prompt] ND-ReRanker v 0.1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04" target="_blank">CSS Multiple Columns: Build Layouts Like a Magazine</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 04:49</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 12:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
