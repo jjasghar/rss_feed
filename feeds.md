@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 01:29:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-26 02:35:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 02:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723d/live/7ad10d50-69a0-11f0-8dbd-f3d32ebd3327.jpg" alt="Starmer suggests UK will play role in new Gaza aid air drops" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5v5568mzro" target="_blank">Starmer suggests UK will play role in new Gaza aid air drops</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-26 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/polls-open-in-taiwans-key-recall-election-closely-watched-by-china?traffic_source=rss" target="_blank">Polls open in Taiwan’s key ‘recall election’ closely watched by China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-26 01:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-RFK-aa-355-d60821.jpg" alt="RFK Jr. considering firing all the members of the preventive services task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,24 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/deputy-ag-blanche-set-meet-2nd-day-ghislaine/story?id=124064062" target="_blank">Maxwell had limited immunity during meetings with deputy AG: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-25 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5479906/north-korea-identity-theft-sentencing" target="_blank">Arizona woman to serve 8 years for identity theft scheme benefiting North Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-25 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/25/hundreds-bang-pots-pans-in-london-in-gaza-hunger-crisis-protest?traffic_source=rss" target="_blank">Hundreds bang pots, pans in London in Gaza hunger crisis protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-25 20:15</span>
             </div>
         </div>
 </div>
@@ -175,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef" target="_blank">Coze 开源了！所有人都可以免费使用了</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6" target="_blank">Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive (From DH to Welder to Dev) 🚀🇵🇭</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 01:12</span>
@@ -214,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/squehub_ee83cac6cffe767e7/hello-dev-community-meet-squehub-19dd" target="_blank">🚀 Hello Dev Community — Meet Squehub!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/" target="_blank">It&#x27;s time for modern CSS to kill the SPA</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-25 21:08</span>
             </div>
         </div>
 </div>
@@ -353,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
