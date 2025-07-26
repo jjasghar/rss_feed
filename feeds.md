@@ -1,39 +1,25 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 07:02:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-26 08:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 2 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +154,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffzibkewdx77639a5z4c6.png" alt="Beyond Git: Tools That Make Senior Developers Insanely Productive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dct_technology/beyond-git-tools-that-make-senior-developers-insanely-productive-1d6m" target="_blank">Beyond Git: Tools That Make Senior Developers Insanely Productive</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 07:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +205,6 @@
                 <span class="title"><a href="https://dev.to/immerse/coze-kai-yuan-liao-suo-you-ren-du-ke-yi-mian-fei-shi-yong-liao-19ef" target="_blank">Coze 开源了！所有人都可以免费使用了</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cottoncandy1217/beyond-the-blueprint-borders-how-my-unconventional-journey-fuels-my-data-science-drive-from-dh-dd6" target="_blank">Beyond the Blueprint &amp; Borders: How My Unconventional Journey Fuels My Data Science Drive (From DH to Welder to Dev) 🚀🇵🇭</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 01:12</span>
             </div>
         </div>
 </div>
@@ -340,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
