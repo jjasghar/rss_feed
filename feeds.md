@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-25 23:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-26 00:04:53 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, July 25, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-RFK-aa-355-d60821.jpg" alt="RFK Jr. considering firing all the members of the preventive services task force" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/cancer/rfk-jr-considering-firing-task-force-cancer-screening-rcna221188" target="_blank">RFK Jr. considering firing all the members of the preventive services task force</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-25 22:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +103,29 @@
                 <span class="time">2025-07-25 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/25/nx-s1-5480226/trump-school-funding-grants" target="_blank">Education Department says it&#x27;s releasing more than $5 billion in frozen grants</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-25 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed" target="_blank">GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-25 23:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1259126916-500x500.jpg" alt="Starlink kept me connected to the Internet without fail—until Thursday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/starlink-kept-me-connected-to-the-internet-without-fail-until-thursday/" target="_blank">Starlink kept me connected to the Internet without fail—until Thursday</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-25 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +145,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6883dd17961105cb77fcf552/master/pass/Tesla-Robotaxi-SF-Gear-2220716767.jpg" alt="Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/" target="_blank">Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-25 21:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -130,38 +162,20 @@
                 <span class="time">2025-07-25 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag" target="_blank">Google gets its swag back</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-25 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6883b6b3961105cb77fcf550/master/pass/live_katie_drummond_bryan_johnson.jpg" alt="Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/" target="_blank">Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2207302392-500x500-1753464900.jpg" alt="Delta’s AI spying to “jack up” prices must be banned, lawmakers say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/deltas-ai-spying-to-jack-up-prices-must-be-banned-lawmakers-say/" target="_blank">Delta’s AI spying to “jack up” prices must be banned, lawmakers say</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-25 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j85edbfmf6b3w0car3c.png" alt="Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-asff-ac1" target="_blank">Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-25 23:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5" target="_blank">Security news weekly round-up - 25th July 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://idiallo.com/blog/dont-download-apps" target="_blank">Do not download the app, use the website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-25 22:07</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/jacklehamster/here-comes-the-troll-original-song-ingredient-3656" target="_blank">Here comes the troll (Original song ingredient)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18533587&w=600" alt="Agile and Quality Engineering: Building a Culture of Excellence Through a Holistic Approach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-quality-engineering" target="_blank">Agile and Quality Engineering: Building a Culture of Excellence Through a Holistic Approach</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-25 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi38jccgynyvccfuq4yy7.png" alt="Zeigarnik Effect (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koshirok096/zeigarnik-effect-bite-size-article-4mh1" target="_blank">Zeigarnik Effect (Bite-size Article)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 19:26</span>
             </div>
         </div>
 </div>
@@ -244,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/garter.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/groom-feels-violated-after-wifes-wedding-day-prank-triggers-relationship-crisis.html" target="_blank">Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-25 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/kinkade.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How Thomas Kinkade&#x27;s cottagecore paintings became a blueprint for modern conservative propaganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +301,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/i-knew-the-viral-tea-app-was-trouble-but-i-didnt-expect-a-data-breach?utm_medium=RSS" target="_blank">I Knew the Viral &#x27;Tea&#x27; App Was Trouble, but I Didn&#x27;t Expect a Data Breach</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-25 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/President-Curtis-Image.jpg" alt="‘Rick and Morty’ Is Getting a Presidential Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-rick-and-morty-spinoff-president-curtis-keith-david-2000634220" target="_blank">‘Rick and Morty’ Is Getting a Presidential Spin-Off</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-25 20:45</span>
             </div>
         </div>
 </div>
@@ -344,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
