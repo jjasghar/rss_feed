@@ -1,43 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 21:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-26 22:01:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/us-man-convicted-in-palestinian-american-boy-hate-crime-murder-dies-in-jail?traffic_source=rss" target="_blank">US man convicted in Palestinian-American boy hate crime murder dies in jail</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-26 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79763/israels-military-says-aid-airdrops-will-begin-in-gaza-as-hunger-grows" target="_blank">Israel&#x27;s military says aid airdrops will begin in Gaza as hunger grows</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,24 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/ghislaine-maxwell-justice-department-meetings-rcna221240" target="_blank">Ghislaine Maxwell&#x27;s meetings with Justice Department shrouded in secrecy</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-26 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/26/g-s1-79731/david-nabarro-world-health-organization" target="_blank">Remembering David Nabarro: &#x27;a great champion of global health and health equity&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 17:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/pakistan-issues-glacial-floods-alert-for-northwest-heavy-rain-forecast?traffic_source=rss" target="_blank">Pakistan issues glacial floods alert for northwest, heavy rain forecast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 16:24</span>
             </div>
         </div>
 </div>
@@ -172,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/igorganapolsky/claude-code-debugging-magic-1cgp" target="_blank">Claude Code Debugging Magic</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 21:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/screenshot-desktop.png" alt="Hybrid Intrane -Modern PWA Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,6 +194,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-26 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5 by Agner Fog</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-26 18:44</span>
@@ -207,29 +217,20 @@
                 <span class="time">2025-07-26 17:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Setting Up a Firewall with Ansible and UFW" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/setting-up-a-firewall-with-ansible-and-ufw-3p9j" target="_blank">Setting Up a Firewall with Ansible and UFW</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqsk8pdncdqpufgej20wo.png" alt="Holistic Webdev: Office Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aditya_007/holistic-webdev-office-space-32gg" target="_blank">Holistic Webdev: Office Space</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 16:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/thar-goat-wolf-1200.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="Online archive of illustrations from old books" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/26/online-archive-of-illustrations-from-old-books.html" target="_blank">Online archive of illustrations from old books</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-26 21:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/solarpanel.jpg" alt="‘Solar Opposites’ Creators on Crafting the Show’s Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +276,6 @@
                 <span class="time">2025-07-26 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Mondly-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Mondly&#x27;s language deal might finally make you bilingual—or at least interesting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/26/mondlys-language-deal-might-finally-make-you-bilingual-or-at-least-interesting.html" target="_blank">Mondly&#x27;s language deal might finally make you bilingual—or at least interesting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-26 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
