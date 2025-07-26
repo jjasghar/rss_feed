@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 03:28:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-26 04:12:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 04:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-597257986-500x500.jpg" alt="After BlackSuit is taken down, new ransomware group Chaos emerges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/after-blacksuit-is-taken-down-new-ransomware-group-chaos-emerges/" target="_blank">After BlackSuit is taken down, new ransomware group Chaos emerges</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-26 00:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -148,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/25/index-ventures-jahanvi-sardana-shares-the-truth-about-tam-and-what-founders-should-focus-on-instead/" target="_blank">Index Ventures’ Jahanvi Sardana shares the truth about TAM and what founders should focus on instead</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6883dd17961105cb77fcf552/master/pass/Tesla-Robotaxi-SF-Gear-2220716767.jpg" alt="Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/" target="_blank">Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-25 21:26</span>
             </div>
         </div>
 </div>
@@ -347,7 +349,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 03:28 UTC
+        🔄 Last Updated: 04:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
