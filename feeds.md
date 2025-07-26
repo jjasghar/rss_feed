@@ -1,38 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 04:12:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-26 05:04:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 04:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +175,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/er-raj-aryan/css-multiple-columns-build-layouts-like-a-magazine-5c04" target="_blank">CSS Multiple Columns: Build Layouts Like a Magazine</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Plasma-6.5-Low-Printer-Ink" target="_blank">KDE Plasma 6.5 Adds Notifications For Low Printer Ink Levels</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-26 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5n4eefup9j8tizyxpxnz.png" alt="The Rise of Evaluation-as-a-Service (EaaS): Is It the Future of AI Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +226,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/rumbo-aws-certified-security-specialty-bitacora-de-vuelo-de-una-builder-asff-ac1" target="_blank">Rumbo AWS Certified Security Specialty – Bitácora de Vuelo de una Builder - ASFF</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-25 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ziizium/security-news-weekly-round-up-25th-july-2025-5dj5" target="_blank">Security news weekly round-up - 25th July 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-25 22:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://idiallo.com/blog/dont-download-apps" target="_blank">Do not download the app, use the website</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-25 22:07</span>
             </div>
         </div>
 </div>
@@ -258,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/tea.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Women&#x27;s safety app Tea breached, leaking 13,000 user photos to 4chan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/25/womens-safety-app-tea-breached-leaking-13000-user-photos-to-4chan.html" target="_blank">Women&#x27;s safety app Tea breached, leaking 13,000 user photos to 4chan</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-26 00:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/garter.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Groom feels violated after wife&#x27;s wedding day prank triggers relationship crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -291,15 +308,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/coros-watches-new-features?utm_medium=RSS" target="_blank">Coros Watches Just Got a Bunch of New Features I&#x27;ve Wanted for a While</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/64560e9b048956d2947c660958dcad7c.jpg" alt="Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dk-bananaza-wheel-world-balatro-vampire-survivors-1851787023" target="_blank">Kotaku’s Weekend Guide: 5 Great Games We Can&#x27;t Wait To Get Back To</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-25 21:48</span>
             </div>
         </div>
 </div>
@@ -348,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 04:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
