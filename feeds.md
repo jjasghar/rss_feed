@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 18:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-26 19:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, July 26, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/26/g-s1-79731/david-nabarro-world-health-organization" target="_blank">Remembering David Nabarro: &#x27;a great champion of global health and health equity&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-26 17:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/26/nx-s1-5480717/venus-williams-health-insurance-cobra-aca-fibroids-tennis" target="_blank">Even megastars like Venus Williams get the health insurance blues</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-26 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/26/nx-s1-5471472/we-are-being-driven-from-the-land-after-a-massacre-a-nigerian-village-buries-its-dead" target="_blank">&#x27;We are being driven from the land&#x27; - after a massacre, a Nigerian village buries its dead</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 11:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/edalves/as-heuristicas-de-nielsen-41p0" target="_blank">As Heurísticas de Nielsen</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/qwen3-coder/en/headerimage/generatedHeaderImage-1753551520845.jpg" alt="Qwen Team Releases Qwen3-Coder, a Large Agentic Coding Model with Open Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/qwen3-coder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwen Team Releases Qwen3-Coder, a Large Agentic Coding Model with Open Tooling</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-26 17:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F14ub5w3ag8e7yocf21r7.png" alt="Setting Up a Firewall with Ansible and UFW" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +222,6 @@
                 <span class="time">2025-07-26 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/aws-s3-vectors/en/headerimage/generatedHeaderImage-1752836130567.jpg" alt="AWS Introduces Vector Capabilities on Amazon S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-s3-vectors/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Introduces Vector Capabilities on Amazon S3</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-26 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Sound" target="_blank">Linux 6.17 Sound Code Prepares For Upcoming AMD Hardware</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-26 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/solarpanel.jpg" alt="‘Solar Opposites’ Creators on Crafting the Show’s Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-solar-opposites-panel-recap-final-season-2000634954" target="_blank">‘Solar Opposites’ Creators on Crafting the Show’s Final Season</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-26 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/insects.jpg?fit=1200%2C810&amp;quality=60&amp;ssl=1" alt="Plants scream, and insects are listening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/26/plants-scream-and-insects-are-listening.html" target="_blank">Plants scream, and insects are listening</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-26 17:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/paymentprocessors.jpg?fit=1600%2C976&amp;quality=60&amp;ssl=1" alt="Organize to stop payment processors deciding what you can buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +295,6 @@
                 <span class="time">2025-07-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Tron-Ares-SDCC.jpg" alt="‘Tron: Ares’ Just Brought the Grid Back to San Diego Comic-Con" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-tron-ares-footage-description-2000632168" target="_blank">‘Tron: Ares’ Just Brought the Grid Back to San Diego Comic-Con</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-26 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dracula_death1_c64.gif.webp?fit=320%2C200&amp;quality=55&amp;ssl=1" alt="Pushed by payment processors, game sites remove adult material" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/26/pushed-by-payment-processors-game-sites-remove-adult-material.html" target="_blank">Pushed by payment processors, game sites remove adult material</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-26 13:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
