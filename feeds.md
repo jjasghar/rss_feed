@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 19:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 20:01:26 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +56,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481246/trump-tariffs-european-union" target="_blank">Trump sets EU tariff at 15%, lower than his original threat, after meeting in Scotland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/gunfight-in-baghdad-leaves-one-dead-as-paramilitary-group-storms-ministry?traffic_source=rss" target="_blank">Gunfight in Baghdad kills one as paramilitary group storms ministry</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 18:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753639635147_f_mo_trump_tradedeal_eu_250727_1920x1080-xqwguf.jpg" alt="Trump announces trade agreement with E.U. to set tariffs at 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-announces-trade-agreement-with-e-u-to-set-tariffs-at-15-243906629634" target="_blank">Trump announces trade agreement with E.U. to set tariffs at 15%</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-27 18:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-germany-port-european-tariffs-se-515p-ec686c.jpg" alt="Trump reaches agreement with E.U. to lower tariffs to 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -70,38 +100,29 @@
                 <span class="time">2025-07-27 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-MASSIE-KHANNA2-20250727_1753627118756_hpMain_4x3t_384.jpeg" alt="GOP Rep. Massie wants more from Epstein estate than his reported ‘birthday book’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-massie-epstein-estate-reported-birthday-book/story?id=124112485" target="_blank">GOP Rep. Massie wants more from Epstein estate than his reported ‘birthday book’</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-27 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/7/27/has-the-us-cancelled-free-speech?traffic_source=rss" target="_blank">Has the US cancelled free speech?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 15:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/27/irans-plan-to-abandon-gps-is-about-much-more-than-technology?traffic_source=rss" target="_blank">Iran’s plan to abandon GPS is about much more than technology</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/" target="_blank">‘Wizard of Oz’ blown up by AI for giant Sphere screen</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-27 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/peacemaker-500x500.jpg" alt="Peacemaker S2 trailer finds our anti-hero in a parallel world" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/07/peacemaker-s2-trailer-finds-our-anti-hero-in-a-parallel-world/" target="_blank">Peacemaker S2 trailer finds our anti-hero in a parallel world</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-27 19:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/what-is-qi2-wireless-charging/" target="_blank">Qi2 Wireless Charging: Everything You Need to Know (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025" target="_blank">The Verge’s 2025 back-to-school shopping guide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-27 13:00</span>
             </div>
         </div>
 </div>
@@ -198,6 +201,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/segmentationf4u1t/trae_telemetry_research" target="_blank">Disabling telemetry in ByteDance&#x27;s VSCode fork increases data sent to its server</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-27 17:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhao6yi5ab4yz5vfsj5t2.jpg" alt="Axero Intranet Solution - Modern Workplace Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,20 +218,29 @@
                 <span class="time">2025-07-27 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdtsfkyo90302xcdrv580.png" alt="Enhance your Code Security with Amazon Inspector" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no" target="_blank">Enhance your Code Security with Amazon Inspector</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/starfleet.jpg" alt="‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-sdcc-2025-panel-2000635137" target="_blank">‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ratio3x2_960.webp?fit=960%2C640&amp;quality=55&amp;ssl=1" alt="The last Sears in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/27/the-last-sears-in-california.html" target="_blank">The last Sears in California</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-27 17:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/The-Boeberts_2C-in-various-mugshots-provided-by-Co.jpg?fit=1080%2C658&amp;quality=60&amp;ssl=1" alt="Lauren Boebert&#x27;s son charged with misdemeanor child abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -256,24 +277,6 @@
                 <span class="time">2025-07-27 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/250514_Arbok_PF_White_Fade_16x9.jpg" alt="Sorry Haters, the Nothing Phone 3 Looks Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sorry-haters-the-nothing-phone-3-looks-good-2000632631" target="_blank">Sorry Haters, the Nothing Phone 3 Looks Good</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/peacemaker-s2sdcc.jpg" alt="Oh Lord, ‘Peacemaker’ Has Its Foxy Season 2 Song" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/peacemaker-season-2-song-sdcc-2000635182" target="_blank">Oh Lord, ‘Peacemaker’ Has Its Foxy Season 2 Song</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 04:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
