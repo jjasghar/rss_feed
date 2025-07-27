@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 00:05:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 01:29:57 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it has begun aid airdrops into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it has begun aid airdrops into Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 00:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/de-ridder-beats-whittaker-in-middleweight-fight-at-ufc-abu-dhabi?traffic_source=rss" target="_blank">De Ridder beats Whittaker in middleweight fight at UFC Abu Dhabi</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-israel_6974842.jpg?20250726224543" alt="Israel resumes airdrops into Gaza - as baby girl dies weighing less than when she was born" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-resumes-airdrops-into-gaza-as-baby-girl-dies-weighing-less-than-when-she-was-born-13402351" target="_blank">Israel resumes airdrops into Gaza - as baby girl dies weighing less than when she was born</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-26 23:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,33 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-visits-scotland-as-details-surface-about-doj-meeting-with-ghislaine-maxwell-243892805627" target="_blank">Trump visits Scotland as details surface about DOJ meeting with Ghislaine Maxwell</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-26 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/israeli-attacks-forced-starvation-kill-more-than-70-palestinians-in-gaza?traffic_source=rss" target="_blank">Israeli attacks, forced starvation kill more than 70 Palestinians in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/26/us-man-convicted-in-palestinian-american-boy-hate-crime-murder-dies-in-jail?traffic_source=rss" target="_blank">US man convicted in Palestinian-American boy hate crime murder dies in jail</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79763/israels-military-says-aid-airdrops-will-begin-in-gaza-as-hunger-grows" target="_blank">Israel&#x27;s military says aid airdrops will begin in Gaza as hunger grows</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 21:51</span>
             </div>
         </div>
 </div>
@@ -231,6 +226,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Alien-Earth-Activation-SDCC.jpg" alt="‘Alien: Earth’ Crashes Into Comic-Con With a Massive Outdoor Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alien-earth-activation-fx-sdcc-2025-2000634479" target="_blank">‘Alien: Earth’ Crashes Into Comic-Con With a Massive Outdoor Experience</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 01:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/thar-goat-wolf-1200.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="Online archive of illustrations from old books" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -275,15 +279,6 @@
                 <span class="time">2025-07-26 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Alien-vs-Predator-SDCC.jpg" alt="It Sure Sounds Like ‘Alien Vs. Predator’ May Return In the Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-alien-vs-predator-badlands-alien-earth-2000634940" target="_blank">It Sure Sounds Like ‘Alien Vs. Predator’ May Return In the Future</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-26 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
