@@ -1,25 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 05:06:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 06:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 17 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 05:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -154,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp" target="_blank">ChezElle Intranet : Frontend Challenge Office Edition</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flrz0i8wcedwhyu96rl90.webp" alt="How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,15 +214,6 @@
                 <span class="title"><a href="https://tristanpemble.com/resizable-structs-in-zig/" target="_blank">Resizable Structs in Zig</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-26 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/igorganapolsky/claude-code-debugging-magic-1cgp" target="_blank">Claude Code Debugging Magic</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 21:38</span>
             </div>
         </div>
 </div>
@@ -285,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
