@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 14:01:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-27 15:01:23 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/27/israeli-forces-storm-gaza-bound-aid-ship-handala-in-international-waters?traffic_source=rss" target="_blank">Israeli forces storm Gaza-bound aid ship Handala in international waters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +99,20 @@
                 <span class="time">2025-07-27 11:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it will open routes to allow aid convoys into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it will open routes to allow aid convoys into Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/27/doge-has-built-an-ai-tool-to-slash-federal-regulations/" target="_blank">DOGE has built an AI tool to slash federal regulations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-27 14:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,20 @@
                 <span class="time">2025-07-26 20:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/" target="_blank">Dating safety app Tea breached, exposing 72,000 user images</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-26 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-SoCs" target="_blank">Linux 6.17 Introducing Support For The NVIDIA Tegra T264/Thor, New RISC-V SoCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 13:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,6 +188,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.45" target="_blank">GNU Binutils 2.45 Released With Continued Work Around SFrame Stack Tracing</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-27 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/9001/copyparty" target="_blank">copyparty: portable file server with resumable uploads, dedup, WebDAV, and more</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-27 10:39</span>
             </div>
         </div>
 <div class="story">
@@ -202,29 +217,29 @@
                 <span class="time">2025-07-27 07:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.linaro.org/blog/linux-on-snapdragon-x-elite/" target="_blank">Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-27 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5" target="_blank">🤖Understanding systemctl: The Heartbeat of Modern Linux</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 06:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Ryan-Walters-smirking-at-a-public-hearing.-.jpg?fit=1080%2C610&amp;quality=60&amp;ssl=1" alt="Oklahoma school boss Ryan Walters: a bible in every class, boobs on his office TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/27/oklahoma-school-boss-ryan-walters-a-bible-in-every-class-boobs-on-his-office-tv.html" target="_blank">Oklahoma school boss Ryan Walters: a bible in every class, boobs on his office TV</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-27 14:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dcko-sdcc.jpg" alt="DC Brought Green Arrow and a Fighting Tournament to Comic-Con" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dc-ko-absolute-green-arrow-sdcc-2000634564" target="_blank">DC Brought Green Arrow and a Fighting Tournament to Comic-Con</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/250514_Arbok_PF_White_Fade_16x9.jpg" alt="Sorry Haters, the Nothing Phone 3 Looks Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +276,6 @@
                 <span class="time">2025-07-27 01:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/thar-goat-wolf-1200.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="Online archive of illustrations from old books" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/26/online-archive-of-illustrations-from-old-books.html" target="_blank">Online archive of illustrations from old books</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-26 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/solarpanel.jpg" alt="‘Solar Opposites’ Creators on Crafting the Show’s Final Season" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-solar-opposites-panel-recap-final-season-2000634954" target="_blank">‘Solar Opposites’ Creators on Crafting the Show’s Final Season</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-26 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
