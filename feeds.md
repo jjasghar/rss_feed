@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 01:29:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 02:45:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 02:45 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/26/nx-s1-5481304/nasa-employees-deferred-resignation-program" target="_blank">Nearly 4,000 NASA employees opt to leave agency through deferred resignation program</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 01:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it has dropped aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it has dropped aid into Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it has begun aid airdrops into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/26/nigeria-beat-morocco-to-claim-wafcon-title-and-complete-mission-x?traffic_source=rss" target="_blank">Nigeria beat Morocco to claim WAFCON title and complete Mission X</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-26 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gaza-food-gty-jt-250726_1753560175631_hpMain_2_4x3t_384.jpg" alt="IDF says it will conduct aid airdrops in Gaza as hunger crisis deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/idf-conduct-aid-airdrops-gaza-hunger-crisis-deepens/story?id=124102654" target="_blank">IDF says it will conduct aid airdrops in Gaza as hunger crisis deepens</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-26 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753571353006_nn_kod_trump_in_scotland_as_epstein_controversey_grows_250726_1920x1080-f8bpj8.jpg" alt="Trump visits Scotland as details surface about DOJ meeting with Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-visits-scotland-as-details-surface-about-doj-meeting-with-ghislaine-maxwell-243892805627" target="_blank">Trump visits Scotland as details surface about DOJ meeting with Ghislaine Maxwell</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-26 23:09</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j" target="_blank">Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 02:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Execve" target="_blank">Linux 6.17 Looks To Address An Old &amp; Obscure Kernel Limitation From 1993</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 00:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/well133/maxwell-strategy-group-14o3" target="_blank">Maxwell Strategy Group</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 23:44</span>
@@ -202,29 +218,20 @@
                 <span class="time">2025-07-26 19:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/edalves/as-heuristicas-de-nielsen-41p0" target="_blank">As Heurísticas de Nielsen</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-26 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-26 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-Activation-SDCC.jpg" alt="The ‘Predator’ Dropped In San Diego For a Surprise ‘Badlands’ Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-experience-elle-fanning-sdcc-2025-2000634514" target="_blank">The ‘Predator’ Dropped In San Diego For a Surprise ‘Badlands’ Experience</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 02:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Alien-Earth-Activation-SDCC.jpg" alt="‘Alien: Earth’ Crashes Into Comic-Con With a Massive Outdoor Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +277,6 @@
                 <span class="time">2025-07-26 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-cosplay-day-2-.jpg" alt="The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-cosplay-gallery-day-2-fantastic-four-2000634903" target="_blank">The Most Amazing Cosplay of San Diego Comic-Con 2025, Day 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-26 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:45 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
