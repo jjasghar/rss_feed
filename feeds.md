@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 13:10:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 14:01:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 34 feeds processed -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025" target="_blank">The Verge’s 2025 back-to-school shopping guide</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -131,6 +135,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1241908682-500x500.jpg" alt="Robots eating other robots: The benefits of machine metabolism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/robots-eating-other-robots-the-benefits-of-machine-metabolism/" target="_blank">Robots eating other robots: The benefits of machine metabolism</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-27 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -146,24 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/26/dating-safety-app-tea-breached-exposing-72000-user-images/" target="_blank">Dating safety app Tea breached, exposing 72,000 user images</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-26 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688421c8d632f582759c6e56/master/pass/The%20Best%20Noise-Canceling%20Headphones.png" alt="Best Noise-Canceling Headphones: Sony, Bose, Apple, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-noise-canceling-headphones/" target="_blank">Best Noise-Canceling Headphones: Sony, Bose, Apple, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-26 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/" target="_blank">Tesla vet says that ‘reviewing real products’ — not mockups — is the key to staying innovative</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-26 14:00</span>
             </div>
         </div>
 </div>
@@ -303,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
