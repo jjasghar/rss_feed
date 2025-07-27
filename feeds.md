@@ -1,33 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 12:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 13:10:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +53,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481779/thai-cambodian-leaders-to-meet-malaysia-talks-end-deadly-border-dispute" target="_blank">Thai and Cambodian leaders to meet in Malaysia for talks to end deadly border dispute</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/us-eu-trade-talks-will-ursula-von-der-leyen-clinch-a-deal-with-trump?traffic_source=rss" target="_blank">US-EU trade talks: Will Ursula von der Leyen clinch a deal with Trump?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 12:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e716/live/b61181d0-6ade-11f0-8dbd-f3d32ebd3327.png" alt="Starmer to raise Gaza situation in Trump meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,30 +99,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it will open routes to allow aid convoys into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/trumps-ceasefire-push-fails-to-stop-thailand-cambodia-border-clashes?traffic_source=rss" target="_blank">Trump’s ceasefire push fails to stop Thailand-Cambodia border clashes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481749/israel-pause-fighting-gaza-hunger" target="_blank">Israel begins a limited pause in fighting in 3 Gaza areas as concerns over hunger mount</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 10:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff59/live/c7d44e40-6a46-11f0-9878-a1f4f8230617.jpg" alt="Plans for pubs to get greater protection from noise complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwye5jx8y3go" target="_blank">Plans for pubs to get greater protection from noise complaints</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it will open routes to allow aid convoys into Gaza</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 07:16</span>
+                <span class="time">2025-07-27 10:33</span>
             </div>
         </div>
 </div>
@@ -102,6 +112,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6884625679d4a8e16b1b14ed/master/pass/The%20Best%20Running%20Shoes.png" alt="Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-running-shoes/" target="_blank">Best Running Shoes (2025), Tested and Reviewed: Saucony, Nike, Hoka</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +166,20 @@
                 <span class="time">2025-07-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students" target="_blank">Here are the laptops I’d tell any parent to consider for their back-to-school student</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-26 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.04-Concept-X1-2" target="_blank">New Ubuntu Concept Snapdragon X Laptop ISOs Published - Your Mileage May Vary</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 12:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +225,20 @@
                 <span class="time">2025-07-27 06:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp" target="_blank">ChezElle Intranet : Frontend Challenge Office Edition</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/250514_Arbok_PF_White_Fade_16x9.jpg" alt="Sorry Haters, the Nothing Phone 3 Looks Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sorry-haters-the-nothing-phone-3-looks-good-2000632631" target="_blank">Sorry Haters, the Nothing Phone 3 Looks Good</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/peacemaker-s2sdcc.jpg" alt="Oh Lord, ‘Peacemaker’ Has Its Foxy Season 2 Song" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +284,6 @@
                 <span class="time">2025-07-26 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/insects.jpg?fit=1200%2C810&amp;quality=60&amp;ssl=1" alt="Plants scream, and insects are listening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/26/plants-scream-and-insects-are-listening.html" target="_blank">Plants scream, and insects are listening</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-26 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
