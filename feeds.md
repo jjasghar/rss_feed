@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 11:01:32 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-27 12:01:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e716/live/b61181d0-6ade-11f0-8dbd-f3d32ebd3327.png" alt="Starmer to raise Gaza situation in Trump meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y254078k1o" target="_blank">Starmer to raise Gaza situation in Trump meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 11:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/two-friends-one-war-and-the-rsfs-reign-of-terror-in-khartoum?traffic_source=rss" target="_blank">Two friends, one war and the RSF’s reign of terror in Khartoum</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 11:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5479143/hell-on-earth-venezuelans-deported-to-el-salvador-mega-prison-tell-of-brutal-abuse" target="_blank">&#x27;Hell on Earth&#x27;: Venezuelans deported to El Salvador mega-prison tell of brutal abuse</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +97,20 @@
                 <span class="time">2025-07-27 07:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gaza-main_1753595866958_hpMain_4x3t_384.jpg" alt="Israel announces &#x27;tactical&#x27; military pause in 3 Gaza areas, as aid routes set to open" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/israel-announces-tactical-military-pause-3-gaza-areas/story?id=124110895" target="_blank">Israel announces &#x27;tactical&#x27; military pause in 3 Gaza areas, as aid routes set to open</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-27 06:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481720/stabbing-11-people-walmart-michigan" target="_blank">A man accused of stabbing 11 people at a Walmart is in Michigan authorities&#x27; custody</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/Gaza-food-5f3523.jpg" alt="Israel announces &#x27;tactical pause&#x27; in Gaza fighting after outrage over starving Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israels-military-says-airdrops-aid-will-begin-gaza-hunger-grows-rcna221296" target="_blank">Israel announces &#x27;tactical pause&#x27; in Gaza fighting after outrage over starving Palestinians</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-27 01:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer" target="_blank">Apple beta season is here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students" target="_blank">Here are the laptops I’d tell any parent to consider for their back-to-school student</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688444d05a0da0f7516f91f9/master/pass/Review%20(2025)-%20CookUnity%20Prepared%20Meals.png" alt="CookUnity Prepared Meal Delivery Review (2025): Chef-Centric Meals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/cookunity-prepared-meal-delivery/" target="_blank">CookUnity Prepared Meal Delivery Review (2025): Chef-Centric Meals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-26 13:36</span>
             </div>
         </div>
 </div>
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
