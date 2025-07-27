@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 17:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-27 18:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-germany-port-european-tariffs-se-515p-ec686c.jpg" alt="Trump reaches agreement with E.U. to lower tariffs to 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/us-european-union-trade-deal-tariff-rate-fifteen-percent-rcna218380" target="_blank">Trump reaches agreement with E.U. to lower tariffs to 15%</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-27 17:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5187/live/78627ad0-6aff-11f0-8dbd-f3d32ebd3327.jpg" alt="Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgj270grkxo" target="_blank">Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-MASSIE-KHANNA2-20250727_1753627118756_hpMain_4x3t_384.jpeg" alt="GOP Rep. Massie wants more from Epstein estate than his reported ‘birthday book’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/gop-rep-massie-epstein-estate-reported-birthday-book/story?id=124112485" target="_blank">GOP Rep. Massie wants more from Epstein estate than his reported ‘birthday book’</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-27 16:28</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +103,29 @@
                 <span class="time">2025-07-27 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/g-s1-79468/gaza-babies-children-starvation-malnutrition-aid" target="_blank">His name is Mohammad Al-Motawaq. He is 18 months old. And he is starving in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481779/thai-cambodian-leaders-to-meet-malaysia-talks-end-deadly-border-dispute" target="_blank">Thai and Cambodian leaders to meet in Malaysia for talks to end deadly border dispute</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review" target="_blank">The Fujifilm X-E5 proves familiar isn’t always a bad thing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-27 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/katrina10-500x500-1753213243.jpg" alt="20 years after Katrina, NatGeo and New Orleans remember" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/07/20-years-after-katrina-natgeo-and-new-orleans-remember/" target="_blank">20 years after Katrina, NatGeo and New Orleans remember</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-27 17:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +162,20 @@
                 <span class="time">2025-07-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer" target="_blank">Apple beta season is here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1241908682-500x500.jpg" alt="Robots eating other robots: The benefits of machine metabolism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/robots-eating-other-robots-the-benefits-of-machine-metabolism/" target="_blank">Robots eating other robots: The benefits of machine metabolism</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-27 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137" target="_blank">Top Platform Engineering Mistakes to Watch Out For</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 17:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhao6yi5ab4yz5vfsj5t2.jpg" alt="Axero Intranet Solution - Modern Workplace Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,6 +197,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-AMDGPU-Driver-Size" target="_blank">AMD Kernel Graphics Driver Exceeds 5.9 Million Lines In Linux 6.16</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 15:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.dumbpipe.dev/" target="_blank">Dumb Pipe</a></span>
                 <span class="feed">Hacker News</span>
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-SoCs" target="_blank">Linux 6.17 Introducing Support For The NVIDIA Tegra T264/Thor, New RISC-V SoCs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-27 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.04-Concept-X1-2" target="_blank">New Ubuntu Concept Snapdragon X Laptop ISOs Published - Your Mileage May Vary</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.45" target="_blank">GNU Binutils 2.45 Released With Continued Work Around SFrame Stack Tracing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 10:43</span>
             </div>
         </div>
 </div>
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
