@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-26 23:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-27 00:05:30 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, July 26, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/26/nigeria-beat-morocco-to-claim-wafcon-title-and-complete-mission-x?traffic_source=rss" target="_blank">Nigeria beat Morocco to claim WAFCON title and complete Mission X</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-26 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gaza-food-gty-jt-250726_1753560175631_hpMain_2_4x3t_384.jpg" alt="IDF says it will conduct aid airdrops in Gaza as hunger crisis deepens" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/idf-conduct-aid-airdrops-gaza-hunger-crisis-deepens/story?id=124102654" target="_blank">IDF says it will conduct aid airdrops in Gaza as hunger crisis deepens</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-26 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753571353006_nn_kod_trump_in_scotland_as_epstein_controversey_grows_250726_1920x1080-f8bpj8.jpg" alt="Trump visits Scotland as details surface about DOJ meeting with Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-visits-scotland-as-details-surface-about-doj-meeting-with-ghislaine-maxwell-243892805627" target="_blank">Trump visits Scotland as details surface about DOJ meeting with Ghislaine Maxwell</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-26 23:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +107,20 @@
                 <span class="time">2025-07-26 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/26/g-s1-79744/scotland-protesters-anti-trump-golf" target="_blank">&#x27;Scotland is already great.&#x27; Protesters troll Trump on his golfing trip</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-26 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/26/gyokeres-joins-arsenal-from-sporting-lisbon?traffic_source=rss" target="_blank">Gyokeres joins Arsenal from Sporting Lisbon</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel to open Gaza humanitarian corridors as aid drops begin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel to open Gaza humanitarian corridors as aid drops begin</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-26 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/26/u-k-starts-enforcing-online-age-check-rules/" target="_blank">U.K. starts enforcing online age check rules</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-26 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +166,29 @@
                 <span class="time">2025-07-26 13:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop" target="_blank">Inside the struggle to create a cozy Lord of the Rings game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/well133/maxwell-strategy-group-14o3" target="_blank">Maxwell Strategy Group</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-26 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tristanpemble.com/resizable-structs-in-zig/" target="_blank">Resizable Structs in Zig</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-26 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +223,6 @@
                 <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-26 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.agner.org/forum/viewtopic.php?t=287&start=10" target="_blank">Test Results for AMD Zen 5 by Agner Fog</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-26 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/qwen3-coder/en/headerimage/generatedHeaderImage-1753551520845.jpg" alt="Qwen Team Releases Qwen3-Coder, a Large Agentic Coding Model with Open Tooling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/qwen3-coder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwen Team Releases Qwen3-Coder, a Large Agentic Coding Model with Open Tooling</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-26 17:55</span>
             </div>
         </div>
 </div>
@@ -291,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
