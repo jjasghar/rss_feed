@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 16:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 17:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5187/live/78627ad0-6aff-11f0-8dbd-f3d32ebd3327.jpg" alt="Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgj270grkxo" target="_blank">Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/7/27/has-the-us-cancelled-free-speech?traffic_source=rss" target="_blank">Has the US cancelled free speech?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 15:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481779/thai-cambodian-leaders-to-meet-malaysia-talks-end-deadly-border-dispute" target="_blank">Thai and Cambodian leaders to meet in Malaysia for talks to end deadly border dispute</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-27 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/us-eu-trade-talks-will-ursula-von-der-leyen-clinch-a-deal-with-trump?traffic_source=rss" target="_blank">US-EU trade talks: Will Ursula von der Leyen clinch a deal with Trump?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 12:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e716/live/b61181d0-6ade-11f0-8dbd-f3d32ebd3327.png" alt="Starmer to raise Gaza situation in Trump meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y254078k1o" target="_blank">Starmer to raise Gaza situation in Trump meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 11:32</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhao6yi5ab4yz5vfsj5t2.jpg" alt="Axero Intranet Solution - Modern Workplace Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agihtaws_581/axero-intranet-solution-modern-workplace-portal-46gi" target="_blank">Axero Intranet Solution - Modern Workplace Portal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 16:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdtsfkyo90302xcdrv580.png" alt="Enhance your Code Security with Amazon Inspector" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,20 +219,20 @@
                 <span class="time">2025-07-27 10:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/9001/copyparty" target="_blank">copyparty: portable file server with resumable uploads, dedup, WebDAV, and more</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-27 10:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/The-Boeberts_2C-in-various-mugshots-provided-by-Co.jpg?fit=1080%2C658&amp;quality=60&amp;ssl=1" alt="Lauren Boebert&#x27;s son charged with misdemeanor child abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/27/lauren-boeberts-son-charged-with-misdemeanor-child-abuse.html" target="_blank">Lauren Boebert&#x27;s son charged with misdemeanor child abuse</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-27 16:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/bobsburgers.jpg" alt="‘Bob’s Burgers’ Celebrates 300 Episodes and Teases New Holiday Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +278,6 @@
                 <span class="time">2025-07-27 04:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-Activation-SDCC.jpg" alt="The ‘Predator’ Dropped In San Diego For a Surprise ‘Badlands’ Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-experience-elle-fanning-sdcc-2025-2000634514" target="_blank">The ‘Predator’ Dropped In San Diego For a Surprise ‘Badlands’ Experience</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 02:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
