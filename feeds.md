@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 22:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/piastri-holds-off-norris-to-win-rain-hit-f1-belgian-grand-prix?traffic_source=rss" target="_blank">Piastri holds off Norris to win rain-hit F1 Belgian Grand Prix</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5479052/the-fascinating-career-of-ichiro-suzuki" target="_blank">The fascinating career of Ichiro Suzuki</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: EU will buy $750 billion worth of U.S. energy under deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: EU will buy $750 billion worth of U.S. energy under deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-27 20:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc4/live/625dbf60-6b1d-11f0-8dbd-f3d32ebd3327.jpg" alt="EU and US agree trade deal, with 15% tariffs for European exports to America" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -57,48 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be3/live/072f5180-6b2c-11f0-af20-030418be2ca5.jpg" alt="No bank holiday after Lionesses make history in Basel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgewg2yj5zo" target="_blank">No bank holiday after Lionesses make history in Basel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-27 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481246/trump-tariffs-european-union" target="_blank">Trump sets EU tariff at 15%, lower than his original threat, after meeting in Scotland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/gunfight-in-baghdad-leaves-one-dead-as-paramilitary-group-storms-ministry?traffic_source=rss" target="_blank">Gunfight in Baghdad kills one as paramilitary group storms ministry</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753639635147_f_mo_trump_tradedeal_eu_250727_1920x1080-xqwguf.jpg" alt="Trump announces trade agreement with E.U. to set tariffs at 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-announces-trade-agreement-with-e-u-to-set-tariffs-at-15-243906629634" target="_blank">Trump announces trade agreement with E.U. to set tariffs at 15%</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-27 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-germany-port-european-tariffs-se-515p-ec686c.jpg" alt="Trump reaches agreement with E.U. to lower tariffs to 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/us-european-union-trade-deal-tariff-rate-fifteen-percent-rcna218380" target="_blank">Trump reaches agreement with E.U. to lower tariffs to 15%</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-27 17:41</span>
             </div>
         </div>
 </div>
@@ -168,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devraiks/how-i-built-mymealmind-a-full-recipe-platform-in-just-weeks-with-bolt-10gh" target="_blank">How I Built MyMealMind — A Full Recipe Platform in Just Weeks with Bolt</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://daniel.feldroy.com/posts/til-2025-05-exception-add_note" target="_blank">TIL: Exception.add_note</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -210,20 +220,29 @@
                 <span class="time">2025-07-27 17:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhao6yi5ab4yz5vfsj5t2.jpg" alt="Axero Intranet Solution - Modern Workplace Portal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agihtaws_581/axero-intranet-solution-modern-workplace-portal-46gi" target="_blank">Axero Intranet Solution - Modern Workplace Portal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/overlordanime-sdcc.jpg" alt="Crunchyroll is Bringing More Anime to Movie Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-crunchyroll-anime-night-theates-2000635301" target="_blank">Crunchyroll is Bringing More Anime to Movie Theaters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Babbel-Language-Learning-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Want to learn a new language? Try StackSocial&#x27;s Babbel deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/27/want-to-learn-a-new-language-try-stacksocials-babbel-deal.html" target="_blank">Want to learn a new language? Try StackSocial&#x27;s Babbel deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-27 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-hasbro-marvel-legends-star-wars-reveals.jpg" alt="The Coolest Hasbro Marvel and ‘Star Wars’ Reveals of San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +279,6 @@
                 <span class="time">2025-07-27 17:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/The-Boeberts_2C-in-various-mugshots-provided-by-Co.jpg?fit=1080%2C658&amp;quality=60&amp;ssl=1" alt="Lauren Boebert&#x27;s son charged with misdemeanor child abuse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/27/lauren-boeberts-son-charged-with-misdemeanor-child-abuse.html" target="_blank">Lauren Boebert&#x27;s son charged with misdemeanor child abuse</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-27 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/bobsburgers.jpg" alt="‘Bob’s Burgers’ Celebrates 300 Episodes and Teases New Holiday Episodes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-bobs-burgers-episode-300-holiday-specials-2000635111" target="_blank">‘Bob’s Burgers’ Celebrates 300 Episodes and Teases New Holiday Episodes</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 15:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
