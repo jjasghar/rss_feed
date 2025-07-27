@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 10:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2025-07-27 11:01:32 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/trumps-ceasefire-push-fails-to-stop-thailand-cambodia-border-clashes?traffic_source=rss" target="_blank">Trump’s ceasefire push fails to stop Thailand-Cambodia border clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481749/israel-pause-fighting-gaza-hunger" target="_blank">Israel begins a limited pause in fighting in 3 Gaza areas as concerns over hunger mount</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 10:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff59/live/c7d44e40-6a46-11f0-9878-a1f4f8230617.jpg" alt="Plans for pubs to get greater protection from noise complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/Gaza-food-5f3523.jpg" alt="Israel announces &#x27;tactical pause&#x27; in Gaza fighting after outrage over starving Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/26/nx-s1-5481304/nasa-employees-deferred-resignation-program" target="_blank">Nearly 4,000 NASA employees opt to leave agency through deferred resignation program</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 01:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it has dropped aid into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it has dropped aid into Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ae/live/ab900a30-6a5a-11f0-89ea-4d6f9851f623.jpg" alt="Israel says it has begun aid airdrops into Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it has begun aid airdrops into Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 00:20</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israels-military-says-airdrops-aid-will-begin-gaza-hunger-grows-rcna221296" target="_blank">Israel announces &#x27;tactical pause&#x27; in Gaza fighting after outrage over starving Palestinians</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-27 01:36</span>
             </div>
         </div>
 </div>
@@ -159,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNU-Binutils-2.45" target="_blank">GNU Binutils 2.45 Released With Continued Work Around SFrame Stack Tracing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 10:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiha85815m4z5nolpenbg.png" alt="🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk" target="_blank">🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 09:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bikepacking.com/plog/when-we-get-komooted/" target="_blank">When We Get Komooted</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-27 07:07</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp" target="_blank">ChezElle Intranet : Frontend Challenge Office Edition</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flrz0i8wcedwhyu96rl90.webp" alt="How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nganggurdev/how-to-set-colors-and-backgrounds-in-css-from-named-colors-to-gradients-2fgo" target="_blank">How to Set Colors and Backgrounds in CSS: From Named Colors to Gradients</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j" target="_blank">Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 02:39</span>
             </div>
         </div>
 </div>
@@ -290,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
