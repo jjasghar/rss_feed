@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 20:01:26 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-27 21:01:35 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc4/live/625dbf60-6b1d-11f0-8dbd-f3d32ebd3327.jpg" alt="EU and US agree trade deal, with 15% tariffs for European exports to America" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2xylk3d07o" target="_blank">EU and US agree trade deal, with 15% tariffs for European exports to America</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 20:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/business/business-news/us-european-union-trade-deal-tariff-rate-fifteen-percent-rcna218380" target="_blank">Trump reaches agreement with E.U. to lower tariffs to 15%</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-27 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5187/live/78627ad0-6aff-11f0-8dbd-f3d32ebd3327.jpg" alt="Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgj270grkxo" target="_blank">Jordan and UAE drop aid in Gaza as Israel begins &#x27;tactical pause&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 17:00</span>
             </div>
         </div>
 </div>
@@ -224,12 +225,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-hasbro-marvel-legends-star-wars-reveals.jpg" alt="The Coolest Hasbro Marvel and ‘Star Wars’ Reveals of San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sdcc-2025-hasbro-marvel-legends-star-wars-black-series-2000635314" target="_blank">The Coolest Hasbro Marvel and ‘Star Wars’ Reveals of San Diego Comic-Con 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-27 20:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/starfleet.jpg" alt="‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-sdcc-2025-panel-2000635137" target="_blank">‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-27 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/shutterstock_1794706972.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Britons! Why get AC when you can just smear yoghurt all over your windows?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/27/britons-why-get-ac-when-you-can-just-smear-yoghurt-all-over-your-windows.html" target="_blank">Britons! Why get AC when you can just smear yoghurt all over your windows?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-27 19:44</span>
             </div>
         </div>
 <div class="story">
@@ -259,24 +278,6 @@
                 <span class="time">2025-07-27 15:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Ryan-Walters-smirking-at-a-public-hearing.-.jpg?fit=1080%2C610&amp;quality=60&amp;ssl=1" alt="Oklahoma school boss Ryan Walters: a bible in every class, boobs on his office TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/27/oklahoma-school-boss-ryan-walters-a-bible-in-every-class-boobs-on-his-office-tv.html" target="_blank">Oklahoma school boss Ryan Walters: a bible in every class, boobs on his office TV</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-27 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/dcko-sdcc.jpg" alt="DC Brought Green Arrow and a Fighting Tournament to Comic-Con" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dc-ko-absolute-green-arrow-sdcc-2000634564" target="_blank">DC Brought Green Arrow and a Fighting Tournament to Comic-Con</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
