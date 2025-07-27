@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 06:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-27 07:02:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 06:02 UTC</div>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481720/stabbing-11-people-walmart-michigan" target="_blank">A man accused of stabbing 11 people at a Walmart is in Michigan authorities&#x27; custody</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-27 04:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,27 +85,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/de-ridder-beats-whittaker-in-middleweight-fight-at-ufc-abu-dhabi?traffic_source=rss" target="_blank">De Ridder beats Whittaker in middleweight fight at UFC Abu Dhabi</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/de-ridder-beats-whittaker-in-middleweight-fight-at-ufc-abu-dhabi?traffic_source=rss" target="_blank">De Ridder beats Whittaker in split decision at UFC Abu Dhabi</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-27 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-israel_6974842.jpg?20250726224543" alt="Israel resumes airdrops into Gaza - as baby girl dies weighing less than when she was born" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-resumes-airdrops-into-gaza-as-baby-girl-dies-weighing-less-than-when-she-was-born-13402351" target="_blank">Israel resumes airdrops into Gaza - as baby girl dies weighing less than when she was born</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-26 23:26</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/26/nigeria-beat-morocco-to-claim-wafcon-title-and-complete-mission-x?traffic_source=rss" target="_blank">Nigeria beat Morocco to claim WAFCON title and complete Mission X</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/de-ridder-beats-whittaker-in-middleweight-fight-at-ufc-abu-dhabi?traffic_source=rss" target="_blank">De Ridder beats Whittaker in middleweight fight at UFC Abu Dhabi</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-26 23:24</span>
+                <span class="time">2025-07-27 00:13</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sahillearninglinux/understanding-systemctl-the-heartbeat-of-modern-linux-4pf5" target="_blank">🤖Understanding systemctl: The Heartbeat of Modern Linux</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 06:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/capjud95/chezelle-intranet-frontend-challenge-office-edition-ckp" target="_blank">ChezElle Intranet : Frontend Challenge Office Edition</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 05:49</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/well133/maxwell-strategy-group-14o3" target="_blank">Maxwell Strategy Group</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-26 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tristanpemble.com/resizable-structs-in-zig/" target="_blank">Resizable Structs in Zig</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-26 21:43</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
