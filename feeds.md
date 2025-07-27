@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 09:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-27 10:01:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff59/live/c7d44e40-6a46-11f0-9878-a1f4f8230617.jpg" alt="Plans for pubs to get greater protection from noise complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwye5jx8y3go" target="_blank">Plans for pubs to get greater protection from noise complaints</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-27 07:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/gaza-main_1753595866958_hpMain_4x3t_384.jpg" alt="Israel announces &#x27;tactical&#x27; military pause in 3 Gaza areas, as aid routes set to open" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn437jjygl9o" target="_blank">Israel says it has begun aid airdrops into Gaza</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-27 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/de-ridder-beats-whittaker-in-middleweight-fight-at-ufc-abu-dhabi?traffic_source=rss" target="_blank">De Ridder beats Whittaker in split decision at UFC Abu Dhabi</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 00:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiha85815m4z5nolpenbg.png" alt="🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohamednizzad/behind-the-build-nexusflow-and-my-journey-in-axeros-office-challenge-5gnk" target="_blank">🧩 Behind the Build: NexusFlow and My Journey in Axero’s Office Challenge</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 09:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/weekly/weekly-30-2025-from-legacy-code-to-ai-myths-edge-innovation-i6j" target="_blank">Weekly #30-2025: From Legacy Code to AI Myths &amp; Edge Innovation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Execve" target="_blank">Linux 6.17 Looks To Address An Old &amp; Obscure Kernel Limitation From 1993</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 00:34</span>
             </div>
         </div>
 </div>
@@ -297,7 +291,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 09:02 UTC
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
