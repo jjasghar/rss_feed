@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 18:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-07-27 19:01:53 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, July 27, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-27 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250711-germany-port-european-tariffs-se-515p-ec686c.jpg" alt="Trump reaches agreement with E.U. to lower tariffs to 15%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/27/irans-plan-to-abandon-gps-is-about-much-more-than-technology?traffic_source=rss" target="_blank">Iran’s plan to abandon GPS is about much more than technology</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-27 15:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/27/israeli-forces-storm-gaza-bound-aid-ship-handala-in-international-waters?traffic_source=rss" target="_blank">Israeli forces storm Gaza-bound aid ship Handala in international waters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 14:33</span>
             </div>
         </div>
 </div>
@@ -170,6 +164,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://daniel.feldroy.com/posts/til-2025-05-exception-add_note" target="_blank">TIL: Exception.add_note</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-27 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1461749280684-dccba630e2f6%3Fw%3D800%26h%3D400%26fit%3Dcrop" alt="Real-Time AI Code Review Assistant with Redis Vector Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ai_agi/real-time-ai-code-review-assistant-with-redis-vector-search-56an" target="_blank">Real-Time AI Code Review Assistant with Redis Vector Search</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-27 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Kapitano-ClamAV-Linux.jpg?resize=406%2C232&amp;ssl=1" alt="Kapitano (Linux Antivirus Scanner) Developer Abandons Ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/kapitano-linux-antivirus-abandoned-by-dev" target="_blank">Kapitano (Linux Antivirus Scanner) Developer Abandons Ship</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-27 18:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137" target="_blank">Top Platform Engineering Mistakes to Watch Out For</a></span>
                 <span class="feed">DEV Community</span>
@@ -192,33 +213,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/enhance-your-code-security-with-amazon-inspector-45no" target="_blank">Enhance your Code Security with Amazon Inspector</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-AMDGPU-Driver-Size" target="_blank">AMD Kernel Graphics Driver Exceeds 5.9 Million Lines In Linux 6.16</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dumbpipe.dev/" target="_blank">Dumb Pipe</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-27 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-SoCs" target="_blank">Linux 6.17 Introducing Support For The NVIDIA Tegra T264/Thor, New RISC-V SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 13:55</span>
             </div>
         </div>
 </div>
@@ -299,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
