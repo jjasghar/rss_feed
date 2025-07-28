@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 19:03:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-28 20:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 36 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -73,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-gaza_6975778.jpg?20250728182820" alt="Israeli human rights organisations accuse country of genocide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-human-rights-organisations-accuse-country-of-genocide-13403174" target="_blank">Israeli human rights organisations accuse country of genocide</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-28 17:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -99,20 +99,20 @@
                 <span class="time">2025-07-28 13:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753706028610_f_mo_trump_starver_gaza_250728_1920x1080-jbm2pe.jpg" alt="Trump on if there is starvation in Gaza: &#x27;Those children look very hungry&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-on-if-there-is-starvation-in-gaza-those-children-look-very-hungry-243929669969" target="_blank">Trump on if there is starvation in Gaza: &#x27;Those children look very hungry&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/" target="_blank">Microsoft Edge is now an AI browser with launch of ‘Copilot Mode’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-28 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +158,20 @@
                 <span class="time">2025-07-28 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/futures-500x500.jpg" alt="Smithsonian Air and Space opens halls for “milestone” and “future” artifacts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/smithsonian-air-and-space-opens-halls-for-milestone-and-future-artifacts/" target="_blank">Smithsonian Air and Space opens halls for “milestone” and “future” artifacts</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-28 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539632&w=600" alt="AWS vs. Azure vs. GCP: A Comprehensive Guide to Choosing the Right Cloud Provider" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-vs-azure-vs-gcp-a-comprehensive-guide" target="_blank">AWS vs. Azure vs. GCP: A Comprehensive Guide to Choosing the Right Cloud Provider</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-28 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +217,6 @@
                 <span class="time">2025-07-28 17:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_tech/how-iot-and-sensor-data-are-revolutionizing-hvac-monitoring-10nl" target="_blank">How IoT and Sensor Data Are Revolutionizing HVAC Monitoring</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Rickfinale.jpg" alt="‘Rick and Morty’ Exec Producer Dan Harmon Is Already Thinking 2 Seasons Ahead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rick-and-morty-exec-producer-dan-harmon-is-already-thinking-2-seasons-ahead-2000635624" target="_blank">‘Rick and Morty’ Exec Producer Dan Harmon Is Already Thinking 2 Seasons Ahead</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-28 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/aced07d2157c045e414d4a44520a5755.jpg" alt="Wuchang: Fallen Feathers Has A Healthy Runtime You&#x27;ll Want To Experience More Than Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wuchang-fallen-feathers-how-long-to-beat-campaign-1851787173" target="_blank">Wuchang: Fallen Feathers Has A Healthy Runtime You&#x27;ll Want To Experience More Than Once</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-28 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/bigfootaliensunicorn-e1753730354240.jpg?fit=768%2C768&amp;quality=60&amp;ssl=1" alt="Congress and RFK Jr seek to prove the organ harvesting conspiracy theory is true" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/28/congress-and-rfk-jr-seek-to-prove-the-organ-harvesting-conspiracy-theory-is-true.html" target="_blank">Congress and RFK Jr seek to prove the organ harvesting conspiracy theory is true</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-28 19:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Weapons-movie-review.jpg" alt="‘Weapons’ Is a Terrifying, Fascinating, Excellent, Character-Driven Horror Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,33 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/airport-chargers-probably-arent-dangerous?utm_medium=RSS" target="_blank">Despite the TSA’s Warning, Airport Chargers Probably Aren’t Dangerous</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-28 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0c378ca53ebf7a3488cae7c06dd49de9.jpg" alt="Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157" target="_blank">Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-28 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-Black-Panther.jpg" alt="The Full ‘Eyes of Wakanda’ Trailer Shows a Whole New Side of the MCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-full-eyes-of-wakanda-trailer-shows-a-whole-new-side-of-the-mcu-2000635676" target="_blank">The Full ‘Eyes of Wakanda’ Trailer Shows a Whole New Side of the MCU</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-28 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-vanity-fair.jpg" alt="Our Terrifying First Look at Jacob Elordi in Guillermo del Toro’s ‘Frankenstein’ Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-terrifying-first-look-at-jacob-elordi-in-guillermo-del-toros-frankenstein-is-here-2000635591" target="_blank">Our Terrifying First Look at Jacob Elordi in Guillermo del Toro’s ‘Frankenstein’ Is Here</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-28 16:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 107 | 📡 Total Sources: 40 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
