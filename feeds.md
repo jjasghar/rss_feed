@@ -1,37 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 09:04:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-28 10:01:40 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 09:04 UTC</div>
+    <div class="newspaper-date">Monday, July 28, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +55,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-drone-attack-DB-250728_1753688177540_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with hundreds of drones and missiles prompting NATO response" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/nato-aircraft-scrambled-major-russian-drone-missile-strike/story?id=124128074" target="_blank">Russia hits Ukraine with hundreds of drones and missiles prompting NATO response</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-28 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/five-people-killed-in-shooting-at-market-in-thailands-bangkok?traffic_source=rss" target="_blank">Five people killed in shooting at market in Thailand’s Bangkok</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 09:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Andry-Blanco-Bonilla-venezuela-mn-1030-cfb1e6.jpg" alt="Venezuelans say they were beaten and sexually assaulted while detained at notorious CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/venezuelans-cecot-el-salvador-returned-abuse-rcna220924" target="_blank">Venezuelans say they were beaten and sexually assaulted while detained at notorious CECOT</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +109,20 @@
                 <span class="time">2025-07-28 06:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b10a/live/cc835020-6b32-11f0-b593-891ce1e0c83d.jpg" alt="Royals lead praise for &#x27;awesome&#x27; Lionesses after Euro win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y03dyyvx2o" target="_blank">Royals lead praise for &#x27;awesome&#x27; Lionesses after Euro win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-28 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5482074/czuba-hate-crime-palestinian-american-family" target="_blank">Landlord imprisoned in hate-crime attack on Palestinian American family has died</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-28 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/passenger-train-derails-in-germany-killing-three-and-injuring-dozens?traffic_source=rss" target="_blank">Passenger train derails in Germany, killing three and injuring dozens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 03:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord" target="_blank">Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-28 09:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +166,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/27/doge-has-built-an-ai-tool-to-slash-federal-regulations/" target="_blank">DOGE has built an AI tool to slash federal regulations</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-27 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688420d3d4153348a217c6ab/master/pass/What-is-Qi-2-Charging-Gear.png" alt="Qi2 Wireless Charging: Everything You Need to Know (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-qi2-wireless-charging/" target="_blank">Qi2 Wireless Charging: Everything You Need to Know (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-27 14:00</span>
             </div>
         </div>
 </div>
@@ -306,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
