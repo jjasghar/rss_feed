@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 02:43:11 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-28 03:31:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 02:43 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/passenger-train-derails-in-germany-killing-three-and-injuring-dozens?traffic_source=rss" target="_blank">Passenger train derails in Germany, killing three and injuring dozens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 03:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481828/rfk-jr-uspstf-advisory-panel-primary-care" target="_blank">Medical groups are concerned that RFK Jr. may dismiss a panel of primary care experts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-28 01:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinian-aid_6975674.jpg?20250728020954" alt="&#x27;Vast amounts of aid needed to stave off catastrophic health crisis in Gaza,&#x27; UN warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/israeli-strikes-kill-63-in-gaza-despite-pauses-as-hunger-crisis-deepens?traffic_source=rss" target="_blank">Israeli strikes kill 63 in Gaza despite ‘pauses’, as hunger crisis deepens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-27 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/27/piastri-holds-off-norris-to-win-rain-hit-f1-belgian-grand-prix?traffic_source=rss" target="_blank">Piastri holds off Norris to win rain-hit F1 Belgian Grand Prix</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5479052/the-fascinating-career-of-ichiro-suzuki" target="_blank">The fascinating career of Ichiro Suzuki</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 21:43</span>
             </div>
         </div>
 </div>
@@ -164,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scalabrix/system-design-interview-vault-75-must-know-concepts-scenarios-53nn" target="_blank">🚀 System Design Interview Vault: 75+ Must-Know Concepts &amp; Scenarios</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 03:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a" target="_blank">Communicate, Colaborate and Connect: A Holistic View</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 02:26</span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-Released" target="_blank">Linux 6.16 Released - Better Performance, NVIDIA Blackwell Open-Source &amp; Intel APX</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-27 21:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://daniel.feldroy.com/posts/til-2025-05-exception-add_note" target="_blank">TIL: Exception.add_note</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-27 19:01</span>
             </div>
         </div>
 </div>
@@ -292,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 02:43 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
