@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 22:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-28 23:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/28/did-the-eu-capitulate-to-donald-trumps-tariff-threats?traffic_source=rss" target="_blank">Did the EU capitulate to Donald Trump’s tariff threats?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5479230/the-legacy-of-hulk-hogans-sex-tape-scandal" target="_blank">The legacy of Hulk Hogan&#x27;s sex tape scandal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-28 22:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc1/live/f02d4e40-6be1-11f0-89ea-4d6f9851f623.jpg" alt="Lionesses welcomed home by jubilant fans after Euro 2025 win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-jd-vance-ohio-se-218p-6eb908.jpg" alt="Vance&#x27;s tour to tout Trump&#x27;s megabill offers a preview of his midterm mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-trump-megabill-offers-preview-midterm-mission-rcna221536" target="_blank">Vance&#x27;s tour to tout Trump&#x27;s megabill offers a preview of his midterm mission</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 19:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/hot-weather-DC-gty-bh-250727_1753620195561_hpMain_4x3t_384.jpg" alt="Heat indices could hit 120 as sweltering temperatures grip eastern half of US" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -78,38 +100,29 @@
                 <span class="time">2025-07-28 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5477556/aging-brain-health-lifestyle-diet-exercise-social-alzheimers" target="_blank">Trying to keep your brain young? A big new study finds these lifestyle changes help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-28 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-gaza_6975778.jpg?20250728182820" alt="Israeli human rights organisations accuse country of genocide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israeli-human-rights-organisations-accuse-country-of-genocide-13403174" target="_blank">Israeli human rights organisations accuse country of genocide</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-28 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/israeli-human-rights-group-israel-is-committing-genocide-in-gaza?traffic_source=rss" target="_blank">Israeli human rights group: Israel is committing genocide in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/flylogo-500x500.jpg" alt="The first company to complete a fully successful lunar landing is going public" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/the-first-company-to-complete-a-fully-successful-lunar-landing-is-going-public/" target="_blank">The first company to complete a fully successful lunar landing is going public</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-28 22:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark" target="_blank">The controversial legal tactic The Trump Organization is using to take down fake merch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-28 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/SmarthubII-mainproductphoto-500x500-1753734525.jpg" alt="Bankrupt Futurehome suddenly makes its smart home hub a subscription service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,29 +159,29 @@
                 <span class="time">2025-07-28 20:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/" target="_blank">Microsoft Edge is now an AI browser with launch of ‘Copilot Mode’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-28 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/new-york-state-cyber-chief-calls-out-trump-for-cybersecurity-cuts/" target="_blank">New York state cyber chief calls out Trump for cybersecurity cuts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-28 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9" target="_blank">Convert Any Picture into a Spreadsheet with FileConvertFree (Image to Excel Tool)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/apple-foundation-models-ios26/en/headerimage/apple-foundation-models-ios26-1753730877716.jpeg" alt="Apple Shares Details on Upcoming AI Foundation Models for iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Shares Details on Upcoming AI Foundation Models for iOS 26</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-28 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +216,6 @@
                 <span class="title"><a href="https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/" target="_blank">Scaling for impact: How GitHub Copilot supercharges smallholder farmers</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-07-28 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539632&w=600" alt="AWS vs. Azure vs. GCP: A Comprehensive Guide to Choosing the Right Cloud Provider" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-vs-azure-vs-gcp-a-comprehensive-guide" target="_blank">AWS vs. Azure vs. GCP: A Comprehensive Guide to Choosing the Right Cloud Provider</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-28 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/noting59/schema-evolution-in-kafka-how-to-design-resilient-event-contracts-in-go-1lla" target="_blank">Schema Evolution in Kafka: How to Design Resilient Event Contracts in Go</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 18:48</span>
             </div>
         </div>
 </div>
@@ -342,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 115 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
