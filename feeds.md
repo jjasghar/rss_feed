@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 01:29:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-28 02:43:11 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 02:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinian-aid_6975674.jpg?20250728020954" alt="&#x27;Vast amounts of aid needed to stave off catastrophic health crisis in Gaza,&#x27; UN warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-hamas-war-vast-amounts-of-aid-needed-to-stave-off-catastrophic-health-crisis-in-gaza-un-warns-13402838" target="_blank">&#x27;Vast amounts of aid needed to stave off catastrophic health crisis in Gaza,&#x27; UN warns</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-27 23:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5479052/the-fascinating-career-of-ichiro-suzuki" target="_blank">The fascinating career of Ichiro Suzuki</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-27 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: EU will buy $750 billion worth of U.S. energy under deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: EU will buy $750 billion worth of U.S. energy under deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-27 20:52</span>
             </div>
         </div>
 </div>
@@ -169,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a" target="_blank">Communicate, Colaborate and Connect: A Holistic View</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/linux-6.16.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.16 Released with OpenVPN Speed Boost, 5-Level Paging + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/linux-6-16-released-openvpn-speed-boost-5-level-paging" target="_blank">Linux 6.16 Released with OpenVPN Speed Boost, 5-Level Paging + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-28 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dpc/daily-javascript-challenge-js-237-find-the-second-largest-element-in-an-array-2pia" target="_blank">Daily JavaScript Challenge #JS-237: Find the Second Largest Element in an Array</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 00:00</span>
@@ -199,24 +212,6 @@
                 <span class="title"><a href="https://daniel.feldroy.com/posts/til-2025-05-exception-add_note" target="_blank">TIL: Exception.add_note</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-07-27 19:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1461749280684-dccba630e2f6%3Fw%3D800%26h%3D400%26fit%3Dcrop" alt="Real-Time AI Code Review Assistant with Redis Vector Search" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ai_agi/real-time-ai-code-review-assistant-with-redis-vector-search-56an" target="_blank">Real-Time AI Code Review Assistant with Redis Vector Search</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Kapitano-ClamAV-Linux.jpg?resize=406%2C232&amp;ssl=1" alt="Kapitano (Linux Antivirus Scanner) Developer Abandons Ship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/kapitano-linux-antivirus-abandoned-by-dev" target="_blank">Kapitano (Linux Antivirus Scanner) Developer Abandons Ship</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-27 18:31</span>
             </div>
         </div>
 </div>
@@ -297,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 02:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
