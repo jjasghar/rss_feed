@@ -1,45 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 10:01:40 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-28 11:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/28/g-s1-79858/up-first-newsletter-trump-united-nations-deal-medicaid-gaza-israel" target="_blank">Trump lands trade deal with EU. And, Pete Buttigieg on what&#x27;s next for Democrats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-28 10:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Kyiv-drone-attack-DB-250728_1753688177540_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with hundreds of drones and missiles prompting NATO response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/thailand-cambodia-border-clashes-continue-before-malaysia-ceasefire-talks?traffic_source=rss" target="_blank">Thailand, Cambodia hold ceasefire talks in Malaysia as clashes continue</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-28 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/28/colombia-halts-coal-exports-to-israel-amid-gaza-genocide?traffic_source=rss" target="_blank">Colombia halts coal exports to Israel amid Gaza Genocide</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 06:02</span>
             </div>
         </div>
 </div>
@@ -177,6 +172,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln" target="_blank">Cursor AI Tips and tricks on Medium</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rockchip-NPU-Linux-Mesa" target="_blank">Rockchip NPU Driver &quot;Rocket&quot; Expected By Linux 6.18, Mesa 25.3 Brings User-Space Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-28 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a" target="_blank">Why TikTok&#x27;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 08:51</span>
@@ -195,36 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/" target="_blank">How to Make Websites That Will Require Lots of Your Time and Energy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-28 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://abitmighty.com/posts/the-ultimate-meeting-culture" target="_blank">The ultimate meeting culture</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-28 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o" target="_blank">🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vivek-aws/elder-care-companion-io7" target="_blank">Elder Care Companion 🤖❤️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/sebastien/multiplex" target="_blank">multiplex: Command-line process mutliplexer</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-28 05:16</span>
             </div>
         </div>
 </div>
@@ -314,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
