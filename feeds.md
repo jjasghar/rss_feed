@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 17:04:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-28 18:02:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +103,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-500x500.jpg" alt="Trump admin. is muffling CDC’s flagship health journal, report finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/trump-admin-is-muffling-cdcs-flagship-health-journal-report-finds/" target="_blank">Trump admin. is muffling CDC’s flagship health journal, report finds</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-28 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68826e4e8153b05c7d2a0830/master/pass/Uncanny-Valley-Peter-Thiel-Business-2152107574.jpg" alt="Is Silicon Valley Losing Its Influence on DC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/" target="_blank">Is Silicon Valley Losing Its Influence on DC?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-28 17:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -144,24 +156,6 @@
                 <span class="time">2025-07-28 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview" target="_blank">ChatGPT can be a disaster for lawyers — Robin AI says it can fix that</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68858a3e05de5294fdb858b1/master/pass/The%20Best%20Smart%20Rings%20to%20Rule%20Them%20All.png" alt="The Best Smart Rings, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smart-rings/" target="_blank">The Best Smart Rings, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-28 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +164,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Linux-6.17" target="_blank">Bcachefs To Remove Its Experimental Label In Linux 6.18 - If It&#x27;s Still In The Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-28 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dev_tech/how-iot-and-sensor-data-are-revolutionizing-hvac-monitoring-10nl" target="_blank">How IoT and Sensor Data Are Revolutionizing HVAC Monitoring</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534649&w=600" alt="Debugging Bias: How to Audit Machine Learning Models for Fairness at Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/debugging-bias-auditing-ml-models" target="_blank">Debugging Bias: How to Audit Machine Learning Models for Fairness at Scale</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-28 17:00</span>
             </div>
         </div>
@@ -203,24 +215,6 @@
                 <span class="time">2025-07-28 15:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-137-3ia3" target="_blank">What are your goals for the week? #137</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@tao/114915604830689046" target="_blank">Tao on &quot;blue team&quot; vs. &quot;red team&quot; LLMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-28 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0c378ca53ebf7a3488cae7c06dd49de9.jpg" alt="Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157" target="_blank">Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-28 17:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-Black-Panther.jpg" alt="The Full ‘Eyes of Wakanda’ Trailer Shows a Whole New Side of the MCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +288,6 @@
                 <span class="time">2025-07-28 13:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7462ad7478f5cbeda907ef1376d6f095.jpg" alt="Fantastic Four: First Steps&#x27; Opening Weekend Beat Superman&#x27;s By Just $1 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100" target="_blank">Fantastic Four: First Steps&#x27; Opening Weekend Beat Superman&#x27;s By Just $1 Million</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-28 13:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
