@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 12:02:22 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-28 13:13:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/28/g-s1-79858/up-first-newsletter-trump-united-nations-deal-medicaid-gaza-israel" target="_blank">Trump lands trade deal with EU. And, Pete Buttigieg on what&#x27;s next for Democrats</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-28 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/starmer_trump_split-uc9714.jpg" alt="Trump meets with British prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-meets-with-british-prime-minister-243920965855" target="_blank">Trump meets with British prime minister</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 10:37</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +92,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/venezuelans-cecot-el-salvador-returned-abuse-rcna220924" target="_blank">Venezuelans say they were beaten, sexually assaulted while held at notorious CECOT</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Andry-Blanco-Bonilla-venezuela-mn-1030-cfb1e6.jpg" alt="Venezuelans say they were beaten and sexually assaulted while detained at notorious CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/venezuelans-cecot-el-salvador-returned-abuse-rcna220924" target="_blank">Venezuelans say they were beaten and sexually assaulted while detained at notorious CECOT</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-28 09:00</span>
             </div>
@@ -166,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mongodb/building-with-symfony-scaling-surfsharks-backend-39pf" target="_blank">Building With Symfony: Scaling Surfshark’s Backend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528683&w=600" alt="Measuring DevOps Success in the Enterprise With DORA Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/devops-success-enterprise-dora-metrics" target="_blank">Measuring DevOps Success in the Enterprise With DORA Metrics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528660&w=600" alt="How to Ethically Integrate AI Into Your Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -201,24 +214,6 @@
                 <span class="time">2025-07-28 08:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/net-maui-10-preview-6/en/headerimage/header-1670341892423-1753308367382.jpg" alt=".NET MAUI 10 Preview 6 Brings Performance Updates, Small Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/net-maui-10-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET MAUI 10 Preview 6 Brings Performance Updates, Small Enhancements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/" target="_blank">How to Make Websites That Will Require Lots of Your Time and Energy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-28 07:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/smartphone-photorgraphing-mushroom.jpg" alt="Your Nature Photos Are Doing More Science Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/your-nature-photos-are-doing-more-science-than-you-think-2000631468" target="_blank">Your Nature Photos Are Doing More Science Than You Think</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K188DEH5HEX9R8J5QX3PGPKM/hero-image.png" alt="These Highly Rated Sony Earbuds Are More Than Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sony-linkbuds-fit-earbuds-refurbished-sale?utm_medium=RSS" target="_blank">These Highly Rated Sony Earbuds Are More Than Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-28 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/overlordanime-sdcc.jpg" alt="Crunchyroll is Bringing More Anime to Movie Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +287,6 @@
                 <span class="time">2025-07-27 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/shutterstock_1794706972.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Britons! Why get AC when you can just smear yoghurt all over your windows?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/27/britons-why-get-ac-when-you-can-just-smear-yoghurt-all-over-your-windows.html" target="_blank">Britons! Why get AC when you can just smear yoghurt all over your windows?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-27 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ratio3x2_960.webp?fit=960%2C640&amp;quality=55&amp;ssl=1" alt="The last Sears in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/27/the-last-sears-in-california.html" target="_blank">The last Sears in California</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-27 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,7 +316,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
