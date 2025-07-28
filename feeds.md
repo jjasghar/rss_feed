@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 04:17:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-28 05:07:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 04:17 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5482074/czuba-hate-crime-palestinian-american-family" target="_blank">Landlord imprisoned in hate-crime attack on Palestinian American family has died</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-28 04:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-outlines-preliminary-trade-deal-with-european-union-243911237616" target="_blank">Trump outlines preliminary trade deal with European Union</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-27 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/israeli-strikes-kill-63-in-gaza-despite-pauses-as-hunger-crisis-deepens?traffic_source=rss" target="_blank">Israeli strikes kill 63 in Gaza despite ‘pauses’, as hunger crisis deepens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-27 22:54</span>
             </div>
         </div>
 </div>
@@ -161,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F200521%2Fdc60b2f5-3a14-41dd-b35a-e0f621f126eb.jpg" alt="What I&#x27;ve Gained After 6 Years Blogging on dev.to" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife" target="_blank">What I&#x27;ve Gained After 6 Years Blogging on dev.to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/devraiks/how-i-built-mymealmind-a-full-recipe-platform-in-just-weeks-with-bolt-10gh" target="_blank">How I Built MyMealMind — A Full Recipe Platform in Just Weeks with Bolt</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-Released" target="_blank">Linux 6.16 Released - Better Performance, NVIDIA Blackwell Open-Source &amp; Intel APX</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-27 21:31</span>
             </div>
         </div>
 </div>
@@ -292,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 04:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
