@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 06:02:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-28 07:04:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/7/28/colombia-halts-coal-exports-to-israel-amid-gaza-genocide?traffic_source=rss" target="_blank">Colombia halts coal exports to Israel amid Gaza Genocide</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b10a/live/cc835020-6b32-11f0-b593-891ce1e0c83d.jpg" alt="Royals lead praise for &#x27;awesome&#x27; Lionesses after Euro win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y03dyyvx2o" target="_blank">Royals lead praise for &#x27;awesome&#x27; Lionesses after Euro win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-28 04:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://news.sky.com/story/israel-hamas-war-vast-amounts-of-aid-needed-to-stave-off-catastrophic-health-crisis-in-gaza-un-warns-13402838" target="_blank">&#x27;Vast amounts of aid needed to stave off catastrophic health crisis in Gaza,&#x27; UN warns</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-27 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/835453983/tom-lehrer-musical-satirist-dead" target="_blank">Tom Lehrer, influential musical satirist, dies at 97</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-27 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753657584715_nn_kod_US_reaches_trade_deal_with_EU_250727_1920x1080-0psomf.jpg" alt="Trump outlines preliminary trade deal with European Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-outlines-preliminary-trade-deal-with-european-union-243911237616" target="_blank">Trump outlines preliminary trade deal with European Union</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-27 23:06</span>
             </div>
         </div>
 </div>
@@ -166,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o" target="_blank">🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vivek-aws/elder-care-companion-io7" target="_blank">Elder Care Companion 🤖❤️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 05:47</span>
@@ -205,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a" target="_blank">Communicate, Colaborate and Connect: A Holistic View</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/linux-6.16.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.16 Released with OpenVPN Speed Boost, 5-Level Paging + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/linux-6-16-released-openvpn-speed-boost-5-level-paging" target="_blank">Linux 6.16 Released with OpenVPN Speed Boost, 5-Level Paging + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-28 02:12</span>
             </div>
         </div>
 </div>
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
