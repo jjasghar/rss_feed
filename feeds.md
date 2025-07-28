@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 13:13:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-28 14:03:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/28/the-nile-cannot-be-governed-by-colonial-era-treaties?traffic_source=rss" target="_blank">The Nile cannot be governed by colonial-era treaties</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 13:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +107,20 @@
                 <span class="time">2025-07-28 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Andry-Blanco-Bonilla-venezuela-mn-1030-cfb1e6.jpg" alt="Venezuelans say they were beaten, sexually assaulted while held at notorious CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/venezuelans-cecot-el-salvador-returned-abuse-rcna220924" target="_blank">Venezuelans say they were beaten, sexually assaulted while held at notorious CECOT</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview" target="_blank">ChatGPT can be a disaster for lawyers — Robin AI says it can fix that</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-28 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +166,47 @@
                 <span class="time">2025-07-27 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/katrina10-500x500-1753213243.jpg" alt="20 years after Katrina, NatGeo and New Orleans remember" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/20-years-after-katrina-natgeo-and-new-orleans-remember/" target="_blank">20 years after Katrina, NatGeo and New Orleans remember</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-27 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/righ_48/gridsheet-v2-a-modern-extensible-spreadsheet-engine-for-the-web-1a69" target="_blank">GridSheet v2 – A Modern, Extensible Spreadsheet Engine for the Web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/" target="_blank">The Geological Sublime</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-28 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Runtime-PM-Raspberry-Pi-V3D" target="_blank">Runtime PM For The V3D Raspberry Pi Driver Will Finally Lower The GPU Clock When Idle</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-28 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18529454&w=600" alt="5 Ways Microsoft’s MCP Protocol Will Transform Software Testing Forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/microsoft-mcp-protocol-software-testing" target="_blank">5 Ways Microsoft’s MCP Protocol Will Transform Software Testing Forever</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,48 +217,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528683&w=600" alt="Measuring DevOps Success in the Enterprise With DORA Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/en/headerimage/java-istock-image-01-1753705941389.jpg" alt="Spring News Roundup: Milestone Releases of Boot, Security, Auth Server, GraphQL, Kafka, Pulsar" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/devops-success-enterprise-dora-metrics" target="_blank">Measuring DevOps Success in the Enterprise With DORA Metrics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528660&w=600" alt="How to Ethically Integrate AI Into Your Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-ethically-integrate-ai-into-your-software" target="_blank">How to Ethically Integrate AI Into Your Software</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-28 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_edgefl/cursor-ai-tips-and-tricks-on-medium-1gln" target="_blank">Cursor AI Tips and tricks on Medium</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rockchip-NPU-Linux-Mesa" target="_blank">Rockchip NPU Driver &quot;Rocket&quot; Expected By Linux 6.18, Mesa 25.3 Brings User-Space Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-28 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a" target="_blank">Why TikTok&#x27;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 08:51</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Milestone Releases of Boot, Security, Auth Server, GraphQL, Kafka, Pulsar</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-28 12:35</span>
             </div>
         </div>
 </div>
@@ -233,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Insta360-Antigravity-Fish-Eye-shot.jpg" alt="The Best 360 Camera Maker Is Making an ‘Immersive’ Drone and DJI Should Be Very Worried" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-best-360-camera-maker-is-making-an-immersive-drone-and-dji-should-be-very-worried-2000635517" target="_blank">The Best 360 Camera Maker Is Making an ‘Immersive’ Drone and DJI Should Be Very Worried</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-28 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7462ad7478f5cbeda907ef1376d6f095.jpg" alt="Fantastic Four: First Steps&#x27; Opening Weekend Beat Superman&#x27;s By Just $1 Million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100" target="_blank">Fantastic Four: First Steps&#x27; Opening Weekend Beat Superman&#x27;s By Just $1 Million</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-28 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/smartphone-photorgraphing-mushroom.jpg" alt="Your Nature Photos Are Doing More Science Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +298,6 @@
                 <span class="time">2025-07-27 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/SDCC-2025-hasbro-marvel-legends-star-wars-reveals.jpg" alt="The Coolest Hasbro Marvel and ‘Star Wars’ Reveals of San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sdcc-2025-hasbro-marvel-legends-star-wars-black-series-2000635314" target="_blank">The Coolest Hasbro Marvel and ‘Star Wars’ Reveals of San Diego Comic-Con 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/starfleet.jpg" alt="‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-starfleet-academy-sdcc-2025-panel-2000635137" target="_blank">‘Star Trek: Starfleet Academy’ Cast and Creators Lift the Lid on Their New Series</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-27 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
