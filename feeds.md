@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 11:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-28 12:02:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +57,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/28/christopher-nolan-criticised-for-filming-in-occupied-western-sahara-city" target="_blank">Christopher Nolan criticised for filming in occupied Western Sahara city</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-28 10:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Kyiv-drone-attack-DB-250728_1753688177540_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with hundreds of drones and missiles prompting NATO response" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -78,6 +84,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Andry-Blanco-Bonilla-venezuela-mn-1030-cfb1e6.jpg" alt="Venezuelans say they were beaten, sexually assaulted while held at notorious CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/venezuelans-cecot-el-salvador-returned-abuse-rcna220924" target="_blank">Venezuelans say they were beaten, sexually assaulted while held at notorious CECOT</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250725-Andry-Blanco-Bonilla-venezuela-mn-1030-cfb1e6.jpg" alt="Venezuelans say they were beaten and sexually assaulted while detained at notorious CECOT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -86,29 +101,20 @@
                 <span class="time">2025-07-28 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/28/video-landslide-causes-train-crash-in-germany-killing-three?traffic_source=rss" target="_blank">Video: Landslide causes train crash in Germany, killing three</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/thailand-cambodia-border-clashes-continue-before-malaysia-ceasefire-talks?traffic_source=rss" target="_blank">Thailand, Cambodia hold ceasefire talks in Malaysia as clashes continue</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 07:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case" target="_blank">How Trump let Boeing off the hook for the 737 MAX crashes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-28 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +160,20 @@
                 <span class="time">2025-07-27 17:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/27/doge-has-built-an-ai-tool-to-slash-federal-regulations/" target="_blank">DOGE has built an AI tool to slash federal regulations</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-27 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18528660&w=600" alt="How to Ethically Integrate AI Into Your Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-ethically-integrate-ai-into-your-software" target="_blank">How to Ethically Integrate AI Into Your Software</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-28 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,13 +219,18 @@
                 <span class="time">2025-07-28 07:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://abitmighty.com/posts/the-ultimate-meeting-culture" target="_blank">The ultimate meeting culture</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-28 07:27</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/microsoft-sharepoint-zero-day.html" target="_blank">Microsoft SharePoint Zero-Day</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-28 11:09</span>
             </div>
         </div>
 </div>
@@ -309,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
