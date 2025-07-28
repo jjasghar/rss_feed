@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-27 23:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-28 00:05:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, July 27, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753657584715_nn_kod_US_reaches_trade_deal_with_EU_250727_1920x1080-0psomf.jpg" alt="Trump outlines preliminary trade deal with European Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-outlines-preliminary-trade-deal-with-european-union-243911237616" target="_blank">Trump outlines preliminary trade deal with European Union</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-27 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/27/israeli-strikes-kill-63-in-gaza-despite-pauses-as-hunger-crisis-deepens?traffic_source=rss" target="_blank">Israeli strikes kill 63 in Gaza despite ‘pauses’, as hunger crisis deepens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-27 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2xylk3d07o" target="_blank">EU and US agree trade deal, with 15% tariffs for European exports to America</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-27 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be3/live/072f5180-6b2c-11f0-af20-030418be2ca5.jpg" alt="No bank holiday after Lionesses make history in Basel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgewg2yj5zo" target="_blank">No bank holiday after Lionesses make history in Basel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-27 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-von-der-leyen-deal_1753639276050_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=123918735" target="_blank">Trump admin live updates: Trump and EU say they&#x27;ve made a trade deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-27 18:48</span>
             </div>
         </div>
 </div>
@@ -170,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dpc/daily-javascript-challenge-js-237-find-the-second-largest-element-in-an-array-2pia" target="_blank">Daily JavaScript Challenge #JS-237: Find the Second Largest Element in an Array</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devraiks/how-i-built-mymealmind-a-full-recipe-platform-in-just-weeks-with-bolt-10gh" target="_blank">How I Built MyMealMind — A Full Recipe Platform in Just Weeks with Bolt</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-27 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16-Released" target="_blank">Linux 6.16 Released - Better Performance, NVIDIA Blackwell Open-Source &amp; Intel APX</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-27 21:31</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/kapitano-linux-antivirus-abandoned-by-dev" target="_blank">Kapitano (Linux Antivirus Scanner) Developer Abandons Ship</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-27 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mehul_budasana/top-platform-engineering-mistakes-to-watch-out-for-137" target="_blank">Top Platform Engineering Mistakes to Watch Out For</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-27 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/segmentationf4u1t/trae_telemetry_research" target="_blank">Disabling telemetry in ByteDance&#x27;s VSCode fork increases data sent to its server</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-27 17:57</span>
             </div>
         </div>
 </div>
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
