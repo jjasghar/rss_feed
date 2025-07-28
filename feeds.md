@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 16:02:03 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-28 17:04:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/israeli-human-rights-group-israel-is-committing-genocide-in-gaza?traffic_source=rss" target="_blank">Israeli human rights group: Israel is committing genocide in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f04/live/a66cc050-6bab-11f0-8dbd-f3d32ebd3327.jpg" alt="Gaza experiencing &#x27;real starvation&#x27;, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62nr9rglm9o?at_medium=RSS&at_campaign=rss" target="_blank">Gaza experiencing &#x27;real starvation&#x27;, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-28 15:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,38 @@
                 <span class="time">2025-07-28 10:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/28/christopher-nolan-criticised-for-filming-in-occupied-western-sahara-city" target="_blank">Christopher Nolan criticised for filming in occupied Western Sahara city</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-28 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-drone-attack-DB-250728_1753688177540_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with hundreds of drones and missiles prompting NATO response" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/nato-aircraft-scrambled-major-russian-drone-missile-strike/story?id=124128074" target="_blank">Russia hits Ukraine with hundreds of drones and missiles prompting NATO response</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-28 09:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features" target="_blank">Microsoft Edge transforms into an AI browser with new Copilot Mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/" target="_blank">Google Chrome adds AI-powered store summaries to help US shoppers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/futures-500x500.jpg" alt="Smithsonian Air and Space opens halls for “milestone” and “future” artifacts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/07/smithsonian-air-and-space-opens-halls-for-milestone-and-future-artifacts/" target="_blank">Smithsonian Air and Space opens halls for “milestone” and “future” artifacts</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-28 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,33 +162,6 @@
                 <span class="time">2025-07-28 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case" target="_blank">How Trump let Boeing off the hook for the 737 MAX crashes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord" target="_blank">Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-28 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/27/wizard-of-oz-blown-up-by-ai-for-giant-sphere-screen/" target="_blank">‘Wizard of Oz’ blown up by AI for giant Sphere screen</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-27 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +171,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_tech/how-iot-and-sensor-data-are-revolutionizing-hvac-monitoring-10nl" target="_blank">How IoT and Sensor Data Are Revolutionizing HVAC Monitoring</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/america-ai-action-plan/en/headerimage/generatedHeaderImage-1753718082995.jpg" alt="The White House Releases National AI Strategy Focused on Innovation, Infrastructure, and Global Lead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/america-ai-action-plan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The White House Releases National AI Strategy Focused on Innovation, Infrastructure, and Global Lead</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-28 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arasosman/understanding-gos-type-system-a-complete-guide-to-interfaces-structs-and-composition-2025-3an" target="_blank">Understanding Go&#x27;s Type System: A Complete Guide to Interfaces, Structs, and Composition [2025]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-616-x86-native-cpu" target="_blank">Linux 6.16&#x27;s New &quot;X86_NATIVE_CPU&quot; Option Enhances I/O &amp; Some Graphics/Gaming Workloads</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-28 15:46</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +219,6 @@
                 <span class="title"><a href="https://mathstodon.xyz/@tao/114915604830689046" target="_blank">Tao on &quot;blue team&quot; vs. &quot;red team&quot; LLMs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-28 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1029307/" target="_blank">Following up on the Python JIT</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-28 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/righ_48/gridsheet-v2-a-modern-extensible-spreadsheet-engine-for-the-web-1a69" target="_blank">GridSheet v2 – A Modern, Extensible Spreadsheet Engine for the Web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/" target="_blank">The Geological Sublime</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-28 13:10</span>
             </div>
         </div>
 </div>
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Eyes-of-Wakanda-Black-Panther.jpg" alt="The Full ‘Eyes of Wakanda’ Trailer Shows a Whole New Side of the MCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-full-eyes-of-wakanda-trailer-shows-a-whole-new-side-of-the-mcu-2000635676" target="_blank">The Full ‘Eyes of Wakanda’ Trailer Shows a Whole New Side of the MCU</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-28 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-vanity-fair.jpg" alt="Our Terrifying First Look at Jacob Elordi in Guillermo del Toro’s ‘Frankenstein’ Is Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +294,20 @@
                 <span class="time">2025-07-28 13:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/smartphone-photorgraphing-mushroom.jpg" alt="Your Nature Photos Are Doing More Science Than You Think" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/your-nature-photos-are-doing-more-science-than-you-think-2000631468" target="_blank">Your Nature Photos Are Doing More Science Than You Think</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753679085-20250728.png" alt="Saturday Morning Breakfast Cereal - Enhance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/enhance-2" target="_blank">Saturday Morning Breakfast Cereal - Enhance</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-28 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -310,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
