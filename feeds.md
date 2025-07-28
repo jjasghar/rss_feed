@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 08:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-28 09:04:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, July 28, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/28/video-landslide-causes-train-crash-in-germany-killing-three?traffic_source=rss" target="_blank">Video: Landslide causes train crash in Germany, killing three</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-28 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/28/passenger-train-derails-in-germany-killing-three-and-injuring-dozens?traffic_source=rss" target="_blank">Passenger train derails in Germany, killing three and injuring dozens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-28 03:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/27/nx-s1-5481828/rfk-jr-uspstf-advisory-panel-primary-care" target="_blank">Medical groups are concerned that RFK Jr. may dismiss a panel of primary care experts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-28 01:50</span>
             </div>
         </div>
 </div>
@@ -170,6 +169,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ryo_suwito/why-tiktoks-pc-streaming-sucks-the-200-billion-export-pipeline-disguised-as-a-social-media-app-2n1a" target="_blank">Why TikTok&#x27;s PC Streaming Sucks: The $200 Billion Export Pipeline Disguised as a Social Media App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/net-maui-10-preview-6/en/headerimage/header-1670341892423-1753308367382.jpg" alt=".NET MAUI 10 Preview 6 Brings Performance Updates, Small Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/net-maui-10-preview-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET MAUI 10 Preview 6 Brings Performance Updates, Small Enhancements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-28 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://abitmighty.com/posts/the-ultimate-meeting-culture" target="_blank">The ultimate meeting culture</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-28 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kareemblessed/payshield-the-voice-powered-shield-against-24b-daily-invoice-fraud-2o1o" target="_blank">🛡️ PayShield: The Voice-Powered Shield Against $2.4B Daily Invoice Fraud</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 07:02</span>
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://github.com/sebastien/multiplex" target="_blank">multiplex: Command-line process mutliplexer</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-07-28 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F200521%2Fdc60b2f5-3a14-41dd-b35a-e0f621f126eb.jpg" alt="What I&#x27;ve Gained After 6 Years Blogging on dev.to" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/what-ive-gained-after-6-years-blogging-on-devto-4ife" target="_blank">What I&#x27;ve Gained After 6 Years Blogging on dev.to</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scalabrix/system-design-interview-vault-75-must-know-concepts-scenarios-53nn" target="_blank">🚀 System Design Interview Vault: 75+ Must-Know Concepts &amp; Scenarios</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kailera/communicate-colaborate-and-connect-a-holistic-view-1a" target="_blank">Communicate, Colaborate and Connect: A Holistic View</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 02:26</span>
             </div>
         </div>
 </div>
@@ -307,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
