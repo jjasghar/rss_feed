@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-28 23:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 00:05:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, July 28, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-345-park-ave-active-shooter-google-maps-snip-ac-708p-0352cc.jpg" alt="Active shooter reported in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Active shooter reported in New York City</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 23:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -62,6 +74,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5479230/the-legacy-of-hulk-hogans-sex-tape-scandal" target="_blank">The legacy of Hulk Hogan&#x27;s sex tape scandal</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-28 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-jordan-gaza_6976450.jpg?20250728221159" alt="Mile after mile of grey rubble - the view from a plane dropping aid to Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mile-after-mile-of-grey-rubble-the-view-from-a-plane-dropping-aid-to-gaza-13403242" target="_blank">Mile after mile of grey rubble - the view from a plane dropping aid to Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-28 20:54</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +103,20 @@
                 <span class="time">2025-07-28 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-jd-vance-ohio-se-218p-6eb908.jpg" alt="Vance&#x27;s tour to tout Trump&#x27;s megabill offers a preview of his midterm mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/jd-vance/vance-trump-megabill-offers-preview-midterm-mission-rcna221536" target="_blank">Vance&#x27;s tour to tout Trump&#x27;s megabill offers a preview of his midterm mission</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/hot-weather-DC-gty-bh-250727_1753620195561_hpMain_4x3t_384.jpg" alt="Heat indices could hit 120 as sweltering temperatures grip eastern half of US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/130-million-people-brace-sweltering-conditions-us/story?id=124112918" target="_blank">Heat indices could hit 120 as sweltering temperatures grip eastern half of US</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-28 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/28/waymo-taps-avis-to-manage-robotaxi-fleet-in-dallas/" target="_blank">Waymo taps Avis to manage robotaxi fleet in Dallas</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-28 23:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/flylogo-500x500.jpg" alt="The first company to complete a fully successful lunar landing is going public" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +162,20 @@
                 <span class="time">2025-07-28 20:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/714833/google-pixel-6a-fire-battery-update" target="_blank">Yet another Pixel 6A caught fire</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-28 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2771611%2F92607f20-c180-4594-8e29-61cd512ba565.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pearltechie/-3c69" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-28 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9" target="_blank">Convert Any Picture into a Spreadsheet with FileConvertFree (Image to Excel Tool)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 22:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://use-their-id.com/" target="_blank">Show HN: Use Their ID – Use Your Local UK MP&#x27;s ID for the Online Safety Act</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-28 21:49</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Hyprland-Hyprperks" target="_blank">Hyprland Wayland Compositor Launches Subscription Service For &quot;Premium Desktop Experience&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-28 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539653&w=600" alt="Getting Started With DuckDB in Python: A Fast and Lightweight Analytics Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/duckdb-python-sql-guide" target="_blank">Getting Started With DuckDB in Python: A Fast and Lightweight Analytics Database</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-28 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/" target="_blank">Scaling for impact: How GitHub Copilot supercharges smallholder farmers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-28 19:53</span>
             </div>
         </div>
 </div>
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
