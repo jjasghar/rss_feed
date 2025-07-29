@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 03:32:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 04:18:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 03:33 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 04:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d8/live/a71b68b0-6c20-11f0-89ea-4d6f9851f623.jpg" alt="London to celebrate Lionesses with open-top bus parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpdjq3jd5npo?at_medium=RSS&at_campaign=rss" target="_blank">London to celebrate Lionesses with open-top bus parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-29 02:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Police officer and at least one civilian shot at New York City office building</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-345-park-ave-active-shooter-google-maps-snip-ac-708p-0352cc.jpg" alt="Active shooter reported in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Active shooter reported in New York City</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-28 23:17</span>
             </div>
@@ -173,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/addons.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Add-Ons Website Revamps Listing Pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/mozilla-addons-listing-page-redesign" target="_blank">Firefox Add-Ons Website Revamps Listing Pages</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-29 02:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -206,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9" target="_blank">Convert Any Picture into a Spreadsheet with FileConvertFree (Image to Excel Tool)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-28 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://use-their-id.com/" target="_blank">Show HN: Use Their ID – Use Your Local UK MP&#x27;s ID for the Online Safety Act</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-28 21:49</span>
             </div>
         </div>
 </div>
@@ -322,22 +320,13 @@
                 <span class="time">2025-07-28 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/kite_incident.png" alt="Kite Incident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3121/" target="_blank">Kite Incident</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-28 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:33 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
