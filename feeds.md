@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 01:30:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 02:45:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 02:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/29/as-trumps-august-1-deadline-looms-tariffs-are-here-to-say-experts-say?traffic_source=rss" target="_blank">As Trump’s August 1 deadline looms, tariffs are here to say, experts say</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 02:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/heavy-rains-flooding-kill-at-least-30-in-beijing-as-downpour-continues?traffic_source=rss" target="_blank">Heavy rains, flooding kill at least 30 in Beijing as downpour continues</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-29 00:59</span>
@@ -66,6 +72,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  At least 3 killed in Midtown Manhattan shooting: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-29 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-6-ac-804p-14dcfe.jpg" alt="5 killed, including a police officer, in shooting at New York City office building" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">5 killed, including a police officer, in shooting at New York City office building</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 23:17</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Active shooter reported in New York City</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-28 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/7/28/did-the-eu-capitulate-to-donald-trumps-tariff-threats?traffic_source=rss" target="_blank">Did the EU capitulate to Donald Trump’s tariff threats?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-28 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/28/nx-s1-5479230/the-legacy-of-hulk-hogans-sex-tape-scandal" target="_blank">The legacy of Hulk Hogan&#x27;s sex tape scandal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-28 22:38</span>
             </div>
         </div>
 </div>
@@ -169,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul21-2025/en/headerimage/java-istock-image-01-1753735024990.jpg" alt="Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-29 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Super-Multi-Device" target="_blank">Linux 6.17 Will Let Multi-Device Filesystems Better Cope With Losing A Disk</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 00:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2771611%2F92607f20-c180-4594-8e29-61cd512ba565.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Shares Details on Upcoming AI Foundation Models for iOS 26</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-28 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ganesan_krishnan_dc888df2/classmethod-and-staticmethod-2a35" target="_blank">@classmethod and @staticmethod</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-Hyprperks" target="_blank">Hyprland Wayland Compositor Launches Subscription Service For &quot;Premium Desktop Experience&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-28 20:01</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
