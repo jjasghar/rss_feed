@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 04:18:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 05:08:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 04:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/shooting-midtown-manhattan_1753758794749_hpMain_4x3t_384.jpg" alt="What we know about Shane Devon Tamura, the suspect of the Midtown Manhattan shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/shane-devon-tamura-suspect-midtown-manhattan-shooting/story?id=124159125" target="_blank">What we know about Shane Devon Tamura, the suspect of the Midtown Manhattan shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 04:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/29/how-englands-lionesses-won-the-uefa-euro-2025-title?traffic_source=rss" target="_blank">How England’s Lionesses won the UEFA Euro 2025 title</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 03:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d8/live/a71b68b0-6c20-11f0-89ea-4d6f9851f623.jpg" alt="London to celebrate Lionesses with open-top bus parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-NYPD-Force-ac-954p-68eef5.jpg" alt="What we know about the NYC office tower shooting, victims and suspect Shane Devon Temura" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/nyc-shooting-suspect-shane-devon-temura-what-know-rcna221638" target="_blank">What we know about the NYC office tower shooting, victims and suspect Shane Devon Temura</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-29 01:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -70,38 +104,20 @@
                 <span class="time">2025-07-29 00:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  At least 3 killed in Midtown Manhattan shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  At least 3 killed in Midtown Manhattan shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-6-ac-804p-14dcfe.jpg" alt="5 killed, including a police officer, in shooting at New York City office building" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">5 killed, including a police officer, in shooting at New York City office building</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-6-ac-804p-14dcfe.jpg" alt="Police officer and at least one civilian shot at New York City office building" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Police officer and at least one civilian shot at New York City office building</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Samsung Promo Codes: 30% Off | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-promo-codes/" target="_blank">Samsung Promo Codes: 30% Off | July 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-29 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +163,29 @@
                 <span class="time">2025-07-28 21:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/" target="_blank">Flexport sells former freight unicorn Convoy’s tech 2 years after buying it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-28 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/29/that-custom-gift-for-your-mom-takes-more-work-than-you-think/" target="_blank">That custom gift for your mom takes more work than you think</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-29 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html" target="_blank">Coverage.py regex pragmas</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-29 03:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul21-2025/en/headerimage/java-istock-image-01-1753735024990.jpg" alt="Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Super-Multi-Device" target="_blank">Linux 6.17 Will Let Multi-Device Filesystems Better Cope With Losing A Disk</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-29 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2771611%2F92607f20-c180-4594-8e29-61cd512ba565.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pearltechie/-3c69" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fileconvertfree/convert-any-picture-into-a-spreadsheet-with-fileconvertfree-image-to-excel-tool-32i9" target="_blank">Convert Any Picture into a Spreadsheet with FileConvertFree (Image to Excel Tool)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-28 22:48</span>
             </div>
         </div>
 </div>
@@ -262,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/10/IT-beschizza.jpg?fit=2000%2C1125&amp;quality=60&amp;ssl=1" alt="McDonald&#x27;s AI exposed 64M job applicants because the admin password was &quot;123456&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/28/mcdonalds-ai-exposed-64m-job-applicants-because-the-password-was-123456.html" target="_blank">McDonald&#x27;s AI exposed 64M job applicants because the admin password was &quot;123456&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-28 21:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4d535af97d89abf14762c359412268ab.png" alt="Earthbound-Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -286,15 +302,6 @@
                 <span class="title"><a href="https://kotaku.com/racing-fest-steam-sale-best-deals-nfs-unbound-the-crew-1851787177" target="_blank">A Whole Lot Of Great Racing Games Are On Sale Right Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-28 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/hmsyt.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="The secrets of Hawaiian macaroni salad (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/28/the-secrets-of-hawaiian-macaroni-salad-video.html" target="_blank">The secrets of Hawaiian macaroni salad (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-28 20:19</span>
             </div>
         </div>
 </div>
@@ -325,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:18 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
