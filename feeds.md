@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 21:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-29 22:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9" target="_blank">Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 21:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539473&w=600" alt="TypeScript in Cloud Applications: Why It’s a Powerful Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -211,15 +216,6 @@
                 <span class="time">2025-07-29 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fish-bash-alternative-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Fish Shell Adds Modern Features to Your Ubuntu Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/fish-shell-ubuntu-terminal" target="_blank">Fish Shell Adds Modern Features to Your Ubuntu Terminal</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-29 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5f57269282b6f2e5d76232bbc3f405d6.png" alt="The War Over Credit Cards Censoring Games Is Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281" target="_blank">The War Over Credit Cards Censoring Games Is Just Getting Started</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-29 21:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1BE5399SXEB155F15GQR2K1/hero-image.png" alt="How to Find and Remove &#x27;Stalkerware&#x27; From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-find-and-remove-stalkerware-from-your-phone?utm_medium=RSS" target="_blank">How to Find and Remove &#x27;Stalkerware&#x27; From Your Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-29 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/baby.jpg" alt="Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-has-a-final-iphone-update-before-ios-26?utm_medium=RSS" target="_blank">Apple Has a Final iPhone Update Before iOS 26</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-29 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/03/mb6vyd8igyepj50uysox.jpg" alt="Apple Is Opening a Manufacturing Academy in Detroit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/apple-is-opening-a-manufacturing-academy-in-detroit-2000636221" target="_blank">Apple Is Opening a Manufacturing Academy in Detroit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-29 19:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/TrumpXi.jpg" alt="The U.S. May Change Strategy in Its Battle With China for AI Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-u-s-may-change-strategy-in-its-battle-with-china-for-ai-dominance-2000636223" target="_blank">The U.S. May Change Strategy in Its Battle With China for AI Dominance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-29 18:59</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
