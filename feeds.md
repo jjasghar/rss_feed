@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 10:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 11:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483520/gaza-famine-hunger" target="_blank">&#x27;Worst-case scenario of famine&#x27; unfolding in Gaza, warns U.N.-backed report</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 10:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483481/ryne-sandberg-obit-cancer" target="_blank">Hall of Fame second baseman Ryne Sandberg has died after battling cancer</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-29 06:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483477/shooter-opens-fire-outside-reno-casino-killing-3-and-injuring-several-others" target="_blank">Shooter opens fire outside Reno casino, killing 3 and injuring several others</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 05:24</span>
             </div>
         </div>
 </div>
@@ -169,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CRC32C-Faster-Linux-6.17" target="_blank">Huge Speedups For CRC32C With Modern AVX-512 CPUs Merged To Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 10:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkn31r9fkeigs8bmymu9r.png" alt="Top 20 Rising GitHub Projects with the Most Stars in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/therealmrmumba/top-20-rising-github-projects-with-the-most-stars-in-2025-3idf" target="_blank">Top 20 Rising GitHub Projects with the Most Stars in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-fallocate-Write-Zero" target="_blank">Linux 6.17 Will Allow Writing Zeroes More Efficiently To SSDs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-29 09:48</span>
@@ -201,24 +219,6 @@
                 <span class="time">2025-07-29 06:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ritumka/devise-with-ruby-on-rails-51nf" target="_blank">Devise with Ruby on Rails 💡</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-29 05:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ponylang.io/discover/" target="_blank">Pony: An actor-model, capabilities-secure, high-performance programming language</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 05:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/trilobite-pendant.jpg" alt="This Ancient Roman Artifact Is Also a 453 Million-Year-Old Fossil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-ancient-roman-artifact-is-also-a-453-million-year-old-fossil-2000635837" target="_blank">This Ancient Roman Artifact Is Also a 453 Million-Year-Old Fossil</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-29 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/iwtv-junket-sdcc-25.jpg" alt="‘The Vampire Lestat’ Cast Breaks Down the Next Chapter of AMC’s Anne Rice Immortal Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +301,6 @@
                 <span class="time">2025-07-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9aee62c61bdfabc26182610407ee4eb8.jpg" alt="A Whole Lot Of Great Racing Games Are On Sale Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/racing-fest-steam-sale-best-deals-nfs-unbound-the-crew-1851787177" target="_blank">A Whole Lot Of Great Racing Games Are On Sale Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-28 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
