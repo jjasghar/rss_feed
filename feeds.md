@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 16:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 17:03:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-unicef-gaza_6977134.jpg?20250729170305" alt="Children &#x27;eating out of piles of garbage&#x27; as Gaza aid trickles in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/children-eating-out-of-piles-of-garbage-as-gaza-aid-trickles-in-13403599" target="_blank">Children &#x27;eating out of piles of garbage&#x27; as Gaza aid trickles in</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-29 15:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +97,20 @@
                 <span class="time">2025-07-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/NYPD-response-main_1753783961023_hpMain_4x3t_384.jpg" alt="Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6887ce3d22a06306cf7c8aca/master/pass/covid-brain-aging-sci-1225022629.jpg" alt="The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/" target="_blank">The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-29 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +156,38 @@
                 <span class="time">2025-07-29 13:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715017/elgato-facecam-4k-webcam-lens-filters-pricing-release-date" target="_blank">Elgato’s new 4K webcam lets you swap lens filters like a pro camera</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/" target="_blank">Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-29 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536170&w=600" alt="From Development to Deployment: Automating Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-machine-learning" target="_blank">From Development to Deployment: Automating Machine Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-Streaming-SDK-Linux" target="_blank">AMD Streaming SDK Updated With Linux Support - But Recommending X.Org Over Wayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 15:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/ae6e4a44-e8c6-48d1-a4cc-1d1d12075441_1666x1186.png" alt="Building great SDKs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/clear-linux-amd-epyc-9965" target="_blank">Farewell Benchmarks Of Intel&#x27;s Clear Linux On AMD EPYC Shows More Performance Left To Tap</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-29 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/apple-diffucoder/en/headerimage/generatedHeaderImage-1753534205953.jpg" alt="Apple Open Sources Diffusion-Based Coding Model DiffuCoder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/apple-diffucoder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apple Open Sources Diffusion-Based Coding Model DiffuCoder</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534669&w=600" alt="Why Most IaC Strategies Still Fail (And How to Fix Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-most-iac-strategies-still-fail" target="_blank">Why Most IaC Strategies Still Fail (And How to Fix Them)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://simonwillison.net/2025/Jul/29/space-invaders/" target="_blank">My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 13:45</span>
             </div>
         </div>
 </div>
@@ -247,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZXHVTHFWNRPRWBT6YHH06B2/hero-image.jpg" alt="Everything We Know About &#x27;Bitchat,&#x27; the Internet-Free Messaging App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/what-is-bitchat-app?utm_medium=RSS" target="_blank">Everything We Know About &#x27;Bitchat,&#x27; the Internet-Free Messaging App</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/Cypress-snowy-owl-2023-California-Vertex-Media.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Dissecting owl pellets: a window into nocturnal hunters&#x27; feeding patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +297,6 @@
                 <span class="time">2025-07-29 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4bb17283e1ceb27d7916c238ec693c90.jpg" alt="There&#x27;s Finally A Nintendo Game That Uses The Switch 2&#x27;s Mouse Controls, And It&#x27;s 33 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-paint-nintendo-switch-online-joy-con-mouse-1851787190" target="_blank">There&#x27;s Finally A Nintendo Game That Uses The Switch 2&#x27;s Mouse Controls, And It&#x27;s 33 Years Old</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-29 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
