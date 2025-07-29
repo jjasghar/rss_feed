@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 19:03:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 20:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 21 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/269a/live/e45595f0-6c90-11f0-89ea-4d6f9851f623.jpg" alt="Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj0y45mdjp7o?at_medium=RSS&at_campaign=rss" target="_blank">Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-29 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,20 +99,38 @@
                 <span class="time">2025-07-29 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753810456842_now_daily_a_victims_nyc_shooting_250729_1920x1080-yzmn24.jpg" alt="Note left by Manhattan office gunman asked for his brain to be studied" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/note-left-by-manhattan-office-gunman-asked-for-his-brain-to-be-studied-244010053797" target="_blank">Note left by Manhattan office gunman asked for his brain to be studied</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-29 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/trump-with-ec-president-500x500-1753814466.jpg" alt="Trump claims Europe won’t make Big Tech pay ISPs; EU says it still might" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trump-claims-europe-wont-make-big-tech-pay-isps-eu-says-it-still-might/" target="_blank">Trump claims Europe won’t make Big Tech pay ISPs; EU says it still might</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-29 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715463/sharge-retractable-3-in-1-power-bank-battery-charger" target="_blank">Sharge added a rechargeable battery to its sleek retractable charger</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-29 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6888fb1d85544751f856d5e2/master/pass/Apple-Show-Guide-Culture-Chief_of_War_Photo_010107.jpg" alt="The 38 Best Shows on Apple TV+ Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-shows/" target="_blank">The 38 Best Shows on Apple TV+ Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +158,38 @@
                 <span class="time">2025-07-29 17:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6887ce3d22a06306cf7c8aca/master/pass/covid-brain-aging-sci-1225022629.jpg" alt="The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/" target="_blank">The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-29 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/" target="_blank">YouTube rolls out age estimation tech to identify US teens and apply additional protections</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6887de4a4f3d8879d5d906c9/master/pass/secret-space-plane-x37-b-sci-587833280.jpg" alt="A Secretive US Space Plane Will Soon Test Quantum Navigation Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/" target="_blank">A Secretive US Space Plane Will Soon Test Quantum Navigation Technology</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-29 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsuj7o9i8b20lcogekju.png" alt="Automate Your Job Hunt 🚀 with n8n 🤖" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sroy8091/automate-your-job-hunt-with-n8n-1efp" target="_blank">Automate Your Job Hunt 🚀 with n8n 🤖</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Xtraceroute-Open-Source-AI" target="_blank">Xtraceroute Ported To GTK4 + Vulkan For Demonstrating The Open-Source Potential For AI</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 19:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539690&w=600" alt="Demystifying Convolutional Neural Networks (CNNs) in the Deep Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cnn-convolutional-neural-networks-guide" target="_blank">Demystifying Convolutional Neural Networks (CNNs) in the Deep Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,48 +200,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/fish-bash-alternative-hero.jpg?resize=406%2C232&amp;ssl=1" alt="Fish Shell Adds Modern Features to Your Ubuntu Terminal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/fish-shell-ubuntu-terminal" target="_blank">Fish Shell Adds Modern Features to Your Ubuntu Terminal</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-29 18:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://openai.com/index/chatgpt-study-mode/" target="_blank">Study mode</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-29 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/chatgpt-study-mode/" target="_blank">Study Mode</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534296&w=600" alt="Federated Identity: The Modern Approach to Cloud Security and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/federated-identity-cloud-security-automation" target="_blank">Federated Identity: The Modern Approach to Cloud Security and Automation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/" target="_blank">Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-29 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536170&w=600" alt="From Development to Deployment: Automating Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/automating-machine-learning" target="_blank">From Development to Deployment: Automating Machine Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 16:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2021/03/mb6vyd8igyepj50uysox.jpg" alt="Apple Is Opening a Manufacturing Academy in Detroit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/apple-is-opening-a-manufacturing-academy-in-detroit-2000636221" target="_blank">Apple Is Opening a Manufacturing Academy in Detroit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-29 19:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/TrumpXi.jpg" alt="The U.S. May Change Strategy in Its Battle With China for AI Dominance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -246,6 +261,15 @@
                 <span class="title"><a href="https://lifehacker.com/health/peloton-launches-resale-platform?utm_medium=RSS" target="_blank">Peloton Is Expanding Its Resale Platform, and It&#x27;s Much Better Than Facebook Marketplace</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-29 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="American fascism: ICE arrests U.S. citizen, then tells him to &quot;shave your beard&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/american-fascism-ice-arrests-u-s-citizen-then-tells-him-to-shave-your-beard.html" target="_blank">American fascism: ICE arrests U.S. citizen, then tells him to &quot;shave your beard&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 18:27</span>
             </div>
         </div>
 <div class="story">
@@ -266,29 +290,29 @@
                 <span class="time">2025-07-29 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/Cypress-snowy-owl-2023-California-Vertex-Media.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Dissecting owl pellets: a window into nocturnal hunters&#x27; feeding patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/dissecting-owl-pellets-a-window-into-nocturnal-hunters-feeding-patterns.html" target="_blank">Dissecting owl pellets: a window into nocturnal hunters&#x27; feeding patterns</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-29 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6138ad55296dcc718cd6eda69cf1cb96.png" alt="Elden Ring Nightreign&#x27;s Easiest Boss Is About To Get Way Harder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-augur-evergaol-everdark-time-1851787245" target="_blank">Elden Ring Nightreign&#x27;s Easiest Boss Is About To Get Way Harder</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-29 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/29/itchy-tasty" target="_blank">Itchy Tasty</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-29 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753809563-booktext.png" alt="Saturday Morning Breakfast Cereal - A City on Mars - Now in Paperback!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/a-city-on-mars-now-in-paperback" target="_blank">Saturday Morning Breakfast Cereal - A City on Mars - Now in Paperback!</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-29 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
