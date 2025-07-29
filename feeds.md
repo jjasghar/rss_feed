@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 17:03:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-29 18:01:58 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/manhattan-shooting-scene-01-gty-jef-250729_1753793733894_hpMain_4x3t_384.jpg" alt="NYC office shooting latest: 4 killed, gunman appeared to be targeting NFL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">NYC office shooting latest: 4 killed, gunman appeared to be targeting NFL</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution" target="_blank">The EPA proposes gutting its greenhouse gas rules. Here&#x27;s what it means for cars and pollution</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e3f/live/89a2ba50-6c97-11f0-9a27-87bb9aa7e3da.jpg" alt="UK to recognise Palestinian state unless Israel meets conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss" target="_blank">UK to recognise Palestinian state unless Israel meets conditions</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-29 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753810456842_now_daily_a_victims_nyc_shooting_250729_1920x1080-yzmn24.jpg" alt="Note left by Manhattan office gunman asked for his brain to be studied" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/note-left-by-manhattan-office-gunman-asked-for-his-brain-to-be-studied-244010053797" target="_blank">Note left by Manhattan office gunman asked for his brain to be studied</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-29 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-unicef-gaza_6977134.jpg?20250729170305" alt="Children &#x27;eating out of piles of garbage&#x27; as Gaza aid trickles in" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,47 +98,29 @@
                 <span class="time">2025-07-29 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/29/israeli-tv-personality-jokes-obese-mother-ate-starving-gaza-baby?traffic_source=rss" target="_blank">Israeli TV personality jokes ‘obese’ mother ate starving Gaza baby</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/manhattan-shooting-scene-01-gty-jef-250729_1753793733894_hpMain_4x3t_384.jpg" alt="4 killed in NYC office shooting, gunman appeared to be targeting NFL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">4 killed in NYC office shooting, gunman appeared to be targeting NFL</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e5/live/7fadba00-688b-11f0-8b38-216abe9854fb.png" alt="Police officers &#x27;also abused&#x27; Rotherham victims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn9y0lvpyqvo?at_medium=RSS&at_campaign=rss" target="_blank">Police officers &#x27;also abused&#x27; Rotherham victims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/29/nx-s1-5483007/nabarun-dasgupta-overdose-addiction-research" target="_blank">How a friend&#x27;s overdose drove a leading addiction scientist to look for answers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/whistle-health-20-smart-device-whistle-569746-500x500.jpg" alt="Acquisition sends thousands of Whistle pet trackers to IoT graveyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/acquisition-sends-thousands-of-whistle-pet-trackers-to-iot-graveyard/" target="_blank">Acquisition sends thousands of Whistle pet trackers to IoT graveyard</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-29 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/" target="_blank">Cash App users can now pool money for group payments — even with non-users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 17:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6887ce3d22a06306cf7c8aca/master/pass/covid-brain-aging-sci-1225022629.jpg" alt="The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +157,29 @@
                 <span class="time">2025-07-29 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/" target="_blank">Golden Dome may not be the golden ticket Silicon Valley is hoping for</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/05/oil-wells-500x500.jpg" alt="Trump promised a drilling boom, but US energy industry hasn’t been interested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/07/trump-promised-a-drilling-boom-but-us-energy-industry-hasnt-been-interested/" target="_blank">Trump promised a drilling boom, but US energy industry hasn’t been interested</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-29 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/chatgpt-study-mode/" target="_blank">Study Mode</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-29 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534296&w=600" alt="Federated Identity: The Modern Approach to Cloud Security and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/federated-identity-cloud-security-automation" target="_blank">Federated Identity: The Modern Approach to Cloud Security and Automation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +214,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-great-sdks" target="_blank">Building great SDKs</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-07-29 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534228&w=600" alt="Building Secure Transaction APIs for Modern Fintech Systems Using GitHub Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secure-transaction-api-fintech-github-copilot" target="_blank">Building Secure Transaction APIs for Modern Fintech Systems Using GitHub Copilot</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/clear-linux-amd-epyc-9965" target="_blank">Farewell Benchmarks Of Intel&#x27;s Clear Linux On AMD EPYC Shows More Performance Left To Tap</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 14:10</span>
             </div>
         </div>
 </div>
@@ -303,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/youre-trash/" target="_blank">You’re Trash</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-07-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1753765455-20250729.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -316,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
