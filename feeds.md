@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 11:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 12:02:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 11:02 UTC</div>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c679/live/730dc5b0-6c19-11f0-8dbd-f3d32ebd3327.jpg" alt="Starmer to discuss Gaza peace plan at emergency cabinet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly6zgyy0wjo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to discuss Gaza peace plan at emergency cabinet</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-29 07:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,20 +99,20 @@
                 <span class="time">2025-07-29 07:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483481/ryne-sandberg-obit-cancer" target="_blank">Hall of Fame second baseman Ryne Sandberg has died after battling cancer</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 06:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6888292c3e1b7152f69cdf68/master/pass/The%2025%20Best%20Cheap%20Watches%20Under%20$1,000.png" alt="25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-cheap-watches/" target="_blank">25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-29 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" alt="LegalZoom Promo Code: Exclusive 10% Off LLC Formations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2025-07-28 22:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark" target="_blank">The controversial legal tactic The Trump Organization is using to take down fake merch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-28 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534660&w=600" alt="AI-Driven Threat Hunting: Catching Zero-Day Exploits Before They Strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-driven-threat-hunting-zero-day-exploit-detection" target="_blank">AI-Driven Threat Hunting: Catching Zero-Day Exploits Before They Strike</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +217,6 @@
                 <span class="time">2025-07-29 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feasx0dfbdakciaruphnz.png" alt="Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3" target="_blank">Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-29 06:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,20 +231,29 @@
                 <span class="time">2025-07-28 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/microsoft-sharepoint-zero-day.html" target="_blank">Microsoft SharePoint Zero-Day</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-28 11:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/donkey-shrek-universe.jpg" alt="Eddie Murphy Gives an Update on His ‘Shrek’ Spin-Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eddie-murphy-gives-an-update-on-his-shrek-spin-off-2000635923" target="_blank">Eddie Murphy Gives an Update on His ‘Shrek’ Spin-Off</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-29 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4bb17283e1ceb27d7916c238ec693c90.jpg" alt="There&#x27;s Finally A Nintendo Game That Uses The Switch 2&#x27;s Mouse Controls, And It&#x27;s 33 Years Old" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-paint-nintendo-switch-online-joy-con-mouse-1851787190" target="_blank">There&#x27;s Finally A Nintendo Game That Uses The Switch 2&#x27;s Mouse Controls, And It&#x27;s 33 Years Old</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-29 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/trilobite-pendant.jpg" alt="This Ancient Roman Artifact Is Also a 453 Million-Year-Old Fossil" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +290,6 @@
                 <span class="time">2025-07-28 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4d535af97d89abf14762c359412268ab.png" alt="Earthbound-Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185" target="_blank">Earthbound-Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-28 21:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Statik%C2%AE-MagStack%E2%84%A2-Duo-Apple-Watch-Charger.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Travelers, you need to see this new charging cable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/28/travelers-you-need-to-see-this-new-charging-cable.html" target="_blank">Travelers, you need to see this new charging cable</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
