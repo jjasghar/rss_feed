@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 13:14:29 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-29 14:04:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/29/israeli-tv-personality-jokes-obese-mother-ate-starving-gaza-baby?traffic_source=rss" target="_blank">Israeli TV personality jokes ‘obese’ mother ate starving Gaza baby</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/manhattan-shooting-scene-01-gty-jef-250729_1753793733894_hpMain_4x3t_384.jpg" alt="4 killed in NYC office shooting, gunman appeared to be targeting NFL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">4 killed in NYC office shooting, gunman appeared to be targeting NFL</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/29/nx-s1-5483007/nabarun-dasgupta-overdose-addiction-research" target="_blank">How a friend&#x27;s overdose drove a leading addiction scientist to look for answers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/NYPD-response-main_1753783961023_hpMain_4x3t_384.jpg" alt="Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,38 +101,29 @@
                 <span class="time">2025-07-29 10:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/29/deadly-rain-landslides-force-mass-evacuations-in-northern-china?traffic_source=rss" target="_blank">Deadly rain, landslides force mass evacuations in northern China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 09:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/29/g-s1-79039/gaza-children-starvation-health-risks" target="_blank">As Gaza starves, the next generation may also endure the consequences</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/29/hundreds-pray-for-marine-safety-at-sacred-seaside-festival-near-tokyo?traffic_source=rss" target="_blank">Hundreds pray for marine safety at sacred seaside festival near Tokyo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 08:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/712619/desk-home-office-coins" target="_blank">What&amp;#8217;s on your desk, Cameron Faulkner?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/29/golden-dome-may-not-be-the-golden-ticket-silicon-valley-is-hoping-for/" target="_blank">Golden Dome may not be the golden ticket Silicon Valley is hoping for</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,29 @@
                 <span class="time">2025-07-29 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/" target="_blank">AI data analyst startup Julius nabs $10M seed round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/waymo-taps-avis-to-manage-robotaxi-fleet-in-dallas/" target="_blank">Waymo taps Avis to manage robotaxi fleet in Dallas</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-28 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534669&w=600" alt="Why Most IaC Strategies Still Fail (And How to Fix Them)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-most-iac-strategies-still-fail" target="_blank">Why Most IaC Strategies Still Fail (And How to Fix Them)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://simonwillison.net/2025/Jul/29/space-invaders/" target="_blank">My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-29 13:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/therealmrmumba/top-20-rising-github-projects-with-the-most-stars-in-2025-3idf" target="_blank">Top 20 Rising GitHub Projects with the Most Stars in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-29 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-fallocate-Write-Zero" target="_blank">Linux 6.17 Will Allow Writing Zeroes More Efficiently To SSDs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/jakarta-ee-11-overview/en/headerimage/jakarta-ee-11-overview-header-1753179997354.jpg" alt="Article: Jakarta EE 11 Overview: Virtual Threads, Records, and the Future of Persistence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/jakarta-ee-11-overview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Jakarta EE 11 Overview: Virtual Threads, Records, and the Future of Persistence</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-29 09:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
