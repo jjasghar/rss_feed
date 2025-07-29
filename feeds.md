@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 12:02:03 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-29 13:14:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/NYPD-response-main_1753783961023_hpMain_4x3t_384.jpg" alt="Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">Manhattan shooting suspect claimed to have CTE, mentioned NFL in note, sources say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/tdy-nypd-shooting-bd9zwo.jpg" alt="Note Found After Gunman Kills 4 Victims in NYC Office Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/suspect-identified-in-nyc-office-shooting-that-left-5-dead-243994181796" target="_blank">Note Found After Gunman Kills 4 Victims in NYC Office Shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-29 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +96,20 @@
                 <span class="time">2025-07-29 08:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c679/live/730dc5b0-6c19-11f0-8dbd-f3d32ebd3327.jpg" alt="Starmer to discuss Gaza peace plan at emergency cabinet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly6zgyy0wjo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to discuss Gaza peace plan at emergency cabinet</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-29 07:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/why-zelenskyy-tried-to-curb-autonomy-of-ukraines-anticorruption-agencies?traffic_source=rss" target="_blank">Why Zelenskyy tried to curb autonomy of Ukraine’s anticorruption agencies?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 07:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715017/elgato-facecam-4k-webcam-lens-filters-pricing-release-date" target="_blank">Elgato’s new 4K webcam lets you swap lens filters like a pro camera</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6888292c3e1b7152f69cdf68/master/pass/The%2025%20Best%20Cheap%20Watches%20Under%20$1,000.png" alt="25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2025-07-28 23:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/flylogo-500x500.jpg" alt="The first company to complete a fully successful lunar landing is going public" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/07/the-first-company-to-complete-a-fully-successful-lunar-landing-is-going-public/" target="_blank">The first company to complete a fully successful lunar landing is going public</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-28 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Danau5tin/terminal-bench-rl" target="_blank">Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-29 11:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534660&w=600" alt="AI-Driven Threat Hunting: Catching Zero-Day Exploits Before They Strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,20 +214,20 @@
                 <span class="time">2025-07-29 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/29/that-custom-gift-for-your-mom-takes-more-work-than-you-think/" target="_blank">That custom gift for your mom takes more work than you think</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-29 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html" target="_blank">Aeroflot Hacked</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-29 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
