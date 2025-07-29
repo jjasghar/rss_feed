@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 22:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-29 23:01:32 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nevada-gun-show-01-gty-jt-250729_1753801909664_hpMain_4x3t_384.jpg" alt="What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/nevadas-gun-laws-after-las-vegas-man-opened/story?id=124184308" target="_blank">What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-food-aid_6976538.jpg?20250729081053" alt="Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/starmers-plan-to-recognise-palestinian-state-labelled-appeasement-towards-jihadist-terrorists-by-netanyahu-13403756" target="_blank">Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-29 20:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/269a/live/e45595f0-6c90-11f0-89ea-4d6f9851f623.jpg" alt="Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +93,29 @@
                 <span class="time">2025-07-29 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution" target="_blank">The EPA proposes gutting its greenhouse gas rules. Here&#x27;s what it means for cars and pollution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e3f/live/89a2ba50-6c97-11f0-9a27-87bb9aa7e3da.jpg" alt="UK to recognise Palestinian state unless Israel meets conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpdjvn1eeplo?at_medium=RSS&at_campaign=rss" target="_blank">UK to recognise Palestinian state unless Israel meets conditions</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-29 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/" target="_blank">Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 22:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/delivs_tower_1-500x500.jpg" alt="AI in Wyoming may soon use more electricity than state’s human residents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/ai-in-wyoming-may-soon-use-more-electricity-than-states-human-residents/" target="_blank">AI in Wyoming may soon use more electricity than state’s human residents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-29 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +152,6 @@
                 <span class="time">2025-07-29 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6888fb1d85544751f856d5e2/master/pass/Apple-Show-Guide-Culture-Chief_of_War_Photo_010107.jpg" alt="The 38 Best Shows on Apple TV+ Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-shows/" target="_blank">The 38 Best Shows on Apple TV+ Right Now (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/anthropic-reportedly-nears-170b-valuation-with-potential-5b-round/" target="_blank">Anthropic reportedly nears $170B valuation with potential $5B round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +164,15 @@
                 <span class="title"><a href="https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9" target="_blank">Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-29 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Staging" target="_blank">Linux 6.17 Staging Continues Cleaning The Realtek RTL8723BS Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 20:19</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +209,6 @@
                 <span class="title"><a href="https://dzone.com/articles/cnn-convolutional-neural-networks-guide" target="_blank">Demystifying Convolutional Neural Networks (CNNs) in the Deep Learning</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/xf86-video-amdgpu-25.0.0" target="_blank">xf86-video-amdgpu 25.0.0 Released With Two Years Worth Of Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 18:04</span>
             </div>
         </div>
 </div>
@@ -254,6 +249,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Readmio-Premium-Plan-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Elevate your bedtime story game with Readmio for just $59.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/elevate-your-bedtime-story-game-with-readmio-for-just-59-99.html" target="_blank">Elevate your bedtime story game with Readmio for just $59.99</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/baby.jpg" alt="Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/29/trump-delegates-qanon-husband-busted-for-child-porn.html" target="_blank">Trump delegate&#x27;s Qanon husband busted for child porn</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-29 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K0CB4M8SX224J5XM75GWX7SS/hero-image.png" alt="Apple Has a Final iPhone Update Before iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-has-a-final-iphone-update-before-ios-26?utm_medium=RSS" target="_blank">Apple Has a Final iPhone Update Before iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-29 20:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
