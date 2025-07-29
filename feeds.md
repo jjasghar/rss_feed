@@ -1,45 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 06:02:25 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-29 07:04:16 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483481/ryne-sandberg-obit-cancer" target="_blank">Hall of Fame second baseman Ryne Sandberg has died after battling cancer</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 06:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,15 +90,6 @@
                 <span class="title"><a href="https://www.theguardian.com/environment/2025/jul/29/gorilla-habitats-pristine-forest-at-risk-as-drc-opens-half-of-country-to-oil-and-gas-drilling-bids-aoe" target="_blank">Gorilla habitats and pristine forest at risk as DRC opens half of country to oil and gas drilling bids</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-07-29 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/29/how-englands-lionesses-won-the-uefa-euro-2025-title?traffic_source=rss" target="_blank">How England’s Lionesses won the UEFA Euro 2025 title</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 03:59</span>
             </div>
         </div>
 </div>
@@ -183,6 +166,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feasx0dfbdakciaruphnz.png" alt="Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ersajay/heater-blower-resistor-hogwarts-tiny-climate-keeper-20n3" target="_blank">Heater Blower Resistor: Hogwarts’ Tiny Climate Keeper 🌬️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 06:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -216,15 +208,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/mozilla-addons-listing-page-redesign" target="_blank">Firefox Add-Ons Website Revamps Listing Pages</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-07-29 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fintechdystopia.com/" target="_blank">Fintech dystopia</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 01:57</span>
             </div>
         </div>
 </div>
@@ -323,22 +306,13 @@
                 <span class="time">2025-07-28 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/28/itchy-tasty" target="_blank">Itchy Tasty</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-28 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
