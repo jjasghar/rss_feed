@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 07:04:16 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-29 08:01:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/why-zelenskyy-tried-to-curb-autonomy-of-ukraines-anticorruption-agencies?traffic_source=rss" target="_blank">Why Zelenskyy tried to curb autonomy of Ukraine’s anticorruption agencies?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn023751713o?at_medium=RSS&at_campaign=rss" target="_blank">Police officer among four dead in shooting at New York City office building</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-29 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/jul/29/gorilla-habitats-pristine-forest-at-risk-as-drc-opens-half-of-country-to-oil-and-gas-drilling-bids-aoe" target="_blank">Gorilla habitats and pristine forest at risk as DRC opens half of country to oil and gas drilling bids</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-29 04:01</span>
             </div>
         </div>
 </div>
@@ -186,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ponylang.io/discover/" target="_blank">Pony: An actor-model, capabilities-secure, high-performance programming language</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-29 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html" target="_blank">Coverage.py regex pragmas</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -199,15 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-29 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/addons.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Add-Ons Website Revamps Listing Pages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/mozilla-addons-listing-page-redesign" target="_blank">Firefox Add-Ons Website Revamps Listing Pages</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-29 02:25</span>
             </div>
         </div>
 </div>
@@ -311,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
