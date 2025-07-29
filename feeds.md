@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 00:05:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-07-29 01:30:12 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/heavy-rains-flooding-kill-at-least-30-in-beijing-as-downpour-continues?traffic_source=rss" target="_blank">Heavy rains, flooding kill at least 30 in Beijing as downpour continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 00:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  At least 3 killed in Midtown Manhattan shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  At least 3 killed in Midtown Manhattan shooting: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-29 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-6-ac-804p-14dcfe.jpg" alt="Police officer and at least one civilian shot at New York City office building" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/new-york-city-shooting-rcna221618" target="_blank">Police officer and at least one civilian shot at New York City office building</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-28 23:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-345-park-ave-active-shooter-google-maps-snip-ac-708p-0352cc.jpg" alt="Active shooter reported in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,38 +104,20 @@
                 <span class="time">2025-07-28 22:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-jordan-gaza_6976450.jpg?20250728221159" alt="Mile after mile of grey rubble - the view from a plane dropping aid to Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mile-after-mile-of-grey-rubble-the-view-from-a-plane-dropping-aid-to-gaza-13403242" target="_blank">Mile after mile of grey rubble - the view from a plane dropping aid to Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-28 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc1/live/f02d4e40-6be1-11f0-89ea-4d6f9851f623.jpg" alt="Lionesses welcomed home by jubilant fans after Euro 2025 win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gz5pzddgyo?at_medium=RSS&at_campaign=rss" target="_blank">Lionesses welcomed home by jubilant fans after Euro 2025 win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-28 20:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250710-port-tariffs-se-111p-7d816e.jpg" alt="Trump&#x27;s tariffs — and higher prices — are here to stay" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-tariffs-are-here-to-stay-why-what-to-know-rcna221571" target="_blank">Trump&#x27;s tariffs — and higher prices — are here to stay</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-28 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/" target="_blank">AI data analyst startup Julius nabs $10M seed round</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 00:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +159,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/" target="_blank">Flexport sells former freight unicorn Convoy’s tech 2 years after buying it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-28 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/" target="_blank">Flexport sells former freight unicorn Convoy’s tech two years after buying it</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-28 20:49</span>
             </div>
@@ -250,6 +251,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/iwtv-junket-sdcc-25.jpg" alt="‘The Vampire Lestat’ Cast Breaks Down the Next Chapter of AMC’s Anne Rice Immortal Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-cast-breaks-down-the-next-chapter-of-amcs-anne-rice-immortal-universe-2000635891" target="_blank">‘The Vampire Lestat’ Cast Breaks Down the Next Chapter of AMC’s Anne Rice Immortal Universe</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-28 23:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/George-Lucas-SDCC.jpg" alt="A Life-Size Naboo Starfighter Will Be Among the Highlights of George Lucas’ New Museum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -294,15 +304,6 @@
                 <span class="time">2025-07-28 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1961QFF75DWZZJA9XMY9699/hero-image.png" alt="You Can Already Get Discounted Nintendo Switch 2 Games From Woot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/nintendo-switch-2-games-deal?utm_medium=RSS" target="_blank">You Can Already Get Discounted Nintendo Switch 2 Games From Woot</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
