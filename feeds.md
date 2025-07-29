@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 09:04:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-29 10:01:41 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 09:04 UTC</div>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/7/29/deadly-rain-landslides-force-mass-evacuations-in-northern-china?traffic_source=rss" target="_blank">Deadly rain, landslides force mass evacuations in northern China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 09:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483477/shooter-opens-fire-outside-reno-casino-killing-3-and-injuring-several-others" target="_blank">Shooter opens fire outside Reno casino, killing 3 and injuring several others</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-07-29 05:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/29/lakers-luka-doncic-shows-offseason-fitness-gains-in-mens-health?traffic_source=rss" target="_blank">Lakers’ Luka Doncic shows offseason fitness gains in Men’s Health</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 05:16</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-fallocate-Write-Zero" target="_blank">Linux 6.17 Will Allow Writing Zeroes More Efficiently To SSDs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-29 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/jakarta-ee-11-overview/en/headerimage/jakarta-ee-11-overview-header-1753179997354.jpg" alt="Article: Jakarta EE 11 Overview: Virtual Threads, Records, and the Future of Persistence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/jakarta-ee-11-overview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Jakarta EE 11 Overview: Virtual Threads, Records, and the Future of Persistence</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/29/that-custom-gift-for-your-mom-takes-more-work-than-you-think/" target="_blank">That custom gift for your mom takes more work than you think</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://www.ponylang.io/discover/" target="_blank">Pony: An actor-model, capabilities-secure, high-performance programming language</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-29 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html" target="_blank">Coverage.py regex pragmas</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-29 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/java-news-roundup-jul21-2025/en/headerimage/java-istock-image-01-1753735024990.jpg" alt="Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: CLI Tool for Quarkus MCP, Groovy 5.0 Milestone, JHipster, GraalVM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-29 02:30</span>
             </div>
         </div>
 </div>
@@ -317,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
