@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 15:03:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 16:02:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 15:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/" target="_blank">YouTube rolls out age estimation tech to identify US teens and apply additional protections</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6887de4a4f3d8879d5d906c9/master/pass/secret-space-plane-x37-b-sci-587833280.jpg" alt="A Secretive US Space Plane Will Soon Test Quantum Navigation Technology" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +160,29 @@
                 <span class="time">2025-07-29 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6888292c3e1b7152f69cdf68/master/pass/The%2025%20Best%20Cheap%20Watches%20Under%20$1,000.png" alt="25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-cheap-watches/" target="_blank">25 Best Cheap Watches Under $1,000 (2025): Timex, Hamilton, and Seiko</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-29 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/ae6e4a44-e8c6-48d1-a4cc-1d1d12075441_1666x1186.png" alt="Building great SDKs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/building-great-sdks" target="_blank">Building great SDKs</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-07-29 15:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534228&w=600" alt="Building Secure Transaction APIs for Modern Fintech Systems Using GitHub Copilot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secure-transaction-api-fintech-github-copilot" target="_blank">Building Secure Transaction APIs for Modern Fintech Systems Using GitHub Copilot</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +219,6 @@
                 <span class="time">2025-07-29 13:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Danau5tin/terminal-bench-rl" target="_blank">Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 11:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18534660&w=600" alt="AI-Driven Threat Hunting: Catching Zero-Day Exploits Before They Strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-driven-threat-hunting-zero-day-exploit-detection" target="_blank">AI-Driven Threat Hunting: Catching Zero-Day Exploits Before They Strike</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/Cypress-snowy-owl-2023-California-Vertex-Media.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Dissecting owl pellets: a window into nocturnal hunters&#x27; feeding patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/dissecting-owl-pellets-a-window-into-nocturnal-hunters-feeding-patterns.html" target="_blank">Dissecting owl pellets: a window into nocturnal hunters&#x27; feeding patterns</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6138ad55296dcc718cd6eda69cf1cb96.png" alt="Elden Ring Nightreign&#x27;s Easiest Boss Is About To Get Way Harder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-augur-evergaol-everdark-time-1851787245" target="_blank">Elden Ring Nightreign&#x27;s Easiest Boss Is About To Get Way Harder</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-29 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5946cc2371861dae071506d5bcfe7f90.jpg" alt="Someone Just Made It Way Easier To Eat Fries While Playing Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,36 +301,18 @@
                 <span class="time">2025-07-29 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/trilobite-pendant.jpg" alt="This Ancient Roman Artifact Is Also a 453 Million-Year-Old Fossil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-ancient-roman-artifact-is-also-a-453-million-year-old-fossil-2000635837" target="_blank">This Ancient Roman Artifact Is Also a 453 Million-Year-Old Fossil</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/iwtv-junket-sdcc-25.jpg" alt="‘The Vampire Lestat’ Cast Breaks Down the Next Chapter of AMC’s Anne Rice Immortal Universe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-vampire-lestat-cast-breaks-down-the-next-chapter-of-amcs-anne-rice-immortal-universe-2000635891" target="_blank">‘The Vampire Lestat’ Cast Breaks Down the Next Chapter of AMC’s Anne Rice Immortal Universe</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-28 23:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753679085-20250728.png" alt="Saturday Morning Breakfast Cereal - Enhance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1753765455-20250729.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/enhance-2" target="_blank">Saturday Morning Breakfast Cereal - Enhance</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/myth-3" target="_blank">Saturday Morning Breakfast Cereal - Myth</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-28 15:30</span>
+                <span class="time">2025-07-29 15:20</span>
             </div>
         </div>
 </div>
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
