@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 20:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 21:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +108,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features" target="_blank">LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-29 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/466148496_18025243454600213_3029086340888592968_n-500x500.jpg" alt="“It’s shocking”; Massive raw milk outbreak from 2023 finally reported" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/its-shocking-massive-raw-milk-outbreak-from-2023-finally-reported/" target="_blank">“It’s shocking”; Massive raw milk outbreak from 2023 finally reported</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-29 20:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/trump-with-ec-president-500x500-1753814466.jpg" alt="Trump claims Europe won’t make Big Tech pay ISPs; EU says it still might" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -140,29 +161,20 @@
                 <span class="time">2025-07-29 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/whistle-health-20-smart-device-whistle-569746-500x500.jpg" alt="Acquisition sends thousands of Whistle pet trackers to IoT graveyard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/acquisition-sends-thousands-of-whistle-pet-trackers-to-iot-graveyard/" target="_blank">Acquisition sends thousands of Whistle pet trackers to IoT graveyard</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-29 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/cash-app-users-can-now-pool-money-for-group-payments-even-with-non-users/" target="_blank">Cash App users can now pool money for group payments — even with non-users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 17:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539473&w=600" alt="TypeScript in Cloud Applications: Why It’s a Powerful Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/typescript-in-cloud-applications" target="_blank">TypeScript in Cloud Applications: Why It’s a Powerful Choice</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-29 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsuj7o9i8b20lcogekju.png" alt="Automate Your Job Hunt 🚀 with n8n 🤖" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="time">2025-07-29 18:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/chatgpt-study-mode/" target="_blank">Study mode</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-29 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/baby.jpg" alt="Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fertility-rate-in-the-u-s-reached-an-all-time-low-in-2024-cdc-data-reveals-2000636194" target="_blank">Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-29 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f752a6a7b18827fed224134f8fda4a90.jpg" alt="Ranking Blizzard’s Proposed Overwatch 2 Collabs By How Much I Do Or Don&#x27;t Want Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-collaborations-survey-pokemon-star-wars-1851787277" target="_blank">Ranking Blizzard’s Proposed Overwatch 2 Collabs By How Much I Do Or Don&#x27;t Want Them</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-29 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/soucek.jpg?fit=1200%2C750&amp;quality=60&amp;ssl=1" alt="Trump delegate&#x27;s Qanon husband busted for child porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/trump-delegates-qanon-husband-busted-for-child-porn.html" target="_blank">Trump delegate&#x27;s Qanon husband busted for child porn</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K0CB4M8SX224J5XM75GWX7SS/hero-image.png" alt="Apple Has a Final iPhone Update Before iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-has-a-final-iphone-update-before-ios-26?utm_medium=RSS" target="_blank">Apple Has a Final iPhone Update Before iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2021/03/mb6vyd8igyepj50uysox.jpg" alt="Apple Is Opening a Manufacturing Academy in Detroit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -252,42 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-u-s-may-change-strategy-in-its-battle-with-china-for-ai-dominance-2000636223" target="_blank">The U.S. May Change Strategy in Its Battle With China for AI Dominance</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-29 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JX0883KXYMXX6B2WWEC9FG4W/hero-image.png" alt="Peloton Is Expanding Its Resale Platform, and It&#x27;s Much Better Than Facebook Marketplace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/peloton-launches-resale-platform?utm_medium=RSS" target="_blank">Peloton Is Expanding Its Resale Platform, and It&#x27;s Much Better Than Facebook Marketplace</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-29 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="American fascism: ICE arrests U.S. citizen, then tells him to &quot;shave your beard&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/american-fascism-ice-arrests-u-s-citizen-then-tells-him-to-shave-your-beard.html" target="_blank">American fascism: ICE arrests U.S. citizen, then tells him to &quot;shave your beard&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-29 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e86cf321fdfb5419053988375196acfd.jpg" alt="Every &#x27;Face Of The Past&#x27; Location In Wuchang, And Which Gestures To Use On Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wuchang-correct-gesture-location-blue-glow-faces-past-1851787266" target="_blank">Every &#x27;Face Of The Past&#x27; Location In Wuchang, And Which Gestures To Use On Them</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-29 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZXHVTHFWNRPRWBT6YHH06B2/hero-image.jpg" alt="Everything We Know About &#x27;Bitchat,&#x27; the Internet-Free Messaging App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/what-is-bitchat-app?utm_medium=RSS" target="_blank">Everything We Know About &#x27;Bitchat,&#x27; the Internet-Free Messaging App</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-29 16:30</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
