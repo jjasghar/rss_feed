@@ -1,40 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 05:08:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-29 06:02:25 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 05:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, July 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +56,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5483477/shooter-opens-fire-outside-reno-casino-killing-3-and-injuring-several-others" target="_blank">Shooter opens fire outside Reno casino, killing 3 and injuring several others</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 05:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/29/lakers-luka-doncic-shows-offseason-fitness-gains-in-mens-health?traffic_source=rss" target="_blank">Lakers’ Luka Doncic shows offseason fitness gains in Men’s Health</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 05:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/shooting-midtown-manhattan_1753758794749_hpMain_4x3t_384.jpg" alt="What we know about Shane Devon Tamura, the suspect of the Midtown Manhattan shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/shane-devon-tamura-suspect-midtown-manhattan-shooting/story?id=124159125" target="_blank">What we know about Shane Devon Tamura, the suspect of the Midtown Manhattan shooting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-29 04:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4e/live/0aa19fc0-6c3b-11f0-89ea-4d6f9851f623.jpg" alt="Police officer among four dead in shooting at New York City office building" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn023751713o?at_medium=RSS&at_campaign=rss" target="_blank">Police officer among four dead in shooting at New York City office building</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-29 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/jul/29/gorilla-habitats-pristine-forest-at-risk-as-drc-opens-half-of-country-to-oil-and-gas-drilling-bids-aoe" target="_blank">Gorilla habitats and pristine forest at risk as DRC opens half of country to oil and gas drilling bids</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-29 04:01</span>
             </div>
         </div>
 <div class="story">
@@ -68,47 +109,20 @@
                 <span class="time">2025-07-29 03:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d8/live/a71b68b0-6c20-11f0-89ea-4d6f9851f623.jpg" alt="London to celebrate Lionesses with open-top bus parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpdjq3jd5npo?at_medium=RSS&at_campaign=rss" target="_blank">London to celebrate Lionesses with open-top bus parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-29 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/29/as-trumps-august-1-deadline-looms-tariffs-are-here-to-say-experts-say?traffic_source=rss" target="_blank">As Trump’s August 1 deadline looms, tariffs are here to say, experts say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-active-shooter-NYPD-Force-ac-954p-68eef5.jpg" alt="What we know about the NYC office tower shooting, victims and suspect Shane Devon Temura" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/nyc-shooting-suspect-shane-devon-temura-what-know-rcna221638" target="_blank">What we know about the NYC office tower shooting, victims and suspect Shane Devon Temura</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-29 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/heavy-rains-flooding-kill-at-least-30-in-beijing-as-downpour-continues?traffic_source=rss" target="_blank">Heavy rains, flooding kill at least 30 in Beijing as downpour continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" alt="LegalZoom Promo Code: Exclusive 10% Off LLC Formations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/legalzoom-promo-code/" target="_blank">LegalZoom Promo Code: Exclusive 10% Off LLC Formations</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-29 05:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Samsung Promo Codes: 30% Off | July 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,15 +168,6 @@
                 <span class="time">2025-07-28 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/SmarthubII-mainproductphoto-500x500-1753734525.jpg" alt="Bankrupt Futurehome suddenly makes its smart home hub a subscription service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/bankrupt-futurehome-suddenly-makes-its-smart-home-hub-a-subscription-service/" target="_blank">Bankrupt Futurehome suddenly makes its smart home hub a subscription service</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-28 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +180,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/29/that-custom-gift-for-your-mom-takes-more-work-than-you-think/" target="_blank">That custom gift for your mom takes more work than you think</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-29 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ritumka/devise-with-ruby-on-rails-51nf" target="_blank">Devise with Ruby on Rails 💡</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 05:44</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +225,6 @@
                 <span class="title"><a href="https://fintechdystopia.com/" target="_blank">Fintech dystopia</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-29 01:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Super-Multi-Device" target="_blank">Linux 6.17 Will Let Multi-Device Filesystems Better Cope With Losing A Disk</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 00:20</span>
             </div>
         </div>
 </div>
@@ -332,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
