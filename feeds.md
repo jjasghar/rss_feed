@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 04:16:17 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-07-30 05:07:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 04:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/30/what-is-israels-war-taking-from-gazas-children?traffic_source=rss" target="_blank">What is Israel’s war taking from Gaza’s children</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5481820/ntsb-dca-army-black-hawk-midair-collision-hearings" target="_blank">The NTSB is set to hold a hearing on the DCA midair collision. Here&#x27;s what to know</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -63,6 +72,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">UK wants to &#x27;affect situation on ground&#x27; in Gaza</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-30 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-Hawaii-Waikiki-evacuation-to-higher-ground-tsunami-warning-ac-1056p-2a8ca4.jpg" alt="Powerful earthquake off Russia triggers tsunami fears for Japan and U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/russia/earthquake-russia-tsunami-japan-hawaii-rcna221875" target="_blank">Powerful earthquake off Russia triggers tsunami fears for Japan and U.S.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-30 01:25</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +101,20 @@
                 <span class="time">2025-07-30 00:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/29/nx-s1-5484304/senator-us-preventive-task-force-rfk" target="_blank">Senators introduce resolution supporting prevention task force RFK Jr. may disband</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/new-poll-shows-plunging-us-public-support-for-israels-war-on-gaza?traffic_source=rss" target="_blank">New poll shows plunging US public support for Israel’s war on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-29 23:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">Top Verizon Promo Codes &amp; Deals | August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features" target="_blank">LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-29 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/466148496_18025243454600213_3029086340888592968_n-500x500.jpg" alt="“It’s shocking”; Massive raw milk outbreak from 2023 finally reported" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/its-shocking-massive-raw-milk-outbreak-from-2023-finally-reported/" target="_blank">“It’s shocking”; Massive raw milk outbreak from 2023 finally reported</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-29 20:39</span>
             </div>
         </div>
 </div>
@@ -339,7 +339,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:16 UTC
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
