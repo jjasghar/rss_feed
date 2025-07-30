@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 20:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-07-30 21:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/30/german-biathlete-laura-dahlmeier-dies-mountaineering-in-pakistan?traffic_source=rss" target="_blank">German biathlete Laura Dahlmeier dies mountaineering in Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/13d5dfd0-6d20-11f0-89ea-4d6f9851f623.jpg" alt="Tsunami alerts lifted after huge earthquake prompts evacuations across Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c987dwrdl0zo?at_medium=RSS&at_campaign=rss" target="_blank">Tsunami alerts lifted after huge earthquake prompts evacuations across Pacific</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/13d5dfd0-6d20-11f0-89ea-4d6f9851f623.jpg" alt="Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c987dwrdl0zo?at_medium=RSS&at_campaign=rss" target="_blank">Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-30 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5482857/automakers-eating-tariff-costs" target="_blank">Automakers are eating the cost of tariffs — for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-30 18:21</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +96,29 @@
                 <span class="time">2025-07-30 17:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/g-s1-80240/world-photography-day-favorite-picture" target="_blank">Celebrate World Photography Day by showing NPR the coolest shot you&#x27;ve ever captured</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/7/30/the-war-on-truth-2?traffic_source=rss" target="_blank">The War on Truth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dc-plane-30-gty-gmh-250129_1738216341223_hpMain_4x3t_384.jpg" alt="Families of DC plane crash victims break down in hearing as new video is released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/ntsb-begins-public-hearings-dc-plane-crash/story?id=124181265" target="_blank">Families of DC plane crash victims break down in hearing as new video is released</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-30 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158493329-500x500.jpg" alt="St. Paul, MN was hacked so badly that the National Guard has been deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/st-paul-mn-was-hacked-so-badly-that-the-national-guard-has-been-deployed/" target="_blank">St. Paul, MN was hacked so badly that the National Guard has been deployed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68890c3956b4df3fc8aa74c2/master/pass/Draft-Revision-Endangerment-Finding-Greenhouse-Gases-Science-2150754136.jpg" alt="Scientists Say New Government Climate Report Twists Their Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/" target="_blank">Scientists Say New Government Climate Report Twists Their Work</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg" alt="$15 billion in NIH funding frozen, then thawed Tuesday in ongoing power war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +155,20 @@
                 <span class="time">2025-07-30 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-500x500.jpg" alt="Google confirms it will sign the EU AI Code of Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/07/google-confirms-it-will-sign-the-eu-ai-code-of-practice/" target="_blank">Google confirms it will sign the EU AI Code of Practice</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715696/dji-amflow-us-price-mtb-avinox" target="_blank">DJI finally brings its impressive Amflow e-bike to US trails</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-30 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-rc3-Released" target="_blank">Mesa 25.2-rc3 Released With RADV Vulkan Video Fixes, NVK Conformance Update</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-30 20:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,20 +214,20 @@
                 <span class="time">2025-07-30 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4" target="_blank">Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/" target="_blank">Scammers Unleash Flood of Slick Online Gaming Sites</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-07-30 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,12 +243,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/tesla-store-colma-ca-April-21-2025.jpg" alt="Elon Musk Is So Unpopular, He May Be Hurting the Entire EV Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-is-so-unpopular-he-may-be-hurting-the-entire-ev-industry-2000636843" target="_blank">Elon Musk Is So Unpopular, He May Be Hurting the Entire EV Industry</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 20:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3d26396738fa0e368f3b68fa0c9da018.jpg" alt="23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512" target="_blank">23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-30 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dentist.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Inside Mexico&#x27;s &quot;Molar City,&quot; where Americans find dental care at 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/inside-mexicos-molar-city-where-americans-find-dental-care-at-80-off.html" target="_blank">Inside Mexico&#x27;s &quot;Molar City,&quot; where Americans find dental care at 80% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 19:54</span>
             </div>
         </div>
 <div class="story">
@@ -268,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/10-winners-and-4-losers-from-san-diego-comic-con-2025-2000636660" target="_blank">10 Winners and 4 Losers From San Diego Comic-Con 2025</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-30 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/sadsunflower.jpg" alt="Men Born in the Summer Are More Likely to Be Depressed, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/men-born-in-the-summer-are-more-likely-to-be-depressed-study-finds-2000636562" target="_blank">Men Born in the Summer Are More Likely to Be Depressed, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_475374007.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Scientists discover why your brain demands sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/scientists-discover-why-your-brain-demands-sleep.html" target="_blank">Scientists discover why your brain demands sleep</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 17:11</span>
             </div>
         </div>
 </div>
@@ -320,13 +328,22 @@
                 <span class="time">2025-07-30 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png" alt="Bad Map Projection: Interrupted Spheres" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3122/" target="_blank">Bad Map Projection: Interrupted Spheres</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-07-30 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
