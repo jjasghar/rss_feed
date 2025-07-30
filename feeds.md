@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 17:03:06 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-07-30 18:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dc-plane-30-gty-gmh-250129_1738216341223_hpMain_4x3t_384.jpg" alt="Helicopter never heard command to pass behind jet, NTSB says in DC crash hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/ntsb-begins-public-hearings-dc-plane-crash/story?id=124181265" target="_blank">Helicopter never heard command to pass behind jet, NTSB says in DC crash hearing</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-30 17:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/30/world-athletics-gene-test-introduced-for-female-category?traffic_source=rss" target="_blank">World Athletics gene test introduced for female category</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 17:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +98,20 @@
                 <span class="time">2025-07-30 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/start-here/2025/7/30/who-gets-to-have-nukes-start-here?traffic_source=rss" target="_blank">Who gets to have nukes? | Start Here</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6113/live/14530040-6d3a-11f0-b0f5-fbe7fe20aa48.jpg" alt="Migration fuels population jump, figures suggest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c207nzgrz3vo?at_medium=RSS&at_campaign=rss" target="_blank">Migration fuels population jump, figures suggest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 13:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/716154/google-ai-age-estimation-under-18" target="_blank">Google is using AI age checks to lock down user accounts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 17:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +157,20 @@
                 <span class="time">2025-07-30 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28-million-for-their-ai-marketing-automation-startup/" target="_blank">How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-30 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536312&w=600" alt="Disaster Recovery Risks and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/disaster-recovery-risks-and-solutions" target="_blank">Disaster Recovery Risks and Solutions</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-30 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -166,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4" target="_blank">Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-30 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/charmbracelet/crush" target="_blank">Crush: Glamourous AI coding agent for your favourite terminal</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 16:18</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +216,6 @@
                 <span class="time">2025-07-30 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/diablo-like-games/" target="_blank">Diablo-like Games You Can Play With Steam on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-30 13:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://oxide.computer/blog/our-100m-series-b" target="_blank">Our $100M Series B</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 13:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +236,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/sadsunflower.jpg" alt="Men Born in the Summer Are More Likely to Be Depressed, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/men-born-in-the-summer-are-more-likely-to-be-depressed-study-finds-2000636562" target="_blank">Men Born in the Summer Are More Likely to Be Depressed, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_475374007.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Scientists discover why your brain demands sleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/scientists-discover-why-your-brain-demands-sleep.html" target="_blank">Scientists discover why your brain demands sleep</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 17:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c34844acd8a4ca7a7751a9b0af5ee001.png" alt="Bloodlines 2 Isn’t Aiming To Be A Vampire-Themed GTA, And That Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vampire-masquerade-bloodlines-2-vtm-chinese-room-1851787361" target="_blank">Bloodlines 2 Isn’t Aiming To Be A Vampire-Themed GTA, And That Rules</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K09YSM5AFSAV5JQ5882B2EGH/hero-image.png" alt="Poshmark Finally Added a Feature eBay Has Had for Years, and I’m Thrilled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/poshmark-smart-sell?utm_medium=RSS" target="_blank">Poshmark Finally Added a Feature eBay Has Had for Years, and I’m Thrilled</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/vesuvius-painting.jpg" alt="Watch a Reconstructed 250-Year-Old Robotic Painting Bring a Fiery Mount Vesuvius Back to Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -250,47 +289,20 @@
                 <span class="time">2025-07-30 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/796a694c666e0facac231bfe31f165ab.jpg" alt="Ninja Gaiden: Ragebound: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ninja-gaiden-ragebound-review-2d-blasphemous-1851787265" target="_blank">Ninja Gaiden: Ragebound: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/1746TEASER1200-cbs-saturdays.jpg?fit=1200%2C672&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: CBS&#x27;s new Trump-friendly Saturday morning line-up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/tom-the-dancing-bug-cbss-new-trump-friendly-saturday-morning-line-up.html" target="_blank">Tom the Dancing Bug: CBS&#x27;s new Trump-friendly Saturday morning line-up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1BXBB932MWEM1PB5R27585D/hero-image.png" alt="TrainingPeaks New ‘Fueling Insights’ Promise to Help You Estimate Your Calorie Burn (but I Have Some Caveats)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/trainingpeaks-new-fueling-insights-are-promising-but-proceed-with-caution?utm_medium=RSS" target="_blank">TrainingPeaks New ‘Fueling Insights’ Promise to Help You Estimate Your Calorie Burn (but I Have Some Caveats)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-30 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dildo.jpg?fit=1564%2C854&amp;quality=60&amp;ssl=1" alt="Ball game halted by sex toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/sex-toy-hurled-onto-court-during-wnba-game.html" target="_blank">Ball game halted by sex toy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753765558-20250730.png" alt="Saturday Morning Breakfast Cereal - Eat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/eat-5" target="_blank">Saturday Morning Breakfast Cereal - Eat</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-30 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,22 +321,13 @@
                 <span class="time">2025-07-29 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753809563-booktext.png" alt="Saturday Morning Breakfast Cereal - A City on Mars - Now in Paperback!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/a-city-on-mars-now-in-paperback" target="_blank">Saturday Morning Breakfast Cereal - A City on Mars - Now in Paperback!</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-29 17:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
