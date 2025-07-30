@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 00:05:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-30 01:29:42 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/tsunami-alerts-issued-after-magnitude-earthquake-8-0-off-russia?traffic_source=rss" target="_blank">Tsunami alerts issued after powerful magnitude 8.7 earthquake off Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,30 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Powerful 8.7-magnitude earthquake causes tsunami in Russia&#x27;s Far East - with warnings issued for Japan, Hawaii and Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/powerful-87-magnitude-earthquake-causes-tsunami-in-russias-far-east-with-warnings-issued-for-japan-hawaii-and-alaska-13403770" target="_blank">Powerful 8.7-magnitude earthquake causes tsunami in Russia&#x27;s Far East - with warnings issued for Japan, Hawaii and Alaska</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-29 21:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-food-aid_6976538.jpg?20250729081053" alt="Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/starmers-plan-to-recognise-palestinian-state-labelled-appeasement-towards-jihadist-terrorists-by-netanyahu-13403756" target="_blank">Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-07-29 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/269a/live/e45595f0-6c90-11f0-89ea-4d6f9851f623.jpg" alt="Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj0y45mdjp7o?at_medium=RSS&at_campaign=rss" target="_blank">Russian strikes kill 25 in Ukraine, as Trump confirms deadline for talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-29 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/29/nx-s1-5482966/trump-climate-change-epa" target="_blank">Trump&#x27;s EPA wants to eliminate regulation for greenhouse gases</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-29 18:51</span>
             </div>
         </div>
 </div>
@@ -172,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-NUMA-Locality-Random" target="_blank">Linux 6.17 Improves NUMA Locality For SMP Call Rather Than Deferring To Random CPU Core</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-30 00:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive" target="_blank">M8.7 Earthquake in Western Pacific, Tsunami Warning Issued</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fscss-ttr/ext-string-extractor-in-fscss-31f9" target="_blank">@ext() String Extractor in FSCSS</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,24 +220,6 @@
                 <span class="time">2025-07-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsuj7o9i8b20lcogekju.png" alt="Automate Your Job Hunt 🚀 with n8n 🤖" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sroy8091/automate-your-job-hunt-with-n8n-1efp" target="_blank">Automate Your Job Hunt 🚀 with n8n 🤖</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-29 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Xtraceroute-Open-Source-AI" target="_blank">Xtraceroute Ported To GTK4 + Vulkan For Demonstrating The Open-Source Potential For AI</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 19:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/deadly-wet-bulb-temperatures-are-smothering-the-eastern-u-s-2000636294" target="_blank">Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S.</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screen-Shot-2025-07-29-at-1.47.41-PM.png?fit=1200%2C658&amp;quality=55&amp;ssl=1" alt="Watch live as Australian braves wild dogs and desert winds in 4-year global trek" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/watch-live-as-australian-braves-wild-dogs-and-desert-winds-in-4-year-global-trek.html" target="_blank">Watch live as Australian braves wild dogs and desert winds in 4-year global trek</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 23:45</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/29/elevate-your-bedtime-story-game-with-readmio-for-just-59-99.html" target="_blank">Elevate your bedtime story game with Readmio for just $59.99</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/baby.jpg" alt="Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fertility-rate-in-the-u-s-reached-an-all-time-low-in-2024-cdc-data-reveals-2000636194" target="_blank">Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-29 20:50</span>
             </div>
         </div>
 </div>
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
