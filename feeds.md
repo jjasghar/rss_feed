@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 10:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 11:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="California hit with tsunami waves after massive 8.8 magnitude earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/tsunami-watch-issued-hawaii-after-80-magnitude-earthquake/story?id=124190121" target="_blank">California hit with tsunami waves after massive 8.8 magnitude earthquake</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-30 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/30/imam-of-southport-mosque-reflects-one-year-on-from-uk-race-riots?traffic_source=rss" target="_blank">Imam of Southport Mosque reflects one year on from UK race riots</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 10:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="Tsunami waves begin hitting Hawaii after 8.8 earthquake near Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +102,29 @@
                 <span class="time">2025-07-30 08:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-tsunami-russia-earthquake_6977470.jpg?20250730072008" alt="Russian earthquake triggers tsunami warnings across Pacific - what we know so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russian-earthquake-triggers-tsunami-warnings-across-the-pacific-what-we-know-so-far-13403832" target="_blank">Russian earthquake triggers tsunami warnings across Pacific - what we know so far</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-30 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/" target="_blank">Footnotes, TikTok’s crowdsourced fact-checks, launches in the US</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini_CLI_Hero-500x500.png" alt="Flaw in Gemini CLI coding tool could allow hackers to run nasty commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/" target="_blank">Flaw in Gemini CLI coding tool could allow hackers to run nasty commands</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +161,29 @@
                 <span class="time">2025-07-29 22:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/delivs_tower_1-500x500.jpg" alt="AI in Wyoming may soon use more electricity than state’s human residents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/ai-in-wyoming-may-soon-use-more-electricity-than-states-human-residents/" target="_blank">AI in Wyoming may soon use more electricity than state’s human residents</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-29 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features" target="_blank">LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-29 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-HFI-CPUID-Fault-Linux-6.17" target="_blank">AMD Hardware Feedback Interface &amp; CPUID Faulting Merged For Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-30 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/aws-lambda-remote-debugging/en/headerimage/generatedHeaderImage-1753695692007.jpg" alt="Serverless Development with Console to IDE and Remote Debugging for AWS Lambda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/aws-lambda-remote-debugging/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Serverless Development with Console to IDE and Remote Debugging for AWS Lambda</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-30 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk3i31j6b86uug9hia00.png" alt="🚀Top 25 Chrome Extensions for DEVs🧑‍💻" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="time">2025-07-30 07:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr197eeyxisaw3r2ys7qu.jpg" alt="A guide to optimizing performance and security for MCP servers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nishantbijani/a-guide-to-optimizing-performance-and-security-for-mcp-servers-1pm9" target="_blank">A guide to optimizing performance and security for MCP servers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/armaankhan8270/bbb-14h" target="_blank">bbb</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 05:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b4ff2c07b122ac34dac21b68a0c73577.jpg" alt="Elden Ring Nightreign&#x27;s Duo Mode Patch Is Delayed Following Massive Earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-patch-duo-mode-delay-earthquake-1851787291" target="_blank">Elden Ring Nightreign&#x27;s Duo Mode Patch Is Delayed Following Massive Earthquake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 10:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/quantum-survey-main-image.jpg" alt="After 100 Years of Quantum Mechanics, Physicists Still Can’t Agree on Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/29/watch-live-as-australian-braves-wild-dogs-and-desert-winds-in-4-year-global-trek.html" target="_blank">Watch live as Australian braves wild dogs and desert winds in 4-year global trek</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-29 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tamiya-Porsche934-1976.jpg?fit=1200%2C806&amp;quality=60&amp;ssl=1" alt="RIP Tamiya founder,  who dismantled Porsche 911 to create perfect plastic model kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/rip-tamiya-founder-who-dismantled-porsche-911-to-create-perfect-plastic-model-kit.html" target="_blank">RIP Tamiya founder,  who dismantled Porsche 911 to create perfect plastic model kit</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-29 23:40</span>
             </div>
         </div>
 </div>
@@ -349,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
