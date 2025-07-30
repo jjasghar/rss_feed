@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 03:30:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 04:16:17 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5481820/ntsb-dca-army-black-hawk-midair-collision-hearings" target="_blank">The NTSB is set to hold a hearing on the DCA midair collision. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-30 04:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="UK wants to &#x27;affect situation on ground&#x27; in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/new-poll-shows-plunging-us-public-support-for-israels-war-on-gaza?traffic_source=rss" target="_blank">New poll shows plunging US public support for Israel’s war on Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-29 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nevada-gun-show-01-gty-jt-250729_1753801909664_hpMain_4x3t_384.jpg" alt="What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/nevadas-gun-laws-after-las-vegas-man-opened/story?id=124184308" target="_blank">What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 22:06</span>
             </div>
         </div>
 </div>
@@ -249,6 +248,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/sven.jpg?fit=1090%2C1200&amp;quality=60&amp;ssl=1" alt="Drew Friedman brings horror host Svengoolie to life in meticulous new masterpiece" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/drew-friedman-brings-horror-host-svengoolie-to-life-in-meticulous-new-masterpiece.html" target="_blank">Drew Friedman brings horror host Svengoolie to life in meticulous new masterpiece</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 00:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Projected-WBGT-values-for-Wednesday-July-30.jpg" alt="Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281" target="_blank">The War Over Credit Cards Censoring Games Is Just Getting Started</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-29 21:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1BE5399SXEB155F15GQR2K1/hero-image.png" alt="How to Find and Remove &#x27;Stalkerware&#x27; From Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-find-and-remove-stalkerware-from-your-phone?utm_medium=RSS" target="_blank">How to Find and Remove &#x27;Stalkerware&#x27; From Your Phone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-29 21:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
