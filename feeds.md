@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 08:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-30 09:04:53 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/30/europes-deadly-border-theatre-is-back?traffic_source=rss" target="_blank">Europe’s deadly border theatre is back</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 08:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/videos/cwy01l5kgxno?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Major earthquake off Russia triggers widespread tsunami warnings</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-30 04:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/30/what-is-israels-war-taking-from-gazas-children?traffic_source=rss" target="_blank">What is Israel’s war taking from Gaza’s children</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 04:32</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/guide-curating-technical-conference-track/en/headerimage/header-logo-image-A-First-Timers-Guide-to-Curating-a-Technical-Conference-Track-1753687916291.jpg" alt="Article: A First-Timer’s Guide to Curating a Technical Conference Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/guide-curating-technical-conference-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: A First-Timer’s Guide to Curating a Technical Conference Track</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-30 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/uno-platform-6-1/en/headerimage/header-1670341892423-1753653893856.jpg" alt="Uno Platform 6.1 Introduces CommandBarFlyout Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-NUMA-Locality-Random" target="_blank">Linux 6.17 Improves NUMA Locality For SMP Call Rather Than Deferring To Random CPU Core</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-30 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive" target="_blank">M8.7 earthquake in Western Pacific, tsunami warning issued</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 00:38</span>
             </div>
         </div>
 </div>
@@ -301,6 +302,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/30/the-gift-aperture" target="_blank">The Gift Aperture</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-30 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/29/itchy-tasty" target="_blank">Itchy Tasty</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-07-29 18:46</span>
@@ -338,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
