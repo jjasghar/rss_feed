@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 11:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 12:02:01 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18535332&w=600" alt="An Introduction to Agile Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/introduction-to-agile-architecture" target="_blank">An Introduction to Agile Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -211,15 +222,6 @@
                 <span class="time">2025-07-30 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/i_am_yaseen/dev-thought-of-the-day-1mh1" target="_blank">Dev Thought of the Day</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 07:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,9 +231,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/aeroflot-hacked.html" target="_blank">Aeroflot Hacked</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/measuring-the-attack-defense-balance.html" target="_blank">Measuring the Attack/Defense Balance</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-29 11:02</span>
+                <span class="time">2025-07-30 11:07</span>
             </div>
         </div>
 </div>
@@ -239,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cdf7d8bf3b613a06b486e7a234fa51e4.jpg" alt="EA Won&#x27;t Be Asking $80 For Battlefield 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-price-70-80-ea-preorder-black-ops-7-1851787292" target="_blank">EA Won&#x27;t Be Asking $80 For Battlefield 6</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b4ff2c07b122ac34dac21b68a0c73577.jpg" alt="Elden Ring Nightreign&#x27;s Duo Mode Patch Is Delayed Following Massive Earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/deadly-wet-bulb-temperatures-are-smothering-the-eastern-u-s-2000636294" target="_blank">Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S.</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-30 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Screen-Shot-2025-07-29-at-1.47.41-PM.png?fit=1200%2C658&amp;quality=55&amp;ssl=1" alt="Watch live as Australian braves wild dogs and desert winds in 4-year global trek" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/watch-live-as-australian-braves-wild-dogs-and-desert-winds-in-4-year-global-trek.html" target="_blank">Watch live as Australian braves wild dogs and desert winds in 4-year global trek</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-29 23:45</span>
             </div>
         </div>
 </div>
@@ -348,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
