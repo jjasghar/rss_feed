@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 05:07:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-07-30 06:02:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 05:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,57 +47,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/30/what-is-israels-war-taking-from-gazas-children?traffic_source=rss" target="_blank">What is Israel’s war taking from Gaza’s children</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 04:32</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 05:45</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5481820/ntsb-dca-army-black-hawk-midair-collision-hearings" target="_blank">The NTSB is set to hold a hearing on the DCA midair collision. Here&#x27;s what to know</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court" target="_blank">Senate confirms Trump lawyer Emil Bove for appeals court</a></span>
                 <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 04:01</span>
+                <span class="time">2025-07-30 05:25</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="UK wants to &#x27;affect situation on ground&#x27; in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">UK wants to &#x27;affect situation on ground&#x27; in Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 02:30</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/russia-ukraine-war-list-of-key-events-day-1252?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,252</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 05:16</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-Hawaii-Waikiki-evacuation-to-higher-ground-tsunami-warning-ac-1056p-2a8ca4.jpg" alt="Powerful earthquake off Russia triggers tsunami fears for Japan and U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-NOAA-Tsunami-Warning-System-map-ac-1020p-7958c4.jpg" alt="Hawaii placed under tsunami alert after powerful earthquake off Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/russia/earthquake-russia-tsunami-japan-hawaii-rcna221875" target="_blank">Powerful earthquake off Russia triggers tsunami fears for Japan and U.S.</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-hawaii-tsunami-warning-hours-russia-earthquake-rcna221881" target="_blank">Hawaii placed under tsunami alert after powerful earthquake off Russia</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-30 01:25</span>
+                <span class="time">2025-07-30 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2165/live/3554e580-6cfc-11f0-89ea-4d6f9851f623.jpg" alt="Watch: Major earthquake off Russia triggers widespread tsunami warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/videos/cwy01l5kgxno?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Major earthquake off Russia triggers widespread tsunami warnings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 04:38</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/tsunami-alerts-issued-after-magnitude-earthquake-8-0-off-russia?traffic_source=rss" target="_blank">Tsunami alerts issued for US, Japan, Philippines after massive earthquake</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/7/30/what-is-israels-war-taking-from-gazas-children?traffic_source=rss" target="_blank">What is Israel’s war taking from Gaza’s children</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 00:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/tsunami-alerts-issued-after-magnitude-earthquake-8-0-off-russia?traffic_source=rss" target="_blank">Tsunami alerts issued after powerful magnitude 8.7 earthquake off Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 00:10</span>
+                <span class="time">2025-07-30 04:32</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/armaankhan8270/bbb-14h" target="_blank">bbb</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 05:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-NUMA-Locality-Random" target="_blank">Linux 6.17 Improves NUMA Locality For SMP Call Rather Than Deferring To Random CPU Core</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/shafqat_ahmed_04d479f9a03/smarter-automapping-in-dapperfluentmap-while-dataannotations-attributes-3il9" target="_blank">Smarter Generic Mapping in Dapper.FluentMap while using DataAnnotations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-29 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Staging" target="_blank">Linux 6.17 Staging Continues Cleaning The Realtek RTL8723BS Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-29 20:19</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 05:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
