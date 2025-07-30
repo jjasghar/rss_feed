@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 22:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 23:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-04-gty-jef-250730_1753876817163_hpMain_4x3t_384.jpg" alt="Trump&#x27;s comments on Epstein raise new questions about when and why they fell out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-comments-epstein-raise-new-questions-fell/story?id=124211483" target="_blank">Trump&#x27;s comments on Epstein raise new questions about when and why they fell out</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-30 20:35</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -96,20 +101,29 @@
                 <span class="time">2025-07-30 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/13d5dfd0-6d20-11f0-89ea-4d6f9851f623.jpg" alt="Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c987dwrdl0zo?at_medium=RSS&at_campaign=rss" target="_blank">Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688a3f12ac2393baeff998b2/master/pass/Spotify-Playlists-Government-Officials-Culture-1233520416.jpg" alt="What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/" target="_blank">What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/atm-with-cash-500x500.jpg" alt="In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/" target="_blank">In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 22:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +160,20 @@
                 <span class="time">2025-07-30 20:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg" alt="$15 billion in NIH funding frozen, then thawed Tuesday in ongoing power war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/07/15-billion-in-nih-funding-frozen-then-thawed-tuesday-in-ongoing-power-war/" target="_blank">$15 billion in NIH funding frozen, then thawed Tuesday in ongoing power war</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6889fcc4a5d2f5a9fc97b3f4/master/pass/AlphaEarth%20Foundations%20composite%20header.png" alt="Google’s Newest AI Model Acts like a Satellite to Track Climate Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/" target="_blank">Google’s Newest AI Model Acts like a Satellite to Track Climate Change</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm4wbcsxuyz0lydcrk34a.gif" alt="Context engineering for production-grade web agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a" target="_blank">Context engineering for production-grade web agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 22:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,6 +181,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-rc3-Released" target="_blank">Mesa 25.2-rc3 Released With RADV Vulkan Video Fixes, NVK Conformance Update</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-30 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18542802&w=600" alt="Immutable Objects Using Record in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/immutable-objects-using-record-in-java" target="_blank">Immutable Objects Using Record in Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-30 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +217,6 @@
                 <span class="title"><a href="https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/" target="_blank">Most Illinois farmland is not owned by farmers</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-30 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.catherinejue.com/fast" target="_blank">Fast</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536312&w=600" alt="Disaster Recovery Risks and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/disaster-recovery-risks-and-solutions" target="_blank">Disaster Recovery Risks and Solutions</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-30 17:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/waroftheworlds.jpg" alt="Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazons-new-war-of-the-worlds-features-a-head-scratching-twist-2000636929" target="_blank">Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Haunted-Mansion-Figures-Disney-Store-1.jpg" alt="These ‘Haunted Mansion’ Figures Evoke the Spirit of the Classic Disneyland Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +299,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/30/inside-mexicos-molar-city-where-americans-find-dental-care-at-80-off.html" target="_blank">Inside Mexico&#x27;s &quot;Molar City,&quot; where Americans find dental care at 80% off</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-30 19:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1EAQ0TF56KPC2ZRQPBFDPY9/hero-image.png" alt="YouTube Is Using AI to Guess Your Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youtube-is-using-ai-to-roll-out-new-protections-for-teens?utm_medium=RSS" target="_blank">YouTube Is Using AI to Guess Your Age</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-30 19:30</span>
             </div>
         </div>
 </div>
@@ -351,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
