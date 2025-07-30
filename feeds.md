@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 13:14:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-30 14:03:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +105,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/" target="_blank">YouTube loosens profanity rules for monetized videos</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-30 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/returnkey-500x500.jpg" alt="VPN use soars in UK after age-verification laws go into effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/vpn-use-soars-in-uk-after-age-verification-laws-go-into-effect/" target="_blank">VPN use soars in UK after age-verification laws go into effect</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch" target="_blank">TikTok videos are about to get crowdsourced fact checks on them</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2" target="_blank">Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st</a></span>
                 <span class="feed">The Verge</span>
@@ -127,38 +156,38 @@
                 <span class="time">2025-07-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2213732927-500x500.jpg" alt="Tesla picks LGES, not CATL, for $4.3 billion storage battery deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/07/tesla-to-buy-storage-battery-cells-from-lges-in-4-3-billion-deal/" target="_blank">Tesla picks LGES, not CATL, for $4.3 billion storage battery deal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/" target="_blank">Footnotes, TikTok’s crowdsourced fact-checks, launches in the US</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini_CLI_Hero-500x500.png" alt="Flaw in Gemini CLI coding tool could allow hackers to run nasty commands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/" target="_blank">Flaw in Gemini CLI coding tool could allow hackers to run nasty commands</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://oxide.computer/blog/our-100m-series-b" target="_blank">Our $100M Series B</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-threadripper-9970x-9980x-linux" target="_blank">AMD Threadripper 9980X + 9970X Linux Benchmarks: Incredible Workstation Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/picture-widget.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME Shell Gets a Proper Desktop Photo Widget (Finally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/picture-desktop-widget-gnome-shell-extension" target="_blank">GNOME Shell Gets a Proper Desktop Photo Widget (Finally)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-30 11:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18535332&w=600" alt="An Introduction to Agile Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +215,6 @@
                 <span class="time">2025-07-30 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk3i31j6b86uug9hia00.png" alt="🚀Top 25 Chrome Extensions for DEVs🧑‍💻" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a" target="_blank">🚀Top 25 Chrome Extensions for DEVs🧑‍💻</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 09:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/guide-curating-technical-conference-track/en/headerimage/header-logo-image-A-First-Timers-Guide-to-Curating-a-Technical-Conference-Track-1753687916291.jpg" alt="Article: A First-Timer’s Guide to Curating a Technical Conference Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/guide-curating-technical-conference-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: A First-Timer’s Guide to Curating a Technical Conference Track</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-30 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.science.org/content/blog-post/it-all-comes-down-mitochondria" target="_blank">Sleep all comes down to the mitochondria</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 08:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +235,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dildo.jpg?fit=1564%2C854&amp;quality=60&amp;ssl=1" alt="Ball game halted by sex toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/sex-toy-hurled-onto-court-during-wnba-game.html" target="_blank">Ball game halted by sex toy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/Batman-Catwoman.jpg" alt="Those Fascist Social Media Posts by DHS Have a Copyright Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/those-fascist-social-media-posts-by-dhs-have-a-copyright-problem-2000636302" target="_blank">Those Fascist Social Media Posts by DHS Have a Copyright Problem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1C38VRQVS1T7HP1NPM5CZXN/hero-image.jpg" alt="Here&#x27;s How Long Meta Says the Ideal VR Gaming Session Should Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-long-should-vr-gaming-session-last?utm_medium=RSS" target="_blank">Here&#x27;s How Long Meta Says the Ideal VR Gaming Session Should Last</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-30 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6b3c1fc81f721d900bc907a611052edf.png" alt="Adorable Betrayal Sim Peak Just Added Cannibalism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/peak-cannibalism-patch-notes-bug-fixes-steam-1851787299" target="_blank">Adorable Betrayal Sim Peak Just Added Cannibalism</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 13:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Svalbard.jpg" alt="The Arctic Got So Warm in February, Svalbard’s Ground Was ‘Like Soft Ice Cream’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -248,42 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/battlefield-6-price-70-80-ea-preorder-black-ops-7-1851787292" target="_blank">EA Won&#x27;t Be Asking $80 For Battlefield 6</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-30 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b4ff2c07b122ac34dac21b68a0c73577.jpg" alt="Elden Ring Nightreign&#x27;s Duo Mode Patch Is Delayed Following Massive Earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-patch-duo-mode-delay-earthquake-1851787291" target="_blank">Elden Ring Nightreign&#x27;s Duo Mode Patch Is Delayed Following Massive Earthquake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/quantum-survey-main-image.jpg" alt="After 100 Years of Quantum Mechanics, Physicists Still Can’t Agree on Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/after-100-years-of-quantum-mechanics-physicists-still-cant-agree-on-anything-2000636276" target="_blank">After 100 Years of Quantum Mechanics, Physicists Still Can’t Agree on Anything</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/170a3a61fd181633f0c38f20bbebfc74.jpg" alt="Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286" target="_blank">Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/sven.jpg?fit=1090%2C1200&amp;quality=60&amp;ssl=1" alt="Drew Friedman brings horror host Svengoolie to life in meticulous new masterpiece" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/drew-friedman-brings-horror-host-svengoolie-to-life-in-meticulous-new-masterpiece.html" target="_blank">Drew Friedman brings horror host Svengoolie to life in meticulous new masterpiece</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 00:41</span>
             </div>
         </div>
 </div>
@@ -341,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
