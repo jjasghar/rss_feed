@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 19:03:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-30 20:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -194,6 +189,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.catherinejue.com/fast" target="_blank">Fast</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 17:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536312&w=600" alt="Disaster Recovery Risks and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4" target="_blank">Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-30 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/charmbracelet/crush" target="_blank">Crush: Glamourous AI coding agent for your favourite terminal</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 16:18</span>
             </div>
         </div>
 </div>
@@ -239,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3d26396738fa0e368f3b68fa0c9da018.jpg" alt="23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512" target="_blank">23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1EAQ0TF56KPC2ZRQPBFDPY9/hero-image.png" alt="YouTube Is Using AI to Guess Your Age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/youtube-is-using-ai-to-roll-out-new-protections-for-teens?utm_medium=RSS" target="_blank">YouTube Is Using AI to Guess Your Age</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-30 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Samuel L Jackson presents a counterpoint to Trump&#x27;s stand on wind farms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/samuel-l-jackson-presents-a-counterpoint-to-trumps-stand-on-wind-farms.html" target="_blank">Samuel L Jackson presents a counterpoint to Trump&#x27;s stand on wind farms</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 19:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/sdcc-2025-best-worst-alien-fantastic-four-tron.jpg" alt="10 Winners and 4 Losers From San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/30/scientists-discover-why-your-brain-demands-sleep.html" target="_blank">Scientists discover why your brain demands sleep</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-30 17:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c34844acd8a4ca7a7751a9b0af5ee001.png" alt="Bloodlines 2 Isn’t Aiming To Be A Vampire-Themed GTA, And That Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vampire-masquerade-bloodlines-2-vtm-chinese-room-1851787361" target="_blank">Bloodlines 2 Isn’t Aiming To Be A Vampire-Themed GTA, And That Rules</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K09YSM5AFSAV5JQ5882B2EGH/hero-image.png" alt="Poshmark Finally Added a Feature eBay Has Had for Years, and I’m Thrilled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/poshmark-smart-sell?utm_medium=RSS" target="_blank">Poshmark Finally Added a Feature eBay Has Had for Years, and I’m Thrilled</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/vesuvius-painting.jpg" alt="Watch a Reconstructed 250-Year-Old Robotic Painting Bring a Fiery Mount Vesuvius Back to Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-a-reconstructed-250-year-old-robotic-painting-bring-a-fiery-mount-vesuvius-back-to-life-2000636587" target="_blank">Watch a Reconstructed 250-Year-Old Robotic Painting Bring a Fiery Mount Vesuvius Back to Life</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 15:35</span>
             </div>
         </div>
 </div>
@@ -330,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
