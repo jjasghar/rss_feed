@@ -1,29 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-29 23:01:32 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-30 00:05:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, July 29, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/07/29/nx-s1-5484304/senator-us-preventive-task-force-rfk" target="_blank">Senators introduce resolution supporting prevention task force RFK Jr. may disband</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-29 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/29/new-poll-shows-plunging-us-public-support-for-israels-war-on-gaza?traffic_source=rss" target="_blank">New poll shows plunging US public support for Israel’s war on Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-29 23:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/nevada-gun-show-01-gty-jt-250729_1753801909664_hpMain_4x3t_384.jpg" alt="What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +105,29 @@
                 <span class="time">2025-07-29 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Wesley-Lepatner-ht-gmh-250729_1753799834541_hpMain_4x3t_384.jpg" alt="NYC mass shooting victims: NYPD officer, Blackstone exec among the 4 killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/4-midtown-manhattan-shooting-victims/story?id=124161500" target="_blank">NYC mass shooting victims: NYPD officer, Blackstone exec among the 4 killed</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/manhattan-shooting-scene-01-gty-jef-250729_1753793733894_hpMain_4x3t_384.jpg" alt="NYC office shooting latest: 4 killed, gunman appeared to be targeting NFL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/midtown-shooting-suspect-left-note-mentioning-nfl-cte/story?id=124163966" target="_blank">NYC office shooting latest: 4 killed, gunman appeared to be targeting NFL</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-29 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/29/space-force-bets-on-commercial-entrants-in-4b-satcom-contest/" target="_blank">Space Force bets on commercial entrants in $4B satcom contest</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-29 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization" target="_blank">YouTube tells creators they can drop more F-bombs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-29 23:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +164,20 @@
                 <span class="time">2025-07-29 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/trump-with-ec-president-500x500-1753814466.jpg" alt="Trump claims Europe won’t make Big Tech pay ISPs; EU says it still might" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trump-claims-europe-wont-make-big-tech-pay-isps-eu-says-it-still-might/" target="_blank">Trump claims Europe won’t make Big Tech pay ISPs; EU says it still might</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-29 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715463/sharge-retractable-3-in-1-power-bank-battery-charger" target="_blank">Sharge added a rechargeable battery to its sleek retractable charger</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-29 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fscss-ttr/ext-string-extractor-in-fscss-31f9" target="_blank">@ext() String Extractor in FSCSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-29 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +223,6 @@
                 <span class="time">2025-07-29 19:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539690&w=600" alt="Demystifying Convolutional Neural Networks (CNNs) in the Deep Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cnn-convolutional-neural-networks-guide" target="_blank">Demystifying Convolutional Neural Networks (CNNs) in the Deep Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Projected-WBGT-values-for-Wednesday-July-30.jpg" alt="Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/deadly-wet-bulb-temperatures-are-smothering-the-eastern-u-s-2000636294" target="_blank">Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S.</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Tamiya-Porsche934-1976.jpg?fit=1200%2C806&amp;quality=60&amp;ssl=1" alt="RIP Tamiya founder,  who dismantled Porsche 911 to create perfect plastic model kit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/29/rip-tamiya-founder-who-dismantled-porsche-911-to-create-perfect-plastic-model-kit.html" target="_blank">RIP Tamiya founder,  who dismantled Porsche 911 to create perfect plastic model kit</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-29 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5f57269282b6f2e5d76232bbc3f405d6.png" alt="The War Over Credit Cards Censoring Games Is Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/fertility-rate-in-the-u-s-reached-an-all-time-low-in-2024-cdc-data-reveals-2000636194" target="_blank">Fertility Rate in the U.S. Reached an All-Time Low in 2024, CDC Data Reveals</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-29 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f752a6a7b18827fed224134f8fda4a90.jpg" alt="Ranking Blizzard’s Proposed Overwatch 2 Collabs By How Much I Do Or Don&#x27;t Want Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-2-collaborations-survey-pokemon-star-wars-1851787277" target="_blank">Ranking Blizzard’s Proposed Overwatch 2 Collabs By How Much I Do Or Don&#x27;t Want Them</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-29 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/soucek.jpg?fit=1200%2C750&amp;quality=60&amp;ssl=1" alt="Trump delegate&#x27;s Qanon husband busted for child porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/trump-delegates-qanon-husband-busted-for-child-porn.html" target="_blank">Trump delegate&#x27;s Qanon husband busted for child porn</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-29 20:19</span>
             </div>
         </div>
 </div>
@@ -331,7 +343,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 23:01 UTC
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
