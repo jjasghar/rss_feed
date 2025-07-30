@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 02:40:48 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-30 03:30:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 02:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="UK wants to &#x27;affect situation on ground&#x27; in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">UK wants to &#x27;affect situation on ground&#x27; in Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/tsunami-alerts-issued-after-magnitude-earthquake-8-0-off-russia?traffic_source=rss" target="_blank">Tsunami alerts issued for US, Japan, Philippines after massive earthquake</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 00:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/nevadas-gun-laws-after-las-vegas-man-opened/story?id=124184308" target="_blank">What to know about Nevada&#x27;s gun laws after Las Vegas man opened fire in Manhattan</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-29 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Powerful 8.7-magnitude earthquake causes tsunami in Russia&#x27;s Far East - with warnings issued for Japan, Hawaii and Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/powerful-87-magnitude-earthquake-causes-tsunami-in-russias-far-east-with-warnings-issued-for-japan-hawaii-and-alaska-13403770" target="_blank">Powerful 8.7-magnitude earthquake causes tsunami in Russia&#x27;s Far East - with warnings issued for Japan, Hawaii and Alaska</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-29 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-palestinians-food-aid_6976538.jpg?20250729081053" alt="Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/starmers-plan-to-recognise-palestinian-state-labelled-appeasement-towards-jihadist-terrorists-by-netanyahu-13403756" target="_blank">Starmer&#x27;s plan to recognise Palestinian state labelled &#x27;appeasement towards jihadist terrorists&#x27; by Netanyahu</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-29 20:37</span>
             </div>
         </div>
 </div>
@@ -170,6 +179,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive" target="_blank">M8.7 earthquake in Western Pacific, tsunami warning issued</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive" target="_blank">M8.7 Earthquake in Western Pacific, Tsunami Warning Issued</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-07-30 00:38</span>
@@ -202,15 +220,6 @@
                 <span class="time">2025-07-29 20:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539473&w=600" alt="TypeScript in Cloud Applications: Why It’s a Powerful Choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/typescript-in-cloud-applications" target="_blank">TypeScript in Cloud Applications: Why It’s a Powerful Choice</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-29 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/170a3a61fd181633f0c38f20bbebfc74.jpg" alt="Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286" target="_blank">Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 02:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Projected-WBGT-values-for-Wednesday-July-30.jpg" alt="Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +290,6 @@
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-find-and-remove-stalkerware-from-your-phone?utm_medium=RSS" target="_blank">How to Find and Remove &#x27;Stalkerware&#x27; From Your Phone</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-29 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Readmio-Premium-Plan-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Elevate your bedtime story game with Readmio for just $59.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/29/elevate-your-bedtime-story-game-with-readmio-for-just-59-99.html" target="_blank">Elevate your bedtime story game with Readmio for just $59.99</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-29 21:00</span>
             </div>
         </div>
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:40 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
