@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 15:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 16:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -80,6 +71,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250730-trump-modi-rs-c22605.jpg" alt="Trump hits India with 25% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-hits-india-25-tariff-rcna221907" target="_blank">Trump hits India with 25% tariff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-30 12:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="California hit with tsunami waves after massive 8.8 magnitude earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -97,20 +97,29 @@
                 <span class="time">2025-07-30 10:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="Tsunami waves begin hitting Hawaii after 8.8 earthquake near Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tsunami-watch-issued-hawaii-after-80-magnitude-earthquake/story?id=124190121" target="_blank">Tsunami waves begin hitting Hawaii after 8.8 earthquake near Russia</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-30 09:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715696/dji-amflow-us-price-mtb-avinox" target="_blank">DJI finally brings its impressive Amflow e-bike to US trails</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/" target="_blank">PlayerZero raises $15M to prevent AI agents from shipping buggy code</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-30 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +156,29 @@
                 <span class="time">2025-07-30 13:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2" target="_blank">Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-30 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688935294d15f554ddf377ea/master/pass/Review-%20TernX%20Carry-On%20Luggage%20Stroller.png" alt="TernX Review (2025): Travel With Young Kids Just Got Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/ternx-carry-on-luggage-stroller/" target="_blank">TernX Review (2025): Travel With Young Kids Just Got Easier</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/" target="_blank">A practical guide on how to use the GitHub MCP server</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-07-30 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj17q5ln1s2ru8fq61yna.png" alt="Install ACB on Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devalexmartinez/install-acb-on-cursor-2h9f" target="_blank">Install ACB on Cursor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 15:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18535373&w=600" alt="Mastering Agile: Principles, Practices, and Real-World Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,24 +215,6 @@
                 <span class="time">2025-07-30 11:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18535332&w=600" alt="An Introduction to Agile Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/introduction-to-agile-architecture" target="_blank">An Introduction to Agile Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-30 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-HFI-CPUID-Fault-Linux-6.17" target="_blank">AMD Hardware Feedback Interface &amp; CPUID Faulting Merged For Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-30 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/vesuvius-painting.jpg" alt="Watch a Reconstructed 250-Year-Old Robotic Painting Bring a Fiery Mount Vesuvius Back to Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-a-reconstructed-250-year-old-robotic-painting-bring-a-fiery-mount-vesuvius-back-to-life-2000636587" target="_blank">Watch a Reconstructed 250-Year-Old Robotic Painting Bring a Fiery Mount Vesuvius Back to Life</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/bear-cubs.jpg?fit=1500%2C996&amp;quality=60&amp;ssl=1" alt="Ring camera captures two baby bears bouncing on backyard trampoline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/ring-camera-captures-two-baby-bears-bouncing-on-backyard-trampoline.html" target="_blank">Ring camera captures two baby bears bouncing on backyard trampoline</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-30 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/796a694c666e0facac231bfe31f165ab.jpg" alt="Ninja Gaiden: Ragebound: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +288,6 @@
                 <span class="time">2025-07-30 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/Batman-Catwoman.jpg" alt="Those Fascist Social Media Posts by DHS Have a Copyright Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/those-fascist-social-media-posts-by-dhs-have-a-copyright-problem-2000636302" target="_blank">Those Fascist Social Media Posts by DHS Have a Copyright Problem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1C38VRQVS1T7HP1NPM5CZXN/hero-image.jpg" alt="Here&#x27;s How Long Meta Says the Ideal VR Gaming Session Should Last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-long-should-vr-gaming-session-last?utm_medium=RSS" target="_blank">Here&#x27;s How Long Meta Says the Ideal VR Gaming Session Should Last</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-30 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,31 +320,13 @@
                 <span class="time">2025-07-29 17:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/youre-trash/" target="_blank">You’re Trash</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753765455-20250729.png" alt="Saturday Morning Breakfast Cereal - Myth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/myth-3" target="_blank">Saturday Morning Breakfast Cereal - Myth</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-29 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
