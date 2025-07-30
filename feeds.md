@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 12:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 13:14:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +103,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2" target="_blank">Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 13:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688935294d15f554ddf377ea/master/pass/Review-%20TernX%20Carry-On%20Luggage%20Stroller.png" alt="TernX Review (2025): Travel With Young Kids Just Got Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/ternx-carry-on-luggage-stroller/" target="_blank">TernX Review (2025): Travel With Young Kids Just Got Easier</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/observe-continues-to-adapt-to-the-changing-world-of-software-observability/" target="_blank">Observe continues to adapt to the changing world of software observability</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-30 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2213732927-500x500.jpg" alt="Tesla picks LGES, not CATL, for $4.3 billion storage battery deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/07/tesla-to-buy-storage-battery-cells-from-lges-in-4-3-billion-deal/" target="_blank">Tesla picks LGES, not CATL, for $4.3 billion storage battery deal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/07/30/tiktoks-crowdsourced-fact-checks-called-footnotes-launch-in-the-u-s/" target="_blank">Footnotes, TikTok’s crowdsourced fact-checks, launches in the US</a></span>
                 <span class="feed">TechCrunch</span>
@@ -125,42 +152,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/" target="_blank">Flaw in Gemini CLI coding tool could allow hackers to run nasty commands</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-30 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg" alt="Top Verizon Promo Codes &amp; Deals | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/verizon-promo-code/" target="_blank">Top Verizon Promo Codes &amp; Deals | August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/space-force-bets-on-commercial-entrants-in-4b-satcom-contest/" target="_blank">Space Force bets on commercial entrants in $4B satcom contest</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization" target="_blank">YouTube tells creators they can drop more F-bombs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-29 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/29/nvidia-ai-chip-challenger-groq-said-to-be-nearing-new-fundraising-at-6b-valuation/" target="_blank">Nvidia AI chip challenger Groq said to be nearing new fundraising at $6B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-29 22:02</span>
             </div>
         </div>
 </div>
@@ -214,12 +205,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/07/uno-platform-6-1/en/headerimage/header-1670341892423-1753653893856.jpg" alt="Uno Platform 6.1 Introduces CommandBarFlyout Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/uno-platform-6-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uno Platform 6.1 Introduces CommandBarFlyout Control</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-30 08:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.science.org/content/blog-post/it-all-comes-down-mitochondria" target="_blank">Sleep all comes down to the mitochondria</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 08:34</span>
             </div>
         </div>
 </div>
@@ -241,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Svalbard.jpg" alt="The Arctic Got So Warm in February, Svalbard’s Ground Was ‘Like Soft Ice Cream’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-arctic-got-so-warm-in-february-svalbards-ground-was-like-soft-ice-cream-2000636102" target="_blank">The Arctic Got So Warm in February, Svalbard’s Ground Was ‘Like Soft Ice Cream’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cdf7d8bf3b613a06b486e7a234fa51e4.jpg" alt="EA Won&#x27;t Be Asking $80 For Battlefield 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/29/drew-friedman-brings-horror-host-svengoolie-to-life-in-meticulous-new-masterpiece.html" target="_blank">Drew Friedman brings horror host Svengoolie to life in meticulous new masterpiece</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-30 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Projected-WBGT-values-for-Wednesday-July-30.jpg" alt="Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/deadly-wet-bulb-temperatures-are-smothering-the-eastern-u-s-2000636294" target="_blank">Deadly ‘Wet-Bulb’ Temperatures Are Smothering the Eastern U.S.</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 00:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
