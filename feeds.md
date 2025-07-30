@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 09:04:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-30 10:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="Tsunami waves begin hitting Hawaii after 8.8 earthquake near Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/tsunami-watch-issued-hawaii-after-80-magnitude-earthquake/story?id=124190121" target="_blank">Tsunami waves begin hitting Hawaii after 8.8 earthquake near Russia</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-30 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/30/gazas-starving-children-face-permanent-damage-from-chronic-hunger?traffic_source=rss" target="_blank">Gaza’s starving children face permanent damage from chronic hunger</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9976/live/d208cb40-6d23-11f0-8dbd-f3d32ebd3327.jpg" alt="Hawaiians cram roads away from coasts as tsunami waves arrive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8ryl02p8ngo?at_medium=RSS&at_campaign=rss" target="_blank">Hawaiians cram roads away from coasts as tsunami waves arrive</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 08:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -58,48 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-tsunami-russia-earthquake_6977470.jpg?20250730072008" alt="Russian earthquake triggers tsunami warnings across Pacific - what we know so far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-earthquake-triggers-tsunami-warnings-across-the-pacific-what-we-know-so-far-13403832" target="_blank">Russian earthquake triggers tsunami warnings across Pacific - what we know so far</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-30 06:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41fa/live/3237c1a0-6ce9-11f0-8dbd-f3d32ebd3327.jpg" alt="Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c23p8gl05r2o?at_medium=RSS&at_campaign=rss" target="_blank">Lammy hopes plan to recognise Palestinian state &#x27;will get ceasefire&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-30 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court" target="_blank">Senate confirms Trump lawyer Emil Bove for appeals court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/30/russia-ukraine-war-list-of-key-events-day-1252?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,252</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 05:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-NOAA-Tsunami-Warning-System-map-ac-1020p-7958c4.jpg" alt="Hawaii placed under tsunami alert after powerful earthquake off Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-hawaii-tsunami-warning-hours-russia-earthquake-rcna221881" target="_blank">Hawaii placed under tsunami alert after powerful earthquake off Russia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-30 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2165/live/3554e580-6cfc-11f0-89ea-4d6f9851f623.jpg" alt="Watch: Major earthquake off Russia triggers widespread tsunami warnings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/videos/cwy01l5kgxno?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Major earthquake off Russia triggers widespread tsunami warnings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 04:38</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzk3i31j6b86uug9hia00.png" alt="🚀Top 25 Chrome Extensions for DEVs🧑‍💻" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_kiran/top-25-chrome-extensions-for-devs-3a9a" target="_blank">🚀Top 25 Chrome Extensions for DEVs🧑‍💻</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 09:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/guide-curating-technical-conference-track/en/headerimage/header-logo-image-A-First-Timers-Guide-to-Curating-a-Technical-Conference-Track-1753687916291.jpg" alt="Article: A First-Timer’s Guide to Curating a Technical Conference Track" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +221,6 @@
                 <span class="time">2025-07-30 05:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-NUMA-Locality-Random" target="_blank">Linux 6.17 Improves NUMA Locality For SMP Call Rather Than Deferring To Random CPU Core</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-30 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/quantum-survey-main-image.jpg" alt="After 100 Years of Quantum Mechanics, Physicists Still Can’t Agree on Anything" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/after-100-years-of-quantum-mechanics-physicists-still-cant-agree-on-anything-2000636276" target="_blank">After 100 Years of Quantum Mechanics, Physicists Still Can’t Agree on Anything</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/170a3a61fd181633f0c38f20bbebfc74.jpg" alt="Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/29/rip-tamiya-founder-who-dismantled-porsche-911-to-create-perfect-plastic-model-kit.html" target="_blank">RIP Tamiya founder,  who dismantled Porsche 911 to create perfect plastic model kit</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-29 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5f57269282b6f2e5d76232bbc3f405d6.png" alt="The War Over Credit Cards Censoring Games Is Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281" target="_blank">The War Over Credit Cards Censoring Games Is Just Getting Started</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-29 21:10</span>
             </div>
         </div>
 </div>
@@ -348,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
