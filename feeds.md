@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 18:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-07-30 19:03:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/13d5dfd0-6d20-11f0-89ea-4d6f9851f623.jpg" alt="Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c987dwrdl0zo?at_medium=RSS&at_campaign=rss" target="_blank">Tsunami alerts scaled back after huge earthquake prompts evacuations across Pacific</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/dc-plane-30-gty-gmh-250129_1738216341223_hpMain_4x3t_384.jpg" alt="Helicopter never heard command to pass behind jet, NTSB says in DC crash hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +102,29 @@
                 <span class="time">2025-07-30 16:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5455876/trump-india-tariff-trade" target="_blank">Trump dashes hopes of a trade deal with India by Aug. 1, announcing 25% tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-500x500.jpg" alt="$15 billion in NIH funding frozen, then thawed Tuesday in ongoing power war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/07/15-billion-in-nih-funding-frozen-then-thawed-tuesday-in-ongoing-power-war/" target="_blank">$15 billion in NIH funding frozen, then thawed Tuesday in ongoing power war</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6889fcc4a5d2f5a9fc97b3f4/master/pass/AlphaEarth%20Foundations%20composite%20header.png" alt="Google’s Newest AI Model Acts like a Satellite to Track Climate Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/" target="_blank">Google’s Newest AI Model Acts like a Satellite to Track Climate Change</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +161,38 @@
                 <span class="time">2025-07-30 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/playerzero-raises-15m-to-prevent-ai-agents-from-shipping-buggy-code/" target="_blank">PlayerZero raises $15M to prevent AI agents from shipping buggy code</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68069d82835a39eeaafcffcf/master/pass/sba-doge-sec-2206700473.jpg" alt="How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/edward-coristine-big-balls-doge-federal-pay-roll-system/" target="_blank">How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/venuziano/from-zero-to-test-deployment-terraform-aws-free-tier-a-30-minute-playground-599" target="_blank">From Zero to Test Deployment: Terraform + AWS Free Tier: A 30‑Minute Playground</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18537574&w=600" alt="Agentic DevOps for the Rest of Us: A New Era of Intelligent SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-devops-ai-software-delivery" target="_blank">Agentic DevOps for the Rest of Us: A New Era of Intelligent SDLC</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-30 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/" target="_blank">Most Illinois farmland is not owned by farmers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18536312&w=600" alt="Disaster Recovery Risks and Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +220,6 @@
                 <span class="time">2025-07-30 16:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/" target="_blank">A practical guide on how to use the GitHub MCP server</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-30 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj17q5ln1s2ru8fq61yna.png" alt="Install ACB on Cursor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devalexmartinez/install-acb-on-cursor-2h9f" target="_blank">Install ACB on Cursor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18535373&w=600" alt="Mastering Agile: Principles, Practices, and Real-World Insights" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-principles-practices-real-world-insights" target="_blank">Mastering Agile: Principles, Practices, and Real-World Insights</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-30 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/sdcc-2025-best-worst-alien-fantastic-four-tron.jpg" alt="10 Winners and 4 Losers From San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-winners-and-4-losers-from-san-diego-comic-con-2025-2000636660" target="_blank">10 Winners and 4 Losers From San Diego Comic-Con 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/sadsunflower.jpg" alt="Men Born in the Summer Are More Likely to Be Depressed, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,20 +293,20 @@
                 <span class="time">2025-07-30 15:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/bear-cubs.jpg?fit=1500%2C996&amp;quality=60&amp;ssl=1" alt="Ring camera captures two baby bears bouncing on backyard trampoline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/ring-camera-captures-two-baby-bears-bouncing-on-backyard-trampoline.html" target="_blank">Ring camera captures two baby bears bouncing on backyard trampoline</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/30/the-gift-aperture" target="_blank">The Gift Aperture</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-07-30 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1753765558-20250730.png" alt="Saturday Morning Breakfast Cereal - Eat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,22 +325,13 @@
                 <span class="time">2025-07-30 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/29/itchy-tasty" target="_blank">Itchy Tasty</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-29 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
