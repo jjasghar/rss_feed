@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 16:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-07-30 17:03:06 UTC -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/g-s1-80240/world-photography-day-favorite-picture" target="_blank">Celebrate World Photography Day by showing NPR the coolest shot you&#x27;ve ever captured</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-30 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/7/30/the-war-on-truth-2?traffic_source=rss" target="_blank">The War on Truth</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dc-plane-30-gty-gmh-250129_1738216341223_hpMain_4x3t_384.jpg" alt="Families of DC plane crash victims break down in hearing as new video is released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/ntsb-begins-public-hearings-dc-plane-crash/story?id=124181265" target="_blank">Families of DC plane crash victims break down in hearing as new video is released</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-30 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +95,29 @@
                 <span class="time">2025-07-30 13:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250730-trump-modi-rs-c22605.jpg" alt="Trump hits India with 25% tariff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-hits-india-25-tariff-rcna221907" target="_blank">Trump hits India with 25% tariff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-30 12:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Hawaii-earthquake-tsunami-DB-250730_1753862352395_hpMain_4x3t_384.jpg" alt="California hit with tsunami waves after massive 8.8 magnitude earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tsunami-watch-issued-hawaii-after-80-magnitude-earthquake/story?id=124190121" target="_blank">California hit with tsunami waves after massive 8.8 magnitude earthquake</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-30 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/30/imam-of-southport-mosque-reflects-one-year-on-from-uk-race-riots?traffic_source=rss" target="_blank">Imam of Southport Mosque reflects one year on from UK race riots</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 10:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking" target="_blank">You can hide an AirTag in Skechers’ new kids’ shoes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-500x500.jpg" alt="Google confirms it will sign the EU AI Code of Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/07/google-confirms-it-will-sign-the-eu-ai-code-of-practice/" target="_blank">Google confirms it will sign the EU AI Code of Practice</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-30 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,6 +137,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68069d82835a39eeaafcffcf/master/pass/sba-doge-sec-2206700473.jpg" alt="How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/edward-coristine-big-balls-doge-federal-pay-roll-system/" target="_blank">How Edward ‘Big Balls’ Coristine and DOGE Got Access to a Federal Payroll System That Serves the FBI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 15:58</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -129,38 +154,20 @@
                 <span class="time">2025-07-30 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/youtube-loosens-profanity-rules-for-monetized-videos/" target="_blank">YouTube loosens profanity rules for monetized videos</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-30 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/returnkey-500x500.jpg" alt="VPN use soars in UK after age-verification laws go into effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/vpn-use-soars-in-uk-after-age-verification-laws-go-into-effect/" target="_blank">VPN use soars in UK after age-verification laws go into effect</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch" target="_blank">TikTok videos are about to get crowdsourced fact checks on them</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-30 13:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/design_youtube/bring-your-own-laptop-i-quit-photoshop-for-procreate-after-25-years-4mb4" target="_blank">Bring Your Own Laptop: I Quit Photoshop for Procreate After 25 Years</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-30 16:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,28 +198,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://oxide.computer/blog/our-100m-series-b" target="_blank">Our $100M Series B</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 13:17</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/diablo-like-games/" target="_blank">Diablo-like Games You Can Play With Steam on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-07-30 13:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-threadripper-9970x-9980x-linux" target="_blank">AMD Threadripper 9980X + 9970X Linux Benchmarks: Incredible Workstation Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-30 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/picture-widget.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME Shell Gets a Proper Desktop Photo Widget (Finally)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/picture-desktop-widget-gnome-shell-extension" target="_blank">GNOME Shell Gets a Proper Desktop Photo Widget (Finally)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-30 11:04</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://oxide.computer/blog/our-100m-series-b" target="_blank">Our $100M Series B</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-30 13:17</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
