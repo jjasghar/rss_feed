@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-30 21:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-30 22:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, July 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, July 30, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85d/live/2e9dbca0-6d86-11f0-98fc-31c75321b3a0.jpg" alt="Flight disruption after major UK air traffic outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4glxypwwx0o?at_medium=RSS&at_campaign=rss" target="_blank">Flight disruption after major UK air traffic outage</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/30/trumps-tariffs-forge-feeling-of-big-betrayal-in-canadas-manufacturing?traffic_source=rss" target="_blank">Trump’s tariffs forge ‘feeling of big betrayal’ in Canada’s manufacturing</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-30 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/g-s1-80212/jimmy-hoffa-teamsters-disappearance-mystery-mafia-fbi" target="_blank">Jimmy Hoffa vanished 50 years ago. The unsolved mystery and his legend endure</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-30 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +105,29 @@
                 <span class="time">2025-07-30 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5482857/automakers-eating-tariff-costs" target="_blank">Automakers are eating the cost of tariffs — for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 18:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dc-plane-30-gty-gmh-250129_1738216341223_hpMain_4x3t_384.jpg" alt="Helicopter never heard command to pass behind jet, NTSB says in DC crash hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/ntsb-begins-public-hearings-dc-plane-crash/story?id=124181265" target="_blank">Helicopter never heard command to pass behind jet, NTSB says in DC crash hearing</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-30 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/30/world-athletics-gene-test-introduced-for-female-category?traffic_source=rss" target="_blank">World Athletics gene test introduced for female category</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/spacex-faces-two-new-lawsuits-alleging-safety%e2%80%90related-retaliation/" target="_blank">SpaceX faces two new lawsuits alleging safety‐related retaliation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-30 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers" target="_blank">Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-30 21:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158493329-500x500.jpg" alt="St. Paul, MN was hacked so badly that the National Guard has been deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +162,6 @@
                 <span class="title"><a href="https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/" target="_blank">Google’s Newest AI Model Acts like a Satellite to Track Climate Change</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-30 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/716154/google-ai-age-estimation-under-18" target="_blank">Google is using AI age checks to lock down user accounts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-30 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking" target="_blank">You can hide an AirTag in Skechers’ new kids’ shoes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-30 16:18</span>
             </div>
         </div>
 </div>
@@ -243,6 +252,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Haunted-Mansion-Figures-Disney-Store-1.jpg" alt="These ‘Haunted Mansion’ Figures Evoke the Spirit of the Classic Disneyland Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-haunted-mansion-figures-evoke-the-spirit-of-the-classic-disneyland-ride-2000636261" target="_blank">These ‘Haunted Mansion’ Figures Evoke the Spirit of the Classic Disneyland Ride</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/05a454be1b7d6a3ef0a0f0278acce649.gif" alt="Nintendo Just Blew Mario Kart World&#x27;s Record Race Wide Open" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mario-kart-world-patch-update-speed-boost-records-1851787380" target="_blank">Nintendo Just Blew Mario Kart World&#x27;s Record Race Wide Open</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-30 20:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/tesla-store-colma-ca-April-21-2025.jpg" alt="Elon Musk Is So Unpopular, He May Be Hurting the Entire EV Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,24 +303,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/youtube-is-using-ai-to-roll-out-new-protections-for-teens?utm_medium=RSS" target="_blank">YouTube Is Using AI to Guess Your Age</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-30 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Untitled.jpg?fit=768%2C821&amp;quality=60&amp;ssl=1" alt="Samuel L Jackson presents a counterpoint to Trump&#x27;s stand on wind farms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/samuel-l-jackson-presents-a-counterpoint-to-trumps-stand-on-wind-farms.html" target="_blank">Samuel L Jackson presents a counterpoint to Trump&#x27;s stand on wind farms</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/sdcc-2025-best-worst-alien-fantastic-four-tron.jpg" alt="10 Winners and 4 Losers From San Diego Comic-Con 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-winners-and-4-losers-from-san-diego-comic-con-2025-2000636660" target="_blank">10 Winners and 4 Losers From San Diego Comic-Con 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 18:20</span>
             </div>
         </div>
 </div>
@@ -342,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
