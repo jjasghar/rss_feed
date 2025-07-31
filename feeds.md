@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 22:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 23:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753999467948_now_hallie_family_giuffre_250731_1920x1080-4r77b4.jpg" alt="Family of Virginia Giuffre urges Trump not to pardon Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/family-of-virginia-giuffre-urges-trump-not-to-pardon-ghislaine-maxwell-244159557630" target="_blank">Family of Virginia Giuffre urges Trump not to pardon Ghislaine Maxwell</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-31 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,38 @@
                 <span class="time">2025-07-31 17:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5487238/navy-reverses-decision-weather-satellite-hurricanes" target="_blank">In reversal, Defense Department will continue providing crucial satellite weather data</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-31 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/tab-key-500x500.jpg" alt="Developer survey shows trust in AI coding tools is falling as usage rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/07/developer-survey-shows-trust-in-ai-coding-tools-is-falling-as-usage-rises/" target="_blank">Developer survey shows trust in AI coding tools is falling as usage rises</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 22:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone" target="_blank">Apple shipped its 3 billionth iPhone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 22:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/" target="_blank">Reddit revenue soars as it bets on AI and advertising</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 22:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1327354395-500x500.jpg" alt="Microsoft catches Russian hackers targeting foreign embassies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,38 +160,20 @@
                 <span class="time">2025-07-31 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/716859/nintendo-partner-direct-july-cronos-star-wars" target="_blank">The Switch 2 is off to a speedy start for big third-party games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688b939982ebc9fab9a90d67/master/pass/Apple-Show-Guide-Culture-Echo_Valley_Photo_0104.jpg" alt="The 28 Best Movies on Apple TV+ Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 28 Best Movies on Apple TV+ Right Now (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688901c7cf31e8c7b9d4237f/master/pass/Malnutrition-Gaza-Science-2226867552.jpg" alt="The Grave Long-Term Effects of the Gaza Malnutrition Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/" target="_blank">The Grave Long-Term Effects of the Gaza Malnutrition Crisis</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ekz5fgqeh5ng8jzyqcd.png" alt="Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n" target="_blank">Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="time">2025-07-31 18:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/onboarding-your-ai-peer-programmer-setting-up-github-copilot-coding-agent-for-success/" target="_blank">Onboarding your AI peer programmer: Setting up GitHub Copilot coding agent for success</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-07-31 17:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/spiderman94-2.jpg" alt="The New Spider-Man Animated Series Comic Will Keep MJ’s Return Under Wraps (for Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-94-comic-mary-jane-return-details-2000637568" target="_blank">The New Spider-Man Animated Series Comic Will Keep MJ’s Return Under Wraps (for Now)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 22:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/James-Bond-opening.jpg" alt="New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2025-07-31 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/princeton-university.jpg" alt="AI Is Already Disrupting Labor, and Recent Grads Could Be a ‘Lost Generation’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-is-already-disrupting-labor-and-recent-grads-could-be-a-lost-generation-2000637470" target="_blank">AI Is Already Disrupting Labor, and Recent Grads Could Be a ‘Lost Generation’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
