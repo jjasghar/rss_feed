@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 01:29:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 02:40:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 02:40 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -252,6 +249,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/dune-duncan-idaho-wb-.jpg" alt="‘Dune 3’ Will Feature the Return of Smooth Faced Jason Momoa" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dune-3-will-feature-the-return-of-smooth-faced-jason-momoa-2000636917" target="_blank">‘Dune 3’ Will Feature the Return of Smooth Faced Jason Momoa</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-30 23:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/waroftheworlds.jpg" alt="Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -285,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/mario-kart-world-patch-update-speed-boost-records-1851787380" target="_blank">Nintendo Just Blew Mario Kart World&#x27;s Record Race Wide Open</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-07-30 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/tesla-store-colma-ca-April-21-2025.jpg" alt="Elon Musk Is So Unpopular, He May Be Hurting the Entire EV Industry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-is-so-unpopular-he-may-be-hurting-the-entire-ev-industry-2000636843" target="_blank">Elon Musk Is So Unpopular, He May Be Hurting the Entire EV Industry</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 20:20</span>
             </div>
         </div>
 </div>
@@ -351,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 02:40 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
