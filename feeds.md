@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 02:40:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 03:30:17 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 02:40 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +57,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5486007/earthquake-tsunami-factors-explained" target="_blank">What makes a tsunami — and what to do if one comes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-31 00:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753917416064_nn_ggu_trump_economy_250730_1920x1080-l6ih8v.jpg" alt="Divided Federal Reserve keeps interest rates unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/divided-federal-reserve-keeps-interest-rates-unchanged-244096581536" target="_blank">Divided Federal Reserve keeps interest rates unchanged</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-30 23:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0724/live/45b4ab90-6d8d-11f0-89ea-4d6f9851f623.jpg" alt="Canada follows France and UK with plan to recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceqyx35d9x2o?at_medium=RSS&at_campaign=rss" target="_blank">Canada follows France and UK with plan to recognise Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-30 23:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85d/live/2e9dbca0-6d86-11f0-98fc-31c75321b3a0.jpg" alt="Flight disruption after major UK air traffic outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -64,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/30/trumps-tariffs-forge-feeling-of-big-betrayal-in-canadas-manufacturing?traffic_source=rss" target="_blank">Trump’s tariffs forge ‘feeling of big betrayal’ in Canada’s manufacturing</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-30 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-mark-carney_6978480.jpg?20250730232448" alt="Canada says it will recognise a Palestinian state if certain conditions are met" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/canada-says-it-will-recognise-a-palestinian-state-if-certain-conditions-are-met-13404317" target="_blank">Canada says it will recognise a Palestinian state if certain conditions are met</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-30 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/g-s1-80212/jimmy-hoffa-teamsters-disappearance-mystery-mafia-fbi" target="_blank">Jimmy Hoffa vanished 50 years ago. The unsolved mystery and his legend endure</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-30 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-04-gty-jef-250730_1753876817163_hpMain_4x3t_384.jpg" alt="Trump&#x27;s comments on Epstein raise new questions about when and why they fell out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-comments-epstein-raise-new-questions-fell/story?id=124211483" target="_blank">Trump&#x27;s comments on Epstein raise new questions about when and why they fell out</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-30 20:35</span>
             </div>
         </div>
 </div>
@@ -348,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 02:40 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
