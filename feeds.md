@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 18:01:44 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-31 19:03:19 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump says US, Mexico agreed to extend tariff agreement</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-31 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5487238/navy-reverses-decision-weather-satellite-hurricanes" target="_blank">In reversal, Defense Department will continue providing crucial satellite weather data</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-31 17:34</span>
             </div>
         </div>
 <div class="story">
@@ -85,20 +97,20 @@
                 <span class="time">2025-07-31 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5486730/high-noon-celsius-recall" target="_blank">High Noon is recalling some vodka seltzers mislabeled as Celsius energy drinks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-31 14:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688b939982ebc9fab9a90d67/master/pass/Apple-Show-Guide-Culture-Echo_Valley_Photo_0104.jpg" alt="The 28 Best Movies on Apple TV+ Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 28 Best Movies on Apple TV+ Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688901c7cf31e8c7b9d4237f/master/pass/Malnutrition-Gaza-Science-2226867552.jpg" alt="The Grave Long-Term Effects of the Gaza Malnutrition Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +156,20 @@
                 <span class="time">2025-07-31 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/" target="_blank">TikTok merges its Core Product and Trust &amp; Safety teams</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/" target="_blank">PyPI Phishing Attack: Incident Report</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-31 18:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +215,6 @@
                 <span class="time">2025-07-31 15:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539444&w=600" alt="Amazon Q Developer: The Future of AI-Enhanced Coding Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/amazon-q-developer-ai-coding-productivity" target="_blank">Amazon Q Developer: The Future of AI-Enhanced Coding Productivity</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-31 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,20 +229,20 @@
                 <span class="time">2025-07-31 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/" target="_blank">Scammers Unleash Flood of Slick Online Gaming Sites</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-07-30 18:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-strange-new-worlds-recap-space-adventure-hour-laan-spock.jpg" alt="This Week’s ‘Strange New Worlds’ Is a Little Too Cute for Its Own Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-recap-space-adventure-hour-laan-spock-2000635434" target="_blank">This Week’s ‘Strange New Worlds’ Is a Little Too Cute for Its Own Good</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1GNNHPKV2QQ01NRNA9KRXKR/hero-image.png" alt="This Amazon Echo Show 8 Is $40 Off on Woot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/PDF-Expert-Premium-Plan-2.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Paper clutter? Gone. Edit and manage PDFs on your Mac forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/31/paper-clutter-gone-edit-and-manage-pdfs-on-your-mac-forever.html" target="_blank">Paper clutter? Gone. Edit and manage PDFs on your Mac forever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/glp-1.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;Ozempic face&#x27; drives surge in cosmetic procedures as weight loss drugs boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/pixel-8-pro-sale-pixel-watch-2?utm_medium=RSS" target="_blank">The Pixel 8 Pro Is Nearly 50% Off, and It Comes With a Free Pixel Watch 2</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-31 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/pbhpwr1wznnzehty5i8t.jpg" alt="You Owe It To Yourself To Play RimWorld In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rimworld-odyssey-expansion-colony-randy-random-1851787430" target="_blank">You Owe It To Yourself To Play RimWorld In 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-31 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1GFQDRKWYETA2AHJCCF6K8T/hero-image.jpg" alt="Three Things I Liked About Garmin&#x27;s Sleep Band, After My First Night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/three-things-i-liked-garmin-sleep-band?utm_medium=RSS" target="_blank">Three Things I Liked About Garmin&#x27;s Sleep Band, After My First Night</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 15:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
