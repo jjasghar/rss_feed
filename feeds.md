@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 05:06:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 06:02:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 05:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/31/axing-of-the-late-show-reveals-how-monopolisation-has-gutted-us-media?traffic_source=rss" target="_blank">Axing of The Late Show reveals how monopolisation has gutted US media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 05:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f2/live/8a94b460-6da8-11f0-afd8-9f8181a84684.jpg" alt="Airlines demand answers after air traffic control failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -64,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/us-senator-plans-trip-to-taiwan-as-trumps-interest-in-island-cools-report?traffic_source=rss" target="_blank">US senator plans trip to Taiwan as Trump’s interest in island cools: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 03:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-01/210809-virginia-giuffre-ew-118p-a7d68a.jpg" alt="Family of Epstein abuse survivor urges Trump not to pardon Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-virginia-giuffre-ghislaine-maxwell-trump-pardon-rcna222126" target="_blank">Family of Epstein abuse survivor urges Trump not to pardon Ghislaine Maxwell</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-31 01:43</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +101,6 @@
                 <span class="time">2025-07-31 00:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753917416064_nn_ggu_trump_economy_250730_1920x1080-l6ih8v.jpg" alt="Divided Federal Reserve keeps interest rates unchanged" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/divided-federal-reserve-keeps-interest-rates-unchanged-244096581536" target="_blank">Divided Federal Reserve keeps interest rates unchanged</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-30 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0724/live/45b4ab90-6d8d-11f0-89ea-4d6f9851f623.jpg" alt="Canada follows France and UK with plan to recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceqyx35d9x2o?at_medium=RSS&at_campaign=rss" target="_blank">Canada follows France and UK with plan to recognise Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 23:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +113,15 @@
                 <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Code: 15% Off | August 2025</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-07-31 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/" target="_blank">GitHub Copilot crosses 20 million all-time users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 01:16</span>
             </div>
         </div>
 <div class="story">
@@ -150,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/" target="_blank">In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-07-30 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/spacex-faces-two-new-lawsuits-alleging-safety%e2%80%90related-retaliation/" target="_blank">SpaceX faces two new lawsuits alleging safety‐related retaliation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-30 21:47</span>
             </div>
         </div>
 </div>
@@ -348,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
