@@ -1,26 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 09:04:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 10:01:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/south-korea-breaks-117-year-record-with-22-tropical-nights-in-july?traffic_source=rss" target="_blank">South Korea breaks 117-year record with 22 ‘tropical nights’ in July</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 09:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc08/live/77760ea0-6dd6-11f0-8dbd-f3d32ebd3327.jpg" alt="Transport secretary to quiz air traffic control boss over disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,20 +98,29 @@
                 <span class="time">2025-07-31 05:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/delta-amsterdam_1753933401656_hpMain_4x3t_384.jpg" alt="25 hospitalized after &#x27;significant&#x27; turbulence on Delta flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/25-hospitalized-after-severe-turbulence-delta-flight/story?id=124230974" target="_blank">25 hospitalized after &#x27;significant&#x27; turbulence on Delta flight</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-31 05:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes" target="_blank">Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 09:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688af0bc2eb43fcda2f9882d/master/pass/The%20Best%20Sexy%20Gifts%20for%20Lovers.png" alt="8 Best Sexy Gifts for Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sexy-gift/" target="_blank">8 Best Sexy Gifts for Lovers (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 09:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Code: 15% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,24 +157,6 @@
                 <span class="time">2025-07-30 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688a3f12ac2393baeff998b2/master/pass/Spotify-Playlists-Government-Officials-Culture-1233520416.jpg" alt="What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/" target="_blank">What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/atm-with-cash-500x500.jpg" alt="In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/" target="_blank">In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 22:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,6 +169,15 @@
                 <span class="title"><a href="https://www.infoq.com/articles/reproducible-ml-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Reproducible ML Systems with Apache Iceberg and SparkSQL: Open Source Foundations</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-31 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/felixpalmer/a5-py" target="_blank">a5-py: Pentagonal geospatial indexing system DGGS</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-07-31 08:37</span>
             </div>
         </div>
 <div class="story">
@@ -199,15 +216,6 @@
                 <span class="time">2025-07-31 04:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-31/" target="_blank">FOSS Weekly #25.31: Kernel 6.16, OpenMandriva Review, Conky Customization, System Monitoring and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-07-31 04:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/razer-blackshark-v3-pro-review-01.jpg" alt="Razer BlackShark V3 Pro Review: The Sweatiest Gamers Will Love This Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/razer-blackshark-v3-pro-review-the-sweatiest-gamers-will-love-this-headset-2000636642" target="_blank">Razer BlackShark V3 Pro Review: The Sweatiest Gamers Will Love This Headset</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ooops.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="If you get lucky, your next Celcius energy drink might have vodka in it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +298,6 @@
                 <span class="time">2025-07-30 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Haunted-Mansion-Figures-Disney-Store-1.jpg" alt="These ‘Haunted Mansion’ Figures Evoke the Spirit of the Classic Disneyland Ride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-haunted-mansion-figures-evoke-the-spirit-of-the-classic-disneyland-ride-2000636261" target="_blank">These ‘Haunted Mansion’ Figures Evoke the Spirit of the Classic Disneyland Ride</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
