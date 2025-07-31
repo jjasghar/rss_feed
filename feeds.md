@@ -1,40 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 17:04:06 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-07-31 18:01:44 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250731_1753968032329_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says US, Mexico agreed to extend tariff agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump says US, Mexico agreed to extend tariff agreement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-31 17:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +94,29 @@
                 <span class="time">2025-07-31 14:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/lebanon-president-aoun-reiterates-calls-for-hezbollah-to-disarm?traffic_source=rss" target="_blank">Lebanon’s President Aoun reiterates calls for Hezbollah to disarm</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688901c7cf31e8c7b9d4237f/master/pass/Malnutrition-Gaza-Science-2226867552.jpg" alt="The Grave Long-Term Effects of the Gaza Malnutrition Crisis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/" target="_blank">The Grave Long-Term Effects of the Gaza Malnutrition Crisis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223561689-500x500-1753981138.jpg" alt="US moves to ban shady subscription auto-renewals after FTC court loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/click-to-cancel-rule-cable-companies-fought-to-nullify-could-be-revived/" target="_blank">US moves to ban shady subscription auto-renewals after FTC court loss</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +151,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/" target="_blank">TikTok merges its Core Product and Trust &amp; Safety teams</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-31 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation" target="_blank">Microsoft becomes the second $4 trillion company</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688b782158a59c73e240df4c/master/pass/ND2.jpg" alt="A New &#x27;Katamari&#x27; Game, &#x27;Octopath Traveler 0&#x27;, and More Are Coming to Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-new-katamari-game-octopath-traveler-0-and-more-are-coming-to-switch-2/" target="_blank">A New &#x27;Katamari&#x27; Game, &#x27;Octopath Traveler 0&#x27;, and More Are Coming to Switch 2</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 14:55</span>
             </div>
         </div>
 </div>
@@ -251,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1GNNHPKV2QQ01NRNA9KRXKR/hero-image.png" alt="This Amazon Echo Show 8 Is $40 Off on Woot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/open-box-amazon-echo-show-8-woot?utm_medium=RSS" target="_blank">This Amazon Echo Show 8 Is $40 Off on Woot Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Man-of-Steel-Yelling.jpg" alt="James Gunn’s ‘Superman’ Just Passed a Major ‘Man of Steel’ Milestone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -295,20 +294,20 @@
                 <span class="time">2025-07-31 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Nintendo_Switch_2.jpeg?fit=1080%2C723&amp;quality=60&amp;ssl=1" alt="Fan destroys Switch 2 trying to recreate iconic Donkey Kong 64 yellow cartridge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/31/fan-destroys-switch-2-trying-to-recreate-iconic-donkey-kong-64-yellow-cartridge.html" target="_blank">Fan destroys Switch 2 trying to recreate iconic Donkey Kong 64 yellow cartridge</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-31 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/im-leaving/" target="_blank">I’m Leaving</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-07-31 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1753765652-20250731.png" alt="Saturday Morning Breakfast Cereal - Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
