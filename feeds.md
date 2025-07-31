@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 00:05:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 01:29:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/russia-ukraine-war-list-of-key-events-day-1253?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,253</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 00:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85d/live/2e9dbca0-6d86-11f0-98fc-31c75321b3a0.jpg" alt="Flight disruption after major UK air traffic outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2025-07-30 20:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/30/german-biathlete-laura-dahlmeier-dies-mountaineering-in-pakistan?traffic_source=rss" target="_blank">German biathlete Laura Dahlmeier dies mountaineering in Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 20:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg" target="_blank">Meta is playing the AI game with house money</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688a3f12ac2393baeff998b2/master/pass/Spotify-Playlists-Government-Officials-Culture-1233520416.jpg" alt="What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,29 @@
                 <span class="time">2025-07-30 20:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68890c3956b4df3fc8aa74c2/master/pass/Draft-Revision-Endangerment-Finding-Greenhouse-Gases-Science-2150754136.jpg" alt="Scientists Say New Government Climate Report Twists Their Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/" target="_blank">Scientists Say New Government Climate Report Twists Their Work</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 20:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Starts-Lenovo-Legion-Go-2" target="_blank">Linux Begins Preparing For The Lenovo Legion Go 2 Handheld</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-31 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9" target="_blank">I knew RSC was a rake but I stepped on it anyway</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm4wbcsxuyz0lydcrk34a.gif" alt="Context engineering for production-grade web agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/Ubuntu-TPM-disk-encryption-option.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Offers Improved Disk Encryption Using TPM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/venuziano/from-zero-to-test-deployment-terraform-aws-free-tier-a-30-minute-playground-599" target="_blank">From Zero to Test Deployment: Terraform + AWS Free Tier: A 30‑Minute Playground</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18537574&w=600" alt="Agentic DevOps for the Rest of Us: A New Era of Intelligent SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-devops-ai-software-delivery" target="_blank">Agentic DevOps for the Rest of Us: A New Era of Intelligent SDLC</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-30 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.chicagotribune.com/2025/06/01/illinois-farming-ownership-climate-change/" target="_blank">Most Illinois farmland is not owned by farmers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-30 17:51</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-tpm-disk-encryption" target="_blank">Ubuntu 25.10 Offers Improved Disk Encryption Using TPM</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-30 19:00</span>
             </div>
         </div>
 </div>
@@ -248,12 +243,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/71e2Px0AEbL._SL1500_.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="8bitdo&#x27;s N64 controller works on modern machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/8bitdos-n64-controller-works-on-modern-machines.html" target="_blank">8bitdo&#x27;s N64 controller works on modern machines</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-31 00:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/waroftheworlds.jpg" alt="Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/amazons-new-war-of-the-worlds-features-a-head-scratching-twist-2000636929" target="_blank">Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-30 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GRQPCT2TTX0TPZKB3HWS9/hero-image.png" alt="What to Do When There&#x27;s an Excessive Heat Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/excessive-heat-warning-what-to-do?utm_medium=RSS" target="_blank">What to Do When There&#x27;s an Excessive Heat Warning</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-30 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -283,29 +296,20 @@
                 <span class="time">2025-07-30 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3d26396738fa0e368f3b68fa0c9da018.jpg" alt="23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512" target="_blank">23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/dentist.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="Inside Mexico&#x27;s &quot;Molar City,&quot; where Americans find dental care at 80% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/inside-mexicos-molar-city-where-americans-find-dental-care-at-80-off.html" target="_blank">Inside Mexico&#x27;s &quot;Molar City,&quot; where Americans find dental care at 80% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-30 19:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5609.png" alt="Whole buncha comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net" target="_blank">Whole buncha comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-07-30 23:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -347,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
