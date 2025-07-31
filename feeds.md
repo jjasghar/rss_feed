@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 11:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 12:02:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +58,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/ukraine-parliament-votes-to-restore-anti-corruption-agencies-after-protests?traffic_source=rss" target="_blank">Ukraine parliament votes to restore anti-corruption agencies after protests</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ad/live/344c1da0-6de4-11f0-89ea-4d6f9851f623.png" alt="Number of new homes in England falls in Labour&#x27;s first year - see how many were added in your area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5rmz0vreno?at_medium=RSS&at_campaign=rss" target="_blank">Number of new homes in England falls in Labour&#x27;s first year - see how many were added in your area</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 09:51</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +105,38 @@
                 <span class="time">2025-07-31 07:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/31/video-canada-says-it-will-recognise-a-palestinian-state-with-conditions?traffic_source=rss" target="_blank">Video: Canada says it will recognise a Palestinian state, with conditions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 07:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/715901/dji-osmo-360-degree-action-camera-8k" target="_blank">DJI’s first 360-degree camera can continuously capture 8K footage for over 100 minutes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688b02d024965470a5298358/master/pass/Chromebook%20CX14.png" alt="Asus Chromebook CX14 Review: What You Get for $429" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/asus-chromebook-cx14/" target="_blank">Asus Chromebook CX14 Review: What You Get for $429</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/" target="_blank">Uber Eats now lets merchants message customers about their orders</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,33 +164,6 @@
                 <span class="time">2025-07-31 09:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Therabody Promo Code: 15% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/therabody-promo-code/" target="_blank">Therabody Promo Code: 15% Off | August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/30/github-copilot-crosses-20-million-all-time-users/" target="_blank">GitHub Copilot crosses 20 million all-time users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 01:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg" target="_blank">Meta is playing the AI game with house money</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 00:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p" target="_blank">Choosing a UK Application Development Company in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-31 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-SMC-Driver-In-Linux-6.17" target="_blank">Apple SMC Driver Merged For Linux 6.17 To Be Able To Reboot Macs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-31 10:40</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +223,6 @@
                 <span class="time">2025-07-31 07:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/" target="_blank">The innovation, leadership, and team agility inside U.S. Bank’s cloud journey</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-31 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,20 +246,20 @@
                 <span class="time">2025-07-30 18:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/measuring-the-attack-defense-balance.html" target="_blank">Measuring the Attack/Defense Balance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-30 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/showrunner.jpg" alt="Amazon Throws Money at ‘Netflix of AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazon-throws-money-at-netflix-of-ai-2000636838" target="_blank">Amazon Throws Money at ‘Netflix of AI’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 11:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Standoff-of-James-Headphones-from-Gayoung-1.jpg" alt="Nothing Headphone 1 vs. AirPods Max: Which Over-Ear ANC Headphones Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +305,6 @@
                 <span class="time">2025-07-30 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/waroftheworlds.jpg" alt="Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazons-new-war-of-the-worlds-features-a-head-scratching-twist-2000636929" target="_blank">Amazon’s New ‘War of the Worlds’ Features a Head-Scratching Twist</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -344,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
