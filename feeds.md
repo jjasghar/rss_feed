@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 03:30:17 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-31 04:15:52 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 03:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f2/live/8a94b460-6da8-11f0-afd8-9f8181a84684.jpg" alt="Airlines demand answers after air traffic control failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss" target="_blank">Airlines demand answers after air traffic control failure</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 04:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/us-senator-plans-trip-to-taiwan-as-trumps-interest-in-island-cools-report?traffic_source=rss" target="_blank">US senator plans trip to Taiwan as Trump’s interest in island cools: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 03:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +101,6 @@
                 <span class="time">2025-07-30 23:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85d/live/2e9dbca0-6d86-11f0-98fc-31c75321b3a0.jpg" alt="Flight disruption after major UK air traffic outage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4glxypwwx0o?at_medium=RSS&at_campaign=rss" target="_blank">Flight disruption after major UK air traffic outage</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-30 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/30/trumps-tariffs-forge-feeling-of-big-betrayal-in-canadas-manufacturing?traffic_source=rss" target="_blank">Trump’s tariffs forge ‘feeling of big betrayal’ in Canada’s manufacturing</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-30 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg" target="_blank">Meta is playing the AI game with house money</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-31 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688a5271058eec339fc8c04f/master/pass/meta-earnings-biz-2191702213.jpg" alt="Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/" target="_blank">Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-30 23:41</span>
             </div>
         </div>
 <div class="story">
@@ -149,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers" target="_blank">Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-07-30 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2158493329-500x500.jpg" alt="St. Paul, MN was hacked so badly that the National Guard has been deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/07/st-paul-mn-was-hacked-so-badly-that-the-national-guard-has-been-deployed/" target="_blank">St. Paul, MN was hacked so badly that the National Guard has been deployed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-30 20:47</span>
             </div>
         </div>
 </div>
@@ -248,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/ooops.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="If you get lucky, your next Celcius energy drink might have vodka in it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/30/if-you-get-lucky-your-next-celcius-energy-drink-might-have-vodka-in-it.html" target="_blank">If you get lucky, your next Celcius energy drink might have vodka in it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-31 00:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/71e2Px0AEbL._SL1500_.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="8bitdo&#x27;s N64 controller works on modern machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -292,15 +301,6 @@
                 <span class="time">2025-07-30 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/05a454be1b7d6a3ef0a0f0278acce649.gif" alt="Nintendo Just Blew Mario Kart World&#x27;s Record Race Wide Open" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mario-kart-world-patch-update-speed-boost-records-1851787380" target="_blank">Nintendo Just Blew Mario Kart World&#x27;s Record Race Wide Open</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-30 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,22 +342,13 @@
                 <span class="time">2025-07-30 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png" alt="Bad Map Projection: Interrupted Spheres" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3122/" target="_blank">Bad Map Projection: Interrupted Spheres</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-07-30 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
