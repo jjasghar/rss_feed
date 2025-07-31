@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 12:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 13:13:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +52,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/31/mass-rape-forced-pregnancy-sexual-torture-in-tigray-ethiopian-eritrean-forces-crimes-against-humanity-report" target="_blank">Mass rape, forced pregnancy and sexual torture in Tigray amount to crimes against humanity – report</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/what-legal-tests-are-donald-trumps-tariffs-facing?traffic_source=rss" target="_blank">What legal tests are Donald Trump’s tariffs facing?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/07/31/nx-s1-5475219/what-will-rescission-do-to-foreign-aid-details-are-murky-heres-what-we-found-out" target="_blank">What will rescission do to foreign aid? Details are murky. Here&#x27;s what we found out</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-31 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd2/live/854bf820-6dfc-11f0-af9b-5757430b7cab.jpg" alt="Boost our pay or risk strike action, warn nurse leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c36je08d111o?at_medium=RSS&at_campaign=rss" target="_blank">Boost our pay or risk strike action, warn nurse leaders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 11:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/ukraine-parliament-votes-to-restore-anti-corruption-agencies-after-protests?traffic_source=rss" target="_blank">Ukraine parliament votes to restore anti-corruption agencies after protests</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -69,47 +103,29 @@
                 <span class="time">2025-07-31 09:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/gaza-1-ap-gmh-250728_1753708839977_hpMain_4x3t_384.jpg" alt="Trump admin lifted sanctions on Israeli accused of killing Palestinian activist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-lifted-sanctions-israeli-settler-accused-killing/story?id=124185259" target="_blank">Trump admin lifted sanctions on Israeli accused of killing Palestinian activist</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-31 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/south-korea-breaks-117-year-record-with-22-tropical-nights-in-july?traffic_source=rss" target="_blank">South Korea breaks 117-year record with 22 ‘tropical nights’ in July</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/gaza_baby_3107-4obg6y.jpg" alt="Malnutrition reaches ‘catastrophic’ stage in Gaza, pediatrician says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/malnutrition-reaches-catastrophic-stage-in-gaza-pediatrician-says-244119109538" target="_blank">Malnutrition reaches ‘catastrophic’ stage in Gaza, pediatrician says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-31 08:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc08/live/77760ea0-6dd6-11f0-8dbd-f3d32ebd3327.jpg" alt="Transport secretary to quiz air traffic control boss over disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss" target="_blank">Transport secretary to quiz air traffic control boss over disruption</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/" target="_blank">Google is experimenting with machine-learning powered age estimation tech in the U.S.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688aea3134d4f6a4a2af6720/master/pass/The%20Best%20Video%20Doorbell%20Cameras.png" alt="8 Best Video Doorbell Cameras (2025): Smart, Battery, AI, Budget, and Subscription-Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-video-doorbells/" target="_blank">8 Best Video Doorbell Cameras (2025): Smart, Battery, AI, Budget, and Subscription-Free</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +162,38 @@
                 <span class="time">2025-07-31 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes" target="_blank">Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688af0bc2eb43fcda2f9882d/master/pass/The%20Best%20Sexy%20Gifts%20for%20Lovers.png" alt="8 Best Sexy Gifts for Lovers (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sexy-gift/" target="_blank">8 Best Sexy Gifts for Lovers (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 09:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/" target="_blank">Do AI coding tools help with imposter syndrome or make it worse?</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-07-31 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhis_is_jj/the-one-line-of-code-that-crashed-my-startup-22c1" target="_blank">The One Line of Code That Crashed My Startup</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 13:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539400&w=600" alt="Set Up OpenID Connect With Keycloak: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/setup-openid-connect-with-keycloak" target="_blank">Set Up OpenID Connect With Keycloak: A Step-by-Step Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-31 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Automates Hadoop Cluster Scaling and Migration with Internal Orchestration System</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-31 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/reproducible-ml-iceberg/en/headerimage/reproducible-ml-iceberg-header-1753341474504.jpg" alt="Article: Building Reproducible ML Systems with Apache Iceberg and SparkSQL: Open Source Foundations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/reproducible-ml-iceberg/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Building Reproducible ML Systems with Apache Iceberg and SparkSQL: Open Source Foundations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-31 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/felixpalmer/a5-py" target="_blank">a5-py: Pentagonal geospatial indexing system DGGS</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-31 08:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ehtesham19/javascript-32g3" target="_blank">Javascript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 07:49</span>
             </div>
         </div>
 </div>
@@ -251,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1EXQXX83KG9G21W6RXKWKA3/hero-image.jpg" alt="Here’s Why Steam Is Banning Adult Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/why-steam-banned-adult-games?utm_medium=RSS" target="_blank">Here’s Why Steam Is Banning Adult Games</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2019/04/keoh92uen0vjuiyxotke.jpg" alt="Josh Hawley Says Trump Tariff Rebate Checks Won’t Go to ‘Biden Voters’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/josh-hawley-says-trump-tariff-rebate-checks-wont-go-to-biden-voters-2000636888" target="_blank">Josh Hawley Says Trump Tariff Rebate Checks Won’t Go to ‘Biden Voters’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 12:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/showrunner.jpg" alt="Amazon Throws Money at ‘Netflix of AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/07/30/if-you-get-lucky-your-next-celcius-energy-drink-might-have-vodka-in-it.html" target="_blank">If you get lucky, your next Celcius energy drink might have vodka in it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-31 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/71e2Px0AEbL._SL1500_.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="8bitdo&#x27;s N64 controller works on modern machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/30/8bitdos-n64-controller-works-on-modern-machines.html" target="_blank">8bitdo&#x27;s N64 controller works on modern machines</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-31 00:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/dune-duncan-idaho-wb-.jpg" alt="‘Dune 3’ Will Feature the Return of Smooth Faced Jason Momoa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dune-3-will-feature-the-return-of-smooth-faced-jason-momoa-2000636917" target="_blank">‘Dune 3’ Will Feature the Return of Smooth Faced Jason Momoa</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-30 23:45</span>
             </div>
         </div>
 </div>
@@ -342,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
