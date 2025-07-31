@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 16:02:05 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-31 17:04:06 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/31/us-appeals-court-hears-arguments-about-legality-of-trump-tariffs?traffic_source=rss" target="_blank">US appeals court hears arguments about legality of Trump tariffs</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-alshagnobi-gaza_6979254.jpg?20250731175424" alt="Gazan boy, 15, given hero&#x27;s welcome as he arrives in UK for urgent medical treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gazan-boy-15-given-heros-welcome-as-he-arrives-in-uk-for-urgent-medical-treatment-13404742" target="_blank">Gazan boy, 15, given hero&#x27;s welcome as he arrives in UK for urgent medical treatment</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-07-31 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +104,38 @@
                 <span class="time">2025-07-31 13:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/jul/31/france-under-pressure-to-stop-97m-of-usaid-contraceptives-being-destroyed" target="_blank">France under pressure to stop $9.7m of USAID contraceptives being destroyed</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-31 13:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/jul/31/mass-rape-forced-pregnancy-sexual-torture-in-tigray-ethiopian-eritrean-forces-crimes-against-humanity-report" target="_blank">Mass rape, forced pregnancy and sexual torture in Tigray amount to crimes against humanity – report</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-31 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/quoras-poe-is-releasing-an-api-for-developers-to-easily-access-a-boquet-of-models/" target="_blank">Quora’s Poe releases a developer API with access to a bouquet of AI models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale" target="_blank">The 15 best back-to-school deals for college students</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1438881240-500x500.jpg" alt="Trump suspends trade loophole for cheap online retailers globally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/trump-suspends-trade-loophole-for-cheap-online-retailers-globally/" target="_blank">Trump suspends trade loophole for cheap online retailers globally</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +163,29 @@
                 <span class="time">2025-07-31 14:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/openai-to-launch-ai-data-center-in-norway-its-first-in-europe/" target="_blank">OpenAI to launch AI data center in Norway, its first in Europe</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/DSC09949-500x500.jpg" alt="Nvidia announces end of GPU driver updates for GeForce 10-series, Windows 10" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/nvidia-announces-end-of-gpu-driver-updates-for-geforce-10-series-windows-10/" target="_blank">Nvidia announces end of GPU driver updates for GeForce 10-series, Windows 10</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-31 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/716633/ai-talent-war-meta-mark-zuckerberg-openai-nba-all-stars" target="_blank">Why AI researchers are getting paid like NBA All-Stars</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/squehub/what-is-squehub-100k" target="_blank">👋 What is SqueHub?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Snapshot 3 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-snapshot-3-now-available-to-download" target="_blank">Ubuntu 25.10 Snapshot 3 is Available to Download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-07-31 16:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,39 +205,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-4545p" target="_blank">AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-31 15:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539444&w=600" alt="Amazon Q Developer: The Future of AI-Enhanced Coding Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/amazon-q-developer-ai-coding-productivity" target="_blank">Amazon Q Developer: The Future of AI-Enhanced Coding Productivity</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-07-31 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vontajohnson/write-code-like-sherlock-holmes-the-art-of-deductive-development-3ghp" target="_blank">Write Code Like Sherlock Holmes: The Art of Deductive Development 🔍</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.1-Snapshot-3" target="_blank">Ubuntu 25.10 Snapshot 3 Released For Monthly Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-31 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/cloudflare-timescaledb-olap/en/headerimage/generatedHeaderImage-1752930380570.jpg" alt="Cloudflare Chooses PostgreSQL Extension Over Specialized OLAP for 100K Row/Second Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Chooses PostgreSQL Extension Over Specialized OLAP for 100K Row/Second Analytics</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-31 14:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +251,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Man-of-Steel-Yelling.jpg" alt="James Gunn’s ‘Superman’ Just Passed a Major ‘Man of Steel’ Milestone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunns-superman-just-passed-a-major-man-of-steel-milestone-2000637244" target="_blank">James Gunn’s ‘Superman’ Just Passed a Major ‘Man of Steel’ Milestone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/glp-1.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;Ozempic face&#x27; drives surge in cosmetic procedures as weight loss drugs boom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/31/ozempic-face-drives-surge-in-cosmetic-procedures-as-weight-loss-drugs-boom.html" target="_blank">&#x27;Ozempic face&#x27; drives surge in cosmetic procedures as weight loss drugs boom</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-31 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1GKKVACN8EHFDXTC1WANV74/hero-image.png" alt="The Pixel 8 Pro Is Nearly 50% Off, and It Comes With a Free Pixel Watch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/pixel-8-pro-sale-pixel-watch-2?utm_medium=RSS" target="_blank">The Pixel 8 Pro Is Nearly 50% Off, and It Comes With a Free Pixel Watch 2</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/pbhpwr1wznnzehty5i8t.jpg" alt="You Owe It To Yourself To Play RimWorld In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -274,38 +304,20 @@
                 <span class="time">2025-07-31 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/carl.jpg?fit=794%2C1200&amp;quality=60&amp;ssl=1" alt="Dungeon Crawler Carl is a fun read but the audiobook is a work of art" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/31/dungeon-crawler-carl-is-a-fun-read-but-the-audiobook-is-a-work-of-art.html" target="_blank">Dungeon Crawler Carl is a fun read but the audiobook is a work of art</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-31 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/676e2f2bbae138ecb35f211f76430bc0.jpg" alt="Xbox Game Pass Makes $5 Billion As Microsoft Reports Massive Growth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/microsoft-xbox-game-pass-profit-revenue-5-billion-1851787391" target="_blank">Xbox Game Pass Makes $5 Billion As Microsoft Reports Massive Growth</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-31 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1EYZ58Z689RC6YN9ZA0AN9A/hero-image.png" alt="I&#x27;m a Lifelong Anime Fan, and These Are 18 of My Favorite Anime on Crunchyroll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-best-anime-on-crunchyroll?utm_medium=RSS" target="_blank">I&#x27;m a Lifelong Anime Fan, and These Are 18 of My Favorite Anime on Crunchyroll</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753765652-20250731.png" alt="Saturday Morning Breakfast Cereal - Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sad-6" target="_blank">Saturday Morning Breakfast Cereal - Sad</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-07-31 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5609.png" alt="Whole buncha comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,22 +327,13 @@
                 <span class="time">2025-07-30 23:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/07/30/the-gift-aperture" target="_blank">The Gift Aperture</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-30 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
