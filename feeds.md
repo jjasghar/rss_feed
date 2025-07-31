@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 13:13:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 14:03:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/lebanon-president-aoun-reiterates-calls-for-hezbollah-to-disarm?traffic_source=rss" target="_blank">Lebanon’s President Aoun reiterates calls for Hezbollah to disarm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 13:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +98,47 @@
                 <span class="time">2025-07-31 10:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ad/live/344c1da0-6de4-11f0-89ea-4d6f9851f623.png" alt="Number of new homes in England falls in Labour&#x27;s first year - see how many were added in your area" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5rmz0vreno?at_medium=RSS&at_campaign=rss" target="_blank">Number of new homes in England falls in Labour&#x27;s first year - see how many were added in your area</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/716633/ai-talent-war-meta-mark-zuckerberg-openai-nba-all-stars" target="_blank">Why AI researchers are getting paid like NBA All-Stars</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/" target="_blank">Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/nvidia-logo-500x500.jpg" alt="China claims Nvidia built backdoor into H20 chip designed for Chinese market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/china-claims-nvidia-built-backdoor-into-h20-chip-designed-for-chinese-market/" target="_blank">China claims Nvidia built backdoor into H20 chip designed for Chinese market</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 13:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6888f7cf724e28899bb8a053/master/pass/event_wired_ai_power_summit.jpg" alt="Join Us for WIRED’s AI Power Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wired-ai-power-summit/" target="_blank">Join Us for WIRED’s AI Power Summit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-07-31 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,42 +157,6 @@
                 <span class="time">2025-07-31 12:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/715901/dji-osmo-360-degree-action-camera-8k" target="_blank">DJI’s first 360-degree camera can continuously capture 8K footage for over 100 minutes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688b02d024965470a5298358/master/pass/Chromebook%20CX14.png" alt="Asus Chromebook CX14 Review: What You Get for $429" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/asus-chromebook-cx14/" target="_blank">Asus Chromebook CX14 Review: What You Get for $429</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-31 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/uber-eats-now-lets-merchants-message-customers-about-their-orders/" target="_blank">Uber Eats now lets merchants message customers about their orders</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features" target="_blank">Uber Eats is adding AI to menus, food photos, and reviews</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +169,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/" target="_blank">Do AI coding tools help with imposter syndrome or make it worse?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-31 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/cloudflare-timescaledb-olap/en/headerimage/generatedHeaderImage-1752930380570.jpg" alt="Cloudflare Chooses PostgreSQL Extension Over Specialized OLAP for 100K Row/Second Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Chooses PostgreSQL Extension Over Specialized OLAP for 100K Row/Second Analytics</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-31 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/javonet/wrap-once-run-everywhere-integrating-python-with-net-java-and-nodejs-using-javonet-b0n" target="_blank">Wrap Once, Run Everywhere_ Integrating Python with .NET, Java, and Node.js using Javonet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 13:40</span>
             </div>
         </div>
 <div class="story">
@@ -197,28 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p" target="_blank">Choosing a UK Application Development Company in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-SMC-Driver-In-Linux-6.17" target="_blank">Apple SMC Driver Merged For Linux 6.17 To Be Able To Reboot Macs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-31 10:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/07/pinterest-hadoop-cluster/en/headerimage/generatedHeaderImage-1753946049420.jpg" alt="Pinterest Automates Hadoop Cluster Scaling and Migration with Internal Orchestration System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Automates Hadoop Cluster Scaling and Migration with Internal Orchestration System</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-07-31 10:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cmtext.com/" target="_blank">Introduction to Computer Music</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-31 11:37</span>
             </div>
         </div>
 </div>
@@ -340,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
