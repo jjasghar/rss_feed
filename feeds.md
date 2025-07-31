@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 21:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 22:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/jul/31/rhino-horns-made-radioactive-to-foil-traffickers-in-south-african-project" target="_blank">Rhino horns made radioactive to foil traffickers in South African project</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-07-31 21:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2025-07-31 17:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/7/31/us-appeals-court-hears-arguments-about-legality-of-trump-tariffs?traffic_source=rss" target="_blank">US appeals court hears arguments about legality of Trump tariffs</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 17:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1327354395-500x500.jpg" alt="Microsoft catches Russian hackers targeting foreign embassies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/microsoft-catches-russian-hackers-targeting-foreign-embassies/" target="_blank">Microsoft catches Russian hackers targeting foreign embassies</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-500x500.jpg" alt="Google loses app store antitrust appeal, must make sweeping changes to Play Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +159,29 @@
                 <span class="time">2025-07-31 17:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223561689-500x500-1753981138.jpg" alt="US moves to ban shady subscription auto-renewals after FTC court loss" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/07/click-to-cancel-rule-cable-companies-fought-to-nullify-could-be-revived/" target="_blank">US moves to ban shady subscription auto-renewals after FTC court loss</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-31 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucafabbri/concordia-the-open-source-net-mediator-youve-been-waiting-for-3ihh" target="_blank">Concordia: The Open-Source .NET Mediator You’ve Been Waiting For</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-31-July-2025" target="_blank">Steam Beta Brings Fix For UI Scaling On XWayland</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-07-31 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +218,6 @@
                 <span class="time">2025-07-31 17:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/squehub/what-is-squehub-100k" target="_blank">👋 What is SqueHub?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/05/kinetic-kudu-ubuntu-download.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Snapshot 3 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/07/ubuntu-25-10-snapshot-3-now-available-to-download" target="_blank">Ubuntu 25.10 Snapshot 3 is Available to Download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-07-31 16:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,11 +238,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/James-Bond-opening.jpg" alt="New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-james-bond-movie-will-be-written-by-creator-of-peaky-blinders-2000637569" target="_blank">New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 21:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Val-Kilmer-Real-Genius.jpg" alt="Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/celebrating-40-years-of-the-weirdest-nerdiest-week-in-movie-history-2000636736" target="_blank">Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1H303TJQ70ES3VMXTJB1XFP/hero-image.jpg" alt="The Kindle Colorsoft Will Make Your Books Look Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/kindle-colorsoft-makes-books-look-worse?utm_medium=RSS" target="_blank">The Kindle Colorsoft Will Make Your Books Look Worse</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-31 21:00</span>
             </div>
         </div>
@@ -267,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/ai-is-already-disrupting-labor-and-recent-grads-could-be-a-lost-generation-2000637470" target="_blank">AI Is Already Disrupting Labor, and Recent Grads Could Be a ‘Lost Generation’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-31 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1GS4WJJ14KRE21J08CP71BF/hero-image.png" alt="Your Echelon Gym Equipment Is Now Useless Without a Subscription" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/echelon-firmware-subscription-update?utm_medium=RSS" target="_blank">Your Echelon Gym Equipment Is Now Useless Without a Subscription</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/star-trek-strange-new-worlds-recap-space-adventure-hour-laan-spock.jpg" alt="This Week’s ‘Strange New Worlds’ Is a Little Too Cute for Its Own Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-recap-space-adventure-hour-laan-spock-2000635434" target="_blank">This Week’s ‘Strange New Worlds’ Is a Little Too Cute for Its Own Good</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 18:48</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
