@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 10:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-07-31 11:01:48 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +48,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/ukraine-parliament-votes-to-restore-anti-corruption-agencies-after-protests?traffic_source=rss" target="_blank">Ukraine parliament votes to restore anti-corruption agencies after protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/gaza-1-ap-gmh-250728_1753708839977_hpMain_4x3t_384.jpg" alt="Trump admin lifted sanctions on Israeli accused of killing Palestinian activist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-administration-lifted-sanctions-israeli-settler-accused-killing/story?id=124185259" target="_blank">Trump admin lifted sanctions on Israeli accused of killing Palestinian activist</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-31 09:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/south-korea-breaks-117-year-record-with-22-tropical-nights-in-july?traffic_source=rss" target="_blank">South Korea breaks 117-year record with 22 ‘tropical nights’ in July</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 09:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/gaza_baby_3107-4obg6y.jpg" alt="Malnutrition reaches ‘catastrophic’ stage in Gaza, pediatrician says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/malnutrition-reaches-catastrophic-stage-in-gaza-pediatrician-says-244119109538" target="_blank">Malnutrition reaches ‘catastrophic’ stage in Gaza, pediatrician says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-07-31 08:24</span>
             </div>
         </div>
 <div class="story">
@@ -71,38 +98,20 @@
                 <span class="time">2025-07-31 07:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/fbi-upgrades-new-zealand-office-to-counter-china-international-crime?traffic_source=rss" target="_blank">FBI upgrades New Zealand office to counter China, international crime</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5486587/canada-malta-palestinian-state" target="_blank">Canada and Malta to recognize Palestinian state, joining France and possibly Britain</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-31 06:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/31/axing-of-the-late-show-reveals-how-monopolisation-has-gutted-us-media?traffic_source=rss" target="_blank">Axing of The Late Show reveals how monopolisation has gutted US media</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 05:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features" target="_blank">Uber Eats is adding AI to menus, food photos, and reviews</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +157,29 @@
                 <span class="time">2025-07-31 00:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688a5271058eec339fc8c04f/master/pass/meta-earnings-biz-2191702213.jpg" alt="Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/" target="_blank">Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-07-30 23:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jabran_mustafa_cf7667f97a/choosing-a-uk-application-development-company-in-2025-444p" target="_blank">Choosing a UK Application Development Company in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/pinterest-hadoop-cluster/en/headerimage/generatedHeaderImage-1753946049420.jpg" alt="Pinterest Automates Hadoop Cluster Scaling and Migration with Internal Orchestration System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Automates Hadoop Cluster Scaling and Migration with Internal Orchestration System</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-31 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/reproducible-ml-iceberg/en/headerimage/reproducible-ml-iceberg-header-1753341474504.jpg" alt="Article: Building Reproducible ML Systems with Apache Iceberg and SparkSQL: Open Source Foundations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,29 +216,20 @@
                 <span class="time">2025-07-31 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dbvismarketing/clean-and-compare-strings-in-sql-with-trim-3j9h" target="_blank">Clean and Compare Strings in SQL with TRIM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1oz5iho08jz6x7xtsi1v.webp" alt="Difference Between Machine Maintenance Software and ITAM Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teresa_tran/difference-between-machine-maintenance-software-and-itam-software-182k" target="_blank">Difference Between Machine Maintenance Software and ITAM Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 04:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/cheating-on-quantum-computing-benchmarks.html" target="_blank">Cheating on Quantum Computing Benchmarks</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-07-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -244,6 +253,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Standoff-of-James-Headphones-from-Gayoung-1.jpg" alt="Nothing Headphone 1 vs. AirPods Max: Which Over-Ear ANC Headphones Win?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nothing-headphone-1-vs-airpods-max-which-over-ear-anc-headphones-win-2000636141" target="_blank">Nothing Headphone 1 vs. AirPods Max: Which Over-Ear ANC Headphones Win?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/razer-blackshark-v3-pro-review-01.jpg" alt="Razer BlackShark V3 Pro Review: The Sweatiest Gamers Will Love This Headset" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +307,6 @@
                 <span class="time">2025-07-30 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GRQPCT2TTX0TPZKB3HWS9/hero-image.png" alt="What to Do When There&#x27;s an Excessive Heat Warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/excessive-heat-warning-what-to-do?utm_medium=RSS" target="_blank">What to Do When There&#x27;s an Excessive Heat Warning</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-30 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
