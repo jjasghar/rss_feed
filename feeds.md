@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 15:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 16:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/7/31/we-are-starving-bread-becomes-a-distant-dream-for-palestinians-in-gaza?traffic_source=rss" target="_blank">‘We are starving’: Bread becomes a distant dream for Palestinians in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 15:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/rain-nyc-gty-jef-250731_1753966530643_hpMain_4x3t_384.jpg" alt="New York City under travel advisory as Northeast braces for flooding" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +101,29 @@
                 <span class="time">2025-07-31 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/what-legal-tests-are-donald-trumps-tariffs-facing?traffic_source=rss" target="_blank">What legal tests are Donald Trump’s tariffs facing?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/tiktok-merges-its-core-product-and-trust-safety-teams/" target="_blank">TikTok merges its Core Product and Trust &amp; Safety teams</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-07-31 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation" target="_blank">Microsoft becomes the second $4 trillion company</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-07-31 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688b782158a59c73e240df4c/master/pass/ND2.jpg" alt="A New &#x27;Katamari&#x27; Game, &#x27;Octopath Traveler 0&#x27;, and More Are Coming to Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +160,6 @@
                 <span class="time">2025-07-31 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/" target="_blank">Waymo’s Tekedra Mawakana on the truth behind autonomous vehicles at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/nvidia-logo-500x500.jpg" alt="China claims Nvidia built backdoor into H20 chip designed for Chinese market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/china-claims-nvidia-built-backdoor-into-h20-chip-designed-for-chinese-market/" target="_blank">China claims Nvidia built backdoor into H20 chip designed for Chinese market</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-31 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +172,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/" target="_blank">Do AI coding tools help with imposter syndrome or make it worse?</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-07-31 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjud5ygu3ynn9a7cxvi6.png" alt="I Wanted to Learn Faster — So I Built a Voice AI Tutor with GPT-4 in a Weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sholajegede/i-wanted-to-learn-faster-so-i-built-a-voice-ai-tutor-with-gpt-4-in-a-weekend-3ke0" target="_blank">I Wanted to Learn Faster — So I Built a Voice AI Tutor with GPT-4 in a Weekend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18539444&w=600" alt="Amazon Q Developer: The Future of AI-Enhanced Coding Productivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amazon-q-developer-ai-coding-productivity" target="_blank">Amazon Q Developer: The Future of AI-Enhanced Coding Productivity</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-31 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Chooses PostgreSQL Extension Over Specialized OLAP for 100K Row/Second Analytics</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-31 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javonet/wrap-once-run-everywhere-integrating-python-with-net-java-and-nodejs-using-javonet-b0n" target="_blank">Wrap Once, Run Everywhere_ Integrating Python with .NET, Java, and Node.js using Javonet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhis_is_jj/the-one-line-of-code-that-crashed-my-startup-22c1" target="_blank">The One Line of Code That Crashed My Startup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 13:06</span>
             </div>
         </div>
 </div>
@@ -249,6 +248,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/pbhpwr1wznnzehty5i8t.jpg" alt="You Owe It To Yourself To Play RimWorld In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rimworld-odyssey-expansion-colony-randy-random-1851787430" target="_blank">You Owe It To Yourself To Play RimWorld In 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-07-31 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1GFQDRKWYETA2AHJCCF6K8T/hero-image.jpg" alt="Three Things I Liked About Garmin&#x27;s Sleep Band, After My First Night" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/three-things-i-liked-garmin-sleep-band?utm_medium=RSS" target="_blank">Three Things I Liked About Garmin&#x27;s Sleep Band, After My First Night</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/Nintendo_Switch_2.jpeg?fit=1080%2C723&amp;quality=60&amp;ssl=1" alt="Fan destroys Switch 2 trying to recreate iconic Donkey Kong 64 yellow cartridge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/07/31/fan-destroys-switch-2-trying-to-recreate-iconic-donkey-kong-64-yellow-cartridge.html" target="_blank">Fan destroys Switch 2 trying to recreate iconic Donkey Kong 64 yellow cartridge</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-07-31 14:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/carl.jpg?fit=794%2C1200&amp;quality=60&amp;ssl=1" alt="Dungeon Crawler Carl is a fun read but the audiobook is a work of art" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -275,33 +301,6 @@
                 <span class="time">2025-07-31 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1EXQXX83KG9G21W6RXKWKA3/hero-image.jpg" alt="Here’s Why Steam Is Banning Adult Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/why-steam-banned-adult-games?utm_medium=RSS" target="_blank">Here’s Why Steam Is Banning Adult Games</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2019/04/keoh92uen0vjuiyxotke.jpg" alt="Josh Hawley Says Trump Tariff Rebate Checks Won’t Go to ‘Biden Voters’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/josh-hawley-says-trump-tariff-rebate-checks-wont-go-to-biden-voters-2000636888" target="_blank">Josh Hawley Says Trump Tariff Rebate Checks Won’t Go to ‘Biden Voters’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/showrunner.jpg" alt="Amazon Throws Money at ‘Netflix of AI’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazon-throws-money-at-netflix-of-ai-2000636838" target="_blank">Amazon Throws Money at ‘Netflix of AI’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 11:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,22 +324,13 @@
                 <span class="time">2025-07-30 16:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753765558-20250730.png" alt="Saturday Morning Breakfast Cereal - Eat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/eat-5" target="_blank">Saturday Morning Breakfast Cereal - Eat</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-30 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
