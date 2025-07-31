@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 07:04:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-07-31 08:02:07 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc08/live/77760ea0-6dd6-11f0-8dbd-f3d32ebd3327.jpg" alt="Transport secretary to quiz air traffic control boss over disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss" target="_blank">Transport secretary to quiz air traffic control boss over disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 07:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/7/31/video-canada-says-it-will-recognise-a-palestinian-state-with-conditions?traffic_source=rss" target="_blank">Video: Canada says it will recognise a Palestinian state, with conditions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 07:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/fbi-upgrades-new-zealand-office-to-counter-china-international-crime?traffic_source=rss" target="_blank">FBI upgrades New Zealand office to counter China, international crime</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 06:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5486587/canada-malta-palestinian-state" target="_blank">Canada and Malta to recognize Palestinian state, joining France and possibly Britain</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-07-31 06:21</span>
             </div>
         </div>
 <div class="story">
@@ -67,33 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/25-hospitalized-after-severe-turbulence-delta-flight/story?id=124230974" target="_blank">25 hospitalized after &#x27;significant&#x27; turbulence on Delta flight</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-07-31 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f2/live/8a94b460-6da8-11f0-afd8-9f8181a84684.jpg" alt="Airlines demand answers after air traffic control failure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9jn1ydx9lo?at_medium=RSS&at_campaign=rss" target="_blank">Airlines demand answers after air traffic control failure</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 04:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/us-senator-plans-trip-to-taiwan-as-trumps-interest-in-island-cools-report?traffic_source=rss" target="_blank">US senator plans trip to Taiwan as Trump’s interest in island cools: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2022-01/210809-virginia-giuffre-ew-118p-a7d68a.jpg" alt="Family of Epstein abuse survivor urges Trump not to pardon Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-virginia-giuffre-ghislaine-maxwell-trump-pardon-rcna222126" target="_blank">Family of Epstein abuse survivor urges Trump not to pardon Ghislaine Maxwell</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-31 01:43</span>
             </div>
         </div>
 </div>
@@ -163,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ehtesham19/javascript-32g3" target="_blank">Javascript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/07/31/the-innovation-leadership-and-team-agility-inside-u-s-bank-s-cloud-journey/" target="_blank">The innovation, leadership, and team agility inside U.S. Bank’s cloud journey</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -203,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Starts-Lenovo-Legion-Go-2" target="_blank">Linux Begins Preparing For The Lenovo Legion Go 2 Handheld</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-31 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9" target="_blank">I knew RSC was a rake but I stepped on it anyway</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 00:34</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
