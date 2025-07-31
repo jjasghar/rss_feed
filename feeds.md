@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 20:01:37 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-07-31 21:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/31/india-struggle-in-england-test-decider-with-captain-gill-run-out-for-21?traffic_source=rss" target="_blank">India struggle in England Test decider with captain Gill run out</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e0/live/b5c59890-6dfb-11f0-8dbd-f3d32ebd3327.jpg" alt="US envoy to visit Gaza, as hospital says dozens killed seeking food" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss" target="_blank">US envoy to visit Gaza, as hospital says dozens killed seeking food</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 19:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40d/live/57183190-6e14-11f0-89ea-4d6f9851f623.jpg" alt="Gazan boy first to be treated in UK for war injuries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +96,20 @@
                 <span class="time">2025-07-31 17:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753980381967_now_daily_a_pettypiece_trump_mexico_250731_1920x1080-9hkwlz.jpg" alt="Trump delays imposing tariffs on Mexico for 90 days" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-delays-imposing-tariffs-on-mexico-for-90-days-244138565601" target="_blank">Trump delays imposing tariffs on Mexico for 90 days</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-07-31 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-alshagnobi-gaza_6979254.jpg?20250731175424" alt="Gazan boy, 15, given hero&#x27;s welcome as he arrives in UK for urgent medical treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gazan-boy-15-given-heros-welcome-as-he-arrives-in-uk-for-urgent-medical-treatment-13404742" target="_blank">Gazan boy, 15, given hero&#x27;s welcome as he arrives in UK for urgent medical treatment</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-07-31 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-500x500.jpg" alt="Google loses app store antitrust appeal, must make sweeping changes to Play Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/07/google-loses-app-store-antitrust-appeal-must-make-sweeping-changes-to-play-store/" target="_blank">Google loses app store antitrust appeal, must make sweeping changes to Play Store</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-07-31 20:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2025-07-31 17:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/quoras-poe-is-releasing-an-api-for-developers-to-easily-access-a-boquet-of-models/" target="_blank">Quora’s Poe releases a developer API with access to a bouquet of AI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://michaelnotebook.com/slow/index.html" target="_blank">Slow</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-07-31 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2025-07-31 16:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/07/31/do-ai-coding-tools-help-with-imposter-syndrome-or-make-it-worse/" target="_blank">Do AI coding tools help with imposter syndrome or make it worse?</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-07-31 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Val-Kilmer-Real-Genius.jpg" alt="Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/celebrating-40-years-of-the-weirdest-nerdiest-week-in-movie-history-2000636736" target="_blank">Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1H1BXPA24CKHSJY8SXKRB9D/hero-image.png" alt="Peloton&#x27;s Little-Known Strength Training Device Is Dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/peloton-no-longer-selling-the-guide?utm_medium=RSS" target="_blank">Peloton&#x27;s Little-Known Strength Training Device Is Dead</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/95968bc66428697bae18b9514c6178dd.jpg" alt="Assassin’s Creed Actor Says Ubisoft Threatened To Sue Him For Hinting At Black Flag Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-recap-space-adventure-hour-laan-spock-2000635434" target="_blank">This Week’s ‘Strange New Worlds’ Is a Little Too Cute for Its Own Good</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-31 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1GNNHPKV2QQ01NRNA9KRXKR/hero-image.png" alt="This Amazon Echo Show 8 Is $40 Off on Woot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/open-box-amazon-echo-show-8-woot?utm_medium=RSS" target="_blank">This Amazon Echo Show 8 Is $40 Off on Woot Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Man-of-Steel-Yelling.jpg" alt="James Gunn’s ‘Superman’ Just Passed a Major ‘Man of Steel’ Milestone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-gunns-superman-just-passed-a-major-man-of-steel-milestone-2000637244" target="_blank">James Gunn’s ‘Superman’ Just Passed a Major ‘Man of Steel’ Milestone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 17:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
