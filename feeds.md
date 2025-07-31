@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 06:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-07-31 07:04:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, July 31, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/fbi-upgrades-new-zealand-office-to-counter-china-international-crime?traffic_source=rss" target="_blank">FBI upgrades New Zealand office to counter China, international crime</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-07-31 06:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/7/31/axing-of-the-late-show-reveals-how-monopolisation-has-gutted-us-media?traffic_source=rss" target="_blank">Axing of The Late Show reveals how monopolisation has gutted US media</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/delta-amsterdam_1753933401656_hpMain_4x3t_384.jpg" alt="25 hospitalized after &#x27;significant&#x27; turbulence on Delta flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/25-hospitalized-after-severe-turbulence-delta-flight/story?id=124230974" target="_blank">25 hospitalized after &#x27;significant&#x27; turbulence on Delta flight</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-07-31 05:04</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/jeffrey-epstein-virginia-giuffre-ghislaine-maxwell-trump-pardon-rcna222126" target="_blank">Family of Epstein abuse survivor urges Trump not to pardon Ghislaine Maxwell</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-31 01:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/7/31/russia-ukraine-war-list-of-key-events-day-1253?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,253</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/30/nx-s1-5486007/earthquake-tsunami-factors-explained" target="_blank">What makes a tsunami — and what to do if one comes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-07-31 00:03</span>
             </div>
         </div>
 </div>
@@ -175,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dbvismarketing/clean-and-compare-strings-in-sql-with-trim-3j9h" target="_blank">Clean and Compare Strings in SQL with TRIM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-07-31 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1oz5iho08jz6x7xtsi1v.webp" alt="Difference Between Machine Maintenance Software and ITAM Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/chad_syntax/i-knew-rsc-was-a-rake-but-i-stepped-on-it-anyway-1og9" target="_blank">I knew RSC was a rake but I stepped on it anyway</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-07-31 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm4wbcsxuyz0lydcrk34a.gif" alt="Context engineering for production-grade web agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/skarpoor12/context-engineering-for-production-grade-web-agents-150a" target="_blank">Context engineering for production-grade web agents</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-30 22:31</span>
             </div>
         </div>
 </div>
@@ -333,22 +328,13 @@
                 <span class="time">2025-07-30 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/07/30/the-gift-aperture" target="_blank">The Gift Aperture</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-07-30 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
