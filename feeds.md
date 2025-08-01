@@ -1,23 +1,16 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 11:01:45 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
@@ -25,17 +18,18 @@
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 10:02 UTC</div>
+    <div class="newspaper-date">Friday, August 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/01/nx-s1-5487710/fda-panel-ssri-antidepressants-pregnancy-perinatal" target="_blank">An FDA panel spread misinformation about SSRI use in pregnancy, alarming doctors</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/donald-trump-01-ap-jef-250731_1753963753640_hpMain_4x3t_384.jpg" alt="Trump unveils sweeping tariffs in &#x27;new system of trade&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +99,20 @@
                 <span class="time">2025-08-01 03:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/07/31/nx-s1-5488299/el-salvador-approves-indefinite-presidential-reelection-extends-presidential-terms" target="_blank">El Salvador approves indefinite presidential reelection, extends presidential terms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 03:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/king6-500x500-1753996364.jpg" alt="The King is Watching condenses kingdom-building strategy to a single screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/08/the-king-is-watching-condenses-kingdom-building-strategy-to-a-single-screen/" target="_blank">The King is Watching condenses kingdom-building strategy to a single screen</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688256eb8153b05c7d2a082c/master/pass/uber-gear-1137615476.jpg" alt="Uber’s Drive to Become the Kleenex of Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,20 +158,29 @@
                 <span class="time">2025-08-01 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/" target="_blank">Female-founded semiconductor AI startup SixSense raises $8.5M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-01 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/terraformmonkey/opentofu-cicd-guide-how-to-automate-infrastructure-changes-with-confidence-4bd6" target="_blank">OpenTofu CI/CD Guide: How to Automate Infrastructure Changes with Confidence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-IPU7-Linux-6.17" target="_blank">Intel IPU7 Driver Merged For Linux 6.17 For Webcams On Lunar Lake &amp; Panther Lake Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 10:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frndnmfxv780he952woav.webp" alt="Commit Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,53 +200,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bower.sh/you-might-not-need-tmux" target="_blank">You might not need tmux</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-01 09:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/podcasts/transforming-software-engineering-culture-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1753771822471.jpg" alt="Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/podcasts/transforming-software-engineering-culture-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-01 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-supabase-1o28" target="_blank">WTF is Supabase?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sgchris/simple-concurrency-with-channels-in-stdsyncmpsc-1jb4" target="_blank">Simple Concurrency with Channels in std::sync::mpsc</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/01/diving-into-the-results-of-the-2025-developer-survey/" target="_blank">Diving into the results of the 2025 Developer Survey</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-01 07:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/07/cheating-on-quantum-computing-benchmarks.html" target="_blank">Cheating on Quantum Computing Benchmarks</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-07-31 11:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
