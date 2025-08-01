@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 15:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-01 16:01:54 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/switzerland-says-disappointed-by-trump-tariffs-will-try-to-negotiate?traffic_source=rss" target="_blank">Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 15:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +99,29 @@
                 <span class="time">2025-08-01 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482492/last-day-education-department-workers" target="_blank">Today is the last day for many Education Department workers. Here&#x27;s what they did</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-500x500.jpg" alt="Google releases Gemini 2.5 Deep Think for AI Ultra subscribers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/" target="_blank">Google releases Gemini 2.5 Deep Think for AI Ultra subscribers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688a7760ebc982ceef8ce78e/master/pass/Backchannel-Techies-Connected-To-Epstein-Business.jpg" alt="Inside Jeffrey Epstein’s Forgotten AI Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/epstein-files-science-tech-funding/" target="_blank">Inside Jeffrey Epstein’s Forgotten AI Summit</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/solar-farm-500x500.jpg" alt="Vast majority of new US power plants generate solar or wind power" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai" target="_blank">Bing made Google dance and then stole some search traffic</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-01 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/525762328_1391547306307173_1080875030424370442_n-500x500.jpg" alt="Rocket Report: NASA finally working on depots, Air Force tests new ICBM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" target="_blank">Rocket Report: NASA finally working on depots, Air Force tests new ICBM</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/king6-500x500-1753996364.jpg" alt="The King is Watching condenses kingdom-building strategy to a single screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/08/the-king-is-watching-condenses-kingdom-building-strategy-to-a-single-screen/" target="_blank">The King is Watching condenses kingdom-building strategy to a single screen</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 10:30</span>
             </div>
         </div>
 </div>
@@ -232,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Nintendo-Switch-2-1920x1280-22.jpg" alt="You Should Get All Those Switch 2 Accessories Now Before They Get Even More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/you-should-get-all-those-switch-2-accessories-now-before-they-get-even-more-expensive-2000637847" target="_blank">You Should Get All Those Switch 2 Accessories Now Before They Get Even More Expensive</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 16:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Kuril_Trench.jpg" alt="The Pacific Dodged a Monster Tsunami After One of the Biggest Quakes Ever. Here’s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +290,6 @@
                 <span class="time">2025-07-31 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/James-Bond-opening.jpg" alt="New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-james-bond-movie-will-be-written-by-creator-of-peaky-blinders-2000637569" target="_blank">New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,31 +313,13 @@
                 <span class="time">2025-08-01 00:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/im-leaving/" target="_blank">I’m Leaving</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-07-31 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753765652-20250731.png" alt="Saturday Morning Breakfast Cereal - Sad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/sad-6" target="_blank">Saturday Morning Breakfast Cereal - Sad</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-07-31 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
