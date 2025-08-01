@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 14:02:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-01 15:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 14:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/top-eu-court-strikes-a-blow-against-italys-albania-migrant-camps-scheme?traffic_source=rss" target="_blank">Top EU court strikes a blow against Italy’s Albania migrant camps scheme</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/a-death-journey-palestinians-describe-ghf-aid-site-turmoil-in-gaza?traffic_source=rss" target="_blank">‘A death journey’: Palestinians describe GHF aid site turmoil in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-01 13:45</span>
@@ -61,6 +65,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5442369/hasan-piker-democratic-politics-masculinity" target="_blank">Hasan Piker: a &quot;himbo gateway drug&quot; for progressives?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-01 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-rt-jef-250801_1754050571922_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump calls on Fed board to take &#x27;control&#x27; if rates not cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump calls on Fed board to take &#x27;control&#x27; if rates not cut</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-01 13:07</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +94,6 @@
                 <span class="time">2025-08-01 12:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/g-s1-80579/up-first-newsletter-trump-tariffs-gaza-starvation-israel" target="_blank">Trump sets new tariff rates and deadlines. And, rabbis speak out on starvation in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 11:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/01/nx-s1-5487710/fda-panel-ssri-antidepressants-pregnancy-perinatal" target="_blank">An FDA panel spread misinformation about SSRI use in pregnancy, alarming doctors</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +106,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/08/vast-majority-of-new-us-power-plants-generate-solar-or-wind-power/" target="_blank">Vast majority of new US power plants generate solar or wind power</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-01 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688bec6a67985260fca4ba01/master/pass/The%20Best%20Laptops%20for%20College%20Students.png" alt="11 Best Laptops for College Students (2025), Including Tablets and 2-in-1s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-laptops-for-college-students/" target="_blank">11 Best Laptops for College Students (2025), Including Tablets and 2-in-1s</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 13:30</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +153,20 @@
                 <span class="time">2025-08-01 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688256eb8153b05c7d2a082c/master/pass/uber-gear-1137615476.jpg" alt="Uber’s Drive to Become the Kleenex of Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/" target="_blank">Uber’s Drive to Become the Kleenex of Robotaxis</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo" target="_blank">The Midnight Community Board: Building *With* the Community, Not Just For It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 14:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553848&w=600" alt="Docker Offload: One of the Best Features for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-08-01 10:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-IPU7-Linux-6.17" target="_blank">Intel IPU7 Driver Merged For Linux 6.17 For Webcams On Lunar Lake &amp; Panther Lake Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-01 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Kuril_Trench.jpg" alt="The Pacific Dodged a Monster Tsunami After One of the Biggest Quakes Ever. Here’s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-pacific-dodged-a-monster-tsunami-after-one-of-the-biggest-quakes-ever-heres-why-2000637749" target="_blank">The Pacific Dodged a Monster Tsunami After One of the Biggest Quakes Ever. Here’s Why</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/research-laboratory.jpg" alt="AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +283,6 @@
                 <span class="title"><a href="https://gizmodo.com/new-james-bond-movie-will-be-written-by-creator-of-peaky-blinders-2000637569" target="_blank">New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-07-31 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Val-Kilmer-Real-Genius.jpg" alt="Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/celebrating-40-years-of-the-weirdest-nerdiest-week-in-movie-history-2000636736" target="_blank">Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 21:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
