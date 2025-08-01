@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 19:03:14 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-01 20:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9682/live/51be8fb0-6f08-11f0-a7ec-c3e99ae9c236.jpg" alt="Trump moves nuclear submarines after ex-Russian president&#x27;s comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss" target="_blank">Trump moves nuclear submarines after ex-Russian president&#x27;s comments</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-01 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5489117/trump-presidential-fitness-test-history" target="_blank">Remember running the mile in school? The Presidential Fitness Test is coming back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754075841294_now_daily_b_alcindor_bls_fired_250801_1920x1080-8miwav.jpg" alt="Trump fires Bureau of Labor Statistics commissioner hours after weak jobs report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-fires-bureau-of-labor-statistics-commissioner-hours-after-weak-jobs-report-244214853879" target="_blank">Trump fires Bureau of Labor Statistics commissioner hours after weak jobs report</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-01 19:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Medvedev-trump-1-gty-gmh-250801_1754070096026_hpMain_4x3t_384.jpg" alt="Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,38 +103,20 @@
                 <span class="time">2025-08-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/politics/2025/aug/01/kemi-badenoch-says-she-no-longer-sees-herself-as-nigerian-despite-upbringing" target="_blank">Kemi Badenoch says she no longer sees herself as Nigerian despite upbringing</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-01 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-us-president_6980146.jpg?20250801183519" alt="Trump orders nuclear submarines to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-orders-two-nuclear-subs-to-be-positioned-in-appropriate-regions-after-ex-russian-presidents-comments-13405255" target="_blank">Trump orders nuclear submarines to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-01 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-us-president_6980146.jpg?20250801183519" alt="Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-orders-two-nuclear-subs-to-be-positioned-in-appropriate-regions-after-ex-russian-presidents-comments-13405255" target="_blank">Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-01 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale" target="_blank">Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-01 19:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +162,6 @@
                 <span class="time">2025-08-01 16:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-500x500.jpg" alt="Google releases Gemini 2.5 Deep Think for AI Ultra subscribers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/" target="_blank">Google releases Gemini 2.5 Deep Think for AI Ultra subscribers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/marrmorgan/business-analyst-interview-questions-with-answers-4ndp" target="_blank">Business Analyst Interview Questions with Answers:</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-01 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Deferred-Unwinder" target="_blank">Deferred Unwinder Code Upstreamed For Linux 6.17 On Road To SFrame Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 18:22</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +221,6 @@
                 <span class="time">2025-08-01 16:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nova-Lake-Family-18" target="_blank">Linux Enablement Begins For Intel Nova Lake - The First &quot;Family 18&quot; CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-01 16:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Zach-Cregger-Weapons-interview.jpg" alt="Zach Cregger Breaks Down the Year’s Most Twisted, Surprising Horror Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zach-cregger-breaks-down-the-years-most-twisted-surprising-horror-movie-2000636941" target="_blank">Zach Cregger Breaks Down the Year’s Most Twisted, Surprising Horror Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hammer-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How Houston Symphony&#x27;s percussionist built the 22-pound hammer that delivers Mahler&#x27;s &quot;blows of fate&quot; in Symphony No. 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/01/how-houston-symphonys-percussionist-built-the-22-pound-hammer-that-delivers-mahlers-blows-of-fate-in-symphony-no-6.html" target="_blank">How Houston Symphony&#x27;s percussionist built the 22-pound hammer that delivers Mahler&#x27;s &quot;blows of fate&quot; in Symphony No. 6</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-01 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/Trump-Fauci.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Russia goads Trump into deploying nuclear submarines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-peacock-right-now?utm_medium=RSS" target="_blank">The 25 Best Movies Streaming on Peacock Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/grumpy-cat.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Cat only responds to Hamster Dance Song, ignores real name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/01/cat-only-responds-to-hamster-dance-song-ignores-real-name.html" target="_blank">Cat only responds to Hamster Dance Song, ignores real name</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-01 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Nintendo-Switch-2-1920x1280-22.jpg" alt="You Should Get All Those Switch 2 Accessories Now Before They Get Even More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/you-should-get-all-those-switch-2-accessories-now-before-they-get-even-more-expensive-2000637847" target="_blank">You Should Get All Those Switch 2 Accessories Now Before They Get Even More Expensive</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-01 16:01</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 304 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
