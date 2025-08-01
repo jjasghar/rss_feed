@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 06:03:14 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-01 07:05:20 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them" target="_blank">Every satellite orbiting earth and who owns them (2023)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-01 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-witchboard-official-red-band-trailer-2025-directed-by-chuck-russell-d1g" target="_blank">IGN: Witchboard - Official Red Band Trailer (2025) Directed by Chuck Russell</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-XeSS-2.1-Released" target="_blank">Intel XeSS 2.1 Released With Frame Generation For Non-Intel GPUs But Still A Binary Mess</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-01 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-donkey-kong-bananza-all-groove-layer-challenge-rooms-locations-and-solutions-4gha" target="_blank">IGN: Donkey Kong Bananza: All Groove Layer Challenge Rooms | Locations and Solutions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 00:01</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
