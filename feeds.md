@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 11:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 12:02:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/g-s1-80579/up-first-newsletter-trump-tariffs-gaza-starvation-israel" target="_blank">Trump sets new tariff rates and deadlines. And, rabbis speak out on starvation in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +99,29 @@
                 <span class="time">2025-08-01 04:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-ap-jef-250731_1753963753640_hpMain_4x3t_384.jpg" alt="Trump unveils tariff rates set to take effect next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trump-unveils-tariff-rates-set-effect-week/story?id=124249032" target="_blank">Trump unveils tariff rates set to take effect next week</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-01 03:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688bd399538f1f5468280260/master/pass/14%20Great%20Couches%20You%20Can%20Buy%20Online.png" alt="14 Best Couches We&#x27;ve Tested That You Can Buy Online (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-couch/" target="_blank">14 Best Couches We&#x27;ve Tested That You Can Buy Online (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 11:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai" target="_blank">Bing made Google dance and then stole some search traffic</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-01 11:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/king6-500x500-1753996364.jpg" alt="The King is Watching condenses kingdom-building strategy to a single screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +158,20 @@
                 <span class="time">2025-08-01 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming" target="_blank">The LeapMove is a gamified camera designed to get kids off the couch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-01 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/0x7b-shop/why-2025-is-the-year-of-the-developer-creator-2hmg" target="_blank">Why 2025 Is the Year of the Developer-Creator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 11:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,13 +217,18 @@
                 <span class="time">2025-08-01 09:04</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://res.infoq.com/podcasts/transforming-software-engineering-culture-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1753771822471.jpg" alt="Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/transforming-software-engineering-culture-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-01 09:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html" target="_blank">Spying on People Through Airportr Luggage Delivery Service</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-01 11:07</span>
             </div>
         </div>
 </div>
@@ -222,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/research-laboratory.jpg" alt="AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521" target="_blank">AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/fictional-bands-powerline-saja-boys-clash-at-demonhead-1.jpg" alt="10 Best Fake Songs From Fake Movie Bands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +287,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/celebrating-40-years-of-the-weirdest-nerdiest-week-in-movie-history-2000636736" target="_blank">Celebrating 40 Years of the Weirdest, Nerdiest Week in Movie History</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Lenovo-300E-11.6.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Work smarter, not harder — this refurbished touchscreen computer is not for hardos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/07/31/work-smarter-not-harder-this-refurbished-touchscreen-computer-is-not-for-hardos.html" target="_blank">Work smarter, not harder — this refurbished touchscreen computer is not for hardos</a></span>
-                <span class="feed">Boing Boing</span>
                 <span class="time">2025-07-31 21:00</span>
             </div>
         </div>
@@ -322,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
