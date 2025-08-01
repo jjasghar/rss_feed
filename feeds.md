@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 04:23:01 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-01 05:09:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 04:23 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 05:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29da/live/c6d6fed0-6df1-11f0-af20-030418be2ca5.png" alt="Rats, mould and dangerous overcrowding - inside illegal house-shares hiding in plain sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04r7l455zeo?at_medium=RSS&at_campaign=rss" target="_blank">Rats, mould and dangerous overcrowding - inside illegal house-shares hiding in plain sight</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-01 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/israel-sharpens-uae-travel-warning-for-citizens-cites-terrorist-threat?traffic_source=rss" target="_blank">Israel sharpens UAE travel warning for citizens, cites ‘terrorist’ threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-ap-jef-250731_1753963753640_hpMain_4x3t_384.jpg" alt="Trump unveils tariff rates set to take effect next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/trump-unveils-tariff-rates-set-effect-week/story?id=124249032" target="_blank">Trump unveils tariff rates set to take effect next week</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-01 03:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +101,20 @@
                 <span class="time">2025-08-01 00:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-aid-gaza_6979462.jpg?20250801010954" alt="US officials to make &#x27;highly unusual&#x27; visit to Gaza - amid warnings of &#x27;politically manmade&#x27; famine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/two-senior-us-officials-to-make-rare-visit-to-gaza-later-today-13404842" target="_blank">US officials to make &#x27;highly unusual&#x27; visit to Gaza - amid warnings of &#x27;politically manmade&#x27; famine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-01 00:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c4/live/e1ffc980-6e19-11f0-a527-49a2f77f1dfe.jpg" alt="Civil service interns must be working class, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3ez3v9v8jqo?at_medium=RSS&at_campaign=rss" target="_blank">Civil service interns must be working class, government says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d47d/live/c1b3a180-6e1c-11f0-89ea-4d6f9851f623.png" alt="Trump&#x27;s global tariffs &#x27;victory&#x27; may well come at a high price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0l6g13rlwko?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s global tariffs &#x27;victory&#x27; may well come at a high price</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" alt="Surfshark Promo Codes: 87% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/surfshark-coupon/" target="_blank">Surfshark Promo Codes: 87% Off | August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/07/31/reddit-revenue-soars-as-it-bets-on-ai-and-advertising/" target="_blank">Reddit revenue soars as it bets on AI and advertising</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-07-31 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1327354395-500x500.jpg" alt="Microsoft catches Russian hackers targeting foreign embassies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/07/microsoft-catches-russian-hackers-targeting-foreign-embassies/" target="_blank">Microsoft catches Russian hackers targeting foreign embassies</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-31 21:43</span>
             </div>
         </div>
 </div>
@@ -260,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GJGDDJ66PF855W254D7PN/hero-image.jpg" alt="How I Choose a Good Sweat-Resistant Sunscreen for My Workouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-i-choose-a-sweat-resistant-sunscreen-for-my-workouts?utm_medium=RSS" target="_blank">How I Choose a Good Sweat-Resistant Sunscreen for My Workouts</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-07-31 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/James-Bond-opening.jpg" alt="New James Bond Movie Will Be Written by Creator of ‘Peaky Blinders’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +289,6 @@
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/07/31/work-smarter-not-harder-this-refurbished-touchscreen-computer-is-not-for-hardos.html" target="_blank">Work smarter, not harder — this refurbished touchscreen computer is not for hardos</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-07-31 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1H303TJQ70ES3VMXTJB1XFP/hero-image.jpg" alt="The Kindle Colorsoft Will Make Your Books Look Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/kindle-colorsoft-makes-books-look-worse?utm_medium=RSS" target="_blank">The Kindle Colorsoft Will Make Your Books Look Worse</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-07-31 21:00</span>
             </div>
         </div>
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 04:23 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 05:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
