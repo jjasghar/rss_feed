@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 12:02:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-01 13:13:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/1/is-ai-transforming-the-future-of?traffic_source=rss" target="_blank">Is AI transforming the future of healthcare?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482492/last-day-education-department-workers" target="_blank">Today is the last day for many Education Department workers. Here&#x27;s what they did</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 12:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +103,6 @@
                 <span class="time">2025-08-01 05:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29da/live/c6d6fed0-6df1-11f0-af20-030418be2ca5.png" alt="Rats, mould and dangerous overcrowding - inside illegal house-shares hiding in plain sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04r7l455zeo?at_medium=RSS&at_campaign=rss" target="_blank">Rats, mould and dangerous overcrowding - inside illegal house-shares hiding in plain sight</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-01 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/israel-sharpens-uae-travel-warning-for-citizens-cites-terrorist-threat?traffic_source=rss" target="_blank">Israel sharpens UAE travel warning for citizens, cites ‘terrorist’ threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 04:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -120,6 +124,15 @@
                 <span class="title"><a href="https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai" target="_blank">Bing made Google dance and then stole some search traffic</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-01 11:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/525762328_1391547306307173_1080875030424370442_n-500x500.jpg" alt="Rocket Report: NASA finally working on depots, Air Force tests new ICBM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" target="_blank">Rocket Report: NASA finally working on depots, Air Force tests new ICBM</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +162,29 @@
                 <span class="time">2025-08-01 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/handwave-lends-a-hand-to-retailers-with-its-european-alternative-to-amazons-palm-payments/" target="_blank">Handwave lends a hand to retailers with its European alternative to Amazon’s palm payments</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-01 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hadid.dev/posts/living-coding/" target="_blank">Live coding interviews measure stress, not coding skills</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-01 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18540277&w=600" alt="AI-Powered AWS CloudTrail Analysis: Using Strands Agent and Amazon Bedrock for Intelligent AWS Access Pattern Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-powered-aws-cloudtrail-analysis-strands-agent-bedrock" target="_blank">AI-Powered AWS CloudTrail Analysis: Using Strands Agent and Amazon Bedrock for Intelligent AWS Access Pattern Detection</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-01 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/doccaio/commit-patterns-2dep" target="_blank">Commit Patterns</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-01 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EDAC" target="_blank">Linux 6.17 EDAC Code Supports Several Newer Intel CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-01 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bower.sh/you-might-not-need-tmux" target="_blank">You might not need tmux</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 09:04</span>
             </div>
         </div>
 </div>
@@ -336,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
