@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 00:05:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 01:30:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 00:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250409-donald-trump-ew-631p-9859ec.jpg" alt="Trump formalizes high tariffs as he tries to reshape the global economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-sets-tariff-levels-reshapes-economy-rcna222387" target="_blank">Trump formalizes high tariffs as he tries to reshape the global economy</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-01 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-aid-gaza_6979462.jpg?20250801010954" alt="US officials to make &#x27;highly unusual&#x27; visit to Gaza - amid warnings of &#x27;politically manmade&#x27; famine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/two-senior-us-officials-to-make-rare-visit-to-gaza-later-today-13404842" target="_blank">US officials to make &#x27;highly unusual&#x27; visit to Gaza - amid warnings of &#x27;politically manmade&#x27; famine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-01 00:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c4/live/e1ffc980-6e19-11f0-a527-49a2f77f1dfe.jpg" alt="Civil service interns must be working class, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/31/india-struggle-in-england-test-decider-with-captain-gill-run-out-for-21?traffic_source=rss" target="_blank">India struggle in England Test decider with captain Gill run out</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-07-31 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e0/live/b5c59890-6dfb-11f0-8dbd-f3d32ebd3327.jpg" alt="US envoy to visit Gaza, as hospital says dozens killed seeking food" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c74d82pdxjzo?at_medium=RSS&at_campaign=rss" target="_blank">US envoy to visit Gaza, as hospital says dozens killed seeking food</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40d/live/57183190-6e14-11f0-89ea-4d6f9851f623.jpg" alt="Gazan boy first to be treated in UK for war injuries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgn6979n59o?at_medium=RSS&at_campaign=rss" target="_blank">Gazan boy first to be treated in UK for war injuries</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-07-31 18:07</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-1-2025-red-hat" target="_blank">Friday Five — August 1, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-08-01 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/07/subtrace-network-analysis/en/headerimage/generatedHeaderImage-1754000591659.jpg" alt="New Open Source Tool Subtrace Brings Network Analysis to Container Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-31-July-2025" target="_blank">Steam Beta Brings Fix For UI Scaling On XWayland</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-07-31 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543300&w=600" alt="AI-Powered Product Recommendations With Oracle CDC, Flink, and MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-product-recommendations-oracle-cdc-flink-mongodb" target="_blank">AI-Powered Product Recommendations With Oracle CDC, Flink, and MongoDB</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-07-31 20:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 00:06 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 299 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
