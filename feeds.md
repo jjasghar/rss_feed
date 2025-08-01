@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 01:30:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-01 02:47:28 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 02:47 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/07/31/female-founded-semiconductor-ai-startup-sixsense-raises-funding/" target="_blank">Female-founded semiconductor AI startup SixSense raises $8.5M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-01 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/tab-key-500x500.jpg" alt="Developer survey shows trust in AI coding tools is falling as usage rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -147,20 +159,29 @@
                 <span class="time">2025-07-31 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/07/31/the-sequel-to-the-social-network-may-have-just-found-its-lead-actors/" target="_blank">The sequel to ‘The Social Network’ may have just found its lead actors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-07-31 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codewithrajat/the-future-of-angular-10-trends-shaping-2025-2364" target="_blank">The Future of Angular: 10 Trends Shaping 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-XeSS-2.1-Released" target="_blank">Intel XeSS 2.1 Released With Frame Generation For Non-Intel GPUs But Still A Binary Mess</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 00:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +218,6 @@
                 <span class="time">2025-07-31 22:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucafabbri/concordia-the-open-source-net-mediator-youve-been-waiting-for-3ihh" target="_blank">Concordia: The Open-Source .NET Mediator You’ve Been Waiting For</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Beta-31-July-2025" target="_blank">Steam Beta Brings Fix For UI Scaling On XWayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-31 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/fictional-bands-powerline-saja-boys-clash-at-demonhead-1.jpg" alt="10 Best Fake Songs From Fake Movie Bands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-best-fake-songs-from-fake-movie-bands-2000636885" target="_blank">10 Best Fake Songs From Fake Movie Bands</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-07-31 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/spiderman94-2.jpg" alt="The New Spider-Man Animated Series Comic Will Keep MJ’s Return Under Wraps (for Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-07-31 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/95968bc66428697bae18b9514c6178dd.jpg" alt="Assassin’s Creed Actor Says Ubisoft Threatened To Sue Him For Hinting At Black Flag Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/assassins-creed-black-flag-remake-remaster-matt-ryan-1851787469" target="_blank">Assassin’s Creed Actor Says Ubisoft Threatened To Sue Him For Hinting At Black Flag Remaster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-07-31 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 299 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 02:47 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
