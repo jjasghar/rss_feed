@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 07:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 08:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 07:05 UTC</div>
+    <div class="newspaper-date">Friday, August 01, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5488736/virginia-giuffre-family-trump-epstein" target="_blank">Virginia Giuffre&#x27;s family expresses shock over Trump saying Epstein &#x27;stole&#x27; her</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 05:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29da/live/c6d6fed0-6df1-11f0-af20-030418be2ca5.png" alt="Rats, mould and dangerous overcrowding - inside illegal house-shares hiding in plain sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-hit-canada-with-35-tariff-as-trade-deadline-looms-244173381752" target="_blank">Trump to hit Canada with 35% tariff as trade deadline looms</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-01 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250409-donald-trump-ew-631p-9859ec.jpg" alt="Trump formalizes high tariffs as he tries to reshape the global economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-sets-tariff-levels-reshapes-economy-rcna222387" target="_blank">Trump formalizes high tariffs as he tries to reshape the global economy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-01 00:40</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sgchris/simple-concurrency-with-channels-in-stdsyncmpsc-1jb4" target="_blank">Simple Concurrency with Channels in std::sync::mpsc</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 07:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/01/diving-into-the-results-of-the-2025-developer-survey/" target="_blank">Diving into the results of the 2025 Developer Survey</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/codewithrajat/the-future-of-angular-10-trends-shaping-2025-2364" target="_blank">The Future of Angular: 10 Trends Shaping 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-01 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-XeSS-2.1-Released" target="_blank">Intel XeSS 2.1 Released With Frame Generation For Non-Intel GPUs But Still A Binary Mess</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-01 00:37</span>
             </div>
         </div>
 </div>
@@ -296,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/01/the-gen-confluence" target="_blank">The Gen Confluence</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5626.png" alt="And Aroma" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -327,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
