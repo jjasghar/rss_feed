@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 02:47:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 03:35:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 02:47 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 03:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754015452386_now_staytuned_canada_tariffs_250731_1920x1080-w9752u.jpg" alt="Trump to hit Canada with 35% tariff as trade deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-hit-canada-with-35-tariff-as-trade-deadline-looms-244173381752" target="_blank">Trump to hit Canada with 35% tariff as trade deadline looms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-01 02:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250409-donald-trump-ew-631p-9859ec.jpg" alt="Trump formalizes high tariffs as he tries to reshape the global economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d47d/live/c1b3a180-6e1c-11f0-89ea-4d6f9851f623.png" alt="Trump&#x27;s global tariffs &#x27;victory&#x27; may well come at a high price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0l6g13rlwko?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s global tariffs &#x27;victory&#x27; may well come at a high price</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 23:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753999467948_now_hallie_family_giuffre_250731_1920x1080-4r77b4.jpg" alt="Family of Virginia Giuffre urges Trump not to pardon Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/now/video/family-of-virginia-giuffre-urges-trump-not-to-pardon-ghislaine-maxwell-244159557630" target="_blank">Family of Virginia Giuffre urges Trump not to pardon Ghislaine Maxwell</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-07-31 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/jul/31/rhino-horns-made-radioactive-to-foil-traffickers-in-south-african-project" target="_blank">Rhino horns made radioactive to foil traffickers in South African project</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-07-31 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/7/31/india-struggle-in-england-test-decider-with-captain-gill-run-out-for-21?traffic_source=rss" target="_blank">India struggle in England Test decider with captain Gill run out</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-07-31 19:55</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s Desktop Icons Extension Adds New Keyboard Shortcuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/desktop-icons-gnome-extension-new-keyboard-shortcuts" target="_blank">Ubuntu’s Desktop Icons Extension Adds New Keyboard Shortcuts</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-01 02:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/07/subtrace-network-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Open Source Tool Subtrace Brings Network Analysis to Container Environments</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-07-31 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ekz5fgqeh5ng8jzyqcd.png" alt="Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sholajegede/why-usage-based-pricing-felt-right-for-my-ai-tool-and-how-i-pulled-it-of-553n" target="_blank">Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-07-31 22:51</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 02:47 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 03:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
