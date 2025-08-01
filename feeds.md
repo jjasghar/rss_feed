@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-07-31 23:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-01 00:05:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, July 31, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 00:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c4/live/e1ffc980-6e19-11f0-a527-49a2f77f1dfe.jpg" alt="Civil service interns must be working class, government says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3ez3v9v8jqo?at_medium=RSS&at_campaign=rss" target="_blank">Civil service interns must be working class, government says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-07-31 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_07/1753999467948_now_hallie_family_giuffre_250731_1920x1080-4r77b4.jpg" alt="Family of Virginia Giuffre urges Trump not to pardon Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cvgn6979n59o?at_medium=RSS&at_campaign=rss" target="_blank">Gazan boy first to be treated in UK for war injuries</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-07-31 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-250731_1753968032329_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says US, Mexico agreed to extend tariff agreement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump says US, Mexico agreed to extend tariff agreement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-07-31 17:56</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-donkey-kong-bananza-all-groove-layer-challenge-rooms-locations-and-solutions-4gha" target="_blank">IGN: Donkey Kong Bananza: All Groove Layer Challenge Rooms | Locations and Solutions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/07/subtrace-network-analysis/en/headerimage/generatedHeaderImage-1754000591659.jpg" alt="New Open Source Tool Subtrace Brings Network Analysis to Container Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/07/subtrace-network-analysis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Open Source Tool Subtrace Brings Network Analysis to Container Environments</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-07-31 23:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ekz5fgqeh5ng8jzyqcd.png" alt="Why Usage-Based Pricing Felt Right for My AI Tool — and How I Pulled It Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543300&w=600" alt="AI-Powered Product Recommendations With Oracle CDC, Flink, and MongoDB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://michaelnotebook.com/slow/index.html" target="_blank">Slow</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-07-31 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-GPU-Drivers" target="_blank">Linux 6.17 GPU Drivers Led By Stable Intel Xe3 Panther Lake &amp; SR-IOV For Battlemage</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-07-31 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/" target="_blank">PyPI Phishing Attack: Incident Report</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-07-31 18:41</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-product-recommendations-oracle-cdc-flink-mongodb" target="_blank">AI-Powered Product Recommendations With Oracle CDC, Flink, and MongoDB</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-07-31 20:00</span>
             </div>
         </div>
 </div>
@@ -315,22 +310,13 @@
                 <span class="time">2025-07-31 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5609.png" alt="Whole buncha comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net" target="_blank">Whole buncha comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-07-30 23:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 00:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
