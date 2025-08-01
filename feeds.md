@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 17:03:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 18:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-us-president_6980146.jpg?20250801183519" alt="Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-orders-two-nuclear-subs-to-be-positioned-in-appropriate-regions-after-ex-russian-presidents-comments-13405255" target="_blank">Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-01 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,20 @@
                 <span class="time">2025-08-01 13:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-rt-jef-250801_1754050571922_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump calls on Fed board to take &#x27;control&#x27; if rates not cut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump calls on Fed board to take &#x27;control&#x27; if rates not cut</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-01 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +160,47 @@
                 <span class="time">2025-08-01 13:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688bec6a67985260fca4ba01/master/pass/The%20Best%20Laptops%20for%20College%20Students.png" alt="11 Best Laptops for College Students (2025), Including Tablets and 2-in-1s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-laptops-for-college-students/" target="_blank">11 Best Laptops for College Students (2025), Including Tablets and 2-in-1s</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fkkarakurt/review-of-cwe-843-type-confusion-vulnerability-and-exploit-1noh" target="_blank">Review of CWE-843 Type Confusion Vulnerability and Exploit</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544428&w=600" alt="WAN Is the New LAN!?!?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/wan-is-the-new-lan" target="_blank">WAN Is the New LAN!?!?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding" target="_blank">Corporation for Public Broadcasting Ceasing Operations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-01 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Nova-Lake-Family-18" target="_blank">Linux Enablement Begins For Intel Nova Lake - The First &quot;Family 18&quot; CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/05/raspberry-pi-4-8GB.jpg?resize=406%2C232&amp;ssl=1" alt="US Tariff Change Could Send SBC &amp; Mini PC Prices Soaring" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,42 +217,6 @@
                 <span class="title"><a href="https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo" target="_blank">The Midnight Community Board: Building *With* the Community, Not Just For It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-01 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553848&w=600" alt="Docker Offload: One of the Best Features for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/docker-offload-best-feature-for-ai-workloads" target="_blank">Docker Offload: One of the Best Features for AI Workloads</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-01 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hadid.dev/posts/living-coding/" target="_blank">Live coding interviews measure stress, not coding skills</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18540277&w=600" alt="AI-Powered AWS CloudTrail Analysis: Using Strands Agent and Amazon Bedrock for Intelligent AWS Access Pattern Detection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-powered-aws-cloudtrail-analysis-strands-agent-bedrock" target="_blank">AI-Powered AWS CloudTrail Analysis: Using Strands Agent and Amazon Bedrock for Intelligent AWS Access Pattern Detection</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-01 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0x7b-shop/why-2025-is-the-year-of-the-developer-creator-2hmg" target="_blank">Why 2025 Is the Year of the Developer-Creator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 11:55</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ninshubar-2.jpg" alt="80 New Sci-Fi, Fantasy, and Horror Books Arriving in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/80-new-sci-fi-fantasy-and-horror-books-arriving-in-august-2000637336" target="_blank">80 New Sci-Fi, Fantasy, and Horror Books Arriving in August</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Steam-Sex-Game.jpg" alt="Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +292,6 @@
                 <span class="time">2025-08-01 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/research-laboratory.jpg" alt="AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521" target="_blank">AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-01 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -304,6 +304,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/01/the-gen-confluence" target="_blank">The Gen Confluence</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-08-01 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/canon.png" alt="Canon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3123/" target="_blank">Canon</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-01 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -320,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
