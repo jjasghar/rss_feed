@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 20:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-01 21:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/1/hear-from-the-former-guard-blowing-the-whistle-on-ghf-aid-sites-in-gaza?traffic_source=rss" target="_blank">Hear from the former guard blowing the whistle on GHF aid sites in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 20:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482865-e1/researchers-find-some-bird-parents-get-divorced-after-breeding" target="_blank">Researchers find some bird parents get &#x27;divorced&#x27; after breeding</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 20:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9682/live/51be8fb0-6f08-11f0-a7ec-c3e99ae9c236.jpg" alt="Trump moves nuclear submarines after ex-Russian president&#x27;s comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +99,20 @@
                 <span class="time">2025-08-01 18:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250801-trump-ch-1425-e5e59c.jpg" alt="Trump fires labor statistics boss hours after weak jobs report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-orders-firing-bls-commissioner-weak-jobs-report-rcna222531" target="_blank">Trump fires labor statistics boss hours after weak jobs report</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-01 18:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f46/live/74d2a060-6efc-11f0-8dbd-f3d32ebd3327.png" alt="Man charged after children fell ill at summer camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gz32kp0d0o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged after children fell ill at summer camp</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-01 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/under-rfk-jr-cdc-skips-study-on-vaccination-rates-quietly-posts-data-on-drop/" target="_blank">Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,29 @@
                 <span class="time">2025-08-01 16:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/fossilTOP-500x500.jpg" alt="Research roundup: 7 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/research-roundup-7-cool-science-stories-we-almost-missed/" target="_blank">Research roundup: 7 cool science stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayback-0.2-Released" target="_blank">Wayback 0.2 Brings More Enhancements For This X11 Compatibility Layer</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543471&w=600" alt="Feature Flags in Agile Development: Lessons from Scaling Front-End Platform Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/feature-flags-in-agile-development-lessons-from-sc" target="_blank">Feature Flags in Agile Development: Lessons from Scaling Front-End Platform Releases</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-01 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2025-08-01 17:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544428&w=600" alt="WAN Is the New LAN!?!?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/wan-is-the-new-lan" target="_blank">WAN Is the New LAN!?!?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-01 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cpb.org/pressroom/Corporation-Public-Broadcasting-Addresses-Operations-Following-Loss-Federal-Funding" target="_blank">Corporation for Public Broadcasting Ceasing Operations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/elon-musk-trump.jpg" alt="Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-gave-millions-to-trump-after-publicly-blowing-up-their-bromance-2000637951" target="_blank">Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Zach-Cregger-Weapons-interview.jpg" alt="Zach Cregger Breaks Down the Year’s Most Twisted, Surprising Horror Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393" target="_blank">Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-01 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HVPDFZFNGRQC3JSRP8FE8D8F/hero-image.jpg" alt="The 25 Best Movies Streaming on Peacock Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-peacock-right-now?utm_medium=RSS" target="_blank">The 25 Best Movies Streaming on Peacock Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-01 17:00</span>
             </div>
         </div>
 </div>
@@ -340,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 304 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 303 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
