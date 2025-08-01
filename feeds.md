@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 08:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-01 09:04:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68560f17a37d39b6aef68645/master/pass/Update-%20The%20Best%20Sex%20Toys%20for%20Every%20Body.png" alt="The Best Sex Toys (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sex-toys-and-tech/" target="_blank">The Best Sex Toys (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 08:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -152,20 +156,29 @@
                 <span class="time">2025-07-31 22:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone" target="_blank">Apple shipped its 3 billionth iPhone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-07-31 22:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/transforming-software-engineering-culture-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1753771822471.jpg" alt="Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/transforming-software-engineering-culture-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-01 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-supabase-1o28" target="_blank">WTF is Supabase?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 08:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-witchboard-official-red-band-trailer-2025-directed-by-chuck-russell-d1g" target="_blank">IGN: Witchboard - Official Red Band Trailer (2025) Directed by Chuck Russell</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-01 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dingo.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s Desktop Icons Extension Adds New Keyboard Shortcuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/desktop-icons-gnome-extension-new-keyboard-shortcuts" target="_blank">Ubuntu’s Desktop Icons Extension Adds New Keyboard Shortcuts</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-01 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithrajat/the-future-of-angular-10-trends-shaping-2025-2364" target="_blank">The Future of Angular: 10 Trends Shaping 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 02:30</span>
             </div>
         </div>
 </div>
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
