@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 21:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-01 22:01:32 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5594/live/53b472a0-6f10-11f0-89ea-4d6f9851f623.jpg" alt="Trump moves nuclear submarines after Russian ex-president&#x27;s comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss" target="_blank">Trump moves nuclear submarines after Russian ex-president&#x27;s comments</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-01 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,29 @@
                 <span class="time">2025-08-01 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Medvedev-trump-1-gty-gmh-250801_1754070096026_hpMain_4x3t_384.jpg" alt="Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-moves-nuclear-submarines-response-russias-highly-provocative/story?id=124284200" target="_blank">Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-01 18:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688cf574e0a07815d4cc7190/master/pass/anthropic-openai-biz-2216956964.jpg" alt="Anthropic Revokes OpenAI&#x27;s Access to Claude" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/" target="_blank">Anthropic Revokes OpenAI&#x27;s Access to Claude</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages" target="_blank">Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-01 20:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +128,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/08/under-rfk-jr-cdc-skips-study-on-vaccination-rates-quietly-posts-data-on-drop/" target="_blank">Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-01 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/01/a-backlog-at-the-commerce-department-is-reportedly-stalling-nvidias-h20-chip-licenses/" target="_blank">A backlog at the Commerce Department is reportedly stalling Nvidia’s H20 chip licenses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-01 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -131,33 +157,6 @@
                 <span class="time">2025-08-01 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688bbdd3d0c9039583731865/master/pass/Uncanny-Valley-.Devil-Worship-ChatGPT-Business-2225624392.jpg" alt="WIRED Roundup: ChatGPT Goes Full Demon Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-chatgpt-goes-full-demon-mode/" target="_blank">WIRED Roundup: ChatGPT Goes Full Demon Mode</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/" target="_blank">Nintendo raising original Switch console prices due to ‘market conditions’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-01 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +169,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wayback-0.2-Released" target="_blank">Wayback 0.2 Brings More Enhancements For This X11 Compatibility Layer</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-01 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html" target="_blank">Does the Bitter Lesson Have Limits?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-01 20:21</span>
             </div>
         </div>
 <div class="story">
@@ -208,20 +216,20 @@
                 <span class="time">2025-08-01 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fkkarakurt/review-of-cwe-843-type-confusion-vulnerability-and-exploit-1noh" target="_blank">Review of CWE-843 Type Confusion Vulnerability and Exploit</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 17:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html" target="_blank">Friday Squid Blogging: A Case of Squid Fossil Misidentification</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-01 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -236,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Foundation_ep4_Demerzel.jpg" alt="‘Foundation’ Just Dropped a Huge, Terrifying Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/foundation-just-dropped-a-huge-terrifying-twist-2000637556" target="_blank">‘Foundation’ Just Dropped a Huge, Terrifying Twist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 21:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/elon-musk-trump.jpg" alt="Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/80-new-sci-fi-fantasy-and-horror-books-arriving-in-august-2000637336" target="_blank">80 New Sci-Fi, Fantasy, and Horror Books Arriving in August</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Steam-Sex-Game.jpg" alt="Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393" target="_blank">Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-01 17:02</span>
             </div>
         </div>
 </div>
@@ -336,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 303 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 301 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
