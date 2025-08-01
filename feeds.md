@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 18:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-01 19:03:14 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,57 +46,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Medvedev-trump-1-gty-gmh-250801_1754070096026_hpMain_4x3t_384.jpg" alt="Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-moves-nuclear-submarines-response-russias-highly-provocative/story?id=124284200" target="_blank">Trump moves nuclear submarines in response to Russia&#x27;s &#x27;highly provocative&#x27; statement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-01 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250801-trump-ch-1425-e5e59c.jpg" alt="Trump fires labor statistics boss hours after weak jobs report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-orders-firing-bls-commissioner-weak-jobs-report-rcna222531" target="_blank">Trump fires labor statistics boss hours after weak jobs report</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-01 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f46/live/74d2a060-6efc-11f0-8dbd-f3d32ebd3327.png" alt="Man charged after children fell ill at summer camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gz32kp0d0o?at_medium=RSS&at_campaign=rss" target="_blank">Man charged after children fell ill at summer camp</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/politics/2025/aug/01/kemi-badenoch-says-she-no-longer-sees-herself-as-nigerian-despite-upbringing" target="_blank">Kemi Badenoch says she no longer sees herself as Nigerian despite upbringing</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-01 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-us-president_6980146.jpg?20250801183519" alt="Trump orders nuclear submarines to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-orders-two-nuclear-subs-to-be-positioned-in-appropriate-regions-after-ex-russian-presidents-comments-13405255" target="_blank">Trump orders nuclear submarines to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-01 16:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-us-president_6980146.jpg?20250801183519" alt="Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-orders-two-nuclear-subs-to-be-positioned-in-appropriate-regions-after-ex-russian-presidents-comments-13405255" target="_blank">Trump orders two nuclear subs to be moved after &#x27;highly provocative&#x27; comments from ex-Russian president</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-01 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/trump-calls-for-fed-board-to-take-control-chair-powell-over-interest-rates?traffic_source=rss" target="_blank">Trump calls on Fed board to take control from Powell over interest rates</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/switzerland-says-disappointed-by-trump-tariffs-will-try-to-negotiate?traffic_source=rss" target="_blank">Switzerland says ‘disappointed’ by Trump tariffs, will try to negotiate</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/top-eu-court-strikes-a-blow-against-italys-albania-migrant-camps-scheme?traffic_source=rss" target="_blank">Top EU court strikes a blow against Italy’s Albania migrant camps scheme</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/a-death-journey-palestinians-describe-ghf-aid-site-turmoil-in-gaza?traffic_source=rss" target="_blank">‘A death journey’: Palestinians describe GHF aid site turmoil in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5442369/hasan-piker-democratic-politics-masculinity" target="_blank">Hasan Piker: a &quot;himbo gateway drug&quot; for progressives?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 13:42</span>
             </div>
         </div>
 </div>
@@ -109,10 +107,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/01/tesla-partly-liable-in-florida-autopilot-trial-jury-awards-329m-in-damages/" target="_blank">Tesla partly liable in Florida Autopilot trial, jury awards $329M in damages</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-01 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/21302051/best-apple-airpods-deals" target="_blank">Here are the best AirPods deals you can get right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-01 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688bbdd3d0c9039583731865/master/pass/Uncanny-Valley-.Devil-Worship-ChatGPT-Business-2225624392.jpg" alt="WIRED Roundup: ChatGPT Goes Full Demon Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-chatgpt-goes-full-demon-mode/" target="_blank">WIRED Roundup: ChatGPT Goes Full Demon Mode</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 17:02</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +158,29 @@
                 <span class="time">2025-08-01 15:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688a7760ebc982ceef8ce78e/master/pass/Backchannel-Techies-Connected-To-Epstein-Business.jpg" alt="Inside Jeffrey Epstein’s Forgotten AI Summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/epstein-files-science-tech-funding/" target="_blank">Inside Jeffrey Epstein’s Forgotten AI Summit</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/solar-farm-500x500.jpg" alt="Vast majority of new US power plants generate solar or wind power" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/vast-majority-of-new-us-power-plants-generate-solar-or-wind-power/" target="_blank">Vast majority of new US power plants generate solar or wind power</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marrmorgan/business-analyst-interview-questions-with-answers-4ndp" target="_blank">Business Analyst Interview Questions with Answers:</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544441&w=600" alt="Meta-Learning: The Key to Models That Can &quot;Learn to Learn&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/meta-learning-learn-to-learn-ai-models" target="_blank">Meta-Learning: The Key to Models That Can &quot;Learn to Learn&quot;</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="time">2025-08-01 16:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/05/raspberry-pi-4-8GB.jpg?resize=406%2C232&amp;ssl=1" alt="US Tariff Change Could Send SBC &amp; Mini PC Prices Soaring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/us-tariffs-sbc-mini-pc-increase-prices" target="_blank">US Tariff Change Could Send SBC &amp; Mini PC Prices Soaring</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-01 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devsofmidnight/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo" target="_blank">The Midnight Community Board: Building *With* the Community, Not Just For It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 14:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/Trump-Fauci.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Russia goads Trump into deploying nuclear submarines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/01/russia-goads-trump-into-deploying-nuclear-submarines.html" target="_blank">Russia goads Trump into deploying nuclear submarines</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-01 18:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ninshubar-2.jpg" alt="80 New Sci-Fi, Fantasy, and Horror Books Arriving in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +290,20 @@
                 <span class="time">2025-08-01 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Kuril_Trench.jpg" alt="The Pacific Dodged a Monster Tsunami After One of the Biggest Quakes Ever. Here’s Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-pacific-dodged-a-monster-tsunami-after-one-of-the-biggest-quakes-ever-heres-why-2000637749" target="_blank">The Pacific Dodged a Monster Tsunami After One of the Biggest Quakes Ever. Here’s Why</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-01 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754067166-bandnad.png" alt="Saturday Morning Breakfast Cereal - BandN" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bandn" target="_blank">Saturday Morning Breakfast Cereal - BandN</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-01 16:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 300 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 300 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
