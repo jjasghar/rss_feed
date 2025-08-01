@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 13:13:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-01 14:02:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/a-death-journey-palestinians-describe-ghf-aid-site-turmoil-in-gaza?traffic_source=rss" target="_blank">‘A death journey’: Palestinians describe GHF aid site turmoil in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5442369/hasan-piker-democratic-politics-masculinity" target="_blank">Hasan Piker: a &quot;himbo gateway drug&quot; for progressives?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-01 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,20 @@
                 <span class="time">2025-08-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-ap-jef-250731_1753963753640_hpMain_4x3t_384.jpg" alt="Trump unveils sweeping tariffs in &#x27;new system of trade&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trump-unveils-tariff-rates-set-effect-week/story?id=124249032" target="_blank">Trump unveils sweeping tariffs in &#x27;new system of trade&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-01 09:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5488736/virginia-giuffre-family-trump-epstein" target="_blank">Virginia Giuffre&#x27;s family expresses shock over Trump saying Epstein &#x27;stole&#x27; her</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 05:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/solar-farm-500x500.jpg" alt="Vast majority of new US power plants generate solar or wind power" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/vast-majority-of-new-us-power-plants-generate-solar-or-wind-power/" target="_blank">Vast majority of new US power plants generate solar or wind power</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 13:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688bd399538f1f5468280260/master/pass/14%20Great%20Couches%20You%20Can%20Buy%20Online.png" alt="14 Best Couches We&#x27;ve Tested That You Can Buy Online (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-08-01 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68560f17a37d39b6aef68645/master/pass/Update-%20The%20Best%20Sex%20Toys%20for%20Every%20Body.png" alt="The Best Sex Toys (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sex-toys-and-tech/" target="_blank">The Best Sex Toys (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553848&w=600" alt="Docker Offload: One of the Best Features for AI Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-offload-best-feature-for-ai-workloads" target="_blank">Docker Offload: One of the Best Features for AI Workloads</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-01 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-IPU7-Linux-6.17" target="_blank">Intel IPU7 Driver Merged For Linux 6.17 For Webcams On Lunar Lake &amp; Panther Lake Laptops</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-01 10:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frndnmfxv780he952woav.webp" alt="Commit Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/doccaio/commit-patterns-2dep" target="_blank">Commit Patterns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 09:56</span>
             </div>
         </div>
 </div>
@@ -340,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
