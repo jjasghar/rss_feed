@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 16:01:54 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-01 17:03:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/1/trump-calls-for-fed-board-to-take-control-chair-powell-over-interest-rates?traffic_source=rss" target="_blank">Trump calls on Fed board to take control from Powell over interest rates</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-01 16:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,29 @@
                 <span class="time">2025-08-01 13:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/1/is-ai-transforming-the-future-of?traffic_source=rss" target="_blank">Is AI transforming the future of healthcare?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/01/nintendo-raising-original-switch-console-prices-due-to-market-conditions/" target="_blank">Nintendo raising original Switch console prices due to ‘market conditions’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-01 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/fossilTOP-500x500.jpg" alt="Research roundup: 7 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/research-roundup-7-cool-science-stories-we-almost-missed/" target="_blank">Research roundup: 7 cool science stories we almost missed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-01 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Gemini-app-500x500.jpg" alt="Google releases Gemini 2.5 Deep Think for AI Ultra subscribers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +160,20 @@
                 <span class="time">2025-08-01 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688bd399538f1f5468280260/master/pass/14%20Great%20Couches%20You%20Can%20Buy%20Online.png" alt="14 Best Couches We&#x27;ve Tested That You Can Buy Online (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-couch/" target="_blank">14 Best Couches We&#x27;ve Tested That You Can Buy Online (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai" target="_blank">Bing made Google dance and then stole some search traffic</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-01 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2020/05/raspberry-pi-4-8GB.jpg?resize=406%2C232&amp;ssl=1" alt="US Tariff Change Could Send SBC &amp; Mini PC Prices Soaring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/us-tariffs-sbc-mini-pc-increase-prices" target="_blank">US Tariff Change Could Send SBC &amp; Mini PC Prices Soaring</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-01 16:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-08-01 11:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/terraformmonkey/opentofu-cicd-guide-how-to-automate-infrastructure-changes-with-confidence-4bd6" target="_blank">OpenTofu CI/CD Guide: How to Automate Infrastructure Changes with Confidence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 10:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Steam-Sex-Game.jpg" alt="Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mastercard-denies-pressuring-steam-to-censor-nsfw-games-2000614393" target="_blank">Mastercard Denies Pressuring Steam To Censor ‘NSFW’ Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-01 17:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HVPDFZFNGRQC3JSRP8FE8D8F/hero-image.jpg" alt="The 25 Best Movies Streaming on Peacock Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-peacock-right-now?utm_medium=RSS" target="_blank">The 25 Best Movies Streaming on Peacock Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-01 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/grumpy-cat.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Cat only responds to Hamster Dance Song, ignores real name" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/01/cat-only-responds-to-hamster-dance-song-ignores-real-name.html" target="_blank">Cat only responds to Hamster Dance Song, ignores real name</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-01 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Nintendo-Switch-2-1920x1280-22.jpg" alt="You Should Get All Those Switch 2 Accessories Now Before They Get Even More Expensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521" target="_blank">AI Won’t Boost Human Productivity Just Yet, a New Paper From the Federal Reserve Says</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/fictional-bands-powerline-saja-boys-clash-at-demonhead-1.jpg" alt="10 Best Fake Songs From Fake Movie Bands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-best-fake-songs-from-fake-movie-bands-2000636885" target="_blank">10 Best Fake Songs From Fake Movie Bands</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/spiderman94-2.jpg" alt="The New Spider-Man Animated Series Comic Will Keep MJ’s Return Under Wraps (for Now)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-94-comic-mary-jane-return-details-2000637568" target="_blank">The New Spider-Man Animated Series Comic Will Keep MJ’s Return Under Wraps (for Now)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-07-31 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GJGDDJ66PF855W254D7PN/hero-image.jpg" alt="How I Choose a Good Sweat-Resistant Sunscreen for My Workouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-i-choose-a-sweat-resistant-sunscreen-for-my-workouts?utm_medium=RSS" target="_blank">How I Choose a Good Sweat-Resistant Sunscreen for My Workouts</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-07-31 22:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
