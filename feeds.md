@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-01 09:04:10 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-01 10:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 01, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, August 01, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-ap-jef-250731_1753963753640_hpMain_4x3t_384.jpg" alt="Trump unveils sweeping tariffs in &#x27;new system of trade&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/trump-unveils-tariff-rates-set-effect-week/story?id=124249032" target="_blank">Trump unveils sweeping tariffs in &#x27;new system of trade&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-01 09:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +105,20 @@
                 <span class="time">2025-08-01 03:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754015452386_now_staytuned_canada_tariffs_250731_1920x1080-w9752u.jpg" alt="Trump to hit Canada with 35% tariff as trade deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-to-hit-canada-with-35-tariff-as-trade-deadline-looms-244173381752" target="_blank">Trump to hit Canada with 35% tariff as trade deadline looms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-01 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688256eb8153b05c7d2a082c/master/pass/uber-gear-1137615476.jpg" alt="Uber’s Drive to Become the Kleenex of Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/" target="_blank">Uber’s Drive to Become the Kleenex of Robotaxis</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-01 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68560f17a37d39b6aef68645/master/pass/Update-%20The%20Best%20Sex%20Toys%20for%20Every%20Body.png" alt="The Best Sex Toys (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +164,29 @@
                 <span class="time">2025-08-01 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/tab-key-500x500.jpg" alt="Developer survey shows trust in AI coding tools is falling as usage rises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/07/developer-survey-shows-trust-in-ai-coding-tools-is-falling-as-usage-rises/" target="_blank">Developer survey shows trust in AI coding tools is falling as usage rises</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-07-31 22:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frndnmfxv780he952woav.webp" alt="Commit Patterns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/doccaio/commit-patterns-2dep" target="_blank">Commit Patterns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-01 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EDAC" target="_blank">Linux 6.17 EDAC Code Supports Several Newer Intel CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-01 09:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/transforming-software-engineering-culture-leadership/en/smallimage/engineering-culture-podcast-thumbnail-1753771822471.jpg" alt="Podcast: Team Building in the Brave New World: Transforming Software Engineering Culture and Leadership" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +221,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/01/diving-into-the-results-of-the-2025-developer-survey/" target="_blank">Diving into the results of the 2025 Developer Survey</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-01 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them" target="_blank">Every satellite orbiting earth and who owns them (2023)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-witchboard-official-red-band-trailer-2025-directed-by-chuck-russell-d1g" target="_blank">IGN: Witchboard - Official Red Band Trailer (2025) Directed by Chuck Russell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 04:01</span>
             </div>
         </div>
 </div>
@@ -334,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
