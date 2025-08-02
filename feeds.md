@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 17:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 18:01:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5483886/tea-app-breach-hacked-whisper-networks" target="_blank">Tea encouraged its users to spill. Then the app&#x27;s data got leaked</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-02 17:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/business/economy/us-economy-explainer-this-week-tariffs-jobs-inflation-what-to-know-rcna222569" target="_blank">New tariffs, alarming job numbers and a high-profile firing: A wild week for the Trump economy</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-02 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/02/nx-s1-5490475/neobladder-bladder-reconstruction-deion-sanders-cancer" target="_blank">How surgeons build a new bladder for cancer patients like Deion Sanders</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-02 11:00</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ipelovski/javascript-na-blgharski-i-s-mnogho-izrazi-2mpp" target="_blank">JavaScript на български и с много изрази</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0" target="_blank">Verizon is upping its fees again</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 16:45</span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-AI-Assistant-1.0" target="_blank">GNOME AI Virtual Assistant &quot;Newelle&quot; Reaches Version 1.0 Milestone</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-02 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.hacktron.ai/blog/posts/python-zip-confusion/" target="_blank">Executing arbitrary Python code from a comment</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-02 13:12</span>
             </div>
         </div>
 </div>
@@ -310,22 +303,13 @@
                 <span class="time">2025-08-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/01/the-gen-confluence" target="_blank">The Gen Confluence</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-01 17:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
