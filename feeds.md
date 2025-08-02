@@ -1,32 +1,45 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 20:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-02 21:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +56,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/2/siraj-strikes-after-jaiswal-helps-india-set-england-daunting-target?traffic_source=rss" target="_blank">Siraj strikes after Jaiswal helps India set England daunting target</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-02 19:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/Jack-Smith-1-gty-gmh-250802_1754158558207_hpMain_4x3t_384.jpg" alt="Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/office-special-counsel-opened-hatch-act-probe-jack/story?id=124312950" target="_blank">Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-02 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bccd/live/da2d7ce0-6fc5-11f0-8ffe-3df81ff67cb1.png" alt="Hamas refuses to disarm until Palestinian state established" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce35nx49reko?at_medium=RSS&at_campaign=rss" target="_blank">Hamas refuses to disarm until Palestinian state established</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-02 18:40</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +109,20 @@
                 <span class="time">2025-08-02 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5490930/tesla-autopilot-crash-jury-240-million-florida" target="_blank">A jury orders Tesla to pay more than $240 million in Autopilot crash</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-02 13:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250724-trump-and-powell-rs-4d4274.jpg" alt="Tariffs, alarming job numbers and a high-profile firing: A wild week for the economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/us-economy-explainer-this-week-tariffs-jobs-inflation-what-to-know-rcna222569" target="_blank">Tariffs, alarming job numbers and a high-profile firing: A wild week for the economy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-02 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/" target="_blank">Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-02 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +168,20 @@
                 <span class="time">2025-08-02 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/" target="_blank">What founders should think about if looking to raise a Series C</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo" target="_blank">Dev Diary #2: Cloud Security plugin for JetBrains IDE</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +227,6 @@
                 <span class="time">2025-08-02 16:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-MM" target="_blank">Linux 6.17 Memory Management Optimizations, DAMON_STAT &amp; Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-02 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Cleaner-Kit-for-iOS-Premium-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your iPhone&#x27;s hoarding intervention starts now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/02/your-iphones-hoarding-intervention-starts-now.html" target="_blank">Your iPhone&#x27;s hoarding intervention starts now</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-02 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/m3gan2.jpg" alt="‘M3GAN 2.0’ Will Not Slay in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +300,6 @@
                 <span class="time">2025-08-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Tintina-fault-map.jpg" alt="‘Sleeping Giant’ Fault Under Canada Shows Major Earthquake Potential" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sleeping-giant-fault-under-canada-shows-major-earthquake-potential-2000638002" target="_blank">‘Sleeping Giant’ Fault Under Canada Shows Major Earthquake Potential</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-02 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
