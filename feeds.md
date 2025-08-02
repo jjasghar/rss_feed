@@ -1,45 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 21:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-02 22:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 36 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/2/us-authorities-investigating-ex-trump-prosecutor-jack-smith?traffic_source=rss" target="_blank">US authorities investigating ex-Trump prosecutor Jack Smith</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-02 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/2/i-may-starve-to-death-before-i-am-able-to-graduate-in-gaza?traffic_source=rss" target="_blank">I may starve to death before I am able to graduate in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-02 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-hamas-gaza_6980915.jpg?20250802152347" alt="Hamas responds to disarmament reports as health officials say 18 killed in Israeli fire - including people trying to access food" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-responds-to-disarmament-reports-as-health-officials-say-18-killed-in-israeli-fire-including-people-trying-to-access-food-13405722" target="_blank">Hamas responds to disarmament reports as health officials say 18 killed in Israeli fire - including people trying to access food</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-02 13:59</span>
             </div>
         </div>
 </div>
@@ -177,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dm8ry/find-untagged-aws-resources-across-all-regions-with-python-12nk" target="_blank">Find Untagged AWS Resources Across All Regions with Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo" target="_blank">Dev Diary #2: Cloud Security plugin for JetBrains IDE</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 20:49</span>
@@ -218,34 +217,20 @@
                 <span class="time">2025-08-02 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise" target="_blank">Why Exercise Is a Miracle Drug</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-02 16:02</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html" target="_blank">Friday Squid Blogging: A Case of Squid Fossil Misidentification</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-01 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Gunter-Nuyts-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Radioactive rhino horns deter poaching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/02/radioactive-rhino-horns-deter-poaching.html" target="_blank">Radioactive rhino horns deter poaching</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-02 21:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/batman89.jpg" alt="‘Batman’ and ‘Casper’ Are Coming Back to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +276,6 @@
                 <span class="time">2025-08-02 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/margot-robbie-barbie.jpg" alt="Margot Robbie May Be Our New Attacking 50 Foot Woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/margot-robbie-may-be-our-new-attacking-50-foot-woman-2000638190" target="_blank">Margot Robbie May Be Our New Attacking 50 Foot Woman</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
