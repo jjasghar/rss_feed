@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 01:29:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 02:35:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 02:35 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5490426/dca-midair-collision-ntsb-hearing-plane-black-hawk-helicopter" target="_blank">3 big takeaways from the NTSB hearing on the DCA midair collision</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-02 01:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754088351979_nn_costello_trump_jobsreport_250801_1920x1080-j79156.jpg" alt="President Trump fires labor statistics boss after weak jobs report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/1/hear-from-the-former-guard-blowing-the-whistle-on-ghf-aid-sites-in-gaza?traffic_source=rss" target="_blank">Hear from the former guard blowing the whistle on GHF aid sites in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-01 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482865-e1/researchers-find-some-bird-parents-get-divorced-after-breeding" target="_blank">Researchers find some bird parents get &#x27;divorced&#x27; after breeding</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 20:04</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc" target="_blank">What is Software Developer? - I</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://git.hella.cheap/bob/candyfloss" target="_blank">candyfloss: an ergonomic python library for running video pipelines</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-02 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/gamespot-silent-hill-f-has-the-potential-be-the-best-game-in-the-series-hands-on-impressions-1fff" target="_blank">GameSpot: Silent Hill F Has The Potential Be The Best Game In The Series | Hands-On Impressions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 00:01</span>
@@ -196,24 +219,6 @@
                 <span class="time">2025-08-01 20:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.dbreunig.com/2025/08/01/does-the-bitter-lesson-have-limits.html" target="_blank">Does the Bitter Lesson Have Limits?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543471&w=600" alt="Feature Flags in Agile Development: Lessons from Scaling Front-End Platform Releases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/feature-flags-in-agile-development-lessons-from-sc" target="_blank">Feature Flags in Agile Development: Lessons from Scaling Front-End Platform Releases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-01 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/FNAF-HHN.jpg" alt="All the Biggest Theme Park News of July You May Have Missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/all-the-biggest-theme-park-news-of-july-you-may-have-missed-2000638037" target="_blank">All the Biggest Theme Park News of July You May Have Missed</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-01 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1KMSWTGE0MRXAS0Q8DET86N/hero-image.png" alt="Apple&#x27;s Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-security-patch-fixes-chrome-vulnerability?utm_medium=RSS" target="_blank">Apple&#x27;s Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-01 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/IMG_0505-scaled-e1737735924979.jpeg?fit=1200%2C900&amp;quality=60&amp;ssl=1" alt="Leopard seals woo mates with nursery rhymes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/elon-musk-gave-millions-to-trump-after-publicly-blowing-up-their-bromance-2000637951" target="_blank">Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-01 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Zach-Cregger-Weapons-interview.jpg" alt="Zach Cregger Breaks Down the Year’s Most Twisted, Surprising Horror Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zach-cregger-breaks-down-the-years-most-twisted-surprising-horror-movie-2000636941" target="_blank">Zach Cregger Breaks Down the Year’s Most Twisted, Surprising Horror Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-01 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hammer-1.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="How Houston Symphony&#x27;s percussionist built the 22-pound hammer that delivers Mahler&#x27;s &quot;blows of fate&quot; in Symphony No. 6" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/01/how-houston-symphonys-percussionist-built-the-22-pound-hammer-that-delivers-mahlers-blows-of-fate-in-symphony-no-6.html" target="_blank">How Houston Symphony&#x27;s percussionist built the 22-pound hammer that delivers Mahler&#x27;s &quot;blows of fate&quot; in Symphony No. 6</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-01 19:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 02:35 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
