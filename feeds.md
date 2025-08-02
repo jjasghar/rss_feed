@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 00:04:56 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-02 01:29:31 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754088351979_nn_costello_trump_jobsreport_250801_1920x1080-j79156.jpg" alt="President Trump fires labor statistics boss after weak jobs report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/president-trump-fires-labor-statistics-boss-after-weak-jobs-report-244227141710" target="_blank">President Trump fires labor statistics boss after weak jobs report</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-01 22:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +96,20 @@
                 <span class="time">2025-08-01 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9682/live/51be8fb0-6f08-11f0-a7ec-c3e99ae9c236.jpg" alt="Trump moves nuclear submarines after ex-Russian president&#x27;s comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss" target="_blank">Trump moves nuclear submarines after ex-Russian president&#x27;s comments</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-01 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/" target="_blank">Venture firm CRV raises $750M, downsizing after returning capital to investors</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-01 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/08/under-rfk-jr-cdc-skips-study-on-vaccination-rates-quietly-posts-data-on-drop/" target="_blank">Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-01 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/01/a-backlog-at-the-commerce-department-is-reportedly-stalling-nvidias-h20-chip-licenses/" target="_blank">A backlog at the Commerce Department is reportedly stalling Nvidia’s H20 chip licenses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-01 20:30</span>
             </div>
         </div>
 </div>
@@ -337,22 +337,13 @@
                 <span class="time">2025-08-01 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5626.png" alt="And Aroma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5626" target="_blank">And Aroma</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-01 00:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 113 | 📡 Total Sources: 41 | 📸 With Images: 297 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
