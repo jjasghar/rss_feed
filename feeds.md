@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 18:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-02 19:01:32 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/Jack-Smith-1-gty-gmh-250802_1754158558207_hpMain_4x3t_384.jpg" alt="Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/office-special-counsel-opened-hatch-act-probe-jack/story?id=124312950" target="_blank">Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-02 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +102,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/business/economy/us-economy-explainer-this-week-tariffs-jobs-inflation-what-to-know-rcna222569" target="_blank">Tariffs, alarming job numbers and a high-profile firing: A wild week for the economy</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-02 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250724-trump-and-powell-rs-4d4274.jpg" alt="New tariffs, alarming job numbers and a high-profile firing: A wild week for the Trump economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/us-economy-explainer-this-week-tariffs-jobs-inflation-what-to-know-rcna222569" target="_blank">New tariffs, alarming job numbers and a high-profile firing: A wild week for the Trump economy</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-02 12:30</span>
             </div>
@@ -184,9 +192,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.telotrucks.com/" target="_blank">Telo MT1</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise" target="_blank">Why Exercise Is a Miracle Drug</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-02 16:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-MM" target="_blank">Linux 6.17 Memory Management Optimizations, DAMON_STAT &amp; Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-02 15:50</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/hamdivazim/about-me-5a77" target="_blank">About Me</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://eatonphil.com/2025-art-of-multiprocessor-programming.html" target="_blank">The Art of Multiprocessor Programming 2nd Edition Book Club</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-02 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-AI-Assistant-1.0" target="_blank">GNOME AI Virtual Assistant &quot;Newelle&quot; Reaches Version 1.0 Milestone</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-02 13:13</span>
             </div>
         </div>
 </div>
@@ -235,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Kpop-Demon-Hunters-Huntrix-Netflix.jpg" alt="‘KPop Demon Hunters’ and ‘Expedition 33’ Are Having a Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-and-expedition-33-are-having-a-moment-2000637221" target="_blank">‘KPop Demon Hunters’ and ‘Expedition 33’ Are Having a Moment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-02 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/m3gan2.jpg" alt="‘M3GAN 2.0’ Will Not Slay in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +297,6 @@
                 <span class="time">2025-08-01 23:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/chatgpt.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ChatGPT users shocked to find private therapy sessions exposed in Google searches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/01/chatgpt-users-shocked-to-find-private-therapy-sessions-exposed-in-google-searches.html" target="_blank">ChatGPT users shocked to find private therapy sessions exposed in Google searches</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-01 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
