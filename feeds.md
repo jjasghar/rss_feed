@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 16:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 17:01:50 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/2/i-may-starve-to-death-before-i-am-able-to-graduate-in-gaza?traffic_source=rss" target="_blank">I may starve to death before I am able to graduate in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-02 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-hamas-gaza_6980915.jpg?20250802152347" alt="Hamas responds to disarmament reports as health officials say 18 killed in Israeli fire - including people trying to access food" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +105,20 @@
                 <span class="time">2025-08-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5488809/russia-ukraine-war-ukrainians-return" target="_blank">Millions of Ukrainians abroad hope to return home once Russia&#x27;s invasion ends</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-02 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/" target="_blank">Anthropic cuts off OpenAI’s access to its Claude models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-02 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +164,29 @@
                 <span class="time">2025-08-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688cea11a43d9117bc647cbe/master/pass/Peacock-Feathers-Stunning-Can-Emit-Laser-Beams-Science-465851414.jpg" alt="Peacock Feathers Are Stunning. They Can Also Emit Laser Beams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/peacock-feathers-laser-beams/" target="_blank">Peacock Feathers Are Stunning. They Can Also Emit Laser Beams</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-02 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ndmckay/verizon-is-upping-its-fees-again-4gh0" target="_blank">Verizon is upping its fees again</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise" target="_blank">Why Exercise Is a Miracle Drug</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 16:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,28 +217,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-HID" target="_blank">Linux 6.17 Enables x86 MacBook Pro Touch Bars, Intel THC Wake-On-Touch</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-02 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://alexharri.com/blog/icelandic-name-declension-trie" target="_blank">Compressing Icelandic name declension patterns into a 3.27 kB trie</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-02 11:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/alphaevolve-399g" target="_blank">AlphaEvolve</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 11:00</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.hacktron.ai/blog/posts/python-zip-confusion/" target="_blank">Executing arbitrary Python code from a comment</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-02 13:12</span>
             </div>
         </div>
 </div>
@@ -296,6 +302,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753766563-20250802.png" alt="Saturday Morning Breakfast Cereal - Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bomb" target="_blank">Saturday Morning Breakfast Cereal - Bomb</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-02 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -304,22 +319,13 @@
                 <span class="time">2025-08-01 17:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754067166-bandnad.png" alt="Saturday Morning Breakfast Cereal - BandN" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bandn" target="_blank">Saturday Morning Breakfast Cereal - BandN</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-01 16:44</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
