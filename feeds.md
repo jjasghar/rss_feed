@@ -1,43 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 04:11:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-02 05:04:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 34 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 04:11 UTC</div>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/2/manhunt-for-ex-us-soldier-suspected-of-killing-4-in-montana-bar?traffic_source=rss" target="_blank">Manhunt for ex-US soldier suspected of killing 4 in Montana bar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-02 04:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss" target="_blank">Trump moves nuclear submarines after Russian ex-president&#x27;s comments</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-01 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482843/a-pediatrician-working-in-gaza-on-how-she-finds-the-will-to-keep-going" target="_blank">A pediatrician working in Gaza on how she finds the will to keep going</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-01 21:08</span>
             </div>
         </div>
 </div>
@@ -172,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7sj2nebi9zbwb9bdyuii.png" alt="How I Implemented GitHub OAuth2 into My Spring Boot + Angular App N1netails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahidfoy/how-i-implemented-github-oauth2-into-my-spring-boot-angular-app-n1netails-5bo" target="_blank">How I Implemented GitHub OAuth2 into My Spring Boot + Angular App N1netails</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 04:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/lrr-july.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -214,15 +217,6 @@
                 <span class="title"><a href="https://git.hella.cheap/bob/candyfloss" target="_blank">candyfloss: an ergonomic python library for running video pipelines</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-02 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-silent-hill-f-has-the-potential-be-the-best-game-in-the-series-hands-on-impressions-1fff" target="_blank">GameSpot: Silent Hill F Has The Potential Be The Best Game In The Series | Hands-On Impressions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 00:01</span>
             </div>
         </div>
 </div>
@@ -344,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 04:11 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
