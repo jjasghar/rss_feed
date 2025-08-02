@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 09:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 10:01:30 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/2/how-a-popular-peruvian-soft-drink-went-toe-to-toe-with-coca-cola?traffic_source=rss" target="_blank">How a popular Peruvian soft drink went ‘toe-to-toe’ with Coca-Cola</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-02 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5490426/dca-midair-collision-ntsb-hearing-plane-black-hawk-helicopter" target="_blank">3 big takeaways from the NTSB hearing on the DCA midair collision</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-02 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-250801_1754083636521_hpMain_2_4x3t_384.jpg" alt="Trump&#x27;s long history of bashing jobs report numbers dates back to 2016: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trumps-long-history-bashing-jobs-report-numbers-dates/story?id=124294975" target="_blank">Trump&#x27;s long history of bashing jobs report numbers dates back to 2016: ANALYSIS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-01 23:55</span>
             </div>
         </div>
 </div>
@@ -171,9 +171,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dash_media_619c37650210c8/how-developers-can-use-digital-marketing-to-launch-and-grow-side-projects-5b0" target="_blank">How Developers Can Use Digital Marketing to Launch and Grow Side Projects 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 09:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff" target="_blank">Deploy Applications Across Multiple Clusters with RHACM + GitOps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 06:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ladybird.org/newsletter/2025-07-31/" target="_blank">Ladybird Browser July Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 06:34</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-app-release-roundup-july-2025" target="_blank">Linux App Release Roundup (July 2025)</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-02 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oliver_butler_a52c1be144d/what-is-software-developer-i-40lc" target="_blank">What is Software Developer? - I</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660" target="_blank">Hardening mode for the compiler</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-02 02:12</span>
             </div>
         </div>
 </div>
@@ -249,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Tintina-fault-map.jpg" alt="‘Sleeping Giant’ Fault Under Canada Shows Major Earthquake Potential" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sleeping-giant-fault-under-canada-shows-major-earthquake-potential-2000638002" target="_blank">‘Sleeping Giant’ Fault Under Canada Shows Major Earthquake Potential</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-02 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/FNAF-HHN.jpg" alt="All the Biggest Theme Park News of July You May Have Missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +303,6 @@
                 <span class="time">2025-08-01 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/3e5db024f0b6ae2ae61aab5640caf12f-672x378-1.jpg" alt="Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-goofy-skins-call-of-duty-nicki-minaj-2000614447" target="_blank">Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-01 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
