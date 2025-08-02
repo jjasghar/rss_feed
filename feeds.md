@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 06:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 07:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +57,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/2/manhunt-for-ex-us-soldier-suspected-of-killing-4-in-montana-bar?traffic_source=rss" target="_blank">Manhunt for ex-US soldier suspected of killing 4 in Montana bar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-02 04:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-rt-jef-250801_1754050571922_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Former BLS commissioner condemns firing of his successor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Former BLS commissioner condemns firing of his successor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-02 01:58</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +104,20 @@
                 <span class="time">2025-08-01 22:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5594/live/53b472a0-6f10-11f0-89ea-4d6f9851f623.jpg" alt="Trump moves nuclear submarines after Russian ex-president&#x27;s comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c93dgr2dd53o?at_medium=RSS&at_campaign=rss" target="_blank">Trump moves nuclear submarines after Russian ex-president&#x27;s comments</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-01 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge" target="_blank">BougeRV’s portable solar fridge is quietly annoying</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-02 07:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2025-08-01 21:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages" target="_blank">Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-01 20:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff" target="_blank">Deploy Applications Across Multiple Clusters with RHACM + GitOps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 06:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9k5dk5v6bv9tuj0wsp42.png" alt="Introducing Niceshot - Turn your boring screenshots or images into stunning visuals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="title"><a href="https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660" target="_blank">Hardening mode for the compiler</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-02 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-July-2025" target="_blank">Steam Survey For July Shows Linux Use Approaching 3%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-02 00:28</span>
             </div>
         </div>
 </div>
@@ -325,22 +327,13 @@
                 <span class="time">2025-08-01 16:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/01/the-gen-confluence" target="_blank">The Gen Confluence</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
