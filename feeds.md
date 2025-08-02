@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 15:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-02 16:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-hamas-gaza_6980915.jpg?20250802152347" alt="Hamas responds to disarmament reports as health officials say 18 killed in Israeli fire - including people trying to access food" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-responds-to-disarmament-reports-as-health-officials-say-18-killed-in-israeli-fire-including-people-trying-to-access-food-13405722" target="_blank">Hamas responds to disarmament reports as health officials say 18 killed in Israeli fire - including people trying to access food</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-02 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5490930/tesla-autopilot-crash-jury-240-million-florida" target="_blank">A jury orders Tesla to pay more than $240 million in Autopilot crash</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-02 13:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250724-trump-and-powell-rs-4d4274.jpg" alt="Tariffs, alarming job numbers and a high-profile firing: A wild week for the economy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +99,20 @@
                 <span class="time">2025-08-02 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9c/live/3f03c2f0-6f85-11f0-8cb3-d7d6c377cb55.png" alt="Man, 76, remanded in custody on child cruelty charges after children fell ill at summer camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyep6j7z0zo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 76, remanded in custody on child cruelty charges after children fell ill at summer camp</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-02 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/2/how-a-popular-peruvian-soft-drink-went-toe-to-toe-with-coca-cola?traffic_source=rss" target="_blank">How a popular Peruvian soft drink went ‘toe-to-toe’ with Coca-Cola</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-02 08:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale" target="_blank">Samsung’s Galaxy Watch 8 just came out and you can already save $50</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-02 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,29 @@
                 <span class="time">2025-08-02 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/717498/brick-phone-screen-time-apps" target="_blank">I tried ‘Bricking’ my phone to fix my brain</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-02 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hamdivazim/about-me-5a77" target="_blank">About Me</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://eatonphil.com/2025-art-of-multiprocessor-programming.html" target="_blank">The Art of Multiprocessor Programming 2nd Edition Book Club</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +217,6 @@
                 <span class="time">2025-08-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dash_media_619c37650210c8/how-developers-can-use-digital-marketing-to-launch-and-grow-side-projects-5b0" target="_blank">How Developers Can Use Digital Marketing to Launch and Grow Side Projects 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 09:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sindhuja_ns_1e491ce1088d/deploy-applications-across-multiple-clusters-with-rhacm-gitops-1gff" target="_blank">Deploy Applications Across Multiple Clusters with RHACM + GitOps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 06:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +243,15 @@
                 <span class="title"><a href="https://gizmodo.com/m3gan-2-0-will-not-slay-in-japan-2000638204" target="_blank">‘M3GAN 2.0’ Will Not Slay in Japan</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-02 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/MAIN.jpg" alt="From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-stranding-2-kojima-film-influence-del-toro-2000614417" target="_blank">From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-02 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -284,15 +290,6 @@
                 <span class="time">2025-08-01 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1KMSWTGE0MRXAS0Q8DET86N/hero-image.png" alt="Apple&#x27;s Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-security-patch-fixes-chrome-vulnerability?utm_medium=RSS" target="_blank">Apple&#x27;s Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-01 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
