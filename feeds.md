@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 03:28:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-02 04:11:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 04:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +115,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race" target="_blank">Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-02 00:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/" target="_blank">Venture firm CRV raises $750M, downsizing after returning capital to investors</a></span>
                 <span class="feed">TechCrunch</span>
@@ -145,15 +166,6 @@
                 <span class="time">2025-08-01 20:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/under-rfk-jr-cdc-skips-study-on-vaccination-rates-quietly-posts-data-on-drop/" target="_blank">Under RFK Jr, CDC skips study on vaccination rates, quietly posts data on drop</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +192,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660" target="_blank">Hardening mode for the compiler</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 02:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Steam-Survey-July-2025" target="_blank">Steam Survey For July Shows Linux Use Approaching 3%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-02 00:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://git.hella.cheap/bob/candyfloss" target="_blank">candyfloss: an ergonomic python library for running video pipelines</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -193,24 +223,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/gamespot-silent-hill-f-has-the-potential-be-the-best-game-in-the-series-hands-on-impressions-1fff" target="_blank">GameSpot: Silent Hill F Has The Potential Be The Best Game In The Series | Hands-On Impressions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/3nginuity_/the-5-mb-homework-limit-that-turned-me-into-an-app-builder-222a" target="_blank">The 5 MB Homework Limit That Turned Me Into an App-Builder</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-01 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cerebras.ai/blog/introducing-cerebras-code" target="_blank">Cerebras Code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-01 22:04</span>
             </div>
         </div>
 </div>
@@ -251,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/chatgpt.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="ChatGPT users shocked to find private therapy sessions exposed in Google searches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/01/chatgpt-users-shocked-to-find-private-therapy-sessions-exposed-in-google-searches.html" target="_blank">ChatGPT users shocked to find private therapy sessions exposed in Google searches</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-01 22:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1KMSWTGE0MRXAS0Q8DET86N/hero-image.png" alt="Apple&#x27;s Latest Security Patch Fixes a Zero-Day Vulnerability Targeting Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -286,15 +307,6 @@
                 <span class="time">2025-08-01 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/elon-musk-trump.jpg" alt="Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-gave-millions-to-trump-after-publicly-blowing-up-their-bromance-2000637951" target="_blank">Elon Musk Gave Millions to Trump After Publicly Blowing Up Their Bromance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-01 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +339,13 @@
                 <span class="time">2025-08-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/canon.png" alt="Canon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3123/" target="_blank">Canon</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-01 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 04:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
