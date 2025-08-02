@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 13:10:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-02 14:01:29 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys" target="_blank">The ‘Epstein files’ implosion bleeds into foreign policy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/hivdrug-500x500.jpg" alt="Five children see HIV viral loads vanish after taking antiretroviral drugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/five-children-see-hiv-viral-loads-vanish-after-taking-antiretroviral-drugs/" target="_blank">Five children see HIV viral loads vanish after taking antiretroviral drugs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-02 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/02/what-founders-should-think-about-if-looking-to-raise-a-series-c/" target="_blank">What founders should think about if looking to raise a Series C</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/688cea11a43d9117bc647cbe/master/pass/Peacock-Feathers-Stunning-Can-Emit-Laser-Beams-Science-465851414.jpg" alt="Peacock Feathers Are Stunning. They Can Also Emit Laser Beams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -132,33 +159,6 @@
                 <span class="time">2025-08-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688cf94b749b64e31d10cc9d/master/pass/sec-roundup-google-age-1034439082-2226956223..jpg" alt="Google Will Use AI to Guess People’s Ages Based on Search History" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/" target="_blank">Google Will Use AI to Guess People’s Ages Based on Search History</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-02 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge" target="_blank">BougeRV’s portable solar fridge is quietly annoying</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-02 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race" target="_blank">Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-02 00:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +171,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-HID" target="_blank">Linux 6.17 Enables x86 MacBook Pro Touch Bars, Intel THC Wake-On-Touch</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-02 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://alexharri.com/blog/icelandic-name-declension-trie" target="_blank">Compressing Icelandic name declension patterns into a 3.27 kB trie</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-02 11:28</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://ladybird.org/newsletter/2025-07-31/" target="_blank">Ladybird Browser July Update</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-02 06:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9k5dk5v6bv9tuj0wsp42.png" alt="Introducing Niceshot - Turn your boring screenshots or images into stunning visuals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhataasim/introducing-niceshot-turn-your-boring-screenshots-or-images-into-stunning-visuals-44ic" target="_blank">Introducing Niceshot - Turn your boring screenshots or images into stunning visuals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 05:55</span>
             </div>
         </div>
 </div>
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
