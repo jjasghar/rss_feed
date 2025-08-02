@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 02:35:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-02 03:28:28 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 02:35 UTC</div>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 03:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +48,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5490426/dca-midair-collision-ntsb-hearing-plane-black-hawk-helicopter" target="_blank">3 big takeaways from the NTSB hearing on the DCA midair collision</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-02 01:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-250801_1754083636521_hpMain_2_4x3t_384.jpg" alt="Trump&#x27;s long history of bashing jobs report numbers dates back to 2016: ANALYSIS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trumps-long-history-bashing-jobs-report-numbers-dates/story?id=124294975" target="_blank">Trump&#x27;s long history of bashing jobs report numbers dates back to 2016: ANALYSIS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-01 23:55</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5482843/a-pediatrician-working-in-gaza-on-how-she-finds-the-will-to-keep-going" target="_blank">A pediatrician working in Gaza on how she finds the will to keep going</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-01 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/1/hear-from-the-former-guard-blowing-the-whistle-on-ghf-aid-sites-in-gaza?traffic_source=rss" target="_blank">Hear from the former guard blowing the whistle on GHF aid sites in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-01 20:16</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/lrr-july.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-app-release-roundup-july-2025" target="_blank">Linux App Release Roundup (July 2025)</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-02 03:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +211,6 @@
                 <span class="title"><a href="https://www.cerebras.ai/blog/introducing-cerebras-code" target="_blank">Cerebras Code</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-01 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wayback-0.2-Released" target="_blank">Wayback 0.2 Brings More Enhancements For This X11 Compatibility Layer</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-01 20:51</span>
             </div>
         </div>
 </div>
@@ -347,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 02:35 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 03:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
