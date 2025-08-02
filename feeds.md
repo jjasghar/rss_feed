@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 11:01:27 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-02 12:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/02/nx-s1-5490475/neobladder-bladder-reconstruction-deion-sanders-cancer" target="_blank">How surgeons build a new bladder for cancer patients like Deion Sanders</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +103,29 @@
                 <span class="time">2025-08-02 06:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/2/manhunt-for-ex-us-soldier-suspected-of-killing-4-in-montana-bar?traffic_source=rss" target="_blank">Manhunt for ex-US soldier suspected of killing 4 in Montana bar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-02 04:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/717498/brick-phone-screen-time-apps" target="_blank">I tried ‘Bricking’ my phone to fix my brain</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-02 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688d2e9c18c84140aee1360b/master/pass/Netflix-Movie-Guide-Happy-Gilmore-2-Culture-MCDNAGU_PA004.jpg" alt="The 45 Best Movies on Netflix Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/netflix-best-movies-this-week/" target="_blank">The 45 Best Movies on Netflix Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688cf94b749b64e31d10cc9d/master/pass/sec-roundup-google-age-1034439082-2226956223..jpg" alt="Google Will Use AI to Guess People’s Ages Based on Search History" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/01/venture-firm-crv-raises-750m-downsizing-after-returning-capital-to-investors/" target="_blank">Venture firm CRV raises $750M, downsizing after returning capital to investors</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-01 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans" target="_blank">Amazon eyes ads and upcharges for Alexa Plus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-01 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227154525-500x500.jpg" alt="With Trump’s cutbacks, crew heads for ISS unsure of when they’ll come back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/with-trumps-cutbacks-crew-heads-for-iss-unsure-of-when-theyll-come-back/" target="_blank">With Trump’s cutbacks, crew heads for ISS unsure of when they’ll come back</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-01 22:06</span>
             </div>
         </div>
 </div>
@@ -228,15 +233,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html" target="_blank">Friday Squid Blogging: A Case of Squid Fossil Misidentification</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-08-01 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html" target="_blank">Spying on People Through Airportr Luggage Delivery Service</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-01 11:07</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
