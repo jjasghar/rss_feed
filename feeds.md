@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-02 10:01:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-02 11:01:27 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 02, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5488809/russia-ukraine-war-ukrainians-return" target="_blank">Millions of Ukrainians abroad hope to return home once Russia&#x27;s invasion ends</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-02 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9c/live/3f03c2f0-6f85-11f0-8cb3-d7d6c377cb55.png" alt="Man, 76, remanded in custody on child cruelty charges after children fell ill at summer camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyep6j7z0zo?at_medium=RSS&at_campaign=rss" target="_blank">Man, 76, remanded in custody on child cruelty charges after children fell ill at summer camp</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-02 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +98,20 @@
                 <span class="time">2025-08-02 04:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-01-rt-jef-250801_1754050571922_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Former BLS commissioner condemns firing of his successor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Former BLS commissioner condemns firing of his successor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-02 01:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/01/nx-s1-5490426/dca-midair-collision-ntsb-hearing-plane-black-hawk-helicopter" target="_blank">3 big takeaways from the NTSB hearing on the DCA midair collision</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-02 01:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688cf94b749b64e31d10cc9d/master/pass/sec-roundup-google-age-1034439082-2226956223..jpg" alt="Google Will Use AI to Guess People’s Ages Based on Search History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/" target="_blank">Google Will Use AI to Guess People’s Ages Based on Search History</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-02 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2025-08-01 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688cf574e0a07815d4cc7190/master/pass/anthropic-openai-biz-2216956964.jpg" alt="Anthropic Revokes OpenAI&#x27;s Access to Claude" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/" target="_blank">Anthropic Revokes OpenAI&#x27;s Access to Claude</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-01 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/alphaevolve-399g" target="_blank">AlphaEvolve</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/shahidfoy/how-i-implemented-github-oauth2-into-my-spring-boot-angular-app-n1netails-5bo" target="_blank">How I Implemented GitHub OAuth2 into My Spring Boot + Angular App N1netails</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 04:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/lrr-july.jpg?resize=406%2C232&amp;ssl=1" alt="Linux App Release Roundup (July 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-app-release-roundup-july-2025" target="_blank">Linux App Release Roundup (July 2025)</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-02 03:17</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
