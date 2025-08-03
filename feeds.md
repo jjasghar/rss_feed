@@ -1,32 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 13:12:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 14:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/3/hamas-video-of-emaciated-captive-sparks-outrage-amid-witkoffs-israel-visit?traffic_source=rss" target="_blank">Hamas video of emaciated captive sparks outrage amid Witkoff’s Israel visit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491475/pope-leo-tells-1-million-catholic-youths-they-are-sign-different-world-is-possible" target="_blank">Pope Leo tells 1 million Catholic youths they are sign &#x27;different world is possible&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-03 12:36</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +97,38 @@
                 <span class="time">2025-08-03 07:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/82905700-701f-11f0-89ea-4d6f9851f623.jpg" alt="Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 07:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech" target="_blank">Brendan Carr declares victory over the First Amendment</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/" target="_blank">Inside OpenAI’s quest to make AI do anything for you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688cf4bcb961a04b338b3f70/master/pass/nintendo-switch-storage-gear-2207677079-1499849317.jpg" alt="The Nintendo Switch 2’s Biggest Problem Is Already Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/" target="_blank">The Nintendo Switch 2’s Biggest Problem Is Already Storage</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +156,20 @@
                 <span class="time">2025-08-03 02:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/02/tim-cook-reportedly-tells-employees-apple-must-win-in-ai/" target="_blank">Tim Cook reportedly tells employees Apple ‘must’ win in AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-02 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/" target="_blank">Lina Khan points to Figma IPO as vindication of M&amp;A scrutiny</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-02 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/02/anthropic-cuts-off-openais-access-to-its-claude-models/" target="_blank">Anthropic cuts off OpenAI’s access to its Claude models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-02 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-6.17" target="_blank">Apple HFS/HFS+ File-System Drivers See Many Fixes In Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-03 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +213,6 @@
                 <span class="title"><a href="https://stephango.com/ramblings" target="_blank">If You&#x27;re Remote, Ramble</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-03 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nandinishinduja/ai-in-coding-18j1" target="_blank">AI in Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 09:55</span>
             </div>
         </div>
 </div>
@@ -292,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
