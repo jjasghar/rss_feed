@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 17:02:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-03 18:01:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/03/family-of-kenyan-woman-agnes-wanjiru-allegedly-murdered-by-british-soldiers-decry-uk-investigation" target="_blank">Family of Kenyan woman allegedly murdered by UK soldiers criticise defence secretary</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0083/live/3d7e71b0-7065-11f0-89ea-4d6f9851f623.jpg" alt="Government plans to bring more Gazan children to UK for treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -92,20 +95,20 @@
                 <span class="time">2025-08-03 12:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491475/pope-leo-tells-1-million-catholic-youths-they-are-sign-different-world-is-possible" target="_blank">Pope Leo tells 1 million Catholic youths they are sign &#x27;different world is possible&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-03 12:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/03/sap-is-acquiring-smartrecruiters/" target="_blank">SAP is acquiring SmartRecruiters</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-03 17:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +152,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/" target="_blank">The uproar over Vogue’s AI-generated ad isn’t just about fashion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/gadgets/712844/today-im-toying-with" target="_blank">Today I&amp;#8217;m toying with</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-03 02:15</span>
             </div>
         </div>
 </div>
@@ -225,6 +219,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/MSO-Home-Business-for-Mac-2021-Lifetime-License.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This MacBook Pro + Microsoft Office bundle means business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/03/this-macbook-pro-microsoft-office-bundle-means-business.html" target="_blank">This MacBook Pro + Microsoft Office bundle means business</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/mummytat.jpg" alt="Impossibly Intricate Tattoos Found on 2,000-Year-Old ‘Ice Mummy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,15 +272,6 @@
                 <span class="time">2025-08-02 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Kpop-Demon-Hunters-Huntrix-Netflix.jpg" alt="‘KPop Demon Hunters’ and ‘Expedition 33’ Are Having a Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-and-expedition-33-are-having-a-moment-2000637221" target="_blank">‘KPop Demon Hunters’ and ‘Expedition 33’ Are Having a Moment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-02 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
