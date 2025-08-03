@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 07:02:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-03 08:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/82905700-701f-11f0-89ea-4d6f9851f623.jpg" alt="Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/3/ukraine-claims-drone-strike-on-oil-refinery-in-russia?traffic_source=rss" target="_blank">Ukraine claims drone strike on oil refinery in Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 06:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://news.sky.com/story/just-36-aid-trucks-entered-gaza-yesterday-palestinian-officials-claim-short-of-600-needed-13406084" target="_blank">Just 36 aid trucks entered Gaza yesterday, officials claim, as charity&#x27;s office hit by Israeli strike</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-03 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-food_6981136.jpg?20250802171744" alt="Just 36 aid trucks entered Gaza yesterday, Palestinian officials claim - short of 600 needed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/just-36-aid-trucks-entered-gaza-yesterday-palestinian-officials-claim-short-of-600-needed-13406084" target="_blank">Just 36 aid trucks entered Gaza yesterday, Palestinian officials claim - short of 600 needed</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-03 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e1/live/e5818a90-6ff8-11f0-89ea-4d6f9851f623.jpg" alt="Ukraine officials held in military drone corruption probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gq3xwr357o?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine officials held in military drone corruption probe</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 00:35</span>
             </div>
         </div>
 </div>
@@ -184,6 +181,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ioccc.org/2024/index.html" target="_blank">Twenty Eighth International Obfuscated C Code Contest</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-03 04:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowdz5ztij4i35ran22xz.png" alt="Amazon Q Developer Custom Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-server-25-10-replaces-wget-with-wcurl" target="_blank">wget Removed from Ubuntu Server 25.10 Default Install</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-03 02:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Rust" target="_blank">Linux 6.17 Getting More Rusty With Many Rust Language Additions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-03 00:42</span>
             </div>
         </div>
 </div>
@@ -297,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
