@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 19:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 20:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/rallies-held-in-brazil-in-support-of-embattled-bolsonaro-facing-legal-peril?traffic_source=rss" target="_blank">Rallies held in Brazil in support of embattled Bolsonaro facing legal peril</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/03/gunmen-kidnap-more-than-50-people-in-north-west-nigeria" target="_blank">Gunmen kidnap more than 50 people in north-west Nigeria</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-03 18:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/8/3/where-does-trump-stand-on-israels-starvation-of-palestinians?traffic_source=rss" target="_blank">Where does Trump stand on Israel’s starvation of Palestinians?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/03/family-of-kenyan-woman-agnes-wanjiru-allegedly-murdered-by-british-soldiers-decry-uk-investigation" target="_blank">Family of Kenyan woman allegedly murdered by UK soldiers criticise defence secretary</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0083/live/3d7e71b0-7065-11f0-89ea-4d6f9851f623.jpg" alt="Government plans to bring more Gazan children to UK for treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4e641p41po?at_medium=RSS&at_campaign=rss" target="_blank">Government plans to bring more Gazan children to UK for treatment</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 13:43</span>
             </div>
         </div>
 </div>
@@ -162,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6" target="_blank">This $1 Course Helped Me Launch a Micro SaaS in 10 Days</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/swift62-approachable-concurrency/en/headerimage/swift62-approachable-concurrency-1754243162604.jpeg" alt="Swift 6.2 Introduces Approachable Concurrency to Simplify Concurrent Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -204,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7" target="_blank">isupper, islower &amp; istitle in Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-6.17" target="_blank">Apple HFS/HFS+ File-System Drivers See Many Fixes In Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-03 13:34</span>
             </div>
         </div>
 </div>
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
