@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 22:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-03 23:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +58,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TX-RESIDISTRICTING_1754243688463_hpMain_4x3t_384.jpg" alt="Texas House Democrats plan to flee state to try to stop proposed congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-democrats-plan-flee-state-stop-proposed/story?id=124326241" target="_blank">Texas House Democrats plan to flee state to try to stop proposed congressional maps</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-03 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8856/live/548e07a0-70ae-11f0-89ea-4d6f9851f623.jpg" alt="Leaders condemn videos of emaciated hostages as Red Cross calls for access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crr2dwn7q40o?at_medium=RSS&at_campaign=rss" target="_blank">Leaders condemn videos of emaciated hostages as Red Cross calls for access</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-aid_6982199.jpg?20250803221041" alt="Hamas &#x27;ready&#x27; to deliver aid to hostages after outcry over footage of Israeli captive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-ready-to-deliver-aid-to-hostages-after-outcry-over-footage-of-israeli-captive-13406554" target="_blank">Hamas &#x27;ready&#x27; to deliver aid to hostages after outcry over footage of Israeli captive</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-03 20:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -74,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwy3j93xekmo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after fall at Oasis Wembley concert</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-03 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/rallies-held-in-brazil-in-support-of-embattled-bolsonaro-facing-legal-peril?traffic_source=rss" target="_blank">Rallies held in Brazil in support of embattled Bolsonaro facing legal peril</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/03/gunmen-kidnap-more-than-50-people-in-north-west-nigeria" target="_blank">Gunmen kidnap more than 50 people in north-west Nigeria</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-03 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/more-than-50-refugees-and-migrants-die-in-boat-sinking-off-yemeni-coast?traffic_source=rss" target="_blank">More than 50 refugees and migrants die in boat sinking off Yemeni coast</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 18:06</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hyperkai/rpartition-in-python-1me1" target="_blank">rpartition in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 22:00</span>
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://kashw1n.com/blog/nodejs-2025/" target="_blank">Modern Node.js Patterns</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-03 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma Adding Auto Day/Night Theme Switching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/kde-plasma-6-5-auto-change-theme-night" target="_blank">KDE Plasma Adding Auto Day/Night Theme Switching</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-03 18:06</span>
             </div>
         </div>
 </div>
@@ -299,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
