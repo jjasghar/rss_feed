@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 15:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-03 16:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/3/experts-say-israels-west-bank-demolitions-aim-to-drive-palestinians-away?traffic_source=rss" target="_blank">Experts say Israel’s West Bank demolitions aim to drive Palestinians away</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/threats-and-intimidation-stalling-top-icc-prosecutors-israel-case-report?traffic_source=rss" target="_blank">Threats and intimidation stalling top ICC prosecutor’s Israel case: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 10:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-steve-witkoff-gaza_6980273.jpg?20250801210900" alt="New US plan for Gaza starting to emerge despite sanitised tour for Trump peace envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/steve-witkoffs-sanitised-gaza-tour-snubbed-us-doctor-who-said-people-being-shot-like-rabbits-13406193" target="_blank">New US plan for Gaza starting to emerge despite sanitised tour for Trump peace envoy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-03 10:50</span>
             </div>
         </div>
 </div>
@@ -170,6 +160,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17" target="_blank">Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-03 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7" target="_blank">isupper, islower &amp; istitle in Python</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/harshm03/prims-algorithm-c-story-e7d" target="_blank">Prims Algorithm C++: Story</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Corsair-HX1200i-2025-Linux" target="_blank">Corsair HX1200i 2025 Power Supply Monitoring Now Works Under Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-03 10:39</span>
             </div>
         </div>
 </div>
@@ -286,12 +276,12 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753766563-20250802.png" alt="Saturday Morning Breakfast Cereal - Bomb" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1753766613-20250803.png" alt="Saturday Morning Breakfast Cereal - Golden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bomb" target="_blank">Saturday Morning Breakfast Cereal - Bomb</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/golden-3" target="_blank">Saturday Morning Breakfast Cereal - Golden</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-02 15:20</span>
+                <span class="time">2025-08-03 15:20</span>
             </div>
         </div>
 </div>
@@ -299,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
