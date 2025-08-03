@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 18:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 19:02:04 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/more-than-50-refugees-and-migrants-die-in-boat-sinking-off-yemeni-coast?traffic_source=rss" target="_blank">More than 50 refugees and migrants die in boat sinking off Yemeni coast</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 18:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cr4e641p41po?at_medium=RSS&at_campaign=rss" target="_blank">Government plans to bring more Gazan children to UK for treatment</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-03 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/3/hamas-video-of-emaciated-captive-sparks-outrage-amid-witkoffs-israel-visit?traffic_source=rss" target="_blank">Hamas video of emaciated captive sparks outrage amid Witkoff’s Israel visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 12:43</span>
             </div>
         </div>
 </div>
@@ -160,12 +162,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/swift62-approachable-concurrency/en/headerimage/swift62-approachable-concurrency-1754243162604.jpeg" alt="Swift 6.2 Introduces Approachable Concurrency to Simplify Concurrent Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/swift62-approachable-concurrency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.2 Introduces Approachable Concurrency to Simplify Concurrent Programming</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/fidelisesq/my-devops-portfolio-site-is-live-built-with-real-infrastructure-real-tools-4ip1" target="_blank">My DevOps Portfolio Site Is Live – Built with Real Infrastructure, Real Tools</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/research/persona-vectors" target="_blank">Anthropic: Persona Vectors</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-03 16:38</span>
             </div>
         </div>
 <div class="story">
@@ -195,29 +215,20 @@
                 <span class="time">2025-08-03 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/petercode/understanding-the-rethrow-statement-in-uniface-104-exception-handling-made-simple-3mf5" target="_blank">🔄 Understanding the Rethrow Statement in Uniface 10.4: Exception Handling Made Simple</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tossthedev/easy-ssl-certificates-for-your-homelab-services-using-nginx-proxy-manager-cloudflare-aep" target="_blank">Easy SSL Certificates for Your Homelab Services (Using Nginx Proxy Manager &amp; Cloudflare)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 11:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight.jpg" alt="‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/starfinder-afterlight-brings-paizos-ttrpg-to-video-games-2000638308" target="_blank">‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-03 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/MSO-Home-Business-for-Mac-2021-Lifetime-License.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This MacBook Pro + Microsoft Office bundle means business" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,15 +274,6 @@
                 <span class="time">2025-08-02 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/batman89.jpg" alt="‘Batman’ and ‘Casper’ Are Coming Back to Theaters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/batman-and-casper-are-coming-back-to-theaters-2000638303" target="_blank">‘Batman’ and ‘Casper’ Are Coming Back to Theaters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-02 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
