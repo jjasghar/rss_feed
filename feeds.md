@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 20:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 21:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/3/england-and-india-test-series-heads-to-monday-morning-thriller?traffic_source=rss" target="_blank">England and India Test series heads to Monday morning thriller</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9242/live/79dea000-7090-11f0-8679-c51cae5603aa.jpg" alt="Man dies after fall at Oasis Wembley concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy3j93xekmo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after fall at Oasis Wembley concert</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/8/3/experts-say-israels-west-bank-demolitions-aim-to-drive-palestinians-away?traffic_source=rss" target="_blank">Experts say Israel’s West Bank demolitions aim to drive Palestinians away</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb62/live/044b5b10-7074-11f0-88d7-3985e30ab48f.png" alt="Ukraine drone attack causes fire at Sochi oil depot, Russia says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine drone attack causes fire at Sochi oil depot, Russia says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/8/3/where-does-trump-stand-on-israels-starvation-of-palestinians?traffic_source=rss" target="_blank">Where does Trump stand on Israel’s starvation of Palestinians?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 14:15</span>
             </div>
         </div>
 </div>
@@ -163,12 +160,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv53bhr0mnkphpc9m0bs8.png" alt="Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5" target="_blank">Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 20:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6" target="_blank">This $1 Course Helped Me Launch a Micro SaaS in 10 Days</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming" target="_blank">Freshwater loss from land is the lead driver of sea-level rise</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-03 19:49</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +213,20 @@
                 <span class="time">2025-08-03 16:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17" target="_blank">Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-03 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7" target="_blank">isupper, islower &amp; istitle in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 14:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/lucy-edgerunners-guiltygear.jpg" alt="‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-star-lucy-finally-comes-to-guilty-gear-strive-2000638361" target="_blank">‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-03 20:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight.jpg" alt="‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -228,6 +234,15 @@
                 <span class="title"><a href="https://gizmodo.com/starfinder-afterlight-brings-paizos-ttrpg-to-video-games-2000638308" target="_blank">‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-03 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1188.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch as the 11&#x27;8&quot; bridge eats an RV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/03/watch-as-the-118-bridge-eats-an-rv.html" target="_blank">Watch as the 11&#x27;8&quot; bridge eats an RV</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-03 17:49</span>
             </div>
         </div>
 <div class="story">
@@ -257,24 +272,6 @@
                 <span class="time">2025-08-03 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/09/legend-of-zelda-breath-of-the-wild-game-of-the-year-dice-2018.jpg?fit=1920%2C1080&amp;quality=60&amp;ssl=1" alt="Feeling lonely in Hyrule? Fan-made mod adds co-op to The Legend of Zelda: Tears of the Kingdom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/02/feeling-lonely-in-hyrule-fan-made-mod-adds-co-op-to-the-legend-of-zelda-tears-of-the-kingdom.html" target="_blank">Feeling lonely in Hyrule? Fan-made mod adds co-op to The Legend of Zelda: Tears of the Kingdom</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-02 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Gunter-Nuyts-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Radioactive rhino horns deter poaching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/02/radioactive-rhino-horns-deter-poaching.html" target="_blank">Radioactive rhino horns deter poaching</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-02 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
