@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 16:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-03 17:02:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/8/3/experts-say-israels-west-bank-demolitions-aim-to-drive-palestinians-away?traffic_source=rss" target="_blank">Experts say Israel’s West Bank demolitions aim to drive Palestinians away</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb62/live/044b5b10-7074-11f0-88d7-3985e30ab48f.png" alt="Ukraine drone attack causes fire at Sochi oil depot, Russia says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine drone attack causes fire at Sochi oil depot, Russia says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 14:25</span>
             </div>
         </div>
 <div class="story">
@@ -82,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491475/pope-leo-tells-1-million-catholic-youths-they-are-sign-different-world-is-possible" target="_blank">Pope Leo tells 1 million Catholic youths they are sign &#x27;different world is possible&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-03 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/threats-and-intimidation-stalling-top-icc-prosecutors-israel-case-report?traffic_source=rss" target="_blank">Threats and intimidation stalling top ICC prosecutor’s Israel case: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 10:57</span>
             </div>
         </div>
 </div>
@@ -160,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fidelisesq/my-devops-portfolio-site-is-live-built-with-real-infrastructure-real-tools-4ip1" target="_blank">My DevOps Portfolio Site Is Live – Built with Real Infrastructure, Real Tools</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-QAT-Crypto-Linux-6.17" target="_blank">Intel QuickAssist Hit By Second Demotion In Linux 6.17 Due To Lack Of Kernel Benefit</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/tossthedev/easy-ssl-certificates-for-your-homelab-services-using-nginx-proxy-manager-cloudflare-aep" target="_blank">Easy SSL Certificates for Your Homelab Services (Using Nginx Proxy Manager &amp; Cloudflare)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harshm03/prims-algorithm-c-story-e7d" target="_blank">Prims Algorithm C++: Story</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 10:45</span>
             </div>
         </div>
 </div>
@@ -289,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
