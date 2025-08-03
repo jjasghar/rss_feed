@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 04:19:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-03 05:07:33 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 04:19 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 05:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/us-museum-denies-political-pressure-in-removal-of-trump-impeachment-display?traffic_source=rss" target="_blank">US museum denies political pressure in removal of Trump impeachment display</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 03:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-250801_1754083636521_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump, Schumer trade barbs over Senate nominations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump, Schumer trade barbs over Senate nominations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-03 03:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-food_6981136.jpg?20250802171744" alt="Just 36 aid trucks entered Gaza yesterday, Palestinian officials claim - short of 600 needed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/just-36-aid-trucks-entered-gaza-yesterday-palestinian-officials-claim-short-of-600-needed-13406084" target="_blank">Just 36 aid trucks entered Gaza yesterday, Palestinian officials claim - short of 600 needed</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-03 02:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e1/live/e5818a90-6ff8-11f0-89ea-4d6f9851f623.jpg" alt="Ukraine officials held in military drone corruption probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/02/nx-s1-5487274/lebanon-mourns-beloved-artist-ziad-rahbani" target="_blank">Lebanon mourns beloved artist Ziad Rahbani</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-02 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/2/us-authorities-investigating-ex-trump-prosecutor-jack-smith?traffic_source=rss" target="_blank">US authorities investigating ex-Trump prosecutor Jack Smith</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-02 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/2/siraj-strikes-after-jaiswal-helps-india-set-england-daunting-target?traffic_source=rss" target="_blank">Siraj strikes after Jaiswal helps India set England daunting target</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-02 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/Jack-Smith-1-gty-gmh-250802_1754158558207_hpMain_4x3t_384.jpg" alt="Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/office-special-counsel-opened-hatch-act-probe-jack/story?id=124312950" target="_blank">Office of Special Counsel says it&#x27;s opened Hatch Act probe of Jack Smith</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-02 18:47</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibva8l7v1qh9d7k3nwm2.png" alt="Created a notion template for Detailed Software Engineering Notes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohitms007/created-a-notion-template-for-detailed-software-engineering-notes-1g1b" target="_blank">Created a notion template for Detailed Software Engineering Notes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 04:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowdz5ztij4i35ran22xz.png" alt="Amazon Q Developer Custom Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +219,6 @@
                 <span class="title"><a href="https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/" target="_blank">C++26 Reflections adventures and compile-time UML</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-03 00:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg" target="_blank">AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 23:45</span>
             </div>
         </div>
 </div>
@@ -295,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 04:19 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
