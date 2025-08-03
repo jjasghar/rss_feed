@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 09:01:38 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-03 10:01:31 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491443/dog-world-surfing-championships" target="_blank">Who&#x27;s the top dog? Wave-riding canines compete in the World Dog Surfing Championships</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-03 09:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-midterms-landscape-jg-cf1943.jpg" alt="Democrats work to transcend weak party brand by exploiting Trump&#x27;s problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/democrats-work-transcend-weak-party-brand-exploiting-trumps-problems-rcna221330" target="_blank">Democrats work to transcend weak party brand by exploiting Trump&#x27;s problems</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/82905700-701f-11f0-89ea-4d6f9851f623.jpg" alt="Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine drone attack sparks fire at Sochi oil depot, Russian authorities say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-03 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b664/live/8468b330-6fa0-11f0-b5fb-6f47bc0a9825.jpg" alt="Crackdown on Channel crossing social media adverts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgm2y24xjgko?at_medium=RSS&at_campaign=rss" target="_blank">Crackdown on Channel crossing social media adverts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 07:20</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491414/senate-confirmations-trump-schumer" target="_blank">Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to &#x27;go to hell&#x27;</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-03 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/us-museum-denies-political-pressure-in-removal-of-trump-impeachment-display?traffic_source=rss" target="_blank">US museum denies political pressure in removal of Trump impeachment display</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 03:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-11-gty-gmh-250801_1754083636521_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump, Schumer trade barbs over Senate nominations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895" target="_blank">Trump admin live updates: Trump, Schumer trade barbs over Senate nominations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-03 03:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-food_6981136.jpg?20250802171744" alt="Just 36 aid trucks entered Gaza yesterday, officials claim, as charity&#x27;s office hit by Israeli strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/just-36-aid-trucks-entered-gaza-yesterday-palestinian-officials-claim-short-of-600-needed-13406084" target="_blank">Just 36 aid trucks entered Gaza yesterday, officials claim, as charity&#x27;s office hit by Israeli strike</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-03 02:31</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nandinishinduja/ai-in-coding-18j1" target="_blank">AI in Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/asrainas/why-every-new-framework-feels-the-same-and-why-thats-a-good-thing-5dl4" target="_blank">Why Every New Framework Feels the Same (And Why That’s a Good Thing)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 05:32</span>
@@ -209,20 +217,20 @@
                 <span class="time">2025-08-03 03:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="wget Removed from Ubuntu Server 25.10 Default Install" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-server-25-10-replaces-wget-with-wcurl" target="_blank">wget Removed from Ubuntu Server 25.10 Default Install</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-03 02:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Depastrum-extinct-jellyfish.jpg" alt="Tourist Spots ‘Extinct’ Jellyfish Not Seen in 50 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tourist-spots-extinct-jellyfish-not-seen-in-50-years-2000638048" target="_blank">Tourist Spots ‘Extinct’ Jellyfish Not Seen in 50 Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-03 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/09/legend-of-zelda-breath-of-the-wild-game-of-the-year-dice-2018.jpg?fit=1920%2C1080&amp;quality=60&amp;ssl=1" alt="Feeling lonely in Hyrule? Fan-made mod adds co-op to The Legend of Zelda: Tears of the Kingdom" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +276,6 @@
                 <span class="time">2025-08-02 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/m3gan2.jpg" alt="‘M3GAN 2.0’ Will Not Slay in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/m3gan-2-0-will-not-slay-in-japan-2000638204" target="_blank">‘M3GAN 2.0’ Will Not Slay in Japan</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-02 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
