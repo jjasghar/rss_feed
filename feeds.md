@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 14:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 15:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-bottom-line/2025/8/3/where-does-trump-stand-on-israels-starvation-of-palestinians?traffic_source=rss" target="_blank">Where does Trump stand on Israel’s starvation of Palestinians?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0083/live/3d7e71b0-7065-11f0-89ea-4d6f9851f623.jpg" alt="Government plans to bring more Gazan children to UK for treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr4e641p41po?at_medium=RSS&at_campaign=rss" target="_blank">Government plans to bring more Gazan children to UK for treatment</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-03 13:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491443/dog-world-surfing-championships" target="_blank">Who&#x27;s the top dog? Wave-riding canines compete in the World Dog Surfing Championships</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-03 09:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250729-midterms-landscape-jg-cf1943.jpg" alt="Democrats work to transcend weak party brand by exploiting Trump&#x27;s problems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/democrats-work-transcend-weak-party-brand-exploiting-trumps-problems-rcna221330" target="_blank">Democrats work to transcend weak party brand by exploiting Trump&#x27;s problems</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-protest-sydney_6981518.jpg?20250803095734" alt="Sydney Harbour Bridge pro-Palestine protest so busy it was &#x27;perilous&#x27;, police chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-steve-witkoff-gaza_6980273.jpg?20250801210900" alt="New US plan for Gaza starting to emerge despite sanitised tour for Trump peace envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sydney-harbour-bridge-pro-palestine-protest-so-busy-it-was-perilous-police-chief-says-13406126" target="_blank">Sydney Harbour Bridge pro-Palestine protest so busy it was &#x27;perilous&#x27;, police chief says</a></span>
+                <span class="title"><a href="https://news.sky.com/story/steve-witkoffs-sanitised-gaza-tour-snubbed-us-doctor-who-said-people-being-shot-like-rabbits-13406193" target="_blank">New US plan for Gaza starting to emerge despite sanitised tour for Trump peace envoy</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-03 07:44</span>
+                <span class="time">2025-08-03 10:50</span>
             </div>
         </div>
 </div>
@@ -164,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hyperkai/isupper-islower-istitle-in-python-4kd7" target="_blank">isupper, islower &amp; istitle in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-HFS-Linux-6.17" target="_blank">Apple HFS/HFS+ File-System Drivers See Many Fixes In Linux 6.17</a></span>
                 <span class="feed">Phoronix</span>
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Corsair-HX1200i-2025-Linux" target="_blank">Corsair HX1200i 2025 Power Supply Monitoring Now Works Under Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-03 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://stephango.com/ramblings" target="_blank">If You&#x27;re Remote, Ramble</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-03 10:32</span>
             </div>
         </div>
 </div>
@@ -293,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
