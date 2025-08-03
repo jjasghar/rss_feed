@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 21:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 22:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491540/russian-volcano-erupts-days-after-quake-shakes-region" target="_blank">Russian volcano erupts days after monster quake shakes region</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-03 21:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +103,20 @@
                 <span class="time">2025-08-03 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/3/experts-say-israels-west-bank-demolitions-aim-to-drive-palestinians-away?traffic_source=rss" target="_blank">Experts say Israel’s West Bank demolitions aim to drive Palestinians away</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/" target="_blank">Apple might be building its own AI ‘answer engine’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-03 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +162,20 @@
                 <span class="time">2025-08-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/03/the-uproar-over-vogues-ai-generated-ad-isnt-just-about-fashion/" target="_blank">The uproar over Vogue’s AI-generated ad isn’t just about fashion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv53bhr0mnkphpc9m0bs8.png" alt="Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,30 +204,21 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/swift62-approachable-concurrency/en/headerimage/swift62-approachable-concurrency-1754243162604.jpeg" alt="Swift 6.2 Introduces Approachable Concurrency to Simplify Concurrent Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/swift62-approachable-concurrency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Swift 6.2 Introduces Approachable Concurrency to Simplify Concurrent Programming</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fidelisesq/my-devops-portfolio-site-is-live-built-with-real-infrastructure-real-tools-4ip1" target="_blank">My DevOps Portfolio Site Is Live – Built with Real Infrastructure, Real Tools</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 16:49</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/research/persona-vectors" target="_blank">Anthropic: Persona Vectors</a></span>
+                <span class="title"><a href="https://kashw1n.com/blog/nodejs-2025/" target="_blank">Modern Node.js Patterns</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-03 16:38</span>
+                <span class="time">2025-08-03 19:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/kde-logo-.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Plasma Adding Auto Day/Night Theme Switching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/kde-plasma-6-5-auto-change-theme-night" target="_blank">KDE Plasma Adding Auto Day/Night Theme Switching</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-03 18:06</span>
             </div>
         </div>
 </div>
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
