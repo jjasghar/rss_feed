@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 03:33:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-03 04:19:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 03:34 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, August 03, 2025 - 04:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,12 +164,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowdz5ztij4i35ran22xz.png" alt="Amazon Q Developer Custom Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/peepeepopapapeepeepo/amazon-q-developer-custom-agents-pbl" target="_blank">Amazon Q Developer Custom Agents</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-03 04:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Feudeka.id%2Fimages%2Fllm-routing-diagram.webp" alt="Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tapskuy/rahasia-efisiensi-ai-terungkap-ini-cara-llm-routing-memilih-llm-paling-cerdas-untuk-kebutuhan-anda-109o" target="_blank">Rahasia Efisiensi AI Terungkap! Ini Cara LLM Routing Memilih LLM Paling Cerdas untuk Kebutuhan Anda</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 03:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-logo.jpg?resize=406%2C232&amp;ssl=1" alt="wget Removed from Ubuntu Server 25.10 Default Install" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-server-25-10-replaces-wget-with-wcurl" target="_blank">wget Removed from Ubuntu Server 25.10 Default Install</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-03 02:28</span>
             </div>
         </div>
 <div class="story">
@@ -184,37 +202,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/" target="_blank">C++26 Reflections adventures and compile-time UML</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-03 00:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/aws-cloud-path-week-13-aws-networking-workshop-part-3-security-controls-deep-dive-dkg" target="_blank">AWS Cloud Path Week 13: AWS Networking Workshop Part 3 - Security Controls Deep Dive</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-02 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/aws-cloud-path-week-11-aws-networking-workshop-part-1-building-secure-vpc-infrastructure-4c5c" target="_blank">AWS Cloud Path Week 11: AWS Networking Workshop Part 1 - Building Secure VPC Infrastructure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dm8ry/find-untagged-aws-resources-across-all-regions-with-python-12nk" target="_blank">Find Untagged AWS Resources Across All Regions with Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/protsenko/dev-diary-2-cloud-security-plugin-for-jetbrains-ide-3mmo" target="_blank">Dev Diary #2: Cloud Security plugin for JetBrains IDE</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-02 20:49</span>
             </div>
         </div>
 </div>
@@ -222,6 +222,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/09/legend-of-zelda-breath-of-the-wild-game-of-the-year-dice-2018.jpg?fit=1920%2C1080&amp;quality=60&amp;ssl=1" alt="Feeling lonely in Hyrule? Fan-made mod adds co-op to The Legend of Zelda: Tears of the Kingdom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/02/feeling-lonely-in-hyrule-fan-made-mod-adds-co-op-to-the-legend-of-zelda-tears-of-the-kingdom.html" target="_blank">Feeling lonely in Hyrule? Fan-made mod adds co-op to The Legend of Zelda: Tears of the Kingdom</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-02 21:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Gunter-Nuyts-Shutterstock.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Radioactive rhino horns deter poaching" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +276,6 @@
                 <span class="time">2025-08-02 14:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/MAIN.jpg" alt="From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-stranding-2-kojima-film-influence-del-toro-2000614417" target="_blank">From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-02 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 03:34 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 04:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
