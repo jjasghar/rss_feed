@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 06:04:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-04 07:07:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 06:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 07:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d094/live/28bf6f50-70c8-11f0-af20-030418be2ca5.jpg" alt="Dozens of migrants die in boat capsize off Yemen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens of migrants die in boat capsize off Yemen</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-04 06:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/south-korea-dismantles-border-loudspeakers-to-ease-tensions-with-n-korea?traffic_source=rss" target="_blank">South Korea dismantles border loudspeakers to ease tensions with N Korea</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-04 03:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/bf17c380-70e6-11f0-8dbd-f3d32ebd3327.jpg" alt="Weather warnings as Storm Floris disrupts travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gq3n049jno?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings as Storm Floris disrupts travel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-04 03:04</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +95,6 @@
                 <span class="title"><a href="https://news.sky.com/story/it-is-truly-monstrous-inside-the-besieged-sudanese-city-where-families-are-forced-to-eat-animal-feed-to-live-13406258" target="_blank">&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-04 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TX-RESIDISTRICTING_1754243688463_hpMain_4x3t_384.jpg" alt="Texas Republicans say &#x27;hunt down&#x27; Democrats who are leaving state over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-democrats-plan-flee-state-stop-proposed/story?id=124326241" target="_blank">Texas Republicans say &#x27;hunt down&#x27; Democrats who are leaving state over redistricting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-04 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/4/white-house-advisers-defend-trumps-firing-of-official-behind-jobs-data?traffic_source=rss" target="_blank">White House advisers defend Trump’s firing of official behind jobs data</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 01:28</span>
             </div>
         </div>
 </div>
@@ -309,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 07:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
