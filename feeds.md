@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 14:04:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-04 15:01:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5492152/gaza-hostage-videos-israel" target="_blank">Videos of Israeli hostages in Gaza increase pressure on Netanyahu for a ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95dc/live/c6247ad0-712a-11f0-89ea-4d6f9851f623.jpg" alt="Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-04 13:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +98,29 @@
                 <span class="time">2025-08-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5453731/nasa-carbon-dioxide-satellite-mission-threatened" target="_blank">Why a NASA satellite that scientists and farmers rely on may be destroyed on purpose</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/4/unprecedented-water-crisis-in-gaza-amid-israeli-induced-starvation?traffic_source=rss" target="_blank">Unprecedented water crisis in Gaza amid Israeli-induced starvation</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 09:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/lyft-and-chinas-baidu-look-to-bring-robotaxis-to-europe-next-year/" target="_blank">Lyft and China’s Baidu look to bring robotaxis to Europe next year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-500x500.jpeg" alt="Idaho has become the wild frontier of vaccination policy and public health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/idaho-has-become-the-wild-frontier-of-vaccination-policy-and-public-health/" target="_blank">Idaho has become the wild frontier of vaccination policy and public health</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 14:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688d9b1d3410039e4665694b/master/pass/The%20Best%20Handheld%20Game%20Consoles.png" alt="8 Best Handheld Gaming Consoles (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +157,29 @@
                 <span class="time">2025-08-04 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687fb82a545a70a0717c763a/master/pass/072125-military-slot-machines.jpg" alt="The US Military Is Raking in Millions From On-Base Slot Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/" target="_blank">The US Military Is Raking in Millions From On-Base Slot Machines</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-04 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/P90592675_highRes_employees-assembling-500x500.jpg" alt="BMW’s next EV is its most sustainable car yet—here’s why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/how-bmw-slashed-the-carbon-footprint-of-its-next-ev-the-2026-ix3/" target="_blank">BMW’s next EV is its most sustainable car yet—here’s why</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/04/cross-pollination-as-a-strategic-advantage-for-forward-thinking-organizations/" target="_blank">Cross-pollination as a strategic advantage for forward-thinking organizations</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwgvfexi4plai2sga2cy.png" alt="Human Resources Translation Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/elenahartmann/human-resources-translation-software-589d" target="_blank">Human Resources Translation Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 14:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,28 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AppArmor" target="_blank">AppArmor For Linux 6.17 Set To Introduce AF_UNIX Mediation, Other Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-04 12:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7r6nni8c5pvvn0nd86w.png" alt="Building an Input with Dropdown in Shadcn/ui" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/surajondev/building-an-input-with-dropdown-in-shadcnui-32jj" target="_blank">Building an Input with Dropdown in Shadcn/ui</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2506.14272" target="_blank">GHz spiking neuromorphic photonic chip with in-situ training</a></span>
+                <span class="title"><a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" target="_blank">Century-Old Stone “Tsunami Stones” Dot Japan&#x27;s Coastline (2015)</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 11:21</span>
+                <span class="time">2025-08-04 12:51</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/morningcheck1.jpg" alt="EA Explains Why Fans Aren’t Getting The Sims 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sims-5-dynasty-warriors-remaster-call-duty-union-switch-2-2000614479" target="_blank">EA Explains Why Fans Aren’t Getting The Sims 5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/3i.jpg?fit=1840%2C1200&amp;quality=60&amp;ssl=1" alt="Is 3I/ATLAS, the latest interstellar object, an alien spaceship?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/is-3i-atlas-the-latest-interstellar-object-an-alien-spaceship.html" target="_blank">Is 3I/ATLAS, the latest interstellar object, an alien spaceship?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 13:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1KR122YJMEV2HB9BY7NS0KR/hero-image.png" alt="Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/trumps-golden-dome-may-be-ready-for-testing-just-before-the-2028-election-report-2000638175" target="_blank">Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/81c79847fc856c696737fd4565c0cb9b.jpg" alt="Here’s The New Price Of Every Nintendo Console And Accessory Thanks To Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-prices-pro-controllers-tariffs-amiibo-2000614471" target="_blank">Here’s The New Price Of Every Nintendo Console And Accessory Thanks To Tariffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1SQ65D19RWS2A4J8MPE7TQM/hero-image.png" alt="This Eufy Solar-Powered Four-Camera Security Kit Is at Its Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-security-solo-cam-e30-deal?utm_medium=RSS" target="_blank">This Eufy Solar-Powered Four-Camera Security Kit Is at Its Lowest Price Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 12:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
