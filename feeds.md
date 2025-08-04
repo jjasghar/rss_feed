@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 15:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 16:02:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/deadly-moscow-concert-hall-attack-suspects-appear-in-court-for-trial?traffic_source=rss" target="_blank">Deadly Moscow concert hall attack suspects appear in court for trial</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 15:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/04/african-migrants-killed-capsized-boat-shipwreck-yemen" target="_blank">Scores dead as boat carrying more than 150 people capsizes off Yemen</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-04 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/starving-gaza-children-risking-their-lives-to-get-food?traffic_source=rss" target="_blank">Starving Gaza children risking their lives to get food</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-04 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-poster-DB-250804_1754299658008_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff to head to Russia for &#x27;last chance&#x27; Ukraine ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-envoy-witkoff-head-russia-chance-ukraine-talks/story?id=124336363" target="_blank">Trump envoy Witkoff to head to Russia for &#x27;last chance&#x27; Ukraine ceasefire talks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-04 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5387722/yosemite-workers-housing-volunteer-no-pay" target="_blank">Yosemite employees worked for weeks with no pay before the government hired them</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 10:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +233,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/250804-Adopt-Love-MUTTS-square-1.png?fit=1200%2C700&amp;quality=55&amp;ssl=1" alt="Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/cartoonist-patrick-mcdonnell-and-his-mutts-comic-strip-celebrate-adopt-love-encouraging-pet-adoption.html" target="_blank">Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/bf61.jpg" alt="EA ‘Guarantees’ Battlefield 6 Will Run At 60FPS Or More On All Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-guarantees-battlefield-6-will-run-at-60fps-or-more-on-all-platforms-2000614503" target="_blank">EA ‘Guarantees’ Battlefield 6 Will Run At 60FPS Or More On All Platforms</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 15:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JV5DGY2NBXASXT124DVD9ZHB/hero-image.jpg" alt="This Powerful JBL Outdoor Speaker Is $160 Off at Woot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-extreme-outdoor-4-speaker-deal?utm_medium=RSS" target="_blank">This Powerful JBL Outdoor Speaker Is $160 Off at Woot</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/morningcheck1.jpg" alt="EA Explains Why Fans Aren’t Getting The Sims 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -262,38 +286,20 @@
                 <span class="time">2025-08-04 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hest-til-foder-1920x900-min.jpg?fit=1216%2C570&amp;quality=60&amp;ssl=1" alt="Aalborg zoo wants donations of unwanted pets. The cats are hungry." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/aalborg-zoo-wants-donations-of-unwanted-pets-the-cats-are-hungry.html" target="_blank">Aalborg zoo wants donations of unwanted pets. The cats are hungry.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/MS-0804-spider-man-brand-new-day.jpg" alt="Tom Holland Gives Us a Sneaky Look at Spider-Man’s New Web Shooters in ‘Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-set-pictures-webshooters-2000638370" target="_blank">Tom Holland Gives Us a Sneaky Look at Spider-Man’s New Web Shooters in ‘Brand New Day’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2224746401.jpg" alt="Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-golden-dome-may-be-ready-for-testing-just-before-the-2028-election-report-2000638175" target="_blank">Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-04 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1753766683-20250804.png" alt="Saturday Morning Breakfast Cereal - Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bot-2" target="_blank">Saturday Morning Breakfast Cereal - Bot</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -312,22 +318,13 @@
                 <span class="time">2025-08-04 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753766613-20250803.png" alt="Saturday Morning Breakfast Cereal - Golden" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/golden-3" target="_blank">Saturday Morning Breakfast Cereal - Golden</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
