@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 19:03:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 20:01:37 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 19:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +109,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/Dream-Chaser-Full-Profile-Landscape-2-500x500.jpg" alt="Is the Dream Chaser space plane ever going to launch into orbit?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" target="_blank">Is the Dream Chaser space plane ever going to launch into orbit?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders" target="_blank">ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-04 19:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/" target="_blank">Google says its AI-based bug hunter found 20 security vulnerabilities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 19:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -126,38 +162,38 @@
                 <span class="time">2025-08-04 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad" target="_blank">Google dunks on Apple Intelligence in new Pixel 10 ad</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-04 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68908b276bb0719eceabf2e0/master/pass/GettyImages-1353271240.jpg" alt="Science Reveals the Surprising Origins of the Potato" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/" target="_blank">Science Reveals the Surprising Origins of the Potato</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-04 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-905173626-500x500.jpg" alt="Four radioactive wasp nests found on South Carolina nuclear facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/radioactive-wasp-nests-spring-up-in-decadesold-nuclear-site-in-south-carolina/" target="_blank">Four radioactive wasp nests found on South Carolina nuclear facility</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ederwii/ai-context-documentation-the-missing-link-in-ai-assisted-development-5ha6" target="_blank">AI-Context Documentation: The Missing Link in AI-Assisted Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546068&w=600" alt="WebAssembly: From Browser Plugin to the Next Universal Runtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/webassembly-from-browser-plugin-to-the-next-univer" target="_blank">WebAssembly: From Browser Plugin to the Next Universal Runtime</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.51-rc0" target="_blank">Git 2.51-rc0 Makes More Preparations For Git 3.0 Where It Will Use SHA-256 By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-04 18:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,33 +221,6 @@
                 <span class="time">2025-08-04 16:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543817&w=600" alt="Deep Observability in Node.js Using OpenTelemetry and Pino" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-nodejs-opentelemetry-pino" target="_blank">Deep Observability in Node.js Using OpenTelemetry and Pino</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/04/cross-pollination-as-a-strategic-advantage-for-forward-thinking-organizations/" target="_blank">Cross-pollination as a strategic advantage for forward-thinking organizations</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://afterburnout.co/p/ai-promised-to-make-us-more-efficient" target="_blank">AI promised efficiency. Instead, it&#x27;s making us work harder</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,12 +241,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/e14f0d917be780e38b19abb2fd3b2b80.jpg" alt="Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/deus-ex-voice-actor-dont-use-ai-adam-jensen-cyberpunk-toufexis-2000614565" target="_blank">Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 18:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1V02SD4P14MZKZST7KWXHC1/hero-image.png" alt="This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/screenfloat-instantly-blocks-out-sensitive-info-from-your-mac-screenshots?utm_medium=RSS" target="_blank">This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/Donald-Trump-Mugshot.jpg?fit=1500%2C1086&amp;quality=60&amp;ssl=1" alt="Trump rages at Senator Warren" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/trump-rages-at-senator-warren.html" target="_blank">Trump rages at Senator Warren</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 18:26</span>
             </div>
         </div>
 <div class="story">
@@ -265,24 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-deletes-and-reposts-tweet-about-sydney-sweeney-several-times-2000638509" target="_blank">Trump Deletes and Reposts Tweet About Sydney Sweeney Several Times</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-04 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/nz-e1754325791924.jpg?fit=600%2C396&amp;quality=60&amp;ssl=1" alt="Woman stuffs 2-year-old in luggage, gets arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/woman-stuffs-2-year-old-in-luggage-gets-arrested.html" target="_blank">Woman stuffs 2-year-old in luggage, gets arrested</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/250804-Adopt-Love-MUTTS-square-1.png?fit=1200%2C700&amp;quality=55&amp;ssl=1" alt="Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/cartoonist-patrick-mcdonnell-and-his-mutts-comic-strip-celebrate-adopt-love-encouraging-pet-adoption.html" target="_blank">Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 15:44</span>
             </div>
         </div>
 </div>
@@ -322,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
