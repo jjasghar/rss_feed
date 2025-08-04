@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 11:02:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-04 12:02:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 11:02 UTC</div>
+    <div class="newspaper-date">Monday, August 04, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/starving-gaza-children-risking-their-lives-to-get-food?traffic_source=rss" target="_blank">Starving Gaza children risking their lives to get food</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 11:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-poster-DB-250804_1754299658008_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff to head to Russia for &#x27;last chance&#x27; Ukraine ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens of migrants die in boat capsize off Yemen</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-04 06:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/south-korea-dismantles-border-loudspeakers-to-ease-tensions-with-n-korea?traffic_source=rss" target="_blank">South Korea dismantles border loudspeakers to ease tensions with N Korea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 03:46</span>
             </div>
         </div>
 </div>
@@ -166,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7r6nni8c5pvvn0nd86w.png" alt="Building an Input with Dropdown in Shadcn/ui" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/surajondev/building-an-input-with-dropdown-in-shadcnui-32jj" target="_blank">Building an Input with Dropdown in Shadcn/ui</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544020&w=600" alt="Real-Time Flight Schedule Changes at Scale: Event-Driven Pipelines With gRPC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-flight-schedule-updates-event-driven-grpc" target="_blank">Real-Time Flight Schedule Changes at Scale: Event-Driven Pipelines With gRPC</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-04 11:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,22 +215,18 @@
                 <span class="time">2025-08-04 09:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nencywilliams/how-to-set-up-a-marketplace-payment-workflow-with-payfast-split-payments-dij" target="_blank">How to Set Up a Marketplace Payment Workflow with PayFast Split Payments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-49m2" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 06:00</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/first-sentencing-in-scheme-to-help-north-koreans-infiltrate-us-companies.html" target="_blank">First Sentencing in Scheme to Help North Koreans Infiltrate US Companies</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-04 11:01</span>
             </div>
         </div>
 </div>
@@ -224,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/cart.jpg" alt="Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-nintendo-survey-game-key-carts-2000614465" target="_blank">Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Super-Soft-1800-Series-Bamboo-Blend-6-Piece-Sheet-Set.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="These $37.99 sheets might be softer than your will to get out of bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +288,6 @@
                 <span class="time">2025-08-03 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/mummytat.jpg" alt="Impossibly Intricate Tattoos Found on 2,000-Year-Old ‘Ice Mummy’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/impossibly-intricate-tattoos-found-on-2000-year-old-ice-mummy-2000637883" target="_blank">Impossibly Intricate Tattoos Found on 2,000-Year-Old ‘Ice Mummy’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-03 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
