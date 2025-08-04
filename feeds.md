@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 02:46:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 03:36:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 02:46 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 03:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -200,10 +197,10 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/newelle-overengineered.jpg?resize=406%2C232&amp;ssl=1" alt="Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop" target="_blank">Newelle, ‘Virtual Assistant’ for GNOME, Hits Version 1.0</a></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop" target="_blank">Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-03 22:59</span>
             </div>
@@ -211,10 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth" target="_blank">A study of lights at night suggests dictators lie about economic growth (2022)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-03 22:50</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop" target="_blank">Newelle, ‘Virtual Assistant’ for GNOME, Hits Version 1.0</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-03 22:59</span>
             </div>
         </div>
 </div>
@@ -304,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:46 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
