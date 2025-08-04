@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 03:36:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 04:23:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 03:36 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 04:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/south-korea-dismantles-border-loudspeakers-to-ease-tensions-with-n-korea?traffic_source=rss" target="_blank">South Korea dismantles border loudspeakers to ease tensions with N Korea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 03:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d094/live/28bf6f50-70c8-11f0-af20-030418be2ca5.jpg" alt="More than 60 migrants die off Yemen in boat capsize" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">More than 60 migrants die off Yemen in boat capsize</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-04 02:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491584/loni-anderson-obit" target="_blank">Loni Anderson, star of hit TV series &#x27;WKRP in Cincinnati,&#x27; dies at 79</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-04 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491574/68-african-migrants-killed-boat-capsizes-yemen-coast-un" target="_blank">At least 68 African migrants killed after boat capsizes off Yemen coast, U.N. says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-03 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/russia-ukraine-war-list-of-key-events-day-1257?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,257</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 23:26</span>
             </div>
         </div>
 </div>
@@ -301,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:36 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 04:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
