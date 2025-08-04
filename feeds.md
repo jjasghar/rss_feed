@@ -1,39 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 20:01:37 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-04 21:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +57,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5492483/the-global-impact-of-the-latest-u-s-tariffs" target="_blank">The Global Impact of the Latest U.S. Tariffs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/us-house-speaker-mike-johnson-visits-israeli-west-bank-settlement?traffic_source=rss" target="_blank">US House Speaker Mike Johnson visits Israeli West Bank settlement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="Abbott&#x27;s deadline for Texas Democrats&#x27; return looms in redistricting showdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">Abbott&#x27;s deadline for Texas Democrats&#x27; return looms in redistricting showdown</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-04 20:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250804-texas-rs-34ded8.jpg" alt="Redistricting clash escalates in Texas after Democrats scatter, denying state House a quorum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/redistricting-clash-escalates-texas-democrats-scatter-republican-house-rcna222867" target="_blank">Redistricting clash escalates in Texas after Democrats scatter, denying state House a quorum</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-04 19:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/what-starvation-really-means-for-the-human-body-and-for-gaza?traffic_source=rss" target="_blank">What ‘starvation’ really means, for the human body and for Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -65,42 +106,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-04 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-4983843/ireland-norway-and-spain-officially-recognize-state-of-palestine" target="_blank">Ireland, Norway and Spain officially recognize state of Palestine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/4/builders-of-boeing-weapons-and-fighter-jets-go-on-strike?traffic_source=rss" target="_blank">Builders of Boeing weapons and fighter jets go on strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use" target="_blank">Engineer restores pay phones for free public use</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/deadly-moscow-concert-hall-attack-suspects-appear-in-court-for-trial?traffic_source=rss" target="_blank">Deadly Moscow concert hall attack suspects appear in court for trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 15:32</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546980&w=600" alt="Why Developers Should Pay Attention to Internal Directory Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-developers-should-pay-attention-to-internal-di" target="_blank">Why Developers Should Pay Attention to Internal Directory Security</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-04 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +226,6 @@
                 <span class="time">2025-08-04 17:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://benholmen.com/blog/kilopixel/" target="_blank">Show HN: I spent 6 years building a ridiculous wooden pixel display</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/losts.gif" alt="No One’s Ever Lost A Game Like This Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/evo-2025-viral-moment-fatal-fury-meme-kog-go1-2000614619" target="_blank">No One’s Ever Lost A Game Like This Before</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Skelly-Home-Depot.jpg" alt="Home Depot’s Halloween Skeleton Decorations Now Feature Electronically Enhanced Terrors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/home-depots-halloween-skeleton-decorations-now-feature-electronically-enhanced-terrors-2000638608" target="_blank">Home Depot’s Halloween Skeleton Decorations Now Feature Electronically Enhanced Terrors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-04 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/e14f0d917be780e38b19abb2fd3b2b80.jpg" alt="Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +299,6 @@
                 <span class="time">2025-08-04 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1V05G4AD0Q2H90WNP1GMNDZ/hero-image.png" alt="21 of the Weirdest Things You Can Bring on an Airplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/travel/weirdest-things-you-can-bring-on-an-airplane?utm_medium=RSS" target="_blank">21 of the Weirdest Things You Can Bring on an Airplane</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Trump Deletes and Reposts Tweet About Sydney Sweeney Several Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-deletes-and-reposts-tweet-about-sydney-sweeney-several-times-2000638509" target="_blank">Trump Deletes and Reposts Tweet About Sydney Sweeney Several Times</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-04 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,6 +323,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/grounded.png" alt="Grounded" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3124/" target="_blank">Grounded</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-04 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5627.png" alt="Hair We Go Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -331,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
