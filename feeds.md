@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 09:05:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 10:02:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 09:05 UTC</div>
+    <div class="newspaper-date">Monday, August 04, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5453731/nasa-carbon-dioxide-satellite-mission-threatened" target="_blank">Why a NASA satellite that scientists and farmers rely on may be destroyed on purpose</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/4/unprecedented-water-crisis-in-gaza-amid-israeli-induced-starvation?traffic_source=rss" target="_blank">Unprecedented water crisis in Gaza amid Israeli-induced starvation</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 09:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d094/live/28bf6f50-70c8-11f0-af20-030418be2ca5.jpg" alt="Dozens of migrants die in boat capsize off Yemen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">More than 60 migrants die off Yemen in boat capsize</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-04 02:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;Malnutrition rates are absolutely catastrophic&#x27;: Thousands resort to eating animal feed to survive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/it-is-truly-monstrous-inside-the-besieged-sudanese-city-where-families-are-forced-to-eat-animal-feed-to-live-13406258" target="_blank">&#x27;Malnutrition rates are absolutely catastrophic&#x27;: Thousands resort to eating animal feed to survive</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-04 02:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/it-is-truly-monstrous-inside-the-besieged-sudanese-city-where-families-are-forced-to-eat-animal-feed-to-live-13406258" target="_blank">&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-04 02:22</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/typescript-5-9-released/en/headerimage/generatedHeaderImage-1754033941117.jpg" alt="Microsoft Releases TypeScript 5.9 with Deferred Imports and Enhanced Developer Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/typescript-5-9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases TypeScript 5.9 with Deferred Imports and Enhanced Developer Experience</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-04 09:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/docker-mcp/en/headerimage/generatedHeaderImage-1754089508492.jpg" alt="“A Security Nightmare”: Docker Warns of Risks in MCP Toolchains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/hyperkai/removeprefix-removesuffix-in-python-45hf" target="_blank">removeprefix &amp; removesuffix in Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 02:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-jul28-2025/en/headerimage/java-istock-image-01-1754244517565.jpg" alt="Java News Roundup: EclipseStore, Gradle, Hibernate Release Candidates, Piranha Cloud, LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-jul28-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: EclipseStore, Gradle, Hibernate Release Candidates, Piranha Cloud, LangChain4j</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-04 02:30</span>
             </div>
         </div>
 </div>
@@ -314,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
