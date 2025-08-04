@@ -1,33 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 07:07:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-04 08:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 3 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 07:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +159,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nencywilliams/how-to-set-up-a-marketplace-payment-workflow-with-payfast-split-payments-dij" target="_blank">How to Set Up a Marketplace Payment Workflow with PayFast Split Payments</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-49m2" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 06:00</span>
@@ -204,15 +207,6 @@
                 <span class="title"><a href="https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist" target="_blank">Render your Jupyter notebooks in OpenGist</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-03 23:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/newelle-overengineered.jpg?resize=406%2C232&amp;ssl=1" alt="Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop" target="_blank">Newelle, a ‘Virtual Assistant’ for GNOME, Hits Version 1.0</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-03 22:59</span>
             </div>
         </div>
 </div>
@@ -280,6 +274,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/04/penny-arcade-presents-healthwatch" target="_blank">Penny Arcade Presents: HealthWatch</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-04 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5627.png" alt="Hair We Go Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -302,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
