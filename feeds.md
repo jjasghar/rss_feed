@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 21:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 22:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 34 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/g-s1-80957/texas-redistricting-quorum-walkout" target="_blank">Texas Democrats block GOP redistricting plan by fleeing the state</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/palestinians-distraught-over-relatives-missing-at-deadly-gaza-aid-sites?traffic_source=rss" target="_blank">Palestinians distraught over relatives missing at deadly Gaza aid sites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5492483/the-global-impact-of-the-latest-u-s-tariffs" target="_blank">The Global Impact of the Latest U.S. Tariffs</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-04 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754340316143_now_mtp_full_scudder_250804_1920x1080-tv03s0.jpg" alt="Gov. Abbott is being a ‘wannabe authoritarian’ with redistricting push: Texas Democratic party chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-abbott-is-being-a-wannabe-authoritarian-with-redistricting-push-texas-democratic-party-chair-244325957905" target="_blank">Gov. Abbott is being a ‘wannabe authoritarian’ with redistricting push: Texas Democratic party chair</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-04 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -81,38 +100,29 @@
                 <span class="time">2025-08-04 20:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250804-texas-rs-34ded8.jpg" alt="Redistricting clash escalates in Texas after Democrats scatter, denying state House a quorum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/redistricting-clash-escalates-texas-democrats-scatter-republican-house-rcna222867" target="_blank">Redistricting clash escalates in Texas after Democrats scatter, denying state House a quorum</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-04 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/what-starvation-really-means-for-the-human-body-and-for-gaza?traffic_source=rss" target="_blank">What ‘starvation’ really means, for the human body and for Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-04 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/" target="_blank">A top designer was banned from Dribbble. Now he’s building his own competitor.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting" target="_blank">Amazon pulls the plug on Sengled’s Alexa skill after months of outages</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-04 21:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/Dream-Chaser-Full-Profile-Landscape-2-500x500.jpg" alt="Is the Dream Chaser space plane ever going to launch into orbit?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,24 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/" target="_blank">Foxconn sells former GM factory to mystery buyer after failing to make EVs</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-04 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile-500x500-1733183355.jpg" alt="Tesla awards Musk $29B in attempt to “keep Elon’s energies focused on Tesla”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tesla-awards-elon-musk-29-billion-after-much-larger-pay-plan-blocked-in-court/" target="_blank">Tesla awards Musk $29B in attempt to “keep Elon’s energies focused on Tesla”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/" target="_blank">Rivian sues to sell its EVs directly in Ohio</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 17:25</span>
             </div>
         </div>
 </div>
@@ -246,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Lenovo-300E.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The perfect laptop for kids, klutzes, and chaotic neutrals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/the-perfect-laptop-for-kids-klutzes-and-chaotic-neutrals.html" target="_blank">The perfect laptop for kids, klutzes, and chaotic neutrals</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/losts.gif" alt="No One’s Ever Lost A Game Like This Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/04/trump-rages-at-senator-warren.html" target="_blank">Trump rages at Senator Warren</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-04 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-06-at-8.40.24%E2%80%AFAM-e1747327391943.jpg?fit=768%2C676&amp;quality=60&amp;ssl=1" alt="The history of MAGA&#x27;s Epstein madness (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/the-history-of-magas-epstein-madness-video.html" target="_blank">The history of MAGA&#x27;s Epstein madness (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 18:13</span>
             </div>
         </div>
 </div>
@@ -345,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
