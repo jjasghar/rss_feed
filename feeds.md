@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-03 23:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-04 00:05:37 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 03, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491574/68-african-migrants-killed-boat-capsizes-yemen-coast-un" target="_blank">At least 68 African migrants killed after boat capsizes off Yemen coast, U.N. says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-03 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/russia-ukraine-war-list-of-key-events-day-1257?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,257</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-03 23:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/hamas-ready-to-deliver-aid-to-hostages-after-outcry-over-footage-of-israeli-captive-13406554" target="_blank">Hamas &#x27;ready&#x27; to deliver aid to hostages after outcry over footage of Israeli captive</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-03 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/3/england-and-india-test-series-heads-to-monday-morning-thriller?traffic_source=rss" target="_blank">England and India Test series heads to Monday morning thriller</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-03 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9242/live/79dea000-7090-11f0-8679-c51cae5603aa.jpg" alt="Man dies after fall at Oasis Wembley concert" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy3j93xekmo?at_medium=RSS&at_campaign=rss" target="_blank">Man dies after fall at Oasis Wembley concert</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 19:43</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist" target="_blank">Render your Jupyter notebooks in OpenGist</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-03 23:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/newelle-ai-assistant-ubuntu-linux-desktop" target="_blank">Newelle, ‘Virtual Assistant’ for GNOME, Hits Version 1.0</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-03 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth" target="_blank">A study of lights at night suggests dictators lie about economic growth (2022)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-03 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hyperkai/rpartition-in-python-1me1" target="_blank">rpartition in Python</a></span>
                 <span class="feed">DEV Community</span>
@@ -191,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5" target="_blank">Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snappy_tuts/this-1-course-helped-me-launch-a-micro-saas-in-10-days-ci6" target="_blank">This $1 Course Helped Me Launch a Micro SaaS in 10 Days</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming" target="_blank">Freshwater loss from land is the lead driver of sea-level rise</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-03 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://kashw1n.com/blog/nodejs-2025/" target="_blank">Modern Node.js Patterns</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-03 19:16</span>
             </div>
         </div>
 </div>
@@ -298,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
