@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 16:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 17:04:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 17:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use" target="_blank">Engineer restores pay phones for free public use</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +99,38 @@
                 <span class="time">2025-08-04 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/starving-gaza-children-risking-their-lives-to-get-food?traffic_source=rss" target="_blank">Starving Gaza children risking their lives to get food</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad" target="_blank">Google dunks on Apple Intelligence in new Pixel 10 ad</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-04 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68908b276bb0719eceabf2e0/master/pass/GettyImages-1353271240.jpg" alt="Science Reveals the Surprising Origins of the Potato" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/" target="_blank">Science Reveals the Surprising Origins of the Potato</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-04 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-905173626-500x500.jpg" alt="Four radioactive wasp nests found on South Carolina nuclear facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/radioactive-wasp-nests-spring-up-in-decadesold-nuclear-site-in-south-carolina/" target="_blank">Four radioactive wasp nests found on South Carolina nuclear facility</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 15:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,38 +158,20 @@
                 <span class="time">2025-08-04 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview" target="_blank">Why tech is racing to adopt AI coding</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/" target="_blank">Spotify raises subscription prices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/dnUEwCHBLDoErxmP6cHuz5.jpg-500x500-1752160747.jpg" alt="These are the best streaming services you aren’t watching" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/these-are-the-best-streaming-services-you-arent-watching/" target="_blank">These are the best streaming services you aren’t watching</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543817&w=600" alt="Deep Observability in Node.js Using OpenTelemetry and Pino" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-nodejs-opentelemetry-pino" target="_blank">Deep Observability in Node.js Using OpenTelemetry and Pino</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -166,6 +179,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/04/cross-pollination-as-a-strategic-advantage-for-forward-thinking-organizations/" target="_blank">Cross-pollination as a strategic advantage for forward-thinking organizations</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://afterburnout.co/p/ai-promised-to-make-us-more-efficient" target="_blank">AI promised efficiency. Instead, it&#x27;s making us work harder</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-04 15:01</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +217,6 @@
                 <span class="time">2025-08-04 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo" target="_blank">Creating Log-Based Alerts with Grafana, Loki, and Promtail</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/" target="_blank">Century-Old Stone “Tsunami Stones” Dot Japan&#x27;s Coastline (2015)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/nz-e1754325791924.jpg?fit=600%2C396&amp;quality=60&amp;ssl=1" alt="Woman stuffs 2-year-old in luggage, gets arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/woman-stuffs-2-year-old-in-luggage-gets-arrested.html" target="_blank">Woman stuffs 2-year-old in luggage, gets arrested</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 16:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/250804-Adopt-Love-MUTTS-square-1.png?fit=1200%2C700&amp;quality=55&amp;ssl=1" alt="Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-08-04 13:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1KR122YJMEV2HB9BY7NS0KR/hero-image.png" alt="Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/android-e-readers-better-than-kindle-colorsoft?utm_medium=RSS" target="_blank">Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
