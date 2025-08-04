@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 17:04:47 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-04 18:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 17:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-04 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-4983843/ireland-norway-and-spain-officially-recognize-state-of-palestine" target="_blank">Ireland, Norway and Spain officially recognize state of Palestine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/4/builders-of-boeing-weapons-and-fighter-jets-go-on-strike?traffic_source=rss" target="_blank">Builders of Boeing weapons and fighter jets go on strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 17:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +100,20 @@
                 <span class="time">2025-08-04 15:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5492152/gaza-hostage-videos-israel" target="_blank">Videos of Israeli hostages in Gaza increase pressure on Netanyahu for a ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95dc/live/c6247ad0-712a-11f0-89ea-4d6f9851f623.jpg" alt="Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crkznje8nz8o?at_medium=RSS&at_campaign=rss" target="_blank">Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-04 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/why-itamar-ben-gvirs-al-aqsa-prayer-caused-so-much-anger?traffic_source=rss" target="_blank">Why Itamar Ben-Gvir’s Al-Aqsa prayer caused so much anger</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/rivian-sues-to-sell-its-evs-directly-in-ohio/" target="_blank">Rivian sues to sell its EVs directly in Ohio</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,38 @@
                 <span class="time">2025-08-04 14:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688d9b1d3410039e4665694b/master/pass/The%20Best%20Handheld%20Game%20Consoles.png" alt="8 Best Handheld Gaming Consoles (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-handhelds/" target="_blank">8 Best Handheld Gaming Consoles (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-04 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd" target="_blank">My Java Full Stack Journey Learning in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-ai-5-340" target="_blank">AMD Ryzen AI 5 340 &quot;Krackan Point&quot; Offers Outstanding Value In Sub-$500 Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-04 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://benholmen.com/blog/kilopixel/" target="_blank">Show HN: I spent 6 years building a ridiculous wooden pixel display</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-04 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18543817&w=600" alt="Deep Observability in Node.js Using OpenTelemetry and Pino" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +218,6 @@
                 <span class="time">2025-08-04 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwgvfexi4plai2sga2cy.png" alt="Human Resources Translation Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elenahartmann/human-resources-translation-software-589d" target="_blank">Human Resources Translation Software</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh" target="_blank">BookLore: Your Personal Library, Reimagined</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://etsd.tech/posts/rtfc/" target="_blank">Read That Fucking Code (Stop vibe-coding blindly)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1V05G4AD0Q2H90WNP1GMNDZ/hero-image.png" alt="21 of the Weirdest Things You Can Bring on an Airplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/travel/weirdest-things-you-can-bring-on-an-airplane?utm_medium=RSS" target="_blank">21 of the Weirdest Things You Can Bring on an Airplane</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Trump Deletes and Reposts Tweet About Sydney Sweeney Several Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-deletes-and-reposts-tweet-about-sydney-sweeney-several-times-2000638509" target="_blank">Trump Deletes and Reposts Tweet About Sydney Sweeney Several Times</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-04 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/nz-e1754325791924.jpg?fit=600%2C396&amp;quality=60&amp;ssl=1" alt="Woman stuffs 2-year-old in luggage, gets arrested" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/jbl-extreme-outdoor-4-speaker-deal?utm_medium=RSS" target="_blank">This Powerful JBL Outdoor Speaker Is $160 Off at Woot</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-04 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/morningcheck1.jpg" alt="EA Explains Why Fans Aren’t Getting The Sims 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sims-5-dynasty-warriors-remaster-call-duty-union-switch-2-2000614479" target="_blank">EA Explains Why Fans Aren’t Getting The Sims 5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/3i.jpg?fit=1840%2C1200&amp;quality=60&amp;ssl=1" alt="Is 3I/ATLAS, the latest interstellar object, an alien spaceship?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/is-3i-atlas-the-latest-interstellar-object-an-alien-spaceship.html" target="_blank">Is 3I/ATLAS, the latest interstellar object, an alien spaceship?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 13:54</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
