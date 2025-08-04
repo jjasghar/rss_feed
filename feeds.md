@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 10:02:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-04 11:02:19 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-poster-DB-250804_1754299658008_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff to head to Russia for &#x27;last chance&#x27; Ukraine ceasefire talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-envoy-witkoff-head-russia-chance-ukraine-talks/story?id=124336363" target="_blank">Trump envoy Witkoff to head to Russia for &#x27;last chance&#x27; Ukraine ceasefire talks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-04 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5387722/yosemite-workers-housing-volunteer-no-pay" target="_blank">Yosemite employees worked for weeks with no pay before the government hired them</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +101,29 @@
                 <span class="time">2025-08-04 03:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/bf17c380-70e6-11f0-8dbd-f3d32ebd3327.jpg" alt="Weather warnings as Storm Floris disrupts travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gq3n049jno?at_medium=RSS&at_campaign=rss" target="_blank">Weather warnings as Storm Floris disrupts travel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-04 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d094/live/28bf6f50-70c8-11f0-af20-030418be2ca5.jpg" alt="More than 60 migrants die off Yemen in boat capsize" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">More than 60 migrants die off Yemen in boat capsize</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-04 02:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/687fb82a545a70a0717c763a/master/pass/072125-military-slot-machines.jpg" alt="The US Military Is Raking in Millions From On-Base Slot Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/" target="_blank">The US Military Is Raking in Millions From On-Base Slot Machines</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-04 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/P90592675_highRes_employees-assembling-500x500.jpg" alt="BMW’s next EV is its most sustainable car yet—here’s why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/how-bmw-slashed-the-carbon-footprint-of-its-next-ev-the-2026-ix3/" target="_blank">BMW’s next EV is its most sustainable car yet—here’s why</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,20 @@
                 <span class="time">2025-08-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688cf4bcb961a04b338b3f70/master/pass/nintendo-switch-storage-gear-2207677079-1499849317.jpg" alt="The Nintendo Switch 2’s Biggest Problem Is Already Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/" target="_blank">The Nintendo Switch 2’s Biggest Problem Is Already Storage</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review" target="_blank">Lenovo&amp;#8217;s rollable laptop is the coolest computer I&amp;#8217;ve used all year</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chrlie/5-ways-edge-ai-is-transforming-mobile-app-performance-and-privacy-1dd4" target="_blank">5 Ways Edge AI is Transforming Mobile App Performance and Privacy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/typescript-5-9-released/en/headerimage/generatedHeaderImage-1754033941117.jpg" alt="Microsoft Releases TypeScript 5.9 with Deferred Imports and Enhanced Developer Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-49m2" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperkai/removeprefix-removesuffix-in-python-45hf" target="_blank">removeprefix &amp; removesuffix in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 02:37</span>
             </div>
         </div>
 </div>
@@ -310,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
