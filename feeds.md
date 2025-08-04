@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 08:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 09:05:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -156,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/docker-mcp/en/headerimage/generatedHeaderImage-1754089508492.jpg" alt="“A Security Nightmare”: Docker Warns of Risks in MCP Toolchains" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/docker-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">“A Security Nightmare”: Docker Warns of Risks in MCP Toolchains</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm" target="_blank">The Art of Mocking in Backend Tests</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-jul28-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: EclipseStore, Gradle, Hibernate Release Candidates, Piranha Cloud, LangChain4j</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-04 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej" target="_blank">Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 01:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist" target="_blank">Render your Jupyter notebooks in OpenGist</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-03 23:12</span>
             </div>
         </div>
 </div>
@@ -305,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
