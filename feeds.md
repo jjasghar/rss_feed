@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 18:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-04 19:03:47 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/what-starvation-really-means-for-the-human-body-and-for-gaza?traffic_source=rss" target="_blank">What ‘starvation’ really means, for the human body and for Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 18:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="&#x27;Come and take it&#x27;: Showdown erupts in Texas over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +94,29 @@
                 <span class="time">2025-08-04 15:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/04/african-migrants-killed-capsized-boat-shipwreck-yemen" target="_blank">Scores dead as boat carrying more than 150 people capsizes off Yemen</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-04 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/" target="_blank">Foxconn sells former GM factory to mystery buyer after failing to make EVs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile-500x500-1733183355.jpg" alt="Tesla awards Musk $29B in attempt to “keep Elon’s energies focused on Tesla”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tesla-awards-elon-musk-29-billion-after-much-larger-pay-plan-blocked-in-court/" target="_blank">Tesla awards Musk $29B in attempt to “keep Elon’s energies focused on Tesla”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 17:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/08/radioactive-wasp-nests-spring-up-in-decadesold-nuclear-site-in-south-carolina/" target="_blank">Four radioactive wasp nests found on South Carolina nuclear facility</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-04 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/lyft-and-chinas-baidu-look-to-bring-robotaxis-to-europe-next-year/" target="_blank">Lyft and China’s Baidu look to bring robotaxis to Europe next year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-500x500.jpeg" alt="Idaho has become the wild frontier of vaccination policy and public health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/idaho-has-become-the-wild-frontier-of-vaccination-policy-and-public-health/" target="_blank">Idaho has become the wild frontier of vaccination policy and public health</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 14:19</span>
             </div>
         </div>
 </div>
@@ -238,6 +232,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1V02SD4P14MZKZST7KWXHC1/hero-image.png" alt="This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/screenfloat-instantly-blocks-out-sensitive-info-from-your-mac-screenshots?utm_medium=RSS" target="_blank">This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Screenshot-2024-05-06-at-8.40.24%E2%80%AFAM-e1747327391943.jpg?fit=768%2C676&amp;quality=60&amp;ssl=1" alt="The history of MAGA&#x27;s Epstein madness (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/the-history-of-magas-epstein-madness-video.html" target="_blank">The history of MAGA&#x27;s Epstein madness (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 18:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1V05G4AD0Q2H90WNP1GMNDZ/hero-image.png" alt="21 of the Weirdest Things You Can Bring on an Airplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -271,24 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/04/cartoonist-patrick-mcdonnell-and-his-mutts-comic-strip-celebrate-adopt-love-encouraging-pet-adoption.html" target="_blank">Cartoonist Patrick McDonnell and his &quot;Mutts&quot; comic strip celebrate Adopt Love, encouraging pet adoption</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-04 15:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/bf61.jpg" alt="EA ‘Guarantees’ Battlefield 6 Will Run At 60FPS Or More On All Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-guarantees-battlefield-6-will-run-at-60fps-or-more-on-all-platforms-2000614503" target="_blank">EA ‘Guarantees’ Battlefield 6 Will Run At 60FPS Or More On All Platforms</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JV5DGY2NBXASXT124DVD9ZHB/hero-image.jpg" alt="This Powerful JBL Outdoor Speaker Is $160 Off at Woot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/jbl-extreme-outdoor-4-speaker-deal?utm_medium=RSS" target="_blank">This Powerful JBL Outdoor Speaker Is $160 Off at Woot</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 15:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
