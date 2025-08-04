@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 01:30:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 02:46:25 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 02:46 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/it-is-truly-monstrous-inside-the-besieged-sudanese-city-where-families-are-forced-to-eat-animal-feed-to-live-13406258" target="_blank">&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-04 02:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TX-RESIDISTRICTING_1754243688463_hpMain_4x3t_384.jpg" alt="Texas Republicans say &#x27;hunt down&#x27; Democrats who are leaving state over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-democrats-plan-flee-state-stop-proposed/story?id=124326241" target="_blank">Texas Republicans say &#x27;hunt down&#x27; Democrats who are leaving state over redistricting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-04 01:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/4/white-house-advisers-defend-trumps-firing-of-official-behind-jobs-data?traffic_source=rss" target="_blank">White House advisers defend Trump’s firing of official behind jobs data</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 01:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491584/loni-anderson-obit" target="_blank">Loni Anderson, star of hit TV series &#x27;WKRP in Cincinnati,&#x27; dies at 79</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-04 00:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,42 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/3/russia-ukraine-war-list-of-key-events-day-1257?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,257</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-03 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754263045932_nn_Chandler_Texas_Redistricting_Fight_250803_1920x1080-uqvk8p.jpg" alt="Texas Democrats leave state to fight Republican redistricting effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/texas-democrats-leave-state-to-fight-republican-redistricting-effort-244276805781" target="_blank">Texas Democrats leave state to fight Republican redistricting effort</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-03 23:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491540/russian-volcano-erupts-days-after-quake-shakes-region" target="_blank">Russian volcano erupts days after monster quake shakes region</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-03 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TX-RESIDISTRICTING_1754243688463_hpMain_4x3t_384.jpg" alt="Texas House Democrats plan to flee state to try to stop proposed congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-democrats-plan-flee-state-stop-proposed/story?id=124326241" target="_blank">Texas House Democrats plan to flee state to try to stop proposed congressional maps</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-03 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8856/live/548e07a0-70ae-11f0-89ea-4d6f9851f623.jpg" alt="Leaders condemn videos of emaciated hostages as Red Cross calls for access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crr2dwn7q40o?at_medium=RSS&at_campaign=rss" target="_blank">Leaders condemn videos of emaciated hostages as Red Cross calls for access</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-03 21:15</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hyperkai/removeprefix-removesuffix-in-python-45hf" target="_blank">removeprefix &amp; removesuffix in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 02:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-jul28-2025/en/headerimage/java-istock-image-01-1754244517565.jpg" alt="Java News Roundup: EclipseStore, Gradle, Hibernate Release Candidates, Piranha Cloud, LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-jul28-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: EclipseStore, Gradle, Hibernate Release Candidates, Piranha Cloud, LangChain4j</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-04 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej" target="_blank">Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 01:15</span>
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth" target="_blank">A study of lights at night suggests dictators lie about economic growth (2022)</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-03 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hyperkai/rpartition-in-python-1me1" target="_blank">rpartition in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 22:00</span>
             </div>
         </div>
 </div>
@@ -303,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:46 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
