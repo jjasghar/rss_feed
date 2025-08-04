@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 00:05:37 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-04 01:30:16 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -68,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754263045932_nn_Chandler_Texas_Redistricting_Fight_250803_1920x1080-uqvk8p.jpg" alt="Texas Democrats leave state to fight Republican redistricting effort" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/texas-democrats-leave-state-to-fight-republican-redistricting-effort-244276805781" target="_blank">Texas Democrats leave state to fight Republican redistricting effort</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-03 23:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -92,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crr2dwn7q40o?at_medium=RSS&at_campaign=rss" target="_blank">Leaders condemn videos of emaciated hostages as Red Cross calls for access</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-03 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-aid_6982199.jpg?20250803221041" alt="Hamas &#x27;ready&#x27; to deliver aid to hostages after outcry over footage of Israeli captive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-ready-to-deliver-aid-to-hostages-after-outcry-over-footage-of-israeli-captive-13406554" target="_blank">Hamas &#x27;ready&#x27; to deliver aid to hostages after outcry over footage of Israeli captive</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-03 20:52</span>
             </div>
         </div>
 </div>
@@ -170,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/talissoncosta/part-3-scaling-the-outlet-pattern-with-multiple-named-outlets-in-react-3nej" target="_blank">Part 3 - Scaling the Outlet Pattern with Multiple Named Outlets in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist" target="_blank">Render your Jupyter notebooks in OpenGist</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -210,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-lost-soul-aside-official-weapons-trailer-27jf" target="_blank">IGN: Lost Soul Aside - Official Weapons Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv53bhr0mnkphpc9m0bs8.png" alt="Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andreu_pifarre_929397e2bb/recreating-apples-airtag-landing-page-in-react-tailwind-8-min-speed-run-3mp5" target="_blank">Recreating Apple’s AirTag Landing Page in React + Tailwind (8‑min speed‑run)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-03 20:49</span>
             </div>
         </div>
 </div>
@@ -286,6 +281,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5627.png" alt="Hair We Go Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5627" target="_blank">Hair We Go Again</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-04 01:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1753766613-20250803.png" alt="Saturday Morning Breakfast Cereal - Golden" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -299,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
