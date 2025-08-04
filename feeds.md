@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 13:15:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 14:04:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 13:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/688d9b1d3410039e4665694b/master/pass/The%20Best%20Handheld%20Game%20Consoles.png" alt="8 Best Handheld Gaming Consoles (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-handhelds/" target="_blank">8 Best Handheld Gaming Consoles (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview" target="_blank">Why tech is racing to adopt AI coding</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/spotify-raises-subscription-prices/" target="_blank">Spotify raises subscription prices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-04 13:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/dnUEwCHBLDoErxmP6cHuz5.jpg-500x500-1752160747.jpg" alt="These are the best streaming services you aren’t watching" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -132,33 +158,6 @@
                 <span class="time">2025-08-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/03/apple-might-be-building-its-own-ai-answer-engine/" target="_blank">Apple might be building its own AI ‘answer engine’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-03 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/03/sap-is-acquiring-smartrecruiters/" target="_blank">SAP is acquiring SmartRecruiters</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-03 17:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech" target="_blank">Brendan Carr declares victory over the First Amendment</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-03 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,9 +167,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/githubopensource/booklore-your-personal-library-reimagined-bhh" target="_blank">BookLore: Your Personal Library, Reimagined</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 13:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://etsd.tech/posts/rtfc/" target="_blank">Read That Fucking Code (Stop vibe-coding blindly)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-04 13:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo" target="_blank">Creating Log-Based Alerts with Grafana, Loki, and Promtail</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AppArmor" target="_blank">AppArmor For Linux 6.17 Set To Introduce AF_UNIX Mediation, Other Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-04 12:45</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +215,6 @@
                 <span class="title"><a href="https://arxiv.org/abs/2506.14272" target="_blank">GHz spiking neuromorphic photonic chip with in-situ training</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-04 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544020&w=600" alt="Real-Time Flight Schedule Changes at Scale: Event-Driven Pipelines With gRPC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-flight-schedule-updates-event-driven-grpc" target="_blank">Real-Time Flight Schedule Changes at Scale: Event-Driven Pipelines With gRPC</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-04 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chrlie/5-ways-edge-ai-is-transforming-mobile-app-performance-and-privacy-1dd4" target="_blank">5 Ways Edge AI is Transforming Mobile App Performance and Privacy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/" target="_blank">Rust, Python, and TypeScript: the new trifecta</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-04 10:33</span>
             </div>
         </div>
 </div>
@@ -237,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1KR122YJMEV2HB9BY7NS0KR/hero-image.png" alt="Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/android-e-readers-better-than-kindle-colorsoft?utm_medium=RSS" target="_blank">Why Android E-Readers Are Superior to the Kindle Colorsoft (Especially If You Read Comics)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hest-til-foder-1920x900-min.jpg?fit=1216%2C570&amp;quality=60&amp;ssl=1" alt="Aalborg zoo wants donations of unwanted pets. The cats are hungry." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/aalborg-zoo-wants-donations-of-unwanted-pets-the-cats-are-hungry.html" target="_blank">Aalborg zoo wants donations of unwanted pets. The cats are hungry.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 13:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/MS-0804-spider-man-brand-new-day.jpg" alt="Tom Holland Gives Us a Sneaky Look at Spider-Man’s New Web Shooters in ‘Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-set-pictures-webshooters-2000638370" target="_blank">Tom Holland Gives Us a Sneaky Look at Spider-Man’s New Web Shooters in ‘Brand New Day’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2224746401.jpg" alt="Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/eufy-security-solo-cam-e30-deal?utm_medium=RSS" target="_blank">This Eufy Solar-Powered Four-Camera Security Kit Is at Its Lowest Price Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-04 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/cart.jpg" alt="Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-nintendo-survey-game-key-carts-2000614465" target="_blank">Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Super-Soft-1800-Series-Bamboo-Blend-6-Piece-Sheet-Set.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="These $37.99 sheets might be softer than your will to get out of bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/03/these-37-99-sheets-might-be-softer-than-your-will-to-get-out-of-bed.html" target="_blank">These $37.99 sheets might be softer than your will to get out of bed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/lucy-edgerunners-guiltygear.jpg" alt="‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-star-lucy-finally-comes-to-guilty-gear-strive-2000638361" target="_blank">‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-03 20:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
