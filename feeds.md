@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 22:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-04 23:01:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/us-democrats-block-vote-on-trump-backed-texas-redistricting-map?traffic_source=rss" target="_blank">US Democrats block vote on Trump-backed Texas redistricting map</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/04/g-s1-80957/texas-redistricting-quorum-walkout" target="_blank">Texas Democrats block GOP redistricting plan by fleeing the state</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-04 21:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754342836016_now_hallie_arrest_dems_250804_1920x1080-1k0rvy.jpg" alt="Arrest warrants issued targeting Democrats who fled state in effort to stall GOP redistricting plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/arrest-warrants-issued-targeting-democrats-who-fled-state-in-effort-to-stall-gop-redistricting-plans-244330053910" target="_blank">Arrest warrants issued targeting Democrats who fled state in effort to stall GOP redistricting plans</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-04 21:27</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-abbott-is-being-a-wannabe-authoritarian-with-redistricting-push-texas-democratic-party-chair-244325957905" target="_blank">Gov. Abbott is being a ‘wannabe authoritarian’ with redistricting push: Texas Democratic party chair</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-04 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/us-house-speaker-mike-johnson-visits-israeli-west-bank-settlement?traffic_source=rss" target="_blank">US House Speaker Mike Johnson visits Israeli West Bank settlement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="Abbott&#x27;s deadline for Texas Democrats&#x27; return looms in redistricting showdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">Abbott&#x27;s deadline for Texas Democrats&#x27; return looms in redistricting showdown</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-04 20:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb" target="_blank">Python LeetCode 70: Climbing Stairs - (Easy)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/study-mode-chatgpt/en/headerimage/generatedHeaderImage-1754338603287.jpg" alt="OpenAI Launches Study Mode in ChatGPT to Support Step-by-Step Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/study-mode-chatgpt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches Study Mode in ChatGPT to Support Step-by-Step Learning</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-04 20:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546980&w=600" alt="Why Developers Should Pay Attention to Internal Directory Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -200,24 +219,6 @@
                 <span class="time">2025-08-04 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinesh_g_909f4a82c67f5bbd/my-java-full-stack-journey-learning-in-javascript-2kkd" target="_blank">My Java Full Stack Journey Learning in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-ai-5-340" target="_blank">AMD Ryzen AI 5 340 &quot;Krackan Point&quot; Offers Outstanding Value In Sub-$500 Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-04 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/noem-1.jpg?fit=1200%2C805&amp;quality=60&amp;ssl=1" alt="Noem announces plans to replicate Alligator Alcatraz model across multiple states" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/noem-announces-plans-to-replicate-alligator-alcatraz-model-across-multiple-states.html" target="_blank">Noem announces plans to replicate Alligator Alcatraz model across multiple states</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 22:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Lenovo-300E.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The perfect laptop for kids, klutzes, and chaotic neutrals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/screenfloat-instantly-blocks-out-sensitive-info-from-your-mac-screenshots?utm_medium=RSS" target="_blank">This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-04 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/Donald-Trump-Mugshot.jpg?fit=1500%2C1086&amp;quality=60&amp;ssl=1" alt="Trump rages at Senator Warren" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/trump-rages-at-senator-warren.html" target="_blank">Trump rages at Senator Warren</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 18:26</span>
             </div>
         </div>
 </div>
@@ -337,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
