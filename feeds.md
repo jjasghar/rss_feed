@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 12:02:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-04 13:15:07 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/4/why-itamar-ben-gvirs-al-aqsa-prayer-caused-so-much-anger?traffic_source=rss" target="_blank">Why Itamar Ben-Gvir’s Al-Aqsa prayer caused so much anger</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2025-08-04 09:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d094/live/28bf6f50-70c8-11f0-af20-030418be2ca5.jpg" alt="Dozens of migrants die in boat capsize off Yemen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn84rrmlxvxo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens of migrants die in boat capsize off Yemen</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-04 06:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/dnUEwCHBLDoErxmP6cHuz5.jpg-500x500-1752160747.jpg" alt="These are the best streaming services you aren’t watching" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/these-are-the-best-streaming-services-you-arent-watching/" target="_blank">These are the best streaming services you aren’t watching</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-04 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687fb82a545a70a0717c763a/master/pass/072125-military-slot-machines.jpg" alt="The US Military Is Raking in Millions From On-Base Slot Machines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,20 @@
                 <span class="time">2025-08-03 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/03/inside-openais-quest-to-make-ai-do-anything-for-you/" target="_blank">Inside OpenAI’s quest to make AI do anything for you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-03 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mspilari/creating-log-based-alerts-with-grafana-loki-and-promtail-afo" target="_blank">Creating Log-Based Alerts with Grafana, Loki, and Promtail</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz7r6nni8c5pvvn0nd86w.png" alt="Building an Input with Dropdown in Shadcn/ui" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/surajondev/building-an-input-with-dropdown-in-shadcnui-32jj" target="_blank">Building an Input with Dropdown in Shadcn/ui</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2506.14272" target="_blank">GHz spiking neuromorphic photonic chip with in-situ training</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-04 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -189,30 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/typescript-5-9-released/en/headerimage/generatedHeaderImage-1754033941117.jpg" alt="Microsoft Releases TypeScript 5.9 with Deferred Imports and Enhanced Developer Experience" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/typescript-5-9-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Releases TypeScript 5.9 with Deferred Imports and Enhanced Developer Experience</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-04 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/docker-mcp/en/headerimage/generatedHeaderImage-1754089508492.jpg" alt="“A Security Nightmare”: Docker Warns of Risks in MCP Toolchains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/docker-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">“A Security Nightmare”: Docker Warns of Risks in MCP Toolchains</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-04 09:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m13ha/the-art-of-mocking-in-backend-tests-ljm" target="_blank">The Art of Mocking in Backend Tests</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 09:00</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/" target="_blank">Rust, Python, and TypeScript: the new trifecta</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-04 10:33</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/GettyImages-2224746401.jpg" alt="Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-golden-dome-may-be-ready-for-testing-just-before-the-2028-election-report-2000638175" target="_blank">Trump’s ‘Golden Dome’ May Be Ready for Testing Just Before the 2028 Election: Report</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/81c79847fc856c696737fd4565c0cb9b.jpg" alt="Here’s The New Price Of Every Nintendo Console And Accessory Thanks To Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-prices-pro-controllers-tariffs-amiibo-2000614471" target="_blank">Here’s The New Price Of Every Nintendo Console And Accessory Thanks To Tariffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-04 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1SQ65D19RWS2A4J8MPE7TQM/hero-image.png" alt="This Eufy Solar-Powered Four-Camera Security Kit Is at Its Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-security-solo-cam-e30-deal?utm_medium=RSS" target="_blank">This Eufy Solar-Powered Four-Camera Security Kit Is at Its Lowest Price Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/cart.jpg" alt="Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-star-lucy-finally-comes-to-guilty-gear-strive-2000638361" target="_blank">‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-03 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/starfinder-afterlight.jpg" alt="‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/starfinder-afterlight-brings-paizos-ttrpg-to-video-games-2000638308" target="_blank">‘Starfinder: Afterlight’ Brings Paizo’s TTRPG to Video Games</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-03 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1188.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="Watch as the 11&#x27;8&quot; bridge eats an RV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/03/watch-as-the-118-bridge-eats-an-rv.html" target="_blank">Watch as the 11&#x27;8&quot; bridge eats an RV</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-03 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/MSO-Home-Business-for-Mac-2021-Lifetime-License.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This MacBook Pro + Microsoft Office bundle means business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/03/this-macbook-pro-microsoft-office-bundle-means-business.html" target="_blank">This MacBook Pro + Microsoft Office bundle means business</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-03 15:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
