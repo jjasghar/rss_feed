@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 04:23:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-08-04 05:12:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 04:23 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 04, 2025 - 05:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +61,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;Malnutrition rates are absolutely catastrophic&#x27;: Thousands resort to eating animal feed to survive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/it-is-truly-monstrous-inside-the-besieged-sudanese-city-where-families-are-forced-to-eat-animal-feed-to-live-13406258" target="_blank">&#x27;Malnutrition rates are absolutely catastrophic&#x27;: Thousands resort to eating animal feed to survive</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-04 02:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-al-fashir-sudan_6981774.png?20250803150638" alt="&#x27;It is truly monstrous&#x27;: Inside the besieged city where families are forced to eat animal feed to live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/4/white-house-advisers-defend-trumps-firing-of-official-behind-jobs-data?traffic_source=rss" target="_blank">White House advisers defend Trump’s firing of official behind jobs data</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-04 01:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/03/nx-s1-5491584/loni-anderson-obit" target="_blank">Loni Anderson, star of hit TV series &#x27;WKRP in Cincinnati,&#x27; dies at 79</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 00:26</span>
             </div>
         </div>
 </div>
@@ -225,6 +220,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Super-Soft-1800-Series-Bamboo-Blend-6-Piece-Sheet-Set.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="These $37.99 sheets might be softer than your will to get out of bed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/03/these-37-99-sheets-might-be-softer-than-your-will-to-get-out-of-bed.html" target="_blank">These $37.99 sheets might be softer than your will to get out of bed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-03 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/lucy-edgerunners-guiltygear.jpg" alt="‘Cyberpunk: Edgerunners’ Star Lucy Finally Comes to ‘Guilty Gear Strive’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -269,15 +273,6 @@
                 <span class="time">2025-08-03 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Depastrum-extinct-jellyfish.jpg" alt="Tourist Spots ‘Extinct’ Jellyfish Not Seen in 50 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tourist-spots-extinct-jellyfish-not-seen-in-50-years-2000638048" target="_blank">Tourist Spots ‘Extinct’ Jellyfish Not Seen in 50 Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-03 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:23 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
