@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 17:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 18:02:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/us-house-panel-subpoenas-epstein-files-from-trump-administration?traffic_source=rss" target="_blank">US House panel subpoenas Epstein files from Trump administration</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/jewish-britons-decry-ban-on-palestine-action-as-illegitimate-unethical?traffic_source=rss" target="_blank">Jewish Britons decry ban on Palestine Action as ‘illegitimate, unethical’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-05 16:41</span>
@@ -69,6 +69,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754410577595_now_daily_a_winter_house_clintons_250805_1920x1080-8o14it.jpg" alt="House committee subpoenas Clintons and former DOJ officials for testimony on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/house-committee-subpoenas-clintons-and-former-doj-officials-for-testimony-on-epstein-244384837889" target="_blank">House committee subpoenas Clintons and former DOJ officials for testimony on Epstein</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-05 16:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e4/live/e69692c0-7216-11f0-af20-030418be2ca5.jpg" alt="Violent Channel smuggling gang&#x27;s French and UK network exposed by undercover BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly48nmmzdro?at_medium=RSS&at_campaign=rss" target="_blank">Violent Channel smuggling gang&#x27;s French and UK network exposed by undercover BBC investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,38 +95,29 @@
                 <span class="time">2025-08-05 15:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5482913/social-security-phone-sharing-system" target="_blank">Your call to a local Social Security office may be picked up by someone who can&#x27;t help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/james-comer-gty-gmh-250805_1754405193926_hpMain_4x3t_384.jpg" alt="House Oversight chair issues subpoenas for Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317" target="_blank">House Oversight chair issues subpoenas for Epstein files</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-05 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250805-bill-hillary-clinton-se-1055a-37573c.jpg" alt="House committee subpoenas the Clintons and former DOJ officials to testify on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-committee-subpoenas-clintons-several-top-former-doj-officials-te-rcna223127" target="_blank">House committee subpoenas the Clintons and former DOJ officials to testify on Epstein</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-05 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release" target="_blank">OpenAI releases a free GPT model that can run right on your laptop</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689127f3b4edb9ba945bdc6e/master/pass/OpenAI-First-Open-Weight-Model-Business-2226497243.jpg" alt="OpenAI Just Released Its First Open-Weight Models Since GPT-2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/" target="_blank">OpenAI Just Released Its First Open-Weight Models Since GPT-2</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-500x500.jpg" alt="Report: Intel struggles with new 18A process as it cuts workers and cancels projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +154,29 @@
                 <span class="time">2025-08-05 15:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/invasion1-500x500-1754401082.jpg" alt="Invasion S3 trailer hints the series is finally finding its stride" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/invasion-s3-trailer-hints-the-series-is-finally-finding-its-stride/" target="_blank">Invasion S3 trailer hints the series is finally finding its stride</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 14:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67a68b37a0442f1b7c790e45/master/pass/Galaxy-S25-cases-hero-shot-Reviewer-Photo-SOURCE-Julian-Chokkattu.jpg" alt="The Best Samsung Galaxy S25 Cases (2025): S25, S25+, S25 Ultra, and S25 Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/" target="_blank">The Best Samsung Galaxy S25 Cases (2025): S25, S25+, S25 Ultra, and S25 Edge</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-05 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/openai/harmony" target="_blank">harmony: Renderer for the harmony response format to be used with gpt-oss</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-05 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544202&w=600" alt="Why I Abandoned My 30-Year Open-Source Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-i-abandoned-my-30-year-open-source-project" target="_blank">Why I Abandoned My 30-Year Open-Source Project</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzc5dcdllckvpzvylj38f.webp" alt="What if Wayne Gretzky wasn’t totally right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +213,6 @@
                 <span class="time">2025-08-05 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/introducing-bref-lambda-layers-terraform-module-1n1f" target="_blank">Introducing Bref Lambda Layers Terraform module</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/" target="_blank">Genie 3: A new frontier for world models</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-05 14:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/Scott-Frier_Nagging-is-a-Universal-Concept.jpg" alt="Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zoo-asks-visitors-to-donate-their-pets-to-feed-the-carnivores-gets-fed-to-the-lions-on-social-media-2000639095" target="_blank">Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/berserker.jpg" alt="Just Lower The Difficulty, You Fragile, Ridiculous People" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/05/tailor-drew-chalk-portraits-on-fabric.html" target="_blank">Tailor drew chalk portraits on fabric</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-05 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/morningcheck.jpg" alt="The Creator Behind Stop Killing Games Is Taking A Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/stop-killing-games-break-switch-2-cart-size-ign-layoffs-pilotwings-music-2000614692" target="_blank">The Creator Behind Stop Killing Games Is Taking A Break</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-05 14:50</span>
             </div>
         </div>
 </div>
@@ -342,7 +333,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 17:02 UTC
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
