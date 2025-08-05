@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 20:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 21:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/tourists-from-malawi-and-zambia-are-first-to-face-15000-visa-bonds-in-us?traffic_source=rss" target="_blank">Tourists from Malawi and Zambia are first to face $15,000 visa bonds in US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +102,29 @@
                 <span class="time">2025-08-05 16:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/aug/05/rwanda-agrees-to-take-up-to-250-migrants-from-the-us" target="_blank">Rwanda agrees to take up to 250 migrants from the US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-05 16:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_7218-500x500.jpg" alt="Murena’s Pixel Tablet is helping to wean me off Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/murenas-pixel-tablet-is-helping-to-wean-me-off-google/" target="_blank">Murena’s Pixel Tablet is helping to wean me off Google</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-05 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain" target="_blank">Apple is suing Apple Cinemas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 20:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +161,20 @@
                 <span class="time">2025-08-05 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689127f3b4edb9ba945bdc6e/master/pass/OpenAI-First-Open-Weight-Model-Business-2226497243.jpg" alt="OpenAI Just Released Its First Open-Weight Models Since GPT-2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/" target="_blank">OpenAI Just Released Its First Open-Weight Models Since GPT-2</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-500x500.jpg" alt="Report: Intel struggles with new 18A process as it cuts workers and cancels projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/report-intel-struggles-to-ramp-up-production-on-new-18a-manufacturing-process/" target="_blank">Report: Intel struggles with new 18A process as it cuts workers and cancels projects</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 16:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3" target="_blank">Onda de Palavras com C++ e SFML</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 20:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -213,15 +220,6 @@
                 <span class="time">2025-08-05 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/openai/harmony" target="_blank">harmony: Renderer for the harmony response format to be used with gpt-oss</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-05 17:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/glass-beach.jpg?fit=1200%2C790&amp;quality=60&amp;ssl=1" alt="You are prohibited from removing old litter from this California beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/05/you-are-prohibited-from-removing-old-litter-from-this-california-beach.html" target="_blank">You are prohibited from removing old litter from this California beach</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-05 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/VS-Dashboard-Streamable-026.jpg" alt="Everything That’s Bad About The New War Of The Worlds Movie In One Scene" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/war-of-the-worlds-amazon-ad-drone-scene-horrible-bad-review-2000614752" target="_blank">Everything That’s Bad About The New War Of The Worlds Movie In One Scene</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-05 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/Scott-Frier_Nagging-is-a-Universal-Concept.jpg" alt="Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/spider-punk-animated-movie-sony-spider-verse-daniel-kaluuya-2000639092" target="_blank">Spider-Punk Is Getting His Own Animated Movie</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1XE81DGV00KC0P3NDGKRAHW/hero-image.jpg" alt="Here&#x27;s Why ChatGPT Is Now Reminding You to Take a Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/why-chatgpt-is-now-reminding-you-to-take-break?utm_medium=RSS" target="_blank">Here&#x27;s Why ChatGPT Is Now Reminding You to Take a Break</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-05 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/09/63e787eb5d2b18960576e0331184bf14.jpg" alt="Illinois Bans AI From Providing Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/illinois-bans-ai-from-providing-therapy-2000639042" target="_blank">Illinois Bans AI From Providing Therapy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-05 16:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
