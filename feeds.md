@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 05:08:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-05 06:02:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 05:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5492999/tennessee-execution-defibrillator-byron-black" target="_blank">Tennessee readies for execution of man with working implanted defibrillator</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-05 05:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">Texas governor orders police to find and arrest Democrats who fled over redistricting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-04 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/us-democrats-block-vote-on-trump-backed-texas-redistricting-map?traffic_source=rss" target="_blank">US Democrats block vote on Trump-backed Texas redistricting map</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 22:47</span>
             </div>
         </div>
 </div>
@@ -172,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/05/being-unambiguous-in-what-you-want-the-software-engineer-in-a-vibe-coding-world/" target="_blank">Being unambiguous in what you want: the software engineer in a vibe coding world</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki" target="_blank">Deploy a Full Website on EC2 with Apache/Nginx (Using AWS Free Tier) 🚀</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +210,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/flameshot-13" target="_blank">Flameshot Screenshot App Gets First Major Update in 3 Years</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-04 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb" target="_blank">Python LeetCode 70: Climbing Stairs - (Easy)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 22:49</span>
             </div>
         </div>
 </div>
@@ -342,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
