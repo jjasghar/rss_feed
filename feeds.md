@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 19:04:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-05 20:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 19:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/5/major-flooding-in-hong-kong-as-highest-weather-warning-issued?traffic_source=rss" target="_blank">Major flooding in Hong Kong as highest weather warning issued</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 19:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250804-trump-numbers-data-lr-86ddc4.jpg" alt="How Trump is reshaping government data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-reshaping-government-data-rcna222900" target="_blank">How Trump is reshaping government data</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-05 16:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -80,29 +104,20 @@
                 <span class="time">2025-08-05 16:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754410577595_now_daily_a_winter_house_clintons_250805_1920x1080-8o14it.jpg" alt="House committee subpoenas Clintons and former DOJ officials for testimony on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/house-committee-subpoenas-clintons-and-former-doj-officials-for-testimony-on-epstein-244384837889" target="_blank">House committee subpoenas Clintons and former DOJ officials for testimony on Epstein</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-05 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e4/live/e69692c0-7216-11f0-af20-030418be2ca5.jpg" alt="Violent Channel smuggling gang&#x27;s French and UK network exposed by undercover BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly48nmmzdro?at_medium=RSS&at_campaign=rss" target="_blank">Violent Channel smuggling gang&#x27;s French and UK network exposed by undercover BBC investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale" target="_blank">Here are the best streaming service deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 19:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/cae7d2e4-13a4-4b4a-9c6e-92c42ea72fef-500x500.jpg" alt="Roku gets frugal with the content and price of its new streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2025-08-05 16:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview" target="_blank">WhatsApp will show a ‘safety overview’ before you join unknown group chats</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moonshadowrev/how-i-finally-built-my-portfolio-site-under-14kb-a-chill-journey-inspired-by-a-random-youtube-5f73" target="_blank">How I Finally Built My Portfolio Site Under 14KB – A Chill Journey Inspired by a Random YouTube Video</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547063&w=600" alt="Docker Multi-Stage Builds: Optimizing Development and Production Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-multi-stage-builds-image-optimization" target="_blank">Docker Multi-Stage Builds: Optimizing Development and Production Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +220,6 @@
                 <span class="title"><a href="https://github.com/openai/harmony" target="_blank">harmony: Renderer for the harmony response format to be used with gpt-oss</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-05 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544202&w=600" alt="Why I Abandoned My 30-Year Open-Source Project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-i-abandoned-my-30-year-open-source-project" target="_blank">Why I Abandoned My 30-Year Open-Source Project</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzc5dcdllckvpzvylj38f.webp" alt="What if Wayne Gretzky wasn’t totally right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ethan_jarrell_6619878bddd/what-if-wayne-gretzky-wasnt-totally-right-1dke" target="_blank">What if Wayne Gretzky wasn’t totally right?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 16:51</span>
             </div>
         </div>
 </div>
@@ -297,6 +303,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/05/awesome-game-alert" target="_blank">AWESOME GAME ALERT!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-05 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/in-the-bin/" target="_blank">In the Bin</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -335,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
