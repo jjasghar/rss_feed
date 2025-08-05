@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 07:04:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 08:01:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/05/ai-powered-fintech-alaan-raises-48m-one-of-the-largest-series-a-rounds-in-mena/" target="_blank">AI-powered fintech Alaan raises $48M, one of the largest Series A rounds in MENA</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-05 07:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Samsung Promo Codes: 30% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,15 +155,6 @@
                 <span class="time">2025-08-04 21:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/Dream-Chaser-Full-Profile-Landscape-2-500x500.jpg" alt="Is the Dream Chaser space plane ever going to launch into orbit?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" target="_blank">Is the Dream Chaser space plane ever going to launch into orbit?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-04 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +181,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/nextcloud-vs-cryptpad/" target="_blank">Nextcloud vs. CryptPad: Which Privacy-First Collaboration Tool is Right for You?</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-05 06:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://frigate.video/" target="_blank">Monitor your security cameras with locally processed AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-05 05:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki" target="_blank">Deploy a Full Website on EC2 with Apache/Nginx (Using AWS Free Tier) 🚀</a></span>
                 <span class="feed">DEV Community</span>
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Leap-16.0-RC" target="_blank">openSUSE Leap 16.0 Enters RC Phase With New Installer, Xfce On Wayland Option</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-05 01:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-F2FS" target="_blank">F2FS Sees New Improvements Merged For Linux 6.17 While Bcachefs Languishes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-05 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itshayder/stop-paying-for-chatgpt-plus-this-free-ai-codes-better-than-gpt-4-9oc" target="_blank">Stop Paying for ChatGPT Plus: This Free AI Codes Better Than GPT-4</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 23:44</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
