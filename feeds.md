@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 11:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-05 12:02:12 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/is-californias-congressional-map-a-democratic-gerrymander-as-vance-claims?traffic_source=rss" target="_blank">Is California’s congressional map a Democratic gerrymander as Vance claims?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/05/g-s1-81052/up-first-newsletter-texas-gop-congressional-map-nasa-satellites-yosemite-employees" target="_blank">Texas GOP threatens to arrest Democratic leaders. And, why 2 NASA missions could end</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-05 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ae/live/1e419150-71dd-11f0-89ea-4d6f9851f623.jpg" alt="Guidance for police on sharing suspects&#x27; ethnicity must change, home secretary says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8rygx2xpy7o?at_medium=RSS&at_campaign=rss" target="_blank">Guidance for police on sharing suspects&#x27; ethnicity must change, home secretary says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-05 10:23</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +103,38 @@
                 <span class="time">2025-08-05 08:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1797/live/25acc350-71d4-11f0-af20-030418be2ca5.jpg" alt="First migrants could be detained within days under UK-France small boats deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cewykzegy4qo?at_medium=RSS&at_campaign=rss" target="_blank">First migrants could be detained within days under UK-France small boats deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-05 08:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/new-york-city-skyline-tuesday_1754373445232_hpMain_4x3t_384.jpg" alt="2 dead and 58 sick from growing Legionnaires&#x27; disease cluster in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-dead-58-sick-growing-legionnaires-disease-cluster/story?id=124367595" target="_blank">2 dead and 58 sick from growing Legionnaires&#x27; disease cluster in New York City</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-05 07:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/" target="_blank">Jury rules Meta violated California privacy laws by quietly collecting Flo users’ menstrual health data</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-05 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/718390/gemini-wear-os-smartwatches-ai" target="_blank">We need to relearn how to use AI when it’s on our bodies</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6891852839e1c613cce99f12/master/pass/Beauty%20Subscription%20Boxes%20source%20ALLURE.png" alt="14 Best Beauty Box Subscriptions, Tested for Months (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-beauty-subscription-boxes/" target="_blank">14 Best Beauty Box Subscriptions, Tested for Months (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-05 10:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68877186327cdb3f53ab4d3c/master/pass/54630175545_fcce53d268_k.jpg" alt="How Supercomputing Will Evolve, According to Jack Dongarra" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +162,29 @@
                 <span class="time">2025-08-05 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/" target="_blank">Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-05 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-04 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/" target="_blank">A top designer was banned from Dribbble. Now he’s building his own competitor.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vadym_info_polus/building-an-admin-dashboard-with-live-smart-contract-data-4n39" target="_blank">Building an Admin Dashboard With Live Smart Contract Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544123&w=600" alt="Building a Simple AIOps Monitoring Dashboard With Prometheus and Grafana" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aiops-monitoring-dashboard-prometheus-grafana" target="_blank">Building a Simple AIOps Monitoring Dashboard With Prometheus and Grafana</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf" target="_blank">How I deployed my first project for my devops portfolio: Minikube and Deployment</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-05 06:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/nextcloud-vs-cryptpad/" target="_blank">Nextcloud vs. CryptPad: Which Privacy-First Collaboration Tool is Right for You?</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-05 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://frigate.video/" target="_blank">Monitor your security cameras with locally processed AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-05 05:05</span>
             </div>
         </div>
 </div>
@@ -308,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
