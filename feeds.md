@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 13:14:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-05 14:04:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 13:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 14:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/5/japan-girl-meets-war?traffic_source=rss" target="_blank">Japan: Girl Meets War</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-capitol-01-gty-jef-250805_1754399119952_hpMain_4x3t_384.jpg" alt="Trump says Texas GOP &#x27;entitled&#x27; to more seats as redistricting showdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/texas-redistricting-showdown-continues-trump-claims-gop-entitled/story?id=124371578" target="_blank">Trump says Texas GOP &#x27;entitled&#x27; to more seats as redistricting showdown continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-05 13:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754393344225_tdy_news_7a_bradley_netanyahu_gaza_250805_1920x1080-nxa1o9.jpg" alt="Benjamin Netanyahu Pushes for Full Israeli Takeover of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2025/live/5a73d3d0-71f2-11f0-a178-03cc5fabe4bc.jpg" alt="Netanyahu to propose full reoccupation of Gaza, Israeli media report" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/netanyahu-indicates-he-plans-to-expand-gaza-military-operations-244365893745" target="_blank">Benjamin Netanyahu Pushes for Full Israeli Takeover of Gaza</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-05 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/is-californias-congressional-map-a-democratic-gerrymander-as-vance-claims?traffic_source=rss" target="_blank">Is California’s congressional map a Democratic gerrymander as Vance claims?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/g-s1-81052/up-first-newsletter-texas-gop-congressional-map-nasa-satellites-yosemite-employees" target="_blank">Texas GOP threatens to arrest Democratic leaders. And, why 2 NASA missions could end</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 10:56</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpqv2qjg5vvo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu to propose full reoccupation of Gaza, Israeli media report</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-05 11:50</span>
             </div>
         </div>
 </div>
@@ -164,12 +166,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544154&w=600" alt="Create Your Own Custom LLM: Essential Steps and Techniques" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/creating-a-custom-llm-steps-and-techniques" target="_blank">Create Your Own Custom LLM: Essential Steps and Techniques</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Upstream-libsycl" target="_blank">Intel Upstreams libsycl SYCL Runtime Library Into LLVM</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-05 12:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html" target="_blank">The PSF has paused our Grants Program</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-05 12:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/refactoring-legacy-codebases/en/mediumimage/jake-zimmerman-getty-ritter-medium-1752753549991.jpg" alt="Presentation: Refactoring Stubborn, Legacy Codebases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/refactoring-legacy-codebases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Refactoring Stubborn, Legacy Codebases</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-05 12:09</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/aiops-monitoring-dashboard-prometheus-grafana" target="_blank">Building a Simple AIOps Monitoring Dashboard With Prometheus and Grafana</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698" target="_blank">uBlock Origin Lite now available for Safari</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-05 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/financial-architecture-software/en/smallimage/the-infoq-podcast-logo-thumbnail-1754122739645.jpg" alt="Podcast: The Financial Architecture of Software with Ian Miell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/financial-architecture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: The Financial Architecture of Software with Ian Miell</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/05/being-unambiguous-in-what-you-want-the-software-engineer-in-a-vibe-coding-world/" target="_blank">Being unambiguous in what you want: the software engineer in a vibe coding world</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-05 07:40</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1VKECQQWDWP0C3PN2WAVSW5/hero-image.jpg" alt="What People Are Getting Wrong This Week: The Disappearance of Julian Brown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-julian-brown-disappearance?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Disappearance of Julian Brown</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-05 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg" alt="After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take ‘Breaks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +292,6 @@
                 <span class="time">2025-08-04 22:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1TTS18D7N4XBQVQD2BBCGPK/hero-image.jpg" alt="The Switch 2 Has a Worse Temperature Range Than an iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/your-switch-2-can-overheat-easier-than-you-might-think?utm_medium=RSS" target="_blank">The Switch 2 Has a Worse Temperature Range Than an iPhone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
