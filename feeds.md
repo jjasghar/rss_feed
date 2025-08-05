@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 18:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 19:04:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 19:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/05/nx-s1-5493279/cdc-funding-freeze-overdose-omb" target="_blank">CDC to disburse delayed funds for fighting fentanyl and more, staffers say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-05 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +98,29 @@
                 <span class="time">2025-08-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/german-club-backs-out-of-signing-israel-striker-after-fan-backlash?traffic_source=rss" target="_blank">German club backs out of signing Israel striker after fan backlash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/cae7d2e4-13a4-4b4a-9c6e-92c42ea72fef-500x500.jpg" alt="Roku gets frugal with the content and price of its new streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/roku-gets-frugal-with-the-content-and-price-of-its-new-streaming-service/" target="_blank">Roku gets frugal with the content and price of its new streaming service</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-05 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories" target="_blank">Google Gemini can now create AI-generated bedtime stories</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 18:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +157,38 @@
                 <span class="time">2025-08-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/718880/trump-mobile-letter-democrats-regulators" target="_blank">Democrats ask how Trump&amp;#8217;s government will regulate Trump Mobile</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 15:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/05/hacker-used-a-voice-phishing-attack-to-steal-cisco-customers-personal-information/" target="_blank">Hacker used a voice phishing attack to steal Cisco customers’ personal information</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-05 15:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devunderdog/building-neurostash-v-ad5" target="_blank">Building NeuroStash - V</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/modest-tuba.jpg.webp?resize=406%2C232&amp;ssl=1" alt="Toot, toot: Linux Mastodon App Tuba Gets a Major Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/tuba-0-10-mastodon-client-linux-new-features" target="_blank">Toot, toot: Linux Mastodon App Tuba Gets a Major Update</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-05 18:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547023&w=600" alt="Tail Sampling: The Future of Intelligent Observability in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tail-sampling-observability-opentelemetry" target="_blank">Tail Sampling: The Future of Intelligent Observability in Distributed Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/ethan_jarrell_6619878bddd/what-if-wayne-gretzky-wasnt-totally-right-1dke" target="_blank">What if Wayne Gretzky wasn’t totally right?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-05 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544184&w=600" alt="AWS SNS (Amazon Simple Notification Service) and Spring Boot With Email as Subscriber" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-sns-spring-boot-email-subscriber" target="_blank">AWS SNS (Amazon Simple Notification Service) and Spring Boot With Email as Subscriber</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml9mpxn1ec3b96t8bzks.png" alt="Best AI Tools for Streamlining Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tremblayjustin/best-ai-tools-for-streamlining-processes-5fj3" target="_blank">Best AI Tools for Streamlining Processes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-exFAT" target="_blank">exFAT Fixes Significant Random Write Performance Regression With Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-05 15:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,15 @@
                 <span class="title"><a href="https://gizmodo.com/zoo-asks-visitors-to-donate-their-pets-to-feed-the-carnivores-gets-fed-to-the-lions-on-social-media-2000639095" target="_blank">Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/trump.jpg" alt="The Internet Reacts To President Trump Wandering Around On The White House Roof" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/trump-roof-nuclear-missile-epstein-memes-reacts-2000614734" target="_blank">The Internet Reacts To President Trump Wandering Around On The White House Roof</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-05 17:48</span>
             </div>
         </div>
 <div class="story">
@@ -275,15 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/illinois-bans-ai-from-providing-therapy-2000639042" target="_blank">Illinois Bans AI From Providing Therapy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-British-Path_C3_A9.jpg?fit=1080%2C680&amp;quality=60&amp;ssl=1" alt="Tailor drew chalk portraits on fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/05/tailor-drew-chalk-portraits-on-fabric.html" target="_blank">Tailor drew chalk portraits on fabric</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-05 15:26</span>
             </div>
         </div>
 </div>
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
