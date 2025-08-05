@@ -1,41 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 10:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 11:01:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/05/g-s1-81052/up-first-newsletter-texas-gop-congressional-map-nasa-satellites-yosemite-employees" target="_blank">Texas GOP threatens to arrest Democratic leaders. And, why 2 NASA missions could end</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-05 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250211-trump-modi-mb-0903-5e1c43.jpg" alt="Modi was ready to &#x27;make India great again,&#x27; then Trump put America first" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/asia/india-trump-modi-russia-oil-tariffs-trade-rcna222152" target="_blank">Modi was ready to &#x27;make India great again,&#x27; then Trump put America first</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-05 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/2-dead-58-sick-growing-legionnaires-disease-cluster/story?id=124367595" target="_blank">2 dead and 58 sick from growing Legionnaires&#x27; disease cluster in New York City</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-05 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5492999/tennessee-execution-defibrillator-byron-black" target="_blank">Tennessee readies for execution of man with working implanted defibrillator</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 05:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5492994/brazil-bolsonaro-supreme-court-house-arrest" target="_blank">Brazil&#x27;s Supreme Court orders house arrest for former President Bolsonar</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 04:49</span>
             </div>
         </div>
 </div>
@@ -225,20 +214,6 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/first-sentencing-in-scheme-to-help-north-koreans-infiltrate-us-companies.html" target="_blank">First Sentencing in Scheme to Help North Koreans Infiltrate US Companies</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-04 11:01</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
@@ -333,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
