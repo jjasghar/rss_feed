@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 16:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 17:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/jewish-britons-decry-ban-on-palestine-action-as-illegitimate-unethical?traffic_source=rss" target="_blank">Jewish Britons decry ban on Palestine Action as ‘illegitimate, unethical’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/aug/05/rwanda-agrees-to-take-up-to-250-migrants-from-the-us" target="_blank">Rwanda agrees to take up to 250 migrants from the US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-05 16:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +104,20 @@
                 <span class="time">2025-08-05 15:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea8/live/9caf19e0-71f6-11f0-af20-030418be2ca5.jpg" alt="Besieged Sudan city residents face starvation, UN warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c776njyl74po?at_medium=RSS&at_campaign=rss" target="_blank">Besieged Sudan city residents face starvation, UN warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-05 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/5/japan-girl-meets-war?traffic_source=rss" target="_blank">Japan: Girl Meets War</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-500x500.jpg" alt="Report: Intel struggles with new 18A process as it cuts workers and cancels projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/report-intel-struggles-to-ramp-up-production-on-new-18a-manufacturing-process/" target="_blank">Report: Intel struggles with new 18A process as it cuts workers and cancels projects</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-05 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +163,29 @@
                 <span class="time">2025-08-05 13:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080225a-lg-500x500.jpg" alt="Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/lunar-outpost-celebrates-release-of-lego-moon-rover-space-vehicle/" target="_blank">Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzc5dcdllckvpzvylj38f.webp" alt="What if Wayne Gretzky wasn’t totally right?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ethan_jarrell_6619878bddd/what-if-wayne-gretzky-wasnt-totally-right-1dke" target="_blank">What if Wayne Gretzky wasn’t totally right?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544184&w=600" alt="AWS SNS (Amazon Simple Notification Service) and Spring Boot With Email as Subscriber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-sns-spring-boot-email-subscriber" target="_blank">AWS SNS (Amazon Simple Notification Service) and Spring Boot With Email as Subscriber</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml9mpxn1ec3b96t8bzks.png" alt="Best AI Tools for Streamlining Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +222,6 @@
                 <span class="time">2025-08-05 14:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544154&w=600" alt="Create Your Own Custom LLM: Essential Steps and Techniques" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/creating-a-custom-llm-steps-and-techniques" target="_blank">Create Your Own Custom LLM: Essential Steps and Techniques</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-05 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-Upstream-libsycl" target="_blank">Intel Upstreams libsycl SYCL Runtime Library Into LLVM</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-05 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/berserker.jpg" alt="Just Lower The Difficulty, You Fragile, Ridiculous People" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/difficulty-levels-soulslike-boss-fight-khazan-2000614669" target="_blank">Just Lower The Difficulty, You Fragile, Ridiculous People</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/spider-man-across-the-spider-verse-spider-punk.jpg" alt="Spider-Punk Is Getting His Own Animated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-punk-animated-movie-sony-spider-verse-daniel-kaluuya-2000639092" target="_blank">Spider-Punk Is Getting His Own Animated Movie</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1XE81DGV00KC0P3NDGKRAHW/hero-image.jpg" alt="Here&#x27;s Why ChatGPT Is Now Reminding You to Take a Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/why-chatgpt-is-now-reminding-you-to-take-break?utm_medium=RSS" target="_blank">Here&#x27;s Why ChatGPT Is Now Reminding You to Take a Break</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-05 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/09/63e787eb5d2b18960576e0331184bf14.jpg" alt="Illinois Bans AI From Providing Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/stop-killing-games-break-switch-2-cart-size-ign-layoffs-pilotwings-music-2000614692" target="_blank">The Creator Behind Stop Killing Games Is Taking A Break</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-05 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1X288VD5RDXB5XHFD6M81V6/hero-image.jpg" alt="How to Use the New ChatGPT Agent, If You Trust It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-use-chatgpt-agent?utm_medium=RSS" target="_blank">How to Use the New ChatGPT Agent, If You Trust It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-05 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Cat-Video-Fest-e1754403539897.jpg?fit=600%2C888&amp;quality=60&amp;ssl=1" alt="CatVideoFest: watch cat videos on the big screen to help local shelters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/05/catvideofest-watch-cat-videos-on-the-big-screen-to-help-local-shelters.html" target="_blank">CatVideoFest: watch cat videos on the big screen to help local shelters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-05 14:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1VKECQQWDWP0C3PN2WAVSW5/hero-image.jpg" alt="What People Are Getting Wrong This Week: The Disappearance of Julian Brown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-julian-brown-disappearance?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: The Disappearance of Julian Brown</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-05 13:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
