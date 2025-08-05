@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 21:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-05 22:01:40 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/ghislaine-maxwell-02-gty-jef-250728_1753726360842_hpMain_4x3t_384.jpg" alt="Ghislaine Maxwell, in DOJ interview, said nothing harmful to Trump: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-considers-releasing-transcripts-doj-interview-ghislaine/story?id=124383957" target="_blank">Ghislaine Maxwell, in DOJ interview, said nothing harmful to Trump: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-05 21:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +97,20 @@
                 <span class="time">2025-08-05 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250804-trump-numbers-data-lr-86ddc4.jpg" alt="How Trump is reshaping government data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-reshaping-government-data-rcna222900" target="_blank">How Trump is reshaping government data</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-05 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/" target="_blank">Clay confirms it closed $100M round at $3.1B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-05 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_7218-500x500.jpg" alt="Murena’s Pixel Tablet is helping to wean me off Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,30 +139,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68927cee2343808acc35a297/master/pass/HBO-Show-Guide-Culture-the-yogurt-shop-murders_2.jpg" alt="The 48 Best Shows on HBO Max Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/" target="_blank">The 48 Best Shows on HBO Max Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-05 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/cae7d2e4-13a4-4b4a-9c6e-92c42ea72fef-500x500.jpg" alt="Roku gets frugal with the content and price of its new streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/roku-gets-frugal-with-the-content-and-price-of-its-new-streaming-service/" target="_blank">Roku gets frugal with the content and price of its new streaming service</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-05 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories" target="_blank">Google Gemini can now create AI-generated bedtime stories</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 18:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release" target="_blank">OpenAI releases a free GPT model that can run right on your laptop</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 17:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/matt-smith-eleventh-doctor-doctor-who.jpg" alt="‘Doctor Who’ Legend Matt Smith Is Joining the Villains of ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-legend-matt-smith-is-joining-the-villains-of-star-wars-starfighter-2000639313" target="_blank">‘Doctor Who’ Legend Matt Smith Is Joining the Villains of ‘Star Wars: Starfighter’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/glass-beach.jpg?fit=1200%2C790&amp;quality=60&amp;ssl=1" alt="You are prohibited from removing old litter from this California beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/difficulty-levels-soulslike-boss-fight-khazan-2000614669" target="_blank">Just Lower The Difficulty, You Fragile, Ridiculous People</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/spider-man-across-the-spider-verse-spider-punk.jpg" alt="Spider-Punk Is Getting His Own Animated Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-punk-animated-movie-sony-spider-verse-daniel-kaluuya-2000639092" target="_blank">Spider-Punk Is Getting His Own Animated Movie</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-05 16:50</span>
             </div>
         </div>
 </div>
@@ -348,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
