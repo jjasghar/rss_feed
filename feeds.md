@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 15:03:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-05 16:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/german-club-backs-out-of-signing-israel-striker-after-fan-backlash?traffic_source=rss" target="_blank">German club backs out of signing Israel striker after fan backlash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5482913/social-security-phone-sharing-system" target="_blank">Your call to a local Social Security office may be picked up by someone who can&#x27;t help</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-05 15:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/james-comer-gty-gmh-250805_1754405193926_hpMain_4x3t_384.jpg" alt="House Oversight chair issues subpoenas for Epstein files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317" target="_blank">House Oversight chair issues subpoenas for Epstein files</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-05 15:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250805-bill-hillary-clinton-se-1055a-37573c.jpg" alt="House committee subpoenas the Clintons and former DOJ officials to testify on Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/house-committee-subpoenas-clintons-several-top-former-doj-officials-te-rcna223127" target="_blank">House committee subpoenas the Clintons and former DOJ officials to testify on Epstein</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-05 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea8/live/9caf19e0-71f6-11f0-af20-030418be2ca5.jpg" alt="Besieged Sudan city residents face starvation, UN warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,47 +104,20 @@
                 <span class="time">2025-08-05 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/texas-capitol-01-gty-jef-250805_1754399119952_hpMain_4x3t_384.jpg" alt="Trump says Texas GOP &#x27;entitled&#x27; to more seats as redistricting showdown continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/texas-redistricting-showdown-continues-trump-claims-gop-entitled/story?id=124371578" target="_blank">Trump says Texas GOP &#x27;entitled&#x27; to more seats as redistricting showdown continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-05 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/in-oil-rich-angola-poverty-hunger-and-deadly-unrest-over-fuel-price-hikes?traffic_source=rss" target="_blank">In oil-rich Angola, poverty, hunger and deadly unrest over fuel price hikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/05/g-s1-21264/bangladesh-health-care-new-government" target="_blank">Bangladesh needs the world&#x27;s help to keep up its remarkable progress in health care</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mike-flood-town-hall_1754366930749_hpMain_4x3t_384.jpg" alt="&#x27;Vote him out!&#x27;: Town hall erupts in anger at GOP congressman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vote-town-hall-erupts-anger-nebraska-gop-congressman/story?id=124365038" target="_blank">&#x27;Vote him out!&#x27;: Town hall erupts in anger at GOP congressman</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-05 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview" target="_blank">WhatsApp will show a ‘safety overview’ before you join unknown group chats</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +163,29 @@
                 <span class="time">2025-08-05 12:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/05/jury-rules-meta-violated-california-privacy-laws-by-collecting-menstrual-health-data-from-flo/" target="_blank">Jury rules Meta violated California privacy laws by quietly collecting Flo users’ menstrual health data</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-05 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml9mpxn1ec3b96t8bzks.png" alt="Best AI Tools for Streamlining Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tremblayjustin/best-ai-tools-for-streamlining-processes-5fj3" target="_blank">Best AI Tools for Streamlining Processes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-exFAT" target="_blank">exFAT Fixes Significant Random Write Performance Regression With Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +222,6 @@
                 <span class="time">2025-08-05 12:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html" target="_blank">The PSF has paused our Grants Program</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-05 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/refactoring-legacy-codebases/en/mediumimage/jake-zimmerman-getty-ritter-medium-1752753549991.jpg" alt="Presentation: Refactoring Stubborn, Legacy Codebases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/refactoring-legacy-codebases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Refactoring Stubborn, Legacy Codebases</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-05 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/09/63e787eb5d2b18960576e0331184bf14.jpg" alt="Illinois Bans AI From Providing Therapy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/illinois-bans-ai-from-providing-therapy-2000639042" target="_blank">Illinois Bans AI From Providing Therapy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-British-Path_C3_A9.jpg?fit=1080%2C680&amp;quality=60&amp;ssl=1" alt="Tailor drew chalk portraits on fabric" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/05/tailor-drew-chalk-portraits-on-fabric.html" target="_blank">Tailor drew chalk portraits on fabric</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-05 15:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/morningcheck.jpg" alt="The Creator Behind Stop Killing Games Is Taking A Break" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,29 +295,29 @@
                 <span class="time">2025-08-05 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg" alt="After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take ‘Breaks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/after-a-deluge-of-mental-health-concerns-chatgpt-will-now-nudge-users-to-take-breaks-2000638820" target="_blank">After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take ‘Breaks’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-05 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Broken-Arrow-Combined-Arms.jpg" alt="3 Essential Tips For Getting Started In Broken Arrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/broken-arrow-tips-starter-deck-recon-infantry-2000614583" target="_blank">3 Essential Tips For Getting Started In Broken Arrow</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-05 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/in-the-bin/" target="_blank">In the Bin</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-08-05 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754340739-20250805.png" alt="Saturday Morning Breakfast Cereal - Ethics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ethics-7" target="_blank">Saturday Morning Breakfast Cereal - Ethics</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-05 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -319,22 +336,13 @@
                 <span class="time">2025-08-05 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1753766683-20250804.png" alt="Saturday Morning Breakfast Cereal - Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/bot-2" target="_blank">Saturday Morning Breakfast Cereal - Bot</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
