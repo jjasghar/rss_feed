@@ -1,5 +1,4 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 01:29:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-05 02:42:40 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
@@ -7,26 +6,29 @@
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 02:42 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +54,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754348876858_nn_rch_texas_legislature_250804_1920x1080-cdie9o.jpg" alt="Texas Republicans threaten to arrest Democrats who left state to block redistricting bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/texas-republicans-threaten-to-arrest-democrats-who-left-state-to-block-redistricting-bill-244338245830" target="_blank">Texas Republicans threaten to arrest Democrats who left state to block redistricting bill</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-04 23:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="Texas governor orders police to find and arrest Democrats who fled over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -70,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd5/live/fe4cefe0-7176-11f0-ad39-b1e12befb3f4.jpg" alt="UK-French small boats pilot plan comes into force" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cewykzegy4qo?at_medium=RSS&at_campaign=rss" target="_blank">UK-French small boats pilot plan comes into force</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-04 21:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -78,29 +98,20 @@
                 <span class="time">2025-08-04 21:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754342836016_now_hallie_arrest_dems_250804_1920x1080-1k0rvy.jpg" alt="Arrest warrants issued targeting Democrats who fled state in effort to stall GOP redistricting plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/arrest-warrants-issued-targeting-democrats-who-fled-state-in-effort-to-stall-gop-redistricting-plans-244330053910" target="_blank">Arrest warrants issued targeting Democrats who fled state in effort to stall GOP redistricting plans</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-04 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/palestinians-distraught-over-relatives-missing-at-deadly-gaza-aid-sites?traffic_source=rss" target="_blank">Palestinians distraught over relatives missing at deadly Gaza aid sites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 21:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/04/jeh-aerospace-nets-11m-to-scale-the-commercial-aircraft-supply-chain-in-india/" target="_blank">Jeh Aerospace nets $11M to scale the commercial aircraft supply chain in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-05 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,20 @@
                 <span class="time">2025-08-04 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/google-says-its-ai-based-bug-hunter-found-20-security-vulnerabilities/" target="_blank">Google says its AI-based bug hunter found 20 security vulnerabilities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 19:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Leap-16.0-RC" target="_blank">openSUSE Leap 16.0 Enters RC Phase With New Installer, Xfce On Wayland Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-05 01:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/flameshot-hero-1.jpg?resize=406%2C232&amp;ssl=1" alt="Flameshot Screenshot App Gets First Major Update in 3 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/flameshot-13" target="_blank">Flameshot Screenshot App Gets First Major Update in 3 Years</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-04 23:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://isitreallyfoss.com/" target="_blank">Projects evaluated to see if they&#x27;re as free and open source as advertised</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-04 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/study-mode-chatgpt/en/headerimage/generatedHeaderImage-1754338603287.jpg" alt="OpenAI Launches Study Mode in ChatGPT to Support Step-by-Step Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/study-mode-chatgpt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Launches Study Mode in ChatGPT to Support Step-by-Step Learning</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-04 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546980&w=600" alt="Why Developers Should Pay Attention to Internal Directory Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-developers-should-pay-attention-to-internal-di" target="_blank">Why Developers Should Pay Attention to Internal Directory Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-04 20:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:42 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
