@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-04 23:01:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-05 00:05:20 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, August 04, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/far-right-figure-tommy-robinson-arrested-for-train-station-assault-in-uk?traffic_source=rss" target="_blank">Far-right figure Tommy Robinson arrested for train station assault in UK</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-04 23:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250804_1754316159328_hpMain_4x3t_384.jpg" alt="Texas governor orders police to find and arrest Democrats who fled over redistricting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/showdown-texas-abbott-threatens-democrats-fled-protest-redistricting/story?id=124343408" target="_blank">Texas governor orders police to find and arrest Democrats who fled over redistricting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-04 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/palestinians-distraught-over-relatives-missing-at-deadly-gaza-aid-sites?traffic_source=rss" target="_blank">Palestinians distraught over relatives missing at deadly Gaza aid sites</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-04 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/04/nx-s1-5492483/the-global-impact-of-the-latest-u-s-tariffs" target="_blank">The Global Impact of the Latest U.S. Tariffs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-04 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754340316143_now_mtp_full_scudder_250804_1920x1080-tv03s0.jpg" alt="Gov. Abbott is being a ‘wannabe authoritarian’ with redistricting push: Texas Democratic party chair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-abbott-is-being-a-wannabe-authoritarian-with-redistricting-push-texas-democratic-party-chair-244325957905" target="_blank">Gov. Abbott is being a ‘wannabe authoritarian’ with redistricting push: Texas Democratic party chair</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-04 20:45</span>
             </div>
         </div>
 </div>
@@ -169,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itshayder/stop-paying-for-chatgpt-plus-this-free-ai-codes-better-than-gpt-4-9oc" target="_blank">Stop Paying for ChatGPT Plus: This Free AI Codes Better Than GPT-4</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-04 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb" target="_blank">Python LeetCode 70: Climbing Stairs - (Easy)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://isitreallyfoss.com/" target="_blank">Projects evaluated to see if they&#x27;re as free and open source as advertised</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-04 21:26</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +215,6 @@
                 <span class="time">2025-08-04 19:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546068&w=600" alt="WebAssembly: From Browser Plugin to the Next Universal Runtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/webassembly-from-browser-plugin-to-the-next-univer" target="_blank">WebAssembly: From Browser Plugin to the Next Universal Runtime</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Git-2.51-rc0" target="_blank">Git 2.51-rc0 Makes More Preparations For Git 3.0 Where It Will Use SHA-256 By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-04 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Together-movie.jpg" alt="‘Together’ Director Explains How that Wild Final Shot Was Made (Without AI)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/together-director-explains-how-that-wild-final-shot-was-made-without-ai-2000638829" target="_blank">‘Together’ Director Explains How that Wild Final Shot Was Made (Without AI)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-04 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/noem-1.jpg?fit=1200%2C805&amp;quality=60&amp;ssl=1" alt="Noem announces plans to replicate Alligator Alcatraz model across multiple states" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/deus-ex-voice-actor-dont-use-ai-adam-jensen-cyberpunk-toufexis-2000614565" target="_blank">Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-04 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1V02SD4P14MZKZST7KWXHC1/hero-image.png" alt="This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/screenfloat-instantly-blocks-out-sensitive-info-from-your-mac-screenshots?utm_medium=RSS" target="_blank">This App Instantly Blocks Out Sensitive Info From Your Mac Screenshots</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-04 18:30</span>
             </div>
         </div>
 </div>
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
