@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 09:04:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 10:01:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +55,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/tendulkar-leads-praise-for-india-after-test-fightback-in-england?traffic_source=rss" target="_blank">Tendulkar leads praise for India after Test fightback in England</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 09:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/bengaluru-stops-salaries-as-indias-super-league-turmoil-deepens?traffic_source=rss" target="_blank">Bengaluru stops salaries as India’s Super League turmoil deepens</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-05 08:37</span>
@@ -64,6 +76,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cewykzegy4qo?at_medium=RSS&at_campaign=rss" target="_blank">First migrants could be detained within days under UK-France small boats deal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-05 08:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/new-york-city-skyline-tuesday_1754373445232_hpMain_4x3t_384.jpg" alt="2 dead and 58 sick from growing Legionnaires&#x27; disease cluster in New York City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-dead-58-sick-growing-legionnaires-disease-cluster/story?id=124367595" target="_blank">2 dead and 58 sick from growing Legionnaires&#x27; disease cluster in New York City</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-05 07:38</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5492994/brazil-bolsonaro-supreme-court-house-arrest" target="_blank">Brazil&#x27;s Supreme Court orders house arrest for former President Bolsonar</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-05 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/israels-netanyahu-has-decided-on-full-occupation-of-gaza-reports-say?traffic_source=rss" target="_blank">Israel’s Netanyahu has decided on full occupation of Gaza, reports say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/4/far-right-figure-tommy-robinson-arrested-for-train-station-assault-in-uk?traffic_source=rss" target="_blank">Far-right figure Tommy Robinson arrested for train station assault in UK</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-04 23:14</span>
             </div>
         </div>
 </div>
@@ -169,6 +172,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698" target="_blank">uBlock Origin Lite now available for Safari</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-05 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/podcasts/financial-architecture-software/en/smallimage/the-infoq-podcast-logo-thumbnail-1754122739645.jpg" alt="Podcast: The Financial Architecture of Software with Ian Miell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/financial-architecture-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: The Financial Architecture of Software with Ian Miell</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-05 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/05/being-unambiguous-in-what-you-want-the-software-engineer-in-a-vibe-coding-world/" target="_blank">Being unambiguous in what you want: the software engineer in a vibe coding world</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://frigate.video/" target="_blank">Monitor your security cameras with locally processed AI</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-05 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki" target="_blank">Deploy a Full Website on EC2 with Apache/Nginx (Using AWS Free Tier) 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 03:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Leap-16.0-RC" target="_blank">openSUSE Leap 16.0 Enters RC Phase With New Installer, Xfce On Wayland Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-05 01:31</span>
             </div>
         </div>
 </div>
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
