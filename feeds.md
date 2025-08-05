@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 00:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 01:29:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +104,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21289209/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-04 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/04/a-top-designer-was-banned-from-dribbble-now-hes-building-his-own-competitor/" target="_blank">A top designer was banned from Dribbble. Now he’s building his own competitor.</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +155,20 @@
                 <span class="time">2025-08-04 19:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/04/foxconn-sells-former-gm-factory-to-mystery-buyer-after-failing-to-make-evs/" target="_blank">Foxconn sells former GM factory to mystery buyer after failing to make EVs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-04 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-F2FS" target="_blank">F2FS Sees New Improvements Merged For Linux 6.17 While Bcachefs Languishes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-05 00:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="time">2025-08-04 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ederwii/ai-context-documentation-the-missing-link-in-ai-assisted-development-5ha6" target="_blank">AI-Context Documentation: The Missing Link in AI-Assisted Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-04 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +243,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/shutterstock_651535012-scaled-e1754346799717.jpg?fit=600%2C442&amp;quality=60&amp;ssl=1" alt="Road Rules All-star Sean Duffy to announce US plan for a nuclear reactor on the moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/04/road-rules-all-star-sean-duffy-to-announce-us-plan-for-a-nuclear-reactor-on-the-moon.html" target="_blank">Road Rules All-star Sean Duffy to announce US plan for a nuclear reactor on the moon</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-04 22:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/noem-1.jpg?fit=1200%2C805&amp;quality=60&amp;ssl=1" alt="Noem announces plans to replicate Alligator Alcatraz model across multiple states" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/08/04/noem-announces-plans-to-replicate-alligator-alcatraz-model-across-multiple-states.html" target="_blank">Noem announces plans to replicate Alligator Alcatraz model across multiple states</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-04 22:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1TTS18D7N4XBQVQD2BBCGPK/hero-image.jpg" alt="The Switch 2 Has a Worse Temperature Range Than an iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/your-switch-2-can-overheat-easier-than-you-might-think?utm_medium=RSS" target="_blank">The Switch 2 Has a Worse Temperature Range Than an iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-04 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -270,29 +287,20 @@
                 <span class="time">2025-08-04 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Skelly-Home-Depot.jpg" alt="Home Depot’s Halloween Skeleton Decorations Now Feature Electronically Enhanced Terrors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/home-depots-halloween-skeleton-decorations-now-feature-electronically-enhanced-terrors-2000638608" target="_blank">Home Depot’s Halloween Skeleton Decorations Now Feature Electronically Enhanced Terrors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-04 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/e14f0d917be780e38b19abb2fd3b2b80.jpg" alt="Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/deus-ex-voice-actor-dont-use-ai-adam-jensen-cyberpunk-toufexis-2000614565" target="_blank">Deus Ex Voice Actor Says ‘Do Not F***ing’ Use AI To Add Adam Jensen To Other Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5628.png" alt="Snakes To Meet You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5628" target="_blank">Snakes To Meet You</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-05 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1753766683-20250804.png" alt="Saturday Morning Breakfast Cereal - Bot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -320,22 +328,13 @@
                 <span class="time">2025-08-04 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5627.png" alt="Hair We Go Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5627" target="_blank">Hair We Go Again</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-04 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
