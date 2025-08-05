@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 12:02:12 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-05 13:14:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/in-oil-rich-angola-poverty-hunger-and-deadly-unrest-over-fuel-price-hikes?traffic_source=rss" target="_blank">In oil-rich Angola, poverty, hunger and deadly unrest over fuel price hikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/05/g-s1-21264/bangladesh-health-care-new-government" target="_blank">Bangladesh needs the world&#x27;s help to keep up its remarkable progress in health care</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-05 12:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/mike-flood-town-hall_1754366930749_hpMain_4x3t_384.jpg" alt="&#x27;Vote him out!&#x27;: Town hall erupts in anger at GOP congressman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vote-town-hall-erupts-anger-nebraska-gop-congressman/story?id=124365038" target="_blank">&#x27;Vote him out!&#x27;: Town hall erupts in anger at GOP congressman</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-05 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754393344225_tdy_news_7a_bradley_netanyahu_gaza_250805_1920x1080-nxa1o9.jpg" alt="Benjamin Netanyahu Pushes for Full Israeli Takeover of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/netanyahu-indicates-he-plans-to-expand-gaza-military-operations-244365893745" target="_blank">Benjamin Netanyahu Pushes for Full Israeli Takeover of Gaza</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-05 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/is-californias-congressional-map-a-democratic-gerrymander-as-vance-claims?traffic_source=rss" target="_blank">Is California’s congressional map a Democratic gerrymander as Vance claims?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-05 11:19</span>
@@ -67,47 +99,20 @@
                 <span class="time">2025-08-05 10:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ae/live/1e419150-71dd-11f0-89ea-4d6f9851f623.jpg" alt="Guidance for police on sharing suspects&#x27; ethnicity must change, home secretary says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8rygx2xpy7o?at_medium=RSS&at_campaign=rss" target="_blank">Guidance for police on sharing suspects&#x27; ethnicity must change, home secretary says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-05 10:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250211-trump-modi-mb-0903-5e1c43.jpg" alt="Modi was ready to &#x27;make India great again,&#x27; then Trump put America first" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/asia/india-trump-modi-russia-oil-tariffs-trade-rcna222152" target="_blank">Modi was ready to &#x27;make India great again,&#x27; then Trump put America first</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-05 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/tendulkar-leads-praise-for-india-after-test-fightback-in-england?traffic_source=rss" target="_blank">Tendulkar leads praise for India after Test fightback in England</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/5/bengaluru-stops-salaries-as-indias-super-league-turmoil-deepens?traffic_source=rss" target="_blank">Bengaluru stops salaries as India’s Super League turmoil deepens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 08:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080225a-lg-500x500.jpg" alt="Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/lunar-outpost-celebrates-release-of-lego-moon-rover-space-vehicle/" target="_blank">Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-05 12:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-08-05 07:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Samsung Promo Codes: 30% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsung-promo-codes/" target="_blank">Samsung Promo Codes: 30% Off | August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-05 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html" target="_blank">The PSF has paused our Grants Program</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-05 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,13 +217,18 @@
                 <span class="time">2025-08-05 07:40</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf" target="_blank">How I deployed my first project for my devops portfolio: Minikube and Deployment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 06:29</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/surveilling-your-children-with-airtags.html" target="_blank">Surveilling Your Children with AirTags</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-05 11:06</span>
             </div>
         </div>
 </div>
@@ -226,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg" alt="After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take ‘Breaks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/after-a-deluge-of-mental-health-concerns-chatgpt-will-now-nudge-users-to-take-breaks-2000638820" target="_blank">After a Deluge of Mental Health Concerns, ChatGPT Will Now Nudge Users to Take ‘Breaks’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Broken-Arrow-Combined-Arms.jpg" alt="3 Essential Tips For Getting Started In Broken Arrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/broken-arrow-tips-starter-deck-recon-infantry-2000614583" target="_blank">3 Essential Tips For Getting Started In Broken Arrow</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-05 12:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Together-movie.jpg" alt="‘Together’ Director Explains How that Wild Final Shot Was Made (Without AI)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/your-switch-2-can-overheat-easier-than-you-might-think?utm_medium=RSS" target="_blank">The Switch 2 Has a Worse Temperature Range Than an iPhone</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-04 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Lenovo-300E.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The perfect laptop for kids, klutzes, and chaotic neutrals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/04/the-perfect-laptop-for-kids-klutzes-and-chaotic-neutrals.html" target="_blank">The perfect laptop for kids, klutzes, and chaotic neutrals</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/losts.gif" alt="No One’s Ever Lost A Game Like This Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/evo-2025-viral-moment-fatal-fury-meme-kog-go1-2000614619" target="_blank">No One’s Ever Lost A Game Like This Before</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-04 20:45</span>
             </div>
         </div>
 </div>
@@ -317,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
