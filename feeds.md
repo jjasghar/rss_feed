@@ -1,11 +1,6 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 02:42:40 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-05 03:31:21 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
@@ -14,21 +9,24 @@
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 02:42 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/deploy-a-full-website-on-ec2-with-apachenginx-using-aws-free-tier-1nki" target="_blank">Deploy a Full Website on EC2 with Apache/Nginx (Using AWS Free Tier) 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 03:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Leap-16.0-RC" target="_blank">openSUSE Leap 16.0 Enters RC Phase With New Installer, Xfce On Wayland Option</a></span>
                 <span class="feed">Phoronix</span>
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/grantdotdev/python-leetcode-70-climbing-stairs-easy-49fb" target="_blank">Python LeetCode 70: Climbing Stairs - (Easy)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://isitreallyfoss.com/" target="_blank">Projects evaluated to see if they&#x27;re as free and open source as advertised</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-04 21:26</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:42 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
