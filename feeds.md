@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 06:02:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-05 07:04:56 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 05, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +103,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Samsung Promo Codes: 30% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsung-promo-codes/" target="_blank">Samsung Promo Codes: 30% Off | August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-05 06:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -144,15 +156,6 @@
                 <span class="time">2025-08-04 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders" target="_blank">ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-04 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,6 +168,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/05/being-unambiguous-in-what-you-want-the-software-engineer-in-a-vibe-coding-world/" target="_blank">Being unambiguous in what you want: the software engineer in a vibe coding world</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shahin1337/how-i-deployed-my-first-project-for-my-devops-portfolio-minikube-and-deployment-50kf" target="_blank">How I deployed my first project for my devops portfolio: Minikube and Deployment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-05 06:29</span>
             </div>
         </div>
 <div class="story">
@@ -201,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/itshayder/stop-paying-for-chatgpt-plus-this-free-ai-codes-better-than-gpt-4-9oc" target="_blank">Stop Paying for ChatGPT Plus: This Free AI Codes Better Than GPT-4</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-04 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/flameshot-hero-1.jpg?resize=406%2C232&amp;ssl=1" alt="Flameshot Screenshot App Gets First Major Update in 3 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/flameshot-13" target="_blank">Flameshot Screenshot App Gets First Major Update in 3 Years</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-04 23:01</span>
             </div>
         </div>
 </div>
@@ -317,22 +320,13 @@
                 <span class="time">2025-08-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/04/penny-arcade-presents-healthwatch" target="_blank">Penny Arcade Presents: HealthWatch</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-04 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
