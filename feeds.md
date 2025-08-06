@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 08:01:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-06 09:04:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 09:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81012/chatgpt-ai-college-students-chegg-study" target="_blank">AI companies are targeting students. Here&#x27;s how that&#x27;s changing studying</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741f/live/a2d92310-721e-11f0-843e-eb3da839c0e3.jpg" alt="Reeves must raise tax to cover £41bn gap, says think tank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn85vyd1epzo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves must raise tax to cover £41bn gap, says think tank</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 07:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c8/live/a4f70e80-7275-11f0-af20-030418be2ca5.jpg" alt="UN official says Israel expanding Gaza operations would risk &#x27;catastrophic consequences&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/trump-says-four-candidates-in-running-for-fed-chair-rules-out-bessent?traffic_source=rss" target="_blank">Trump says four candidates in running for Fed chair, rules out Bessent</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 03:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/what-is-the-chikungunya-virus-how-are-countries-such-as-china-battling-it?traffic_source=rss" target="_blank">What is the chikungunya virus, how are countries such as China battling it?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5493502/coast-guard-titan-submersible-oceangate-investigation" target="_blank">Coast Guard says Titan submersible deaths were preventable and faults company&#x27;s CEO</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 00:36</span>
             </div>
         </div>
 </div>
@@ -164,6 +164,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/backend-finops-cost-efficiency/en/headerimage/header-backend-finops-cost-efficiency-1754301935666.jpg" alt="Article: Backend FinOps: Engineering Cost-Efficient Microservices in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/backend-finops-cost-efficiency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Backend FinOps: Engineering Cost-Efficient Microservices in the Cloud</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oodlesplatform/how-enterprises-can-achieve-aws-cloud-security-34ff" target="_blank">How Enterprises Can Achieve AWS Cloud Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/" target="_blank">Python performance myths and fairy tales</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-06 08:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7f8mmfnxcxtozklil0dj.png" alt="Gmail API developer intro: spotting chatty threads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf" target="_blank">Exploring PhantomData: Type Safety Without Runtime Cost</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 05:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-craft-means-for-canonical" target="_blank">What craft means for Canonical</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-06 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/KittenML/KittenTTS" target="_blank">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-06 05:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn" target="_blank">From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 04:07</span>
             </div>
         </div>
 </div>
@@ -305,6 +305,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/06/aruba-barbatos" target="_blank">Aruba, Barbatos</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-06 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5629.png" alt="Idle Speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -345,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 258 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 255 |
+        🔄 Last Updated: 09:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
