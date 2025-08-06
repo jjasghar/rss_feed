@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 04:17:03 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-06 05:08:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 04:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5494237/mexico-parasite-cattle-exports-screwworm" target="_blank">Mexican ranchers struggle to adapt as a parasite ravages cattle exports to the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 05:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/russia-ukraine-war-list-of-key-events-day-1259?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,259</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/trump-says-it-is-up-to-israel-whether-to-occupy-all-of-gaza?traffic_source=rss" target="_blank">Trump says it is ‘up to Israel’ whether to occupy all of Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 23:04</span>
             </div>
         </div>
 </div>
@@ -232,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/War-of-the-Worlds-Ice-Cube.webp?fit=1000%2C667&amp;quality=55&amp;ssl=1" alt="War of the Worlds, starring Ice Cube, debuts at 0% on Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/05/war-of-the-worlds-starring-ice-cube-debuts-at-0-on-rotten-tomatoes.html" target="_blank">War of the Worlds, starring Ice Cube, debuts at 0% on Rotten Tomatoes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 00:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Jim-Acosta.jpeg?fit=1500%2C772&amp;quality=60&amp;ssl=1" alt="Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,15 +289,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/05/you-are-prohibited-from-removing-old-litter-from-this-california-beach.html" target="_blank">You are prohibited from removing old litter from this California beach</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-05 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-Dashboard-Streamable-026.jpg" alt="Everything That’s Bad About The New War Of The Worlds Movie In One Scene" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/war-of-the-worlds-amazon-ad-drone-scene-horrible-bad-review-2000614752" target="_blank">Everything That’s Bad About The New War Of The Worlds Movie In One Scene</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-05 19:39</span>
             </div>
         </div>
 </div>
@@ -331,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 04:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
