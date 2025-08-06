@@ -1,43 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 15:02:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 16:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 34 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 15:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/wildfires-and-heatwaves-grip-southern-europe-as-evacuations-ordered?traffic_source=rss" target="_blank">Wildfires and heatwaves grip southern Europe as evacuations ordered</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-250806_1754487787457_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump hits India with more tariffs over Russian oil imports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Trump hits India with more tariffs over Russian oil imports</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-06 14:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,30 +85,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250806-trump-modi-ch-0819-26312c.jpg" alt="Trump hikes India tariffs to 50% for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/8/6/is-trump-winning-the-trade-war-and-at-what-cost-to-the-economy?traffic_source=rss" target="_blank">Is Trump winning the trade war and at what cost to the economy?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-israel-palestinian_6984003.jpg?20250806104706" alt="If the IDF has nothing to hide, it should allow international journalists in" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/if-the-idf-has-nothing-to-hide-with-its-military-and-aid-operation-it-should-allow-international-journalists-into-gaza-13407766" target="_blank">If the IDF has nothing to hide, it should allow international journalists in</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-06 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/indias-flood-rescue-efforts-hampered-by-landslides-blocked-roads?traffic_source=rss" target="_blank">India’s flood rescue efforts hampered by landslides, blocked roads</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 12:40</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-hikes-india-tariffs-50-percent-buying-russian-oil-rcna223374" target="_blank">Trump hikes India tariffs to 50% for buying Russian oil</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 14:27</span>
             </div>
         </div>
 </div>
@@ -112,6 +98,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test" target="_blank">Microsoft is bringing its Xbox Copilot to the Windows Game Bar</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +152,29 @@
                 <span class="time">2025-08-06 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689218d5f0992bf5ee441fd0/master/pass/fema-domestic-violence-pol-1634557153.jpg" alt="Combating Domestic Violent Extremism Is No Longer a FEMA Priority" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/" target="_blank">Combating Domestic Violent Extremism Is No Longer a FEMA Priority</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-ninja-gaiden-ragebound-revives-the-best-of-the-nes-classic-beyond-clips-de" target="_blank">IGN: Ninja Gaiden: Ragebound Revives The Best of the NES Classic - Beyond Clips</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547083&w=600" alt="Build Your Own Customized ChatGPT Using OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-a-customized-chatgpt-with-ai" target="_blank">Build Your Own Customized ChatGPT Using OpenAI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/day-26-of-learning-dsa-solved-two-leetcode-problems-plus-one-reverse-string-5dpo" target="_blank">🧠 Day 26 of Learning DSA: Solved Two LeetCode Problems (Plus One &amp; Reverse String)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/manzaltu/claude-code-ide.el" target="_blank">Claude Code IDE Integration for Emacs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-06 13:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546954&w=600" alt="Integration Testing for Go Apps Using Testcontainers and Containerized Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/integration-testing-for-go-applications-using-test" target="_blank">Integration Testing for Go Apps Using Testcontainers and Containerized Databases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 13:00</span>
             </div>
         </div>
 </div>
@@ -304,6 +290,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754340832-20250806.png" alt="Saturday Morning Breakfast Cereal - Picky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/picky" target="_blank">Saturday Morning Breakfast Cereal - Picky</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-06 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -330,31 +325,13 @@
                 <span class="time">2025-08-05 16:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/in-the-bin/" target="_blank">In the Bin</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-08-05 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754340739-20250805.png" alt="Saturday Morning Breakfast Cereal - Ethics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ethics-7" target="_blank">Saturday Morning Breakfast Cereal - Ethics</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-05 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
