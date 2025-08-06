@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 06:02:54 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-06 07:05:19 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -165,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02tlm3q4iyawn0h6kwdq.png" alt="Outgassing in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frank_1871bc3c55f35370df3/outgassing-in-pcb-manufacturing-6fl" target="_blank">Outgassing in PCB Manufacturing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 06:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf" target="_blank">Exploring PhantomData: Type Safety Without Runtime Cost</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 05:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-craft-means-for-canonical" target="_blank">What craft means for Canonical</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-06 05:34</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/systemd-258-rc2" target="_blank">systemd 258-rc2 Released In Preparing For H2&#x27;2025 Linux Distributions</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-06 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-mafia-the-old-country-official-the-family-code-vehicles-villas-gameplay-trailer-596e" target="_blank">IGN: Mafia: The Old Country - Official &#x27;The Family Code: Vehicles &amp; Villas&#x27; Gameplay Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/02/audacity-on-ubuntu-stock-image.jpg?resize=406%2C232&amp;ssl=1" alt="Audacity 3.7.5 Fixes More Bugs, Windows on ARM Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/audacity-3-7-5-release" target="_blank">Audacity 3.7.5 Fixes More Bugs, Windows on ARM Builds</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-05 22:59</span>
             </div>
         </div>
 </div>
@@ -346,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
