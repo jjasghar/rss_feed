@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 05:08:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-06 06:02:54 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 05:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c8/live/a4f70e80-7275-11f0-af20-030418be2ca5.jpg" alt="UN official says Israel expanding Gaza operations would risk &#x27;catastrophic consequences&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7vln1966r4o?at_medium=RSS&at_campaign=rss" target="_blank">UN official says Israel expanding Gaza operations would risk &#x27;catastrophic consequences&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 05:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/us-india-relations-hit-new-low-despite-trump-modi-bromance-whats-next?traffic_source=rss" target="_blank">US-India relations hit new low despite Trump-Modi bromance: What’s next?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 05:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5493502/coast-guard-titan-submersible-oceangate-investigation" target="_blank">Coast Guard says Titan submersible deaths were preventable and faults company&#x27;s CEO</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-06 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250715-greg-abbott-se-122p-a877fd.jpg" alt="Gov. Greg Abbott sues to remove Texas House Democratic Caucus chair in redistricting standoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/greg-abbott-lawsuit-house-democratic-caucus-chair-gene-wu-redistrictin-rcna223286" target="_blank">Gov. Greg Abbott sues to remove Texas House Democratic Caucus chair in redistricting standoff</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 00:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/russia-ukraine-war-list-of-key-events-day-1259?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,259</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 00:16</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf" target="_blank">Exploring PhantomData: Type Safety Without Runtime Cost</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 05:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/KittenML/KittenTTS" target="_blank">Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-06 05:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn" target="_blank">From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 04:07</span>
@@ -200,29 +218,20 @@
                 <span class="time">2025-08-05 22:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harry_tanama_51571ebf90b6/popos-how-to-update-nvidia-driver-453" target="_blank">PopOS - How to Update NVIDIA Driver</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marcosplusplus/onda-de-palavras-com-c-e-sfml-34o3" target="_blank">Onda de Palavras com C++ e SFML</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/its-time-for-the-semiconductor-industry-to-step-up.html" target="_blank">The Semiconductor Industry and Regulatory Compliance</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-06 04:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -337,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 05:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
