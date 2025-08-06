@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 18:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-06 19:03:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 19:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/6/wegovy-maker-novo-nordisk-warns-of-layoffs-as-competition-grows?traffic_source=rss" target="_blank">Wegovy maker Novo Nordisk warns of layoffs as competition grows</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754499895044_nbc_spec_full_fort_stewart_shooting_250806_1920x1080-x2wl7j.jpg" alt="Special Report: Five soldiers shot in Fort Stewart shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/five-soldiers-shot-in-fort-stewart-shooting-244456005896" target="_blank">Special Report: Five soldiers shot in Fort Stewart shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +98,20 @@
                 <span class="time">2025-08-06 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5493499/journalist-says-greed-nihilism-and-transnationalism-are-fueling-sudans-conflict" target="_blank">Journalist says greed, nihilism and transnationalism are fueling Sudan&#x27;s conflict</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/wildfires-and-heatwaves-grip-southern-europe-as-evacuations-ordered?traffic_source=rss" target="_blank">Wildfires and heatwaves grip southern Europe as evacuations ordered</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23393163/best-smart-door-lock" target="_blank">I tested 30 smart locks, and these are the best</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 18:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,47 @@
                 <span class="time">2025-08-06 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23449363/best-android-smartwatches-wear-os" target="_blank">The best smartwatches for Android</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawcqencnhar9bvesujar.png" alt="The Psychology of Coding: Why Developers Avoid Planning (and How AI Planning Tools Like Continue Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083" target="_blank">The Psychology of Coding: Why Developers Avoid Planning (and How AI Planning Tools Like Continue Fix It)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18549659&w=600" alt="Building Scalable, Resilient Workflows With State Machines on GCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-retry-resilient-fare-pipelines-with-idem" target="_blank">Building Scalable, Resilient Workflows With State Machines on GCP</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-Released" target="_blank">Mesa 25.2 Released With Many Improvements For RADV, Intel &amp; NVK Drivers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-state-of-vc-in-2025" target="_blank">The state of VC within software and AI startups – with Peter Walker</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-06 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18549649&w=600" alt="Strategies for Robust Engineering: Automated Testing for Scalable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,42 +214,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-ninja-gaiden-ragebound-revives-the-best-of-the-nes-classic-beyond-clips-de" target="_blank">IGN: Ninja Gaiden: Ragebound Revives The Best of the NES Classic - Beyond Clips</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" target="_blank">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547104&w=600" alt="Model Context Protocol (MCP): A Comprehensive Guide to Architecture, Uses, and Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/model-context-protocol-mcp-guide-architecture-uses-implementation" target="_blank">Model Context Protocol (MCP): A Comprehensive Guide to Architecture, Uses, and Implementation</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547083&w=600" alt="Build Your Own Customized ChatGPT Using OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-a-customized-chatgpt-with-ai" target="_blank">Build Your Own Customized ChatGPT Using OpenAI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a" target="_blank">New Member</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 14:47</span>
             </div>
         </div>
 </div>
@@ -297,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/06/my-gundam-card-game-review" target="_blank">My Gundam Card Game Review</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-06 18:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1754340832-20250806.png" alt="Saturday Morning Breakfast Cereal - Picky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -328,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 19:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
