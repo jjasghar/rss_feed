@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 13:14:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-08-06 14:04:30 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 13:15 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/8/6/is-trump-winning-the-trade-war-and-at-what-cost-to-the-economy?traffic_source=rss" target="_blank">Is Trump winning the trade war and at what cost to the economy?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 13:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,29 @@
                 <span class="time">2025-08-06 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/fact-check-did-democrats-take-action-over-epstein-case-transparency?traffic_source=rss" target="_blank">Fact check: Did Democrats take action over Epstein case transparency?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 10:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/" target="_blank">Instagram takes on Snapchat with new ‘Instagram Map’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689218d5f0992bf5ee441fd0/master/pass/fema-domestic-violence-pol-1634557153.jpg" alt="Combating Domestic Violent Extremism Is No Longer a FEMA Priority" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/" target="_blank">Combating Domestic Violent Extremism Is No Longer a FEMA Priority</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +162,38 @@
                 <span class="time">2025-08-06 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719697/nvidia-ai-gpu-chips-denies-backdoors-kill-switches-spyware" target="_blank">Nvidia rejects US demand for backdoors in AI chips</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 11:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release" target="_blank">Microsoft makes OpenAI’s new open model available on Windows</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546976&w=600" alt="Mastering Fluent Bit: Developer Guide to Service Section Configuration (Part 5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/developer-guide-service-section-configuration" target="_blank">Mastering Fluent Bit: Developer Guide to Service Section Configuration (Part 5)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/day-26-of-learning-dsa-solved-two-leetcode-problems-plus-one-reverse-string-5dpo" target="_blank">🧠 Day 26 of Learning DSA: Solved Two LeetCode Problems (Plus One &amp; Reverse String)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/manzaltu/claude-code-ide.el" target="_blank">Claude Code IDE Integration for Emacs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-06 13:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546954&w=600" alt="Integration Testing for Go Apps Using Testcontainers and Containerized Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,39 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544237&w=600" alt="Handling Password-Protected PDFs in JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/handling-password-protected-PDF-javascript" target="_blank">Handling Password-Protected PDFs in JavaScript</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajtech0001/rust-lifetimes-a-complete-guide-232a" target="_blank">Rust Lifetimes: A Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ACO-Scheduler-Heuristics" target="_blank">Valve&#x27;s ACO Compiler Used By AMD Drivers Optimize Scheduling Heuristic For Newer GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/grafana-12-1-release/en/headerimage/header-1754080537477.jpeg" alt="Grafana 12.1 Brings Built-in Diagnostics and Enhanced Alerting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://res.infoq.com/news/2025/08/dotnet-aspire-9-4-release/en/headerimage/twitter_card+%2855%29-1754481645286.jpg" alt=".NET Aspire 9.4 Released with CLI GA, Interactive Dashboards, and Advanced Deployment Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/grafana-12-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana 12.1 Brings Built-in Diagnostics and Enhanced Alerting</a></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/dotnet-aspire-9-4-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET Aspire 9.4 Released with CLI GA, Interactive Dashboards, and Advanced Deployment Features</a></span>
                 <span class="feed">InfoQ</span>
-                <span class="time">2025-08-06 10:00</span>
+                <span class="time">2025-08-06 12:43</span>
             </div>
         </div>
 </div>
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1XXJXZQD7W2BFF2S0BV3YFV/hero-image.png" alt="Is ‘Howdy,’ Roku’s Ad-Free Budget Streaming Service, Any Good?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/roku-howdy-streaming-service?utm_medium=RSS" target="_blank">Is ‘Howdy,’ Roku’s Ad-Free Budget Streaming Service, Any Good?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/robot-shutterstock_2229125163.jpg?fit=1200%2C633&amp;quality=60&amp;ssl=1" alt="Slopsquatting: nabbing nonexistent names AI chatbots likely to hallucinate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/slopsquatting-nabbing-nonexistent-names-ai-chatbots-likely-to-hallucinate.html" target="_blank">Slopsquatting: nabbing nonexistent names AI chatbots likely to hallucinate</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Jane-and-Harry-contemplate-the-binary.jpg?fit=1080%2C788&amp;quality=60&amp;ssl=1" alt="1976 film helps you learn computing terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +292,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/05/jim-acosta-interviews-grotesque-caricature-of-parkland-shooting-victim-resurrected-through-ai.html" target="_blank">Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-05 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/frontofhouse-2.jpg" alt="You Can Stay at the House From ‘Poltergeist’, and Even Have Someone Haunt You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/poltergeist-house-airbnb-steven-spielberg-2000639249" target="_blank">You Can Stay at the House From ‘Poltergeist’, and Even Have Someone Haunt You</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-05 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1XQJYQFV7DREBD322SH0C22/hero-image.jpg" alt="I Traded My Garmin for a Coros Fitness Watch, and Here’s What I Loved (and Hated)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/i-switched-from-garmin-to-coros-for-the-summer?utm_medium=RSS" target="_blank">I Traded My Garmin for a Coros Fitness Watch, and Here’s What I Loved (and Hated)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-05 22:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 13:15 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
