@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 21:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 17 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/israeli-captive-families-confront-police-outside-army-headquarters?traffic_source=rss" target="_blank">Israeli captive families confront police outside army headquarters</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5493363/denmark-zoo-donate-pets-feeding-animals" target="_blank">A zoo in Denmark asked patrons to donate their pets. Not as attractions, but for food</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 20:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-putin-1-gty-gmh-250728_1753712745856_hpMain_4x3t_384.jpg" alt="A Trump-Putin meeting could happen as soon as next week, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754499895044_nbc_spec_full_fort_stewart_shooting_250806_1920x1080-x2wl7j.jpg" alt="Special Report: Five soldiers shot in Fort Stewart shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-edward-omane-boamah_6984372.jpg?20250806192531" alt="Government ministers among eight killed in Ghana helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/five-soldiers-shot-in-fort-stewart-shooting-244456005896" target="_blank">Special Report: Five soldiers shot in Fort Stewart shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5494581/fort-stewart-shooting-army-post" target="_blank">5 soldiers shot at Georgia&#x27;s Fort Stewart. Suspect is apprehended</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/06/us-destruction-contraceptives-denies-african-women-girls-lifesaving-care-ngo" target="_blank">US destruction of contraceptives denies 1.4m African women and girls lifesaving care, NGO says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-06 16:24</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/government-ministers-among-eight-killed-in-ghana-helicopter-crash-13407887" target="_blank">Government ministers among eight killed in Ghana helicopter crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-06 18:05</span>
             </div>
         </div>
 </div>
@@ -95,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/" target="_blank">Upwork is buying its way into corporate staffing beyond freelancers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-06 20:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688bae69da5ac9c474f7b40e/master/pass/Roman-Storm-Tornado-Trial-Verdict-Business-2222752602.jpg" alt="Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,20 +159,29 @@
                 <span class="time">2025-08-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/" target="_blank">Citizen Lab director warns cyber industry about US authoritarian descent</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-06 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-Wassette-OSS" target="_blank">Microsoft Announces Open-Source &quot;Wassette&quot; Using Rust + WebAssembly To Help AI Agents</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.b-list.org/weblog/2025/aug/06/litestar/" target="_blank">Litestar is worth a look</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-06 19:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawcqencnhar9bvesujar.png" alt="The Psychology of Coding: Why Developers Avoid Planning (and How AI Planning Tools Like Continue Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,29 +218,20 @@
                 <span class="time">2025-08-06 17:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18549649&w=600" alt="Strategies for Robust Engineering: Automated Testing for Scalable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/strategies-for-robust-engineering-automated-testing" target="_blank">Strategies for Robust Engineering: Automated Testing for Scalable Software</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-ninja-gaiden-ragebound-revives-the-best-of-the-nes-classic-beyond-clips-de" target="_blank">IGN: Ninja Gaiden: Ragebound Revives The Best of the NES Classic - Beyond Clips</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/" target="_blank">Who Got Arrested in the Raid on the XSS Crime Forum?</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-06 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -227,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K20DYMA5142R72DZTPAN6KMG/hero-image.jpg" alt="How to Choose Between a Flip Phone and a Folding Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/choose-between-flip-phone-folding-phone?utm_medium=RSS" target="_blank">How to Choose Between a Flip Phone and a Folding Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/elon_look.png" alt="Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +298,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/06/flesh-eating-bacteria-increasingly-common-at-americas-beaches.html" target="_blank">Flesh eating bacteria increasingly common at America&#x27;s beaches</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-06 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/bf6e2.jpg" alt="What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-reveal-la-event-behind-the-scenes-brie-larson-ea-2000614190" target="_blank">What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-06 14:51</span>
             </div>
         </div>
 </div>
@@ -327,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
