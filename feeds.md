@@ -1,30 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-05 23:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-06 00:05:28 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 05, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/trump-says-it-is-up-to-israel-whether-to-occupy-all-of-gaza?traffic_source=rss" target="_blank">Trump says it is ‘up to Israel’ whether to occupy all of Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-05 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +96,29 @@
                 <span class="time">2025-08-05 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/05/nx-s1-5493279/cdc-funding-freeze-overdose-omb" target="_blank">CDC to disburse delayed funds for fighting fentanyl and more, staffers say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1430305468-500x500.jpg" alt="In trial, people lost twice as much weight by ditching ultraprocessed food" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/in-trial-people-lost-twice-as-much-weight-by-ditching-ultraprocessed-food/" target="_blank">In trial, people lost twice as much weight by ditching ultraprocessed food</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-05 23:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686290c3cf1082c1b16ccb3b/master/pass/AP24212603246162.jpg" alt="US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/" target="_blank">US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-05 22:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +155,29 @@
                 <span class="time">2025-08-05 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain" target="_blank">Apple is suing Apple Cinemas</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale" target="_blank">Here are the best streaming service deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-mafia-the-old-country-official-the-family-code-vehicles-villas-gameplay-trailer-596e" target="_blank">IGN: Mafia: The Old Country - Official &#x27;The Family Code: Vehicles &amp; Villas&#x27; Gameplay Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/02/audacity-on-ubuntu-stock-image.jpg?resize=406%2C232&amp;ssl=1" alt="Audacity 3.7.5 Fixes More Bugs, Windows on ARM Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/audacity-3-7-5-release" target="_blank">Audacity 3.7.5 Fixes More Bugs, Windows on ARM Builds</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-05 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +214,6 @@
                 <span class="time">2025-08-05 19:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547063&w=600" alt="Docker Multi-Stage Builds: Optimizing Development and Production Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/docker-multi-stage-builds-image-optimization" target="_blank">Docker Multi-Stage Builds: Optimizing Development and Production Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devunderdog/building-neurostash-v-ad5" target="_blank">Building NeuroStash - V</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/frontofhouse-2.jpg" alt="You Can Stay at the House From ‘Poltergeist’, and Even Have Someone Haunt You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/poltergeist-house-airbnb-steven-spielberg-2000639249" target="_blank">You Can Stay at the House From ‘Poltergeist’, and Even Have Someone Haunt You</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-05 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1XQJYQFV7DREBD322SH0C22/hero-image.jpg" alt="I Traded My Garmin for a Coros Fitness Watch, and Here’s What I Loved (and Hated)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/zoo-asks-visitors-to-donate-their-pets-to-feed-the-carnivores-gets-fed-to-the-lions-on-social-media-2000639095" target="_blank">Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/trump.jpg" alt="The Internet Reacts To President Trump Wandering Around On The White House Roof" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/trump-roof-nuclear-missile-epstein-memes-reacts-2000614734" target="_blank">The Internet Reacts To President Trump Wandering Around On The White House Roof</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-05 17:48</span>
             </div>
         </div>
 </div>
@@ -340,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
