@@ -1,8 +1,7 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 11:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 12:02:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
@@ -10,26 +9,33 @@
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/dde92810-72b4-11f0-89ea-4d6f9851f623.jpg" alt="Twenty killed after trucks overturn in Gaza, Hamas-run civil defence says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz60dy2908do?at_medium=RSS&at_campaign=rss" target="_blank">Twenty killed after trucks overturn in Gaza, Hamas-run civil defence says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81204/up-first-newsletter-steve-witkoff-russia-gaza-israel-pam-bondi-voting-rights-act" target="_blank">Witkoff in Moscow for peace talks. And, the Voting Rights Act faces new threats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/russia-eyes-ukraines-fortress-belt-after-fall-of-chasiv-yar?traffic_source=rss" target="_blank">Russia eyes Ukraine’s ‘fortress belt’ after fall of Chasiv Yar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +105,29 @@
                 <span class="time">2025-08-06 09:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250805-Gavin-Newsom-se-1039a-06b782.jpg" alt="Democrats draw up plans to retaliate if Republicans gerrymander Texas — but they face legal hurdles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/democrats-plans-redistricting-retaliate-texas-republicans-legal-rcna223128" target="_blank">Democrats draw up plans to retaliate if Republicans gerrymander Texas — but they face legal hurdles</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5479882/teen-forums-violent-extremist-grooming" target="_blank">Nihilistic online networks groom minors to commit harm. Her son was one of them</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81012/chatgpt-ai-college-students-chegg-study" target="_blank">AI companies are targeting students. Here&#x27;s how that&#x27;s changing studying</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6892ad28d4bdbba6f0c5d24c/master/pass/The%2015%20Best%20Electric%20Bikes%20for%20Every%20Kind%20of%20Ride.png" alt="16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electric-bikes/" target="_blank">16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719697/nvidia-ai-gpu-chips-denies-backdoors-kill-switches-spyware" target="_blank">Nvidia rejects US demand for backdoors in AI chips</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +164,38 @@
                 <span class="time">2025-08-05 23:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1430305468-500x500.jpg" alt="In trial, people lost twice as much weight by ditching ultraprocessed food" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/in-trial-people-lost-twice-as-much-weight-by-ditching-ultraprocessed-food/" target="_blank">In trial, people lost twice as much weight by ditching ultraprocessed food</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686290c3cf1082c1b16ccb3b/master/pass/AP24212603246162.jpg" alt="US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/" target="_blank">US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-05 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544237&w=600" alt="Handling Password-Protected PDFs in JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/handling-password-protected-PDF-javascript" target="_blank">Handling Password-Protected PDFs in JavaScript</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajtech0001/rust-lifetimes-a-complete-guide-232a" target="_blank">Rust Lifetimes: A Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ACO-Scheduler-Heuristics" target="_blank">Valve&#x27;s ACO Compiler Used By AMD Drivers Optimize Scheduling Heuristic For Newer GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/grafana-12-1-release/en/headerimage/header-1754080537477.jpeg" alt="Grafana 12.1 Brings Built-in Diagnostics and Enhanced Alerting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,33 +223,6 @@
                 <span class="time">2025-08-06 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oodlesplatform/how-enterprises-can-achieve-aws-cloud-security-34ff" target="_blank">How Enterprises Can Achieve AWS Cloud Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/" target="_blank">Python performance myths and fairy tales</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-06 08:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7f8mmfnxcxtozklil0dj.png" alt="Gmail API developer intro: spotting chatty threads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp" target="_blank">Gmail API developer intro: spotting chatty threads</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 07:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +237,20 @@
                 <span class="time">2025-08-06 04:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/surveilling-your-children-with-airtags.html" target="_blank">Surveilling Your Children with AirTags</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-05 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ludocene.jpg" alt="‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938" target="_blank">‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-06 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/War-of-the-Worlds-Ice-Cube.webp?fit=1000%2C667&amp;quality=55&amp;ssl=1" alt="War of the Worlds, starring Ice Cube, debuts at 0% on Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/doctor-who-legend-matt-smith-is-joining-the-villains-of-star-wars-starfighter-2000639313" target="_blank">‘Doctor Who’ Legend Matt Smith Is Joining the Villains of ‘Star Wars: Starfighter’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/glass-beach.jpg?fit=1200%2C790&amp;quality=60&amp;ssl=1" alt="You are prohibited from removing old litter from this California beach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/05/you-are-prohibited-from-removing-old-litter-from-this-california-beach.html" target="_blank">You are prohibited from removing old litter from this California beach</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-05 20:54</span>
             </div>
         </div>
 </div>
@@ -354,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 254 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
