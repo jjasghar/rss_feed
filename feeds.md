@@ -1,5 +1,10 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 14:04:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 15:02:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
@@ -9,31 +14,30 @@
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 13 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 15:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +56,46 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81228/hiroshima-survivors-fear-rising-nuclear-threat-on-the-80th-anniversary-of-atomic-bombing" target="_blank">Hiroshima survivors fear rising nuclear threat on the 80th anniversary of atomic bombing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 14:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/1fb84a90-72d4-11f0-a96b-23029eb18083.jpg" alt="Trump hits India with extra 25% tariff for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump hits India with extra 25% tariff for buying Russian oil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/hezbollah-to-treat-lebanons-disarmament-decision-as-if-it-does-not-exist?traffic_source=rss" target="_blank">Hezbollah to treat Lebanon’s disarmament decision ‘as if it does not exist’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/counting-the-cost/2025/8/6/is-trump-winning-the-trade-war-and-at-what-cost-to-the-economy?traffic_source=rss" target="_blank">Is Trump winning the trade war and at what cost to the economy?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-israel-palestinian_6984003.jpg?20250806104706" alt="If the IDF has nothing to hide, it should allow international journalists in" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/if-the-idf-has-nothing-to-hide-with-its-military-and-aid-operation-it-should-allow-international-journalists-into-gaza-13407766" target="_blank">If the IDF has nothing to hide, it should allow international journalists in</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-06 12:42</span>
             </div>
         </div>
 <div class="story">
@@ -67,42 +107,6 @@
                 <span class="time">2025-08-06 12:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/beto_1754442397145_hpMain_4x3t_384.jpg" alt="Beto O&#x27;Rourke&#x27;s group helping front costs of bolting Texas House Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/beto-orourkes-group-helping-front-costs-bolting-texas/story?id=124397945" target="_blank">Beto O&#x27;Rourke&#x27;s group helping front costs of bolting Texas House Democrats</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-06 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/dde92810-72b4-11f0-89ea-4d6f9851f623.jpg" alt="Twenty killed after trucks overturn in Gaza, Hamas-run civil defence says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz60dy2908do?at_medium=RSS&at_campaign=rss" target="_blank">Twenty killed after trucks overturn in Gaza, Hamas-run civil defence says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-06 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81204/up-first-newsletter-steve-witkoff-russia-gaza-israel-pam-bondi-voting-rights-act" target="_blank">Witkoff in Moscow for peace talks. And, the Voting Rights Act faces new threats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/russia-eyes-ukraines-fortress-belt-after-fall-of-chasiv-yar?traffic_source=rss" target="_blank">Russia eyes Ukraine’s ‘fortress belt’ after fall of Chasiv Yar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 11:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,9 +116,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/" target="_blank">Citizen Lab director warns cyber industry about US authoritarian descent</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-06 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68924e1253080d60b608eacb/master/pass/pol_AI_dems_GettyImages-1980134608.jpg" alt="These Democrats Think the Party Needs AI to Win Elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/democrats-midterm-elections-ai/" target="_blank">These Democrats Think the Party Needs AI to Win Elections</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23449363/best-android-smartwatches-wear-os" target="_blank">The best smartwatches for Android</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/" target="_blank">Instagram takes on Snapchat with new ‘Instagram Map’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-06 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/california_state_capital_building-500x500.jpg" alt="States take the lead in AI regulation as federal government steers clear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/08/states-take-the-lead-in-ai-regulation-as-federal-government-steers-clear/" target="_blank">States take the lead in AI regulation as federal government steers clear</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-06 13:34</span>
             </div>
         </div>
 <div class="story">
@@ -126,47 +166,29 @@
                 <span class="time">2025-08-06 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/" target="_blank">Two arrested for smuggling AI chips to China; Nvidia says no to kill switches</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-06 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6890b155f5feccf463b30cd3/master/pass/China%20Travel%20final.jpg" alt="What to Know About Traveling to China for Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-travel-to-china/" target="_blank">What to Know About Traveling to China for Business</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/interview/718962/jeff-buckley-documentary-amy-berg-interview" target="_blank">Jeff Buckley died young but is immortalized in a new documentary</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6892ad28d4bdbba6f0c5d24c/master/pass/The%2015%20Best%20Electric%20Bikes%20for%20Every%20Kind%20of%20Ride.png" alt="16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-electric-bikes/" target="_blank">16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abdallah_hussine_52c2bad5/new-member-1m0a" target="_blank">New Member</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 14:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Linux-6.17-PF-4K" target="_blank">Intel Xe Enabling SR-IOV PF By Default, Marking Driver As &quot;Broken&quot; For Non-4K Kernels</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 14:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546976&w=600" alt="Mastering Fluent Bit: Developer Guide to Service Section Configuration (Part 5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +225,6 @@
                 <span class="time">2025-08-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-FUTEX" target="_blank">Linux 6.17 Fixes A Performance Bottleneck In The Futex Code</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/dotnet-aspire-9-4-release/en/headerimage/twitter_card+%2855%29-1754481645286.jpg" alt=".NET Aspire 9.4 Released with CLI GA, Interactive Dashboards, and Advanced Deployment Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/dotnet-aspire-9-4-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET Aspire 9.4 Released with CLI GA, Interactive Dashboards, and Advanced Deployment Features</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-06 12:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/bf6e2.jpg" alt="What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-reveal-la-event-behind-the-scenes-brie-larson-ea-2000614190" target="_blank">What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-06 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K10CH14GPVDNFFKX280DEBHN/hero-image.png" alt="You Can Get These Beats Fit Pro on Sale for Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-fit-pro-earbuds-2021-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get These Beats Fit Pro on Sale for Half Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 14:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1XXJXZQD7W2BFF2S0BV3YFV/hero-image.png" alt="Is ‘Howdy,’ Roku’s Ad-Free Budget Streaming Service, Any Good?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938" target="_blank">‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-06 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/War-of-the-Worlds-Ice-Cube.webp?fit=1000%2C667&amp;quality=55&amp;ssl=1" alt="War of the Worlds, starring Ice Cube, debuts at 0% on Rotten Tomatoes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/05/war-of-the-worlds-starring-ice-cube-debuts-at-0-on-rotten-tomatoes.html" target="_blank">War of the Worlds, starring Ice Cube, debuts at 0% on Rotten Tomatoes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 00:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Jim-Acosta.jpeg?fit=1500%2C772&amp;quality=60&amp;ssl=1" alt="Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/05/jim-acosta-interviews-grotesque-caricature-of-parkland-shooting-victim-resurrected-through-ai.html" target="_blank">Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-05 23:38</span>
             </div>
         </div>
 </div>
@@ -349,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
