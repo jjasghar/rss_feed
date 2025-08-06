@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 07:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 08:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 1 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7f8mmfnxcxtozklil0dj.png" alt="Gmail API developer intro: spotting chatty threads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp" target="_blank">Gmail API developer intro: spotting chatty threads</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 07:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02tlm3q4iyawn0h6kwdq.png" alt="Outgassing in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/adarchowdhury/from-lpg-to-hydrogen-engineering-safe-transitions-for-the-us-clean-energy-future-2jfn" target="_blank">From LPG to Hydrogen: Engineering Safe Transitions for the U.S. Clean Energy Future</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 04:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-258-rc2" target="_blank">systemd 258-rc2 Released In Preparing For H2&#x27;2025 Linux Distributions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 01:00</span>
             </div>
         </div>
 </div>
@@ -348,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 258 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
