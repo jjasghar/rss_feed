@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 17:04:15 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-06 18:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5494581/fort-stewart-shooting-army-post" target="_blank">5 soldiers shot at Georgia&#x27;s Fort Stewart. Suspect is apprehended</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,20 @@
                 <span class="time">2025-08-06 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-250806_1754487787457_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump hits India with more tariffs over Russian oil imports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Trump hits India with more tariffs over Russian oil imports</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-06 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test" target="_blank">I tested Grok’s Valentine sex chatbot and it (mostly) behaved</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1092062578-500x500.jpg" alt="Trump’s trade and environment policies are a disaster for carmakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +159,20 @@
                 <span class="time">2025-08-06 14:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/06/instagram-takes-on-snapchat-with-new-instagram-map/" target="_blank">Instagram takes on Snapchat with new ‘Instagram Map’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18549649&w=600" alt="Strategies for Robust Engineering: Automated Testing for Scalable Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/strategies-for-robust-engineering-automated-testing" target="_blank">Strategies for Robust Engineering: Automated Testing for Scalable Software</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-ninja-gaiden-ragebound-revives-the-best-of-the-nes-classic-beyond-clips-de" target="_blank">IGN: Ninja Gaiden: Ragebound Revives The Best of the NES Classic - Beyond Clips</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/" target="_blank">Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-06 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +218,6 @@
                 <span class="time">2025-08-06 14:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Xe-Linux-6.17-PF-4K" target="_blank">Intel Xe Enabling SR-IOV PF By Default, Marking Driver As &quot;Broken&quot; For Non-4K Kernels</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546976&w=600" alt="Mastering Fluent Bit: Developer Guide to Service Section Configuration (Part 5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/developer-guide-service-section-configuration" target="_blank">Mastering Fluent Bit: Developer Guide to Service Section Configuration (Part 5)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/elon_look.png" alt="Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/groks-spicy-mode-makes-nsfw-celebrity-deepfakes-of-women-but-not-men-2000639308" target="_blank">Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-06 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/gh2.jpg" alt="Original Guitar Hero Devs Are Back With A New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027" target="_blank">Original Guitar Hero Devs Are Back With A New Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-06 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/maxwell.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Vance to hold &quot;strategy dinner&quot; on how to make a lying sex trafficker sound credible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/vance-to-hold-strategy-dinner-on-how-to-make-a-lying-sex-trafficker-sound-credible.html" target="_blank">Vance to hold &quot;strategy dinner&quot; on how to make a lying sex trafficker sound credible</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 17:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Cold-Storage-Liam-Neeson.jpg" alt="Joe Keery and Liam Neeson Team Up for a Gross-Out Sci-Fi Film From the Writer of ‘Jurassic Park’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/battlefield-6-reveal-la-event-behind-the-scenes-brie-larson-ea-2000614190" target="_blank">What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-06 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K10CH14GPVDNFFKX280DEBHN/hero-image.png" alt="You Can Get These Beats Fit Pro on Sale for Half Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-fit-pro-earbuds-2021-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get These Beats Fit Pro on Sale for Half Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-06 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1XXJXZQD7W2BFF2S0BV3YFV/hero-image.png" alt="Is ‘Howdy,’ Roku’s Ad-Free Budget Streaming Service, Any Good?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/roku-howdy-streaming-service?utm_medium=RSS" target="_blank">Is ‘Howdy,’ Roku’s Ad-Free Budget Streaming Service, Any Good?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-06 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/robot-shutterstock_2229125163.jpg?fit=1200%2C633&amp;quality=60&amp;ssl=1" alt="Slopsquatting: nabbing nonexistent names AI chatbots likely to hallucinate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/06/slopsquatting-nabbing-nonexistent-names-ai-chatbots-likely-to-hallucinate.html" target="_blank">Slopsquatting: nabbing nonexistent names AI chatbots likely to hallucinate</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 12:45</span>
             </div>
         </div>
 </div>
@@ -324,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
