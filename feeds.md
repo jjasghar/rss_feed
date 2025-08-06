@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 00:05:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 01:30:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +48,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/russia-ukraine-war-list-of-key-events-day-1259?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,259</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/trump-says-it-is-up-to-israel-whether-to-occupy-all-of-gaza?traffic_source=rss" target="_blank">Trump says it is ‘up to Israel’ whether to occupy all of Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-05 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/aug/06/prince-harry-among-those-criticised-in-report-on-dispute-at-sentebale-charity" target="_blank">Prince Harry among those criticised in report on dispute at Sentebale charity</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-05 23:00</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-administration-considers-releasing-transcripts-doj-interview-ghislaine/story?id=124383957" target="_blank">Ghislaine Maxwell, in DOJ interview, said nothing harmful to Trump: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-05 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/5/tourists-from-malawi-and-zambia-are-first-to-face-15000-visa-bonds-in-us?traffic_source=rss" target="_blank">Tourists from Malawi and Zambia are first to face $15,000 visa bonds in US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/5/major-flooding-in-hong-kong-as-highest-weather-warning-issued?traffic_source=rss" target="_blank">Major flooding in Hong Kong as highest weather warning issued</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-05 19:12</span>
             </div>
         </div>
 </div>
@@ -163,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-258-rc2" target="_blank">systemd 258-rc2 Released In Preparing For H2&#x27;2025 Linux Distributions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-mafia-the-old-country-official-the-family-code-vehicles-villas-gameplay-trailer-596e" target="_blank">IGN: Mafia: The Old Country - Official &#x27;The Family Code: Vehicles &amp; Villas&#x27; Gameplay Trailer</a></span>
                 <span class="feed">DEV Community</span>
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/aiml-for-eng-managers-enhancing-productivity-and-q" target="_blank">AI/ML for Engineering Managers: Enhancing Productivity and Quality in Fintech</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-05 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moonshadowrev/how-i-finally-built-my-portfolio-site-under-14kb-a-chill-journey-inspired-by-a-random-youtube-5f73" target="_blank">How I Finally Built My Portfolio Site Under 14KB – A Chill Journey Inspired by a Random YouTube Video</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-05 19:35</span>
             </div>
         </div>
 </div>
@@ -328,22 +330,13 @@
                 <span class="time">2025-08-05 02:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5628.png" alt="Snakes To Meet You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5628" target="_blank">Snakes To Meet You</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-05 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
