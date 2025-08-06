@@ -1,34 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 19:03:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 20:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 19:03 UTC</div>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-putin-1-gty-gmh-250728_1753712745856_hpMain_4x3t_384.jpg" alt="A Trump-Putin meeting could happen as soon as next week, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-putin-meeting-happen-week-white-house-official/story?id=124423199" target="_blank">A Trump-Putin meeting could happen as soon as next week, White House official says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/6/ghana-helicopter-crash-kills-defence-environment-ministers?traffic_source=rss" target="_blank">Ghana helicopter crash kills defence, environment ministers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +90,20 @@
                 <span class="time">2025-08-06 16:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5e/live/f15df190-72dd-11f0-8dbd-f3d32ebd3327.jpg" alt="Trump threatens 50% tariffs on India for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens 50% tariffs on India for buying Russian oil</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-06 16:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2023-11/231116-fort-stewart-georgia-ew-1241p-f177aa.jpg" alt="At least five soldiers are shot on Fort Stewart base in Georgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-fort-stewart-georgia-lockdown-active-shooter-situation-ca-rcna223415" target="_blank">At least five soldiers are shot on Fort Stewart base in Georgia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688bae69da5ac9c474f7b40e/master/pass/Roman-Storm-Tornado-Trial-Verdict-Business-2222752602.jpg" alt="Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/" target="_blank">Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 18:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +147,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/" target="_blank">Citizen Lab director warns cyber industry about US authoritarian descent</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-06 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68924e1253080d60b608eacb/master/pass/pol_AI_dems_GettyImages-1980134608.jpg" alt="These Democrats Think the Party Needs AI to Win Elections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/democrats-midterm-elections-ai/" target="_blank">These Democrats Think the Party Needs AI to Win Elections</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 14:52</span>
             </div>
         </div>
 </div>
@@ -335,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 19:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
