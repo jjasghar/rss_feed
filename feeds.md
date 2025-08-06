@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 01:30:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-06 02:41:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/what-is-the-chikungunya-virus-how-are-countries-such-as-china-battling-it?traffic_source=rss" target="_blank">What is the chikungunya virus, how are countries such as China battling it?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 02:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250715-greg-abbott-se-122p-a877fd.jpg" alt="Gov. Greg Abbott sues to remove Texas House Democratic Caucus chair in redistricting standoff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/greg-abbott-lawsuit-house-democratic-caucus-chair-gene-wu-redistrictin-rcna223286" target="_blank">Gov. Greg Abbott sues to remove Texas House Democratic Caucus chair in redistricting standoff</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 00:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-08-05 22:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department" target="_blank">House Oversight Committee subpoenas the Justice Department for Epstein files</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-05 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/ghislaine-maxwell-02-gty-jef-250728_1753726360842_hpMain_4x3t_384.jpg" alt="Ghislaine Maxwell, in DOJ interview, said nothing harmful to Trump: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-administration-considers-releasing-transcripts-doj-interview-ghislaine/story?id=124383957" target="_blank">Ghislaine Maxwell, in DOJ interview, said nothing harmful to Trump: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-05 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16" target="_blank">Google is rolling out a fix for Pixel back button issues</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-05 23:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1430305468-500x500.jpg" alt="In trial, people lost twice as much weight by ditching ultraprocessed food" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/" target="_blank">Clay confirms it closed $100M round at $3.1B valuation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-05 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_7218-500x500.jpg" alt="Murena’s Pixel Tablet is helping to wean me off Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/murenas-pixel-tablet-is-helping-to-wean-me-off-google/" target="_blank">Murena’s Pixel Tablet is helping to wean me off Google</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 21:01</span>
             </div>
         </div>
 </div>
@@ -236,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Jim-Acosta.jpeg?fit=1500%2C772&amp;quality=60&amp;ssl=1" alt="Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/05/jim-acosta-interviews-grotesque-caricature-of-parkland-shooting-victim-resurrected-through-ai.html" target="_blank">Jim Acosta interviews grotesque caricature of Parkland shooting victim resurrected through AI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-05 23:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/frontofhouse-2.jpg" alt="You Can Stay at the House From ‘Poltergeist’, and Even Have Someone Haunt You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -280,20 +291,20 @@
                 <span class="time">2025-08-05 19:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/Scott-Frier_Nagging-is-a-Universal-Concept.jpg" alt="Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zoo-asks-visitors-to-donate-their-pets-to-feed-the-carnivores-gets-fed-to-the-lions-on-social-media-2000639095" target="_blank">Zoo Asks Visitors to Donate Their Pets to Feed the Carnivores, Gets Fed to the Lions on Social Media</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-05 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5629.png" alt="Idle Speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5629" target="_blank">Idle Speculation</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-06 00:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -335,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
