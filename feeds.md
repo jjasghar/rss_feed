@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 16:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-06 17:04:15 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 17:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/06/us-destruction-contraceptives-denies-african-women-girls-lifesaving-care-ngo" target="_blank">US destruction of contraceptives denies 1.4m African women and girls lifesaving care, NGO says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-06 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5e/live/f15df190-72dd-11f0-8dbd-f3d32ebd3327.jpg" alt="Trump threatens 50% tariffs on India for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump threatens 50% tariffs on India for buying Russian oil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2023-11/231116-fort-stewart-georgia-ew-1241p-f177aa.jpg" alt="At least five soldiers are shot on Fort Stewart base in Georgia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-fort-stewart-georgia-lockdown-active-shooter-situation-ca-rcna223415" target="_blank">At least five soldiers are shot on Fort Stewart base in Georgia</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5493499/journalist-says-greed-nihilism-and-transnationalism-are-fueling-sudans-conflict" target="_blank">Journalist says greed, nihilism and transnationalism are fueling Sudan&#x27;s conflict</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/wildfires-and-heatwaves-grip-southern-europe-as-evacuations-ordered?traffic_source=rss" target="_blank">Wildfires and heatwaves grip southern Europe as evacuations ordered</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -57,47 +96,20 @@
                 <span class="time">2025-08-06 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/g-s1-81228/hiroshima-survivors-fear-rising-nuclear-threat-on-the-80th-anniversary-of-atomic-bombing" target="_blank">Hiroshima survivors fear rising nuclear threat on the 80th anniversary of atomic bombing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 14:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/1fb84a90-72d4-11f0-a96b-23029eb18083.jpg" alt="Trump hits India with extra 25% tariff for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump hits India with extra 25% tariff for buying Russian oil</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-06 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/hezbollah-to-treat-lebanons-disarmament-decision-as-if-it-does-not-exist?traffic_source=rss" target="_blank">Hezbollah to treat Lebanon’s disarmament decision ‘as if it does not exist’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250806-trump-modi-ch-0819-26312c.jpg" alt="Trump hikes India tariffs to 50% for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-hikes-india-tariffs-50-percent-buying-russian-oil-rcna223374" target="_blank">Trump hikes India tariffs to 50% for buying Russian oil</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1092062578-500x500.jpg" alt="Trump’s trade and environment policies are a disaster for carmakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/trumps-trade-and-environment-policies-are-a-disaster-for-car-makers/" target="_blank">Trump’s trade and environment policies are a disaster for carmakers</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-06 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +155,6 @@
                 <span class="time">2025-08-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/california_state_capital_building-500x500.jpg" alt="States take the lead in AI regulation as federal government steers clear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/08/states-take-the-lead-in-ai-regulation-as-federal-government-steers-clear/" target="_blank">States take the lead in AI regulation as federal government steers clear</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-06 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-ninja-gaiden-ragebound-revives-the-best-of-the-nes-classic-beyond-clips-de" target="_blank">IGN: Ninja Gaiden: Ragebound Revives The Best of the NES Classic - Beyond Clips</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18547104&w=600" alt="Model Context Protocol (MCP): A Comprehensive Guide to Architecture, Uses, and Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/model-context-protocol-mcp-guide-architecture-uses-implementation" target="_blank">Model Context Protocol (MCP): A Comprehensive Guide to Architecture, Uses, and Implementation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +214,6 @@
                 <span class="time">2025-08-06 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/day-26-of-learning-dsa-solved-two-leetcode-problems-plus-one-reverse-string-5dpo" target="_blank">🧠 Day 26 of Learning DSA: Solved Two LeetCode Problems (Plus One &amp; Reverse String)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 13:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Cold-Storage-Liam-Neeson.jpg" alt="Joe Keery and Liam Neeson Team Up for a Gross-Out Sci-Fi Film From the Writer of ‘Jurassic Park’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/joe-keery-and-liam-neeson-team-up-for-a-gross-out-sci-fi-film-from-the-writer-of-jurassic-park-2000639630" target="_blank">Joe Keery and Liam Neeson Team Up for a Gross-Out Sci-Fi Film From the Writer of ‘Jurassic Park’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-06 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Beach.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Flesh eating bacteria increasingly common at America&#x27;s beaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/flesh-eating-bacteria-increasingly-common-at-americas-beaches.html" target="_blank">Flesh eating bacteria increasingly common at America&#x27;s beaches</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 16:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/bf6e2.jpg" alt="What It’s Like To Go To A Big AAA Video Game Reveal Event In 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +287,6 @@
                 <span class="time">2025-08-06 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Jane-and-Harry-contemplate-the-binary.jpg?fit=1080%2C788&amp;quality=60&amp;ssl=1" alt="1976 film helps you learn computing terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/06/1976-film-helps-you-learn-computing-terms.html" target="_blank">1976 film helps you learn computing terms</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ludocene.jpg" alt="‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938" target="_blank">‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-06 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +319,13 @@
                 <span class="time">2025-08-06 00:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/05/awesome-game-alert" target="_blank">AWESOME GAME ALERT!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-05 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
