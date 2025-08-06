@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 09:04:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-06 10:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 09:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/6/tech-giants-turning-blind-eye-to-child-sex-abuse-australian-watchdog-says?traffic_source=rss" target="_blank">Tech giants turning blind eye to child sex abuse, Australian watchdog says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 09:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/witkoff-putin_1754471409413_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff meets Putin in Moscow ahead of Ukraine ceasefire deadline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-envoy-witkoff-arrives-moscow-ahead-ukraine-ceasefire/story?id=124402204" target="_blank">Trump envoy Witkoff meets Putin in Moscow ahead of Ukraine ceasefire deadline</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-06 09:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/us-india-relations-hit-new-low-despite-trump-modi-bromance-whats-next?traffic_source=rss" target="_blank">US-India relations hit new low despite Trump-Modi bromance: What’s next?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5494237/mexico-parasite-cattle-exports-screwworm" target="_blank">Mexican ranchers struggle to adapt as a parasite ravages cattle exports to the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/trump-says-four-candidates-in-running-for-fed-chair-rules-out-bessent?traffic_source=rss" target="_blank">Trump says four candidates in running for Fed chair, rules out Bessent</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 03:45</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/grafana-12-1-release/en/headerimage/header-1754080537477.jpeg" alt="Grafana 12.1 Brings Built-in Diagnostics and Enhanced Alerting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/grafana-12-1-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Grafana 12.1 Brings Built-in Diagnostics and Enhanced Alerting</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-06 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zpz9blzz2ow629s4fo9.png" alt="Virtual Meetings in 2025: A Developer&#x27;s Guide to Remote Meeting Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch" target="_blank">Virtual Meetings in 2025: A Developer&#x27;s Guide to Remote Meeting Success</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 09:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/backend-finops-cost-efficiency/en/headerimage/header-backend-finops-cost-efficiency-1754301935666.jpg" alt="Article: Backend FinOps: Engineering Cost-Efficient Microservices in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/googleworkspace/gmail-api-developer-intro-spotting-chatty-threads-jnp" target="_blank">Gmail API developer intro: spotting chatty threads</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F02tlm3q4iyawn0h6kwdq.png" alt="Outgassing in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frank_1871bc3c55f35370df3/outgassing-in-pcb-manufacturing-6fl" target="_blank">Outgassing in PCB Manufacturing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sgchris/exploring-phantomdata-type-safety-without-runtime-cost-3bhf" target="_blank">Exploring PhantomData: Type Safety Without Runtime Cost</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 05:39</span>
             </div>
         </div>
 </div>
@@ -354,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 40 | 📸 With Images: 255 |
-        🔄 Last Updated: 09:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
