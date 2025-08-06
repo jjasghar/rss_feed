@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 10:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-06 11:01:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/fact-check-did-democrats-take-action-over-epstein-case-transparency?traffic_source=rss" target="_blank">Fact check: Did Democrats take action over Epstein case transparency?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 10:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/6/tech-giants-turning-blind-eye-to-child-sex-abuse-australian-watchdog-says?traffic_source=rss" target="_blank">Tech giants turning blind eye to child sex abuse, Australian watchdog says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 09:37</span>
@@ -67,6 +73,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250805-Gavin-Newsom-se-1039a-06b782.jpg" alt="Democrats draw up plans to retaliate if Republicans gerrymander Texas — but they face legal hurdles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/2026-election/democrats-plans-redistricting-retaliate-texas-republicans-legal-rcna223128" target="_blank">Democrats draw up plans to retaliate if Republicans gerrymander Texas — but they face legal hurdles</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5479882/teen-forums-violent-extremist-grooming" target="_blank">Nihilistic online networks groom minors to commit harm. Her son was one of them</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-06 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -75,38 +99,29 @@
                 <span class="time">2025-08-06 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741f/live/a2d92310-721e-11f0-843e-eb3da839c0e3.jpg" alt="Reeves must raise tax to cover £41bn gap, says think tank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn85vyd1epzo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves must raise tax to cover £41bn gap, says think tank</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-06 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c8/live/a4f70e80-7275-11f0-af20-030418be2ca5.jpg" alt="UN official says Israel expanding Gaza operations would risk &#x27;catastrophic consequences&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7vln1966r4o?at_medium=RSS&at_campaign=rss" target="_blank">UN official says Israel expanding Gaza operations would risk &#x27;catastrophic consequences&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-06 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/us-india-relations-hit-new-low-despite-trump-modi-bromance-whats-next?traffic_source=rss" target="_blank">US-India relations hit new low despite Trump-Modi bromance: What’s next?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 05:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release" target="_blank">Microsoft makes OpenAI’s new open model available on Windows</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6892377105cec888f6774c87/master/pass/uchicago-ai-nuclear-sec-2218057784.jpg" alt="Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/" target="_blank">Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6892aae8f48e9a51bec99fa9/master/pass/Edward-Coristine-Attacked-Trump-DC-Politics-2228695167.jpg" alt="Police Report: Edward ‘Big Balls’ Coristine Assaulted in Alleged Carjacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/" target="_blank">US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-05 22:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/625409/best-robot-vacuum-mops" target="_blank">The best robot vacuum and mop to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/disks-500x500-1754429523.jpg" alt="RIP to the Macintosh HD hard drive icon, 2000–2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/" target="_blank">RIP to the Macintosh HD hard drive icon, 2000–2025</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-05 22:07</span>
             </div>
         </div>
 </div>
@@ -357,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 254 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
