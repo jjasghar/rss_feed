@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 21:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing 54 RSS feeds at 2025-08-06 22:01:28 UTC -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +103,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning" target="_blank">Apple made a 24k gold and glass statue for Donald Trump</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg" alt="Tornado Cash sold crypto “privacy”; the US saw “money laundering.” A jury isn’t sure what to think." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tornado-cash-sold-crypto-privacy-the-us-saw-money-laundering-a-jury-isnt-sure-what-to-think/" target="_blank">Tornado Cash sold crypto “privacy”; the US saw “money laundering.” A jury isn’t sure what to think.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-06 21:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/" target="_blank">Upwork is buying its way into corporate staffing beyond freelancers</a></span>
                 <span class="feed">TechCrunch</span>
@@ -139,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test" target="_blank">I tested Grok’s Valentine sex chatbot and it (mostly) behaved</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-06 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1092062578-500x500.jpg" alt="Trump’s trade and environment policies are a disaster for carmakers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/trumps-trade-and-environment-policies-are-a-disaster-for-car-makers/" target="_blank">Trump’s trade and environment policies are a disaster for carmakers</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-06 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test" target="_blank">Microsoft is bringing its Xbox Copilot to the Windows Game Bar</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 16:00</span>
             </div>
         </div>
 </div>
@@ -247,6 +242,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Ulf-Kristersson.jpg" alt="Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/prime-minister-of-sweden-dragged-for-admitting-he-uses-chatgpt-to-help-him-make-decisions-2000639765" target="_blank">Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-06 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/quakeconesale.jpg" alt="QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/quakecon-2025s-steam-sale-is-packed-with-big-deals-on-great-pc-games-2000616059" target="_blank">QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-06 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Ember-Mug-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The mug you wish you invented is 46% off — but stock won&#x27;t last" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/the-mug-you-wish-you-invented-is-46-off-but-stock-wont-last.html" target="_blank">The mug you wish you invented is 46% off — but stock won&#x27;t last</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K20FHEP3ADA87ZJZPQ8S3GB7/hero-image.jpg" alt="The Seven Best Non-Gaming VR Experiences for Meta Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-vr-experiences-meta-quest?utm_medium=RSS" target="_blank">The Seven Best Non-Gaming VR Experiences for Meta Quest</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K20DYMA5142R72DZTPAN6KMG/hero-image.jpg" alt="How to Choose Between a Flip Phone and a Folding Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -262,42 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/groks-spicy-mode-makes-nsfw-celebrity-deepfakes-of-women-but-not-men-2000639308" target="_blank">Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-06 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/gh2.jpg" alt="Original Guitar Hero Devs Are Back With A New Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027" target="_blank">Original Guitar Hero Devs Are Back With A New Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-06 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/maxwell.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Vance to hold &quot;strategy dinner&quot; on how to make a lying sex trafficker sound credible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/06/vance-to-hold-strategy-dinner-on-how-to-make-a-lying-sex-trafficker-sound-credible.html" target="_blank">Vance to hold &quot;strategy dinner&quot; on how to make a lying sex trafficker sound credible</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Cold-Storage-Liam-Neeson.jpg" alt="Joe Keery and Liam Neeson Team Up for a Gross-Out Sci-Fi Film From the Writer of ‘Jurassic Park’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/joe-keery-and-liam-neeson-team-up-for-a-gross-out-sci-fi-film-from-the-writer-of-jurassic-park-2000639630" target="_blank">Joe Keery and Liam Neeson Team Up for a Gross-Out Sci-Fi Film From the Writer of ‘Jurassic Park’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-06 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Beach.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Flesh eating bacteria increasingly common at America&#x27;s beaches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/06/flesh-eating-bacteria-increasingly-common-at-americas-beaches.html" target="_blank">Flesh eating bacteria increasingly common at America&#x27;s beaches</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 16:11</span>
             </div>
         </div>
 </div>
@@ -346,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
