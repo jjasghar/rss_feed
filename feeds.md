@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 22:01:28 UTC -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-08-06 23:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,9 +52,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/call-for-end-to-forced-starvation-targeted-killing-of-journalists-in-gaza?traffic_source=rss" target="_blank">Call for end to forced starvation, targeted killing of journalists in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5e/live/f15df190-72dd-11f0-8dbd-f3d32ebd3327.jpg" alt="Trump orders India tariff hike to 50% for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump orders India tariff hike to 50% for buying Russian oil</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-06 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/israeli-captive-families-confront-police-outside-army-headquarters?traffic_source=rss" target="_blank">Israeli captive families confront police outside army headquarters</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-donald-trump-vladimir-putin_6921976.jpg?20250520080739" alt="Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-could-meet-putin-as-early-as-next-week-to-discuss-ukraine-ceasefire-white-house-official-13407912" target="_blank">Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-06 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -66,33 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-putin-meeting-happen-week-white-house-official/story?id=124423199" target="_blank">A Trump-Putin meeting could happen as soon as next week, White House official says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/6/ghana-helicopter-crash-kills-defence-environment-ministers?traffic_source=rss" target="_blank">Ghana helicopter crash kills defence, environment ministers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/6/wegovy-maker-novo-nordisk-warns-of-layoffs-as-competition-grows?traffic_source=rss" target="_blank">Wegovy maker Novo Nordisk warns of layoffs as competition grows</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-edward-omane-boamah_6984372.jpg?20250806192531" alt="Government ministers among eight killed in Ghana helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/government-ministers-among-eight-killed-in-ghana-helicopter-crash-13407887" target="_blank">Government ministers among eight killed in Ghana helicopter crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-06 18:05</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fglama.ai%2Fuploads%2Fi5xsg4m5xe" alt="Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f" target="_blank">Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-06 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566312&w=600" alt="Cloud Sprawl Is a Given; Cloud Complexity Doesn’t Have to Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloud-sprawl-vs-cloud-complexity" target="_blank">Cloud Sprawl Is a Given; Cloud Complexity Doesn’t Have to Be</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 21:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -195,24 +220,6 @@
                 <span class="time">2025-08-06 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.2-Released" target="_blank">Mesa 25.2 Released With Many Improvements For RADV, Intel &amp; NVK Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-state-of-vc-in-2025" target="_blank">The state of VC within software and AI startups – with Peter Walker</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-06 17:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/bob-iger-disney-originals-slate-frozen-olaf-star-wars-marvel.jpg" alt="Bob Iger Insists Disney’s Focus Is on Original Movies—but Is It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bob-iger-disney-originals-vs-sequels-2000639781" target="_blank">Bob Iger Insists Disney’s Focus Is on Original Movies—but Is It?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-06 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K20GA2CZJ350SPMSKYG449E5/hero-image.png" alt="Five of the Best Free Cardio Workout Channels I&#x27;ve Found on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-best-free-cardio-workout-channels-on-youtube?utm_medium=RSS" target="_blank">Five of the Best Free Cardio Workout Channels I&#x27;ve Found on YouTube</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Ulf-Kristersson.jpg" alt="Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-vr-experiences-meta-quest?utm_medium=RSS" target="_blank">The Seven Best Non-Gaming VR Experiences for Meta Quest</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-06 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K20DYMA5142R72DZTPAN6KMG/hero-image.jpg" alt="How to Choose Between a Flip Phone and a Folding Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/choose-between-flip-phone-folding-phone?utm_medium=RSS" target="_blank">How to Choose Between a Flip Phone and a Folding Phone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-06 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/elon_look.png" alt="Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/groks-spicy-mode-makes-nsfw-celebrity-deepfakes-of-women-but-not-men-2000639308" target="_blank">Grok’s ‘Spicy’ Mode Makes NSFW Celebrity Deepfakes of Women (But Not Men)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-06 17:40</span>
             </div>
         </div>
 </div>
@@ -341,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
