@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 12:02:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-06 13:14:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 06, 2025 - 13:15 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/indias-flood-rescue-efforts-hampered-by-landslides-blocked-roads?traffic_source=rss" target="_blank">India’s flood rescue efforts hampered by landslides, blocked roads</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/beto_1754442397145_hpMain_4x3t_384.jpg" alt="Beto O&#x27;Rourke&#x27;s group helping front costs of bolting Texas House Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/beto-orourkes-group-helping-front-costs-bolting-texas/story?id=124397945" target="_blank">Beto O&#x27;Rourke&#x27;s group helping front costs of bolting Texas House Democrats</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-06 12:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa88/live/dde92810-72b4-11f0-89ea-4d6f9851f623.jpg" alt="Twenty killed after trucks overturn in Gaza, Hamas-run civil defence says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +99,38 @@
                 <span class="time">2025-08-06 10:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/6/tech-giants-turning-blind-eye-to-child-sex-abuse-australian-watchdog-says?traffic_source=rss" target="_blank">Tech giants turning blind eye to child sex abuse, Australian watchdog says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/witkoff-putin_1754471409413_hpMain_4x3t_384.jpg" alt="Trump envoy Witkoff meets Putin in Moscow ahead of Ukraine ceasefire deadline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-envoy-witkoff-arrives-moscow-ahead-ukraine-ceasefire/story?id=124402204" target="_blank">Trump envoy Witkoff meets Putin in Moscow ahead of Ukraine ceasefire deadline</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-06 09:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/06/two-arrested-for-smuggling-ai-chips-to-china-nvidia-says-no-to-kill-switches/" target="_blank">Two arrested for smuggling AI chips to China; Nvidia says no to kill switches</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-06 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6890b155f5feccf463b30cd3/master/pass/China%20Travel%20final.jpg" alt="What to Know About Traveling to China for Business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-travel-to-china/" target="_blank">What to Know About Traveling to China for Business</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/interview/718962/jeff-buckley-documentary-amy-berg-interview" target="_blank">Jeff Buckley died young but is immortalized in a new documentary</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6892ad28d4bdbba6f0c5d24c/master/pass/The%2015%20Best%20Electric%20Bikes%20for%20Every%20Kind%20of%20Ride.png" alt="16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +158,29 @@
                 <span class="time">2025-08-06 10:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6892377105cec888f6774c87/master/pass/uchicago-ai-nuclear-sec-2218057784.jpg" alt="Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/" target="_blank">Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6892aae8f48e9a51bec99fa9/master/pass/Edward-Coristine-Attacked-Trump-DC-Politics-2228695167.jpg" alt="Police Report: Edward ‘Big Balls’ Coristine Assaulted in Alleged Carjacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/edward-coristine-big-balls-assaulted-alleged-carjacking/" target="_blank">Police Report: Edward ‘Big Balls’ Coristine Assaulted in Alleged Carjacking</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 02:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16" target="_blank">Google is rolling out a fix for Pixel back button issues</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-05 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18546954&w=600" alt="Integration Testing for Go Apps Using Testcontainers and Containerized Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/integration-testing-for-go-applications-using-test" target="_blank">Integration Testing for Go Apps Using Testcontainers and Containerized Databases</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-FUTEX" target="_blank">Linux 6.17 Fixes A Performance Bottleneck In The Futex Code</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18544237&w=600" alt="Handling Password-Protected PDFs in JavaScript" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +217,6 @@
                 <span class="time">2025-08-06 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zpz9blzz2ow629s4fo9.png" alt="Virtual Meetings in 2025: A Developer&#x27;s Guide to Remote Meeting Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teamcamp/virtual-meetings-in-2025-a-developers-guide-to-remote-meeting-success-47ch" target="_blank">Virtual Meetings in 2025: A Developer&#x27;s Guide to Remote Meeting Success</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/backend-finops-cost-efficiency/en/headerimage/header-backend-finops-cost-efficiency-1754301935666.jpg" alt="Article: Backend FinOps: Engineering Cost-Efficient Microservices in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/backend-finops-cost-efficiency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Backend FinOps: Engineering Cost-Efficient Microservices in the Cloud</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-06 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Jane-and-Harry-contemplate-the-binary.jpg?fit=1080%2C788&amp;quality=60&amp;ssl=1" alt="1976 film helps you learn computing terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/1976-film-helps-you-learn-computing-terms.html" target="_blank">1976 film helps you learn computing terms</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 12:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/ludocene.jpg" alt="‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +287,6 @@
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/i-switched-from-garmin-to-coros-for-the-summer?utm_medium=RSS" target="_blank">I Traded My Garmin for a Coros Fitness Watch, and Here’s What I Loved (and Hated)</a></span>
                 <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-05 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/matt-smith-eleventh-doctor-doctor-who.jpg" alt="‘Doctor Who’ Legend Matt Smith Is Joining the Villains of ‘Star Wars: Starfighter’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-legend-matt-smith-is-joining-the-villains-of-star-wars-starfighter-2000639313" target="_blank">‘Doctor Who’ Legend Matt Smith Is Joining the Villains of ‘Star Wars: Starfighter’</a></span>
-                <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-05 22:00</span>
             </div>
         </div>
@@ -351,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:15 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
