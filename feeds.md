@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 21:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 22:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/7/trump-to-nominate-loyalist-stephen-miran-to-the-federal-reserve-board?traffic_source=rss" target="_blank">Trump to nominate ‘loyalist’ Stephen Miran to the Federal Reserve board</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495451/trump-college-admissions-affirmative-action" target="_blank">Trump orders colleges to share admissions data, with an eye on affirmative action</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 21:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/alligator-alcatraz-rt-jef-250807_1754594437294_hpMain_4x3t_384.jpg" alt="Judge temporarily blocks further construction of &#x27;Alligator Alcatraz&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +101,29 @@
                 <span class="time">2025-08-07 20:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-donald-trump-ew-340p-8bb266.jpg" alt="Trump to nominate top economic adviser Stephen Miran to temporarily serve on Fed&#x27;s board" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-announces-new-fed-governor-who-what-to-know-rcna223268" target="_blank">Trump to nominate top economic adviser Stephen Miran to temporarily serve on Fed&#x27;s board</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/cambodia-and-thailand-agree-to-deploy-asean-ceasefire-monitors?traffic_source=rss" target="_blank">Cambodia and Thailand agree to deploy ASEAN ceasefire monitors</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime" target="_blank">OpenAI gets caught vibe graphing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6894ef71cde90d1b11cdf381/master/pass/The%20Best%20Colored%20Noise%20for%20Sleep.png" alt="The Best Colored Noise for Sleep (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-noise-for-sleep/" target="_blank">The Best Colored Noise for Sleep (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-07 21:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2201240678-500x500-1754591905.jpg" alt="After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/08/archaeologists-unearth-fresh-evidence-of-neolithic-cannibalism/" target="_blank">Did a rival tribe kill and eat their neighbors 5,700 years ago?</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-07 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/movie-reviews/719762/weapons-review" target="_blank">Weapons turns our deepest anxieties into a potent horror masterpiece</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-07 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/07/spacex-is-building-a-water-pipeline-to-starbase-but-access-comes-with-some-conditions/" target="_blank">SpaceX is building a water pipeline to Starbase – but access comes with some conditions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-07 17:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
