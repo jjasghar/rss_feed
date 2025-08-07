@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 14:03:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-07 15:02:38 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 14:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/john-Cornyn-gty-gmh-250807_1754575066424_hpMain_4x3t_384.jpg" alt="FBI granted request to locate fleeing Texas House Democrats, Sen. Cornyn says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/sen-cornyn-fbi-granted-request-locate-fleeing-texas/story?id=124446304" target="_blank">FBI granted request to locate fleeing Texas House Democrats, Sen. Cornyn says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 14:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +96,20 @@
                 <span class="time">2025-08-07 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-putin-meeting_1754558228434_hpMain_4x3t_384.jpg" alt="Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kremlin-trump-putin-agreed-meeting-coming-days/story?id=124438908" target="_blank">Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review" target="_blank">The Framework Desktop made me fall for small form factor PCs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +155,20 @@
                 <span class="time">2025-08-07 08:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/" target="_blank">The Browser Company launches a $20 monthly subscription for its AI-powered browser</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-07 06:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-24.04.3-LTS-Released" target="_blank">Ubuntu 24.04.3 LTS Released With Linux 6.14 HWE Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-07 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="time">2025-08-07 10:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://leonardo.chiariglione.org/" target="_blank">Leonardo Chiariglione: “I closed MPEG on 2 June 2020”</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 10:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +252,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K21MD8EGB0ZS723WAV6ECBSH/hero-image.png" alt="My Favorite Milwaukee Drill and Driver Sets Are 50% Off at Home Depot Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/milwaukee-drill-and-driver-set-sale?utm_medium=RSS" target="_blank">My Favorite Milwaukee Drill and Driver Sets Are 50% Off at Home Depot Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-07 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Nothing-Phone-3.jpg" alt="Nothing Phone 3 Review: A Rule-Breaking Phone for Rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/sony-linkbuds-fit-earbuds-stacksocial-sale?utm_medium=RSS" target="_blank">These Sony LinkBuds Fit Earbuds Are on Sale for Just $77 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-07 12:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/marathon.jpg" alt="PlayStation Admits Live-Service Gaming Is ‘Not Going Entirely Smoothly’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-live-service-concord-marathon-smoothly-2000616270" target="_blank">PlayStation Admits Live-Service Gaming Is ‘Not Going Entirely Smoothly’</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-07 12:11</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
