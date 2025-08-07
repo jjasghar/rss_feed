@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 07:04:57 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-07 08:01:52 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/gaza-aid-distribution-declared-orchestrated-killing-by-msf?traffic_source=rss" target="_blank">Gaza aid distribution declared ‘orchestrated killing’ by MSF</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 06:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Business/ship-ap-er-250806_1754510793649_hpMain_4x3t_384.jpg" alt="Sweeping new tariffs take effect, risking price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -78,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-white-house_6980468.jpg?20250802074400" alt="Trump went from frustration to a possible meeting with Putin in just seven hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495218/trump-tariffs-trade-economy" target="_blank">Trump&#x27;s broad tariffs go into effect, just as economic pain is surfacing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/ship-ap-er-250806_1754510793649_hpMain_4x3t_384.jpg" alt="Trump&#x27;s sweeping new tariffs take effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trumps-sweeping-new-tariffs-set-effect/story?id=124410014" target="_blank">Trump&#x27;s sweeping new tariffs take effect</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 04:11</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-vowed-to-end-ukraine-war-in-first-24-hours-of-his-presidency-nearly-200-days-in-could-he-be-close-13407980" target="_blank">Trump went from frustration to a possible meeting with Putin in just seven hours</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-07 05:07</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/" target="_blank">Cracking the Vault: How we found zero-day flaws in HashiCorp Vault</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/glm-4-5/en/headerimage/generatedHeaderImage-1754414153523.jpg" alt="GLM-4.5 Launches with Strong Reasoning, Coding, and Agentic Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/glm-4-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GLM-4.5 Launches with Strong Reasoning, Coding, and Agentic Capabilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-07 06:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc" target="_blank">Understanding Constructors in Java: The House-Building Analogy</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp" target="_blank">IGN: Farlight 84 - Official Relaunch Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html" target="_blank">Mac history echoes in current Mac operating systems</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 02:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luisciber/from-raw-c-to-plug-and-play-ai-why-the-human-spark-is-still-the-real-engine-of-the-future-1e2m" target="_blank">From Raw C++ to “Plug-and-Play” AI: Why the Human Spark Is Still the Real Engine of the Future</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 01:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
