@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 20:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 21:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,57 +51,57 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/alligator-alcatraz-rt-jef-250807_1754594437294_hpMain_4x3t_384.jpg" alt="Judge temporarily blocks further construction of &#x27;Alligator Alcatraz&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-temporarily-blocks-construction-alligator-alcatraz-immigrant-detention/story?id=124459998" target="_blank">Judge temporarily blocks further construction of &#x27;Alligator Alcatraz&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6835/live/23eb6180-73c7-11f0-a73a-9fc4cd34ad2c.jpg" alt="Homelessness Minister Rushanara Ali quits over rent hike claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyd3l2x2n8o?at_medium=RSS&at_campaign=rss" target="_blank">Homelessness Minister Rushanara Ali quits over rent hike claims</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495592/the-story-behind-a-famous-photo-of-a-starving-child-in-gaza" target="_blank">The Story Behind a Famous Photo of a Starving Child in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/7/families-of-israeli-captives-sail-near-gaza-to-call-for-a-ceasefire?traffic_source=rss" target="_blank">Families of Israeli captives sail near Gaza to call for a ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-donald-trump-ew-340p-8bb266.jpg" alt="Trump to nominate top economic adviser Stephen Miran to temporarily serve on Fed&#x27;s board" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-announces-new-fed-governor-who-what-to-know-rcna223268" target="_blank">Trump to nominate top economic adviser Stephen Miran to temporarily serve on Fed&#x27;s board</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/cambodia-and-thailand-agree-to-deploy-asean-ceasefire-monitors?traffic_source=rss" target="_blank">Cambodia and Thailand agree to deploy ASEAN ceasefire monitors</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-07 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/f_mo_lon_gazareax_250807-5x95c9.jpg" alt="‘What is left to occupy?’: Displaced Gazans question Netanyahu’s expansion plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/displaced-gazans-react-to-netanyahu-occupation-plan-244529733943" target="_blank">‘What is left to occupy?’: Displaced Gazans question Netanyahu’s expansion plan</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/cambodia-nominates-trump-for-nobel-prize-after-thai-border-truce?traffic_source=rss" target="_blank">Cambodia nominates Trump for Nobel Prize after Thai border truce</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/head-to-head/2025/8/7/chainsaw-economics-organ-sales-and-governing-by-dog-argentina-under-milei?traffic_source=rss" target="_blank">Chainsaw economics, organ sales and governing by dog: Argentina under Milei</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc83/live/6f12c520-737e-11f0-9004-d9dc4108587b.jpg" alt="Interest rates cut to lowest level in more than two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">Interest rates cut to lowest level in more than two years</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-putin-meeting_1754558228434_hpMain_4x3t_384.jpg" alt="White House pushes back on Kremlin claims Trump and Putin agreed to meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/kremlin-trump-putin-agreed-meeting-coming-days/story?id=124438908" target="_blank">White House pushes back on Kremlin claims Trump and Putin agreed to meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 15:44</span>
             </div>
         </div>
 </div>
@@ -108,6 +116,15 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/08/after-using-chatgpt-man-swaps-his-salt-for-sodium-bromide-and-suffers-psychosis/" target="_blank">After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-07 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6894d7cc3d2a7b99d85f5e7d/master/pass/HBO-Movie-Guide-Culture-rev-1-FD6-07734_High_Res_JPEG.jpg" alt="The 35 Best Movies on HBO Max Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 35 Best Movies on HBO Max Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-07 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +163,20 @@
                 <span class="time">2025-08-07 17:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release" target="_blank">GPT-5 is being released to all ChatGPT users</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18551777&w=600" alt="Exploring C++23: Multidimensional Subscript Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/c23-multidimensional-subscript-operator" target="_blank">Exploring C++23: Multidimensional Subscript Operator</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-07 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu327rdk5y586nr1a676z.jpg" alt="The Complete Nginx Mastery Series: From Zero to Production Hero" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg" target="_blank">The Complete Nginx Mastery Series: From Zero to Production Hero</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/intellij.jpg?resize=406%2C232&amp;ssl=1" alt="IntelliJ IDEA 2025.2 Released with Offline AI Code Completion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/intellij-idea-2025-2-offline-ai-java-25-support" target="_blank">IntelliJ IDEA 2025.2 Released with Offline AI Code Completion</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-07 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +222,6 @@
                 <span class="time">2025-08-07 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/gpt-5/" target="_blank">GPT-5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://openai.com/gpt-5" target="_blank">GPT-5</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT.jpg" alt="The End of Bullshit AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-end-of-bullshit-ai-2000640302" target="_blank">The End of Bullshit AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-07 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Scam-text.jpg?fit=1200%2C827&amp;quality=60&amp;ssl=1" alt="Inside a job scam: Reporter spends $96 to expose fraudster tactics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/07/inside-a-job-scam-reporter-spends-96-to-expose-fraudster-tactics.html" target="_blank">Inside a job scam: Reporter spends $96 to expose fraudster tactics</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-07 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K22YG14R023CH6WF85JG9EV4/hero-image.png" alt="Four Ways to Spot a Bad (or Unsafe) At-Home Workout Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-spot-a-bad-or-unsafe-at-home-workout-video?utm_medium=RSS" target="_blank">Four Ways to Spot a Bad (or Unsafe) At-Home Workout Video</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-07 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Dave-Bautista-Army-of-Dead.jpg" alt="Dave Bautista Will Showdown With Henry Cavill In ‘Highlander’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,33 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/wednesday-season-2-xavier-exit-percy-hynes-white-netflix-2000640133" target="_blank">‘Wednesday’ Showrunner Confirms We’ve Seen the Last of Xavier Thorpe</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/kundabladehed.jpg" alt="Gabe Kunda Is Ready to Be Your Next Blade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-rivals-blade-interview-gabe-kunda-2000638366" target="_blank">Gabe Kunda Is Ready to Be Your Next Blade</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/orange-scaled.jpeg?fit=2560%2C1920&amp;quality=60&amp;ssl=1" alt="Think &quot;orange&quot; doesn&#x27;t rhyme? These English words might surprise you" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/07/think-orange-doesnt-rhyme-these-english-words-might-surprise-you.html" target="_blank">Think &quot;orange&quot; doesn&#x27;t rhyme? These English words might surprise you</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-07 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/8821d5dce472ede73476ab8d948b2db3.jpg" alt="Leaked Elden Ring Nightreign Mode Made Me The Most Excited I’ve Been Since Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-endless-mode-datamine-depths-relics-2000616334" target="_blank">Leaked Elden Ring Nightreign Mode Made Me The Most Excited I’ve Been Since Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-07 16:30</span>
             </div>
         </div>
 </div>
@@ -328,22 +336,13 @@
                 <span class="time">2025-08-07 01:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/06/aruba-barbatos" target="_blank">Aruba, Barbatos</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-06 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
