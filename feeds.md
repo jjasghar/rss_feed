@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 03:30:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 04:17:02 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 04:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/us-soldier-charged-with-attempt-to-provide-russia-with-battle-tank-info?traffic_source=rss" target="_blank">US soldier charged with attempt to provide Russia with battle tank info</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 03:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/a-migrant-march-in-mexico-continues-despite-scrutiny-of-organisers-arrest?traffic_source=rss" target="_blank">A migrant march in Mexico continues despite scrutiny of organiser’s arrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-06 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754521712824_nn_spr_fortstewartshooting_250806_1920x1080-8x22ny.jpg" alt="Army Sergeant in custody after shooting five soldiers at Fort Stewart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/army-sergeant-in-custody-after-shooting-five-soldiers-at-fort-stewart-244480581786" target="_blank">Army Sergeant in custody after shooting five soldiers at Fort Stewart</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-06 23:08</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp" target="_blank">IGN: Farlight 84 - Official Relaunch Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html" target="_blank">Mac history echoes in current Mac operating systems</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/luisciber/from-raw-c-to-plug-and-play-ai-why-the-human-spark-is-still-the-real-engine-of-the-future-1e2m" target="_blank">From Raw C++ to “Plug-and-Play” AI: Why the Human Spark Is Still the Real Engine of the Future</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 01:00</span>
@@ -181,39 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/linux-mint-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Beta Coming Soon, ISOs Enter Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-mint-22-2-beta-iso-coming-soon" target="_blank">Linux Mint 22.2 Beta Coming Soon, ISOs Enter Testing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-06 22:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10" target="_blank">Windows Subsystem For Linux &quot;WSL&quot; Updated For A Yet-To-Be-Public Security Vulnerability</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-06 22:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fglama.ai%2Fuploads%2Fi5xsg4m5xe" alt="Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f" target="_blank">Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/07/onlyoffice-chatgpt.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE Update Adds “AI Agent” to Help You Work “Effortlessly”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/onlyoffice-desktop-editors-update-ai-agent" target="_blank">ONLYOFFICE Update Adds “AI Agent” to Help You Work “Effortlessly”</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-06 22:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566312&w=600" alt="Cloud Sprawl Is a Given; Cloud Complexity Doesn’t Have to Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-sprawl-vs-cloud-complexity" target="_blank">Cloud Sprawl Is a Given; Cloud Complexity Doesn’t Have to Be</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 21:25</span>
             </div>
         </div>
 </div>
@@ -348,22 +351,13 @@
                 <span class="time">2025-08-06 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" alt="Snake-in-the-Box Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3125/" target="_blank">Snake-in-the-Box Problem</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-06 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 04:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
