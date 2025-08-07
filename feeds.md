@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 04:17:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 05:08:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 04:17 UTC</div>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495218/trump-tariffs-trade-economy" target="_blank">Trump&#x27;s broad tariffs go into effect, just as economic pain is surfacing</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 05:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/ship-ap-er-250806_1754510793649_hpMain_4x3t_384.jpg" alt="Trump&#x27;s sweeping new tariffs take effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/trumps-sweeping-new-tariffs-set-effect/story?id=124410014" target="_blank">Trump&#x27;s sweeping new tariffs take effect</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 04:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/07/zamzam-massacre-rapid-support-forces-rsf-militia-civilians-slaughtered" target="_blank">Assault on Sudan’s Zamzam refugee camp may have killed more than 1,500 civilians</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-07 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/06/1197084433/eddie-palmieri-latin-jazz-legend-has-died" target="_blank">Eddie Palmieri, a trailblazer in Latin music, has died at age 88</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-07 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/unitedairlines_1754526967473_hpMain_4x3t_384.jpg" alt="United Airlines grounds flights nationwide over technology issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/united-airlines-grounds-flights-nationwide-technology-issue/story?id=124433330" target="_blank">United Airlines grounds flights nationwide over technology issue</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/russia-ukraine-war-list-of-key-events-day-1260?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,260</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/a-migrant-march-in-mexico-continues-despite-scrutiny-of-organisers-arrest?traffic_source=rss" target="_blank">A migrant march in Mexico continues despite scrutiny of organiser’s arrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 23:09</span>
             </div>
         </div>
 </div>
@@ -143,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg" alt="Tornado Cash sold crypto “privacy”; the US saw “money laundering.”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tornado-cash-sold-crypto-privacy-the-us-saw-money-laundering-a-jury-isnt-sure-what-to-think/" target="_blank">Tornado Cash sold crypto “privacy”; the US saw “money laundering.”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-06 21:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg" alt="Tornado Cash sold crypto “privacy”; the US saw “money laundering.” A jury isn’t sure what to think." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -151,20 +160,20 @@
                 <span class="time">2025-08-06 21:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/06/upwork-acquires-bubty-and-ascen-with-plans-to-launch-a-standalone-enterprise-business/" target="_blank">Upwork is buying its way into corporate staffing beyond freelancers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-06 20:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll" target="_blank">🔐 Safe String Keys in TypeScript — No More Silent Failures</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 05:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,21 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/12/linux-mint-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Beta Coming Soon, ISOs Enter Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-mint-22-2-beta-iso-coming-soon" target="_blank">Linux Mint 22.2 Beta Coming Soon, ISOs Enter Testing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-06 22:59</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10" target="_blank">Windows Subsystem For Linux &quot;WSL&quot; Updated For A Yet-To-Be-Public Security Vulnerability</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 22:58</span>
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-navtez-singh-bal-vice-president-general-manager-india-and-south-asia" target="_blank">Getting to know Navtez Singh Bal, Vice President &amp; General Manager, India and South Asia</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-08-07 00:00</span>
             </div>
         </div>
 </div>
@@ -233,20 +233,20 @@
                 <span class="time">2025-08-06 12:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/its-time-for-the-semiconductor-industry-to-step-up.html" target="_blank">The Semiconductor Industry and Regulatory Compliance</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-06 04:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/psvitawhite-scaled.jpg?fit=2560%2C1928&amp;quality=60&amp;ssl=1" alt="I love my hacked PS Vita, and you can hack one, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/i-love-my-hacked-ps-vita-and-you-can-too.html" target="_blank">I love my hacked PS Vita, and you can hack one, too</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 23:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Ttg2CEH543tfSAaZEEH2DG-e1754521836232.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="You won&#x27;t notice it is gone: Hulu slowly being disappeared into Disney+" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/prime-minister-of-sweden-dragged-for-admitting-he-uses-chatgpt-to-help-him-make-decisions-2000639765" target="_blank">Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-06 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/quakeconesale.jpg" alt="QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/quakecon-2025s-steam-sale-is-packed-with-big-deals-on-great-pc-games-2000616059" target="_blank">QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-06 21:33</span>
             </div>
         </div>
 </div>
@@ -356,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 04:17 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
