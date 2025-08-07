@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 19:03:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-07 20:01:38 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 19:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/cambodia-and-thailand-agree-to-deploy-asean-ceasefire-monitors?traffic_source=rss" target="_blank">Cambodia and Thailand agree to deploy ASEAN ceasefire monitors</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-07 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/f_mo_lon_gazareax_250807-5x95c9.jpg" alt="‘What is left to occupy?’: Displaced Gazans question Netanyahu’s expansion plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/displaced-gazans-react-to-netanyahu-occupation-plan-244529733943" target="_blank">‘What is left to occupy?’: Displaced Gazans question Netanyahu’s expansion plan</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 18:35</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +96,20 @@
                 <span class="time">2025-08-07 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495365/neh-national-endowment-for-the-humanities-lawsuit" target="_blank">Federal judge rules cuts to humanities grants were &#x27;unlawful&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2201240678-500x500-1754591905.jpg" alt="After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/after-using-chatgpt-man-swaps-his-salt-for-sodium-bromide-and-suffers-psychosis/" target="_blank">After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-07 19:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +155,20 @@
                 <span class="time">2025-08-07 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad" target="_blank">Microsoft is cautiously onboarding Grok 4 following Hitler concerns</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-07 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu327rdk5y586nr1a676z.jpg" alt="The Complete Nginx Mastery Series: From Zero to Production Hero" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg" target="_blank">The Complete Nginx Mastery Series: From Zero to Production Hero</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +212,6 @@
                 <span class="title"><a href="http://openai.com/gpt-5" target="_blank">GPT-5</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-07 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-July-2025" target="_blank">Redox OS Recently Saw 500~700% Performance Improvement For Basic File I/O</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 16:53</span>
             </div>
         </div>
 </div>
@@ -349,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
