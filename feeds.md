@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 11:01:51 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-07 12:02:24 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc83/live/6f12c520-737e-11f0-9004-d9dc4108587b.jpg" alt="UK interest rates cut to 4% in tight decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">UK interest rates cut to 4% in tight decision</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754565834660_tdy_news_7a_romans_tariffs_250807_1920x1080-3wpdl0.jpg" alt="Trump Says US Will Be ‘Very Rich’ as Tariffs Go Into Effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-s-broad-tariffs-take-effect-against-nearly-100-countries-244505157738" target="_blank">Trump Says US Will Be ‘Very Rich’ as Tariffs Go Into Effect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 11:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-putin-meeting_1754558228434_hpMain_4x3t_384.jpg" alt="Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/majority-seek-end-to-israel-weapons-sales-survey-spanning-three-continents?traffic_source=rss" target="_blank">Majority seek end to Israel weapons sales: Survey spanning three continents</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-07 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b3/live/6ba32dc0-7366-11f0-8dbd-f3d32ebd3327.jpg" alt="First migrants detained under &#x27;one in, one out&#x27; deal with France" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce35v0zyzvlo?at_medium=RSS&at_campaign=rss" target="_blank">First migrants detained under &#x27;one in, one out&#x27; deal with France</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/trumps-higher-tariffs-take-effect-on-imports-from-dozens-of-countries?traffic_source=rss" target="_blank">Trump’s higher tariffs take effect on imports from dozens of countries</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 08:44</span>
             </div>
         </div>
 </div>
@@ -157,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Flang-Tidy" target="_blank">Flang-Tidy Cleaning/Correcting Fortran Code In &quot;Sort Of Opinionated Fashion&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-07 10:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://leonardo.chiariglione.org/" target="_blank">&quot;I closed MPEG on 2 Jun &#x27;20 when I left because obscure forces had hijacked it.&quot;</a></span>
                 <span class="feed">Hacker News</span>
@@ -199,15 +218,6 @@
                 <span class="time">2025-08-07 05:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-32/" target="_blank">FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-07 05:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K204HWSJKZE74BXD50VR69K5/hero-image.png" alt="11 Filters You Should Be Cleaning or Replacing in Your Home (and When)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/filters-to-clean-replace-at-home?utm_medium=RSS" target="_blank">11 Filters You Should Be Cleaning or Replacing in Your Home (and When)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-07 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ps5.jpg" alt="Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264" target="_blank">Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-07 11:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/psvitawhite-scaled.jpg?fit=2560%2C1928&amp;quality=60&amp;ssl=1" alt="I love my hacked PS Vita, and you can hack one, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/bob-iger-disney-originals-vs-sequels-2000639781" target="_blank">Bob Iger Insists Disney’s Focus Is on Original Movies—but Is It?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-06 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K20GA2CZJ350SPMSKYG449E5/hero-image.png" alt="Five of the Best Free Cardio Workout Channels I&#x27;ve Found on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-best-free-cardio-workout-channels-on-youtube?utm_medium=RSS" target="_blank">Five of the Best Free Cardio Workout Channels I&#x27;ve Found on YouTube</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-06 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Ulf-Kristersson.jpg" alt="Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/prime-minister-of-sweden-dragged-for-admitting-he-uses-chatgpt-to-help-him-make-decisions-2000639765" target="_blank">Prime Minister of Sweden Dragged for Admitting He Uses ChatGPT to Help Him Make Decisions</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-06 21:50</span>
             </div>
         </div>
 </div>
@@ -327,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
