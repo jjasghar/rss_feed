@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 06:02:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-07 07:04:57 UTC -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 06:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce24/live/0c33d720-734f-11f0-b021-a33e13a62965.jpg" alt="Trump&#x27;s sweeping new tariffs take effect against dozens of countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx23jmvn5yzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s sweeping new tariffs take effect against dozens of countries</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 07:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4b/live/ca4597b0-72de-11f0-8b10-cf4c62b71fa7.png" alt="Bank of England expected to cut interest rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">Bank of England expected to cut interest rates</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 06:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/ship-ap-er-250806_1754510793649_hpMain_4x3t_384.jpg" alt="Sweeping new tariffs take effect, risking price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/trumps-sweeping-new-tariffs-set-effect/story?id=124410014" target="_blank">Sweeping new tariffs take effect, risking price increases</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 05:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +95,29 @@
                 <span class="time">2025-08-07 04:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250806-trump-tariffs-take-effect-food-japan-toys-china-tvs-korea-se-453p-4ea181.jpg" alt="New tariffs snap into effect, raising import taxes to highest level since Great Depression" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-tariffs-latest-round-takes-effect-thursday-august-7-2025-rcna223461" target="_blank">New tariffs snap into effect, raising import taxes to highest level since Great Depression</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/07/zamzam-massacre-rapid-support-forces-rsf-militia-civilians-slaughtered" target="_blank">Assault on Sudan’s Zamzam refugee camp may have killed more than 1,500 civilians</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-07 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/us-soldier-charged-with-attempt-to-provide-russia-with-battle-tank-info?traffic_source=rss" target="_blank">US soldier charged with attempt to provide Russia with battle tank info</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 03:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser/" target="_blank">The Browser Company launches a $20 monthly subscription for its AI-powered browser</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-07 06:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="LG Promo Codes: 20% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">LG Promo Codes: 20% Off | August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-07 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +154,6 @@
                 <span class="time">2025-08-06 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg" alt="Tornado Cash sold crypto “privacy”; the US saw “money laundering.”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tornado-cash-sold-crypto-privacy-the-us-saw-money-laundering-a-jury-isnt-sure-what-to-think/" target="_blank">Tornado Cash sold crypto “privacy”; the US saw “money laundering.”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-06 21:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-500x500.jpg" alt="Tornado Cash sold crypto “privacy”; the US saw “money laundering.” A jury isn’t sure what to think." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/tornado-cash-sold-crypto-privacy-the-us-saw-money-laundering-a-jury-isnt-sure-what-to-think/" target="_blank">Tornado Cash sold crypto “privacy”; the US saw “money laundering.” A jury isn’t sure what to think.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-06 21:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +166,15 @@
                 <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc" target="_blank">Understanding Constructors in Java: The House-Building Analogy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-32/" target="_blank">FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-07 05:11</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/luisciber/from-raw-c-to-plug-and-play-ai-why-the-human-spark-is-still-the-real-engine-of-the-future-1e2m" target="_blank">From Raw C++ to “Plug-and-Play” AI: Why the Human Spark Is Still the Real Engine of the Future</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PyTorch-2.8-Released" target="_blank">PyTorch 2.8 Released With Better Intel CPU Performance For LLM Inference</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 00:50</span>
             </div>
         </div>
 </div>
@@ -334,22 +327,13 @@
                 <span class="time">2025-08-06 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/06/aruba-barbatos" target="_blank">Aruba, Barbatos</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-06 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
