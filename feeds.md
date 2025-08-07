@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 05:08:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-07 06:02:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 05:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/plastic-credits-a-false-solution-or-the-answer-to-global-plastic-waste?traffic_source=rss" target="_blank">Plastic credits: A ‘false solution’ or the answer to global plastic waste?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 05:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,6 +76,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250806-trump-tariffs-take-effect-food-japan-toys-china-tvs-korea-se-453p-4ea181.jpg" alt="New tariffs snap into effect, raising import taxes to highest level since Great Depression" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/trump-tariffs-latest-round-takes-effect-thursday-august-7-2025-rcna223461" target="_blank">New tariffs snap into effect, raising import taxes to highest level since Great Depression</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 04:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/us-soldier-charged-with-attempt-to-provide-russia-with-battle-tank-info?traffic_source=rss" target="_blank">US soldier charged with attempt to provide Russia with battle tank info</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-07 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/trump-announces-100-percent-tariff-on-semiconductor-imports?traffic_source=rss" target="_blank">Trump announces 100 percent tariff on semiconductor imports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/1197084433/eddie-palmieri-latin-jazz-legend-has-died" target="_blank">Eddie Palmieri, a trailblazer in Latin music, has died at age 88</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 02:11</span>
             </div>
         </div>
 </div>
@@ -169,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/understanding-constructors-in-java-the-house-building-analogy-23oc" target="_blank">Understanding Constructors in Java: The House-Building Analogy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 05:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll" target="_blank">🔐 Safe String Keys in TypeScript — No More Silent Failures</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 05:03</span>
@@ -208,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/PyTorch-2.8-Released" target="_blank">PyTorch 2.8 Released With Better Intel CPU Performance For LLM Inference</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-07 00:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/getting-know-navtez-singh-bal-vice-president-general-manager-india-and-south-asia" target="_blank">Getting to know Navtez Singh Bal, Vice President &amp; General Manager, India and South Asia</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-08-07 00:00</span>
             </div>
         </div>
 </div>
@@ -348,7 +349,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 05:08 UTC
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
