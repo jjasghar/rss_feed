@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 22:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-07 23:01:40 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-1-gty-gmh-250807_1754575456353_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance makes case for redistricting to Indiana Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Vance makes case for redistricting to Indiana Republicans</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +98,20 @@
                 <span class="time">2025-08-07 20:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/7/families-of-israeli-captives-sail-near-gaza-to-call-for-a-ceasefire?traffic_source=rss" target="_blank">Families of Israeli captives sail near Gaza to call for a ceasefire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 20:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/" target="_blank">Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-07 22:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/" target="_blank">IPO hopeful Brex scored major win to sell in the EU, plans UK expansion</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-07 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/cannibal7-500x500.jpg" alt="Did a rival tribe kill and eat their neighbors 5,700 years ago?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/archaeologists-unearth-fresh-evidence-of-neolithic-cannibalism/" target="_blank">Did a rival tribe kill and eat their neighbors 5,700 years ago?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-07 18:15</span>
             </div>
         </div>
 </div>
@@ -239,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Enid-Netflix-.jpg" alt="9 Things We Loved, and 4 Things We Didn’t, About ‘Wednesday’ Season Two, Part One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wednesday-season-2-part-one-spoilers-liked-didnt-like-2000640176" target="_blank">9 Things We Loved, and 4 Things We Didn’t, About ‘Wednesday’ Season Two, Part One</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-07 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/07/b217b25f792cd2f155ae86b9fe8974fe.jpg" alt="BioShock 4 Isn’t Getting Canceled Despite ‘Some Ups And Downs’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424" target="_blank">BioShock 4 Isn’t Getting Canceled Despite ‘Some Ups And Downs’</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-07 22:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT.jpg" alt="The End of Bullshit AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/highlander-reboot-dave-bautista-kurgen-2000640233" target="_blank">Dave Bautista Will Showdown With Henry Cavill In ‘Highlander’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-07 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/05/Virgin.jpeg?fit=1500%2C996&amp;quality=60&amp;ssl=1" alt="Wealthy first-class passenger Salman Iftikhar jailed for threatening to gang-rape and set a Virgin Atlantic crew member on fire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/07/wealthy-first-class-passenger-salman-iftikhar-jailed-for-threatening-to-gang-rape-and-set-a-virgin-atlantic-crew-member-on-fire.html" target="_blank">Wealthy first-class passenger Salman Iftikhar jailed for threatening to gang-rape and set a Virgin Atlantic crew member on fire</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-07 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Netflix-cell-phone.jpg" alt="‘Wednesday’ Showrunner Confirms We’ve Seen the Last of Xavier Thorpe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wednesday-season-2-xavier-exit-percy-hynes-white-netflix-2000640133" target="_blank">‘Wednesday’ Showrunner Confirms We’ve Seen the Last of Xavier Thorpe</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 18:00</span>
             </div>
         </div>
 </div>
@@ -338,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
