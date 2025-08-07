@@ -1,35 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 10:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-07 11:01:51 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +98,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/07/hubble-taps-muons-new-xl-satellites-to-build-a-bluetooth-layer-around-earth/" target="_blank">Hubble Network plans massive satellite upgrade to create global Bluetooth layer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas" target="_blank">Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas</a></span>
                 <span class="feed">The Verge</span>
@@ -149,20 +149,20 @@
                 <span class="time">2025-08-07 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689389277e5b686b4b8f1a86/master/pass/openai-google-drive-sec-2225304360.jpg" alt="A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/" target="_blank">A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-06 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://leonardo.chiariglione.org/" target="_blank">&quot;I closed MPEG on 2 Jun &#x27;20 when I left because obscure forces had hijacked it.&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 10:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf6qyr3oiig5tc29c6zb.png" alt="OpenTelemetry Tracing on the JVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,15 +206,6 @@
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-32/" target="_blank">FOSS Weekly #25.32: AWS Fiasco, AUR Poisoned Again, Ubuntu Manual, Firefox New Tab Customization and More Linux Stuff</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-08-07 05:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll" target="_blank">🔐 Safe String Keys in TypeScript — No More Silent Failures</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 05:03</span>
             </div>
         </div>
 </div>
@@ -336,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
