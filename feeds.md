@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 17:03:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 18:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 17:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/cambodia-nominates-trump-for-nobel-prize-after-thai-border-truce?traffic_source=rss" target="_blank">Cambodia nominates Trump for Nobel Prize after Thai border truce</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +102,29 @@
                 <span class="time">2025-08-07 14:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/07/nx-s1-5495308/ultra-processed-food-upf-rfk-cdc" target="_blank">Ultra-processed food consumption is down a bit, but still more than 50% of U.S. diet</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/movie-reviews/719762/weapons-review" target="_blank">Weapons turns our deepest anxieties into a potent horror masterpiece</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/07/spacex-is-building-a-water-pipeline-to-starbase-but-access-comes-with-some-conditions/" target="_blank">SpaceX is building a water pipeline to Starbase – but access comes with some conditions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-07 17:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +161,6 @@
                 <span class="time">2025-08-07 13:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6894326a06aa5fbcd7458435/master/pass/The%20Best%20Golf%20Rangefinders.png" alt="The Best Golf Rangefinders (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-golf-rangefinders/" target="_blank">The Best Golf Rangefinders (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-07 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg" alt="RFK Jr. defends $500M cut for mRNA vaccines with pseudoscience gobbledygook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/rfk-jr-defends-500m-cut-for-mrna-vaccines-with-pseudoscience-gobbledygook/" target="_blank">RFK Jr. defends $500M cut for mRNA vaccines with pseudoscience gobbledygook</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-07 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,10 +169,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/levii07/just-static-it-everthing-about-static-keyword-1eki" target="_blank">JUST STATIC it: Everthing about Static Keyword</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://openai.com/gpt-5" target="_blank">GPT-5</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-July-2025" target="_blank">Redox OS Recently Saw 500~700% Performance Improvement For Basic File I/O</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-07 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/ubuntu-24043-lts.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 24.04.3 LTS Released with Linux 6.14 + Mesa 25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-24-04-3-lts-released" target="_blank">Ubuntu 24.04.3 LTS Released with Linux 6.14 + Mesa 25</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-07 16:08</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +218,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/07/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/" target="_blank">A new worst coder has entered the chat: vibe coding without code knowledge</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alejandro_du/disaster-recovery-and-ai-vectors-in-mariadb-kubernetes-operator-25080-3k03" target="_blank">Disaster Recovery and AI Vectors in MariaDB Kubernetes Operator 25.08.0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 15:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ryzen-ai-max-395-9950x-9950x3d" target="_blank">AMD Ryzen AI Max+ 395 vs. Ryzen 9 9950X vs. Ryzen 9 9950X3D Linux Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18551497&w=600" alt="Availability to Accountability: Running AI Workloads Responsibly in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-cloud-availability-to-accountability" target="_blank">Availability to Accountability: Running AI Workloads Responsibly in the Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-07 15:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Netflix-cell-phone.jpg" alt="‘Wednesday’ Showrunner Confirms We’ve Seen the Last of Xavier Thorpe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wednesday-season-2-xavier-exit-percy-hynes-white-netflix-2000640133" target="_blank">‘Wednesday’ Showrunner Confirms We’ve Seen the Last of Xavier Thorpe</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-07 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/kundabladehed.jpg" alt="Gabe Kunda Is Ready to Be Your Next Blade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/mafia-old-country-reviews-metacritic-roundup-ps5-2000616275" target="_blank">Mafia: The Old Country Reviews Say It’s Mostly Good Enough</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-07 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Robert-Pattinson.jpg" alt="‘The Batman Part II’ Finally Starts Filming Next Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-batman-part-ii-filming-update-spring-2026-matt-reeves-2000639960" target="_blank">‘The Batman Part II’ Finally Starts Filming Next Spring</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 14:00</span>
             </div>
         </div>
 </div>
@@ -348,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
