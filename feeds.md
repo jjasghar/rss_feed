@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 09:04:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-07 10:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-putin-meeting_1754558228434_hpMain_4x3t_384.jpg" alt="Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/kremlin-trump-putin-agreed-meeting-coming-days/story?id=124438908" target="_blank">Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/f09e5330-736e-11f0-8071-1788c7e8ae0e.jpg" alt="Trump and Putin to meet in coming days, Kremlin aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr5rdl1y8ndo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin to meet in coming days, Kremlin aide says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5489813/dungeons-dragons-dimension-20-critical-role-madison-square-garden-stadium" target="_blank">It started with friends at home. Now Dungeons &amp; Dragons is in its stadium era.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/majority-seek-end-to-israel-weapons-sales-survey-spanning-three-continents?traffic_source=rss" target="_blank">Majority seek end to Israel weapons sales: Survey spanning three continents</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 08:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b3/live/6ba32dc0-7366-11f0-8dbd-f3d32ebd3327.jpg" alt="First migrants detained under &#x27;one in, one out&#x27; deal with France" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,47 +99,20 @@
                 <span class="time">2025-08-07 08:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-putin-trump-rs-56ac20.jpg" alt="Kremlin says Putin-Trump meeting agreed, will happen in &#x27;coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/russia/russia-putin-trump-meeting-confirmed-ukraine-rcna223572" target="_blank">Kremlin says Putin-Trump meeting agreed, will happen in &#x27;coming days&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 08:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce24/live/0c33d720-734f-11f0-b021-a33e13a62965.jpg" alt="Trump&#x27;s sweeping new tariffs take effect against dozens of countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx23jmvn5yzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump&#x27;s sweeping new tariffs take effect against dozens of countries</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 07:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4b/live/ca4597b0-72de-11f0-8b10-cf4c62b71fa7.png" alt="Bank of England expected to cut interest rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">Bank of England expected to cut interest rates</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/gaza-aid-distribution-declared-orchestrated-killing-by-msf?traffic_source=rss" target="_blank">Gaza aid distribution declared ‘orchestrated killing’ by MSF</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 06:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas" target="_blank">Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 08:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/" target="_blank">A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-06 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning" target="_blank">Apple made a 24k gold and glass statue for Donald Trump</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 21:48</span>
             </div>
         </div>
 </div>
@@ -339,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
