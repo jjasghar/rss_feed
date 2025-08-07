@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 08:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 09:04:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b3/live/6ba32dc0-7366-11f0-8dbd-f3d32ebd3327.jpg" alt="First migrants detained under &#x27;one in, one out&#x27; deal with France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce35v0zyzvlo?at_medium=RSS&at_campaign=rss" target="_blank">First migrants detained under &#x27;one in, one out&#x27; deal with France</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 08:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/trumps-higher-tariffs-take-effect-on-imports-from-dozens-of-countries?traffic_source=rss" target="_blank">Trump’s higher tariffs take effect on imports from dozens of countries</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 08:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-putin-trump-rs-56ac20.jpg" alt="Kremlin says Putin-Trump meeting agreed, will happen in &#x27;coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/russia/russia-putin-trump-meeting-confirmed-ukraine-rcna223572" target="_blank">Kremlin says Putin-Trump meeting agreed, will happen in &#x27;coming days&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 08:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce24/live/0c33d720-734f-11f0-b021-a33e13a62965.jpg" alt="Trump&#x27;s sweeping new tariffs take effect against dozens of countries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/gaza-aid-distribution-declared-orchestrated-killing-by-msf?traffic_source=rss" target="_blank">Gaza aid distribution declared ‘orchestrated killing’ by MSF</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-07 06:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/ship-ap-er-250806_1754510793649_hpMain_4x3t_384.jpg" alt="Sweeping new tariffs take effect, risking price increases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trumps-sweeping-new-tariffs-set-effect/story?id=124410014" target="_blank">Sweeping new tariffs take effect, risking price increases</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/plastic-credits-a-false-solution-or-the-answer-to-global-plastic-waste?traffic_source=rss" target="_blank">Plastic credits: A ‘false solution’ or the answer to global plastic waste?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-white-house_6980468.jpg?20250802074400" alt="Trump went from frustration to a possible meeting with Putin in just seven hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-vowed-to-end-ukraine-war-in-first-24-hours-of-his-presidency-nearly-200-days-in-could-he-be-close-13407980" target="_blank">Trump went from frustration to a possible meeting with Putin in just seven hours</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-07 05:07</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf6qyr3oiig5tc29c6zb.png" alt="OpenTelemetry Tracing on the JVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d" target="_blank">OpenTelemetry Tracing on the JVM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 09:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/aleksei_aleinikov/safe-string-keys-in-typescript-no-more-silent-failures-46ll" target="_blank">🔐 Safe String Keys in TypeScript — No More Silent Failures</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-farlight-84-official-relaunch-trailer-3ekp" target="_blank">IGN: Farlight 84 - Official Relaunch Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 04:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 154 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
