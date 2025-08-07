@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 15:02:38 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-07 16:01:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc83/live/6f12c520-737e-11f0-9004-d9dc4108587b.jpg" alt="Interest rates cut to lowest level in more than two years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">Interest rates cut to lowest level in more than two years</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-07 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495365/neh-national-endowment-for-the-humanities-lawsuit" target="_blank">Federal judge rules cuts to humanities grants were &#x27;unlawful&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/john-Cornyn-gty-gmh-250807_1754575066424_hpMain_4x3t_384.jpg" alt="FBI granted request to locate fleeing Texas House Democrats, Sen. Cornyn says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2025-08-07 12:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc83/live/6f12c520-737e-11f0-9004-d9dc4108587b.jpg" alt="UK interest rates cut to 4% in tight decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yprwyxjlxo?at_medium=RSS&at_campaign=rss" target="_blank">UK interest rates cut to 4% in tight decision</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754565834660_tdy_news_7a_romans_tariffs_250807_1920x1080-3wpdl0.jpg" alt="Trump Says US Will Be ‘Very Rich’ as Tariffs Go Into Effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-s-broad-tariffs-take-effect-against-nearly-100-countries-244505157738" target="_blank">Trump Says US Will Be ‘Very Rich’ as Tariffs Go Into Effect</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad" target="_blank">Microsoft is cautiously onboarding Grok 4 following Hitler concerns</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +159,38 @@
                 <span class="time">2025-08-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas" target="_blank">Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-07 08:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alejandro_du/disaster-recovery-and-ai-vectors-in-mariadb-kubernetes-operator-25080-3k03" target="_blank">Disaster Recovery and AI Vectors in MariaDB Kubernetes Operator 25.08.0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ryzen-ai-max-395-9950x-9950x3d" target="_blank">AMD Ryzen AI Max+ 395 vs. Ryzen 9 9950X vs. Ryzen 9 9950X3D Linux Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18551497&w=600" alt="Availability to Accountability: Running AI Workloads Responsibly in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-cloud-availability-to-accountability" target="_blank">Availability to Accountability: Running AI Workloads Responsibly in the Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-07 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +218,6 @@
                 <span class="time">2025-08-07 13:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.89-Released" target="_blank">Rust 1.89 Released With More AVX-512 Intrinsics &amp; x86 Target Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/empathy-driven-platform-teams/en/headerimage/empathy-driven-platform-header-1753261807936.jpg" alt="How Empathy-Driven Platform Teams Can Support Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/empathy-driven-platform-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Empathy-Driven Platform Teams Can Support Software Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-07 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Flang-Tidy" target="_blank">Flang-Tidy Cleaning/Correcting Fortran Code In &quot;Sort Of Opinionated Fashion&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/main-6.jpg" alt="Amazon’s War Of The Worlds Is One Of The Worst Movies Ever Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/war-of-the-worlds-amazon-prime-review-2000616263" target="_blank">Amazon’s War Of The Worlds Is One Of The Worst Movies Ever Made</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2024/12/9656e2ddcd11d25fcab9b8e7bf69f098.jpg" alt="Mafia: The Old Country Reviews Say It’s Mostly Good Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,20 +291,20 @@
                 <span class="time">2025-08-07 12:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K10AD3FEPEWF33768TVJ9Q75/hero-image.png" alt="These Sony LinkBuds Fit Earbuds Are on Sale for Just $77 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sony-linkbuds-fit-earbuds-stacksocial-sale?utm_medium=RSS" target="_blank">These Sony LinkBuds Fit Earbuds Are on Sale for Just $77 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-07 12:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754539869-20250807.png" alt="Saturday Morning Breakfast Cereal - Floral" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/floral" target="_blank">Saturday Morning Breakfast Cereal - Floral</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-07 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5630.png" alt="The Funny Farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,22 +332,13 @@
                 <span class="time">2025-08-06 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754340832-20250806.png" alt="Saturday Morning Breakfast Cereal - Picky" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/picky" target="_blank">Saturday Morning Breakfast Cereal - Picky</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-06 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
