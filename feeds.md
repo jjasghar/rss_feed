@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 00:05:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 01:29:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/unitedairlines_1754526967473_hpMain_4x3t_384.jpg" alt="United Airlines grounds flights nationwide over technology issue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/united-airlines-grounds-flights-nationwide-technology-issue/story?id=124433330" target="_blank">United Airlines grounds flights nationwide over technology issue</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-07 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/7/russia-ukraine-war-list-of-key-events-day-1260?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,260</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-07 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1dxr1g4y7yo?at_medium=RSS&at_campaign=rss" target="_blank">Trump orders India tariff hike to 50% for buying Russian oil</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-06 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/israeli-captive-families-confront-police-outside-army-headquarters?traffic_source=rss" target="_blank">Israeli captive families confront police outside army headquarters</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-06 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-donald-trump-vladimir-putin_6921976.jpg?20250520080739" alt="Trump: Very good prospect I&#x27;ll meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-could-meet-putin-as-early-as-next-week-to-discuss-ukraine-ceasefire-white-house-official-13407912" target="_blank">Trump: Very good prospect I&#x27;ll meet Putin</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-06 20:30</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/luisciber/from-raw-c-to-plug-and-play-ai-why-the-human-spark-is-still-the-real-engine-of-the-future-1e2m" target="_blank">From Raw C++ to “Plug-and-Play” AI: Why the Human Spark Is Still the Real Engine of the Future</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-07 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PyTorch-2.8-Released" target="_blank">PyTorch 2.8 Released With Better Intel CPU Performance For LLM Inference</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-07 00:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10" target="_blank">Windows Subsystem For Linux &quot;WSL&quot; Updated For A Yet-To-Be-Public Security Vulnerability</a></span>
                 <span class="feed">Phoronix</span>
@@ -199,24 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/cloud-sprawl-vs-cloud-complexity" target="_blank">Cloud Sprawl Is a Given; Cloud Complexity Doesn’t Have to Be</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-06 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-Wassette-OSS" target="_blank">Microsoft Announces Open-Source &quot;Wassette&quot; Using Rust + WebAssembly To Help AI Agents</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-06 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.b-list.org/weblog/2025/aug/06/litestar/" target="_blank">Litestar is worth a look</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-06 19:41</span>
             </div>
         </div>
 </div>
@@ -257,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K20JYTEJ3KGVXB96TX14F6FS/hero-image.jpg" alt="What Is Hyrox, and Why Is Everyone Suddenly Doing It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-is-hyrox-fitness-competition?utm_medium=RSS" target="_blank">What Is Hyrox, and Why Is Everyone Suddenly Doing It?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-06 23:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/bob-iger-disney-originals-slate-frozen-olaf-star-wars-marvel.jpg" alt="Bob Iger Insists Disney’s Focus Is on Original Movies—but Is It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/quakecon-2025s-steam-sale-is-packed-with-big-deals-on-great-pc-games-2000616059" target="_blank">QuakeCon 2025’s Steam Sale Is Packed With Big Deals On Great PC Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-06 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Ember-Mug-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The mug you wish you invented is 46% off — but stock won&#x27;t last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/06/the-mug-you-wish-you-invented-is-46-off-but-stock-wont-last.html" target="_blank">The mug you wish you invented is 46% off — but stock won&#x27;t last</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-06 21:00</span>
             </div>
         </div>
 </div>
@@ -343,12 +348,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5629.png" alt="Idle Speculation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" alt="Snake-in-the-Box Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5629" target="_blank">Idle Speculation</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-06 00:41</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3125/" target="_blank">Snake-in-the-Box Problem</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-06 04:00</span>
             </div>
         </div>
 </div>
@@ -356,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
