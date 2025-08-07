@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 13:14:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-07 14:03:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 13:14 UTC</div>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 14:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/07/nx-s1-5495308/ultra-processed-food-upf-rfk-cdc" target="_blank">Ultra-processed food consumption is down a bit, but still more than 50% of U.S. diet</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-07 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-putin-meeting_1754558228434_hpMain_4x3t_384.jpg" alt="Kremlin says Putin agreed to Trump meeting &#x27;in the coming days&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/kremlin-trump-putin-agreed-meeting-coming-days/story?id=124438908" target="_blank">Kremlin says Trump and Putin have agreed to meeting &#x27;in the coming days&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-07 09:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/f09e5330-736e-11f0-8071-1788c7e8ae0e.jpg" alt="Trump and Putin to meet in coming days, Kremlin aide says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5rdl1y8ndo?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin to meet in coming days, Kremlin aide says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 09:57</span>
             </div>
         </div>
 </div>
@@ -174,10 +169,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/" target="_blank">Infinite Pixels</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/owly/the-reality-of-academic-publishing-why-the-system-is-rigged-2e6" target="_blank">The Reality of Academic Publishing: Why the System Is Rigged</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.89-Released" target="_blank">Rust 1.89 Released With More AVX-512 Intrinsics &amp; x86 Target Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-07 12:28</span>
             </div>
         </div>
 <div class="story">
@@ -207,24 +220,6 @@
                 <span class="time">2025-08-07 10:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://leonardo.chiariglione.org/" target="_blank">&quot;I closed MPEG on 2 Jun &#x27;20 when I left because obscure forces had hijacked it.&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 10:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuf6qyr3oiig5tc29c6zb.png" alt="OpenTelemetry Tracing on the JVM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nfrankel/opentelemetry-tracing-on-the-jvm-2p1d" target="_blank">OpenTelemetry Tracing on the JVM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 09:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/12/9656e2ddcd11d25fcab9b8e7bf69f098.jpg" alt="Mafia: The Old Country Reviews Say It’s Mostly Good Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mafia-old-country-reviews-metacritic-roundup-ps5-2000616275" target="_blank">Mafia: The Old Country Reviews Say It’s Mostly Good Enough</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-07 14:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Robert-Pattinson.jpg" alt="‘The Batman Part II’ Finally Starts Filming Next Spring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-batman-part-ii-filming-update-spring-2026-matt-reeves-2000639960" target="_blank">‘The Batman Part II’ Finally Starts Filming Next Spring</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-07 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Nothing-Phone-3.jpg" alt="Nothing Phone 3 Review: A Rule-Breaking Phone for Rebels" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-live-service-concord-marathon-smoothly-2000616270" target="_blank">PlayStation Admits Live-Service Gaming Is ‘Not Going Entirely Smoothly’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-07 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K204HWSJKZE74BXD50VR69K5/hero-image.png" alt="11 Filters You Should Be Cleaning or Replacing in Your Home (and When)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/filters-to-clean-replace-at-home?utm_medium=RSS" target="_blank">11 Filters You Should Be Cleaning or Replacing in Your Home (and When)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-07 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ps5.jpg" alt="Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264" target="_blank">Sony’s Sold 80 Million PS5s In Five Years, Dwarfing Xbox</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-07 11:21</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
