@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-06 23:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-08-07 00:05:26 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, August 06, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, August 07, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/6/a-migrant-march-in-mexico-continues-despite-scrutiny-of-organisers-arrest?traffic_source=rss" target="_blank">A migrant march in Mexico continues despite scrutiny of organiser’s arrest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-06 23:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754521712824_nn_spr_fortstewartshooting_250806_1920x1080-8x22ny.jpg" alt="Army Sergeant in custody after shooting five soldiers at Fort Stewart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/army-sergeant-in-custody-after-shooting-five-soldiers-at-fort-stewart-244480581786" target="_blank">Army Sergeant in custody after shooting five soldiers at Fort Stewart</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-06 23:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-donald-trump-vladimir-putin_6921976.jpg?20250520080739" alt="Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/05/1920x1080/skynews-donald-trump-vladimir-putin_6921976.jpg?20250520080739" alt="Trump: Very good prospect I&#x27;ll meet Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-could-meet-putin-as-early-as-next-week-to-discuss-ukraine-ceasefire-white-house-official-13407912" target="_blank">Trump could meet Putin as early as next week to discuss Ukraine ceasefire - White House official</a></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-could-meet-putin-as-early-as-next-week-to-discuss-ukraine-ceasefire-white-house-official-13407912" target="_blank">Trump: Very good prospect I&#x27;ll meet Putin</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-06 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/06/nx-s1-5493363/denmark-zoo-donate-pets-feeding-animals" target="_blank">A zoo in Denmark asked patrons to donate their pets. Not as attractions, but for food</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-06 20:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-putin-1-gty-gmh-250728_1753712745856_hpMain_4x3t_384.jpg" alt="A Trump-Putin meeting could happen as soon as next week, White House official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-putin-meeting-happen-week-white-house-official/story?id=124423199" target="_blank">A Trump-Putin meeting could happen as soon as next week, White House official says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-06 20:00</span>
             </div>
         </div>
 </div>
@@ -107,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21309820/best-wireless-earbuds" target="_blank">The best earbuds we’ve tested for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-07 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689389277e5b686b4b8f1a86/master/pass/openai-google-drive-sec-2225304360.jpg" alt="A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/" target="_blank">A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-06 23:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +160,20 @@
                 <span class="time">2025-08-06 18:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23393163/best-smart-door-lock" target="_blank">I tested 30 smart locks, and these are the best</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test" target="_blank">I tested Grok’s Valentine sex chatbot and it (mostly) behaved</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-06 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10" target="_blank">Windows Subsystem For Linux &quot;WSL&quot; Updated For A Yet-To-Be-Public Security Vulnerability</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-06 22:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fglama.ai%2Fuploads%2Fi5xsg4m5xe" alt="Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/om_shree_0709/using-mcp-with-jupyter-notebooks-agent-driven-workflow-in-python-1d4f" target="_blank">Using MCP with Jupyter Notebooks: Agent‑Driven Workflow in Python</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-06 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/07/onlyoffice-chatgpt.jpg?resize=406%2C232&amp;ssl=1" alt="ONLYOFFICE Update Adds “AI Agent” to Help You Work “Effortlessly”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/onlyoffice-desktop-editors-update-ai-agent" target="_blank">ONLYOFFICE Update Adds “AI Agent” to Help You Work “Effortlessly”</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-06 22:42</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://www.b-list.org/weblog/2025/aug/06/litestar/" target="_blank">Litestar is worth a look</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-06 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawcqencnhar9bvesujar.png" alt="The Psychology of Coding: Why Developers Avoid Planning (and How AI Planning Tools Like Continue Fix It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bekahhw/the-psychology-of-coding-why-developers-avoid-planning-and-how-ai-planning-tools-like-continue-5083" target="_blank">The Psychology of Coding: Why Developers Avoid Planning (and How AI Planning Tools Like Continue Fix It)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-06 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18549659&w=600" alt="Building Scalable, Resilient Workflows With State Machines on GCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-retry-resilient-fare-pipelines-with-idem" target="_blank">Building Scalable, Resilient Workflows With State Machines on GCP</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-06 18:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/08/Ttg2CEH543tfSAaZEEH2DG-e1754521836232.jpg?fit=768%2C432&amp;quality=60&amp;ssl=1" alt="You won&#x27;t notice it is gone: Hulu slowly being disappeared into Disney+" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/06/you-wont-notice-it-is-gone-hulu-slowly-being-disappeared-into-disney.html" target="_blank">You won&#x27;t notice it is gone: Hulu slowly being disappeared into Disney+</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-06 23:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/bob-iger-disney-originals-slate-frozen-olaf-star-wars-marvel.jpg" alt="Bob Iger Insists Disney’s Focus Is on Original Movies—but Is It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,20 +301,20 @@
                 <span class="time">2025-08-06 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K20FHEP3ADA87ZJZPQ8S3GB7/hero-image.jpg" alt="The Seven Best Non-Gaming VR Experiences for Meta Quest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-vr-experiences-meta-quest?utm_medium=RSS" target="_blank">The Seven Best Non-Gaming VR Experiences for Meta Quest</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-06 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/06/aruba-barbatos" target="_blank">Aruba, Barbatos</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-06 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -348,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
