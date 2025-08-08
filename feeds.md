@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 14:03:00 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-08 15:01:42 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 14:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5495338/climate-change-environment-websites-trump" target="_blank">Far more environmental data is being deleted in Trump&#x27;s second term than before</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c6/live/16818a60-741c-11f0-8603-27bf87625784.jpg" alt="What we know about Israel&#x27;s plan to take over Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +98,20 @@
                 <span class="time">2025-08-08 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/have-sections-of-the-us-constitution-gone-missing-from-government-website?traffic_source=rss" target="_blank">Have sections of the US Constitution gone missing from government website?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/" target="_blank">What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-08 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nationalacademies-500x500.jpg" alt="National Academies to fast-track a new climate assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +157,20 @@
                 <span class="time">2025-08-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250805204418_057650-500x500.jpeg" alt="Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" target="_blank">Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800" target="_blank">DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faqmhnf6pak5rssgcfnlg.png" alt="There&#x27;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="time">2025-08-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/advanced-message-queuing/en/mediumimage/john-o%27hara-medium-1752572043019.jpeg" alt="Presentation: Advanced Message Queuing Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/advanced-message-queuing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Advanced Message Queuing Politics</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-08 09:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/8BitDo-Pro-3-controller-14.jpg" alt="The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-8bitdo-pro-3-is-so-dang-customizable-youll-never-need-another-controller-2000640089" target="_blank">The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K24WEAAJ3389FKW7ASZNEYVD/hero-image.png" alt="There&#x27;s a Better Way to Watch YouTube on iPhone (Without Ads, the Algorithm, or Shorts)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/theres-a-better-way-to-watch-youtube-on-iphone-without-ads?utm_medium=RSS" target="_blank">There&#x27;s a Better Way to Watch YouTube on iPhone (Without Ads, the Algorithm, or Shorts)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/morningcheck4.jpg" alt="Tencent’s Horizon Zero Dawn Knockoff Quietly Scrubs Steam Page Following Sony Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,39 +272,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Footage-posted-by-One-Stop-Sales-show-the-outlet.jpg?fit=1080%2C595&amp;quality=60&amp;ssl=1" alt="Labubu heist in Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/08/labubu-heist-in-los-angeles.html" target="_blank">Labubu heist in Los Angeles</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-08 12:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/smartwatch-recall-1.jpg" alt="Smartwatches Recalled for Catching Fire, Burning Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/smartwatches-recalled-for-catching-fire-burning-hands-2000640267" target="_blank">Smartwatches Recalled for Catching Fire, Burning Hands</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/prime2.jpg" alt="Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-prime-free-games-civilization-thief-2000616600" target="_blank">Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-08 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/mymario.jpg" alt="Get ‘Em While They’re Young! Nintendo Launches Preschool My Mario Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/my-mario-nintendo-preschool-app-amiibo-2000616595" target="_blank">Get ‘Em While They’re Young! Nintendo Launches Preschool My Mario Products</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Lunar-base-illustration.jpg" alt="Solar-Powered Device Turns Moon Dirt Into Bricks, a Potential Breakthrough in Lunar Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/solar-powered-device-turns-moon-dirt-into-bricks-a-potential-breakthrough-in-lunar-construction-2000640313" target="_blank">Solar-Powered Device Turns Moon Dirt Into Bricks, a Potential Breakthrough in Lunar Construction</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 10:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
