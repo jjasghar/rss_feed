@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 08:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 09:04:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Friday, August 08, 2025 - 09:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/g-s1-81074/mcgruff-crime-dog-fentanyl-campaign-cuts" target="_blank">Trump administration cuts McGruff the Crime Dog&#x27;s fentanyl campaign</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb5/live/3aedbff0-742f-11f0-876e-092c0a90f4e0.jpg" alt="Starmer condemns Israel&#x27;s plan to take over Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2kyg0g8kxo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer condemns Israel&#x27;s plan to take over Gaza City</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-08 08:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,20 @@
                 <span class="time">2025-08-08 05:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df0/live/2c3a9010-6eca-11f0-8dbd-f3d32ebd3327.png" alt="Courts service &#x27;covered up&#x27; IT bug that caused evidence to go missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwye2q00k51o?at_medium=RSS&at_campaign=rss" target="_blank">Courts service &#x27;covered up&#x27; IT bug that caused evidence to go missing</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-08 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250808-gaza-city-cc-1218a-5ccd86.jpg" alt="Israel says it will take control of Gaza City, escalating war with Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/live-blog/israel-gaza-city-occupy-hamas-war-hunger-netanyahu-live-updates-rcna223805" target="_blank">Israel says it will take control of Gaza City, escalating war with Hamas</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-08 04:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers" target="_blank">Apple’s lock on iPhone browser engines gets a December deadline</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-08 08:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +162,29 @@
                 <span class="time">2025-08-07 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6894ef71cde90d1b11cdf381/master/pass/The%20Best%20Colored%20Noise%20for%20Sleep.png" alt="The Best Colored Noise for Sleep (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-noise-for-sleep/" target="_blank">The Best Colored Noise for Sleep (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-07 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/ai-agent-cli/en/headerimage/ai-agent-cli-header-1754471958152.jpg" alt="Article: Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/ai-agent-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn" target="_blank">WTF is Micro Frontends?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 08:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +221,6 @@
                 <span class="time">2025-08-08 04:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.1" target="_blank">LACT 0.8.1 Linux GPU Control Panel Improves Voltage/Clock Controls For Older AMD GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marsha_rose_f4ba2d2d1d360/how-to-identify-a-trusted-platform-for-buying-verified-onlyfans-accounts-2o4h" target="_blank">How to Identify a Trusted Platform for Buying Verified OnlyFans Accounts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 02:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hoho.jpg" alt="Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-ho-oh-lugia-plagiarism-new-art-2000616590" target="_blank">Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 08:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_2520135095-scaled-e1754620156218.jpg?fit=768%2C458&amp;quality=60&amp;ssl=1" alt="Thieves execute a Labubu heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/max-cracking-down-password-sharing?utm_medium=RSS" target="_blank">HBO Max Will Soon Get ‘Aggressive’ About Password Sharing</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-07 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/bitcoin-gfb21834df_1920-e1754601829320.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="WNBA sex toy disruption is a misguided ploy by crypto bros" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/07/wnba-sex-toy-disruption-is-a-misguided-ploy-by-crypto-bros.html" target="_blank">WNBA sex toy disruption is a misguided ploy by crypto bros</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-07 21:24</span>
             </div>
         </div>
 </div>
@@ -337,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 09:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
