@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-07 23:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 00:05:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, August 07, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-gaza_6985236.jpg?20250808000159" alt="Netanyahu faces condemnation over plan for Israel to take full military control of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/netanyahu-faces-condemnation-over-plan-for-israel-to-take-full-military-control-of-gaza-13408401" target="_blank">Netanyahu faces condemnation over plan for Israel to take full military control of Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-07 22:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jd-vance-1-gty-gmh-250807_1754575456353_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Vance makes case for redistricting to Indiana Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2025-08-07 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495592/the-story-behind-a-famous-photo-of-a-starving-child-in-gaza" target="_blank">The Story Behind a Famous Photo of a Starving Child in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 20:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2224884015-500x500.jpg" alt="New executive order puts all grants under political control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/" target="_blank">New executive order puts all grants under political control</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-07 23:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 35 Best Movies on HBO Max Right Now (August 2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-07 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/07/ipo-hopeful-brex-scored-major-win-to-sell-in-the-eu-plans-uk-expansion/" target="_blank">IPO hopeful Brex scored major win to sell in the EU, plans UK expansion</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-07 18:52</span>
             </div>
         </div>
 </div>
@@ -254,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/bitcoin-gfb21834df_1920-e1754601829320.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="WNBA sex toy disruption is a misguided ploy by crypto bros" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/07/wnba-sex-toy-disruption-is-a-misguided-ploy-by-crypto-bros.html" target="_blank">WNBA sex toy disruption is a misguided ploy by crypto bros</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-07 21:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT.jpg" alt="The End of Bullshit AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/how-to-spot-a-bad-or-unsafe-at-home-workout-video?utm_medium=RSS" target="_blank">Four Ways to Spot a Bad (or Unsafe) At-Home Workout Video</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-07 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Dave-Bautista-Army-of-Dead.jpg" alt="Dave Bautista Will Showdown With Henry Cavill In ‘Highlander’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/highlander-reboot-dave-bautista-kurgen-2000640233" target="_blank">Dave Bautista Will Showdown With Henry Cavill In ‘Highlander’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 19:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
