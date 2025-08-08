@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 15:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 16:01:50 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5493300/solar-climate-change-trump-epa" target="_blank">EPA plans to end a program that makes solar power available to low-income Americans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 15:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +98,29 @@
                 <span class="time">2025-08-08 11:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754651644645_tdy_news_7a_sanchez_israel_250808_1920x1080-s6kgzi.jpg" alt="Israel Says it Will Take Control of Gaza City in Major Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/israel-s-security-cabinet-votes-to-seize-control-of-gaza-city-244571717643" target="_blank">Israel Says it Will Take Control of Gaza City in Major Escalation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-08 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-115746295-500x500.jpg" alt="Google and Valve will kill “Steam for Chromebooks” experiment in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/google-and-valve-will-kill-steam-for-chromebooks-experiment-in-january-2026/" target="_blank">Google and Valve will kill “Steam for Chromebooks” experiment in January 2026</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-08 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689253d6c47eed84303dd608/master/pass/House-of-Dragon-Actor-New-Horror-Game-Skewers-Hollywood-Culture-DEAD-TAKE_KEY-ART.jpg" alt="&#x27;House of the Dragon&#x27; Actor&#x27;s New Horror Game Skewers Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/house-of-the-dragon-actors-new-horror-game-skewers-hollywood/" target="_blank">&#x27;House of the Dragon&#x27; Actor&#x27;s New Horror Game Skewers Hollywood</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 15:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +157,29 @@
                 <span class="time">2025-08-08 13:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/08/openvibe-combines-news-and-social-media-in-one-app/" target="_blank">Openvibe combines news and social media in one app</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on" target="_blank">Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/" target="_blank">How to use GitHub Copilot to level up your code reviews and pull requests</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ros-noetic-is-eol-take-action-to-maintain-fleet-security" target="_blank">ROS Noetic is EOL – take action to maintain fleet security</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-08 15:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="time">2025-08-08 12:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Nicholas-L-Johnson/flip-card" target="_blank">Ultrathin business card runs a fluid simulation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-08 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553609&w=600" alt="Databricks DBRX vs OpenAI GPT-4o vs Claude 3: Which LLM Is Best for Enterprise Use Cases?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/enterprise-ai-dbrx-gpt4o-claude3-comparison" target="_blank">Databricks DBRX vs OpenAI GPT-4o vs Claude 3: Which LLM Is Best for Enterprise Use Cases?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +241,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-8bitdo-pro-3-is-so-dang-customizable-youll-never-need-another-controller-2000640089" target="_blank">The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K22Y3K0WPWZYF9T6EYA3M82H/hero-image.png" alt="This Roborock Robot Vacuum Is at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roborock-q5-max-plus-robot-vacuum-sale?utm_medium=RSS" target="_blank">This Roborock Robot Vacuum Is at Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-08 15:00</span>
             </div>
         </div>
@@ -280,15 +289,6 @@
                 <span class="time">2025-08-08 12:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/smartwatch-recall-1.jpg" alt="Smartwatches Recalled for Catching Fire, Burning Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/smartwatches-recalled-for-catching-fire-burning-hands-2000640267" target="_blank">Smartwatches Recalled for Catching Fire, Burning Hands</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,31 +321,13 @@
                 <span class="time">2025-08-07 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/as-a-friend/" target="_blank">As a Friend</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-08-07 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754539869-20250807.png" alt="Saturday Morning Breakfast Cereal - Floral" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/floral" target="_blank">Saturday Morning Breakfast Cereal - Floral</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
