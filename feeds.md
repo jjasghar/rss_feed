@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 20:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 21:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5347716/trump-putin-meeting" target="_blank">Trump says he will meet Putin &#x27;very shortly&#x27; and will announce the date and place soon</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-putin-rt-jef-250808_1754654752691_hpMain_4x3t_384.jpg" alt="Trump confirms he&#x27;ll meet &#x27;very shortly&#x27; with Putin, location to be announced soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-deadline-arrives-putin-agree-ceasefire-face-sanctions/story?id=124479057" target="_blank">Trump confirms he&#x27;ll meet &#x27;very shortly&#x27; with Putin, location to be announced soon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-08 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/zambia-ex-president-must-be-sent-home-for-burial-south-african-court-rules?traffic_source=rss" target="_blank">Zambia ex-president must be sent home for burial, South African court rules</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b3/live/4ff656c0-7482-11f0-8071-1788c7e8ae0e.jpg" alt="Israel rejects international criticism of Gaza City takeover plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c207p49wrypo?at_medium=RSS&at_campaign=rss" target="_blank">Israel rejects international criticism of Gaza City takeover plan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-08 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250808_1754661190856_hpMain_4x3t_384.jpg" alt="Texas House fails to reach quorum amid Democrats&#x27; redistricting showdown with GOP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,47 +97,20 @@
                 <span class="time">2025-08-08 18:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d214/live/d89b7870-7379-11f0-8071-1788c7e8ae0e.jpg" alt="Police &#x27;sat on information&#x27; before man, 80, killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgern08j998o?at_medium=RSS&at_campaign=rss" target="_blank">Police &#x27;sat on information&#x27; before man, 80, killed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-08 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250808_1754661190856_hpMain_4x3t_384.jpg" alt="Texas Democrats face Republican deadline to stop standoff or face consequences" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/texas-democrats-face-republican-deadline-stop-standoff-face/story?id=124480936" target="_blank">Texas Democrats face Republican deadline to stop standoff or face consequences</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-08 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5496351/leticia-james-justice-department-subpoena-trump" target="_blank">Justice Department launches grand jury probe of N.Y. Attorney General Letitia James</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-01/250128-donald-trump-vladimir-putin-2017-ac-1136p-e7c18a.jpg" alt="With Zelenskyy sidelined from peace talks, Trump appears to hand Putin a diplomatic win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/russia/trump-putin-meeting-ukraine-war-ceasefire-zelenskyy-rcna223589" target="_blank">With Zelenskyy sidelined from peace talks, Trump appears to hand Putin a diplomatic win</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-08 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/sandman19-500x500.jpg" alt="Review: The Sandman S2 is a classic tragedy, beautifully told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/review-the-sandman-s2-is-a-classic-tragedy-beautifully-told/" target="_blank">Review: The Sandman S2 is a classic tragedy, beautifully told</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-08 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6893af4362df5dd4c59b8498/master/pass/Uncanny-Valley-Premium-Chatbot-Subs-Business.jpg" alt="The Vibes-Based Pricing of ‘Pro’ AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +156,29 @@
                 <span class="time">2025-08-08 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-115746295-500x500.jpg" alt="Google and Valve will kill “Steam for Chromebooks” experiment in January 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/google-and-valve-will-kill-steam-for-chromebooks-experiment-in-january-2026/" target="_blank">Google and Valve will kill “Steam for Chromebooks” experiment in January 2026</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-08 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Orphans-Maintainers" target="_blank">Additional Intel Linux Drivers Left Orphaned &amp; Maintainers Let Go</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf" target="_blank">IGN: Mafia: The Old Country - Official Accolades Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 20:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +215,6 @@
                 <span class="time">2025-08-08 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553773&w=600" alt="State Machines Behind the Scenes of Flight Booking and Payments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/saga-state-machine-flight-booking" target="_blank">State Machines Behind the Scenes of Flight Booking and Payments</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA4-Kicker-Linux" target="_blank">AMD Linux Driver Prepares For Radeon RDNA4 &quot;Kicker&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Chatgpt.jpg" alt="Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/man-follows-diet-advice-from-chatgpt-ends-up-with-psychosis-2000640705" target="_blank">Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/BF666.jpg" alt="Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,30 +271,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HRQ1WE5GQPWHBFZVAT9XFRXK/hero-image.jpg" alt="The Best Apple TV+ Original Movies Everyone Should Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus?utm_medium=RSS" target="_blank">The Best Apple TV+ Original Movies Everyone Should Watch</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K254H80BB4KZ8PFBMNNC9PKM/hero-image.webp" alt="How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-disable-instagrams-map-feature?utm_medium=RSS" target="_blank">How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/GettyImages-2224039901.jpg" alt="Add the Tesla Diner to the List of Elon Musk Projects That Fail to Deliver on Promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/add-the-tesla-diner-to-the-list-of-elon-musk-projects-that-fail-to-deliver-on-promises-2000640715" target="_blank">Add the Tesla Diner to the List of Elon Musk Projects That Fail to Deliver on Promises</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/salycybertruck.jpg?fit=1280%2C932&amp;quality=60&amp;ssl=1" alt="The Air Force is buying Cybertrucks — to blow them up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/08/the-air-force-is-buying-cybertrucks-to-blow-them-up.html" target="_blank">The Air Force is buying Cybertrucks — to blow them up</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 17:49</span>
             </div>
         </div>
 </div>
@@ -340,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
