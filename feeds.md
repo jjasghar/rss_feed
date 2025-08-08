@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 13:14:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-08 14:03:00 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 13:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 14:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c6/live/16818a60-741c-11f0-8603-27bf87625784.jpg" alt="What we know about Israel&#x27;s plan to take over Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1mpg2glz1zo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Israel&#x27;s plan to take over Gaza City</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-08 13:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +99,38 @@
                 <span class="time">2025-08-08 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2025-CD11_1754598724767_hpMain_4x3t_384.jpg" alt="GOP Texas map has Austin residents sharing district with rural Texans 300 miles away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gops-texas-map-austin-residents-sharing-district-rural/story?id=124425447" target="_blank">GOP Texas map has Austin residents sharing district with rural Texans 300 miles away</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-08 09:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nationalacademies-500x500.jpg" alt="National Academies to fast-track a new climate assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/national-academies-to-fast-track-a-new-climate-assessment/" target="_blank">National Academies to fast-track a new climate assessment</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-08 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring" target="_blank">Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-08 13:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/" target="_blank">Google tests revamped Google Finance with AI upgrades, live news feed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-08 13:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,33 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" target="_blank">Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers" target="_blank">Apple’s lock on iPhone browser engines gets a December deadline</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-08 08:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689322803e6458c3511b4ce1/master/pass/GettyImages-2227409013.jpg" alt="Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/" target="_blank">Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 07:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/" target="_blank">xAI’s legal chief steps down after whirlwind year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-08 04:49</span>
             </div>
         </div>
 </div>
@@ -235,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/morningcheck4.jpg" alt="Tencent’s Horizon Zero Dawn Knockoff Quietly Scrubs Steam Page Following Sony Lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/horizon-zero-dawn-tencent-sony-lawsuit-knockoff-steam-art-2000616608" target="_blank">Tencent’s Horizon Zero Dawn Knockoff Quietly Scrubs Steam Page Following Sony Lawsuit</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K241BMPZVRTRV60CF10THR7A/hero-image.png" alt="My Favorite Emergency Kit Battery Set Is Over 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/ryobi-battery-set-sale?utm_medium=RSS" target="_blank">My Favorite Emergency Kit Battery Set Is Over 60% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/smartwatch-recall-1.jpg" alt="Smartwatches Recalled for Catching Fire, Burning Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,24 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/solar-powered-device-turns-moon-dirt-into-bricks-a-potential-breakthrough-in-lunar-construction-2000640313" target="_blank">Solar-Powered Device Turns Moon Dirt Into Bricks, a Potential Breakthrough in Lunar Construction</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hoho.jpg" alt="Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-tcg-pocket-ho-oh-lugia-plagiarism-new-art-2000616590" target="_blank">Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-08 08:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_2520135095-scaled-e1754620156218.jpg?fit=768%2C458&amp;quality=60&amp;ssl=1" alt="Thieves execute a Labubu heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/07/thieves-execute-a-labubu-heist-in-la-puente.html" target="_blank">Thieves execute a Labubu heist</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 02:31</span>
             </div>
         </div>
 </div>
@@ -343,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 13:14 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
