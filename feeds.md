@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 01:29:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 02:41:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 02:41 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/israeli-security-cabinet-approves-plan-to-occupy-gaza-city-report?traffic_source=rss" target="_blank">Israeli security cabinet approves plan to occupy Gaza City: Report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 02:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754607183435_nn_ami_israel_netanyahu_gaza_plans_250807_1920x1080-qvb229.jpg" alt="Israeli Prime Minister Netanyahu says Israel intends to take over Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/israeli-prime-minister-netanyahu-says-israel-intends-to-take-over-gaza-244546117874" target="_blank">Israeli Prime Minister Netanyahu says Israel intends to take over Gaza</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-07 22:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-gaza_6985236.jpg?20250808000159" alt="Netanyahu faces condemnation over plan for Israel to take full military control of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Vance makes case for redistricting to Indiana Republicans</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-07 22:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/7/trump-to-nominate-loyalist-stephen-miran-to-the-federal-reserve-board?traffic_source=rss" target="_blank">Trump to nominate ‘loyalist’ Stephen Miran to the Federal Reserve board</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-07 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/07/nx-s1-5495451/trump-college-admissions-affirmative-action" target="_blank">Trump orders colleges to share admissions data, with an eye on affirmative action</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-07 21:34</span>
             </div>
         </div>
 </div>
@@ -164,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marsha_rose_f4ba2d2d1d360/how-to-identify-a-trusted-platform-for-buying-verified-onlyfans-accounts-2o4h" target="_blank">How to Identify a Trusted Platform for Buying Verified OnlyFans Accounts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 02:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/MariaDB-12.0-Community-GA" target="_blank">MariaDB Community Server 12.0 Released As GA With Greater Oracle Compatibility</a></span>
                 <span class="feed">Phoronix</span>
@@ -177,6 +192,15 @@
                 <span class="title"><a href="https://www.vibechart.net/" target="_blank">Vibechart</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-07 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/" target="_blank">Junior developers aren’t obsolete: Here’s how to thrive in the age of AI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-07 21:05</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg" target="_blank">The Complete Nginx Mastery Series: From Zero to Production Hero</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-07 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/intellij.jpg?resize=406%2C232&amp;ssl=1" alt="IntelliJ IDEA 2025.2 Released with Offline AI Code Completion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/intellij-idea-2025-2-offline-ai-java-25-support" target="_blank">IntelliJ IDEA 2025.2 Released with Offline AI Code Completion</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-07 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/intellij-idea-2025-2-offline-ai-java-25-support" target="_blank">IntelliJ IDEA 2025.2 Released with Offline AI Code Completion &amp; Java 25</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-07 18:52</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 02:41 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
