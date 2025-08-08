@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 11:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-08 12:02:20 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/8/shock-and-fear-in-gaza-after-israel-announces-occupation-plan?traffic_source=rss" target="_blank">Shock and fear in Gaza after Israel announces occupation plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/08/g-s1-81274/health-care-attacks-gaza-lebanon-sudan-ukraine-healthocide" target="_blank">A word is born -- and critiqued: &#x27;healthocide&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754651644645_tdy_news_7a_sanchez_israel_250808_1920x1080-s6kgzi.jpg" alt="Israel Says it Will Take Control of Gaza City in Major Escalation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/israel-s-security-cabinet-votes-to-seize-control-of-gaza-city-244571717643" target="_blank">Israel Says it Will Take Control of Gaza City in Major Escalation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-08 11:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +101,20 @@
                 <span class="time">2025-08-08 09:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/far-right-israeli-football-fans-set-off-pyrotechnics-in-latvias-capital?traffic_source=rss" target="_blank">Far-right Israeli football fans set off pyrotechnics in Latvia’s capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 08:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb5/live/3aedbff0-742f-11f0-876e-092c0a90f4e0.jpg" alt="Starmer condemns Israel&#x27;s plan to take over Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2kyg0g8kxo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer condemns Israel&#x27;s plan to take over Gaza City</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-08 08:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/taiwan-reports-first-case-of-chikungunya-virus-from-china-outbreak?traffic_source=rss" target="_blank">Taiwan reports first case of chikungunya virus from China outbreak</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on" target="_blank">Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +160,29 @@
                 <span class="time">2025-08-07 23:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/" target="_blank">Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-07 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/kexp-black-country-new-road-besties-live-on-kexp-86c" target="_blank">KEXP: Black Country, New Road - Besties (Live on KEXP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553609&w=600" alt="Databricks DBRX vs OpenAI GPT-4o vs Claude 3: Which LLM Is Best for Enterprise Use Cases?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/enterprise-ai-dbrx-gpt4o-claude3-comparison" target="_blank">Databricks DBRX vs OpenAI GPT-4o vs Claude 3: Which LLM Is Best for Enterprise Use Cases?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/advanced-message-queuing/en/mediumimage/john-o%27hara-medium-1752572043019.jpeg" alt="Presentation: Advanced Message Queuing Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +219,6 @@
                 <span class="time">2025-08-08 08:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/08/python-come-for-the-language-stay-for-the-community/" target="_blank">Python: Come for the language, stay for the community</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-08 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0f82y28uwtg8y290muw.png" alt="The 4-Day Work Week for Developers: 12 Companies Sharing Real Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl" target="_blank">The 4-Day Work Week for Developers: 12 Companies Sharing Real Data</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 06:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,20 +233,29 @@
                 <span class="time">2025-08-08 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/china-accuses-nvidia-of-putting-backdoors-into-their-chips.html" target="_blank">China Accuses Nvidia of Putting Backdoors into Their Chips</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-07 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/smartwatch-recall-1.jpg" alt="Smartwatches Recalled for Catching Fire, Burning Hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/smartwatches-recalled-for-catching-fire-burning-hands-2000640267" target="_blank">Smartwatches Recalled for Catching Fire, Burning Hands</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/prime2.jpg" alt="Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-prime-free-games-civilization-thief-2000616600" target="_blank">Amazon Prime Gaming’s Latest Batch Of Freebies Can Be Grabbed Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/mymario.jpg" alt="Get ‘Em While They’re Young! Nintendo Launches Preschool My Mario Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/07/thieves-execute-a-labubu-heist-in-la-puente.html" target="_blank">Thieves execute a Labubu heist</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-08 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/pompeii-excavations.jpg" alt="After Mount Vesuvius Demolished Pompeii, People Returned to Live Among the Ruins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/after-mount-vesuvius-demolished-pompeii-people-returned-to-live-among-the-ruins-2000640319" target="_blank">After Mount Vesuvius Demolished Pompeii, People Returned to Live Among the Ruins</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Enid-Netflix-.jpg" alt="9 Things We Loved, and 4 Things We Didn’t, About ‘Wednesday’ Season Two, Part One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wednesday-season-2-part-one-spoilers-liked-didnt-like-2000640176" target="_blank">9 Things We Loved, and 4 Things We Didn’t, About ‘Wednesday’ Season Two, Part One</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 23:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
