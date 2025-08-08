@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 09:04:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-08 10:01:37 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 09:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +56,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/g-s1-81265/trump-fitness-test-democrats-texas-zoo-quiz-news" target="_blank">Over what does the Trump admin want to unleash &#x27;dominance&#x27;? Find out in the quiz</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/08/g-s1-81074/mcgruff-crime-dog-fentanyl-campaign-cuts" target="_blank">Trump administration cuts McGruff the Crime Dog&#x27;s fentanyl campaign</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-08 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/far-right-israeli-football-fans-set-off-pyrotechnics-in-latvias-capital?traffic_source=rss" target="_blank">Far-right Israeli football fans set off pyrotechnics in Latvia’s capital</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 08:50</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +106,6 @@
                 <span class="time">2025-08-08 06:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/in-my-gaza-maternity-ward-life-and-death-coexist-but-so-does-hope?traffic_source=rss" target="_blank">In my Gaza maternity ward, life and death coexist, but so does hope</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5495694/israel-gaza-military-escalation" target="_blank">Israel announces plan to retake Gaza City in another escalation of the war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 05:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -115,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers" target="_blank">Apple’s lock on iPhone browser engines gets a December deadline</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-08 08:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689322803e6458c3511b4ce1/master/pass/GettyImages-2227409013.jpg" alt="Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/" target="_blank">Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 07:02</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +165,29 @@
                 <span class="time">2025-08-07 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime" target="_blank">OpenAI gets caught vibe graphing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-07 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/advanced-message-queuing/en/mediumimage/john-o%27hara-medium-1752572043019.jpeg" alt="Presentation: Advanced Message Queuing Politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/advanced-message-queuing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Advanced Message Queuing Politics</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-08 09:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvy2w0xsoapeml77qzmbh.png" alt="Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00" target="_blank">Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 09:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/ai-agent-cli/en/headerimage/ai-agent-cli-header-1754471958152.jpg" alt="Article: Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,24 +224,6 @@
                 <span class="time">2025-08-08 06:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/openai-gpt-oss/en/headerimage/generatedHeaderImage-1754597450134.jpg" alt="OpenAI Releases gpt-oss-120b and gpt-oss-20b, Open-Weight Language Models for Local Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/openai-gpt-oss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Releases gpt-oss-120b and gpt-oss-20b, Open-Weight Language Models for Local Deployment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-08 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mainulspace/managing-wordpress-object-cache-with-memcached-per-site-flush-monitoring-optimization-l9j" target="_blank">Managing WordPress Object Cache with Memcached: Per-Site Flush, Monitoring &amp; Optimization</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 04:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Lunar-base-illustration.jpg" alt="Solar-Powered Device Turns Moon Dirt Into Bricks, a Potential Breakthrough in Lunar Construction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/solar-powered-device-turns-moon-dirt-into-bricks-a-potential-breakthrough-in-lunar-construction-2000640313" target="_blank">Solar-Powered Device Turns Moon Dirt Into Bricks, a Potential Breakthrough in Lunar Construction</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hoho.jpg" alt="Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424" target="_blank">BioShock 4 Isn’t Getting Canceled Despite ‘Some Ups And Downs’</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-07 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JE9E0CWCJVBAW4DRBA1KSEB4/hero-image.jpg" alt="HBO Max Will Soon Get ‘Aggressive’ About Password Sharing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/max-cracking-down-password-sharing?utm_medium=RSS" target="_blank">HBO Max Will Soon Get ‘Aggressive’ About Password Sharing</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-07 21:30</span>
             </div>
         </div>
 </div>
@@ -340,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 09:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
