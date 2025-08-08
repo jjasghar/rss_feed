@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 22:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 23:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/emory-4-ap-er-250808_1754691901203_hpMain_4x3t_384.jpg" alt="Officer injured, suspect dead in shooting at Emory University&#x27;s Atlanta campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Officer injured, suspect dead in shooting at Emory University&#x27;s Atlanta campus</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-08 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/texas-democrats-face-republican-deadline-stop-standoff-face/story?id=124480936" target="_blank">Texas House fails to reach quorum amid Democrats&#x27; redistricting showdown with GOP</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-08 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/8/why-is-israel-moving-to-seize-control-of-gaza-city?traffic_source=rss" target="_blank">Why is Israel moving to seize control of Gaza City?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 18:36</span>
             </div>
         </div>
 </div>
@@ -178,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://jo3-l.dev/posts/python-countdown/" target="_blank">A puzzling Python program</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-08 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Orphans-Maintainers" target="_blank">Additional Intel Linux Drivers Left Orphaned &amp; Maintainers Let Go</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,20 +215,20 @@
                 <span class="time">2025-08-08 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Linux-6.18-Waits" target="_blank">Bcachefs Maintainer Comments On The LKML While Waiting To See What Happens</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/" target="_blank">KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-08 21:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/citizen.jpg" alt="‘Citizen Toxie’ Is Troma at Its Filthy, Disgusting, Overtly Offensive Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/citizen-toxie-is-troma-at-its-filthy-disgusting-overtly-offensive-best-2000639174" target="_blank">‘Citizen Toxie’ Is Troma at Its Filthy, Disgusting, Overtly Offensive Best</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K25JBX930BREXP3Q5DXZWMCY/hero-image.jpg" alt="I Ran OpenAI&#x27;s &#x27;Open-Weight&#x27; Model on My Laptop (but I Wouldn&#x27;t Recommend It)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/openai-open-weight-model?utm_medium=RSS" target="_blank">I Ran OpenAI&#x27;s &#x27;Open-Weight&#x27; Model on My Laptop (but I Wouldn&#x27;t Recommend It)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/KWG8825.jpg" alt="Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/man-follows-diet-advice-from-chatgpt-ends-up-with-psychosis-2000640705" target="_blank">Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="ICE arrested MAGA-worshipping owner of &quot;Trump Burger&quot; in Texas — now faces deportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/08/ice-arrests-maga-worshipping-owner-of-trump-burger-in-texas-now-faces-deportation.html" target="_blank">ICE arrested MAGA-worshipping owner of &quot;Trump Burger&quot; in Texas — now faces deportation</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/BF666.jpg" alt="Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-open-beta-cheating-cheaters-hacks-ea-dice-secureboot-pc-2000616686" target="_blank">Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-08 19:56</span>
             </div>
         </div>
 </div>
@@ -348,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
