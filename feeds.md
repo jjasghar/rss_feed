@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 06:02:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-08 07:05:19 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 07:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/in-my-gaza-maternity-ward-life-and-death-coexist-but-so-does-hope?traffic_source=rss" target="_blank">In my Gaza maternity ward, life and death coexist, but so does hope</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/uk-homelessness-minister-resigns-over-claim-she-evicted-tenants-hiked-rent?traffic_source=rss" target="_blank">UK homelessness minister resigns over claim she evicted tenants, hiked rent</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-08 02:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-gaza-city-rubble-ac-1032p-909cf8.jpg" alt="Israel says it will retake Gaza City, escalating war with Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-says-will-retake-gaza-city-escalating-war-hamas-rcna223797" target="_blank">Israel says it will retake Gaza City, escalating war with Hamas</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-08 02:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/08/python-come-for-the-language-stay-for-the-community/" target="_blank">Python: Come for the language, stay for the community</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-08 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0f82y28uwtg8y290muw.png" alt="The 4-Day Work Week for Developers: 12 Companies Sharing Real Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teamcamp/the-4-day-work-week-for-developers-12-companies-sharing-real-data-ocl" target="_blank">The 4-Day Work Week for Developers: 12 Companies Sharing Real Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 06:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/openai-gpt-oss/en/headerimage/generatedHeaderImage-1754597450134.jpg" alt="OpenAI Releases gpt-oss-120b and gpt-oss-20b, Open-Weight Language Models for Local Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -184,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LACT-0.8.1" target="_blank">LACT 0.8.1 Linux GPU Control Panel Improves Voltage/Clock Controls For Older AMD GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marsha_rose_f4ba2d2d1d360/how-to-identify-a-trusted-platform-for-buying-verified-onlyfans-accounts-2o4h" target="_blank">How to Identify a Trusted Platform for Buying Verified OnlyFans Accounts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-08 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MariaDB-12.0-Community-GA" target="_blank">MariaDB Community Server 12.0 Released As GA With Greater Oracle Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.vibechart.net/" target="_blank">Vibechart</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-07 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/junior-developers-arent-obsolete-heres-how-to-thrive-in-the-age-of-ai/" target="_blank">Junior developers aren’t obsolete: Here’s how to thrive in the age of AI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-07 21:05</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 07:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
