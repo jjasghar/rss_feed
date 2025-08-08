@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 07:05:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 08:02:09 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 07:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/taiwan-reports-first-case-of-chikungunya-virus-from-china-outbreak?traffic_source=rss" target="_blank">Taiwan reports first case of chikungunya virus from China outbreak</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-gaza_6985236.jpg?20250808074055" alt="Israel unveils new direction for Gaza war - but it likely faces an impossible task" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/netanyahus-plan-for-gaza-risks-dragging-israel-into-a-conflict-with-no-clear-endpoint-13408468" target="_blank">Israel unveils new direction for Gaza war - but it likely faces an impossible task</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-08 06:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +100,20 @@
                 <span class="time">2025-08-08 04:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/8/canada-murders-spark-calls-to-label-indias-bishnoi-gang-a-terror-group?traffic_source=rss" target="_blank">Canada murders spark calls to label India’s Bishnoi gang a ‘terror’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/uk-homelessness-minister-resigns-over-claim-she-evicted-tenants-hiked-rent?traffic_source=rss" target="_blank">UK homelessness minister resigns over claim she evicted tenants, hiked rent</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 02:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/07/xais-legal-chief-steps-down-after-whirlwind-year/" target="_blank">xAI’s legal chief steps down after whirlwind year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-08 04:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2224884015-500x500.jpg" alt="New executive order puts all grants under political control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +157,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-noise-for-sleep/" target="_blank">The Best Colored Noise for Sleep (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-07 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2201240678-500x500-1754591905.jpg" alt="After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/after-using-chatgpt-man-swaps-his-salt-for-sodium-bromide-and-suffers-psychosis/" target="_blank">After using ChatGPT, man swaps his salt for sodium bromide—and suffers psychosis</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-07 19:20</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 07:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
