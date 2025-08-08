@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 00:05:20 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-08 01:29:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/07/g-s1-81603/nyc-shooter-mental-health-las-vegas-guns" target="_blank">NYC shooter had two &#x27;mental health holds&#x27; in Las Vegas. They didn&#x27;t affect his legal right to own guns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/russia-ukraine-war-list-of-key-events-day-1261?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,261</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 00:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-gaza_6985236.jpg?20250808000159" alt="Netanyahu faces condemnation over plan for Israel to take full military control of Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +97,6 @@
                 <span class="time">2025-08-07 21:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/alligator-alcatraz-rt-jef-250807_1754594437294_hpMain_4x3t_384.jpg" alt="Judge temporarily blocks further construction of &#x27;Alligator Alcatraz&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-temporarily-blocks-construction-alligator-alcatraz-immigrant-detention/story?id=124459998" target="_blank">Judge temporarily blocks further construction of &#x27;Alligator Alcatraz&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-07 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6835/live/23eb6180-73c7-11f0-a73a-9fc4cd34ad2c.jpg" alt="Homelessness Minister Rushanara Ali quits over rent hike claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyd3l2x2n8o?at_medium=RSS&at_campaign=rss" target="_blank">Homelessness Minister Rushanara Ali quits over rent hike claims</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-07 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +109,15 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/" target="_blank">New executive order puts all grants under political control</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-07 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/clips/68926fdb8802aa27300f820b/master/pass/080725-north-korean-IT-workers-1.mp4" alt="Leak Reveals the Workaday Lives of North Korean IT Scammers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/" target="_blank">Leak Reveals the Workaday Lives of North Korean IT Scammers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-07 23:15</span>
             </div>
         </div>
 <div class="story">
@@ -149,20 +156,29 @@
                 <span class="time">2025-08-07 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6894d7cc3d2a7b99d85f5e7d/master/pass/HBO-Movie-Guide-Culture-rev-1-FD6-07734_High_Res_JPEG.jpg" alt="The 35 Best Movies on HBO Max Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-movies-hbo-max-right-now/" target="_blank">The 35 Best Movies on HBO Max Right Now (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-07 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MariaDB-12.0-Community-GA" target="_blank">MariaDB Community Server 12.0 Released As GA With Greater Oracle Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.vibechart.net/" target="_blank">Vibechart</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-07 21:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18551777&w=600" alt="Exploring C++23: Multidimensional Subscript Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/intellij-idea-2025-2-offline-ai-java-25-support" target="_blank">IntelliJ IDEA 2025.2 Released with Offline AI Code Completion &amp; Java 25</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-07 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Performance-Key" target="_blank">Linux 6.17 Standardizes The Keycode For The &quot;Performance Boost&quot; Key</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-07 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/levii07/just-static-it-everthing-about-static-keyword-1eki" target="_blank">JUST STATIC it: Everthing about Static Keyword</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 17:45</span>
             </div>
         </div>
 </div>
@@ -255,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JE9E0CWCJVBAW4DRBA1KSEB4/hero-image.jpg" alt="HBO Max Will Soon Get ‘Aggressive’ About Password Sharing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/max-cracking-down-password-sharing?utm_medium=RSS" target="_blank">HBO Max Will Soon Get ‘Aggressive’ About Password Sharing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-07 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/bitcoin-gfb21834df_1920-e1754601829320.jpg?fit=600%2C338&amp;quality=60&amp;ssl=1" alt="WNBA sex toy disruption is a misguided ploy by crypto bros" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -279,15 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/07/inside-a-job-scam-reporter-spends-96-to-expose-fraudster-tactics.html" target="_blank">Inside a job scam: Reporter spends $96 to expose fraudster tactics</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-07 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K22YG14R023CH6WF85JG9EV4/hero-image.png" alt="Four Ways to Spot a Bad (or Unsafe) At-Home Workout Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/how-to-spot-a-bad-or-unsafe-at-home-workout-video?utm_medium=RSS" target="_blank">Four Ways to Spot a Bad (or Unsafe) At-Home Workout Video</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-07 19:30</span>
             </div>
         </div>
 </div>
@@ -322,22 +320,13 @@
                 <span class="time">2025-08-07 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5630.png" alt="The Funny Farm" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5630" target="_blank">The Funny Farm</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-07 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
