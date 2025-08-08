@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 16:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 17:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5496351/leticia-james-justice-department-subpoena-trump" target="_blank">Justice Department launches grand jury probe of N.Y. Attorney General Letitia James</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 16:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/8/shock-and-fear-in-gaza-after-israel-announces-occupation-plan?traffic_source=rss" target="_blank">Shock and fear in Gaza after Israel announces occupation plan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-08 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/08/g-s1-81274/health-care-attacks-gaza-lebanon-sudan-ukraine-healthocide" target="_blank">A word is born -- and critiqued: &#x27;healthocide&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 11:18</span>
             </div>
         </div>
 </div>
@@ -165,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-RDNA4-Kicker-Linux" target="_blank">AMD Linux Driver Prepares For Radeon RDNA4 &quot;Kicker&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553732&w=600" alt="API Testing With Playwright: A Guide for QA Engineers and Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/playwright-api-testing-guide" target="_blank">API Testing With Playwright: A Guide for QA Engineers and Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-08 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/" target="_blank">How to use GitHub Copilot to level up your code reviews and pull requests</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -174,46 +195,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet" target="_blank">GPT-5 vs. Sonnet: Complex Agentic Coding</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-08 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://hypothesis.works/articles/thread-safe/" target="_blank">Hypothesis is now thread-safe</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-08 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/ros-noetic-is-eol-take-action-to-maintain-fleet-security" target="_blank">ROS Noetic is EOL – take action to maintain fleet security</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-08-08 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/threadripper-9000-ddr5-6400-4800" target="_blank">DDR5-6400 vs. DDR5-4800 R-DIMM Performance For Threadripper 9980X / 9970X CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faqmhnf6pak5rssgcfnlg.png" alt="There&#x27;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bitox/theres-a-new-king-in-crypto-salaries-usdc-is-replacing-usdt-and-this-is-more-significant-than-it-4jk7" target="_blank">There&#x27;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RADV-RDNA4-Tri-Pair-Compress" target="_blank">RADV Implements Triangle Pair Compression For AMD RDNA4 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/kexp-black-country-new-road-besties-live-on-kexp-86c" target="_blank">KEXP: Black Country, New Road - Besties (Live on KEXP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 12:02</span>
             </div>
         </div>
 </div>
@@ -235,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/dc.jpg" alt="Capcom Announces New Dino Crisis…Merch Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659" target="_blank">Capcom Announces New Dino Crisis…Merch Sale</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K239ZWCB784MMFTJD6ER6G3Z/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With Samsung’s New Foldable Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/get-a-200-amazon-gift-card-with-samsungs-new-flip7-and-fold7-phones?utm_medium=RSS" target="_blank">You Can Get a $200 Amazon Gift Card With Samsung’s New Foldable Phones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/8BitDo-Pro-3-controller-14.jpg" alt="The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +292,6 @@
                 <span class="time">2025-08-08 13:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K241BMPZVRTRV60CF10THR7A/hero-image.png" alt="My Favorite Emergency Kit Battery Set Is Over 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/ryobi-battery-set-sale?utm_medium=RSS" target="_blank">My Favorite Emergency Kit Battery Set Is Over 60% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Footage-posted-by-One-Stop-Sales-show-the-outlet.jpg?fit=1080%2C595&amp;quality=60&amp;ssl=1" alt="Labubu heist in Los Angeles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/08/labubu-heist-in-los-angeles.html" target="_blank">Labubu heist in Los Angeles</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 12:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,22 +315,13 @@
                 <span class="time">2025-08-08 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/07/hot-take" target="_blank">!!HOT TAKE!!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-07 16:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
