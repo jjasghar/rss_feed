@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 18:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 19:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-capitol-gty-jef-250808_1754661190856_hpMain_4x3t_384.jpg" alt="Texas House fails to reach quorum amid Democrats&#x27; redistricting showdown with GOP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/texas-democrats-face-republican-deadline-stop-standoff-face/story?id=124480936" target="_blank">Texas House fails to reach quorum amid Democrats&#x27; redistricting showdown with GOP</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-08 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/8/why-is-israel-moving-to-seize-control-of-gaza-city?traffic_source=rss" target="_blank">Why is Israel moving to seize control of Gaza City?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d214/live/d89b7870-7379-11f0-8071-1788c7e8ae0e.jpg" alt="Police &#x27;sat on information&#x27; before man, 80, killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-01/250128-donald-trump-vladimir-putin-2017-ac-1136p-e7c18a.jpg" alt="With Zelenskyy sidelined from peace talks, Trump appears to hand Putin a diplomatic win" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5493300/solar-climate-change-trump-epa" target="_blank">EPA plans to end a program that makes solar power available to low-income Americans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5495338/climate-change-environment-websites-trump" target="_blank">Far more environmental data is being deleted in Trump&#x27;s second term than before</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c6/live/16818a60-741c-11f0-8603-27bf87625784.jpg" alt="What we know about Israel&#x27;s plan to take over Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1mpg2glz1zo?at_medium=RSS&at_campaign=rss" target="_blank">What we know about Israel&#x27;s plan to take over Gaza City</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-08 13:15</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/russia/trump-putin-meeting-ukraine-war-ceasefire-zelenskyy-rcna223589" target="_blank">With Zelenskyy sidelined from peace talks, Trump appears to hand Putin a diplomatic win</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-08 16:12</span>
             </div>
         </div>
 </div>
@@ -98,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689543d705734562beabd34a/master/pass/livestream_q&a_gpt5_coding.jpg" alt="Join Our Next Livestream: What GPT-5 Means for ChatGPT Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/" target="_blank">Join Our Next Livestream: What GPT-5 Means for ChatGPT Users</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 18:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68925c064e37593cb2df7284/master/pass/security_video_meetings_getty.jpg" alt="A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +161,29 @@
                 <span class="time">2025-08-08 13:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring" target="_blank">Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-08 13:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Linux-6.18-Waits" target="_blank">Bcachefs Maintainer Comments On The LKML While Waiting To See What Happens</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 18:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://instavm.io/blog/building-my-offline-ai-workspace" target="_blank">I want everything local – Building my offline AI workspace</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-08 18:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feof79zdjrh043qnyczmk.png" alt="Running Docker Swarm in Docker-in-Docker (DinD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +220,6 @@
                 <span class="time">2025-08-08 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-to-level-up-your-code-reviews-and-pull-requests/" target="_blank">How to use GitHub Copilot to level up your code reviews and pull requests</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet" target="_blank">GPT-5 vs. Sonnet: Complex Agentic Coding</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-08 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K254H80BB4KZ8PFBMNNC9PKM/hero-image.webp" alt="How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-disable-instagrams-map-feature?utm_medium=RSS" target="_blank">How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/GettyImages-2224039901.jpg" alt="Add the Tesla Diner to the List of Elon Musk Projects That Fail to Deliver on Promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/add-the-tesla-diner-to-the-list-of-elon-musk-projects-that-fail-to-deliver-on-promises-2000640715" target="_blank">Add the Tesla Diner to the List of Elon Musk Projects That Fail to Deliver on Promises</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/salycybertruck.jpg?fit=1280%2C932&amp;quality=60&amp;ssl=1" alt="The Air Force is buying Cybertrucks — to blow them up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/08/the-air-force-is-buying-cybertrucks-to-blow-them-up.html" target="_blank">The Air Force is buying Cybertrucks — to blow them up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-08 17:49</span>
             </div>
         </div>
 <div class="story">
@@ -264,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-8bitdo-pro-3-is-so-dang-customizable-youll-never-need-another-controller-2000640089" target="_blank">The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K22Y3K0WPWZYF9T6EYA3M82H/hero-image.png" alt="This Roborock Robot Vacuum Is at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roborock-q5-max-plus-robot-vacuum-sale?utm_medium=RSS" target="_blank">This Roborock Robot Vacuum Is at Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K24WEAAJ3389FKW7ASZNEYVD/hero-image.png" alt="There&#x27;s a Better Way to Watch YouTube on iPhone (Without Ads, the Algorithm, or Shorts)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/theres-a-better-way-to-watch-youtube-on-iphone-without-ads?utm_medium=RSS" target="_blank">There&#x27;s a Better Way to Watch YouTube on iPhone (Without Ads, the Algorithm, or Shorts)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 14:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
