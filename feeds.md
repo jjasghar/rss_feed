@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 04:16:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 05:07:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 04:16 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 05:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5495694/israel-gaza-military-escalation" target="_blank">Israel announces plan to retake Gaza City in another escalation of the war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-08 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df0/live/2c3a9010-6eca-11f0-8dbd-f3d32ebd3327.png" alt="Courts service &#x27;covered up&#x27; IT bug that caused evidence to go missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwye2q00k51o?at_medium=RSS&at_campaign=rss" target="_blank">Courts service &#x27;covered up&#x27; IT bug that caused evidence to go missing</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-08 04:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,39 +81,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250807-gaza-city-rubble-ac-1032p-909cf8.jpg" alt="Israel says it will retake Gaza City, escalating war with Hamas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/israel-says-will-retake-gaza-city-escalating-war-hamas-rcna223797" target="_blank">Israel says it will retake Gaza City, escalating war with Hamas</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-08 02:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/israeli-security-cabinet-approves-plan-to-occupy-gaza-city-report?traffic_source=rss" target="_blank">Israeli security cabinet approves plan to occupy Gaza City: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-08 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/07/g-s1-81603/nyc-shooter-mental-health-las-vegas-guns" target="_blank">NYC shooter had two &#x27;mental health holds&#x27; in Las Vegas. They didn&#x27;t affect his legal right to own guns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/russia-ukraine-war-list-of-key-events-day-1261?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,261</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-08 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754607183435_nn_ami_israel_netanyahu_gaza_plans_250807_1920x1080-qvb229.jpg" alt="Israeli Prime Minister Netanyahu says Israel intends to take over Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/israeli-prime-minister-netanyahu-says-israel-intends-to-take-over-gaza-244546117874" target="_blank">Israeli Prime Minister Netanyahu says Israel intends to take over Gaza</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-07 22:53</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/openai-gpt-oss/en/headerimage/generatedHeaderImage-1754597450134.jpg" alt="OpenAI Releases gpt-oss-120b and gpt-oss-20b, Open-Weight Language Models for Local Deployment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/openai-gpt-oss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Releases gpt-oss-120b and gpt-oss-20b, Open-Weight Language Models for Local Deployment</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-08 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mainulspace/managing-wordpress-object-cache-with-memcached-per-site-flush-monitoring-optimization-l9j" target="_blank">Managing WordPress Object Cache with Memcached: Per-Site Flush, Monitoring &amp; Optimization</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 04:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +216,6 @@
                 <span class="time">2025-08-07 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18551777&w=600" alt="Exploring C++23: Multidimensional Subscript Operator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/c23-multidimensional-subscript-operator" target="_blank">Exploring C++23: Multidimensional Subscript Operator</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-07 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu327rdk5y586nr1a676z.jpg" alt="The Complete Nginx Mastery Series: From Zero to Production Hero" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/unkletayo/the-complete-nginx-mastery-series-from-zero-to-production-hero-5cg" target="_blank">The Complete Nginx Mastery Series: From Zero to Production Hero</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-07 19:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/shutterstock_2520135095-scaled-e1754620156218.jpg?fit=768%2C458&amp;quality=60&amp;ssl=1" alt="Thieves execute a Labubu heist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/07/thieves-execute-a-labubu-heist-in-la-puente.html" target="_blank">Thieves execute a Labubu heist</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-08 02:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/pompeii-excavations.jpg" alt="After Mount Vesuvius Demolished Pompeii, People Returned to Live Among the Ruins" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/07/wnba-sex-toy-disruption-is-a-misguided-ploy-by-crypto-bros.html" target="_blank">WNBA sex toy disruption is a misguided ploy by crypto bros</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-07 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/OpenAI-ChatGPT.jpg" alt="The End of Bullshit AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-end-of-bullshit-ai-2000640302" target="_blank">The End of Bullshit AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-07 20:50</span>
             </div>
         </div>
 </div>
@@ -336,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 05:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
