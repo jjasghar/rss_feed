@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 19:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 20:01:53 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/6893af4362df5dd4c59b8498/master/pass/Uncanny-Valley-Premium-Chatbot-Subs-Business.jpg" alt="The Vibes-Based Pricing of ‘Pro’ AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/" target="_blank">The Vibes-Based Pricing of ‘Pro’ AI Software</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/adult-pron-website-500x500.jpg" alt="Adult sites are stashing exploit code inside racy .svg files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/" target="_blank">Adult sites are stashing exploit code inside racy .svg files</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-08 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o" target="_blank">ChatGPT is bringing back 4o as an option because people missed it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-08 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/689543d705734562beabd34a/master/pass/livestream_q&a_gpt5_coding.jpg" alt="Join Our Next Livestream: What GPT-5 Means for ChatGPT Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -134,38 +162,20 @@
                 <span class="time">2025-08-08 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689253d6c47eed84303dd608/master/pass/House-of-Dragon-Actor-New-Horror-Game-Skewers-Hollywood-Culture-DEAD-TAKE_KEY-ART.jpg" alt="&#x27;House of the Dragon&#x27; Actor&#x27;s New Horror Game Skewers Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/house-of-the-dragon-actors-new-horror-game-skewers-hollywood/" target="_blank">&#x27;House of the Dragon&#x27; Actor&#x27;s New Horror Game Skewers Hollywood</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/08/what-founders-need-to-know-before-choosing-their-exit-at-techcrunch-disrupt-2025/" target="_blank">What founders need to know before choosing their exit — straight from Jai Das and Roseanne Wincek — at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-08 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/nationalacademies-500x500.jpg" alt="National Academies to fast-track a new climate assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/national-academies-to-fast-track-a-new-climate-assessment/" target="_blank">National Academies to fast-track a new climate assessment</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-08 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-coretemp-Orphaned" target="_blank">Intel CPU Temperature Monitoring Driver For Linux Now Unmaintained After Layoffs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 18:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +221,6 @@
                 <span class="time">2025-08-08 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553732&w=600" alt="API Testing With Playwright: A Guide for QA Engineers and Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/playwright-api-testing-guide" target="_blank">API Testing With Playwright: A Guide for QA Engineers and Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-08 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/BF666.jpg" alt="Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-open-beta-cheating-cheaters-hacks-ea-dice-secureboot-pc-2000616686" target="_blank">Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/diabetes-gel-ointment.jpg" alt="New Gel Could Heal Stubborn Diabetic Wounds in Under 2 Weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-gel-could-heal-stubborn-diabetic-wounds-in-under-2-weeks-2000640860" target="_blank">New Gel Could Heal Stubborn Diabetic Wounds in Under 2 Weeks</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/Sheep-sticking-out-tongue-N-sky.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Paralyzed sheep masters driving with joystick, brings joy to animal sanctuary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/08/paralyzed-sheep-masters-driving-with-joystick-brings-joy-to-animal-sanctuary.html" target="_blank">Paralyzed sheep masters driving with joystick, brings joy to animal sanctuary</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-08 19:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K254H80BB4KZ8PFBMNNC9PKM/hero-image.webp" alt="How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +294,6 @@
                 <span class="time">2025-08-08 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/dc.jpg" alt="Capcom Announces New Dino Crisis…Merch Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcom-new-dino-crisis-merch-event-sequel-remake-horror-2000616659" target="_blank">Capcom Announces New Dino Crisis…Merch Sale</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-08 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K239ZWCB784MMFTJD6ER6G3Z/hero-image.png" alt="You Can Get a $200 Amazon Gift Card With Samsung’s New Foldable Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/get-a-200-amazon-gift-card-with-samsungs-new-flip7-and-fold7-phones?utm_medium=RSS" target="_blank">You Can Get a $200 Amazon Gift Card With Samsung’s New Foldable Phones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/8BitDo-Pro-3-controller-14.jpg" alt="The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-8bitdo-pro-3-is-so-dang-customizable-youll-never-need-another-controller-2000640089" target="_blank">The 8BitDo Pro 3 Is So Dang Customizable, You’ll Never Need Another Controller</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,6 +318,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/disclaimer.png" alt="Disclaimer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3126/" target="_blank">Disclaimer</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5631.png" alt="Office ASMR" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -330,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
