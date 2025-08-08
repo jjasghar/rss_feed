@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 12:02:20 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-08 13:14:00 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Friday, August 08, 2025 - 13:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/germany-halts-military-exports-to-israel-for-use-in-gaza-offensive?traffic_source=rss" target="_blank">Germany to halt military exports to Israel for use in Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-08 12:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/2025-CD11_1754598724767_hpMain_4x3t_384.jpg" alt="GOP Texas map has Austin residents sharing district with rural Texans 300 miles away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/g-s1-81265/trump-fitness-test-democrats-texas-zoo-quiz-news" target="_blank">Over what does the Trump admin want to unleash &#x27;dominance&#x27;? Find out in the quiz</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/g-s1-81074/mcgruff-crime-dog-fentanyl-campaign-cuts" target="_blank">Trump administration cuts McGruff the Crime Dog&#x27;s fentanyl campaign</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 09:01</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/gops-texas-map-austin-residents-sharing-district-rural/story?id=124425447" target="_blank">GOP Texas map has Austin residents sharing district with rural Texans 300 miles away</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-08 09:35</span>
             </div>
         </div>
 </div>
@@ -109,9 +105,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/08/openvibe-combines-news-and-social-media-in-one-app/" target="_blank">Openvibe combines news and social media in one app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-08 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on" target="_blank">Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-08-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250805204418_057650-500x500.jpeg" alt="Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" target="_blank">Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars</a></span>
+                <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-08 11:00</span>
             </div>
         </div>
@@ -142,29 +156,29 @@
                 <span class="time">2025-08-08 04:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2224884015-500x500.jpg" alt="New executive order puts all grants under political control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/" target="_blank">New executive order puts all grants under political control</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-07 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/clips/68926fdb8802aa27300f820b/master/pass/080725-north-korean-IT-workers-1.mp4" alt="Leak Reveals the Workaday Lives of North Korean IT Scammers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/" target="_blank">Leak Reveals the Workaday Lives of North Korean IT Scammers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-07 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faqmhnf6pak5rssgcfnlg.png" alt="There&#x27;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bitox/theres-a-new-king-in-crypto-salaries-usdc-is-replacing-usdt-and-this-is-more-significant-than-it-4jk7" target="_blank">There&#x27;s a new king in crypto salaries. USDC is replacing USDT, and this is more significant than it seems.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-RDNA4-Tri-Pair-Compress" target="_blank">RADV Implements Triangle Pair Compression For AMD RDNA4 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-08 12:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/music_youtube/kexp-black-country-new-road-besties-live-on-kexp-86c" target="_blank">KEXP: Black Country, New Road - Besties (Live on KEXP)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-08 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Nicholas-L-Johnson/flip-card" target="_blank">Ultrathin business card runs a fluid simulation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-08 11:41</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/advanced-message-queuing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Advanced Message Queuing Politics</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-08 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvy2w0xsoapeml77qzmbh.png" alt="Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/askerakbar/laminas-lens-a-sleek-simple-sql-query-logger-for-laminas-mvc-3n00" target="_blank">Laminas Lens - a sleek, simple, SQL query logger for Laminas MVC</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/ai-agent-cli/en/headerimage/ai-agent-cli-header-1754471958152.jpg" alt="Article: Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/ai-agent-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Keep the Terminal Relevant: Patterns for AI Agent Driven CLIs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-08 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dailybugle33/wtf-is-micro-frontends-3lnn" target="_blank">WTF is Micro Frontends?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 08:49</span>
             </div>
         </div>
 </div>
@@ -298,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/08/long-rest" target="_blank">Long Rest</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5631.png" alt="Office ASMR" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 13:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
