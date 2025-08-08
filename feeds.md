@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-08 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-08 22:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 08, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 08, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,12 +108,39 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" alt="Texas prepares for war as invasion of flesh-eating flies appears imminent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/texas-prepares-for-war-as-invasion-of-flesh-eating-flies-appears-imminent/" target="_blank">Texas prepares for war as invasion of flesh-eating flies appears imminent</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-08 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/" target="_blank">Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-08 21:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/sandman19-500x500.jpg" alt="Review: The Sandman S2 is a classic tragedy, beautifully told" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/culture/2025/08/review-the-sandman-s2-is-a-classic-tragedy-beautifully-told/" target="_blank">Review: The Sandman S2 is a classic tragedy, beautifully told</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-08 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689654bea27f0a0d3d8a0f9e/master/pass/Hackers_RChurchill_007.jpg" alt="Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/" target="_blank">Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 20:20</span>
             </div>
         </div>
 <div class="story">
@@ -129,38 +161,20 @@
                 <span class="time">2025-08-08 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o" target="_blank">ChatGPT is bringing back 4o as an option because people missed it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-08 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689543d705734562beabd34a/master/pass/livestream_q&a_gpt5_coding.jpg" alt="Join Our Next Livestream: What GPT-5 Means for ChatGPT Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/" target="_blank">Join Our Next Livestream: What GPT-5 Means for ChatGPT Users</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68925c064e37593cb2df7284/master/pass/security_video_meetings_getty.jpg" alt="A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/corporate-livestreams-exposed-search-tool/" target="_blank">A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/udoh_deborah_b1e484c474bf/day-18-docker-for-devops-engineers-pt-2-3a01" target="_blank">Day 18: Docker for DevOps Engineers pt 2</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-08 21:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553882&w=600" alt="Agentic AI vs Traditional AI Agents: What Makes Them Autonomous?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agentic-vs-traditional-ai-autonomy" target="_blank">Agentic AI vs Traditional AI Agents: What Makes Them Autonomous?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-08 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Linux-6.18-Waits" target="_blank">Bcachefs Maintainer Comments On The LKML While Waiting To See What Happens</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-08 18:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://instavm.io/blog/building-my-offline-ai-workspace" target="_blank">I want everything local – Building my offline AI workspace</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-08 18:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feof79zdjrh043qnyczmk.png" alt="Running Docker Swarm in Docker-in-Docker (DinD)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jungledev/running-docker-swarm-in-docker-in-docker-dind-3809" target="_blank">Running Docker Swarm in Docker-in-Docker (DinD)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 17:47</span>
             </div>
         </div>
 </div>
@@ -235,12 +240,48 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/KWG8825.jpg" alt="Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-and-roger-earthion-earthbound-splinter-cell-2000616720" target="_blank">Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-08 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2206556196.jpg" alt="Inspector General Probing FAA’s Handling of D.C. Airspace After Thousands of Close Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/inspector-general-probing-faas-handling-of-d-c-airspace-after-thousands-of-close-calls-2000640870" target="_blank">Inspector General Probing FAA’s Handling of D.C. Airspace After Thousands of Close Calls</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K25CDTYZE4822AZRECDYC2VS/hero-image.jpg" alt="OpenAI&#x27;s Rollout of GPT-5 Is Going Terribly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/openai-gpt-5-rollout?utm_medium=RSS" target="_blank">OpenAI&#x27;s Rollout of GPT-5 Is Going Terribly</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-08 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Chatgpt.jpg" alt="Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/man-follows-diet-advice-from-chatgpt-ends-up-with-psychosis-2000640705" target="_blank">Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-08 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="ICE arrested MAGA-worshipping owner of &quot;Trump Burger&quot; in Texas — now faces deportation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/08/ice-arrests-maga-worshipping-owner-of-trump-burger-in-texas-now-faces-deportation.html" target="_blank">ICE arrested MAGA-worshipping owner of &quot;Trump Burger&quot; in Texas — now faces deportation</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-08 20:15</span>
             </div>
         </div>
 <div class="story">
@@ -252,47 +293,20 @@
                 <span class="time">2025-08-08 19:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/diabetes-gel-ointment.jpg" alt="New Gel Could Heal Stubborn Diabetic Wounds in Under 2 Weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/new-gel-could-heal-stubborn-diabetic-wounds-in-under-2-weeks-2000640860" target="_blank">New Gel Could Heal Stubborn Diabetic Wounds in Under 2 Weeks</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/Sheep-sticking-out-tongue-N-sky.png?fit=1200%2C675&amp;quality=55&amp;ssl=1" alt="Paralyzed sheep masters driving with joystick, brings joy to animal sanctuary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/08/paralyzed-sheep-masters-driving-with-joystick-brings-joy-to-animal-sanctuary.html" target="_blank">Paralyzed sheep masters driving with joystick, brings joy to animal sanctuary</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 19:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HRQ1WE5GQPWHBFZVAT9XFRXK/hero-image.jpg" alt="The Best Apple TV+ Original Movies Everyone Should Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-apple-tv-plus?utm_medium=RSS" target="_blank">The Best Apple TV+ Original Movies Everyone Should Watch</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K254H80BB4KZ8PFBMNNC9PKM/hero-image.webp" alt="How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-disable-instagrams-map-feature?utm_medium=RSS" target="_blank">How to Make Sure Instagram Isn&#x27;t Sharing Your Location With All Your Friends</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/08/long-rest" target="_blank">Long Rest</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-08 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1754589073-20250808.png" alt="Saturday Morning Breakfast Cereal - Fellow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -334,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
