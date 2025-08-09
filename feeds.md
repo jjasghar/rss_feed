@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 08:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 09:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/09/g-s1-81860/zelenskyy-rejects-ceding-ukrainian-territory" target="_blank">Zelenskyy rejects formally ceding Ukrainian territory</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-09 08:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/446e8410-74ed-11f0-804e-eb459172de4b.jpg" alt="Ukraine must be part of peace solution, Zelensky says ahead of Trump-Putin meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine must be part of peace solution, Zelensky says ahead of Trump-Putin meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-09 08:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://news.sky.com/story/its-been-four-years-since-a-us-president-met-putin-and-trump-will-have-a-lot-of-ice-to-break-13408894" target="_blank">It&#x27;s been four years since a US president met Putin - and Trump will have a lot of ice to break</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-09 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/emory-6-ap-er-250808_1754692980924_hpMain_4x3t_384.jpg" alt="Officer killed, suspect dead in shooting near CDC HQ, Emory University campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Officer killed, suspect dead in shooting near CDC HQ, Emory University campus</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-09 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/5b328460-746d-11f0-ad5a-6daee3ba97a6.jpg" alt="Trump and Putin to meet in Alaska for Ukraine talks next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxed639n7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin to meet in Alaska for Ukraine talks next week</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 01:40</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2" target="_blank">📄 How to Write a PRD (Product Requirement Document) — and Why It’s Your Project’s Best Friend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://pythontest.com/pytest-fixtures-nuts-bolts-revisited/" target="_blank">pytest fixtures nuts and bolts - revisited</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-09 07:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon" target="_blank">Solomon Protocol: Job/Recruiter Game Changer with Redis AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 01:18</span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Orphans-Maintainers" target="_blank">Additional Intel Linux Drivers Left Orphaned &amp; Maintainers Let Go</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-08 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-mafia-the-old-country-official-accolades-trailer-12jf" target="_blank">IGN: Mafia: The Old Country - Official Accolades Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553882&w=600" alt="Agentic AI vs Traditional AI Agents: What Makes Them Autonomous?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-vs-traditional-ai-autonomy" target="_blank">Agentic AI vs Traditional AI Agents: What Makes Them Autonomous?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-08 20:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
