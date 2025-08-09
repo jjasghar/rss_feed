@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 09:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-09 10:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5438412/kenyan-immigrant-opts-leave-us-his-own-terms-self-deport" target="_blank">&#x27;At least I&#x27;m safe&#x27;: A Kenyan immigrant opts to leave the U.S. on his own terms, leaving children and wife behind</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-09 09:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/singapore-celebrates-success-on-60th-anniversary-but-challenges-loom-ahead?traffic_source=rss" target="_blank">Singapore celebrates success on 60th anniversary but challenges loom ahead</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-09 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/02/1920x1080/skynews-moscow-donald-trump_6828273.jpg?20250214011401" alt="It&#x27;s been four years since a US president met Putin - and Trump will have a lot of ice to break" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/its-been-four-years-since-a-us-president-met-putin-and-trump-will-have-a-lot-of-ice-to-break-13408894" target="_blank">It&#x27;s been four years since a US president met Putin - and Trump will have a lot of ice to break</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-09 02:40</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/en/headerimage/generatedHeaderImage-1754483584956.jpg" alt="When Unchecked Autoscaling Generates a $120K Cloud Spend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">When Unchecked Autoscaling Generates a $120K Cloud Spend</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-09 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alimaster/fast-and-efficient-tool-to-reduce-nodemodules-size-by-up-to-60-ideal-for-serverless-docker-and-1opc" target="_blank">Fast and efficient tool to reduce node_modules size by up to 60%. Ideal for serverless, Docker, and deployment optimization.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 09:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/udoh_deborah_b1e484c474bf/day-18-docker-for-devops-engineers-pt-2-3a01" target="_blank">Day 18: Docker for DevOps Engineers pt 2</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-08 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://jo3-l.dev/posts/python-countdown/" target="_blank">A puzzling Python program</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-08 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-More-Orphans-Maintainers" target="_blank">Additional Intel Linux Drivers Left Orphaned &amp; Maintainers Let Go</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 20:32</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
