@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 18:01:43 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-09 19:01:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss" target="_blank">Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="At least 365 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-09 14:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5497178/cdc-atlanta-emory-shooting-suspect-named" target="_blank">Authorities ID suspect in CDC shooting as a 30-year-old man from suburban Atlanta</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-09 13:50</span>
             </div>
         </div>
 </div>
@@ -162,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi" target="_blank">Local MongoDB Replica Set Cluster for Real-Time Container Apps (with Mongo Express)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/aerospike-rust-client/en/headerimage/aerospike-8-acid-1754759963207.jpeg" alt="New Rust Client Enables Building Safe, High-Performance Apps with Aerospike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/aerospike-rust-client/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Rust Client Enables Building Safe, High-Performance Apps with Aerospike</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-09 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67" target="_blank">Part 6:Collecting Data Without Overcomplication</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 17:41</span>
@@ -192,24 +219,6 @@
                 <span class="title"><a href="https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due" target="_blank">Mexico to US Livestock Trade halted due to Screwworm spread</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-09 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/cloudflare-key-value-store/en/headerimage/generatedHeaderImage-1753205688195.jpg" alt="How Cloudflare Migrated Quicksilver to Multi-Level Caching While Serving Billions of Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/cloudflare-key-value-store/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Cloudflare Migrated Quicksilver to Multi-Level Caching While Serving Billions of Requests</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-09 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo" target="_blank">Is GenAI Making Us Mentally Lazy ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 13:59</span>
             </div>
         </div>
 </div>
@@ -313,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
