@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 16:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 17:01:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 16:01 UTC</div>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/6896594ea27f0a0d3d8a0fa0/master/pass/I%20Tested%20Steam%20Mops%20in%20My%20Kitchen%20for%203%20Months.%20These%20Were%20My%20Favorites.png" alt="3 Best Steam Mops, Tested for Months (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-steam-mops/" target="_blank">3 Best Steam Mops, Tested for Months (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-09 13:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -148,20 +156,20 @@
                 <span class="time">2025-08-09 01:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/" target="_blank">Impersonators are targeting companies with fake TechCrunch outreach</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-09 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EFI-Stub-Clean-Boot" target="_blank">Linux 6.17 EFI Stub Will Try To Maintain a Cleaner Boot Experience</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-09 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.325-Released" target="_blank">Vulkan 1.4.325 Released With Untyped Pointers Extension</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/handbrake-logo-on-colourful-background.jpg?resize=406%2C232&amp;ssl=1" alt="HandBrake 1.10 is Out with Discord-Friendly Conversion Presets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/handbrake-1-10-released-new-features" target="_blank">HandBrake 1.10 is Out with Discord-Friendly Conversion Presets</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-09 12:48</span>
             </div>
         </div>
 </div>
@@ -317,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
