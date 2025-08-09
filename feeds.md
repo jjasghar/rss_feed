@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 15:01:30 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-08-09 16:01:38 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/uk-police-arrest-at-least-200-in-palestine-action-protest-in-london?traffic_source=rss" target="_blank">UK police arrest at least 200 people at Palestine Action protest in London</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5493422/nasa-crew-10-iss-space-station" target="_blank">4 people and 5 months in space, NASA&#x27;s Crew-10 mission safely returns to Earth</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-09 15:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Officer-David-Rose_1754709073286_hpMain_4x3t_384.jpg" alt="Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +98,20 @@
                 <span class="time">2025-08-09 12:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/how-rfk-jrs-vaccine-funding-cuts-fit-with-trumps-vision?traffic_source=rss" target="_blank">How RFK Jr’s vaccine funding cuts fit with Trump’s vision</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5438412/kenyan-immigrant-opts-leave-us-his-own-terms-self-deport" target="_blank">&#x27;At least I&#x27;m safe&#x27;: A Kenyan immigrant opts to leave the U.S. on his own terms, leaving children and wife behind</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-09 09:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating" target="_blank">RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,20 +157,29 @@
                 <span class="time">2025-08-09 00:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689680334fc94b86d60bebee/master/pass/security_Nakasone_GettyImages-1975561409.jpg" alt="Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/" target="_blank">Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 23:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mohamed_essam_27afebce427/introducing-jwtauditor-your-ultimate-burp-suite-extension-for-passive-jwt-security-analysis-1cba" target="_blank">Introducing JWTauditor: Your Ultimate Burp Suite Extension for Passive JWT Security Analysis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due" target="_blank">Mexico to US Livestock Trade halted due to Screwworm spread</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/cloudflare-key-value-store/en/headerimage/generatedHeaderImage-1753205688195.jpg" alt="How Cloudflare Migrated Quicksilver to Multi-Level Caching While Serving Billions of Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/handbrake-1-10-released-new-features" target="_blank">HandBrake 1.10 is Out with Discord-Friendly Conversion Presets</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-09 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkp73xxto2tpibc6tkmp.png" alt="kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kafechew/kheai-chat-based-ai-accounting-for-smarter-liquidity-bitcoin-treasury-with-redis-8-538l" target="_blank">kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hilton_abwavo_5b2e104ccd4/software-showcase-web-1idh" target="_blank">software showcase web</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 10:49</span>
             </div>
         </div>
 </div>
@@ -307,22 +312,13 @@
                 <span class="time">2025-08-08 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754589073-20250808.png" alt="Saturday Morning Breakfast Cereal - Fellow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/fellow" target="_blank">Saturday Morning Breakfast Cereal - Fellow</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
