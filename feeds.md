@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 03:25:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 04:07:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -298,11 +297,11 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K25CDTYZE4822AZRECDYC2VS/hero-image.jpg" alt="OpenAI&#x27;s Rollout of GPT-5 Is Going Terribly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="MS Office Pro Plus 2019 still slaps—and you can own it for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/openai-gpt-5-rollout?utm_medium=RSS" target="_blank">OpenAI&#x27;s Rollout of GPT-5 Is Going Terribly</a></span>
-                <span class="feed">Lifehacker</span>
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/08/ms-office-pro-plus-2019-still-slaps-and-you-can-own-it-for-just-30.html" target="_blank">MS Office Pro Plus 2019 still slaps—and you can own it for just $30</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-08 21:00</span>
             </div>
         </div>
@@ -338,22 +337,13 @@
                 <span class="time">2025-08-08 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/disclaimer.png" alt="Disclaimer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3126/" target="_blank">Disclaimer</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-08 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 03:25 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
