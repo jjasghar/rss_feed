@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 17:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 18:01:43 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="At least 365 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8de6rq37v5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 365 arrests at Palestine Action ban protest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-09 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/wirestory_a01a6dbae85b10cc710c48f1558c1401_4x3_384.jpg" alt="Zelenskyy rejects ceding Ukrainian territory, says Kyiv must be part of negotiations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/wireStory/zelenskyy-rejects-formally-ceding-ukrainian-territory-kyiv-part-124504540" target="_blank">Zelenskyy rejects ceding Ukrainian territory, says Kyiv must be part of negotiations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-09 17:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5497178/cdc-atlanta-emory-shooting-suspect-named" target="_blank">Authorities ID suspect in CDC shooting as a 30-year-old man from suburban Atlanta</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-09 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="More than 50 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8de6rq37v5o?at_medium=RSS&at_campaign=rss" target="_blank">More than 50 arrests at Palestine Action ban protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/business-of-war/2025/8/9/the-trillion-dollar-war-machine?traffic_source=rss" target="_blank">The trillion-dollar war machine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 12:03</span>
             </div>
         </div>
 </div>
@@ -164,6 +161,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67" target="_blank">Part 6:Collecting Data Without Overcomplication</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-EFI-Stub-Clean-Boot" target="_blank">Linux 6.17 EFI Stub Will Try To Maintain a Cleaner Boot Experience</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +212,6 @@
                 <span class="time">2025-08-09 13:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.325-Released" target="_blank">Vulkan 1.4.325 Released With Untyped Pointers Extension</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-09 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/white-vision.jpg" alt="Terry Matalas Reveals New ‘Vision Quest’ Details" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/terry-matalas-reveals-new-vision-quest-details-2000641146" target="_blank">Terry Matalas Reveals New ‘Vision Quest’ Details</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-09 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/August-2025-io9.jpg" alt="A Mirror World Brings Wonders—and Dread—in This Fantasy Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +294,6 @@
                 <span class="time">2025-08-08 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Office-Professional-Plus-2019-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="MS Office Pro Plus 2019 still slaps—and you can own it for just $30" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/08/ms-office-pro-plus-2019-still-slaps-and-you-can-own-it-for-just-30.html" target="_blank">MS Office Pro Plus 2019 still slaps—and you can own it for just $30</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-08 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
