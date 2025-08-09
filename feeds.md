@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 19:01:27 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-09 20:01:53 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c81/live/198c8750-7557-11f0-8071-1788c7e8ae0e.jpg" alt="Vance and Lammy host Ukraine talks ahead of US-Russia summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Vance and Lammy host Ukraine talks ahead of US-Russia summit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-09 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2025-08-09 15:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Officer-David-Rose_1754709073286_hpMain_4x3t_384.jpg" alt="Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-09 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6897948fbe3f878769d0cc2a/master/pass/signal-2025-08-06-073437.jpg" alt="A Special Diamond Is the Key to a Fully Open Source Quantum Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/" target="_blank">A Special Diamond Is the Key to a Fully Open Source Quantum Sensor</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-09 18:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/us-court-records-system-hacked/" target="_blank">The US Court Records System Has Been Hacked</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-09 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080825a-lg-500x500.jpg" alt="James Lovell, the steady astronaut who brought Apollo 13 home safely, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/astronaut-james-lovell-famed-apollo-13-commander-dies-at-97/" target="_blank">James Lovell, the steady astronaut who brought Apollo 13 home safely, has died</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-09 01:28</span>
             </div>
         </div>
 </div>
@@ -250,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/elon-musk-gazing-at-ceiling-may-30-2025.jpg" alt="Elon Musk Turns His AI Chatbot Into a Male Fantasy Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-turns-his-ai-chatbot-into-a-male-fantasy-engine-2000641153" target="_blank">Elon Musk Turns His AI Chatbot Into a Male Fantasy Engine</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-09 19:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/white-vision.jpg" alt="Terry Matalas Reveals New ‘Vision Quest’ Details" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -294,36 +301,13 @@
                 <span class="time">2025-08-08 21:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2206556196.jpg" alt="Inspector General Probing FAA’s Handling of D.C. Airspace After Thousands of Close Calls" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/inspector-general-probing-faas-handling-of-d-c-airspace-after-thousands-of-close-calls-2000640870" target="_blank">Inspector General Probing FAA’s Handling of D.C. Airspace After Thousands of Close Calls</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 21:30</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/08/long-rest" target="_blank">Long Rest</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-08 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
