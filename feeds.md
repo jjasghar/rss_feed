@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 02:32:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-09 03:25:26 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 02:32 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/singapore-celebrates-success-on-60th-anniversary-but-challenges-loom-ahead?traffic_source=rss" target="_blank">Singapore celebrates success on 60th anniversary but challenges loom ahead</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 03:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/emory-6-ap-er-250808_1754692980924_hpMain_4x3t_384.jpg" alt="Officer killed, suspect dead in shooting near CDC HQ, Emory University campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Officer killed, suspect dead in shooting near CDC HQ, Emory University campus</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-09 01:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/5b328460-746d-11f0-ad5a-6daee3ba97a6.jpg" alt="Trump and Putin to meet in Alaska for Ukraine talks next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,24 +97,6 @@
                 <span class="time">2025-08-08 23:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/emory-4-ap-er-250808_1754691901203_hpMain_4x3t_384.jpg" alt="Officer injured, suspect dead in shooting at Emory University&#x27;s Atlanta campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Officer injured, suspect dead in shooting at Emory University&#x27;s Atlanta campus</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-08 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5496518/trump-putin-ukraine-war-meeting-icc" target="_blank">Where could Trump and Putin meet about the war in Ukraine? The options are limited</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -126,6 +118,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/" target="_blank">Impersonators are targeting companies with fake TechCrunch outreach</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-09 00:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689680334fc94b86d60bebee/master/pass/security_Nakasone_GettyImages-1975561409.jpg" alt="Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/" target="_blank">Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-08 23:21</span>
             </div>
         </div>
 <div class="story">
@@ -153,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/" target="_blank">Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-08 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/sandman19-500x500.jpg" alt="Review: The Sandman S2 is a classic tragedy, beautifully told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/review-the-sandman-s2-is-a-classic-tragedy-beautifully-told/" target="_blank">Review: The Sandman S2 is a classic tragedy, beautifully told</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-08 20:54</span>
             </div>
         </div>
 </div>
@@ -360,8 +352,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:32 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
