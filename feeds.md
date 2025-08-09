@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 12:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 13:09:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/business-of-war/2025/8/9/the-trillion-dollar-war-machine?traffic_source=rss" target="_blank">The trillion-dollar war machine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 12:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2025-08-09 08:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/brazils-president-lula-vetoes-parts-of-environmental-devastation-bill?traffic_source=rss" target="_blank">Brazil’s President Lula vetoes parts of environmental ‘devastation bill’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 05:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android" target="_blank">Is This Seat Taken? makes seating fussy people fun</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-08-at-15-37-31-Encryption-Made-for-Police-and-Military-Radios-May-Be-Easily-Cracked-WIRED-500x500.png" alt="Encryption made for police and military radios may be easily cracked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2025-08-08 23:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-99311107-500x500-1754687178.jpg" alt="For giant carnivorous dinosaurs, big size didn’t mean a big bite" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/for-giant-carnivorous-dinosaurs-big-size-didnt-mean-a-big-bite/" target="_blank">For giant carnivorous dinosaurs, big size didn’t mean a big bite</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-08 22:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.325-Released" target="_blank">Vulkan 1.4.325 Released With Untyped Pointers Extension</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/11/handbrake-logo-on-colourful-background.jpg?resize=406%2C232&amp;ssl=1" alt="HandBrake 1.10 is Out with Discord-Friendly Conversion Presets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/handbrake-1-10-released-new-features" target="_blank">HandBrake 1.10 is Out with Discord-Friendly Conversion Presets</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-09 12:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmkp73xxto2tpibc6tkmp.png" alt="kheAI: Chat-based AI Accounting for Smarter Liquidity &amp; Bitcoin Treasury with Redis 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/alimaster/fast-and-efficient-tool-to-reduce-nodemodules-size-by-up-to-60-ideal-for-serverless-docker-and-1opc" target="_blank">Fast and efficient tool to reduce node_modules size by up to 60%. Ideal for serverless, Docker, and deployment optimization.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhirajarya01/how-to-write-a-prd-product-requirement-document-and-why-its-your-projects-best-friend-3fl2" target="_blank">📄 How to Write a PRD (Product Requirement Document) — and Why It’s Your Project’s Best Friend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://pythontest.com/pytest-fixtures-nuts-bolts-revisited/" target="_blank">pytest fixtures nuts and bolts - revisited</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-09 07:33</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
