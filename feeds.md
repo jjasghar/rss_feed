@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 10:01:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-09 11:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/how-rfk-jrs-vaccine-funding-cuts-fit-with-trumps-vision?traffic_source=rss" target="_blank">How RFK Jr’s vaccine funding cuts fit with Trump’s vision</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 10:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +88,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-putin_6985261.jpg?20250808025345" alt="Lifting sanctions on Putin for Trump meeting is a massive victory for Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/an-invitation-to-alaska-signals-the-end-of-putins-international-isolation-13408945" target="_blank">Lifting sanctions on Putin for Trump meeting is a massive victory for Moscow</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-09 08:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,29 +105,20 @@
                 <span class="time">2025-08-09 05:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Officer-David-Rose_1754709073286_hpMain_4x3t_384.jpg" alt="Authorities identify officer killed in burst of gunfire near CDC HQ, Emory campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Authorities identify officer killed in burst of gunfire near CDC HQ, Emory campus</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-09 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/singapore-celebrates-success-on-60th-anniversary-but-challenges-loom-ahead?traffic_source=rss" target="_blank">Singapore celebrates success on 60th anniversary but challenges loom ahead</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 03:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68966770c8079b4bd3aafb65/master/pass/court-data-breach-sec-1238143476.jpg" alt="The US Court Records System Has Been Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-court-records-system-hacked/" target="_blank">The US Court Records System Has Been Hacked</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-09 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080825a-lg-500x500.jpg" alt="James Lovell, the steady astronaut who brought Apollo 13 home safely, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +164,20 @@
                 <span class="time">2025-08-08 21:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/08/sam-altman-addresses-bumpy-gpt-5-rollout-bringing-4o-back-and-the-chart-crime/" target="_blank">Sam Altman addresses ‘bumpy’ GPT-5 rollout, bringing 4o back, and the ‘chart crime’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-08 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hilton_abwavo_5b2e104ccd4/software-showcase-web-1idh" target="_blank">software showcase web</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 10:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/en/headerimage/generatedHeaderImage-1754483584956.jpg" alt="When Unchecked Autoscaling Generates a $120K Cloud Spend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +223,6 @@
                 <span class="time">2025-08-09 01:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/udoh_deborah_b1e484c474bf/day-18-docker-for-devops-engineers-pt-2-3a01" target="_blank">Day 18: Docker for DevOps Engineers pt 2</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-08 21:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,15 +244,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/" target="_blank">KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-08-08 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html" target="_blank">Google Project Zero Changes Its Disclosure Policy</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-08 11:01</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
