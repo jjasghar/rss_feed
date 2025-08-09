@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 00:04:40 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-09 01:29:17 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 00:04 UTC</div>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +43,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754701384808_now_staytuned_officer_emory_shooting_dead_250808_1920x1080-48nsoa.jpg" alt="Officer injured in Emory University shooting has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/officer-injured-in-emory-university-shooting-has-died-244633669820" target="_blank">Officer injured in Emory University shooting has died</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-09 01:03</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/8/spains-government-slams-towns-islamophobic-ban-on-religious-gatherings?traffic_source=rss" target="_blank">‘Islamophobic’: Spanish town’s ban on religious gatherings sparks criticism</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-08 23:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da35/live/dcaa6160-7473-11f0-a20f-3b86f375586a.jpg" alt="&#x27;People are angry&#x27;: Behind the wave of asylum hotel protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gerg74y71o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;People are angry&#x27;: Behind the wave of asylum hotel protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-08 23:03</span>
             </div>
         </div>
 <div class="story">
@@ -73,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250808-emory-university-se-525p-a83356.jpg" alt="Suspect dead in shooting on Emory University&#x27;s Atlanta campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6985699.jpg?20250808155049" alt="Trump reveals when - and where - he will meet Putin for Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/live-blog/emory-university-atlanta-shooting-rcna223988" target="_blank">Suspect dead in shooting on Emory University&#x27;s Atlanta campus</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-08 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/08/nx-s1-5347716/trump-putin-meeting" target="_blank">Trump says he will meet Putin &#x27;very shortly&#x27; and will announce the date and place soon</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-08 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-putin-rt-jef-250808_1754654752691_hpMain_4x3t_384.jpg" alt="Trump confirms he&#x27;ll meet &#x27;very shortly&#x27; with Putin, location to be announced soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trumps-deadline-arrives-putin-agree-ceasefire-face-sanctions/story?id=124479057" target="_blank">Trump confirms he&#x27;ll meet &#x27;very shortly&#x27; with Putin, location to be announced soon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-08 20:47</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-reveals-when-and-where-he-will-meet-putin-for-ukraine-talks-13408879" target="_blank">Trump reveals when - and where - he will meet Putin for Ukraine talks</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-08 22:05</span>
             </div>
         </div>
 </div>
@@ -104,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/08/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/" target="_blank">Impersonators are targeting companies with fake TechCrunch outreach</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-09 00:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-99311107-500x500-1754687178.jpg" alt="For giant carnivorous dinosaurs, big size didn’t mean a big bite" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +155,20 @@
                 <span class="time">2025-08-08 20:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6893af4362df5dd4c59b8498/master/pass/Uncanny-Valley-Premium-Chatbot-Subs-Business.jpg" alt="The Vibes-Based Pricing of ‘Pro’ AI Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/" target="_blank">The Vibes-Based Pricing of ‘Pro’ AI Software</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 19:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/looneyrichie/solomon-protocol-jobrecruiter-game-changer-with-redis-ai-3eon" target="_blank">Solomon Protocol: Job/Recruiter Game Changer with Redis AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 01:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +214,20 @@
                 <span class="time">2025-08-08 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-coretemp-Orphaned" target="_blank">Intel CPU Temperature Monitoring Driver For Linux Now Unmaintained After Layoffs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-08 18:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html" target="_blank">Friday Squid Blogging: New Vulnerability in Squid HTTP Proxy Server</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-08 23:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -245,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/August-2025-io9.jpg" alt="A Mirror World Brings Wonders—and Dread—in This Fantasy Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-mirror-world-brings-wonders-and-dread-in-this-fantasy-short-story-2000640711" target="_blank">A Mirror World Brings Wonders—and Dread—in This Fantasy Short Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-08 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/citizen.jpg" alt="‘Citizen Toxie’ Is Troma at Its Filthy, Disgusting, Overtly Offensive Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +305,6 @@
                 <span class="time">2025-08-08 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Chatgpt.jpg" alt="Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/man-follows-diet-advice-from-chatgpt-ends-up-with-psychosis-2000640705" target="_blank">Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 20:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,22 +346,13 @@
                 <span class="time">2025-08-08 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5631.png" alt="Office ASMR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5631" target="_blank">Office ASMR</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-08 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
