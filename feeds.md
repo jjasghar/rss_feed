@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 07:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 08:01:42 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -71,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/02/1920x1080/skynews-moscow-donald-trump_6828273.jpg?20250214011401" alt="It&#x27;s been four years since a US president met Putin - and Trump will have a lot of ice to break" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/its-been-four-years-since-a-us-president-met-putin-and-trump-will-have-a-lot-of-ice-to-break-13408894" target="_blank">It&#x27;s been four years since a US president met Putin - and Trump will have a lot of ice to break</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-09 02:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/emory-6-ap-er-250808_1754692980924_hpMain_4x3t_384.jpg" alt="Officer killed, suspect dead in shooting near CDC HQ, Emory University campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1dxed639n7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin to meet in Alaska for Ukraine talks next week</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-09 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754701384808_now_staytuned_officer_emory_shooting_dead_250808_1920x1080-48nsoa.jpg" alt="Officer injured in Emory University shooting has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/officer-injured-in-emory-university-shooting-has-died-244633669820" target="_blank">Officer injured in Emory University shooting has died</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-09 01:03</span>
             </div>
         </div>
 </div>
@@ -334,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
