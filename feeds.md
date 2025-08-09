@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 13:09:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 14:01:30 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="More than 50 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8de6rq37v5o?at_medium=RSS&at_campaign=rss" target="_blank">More than 50 arrests at Palestine Action ban protest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-09 13:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +93,6 @@
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine must be part of peace solution, Zelensky says ahead of Trump-Putin meeting</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 08:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-putin_6985261.jpg?20250808025345" alt="Lifting sanctions on Putin for Trump meeting is a massive victory for Moscow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/an-invitation-to-alaska-signals-the-end-of-putins-international-isolation-13408945" target="_blank">Lifting sanctions on Putin for Trump meeting is a massive victory for Moscow</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-09 08:20</span>
             </div>
         </div>
@@ -167,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sushil2k4/is-genai-making-us-mentally-lazy--4jmo" target="_blank">Is GenAI Making Us Mentally Lazy ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.325-Released" target="_blank">Vulkan 1.4.325 Released With Untyped Pointers Extension</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">When Unchecked Autoscaling Generates a $120K Cloud Spend</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-09 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alimaster/fast-and-efficient-tool-to-reduce-nodemodules-size-by-up-to-60-ideal-for-serverless-docker-and-1opc" target="_blank">Fast and efficient tool to reduce node_modules size by up to 60%. Ideal for serverless, Docker, and deployment optimization.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 09:48</span>
             </div>
         </div>
 </div>
@@ -328,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
