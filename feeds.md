@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 01:29:17 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-09 02:32:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 02:32 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/5b328460-746d-11f0-ad5a-6daee3ba97a6.jpg" alt="Trump and Putin to meet in Alaska for Ukraine talks next week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dxed639n7o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin to meet in Alaska for Ukraine talks next week</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-09 01:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754701384808_now_staytuned_officer_emory_shooting_dead_250808_1920x1080-48nsoa.jpg" alt="Officer injured in Emory University shooting has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +105,20 @@
                 <span class="time">2025-08-08 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6985699.jpg?20250808155049" alt="Trump reveals when - and where - he will meet Putin for Ukraine talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-reveals-when-and-where-he-will-meet-putin-for-ukraine-talks-13408879" target="_blank">Trump reveals when - and where - he will meet Putin for Ukraine talks</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-08 22:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080825a-lg-500x500.jpg" alt="James Lovell, the steady astronaut who brought Apollo 13 home safely, has died" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/astronaut-james-lovell-famed-apollo-13-commander-dies-at-97/" target="_blank">James Lovell, the steady astronaut who brought Apollo 13 home safely, has died</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-09 01:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +162,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2025/08/review-the-sandman-s2-is-a-classic-tragedy-beautifully-told/" target="_blank">Review: The Sandman S2 is a classic tragedy, beautifully told</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-08 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689654bea27f0a0d3d8a0f9e/master/pass/Hackers_RChurchill_007.jpg" alt="Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/" target="_blank">Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-08 20:20</span>
             </div>
         </div>
 </div>
@@ -351,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:32 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
