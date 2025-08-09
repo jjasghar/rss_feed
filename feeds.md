@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 22:01:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-08-09 23:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-putin-6-rt-gmh-250807_1754574450600_hpMain_4x3t_384.jpg" alt="What Ukraine and other European allies are saying after Trump-Putin meeting announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story?id=124514600" target="_blank">What Ukraine and other European allies are saying after Trump-Putin meeting announced</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-09 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-zelenskyy-mb-0950-fcf1e6.jpg" alt="White House is considering inviting Zelenskyy to Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss" target="_blank">Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-09 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="At least 365 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8de6rq37v5o?at_medium=RSS&at_campaign=rss" target="_blank">At least 365 arrests at Palestine Action ban protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 17:50</span>
             </div>
         </div>
 </div>
@@ -240,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="The SEC Just Quietly Surrendered in Its Biggest Crypto Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-sec-just-quietly-surrendered-in-its-biggest-crypto-battle-2000641156" target="_blank">The SEC Just Quietly Surrendered in Its Biggest Crypto Battle</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-09 22:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sale_318822_article_image.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your excuses for not reading are over — Headway Premium is just $48 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -266,15 +267,6 @@
                 <span class="time">2025-08-09 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/August-2025-io9.jpg" alt="A Mirror World Brings Wonders—and Dread—in This Fantasy Short Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-mirror-world-brings-wonders-and-dread-in-this-fantasy-short-story-2000640711" target="_blank">A Mirror World Brings Wonders—and Dread—in This Fantasy Short Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-08 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
