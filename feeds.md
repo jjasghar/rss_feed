@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 14:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-09 15:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 09, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Officer-David-Rose_1754709073286_hpMain_4x3t_384.jpg" alt="Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/active-shooter-reported-emory-universitys-atlanta-campus/story?id=124495968" target="_blank">Authorities identify officer killed, suspect in shooting near CDC HQ, Emory campus</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-09 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5497178/cdc-atlanta-emory-shooting-suspect-named" target="_blank">Authorities ID suspect in CDC shooting as a 30-year-old man from suburban Atlanta</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-09 13:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/b5bf69c0-751c-11f0-92e9-9f6f0dd72956.jpg" alt="More than 50 arrests at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5438412/kenyan-immigrant-opts-leave-us-his-own-terms-self-deport" target="_blank">&#x27;At least I&#x27;m safe&#x27;: A Kenyan immigrant opts to leave the U.S. on his own terms, leaving children and wife behind</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-09 09:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/09/g-s1-81860/zelenskyy-rejects-ceding-ukrainian-territory" target="_blank">Zelenskyy rejects formally ceding Ukrainian territory</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-09 08:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a87/live/446e8410-74ed-11f0-804e-eb459172de4b.jpg" alt="Ukraine must be part of peace solution, Zelensky says ahead of Trump-Putin meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine must be part of peace solution, Zelensky says ahead of Trump-Putin meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 08:20</span>
             </div>
         </div>
 </div>
@@ -161,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/cloudflare-key-value-store/en/headerimage/generatedHeaderImage-1753205688195.jpg" alt="How Cloudflare Migrated Quicksilver to Multi-Level Caching While Serving Billions of Requests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/cloudflare-key-value-store/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Cloudflare Migrated Quicksilver to Multi-Level Caching While Serving Billions of Requests</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-09 14:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/hilton_abwavo_5b2e104ccd4/software-showcase-web-1idh" target="_blank">software showcase web</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/en/headerimage/generatedHeaderImage-1754483584956.jpg" alt="When Unchecked Autoscaling Generates a $120K Cloud Spend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/denial-of-wallet-attack-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">When Unchecked Autoscaling Generates a $120K Cloud Spend</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-09 10:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
