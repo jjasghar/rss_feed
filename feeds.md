@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 06:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 07:01:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/thousands-protest-plan-to-build-worlds-longest-bridge-from-sicily-to-italy?traffic_source=rss" target="_blank">Thousands protest plan to build world’s longest bridge from Sicily to Italy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 06:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc6/live/8f504ac0-7576-11f0-a975-cb151ca452f4.jpg" alt="Ukraine&#x27;s European allies say peace talks must include Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story?id=124514600" target="_blank">What Ukraine and other European allies are saying after Trump-Putin meeting announced</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-09 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/9/al-hilal-sign-darwin-nunez-from-liverpool?traffic_source=rss" target="_blank">Al Hilal sign Darwin Nunez from Liverpool</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 22:53</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/denizsafak/abogen" target="_blank">Abogen – Generate audiobooks from EPUBs, PDFs and text</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-10 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sanaipei001/part-10storytelling-with-data-3l7p" target="_blank">Part 10:Storytelling With Data</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://itsfoss.com/co-op-games-linux/" target="_blank">15 Co-Op Games for Linux Steam Gamers in 2025</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-08-10 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp" target="_blank">I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 02:02</span>
             </div>
         </div>
 </div>
@@ -285,8 +283,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
