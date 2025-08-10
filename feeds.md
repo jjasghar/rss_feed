@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 04:15:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 05:04:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 04:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 05:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc6/live/8f504ac0-7576-11f0-a975-cb151ca452f4.jpg" alt="Ukraine&#x27;s European allies say peace talks must include Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0e9py7e28xo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s European allies say peace talks must include Kyiv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-10 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/9/al-hilal-sign-darwin-nunez-from-liverpool?traffic_source=rss" target="_blank">Al Hilal sign Darwin Nunez from Liverpool</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-09 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-trump-zelenskyy-putin_6886829.jpg?20250414211955" alt="Trump &#x27;considering&#x27; whether to invite Zelenskyy to Putin meeting in Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/white-house-considering-inviting-zelenskyy-to-trump-putin-meeting-in-alaska-reports-13409490" target="_blank">Trump &#x27;considering&#x27; whether to invite Zelenskyy to Putin meeting in Alaska</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-09 22:03</span>
             </div>
         </div>
 </div>
@@ -172,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl" target="_blank">7 Git Commands You Probably Don’t Know (But Should)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg" target="_blank">Adam Savage&#x27;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 04:02</span>
@@ -213,20 +223,20 @@
                 <span class="time">2025-08-10 00:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4" target="_blank">Understanding @MainActor in Swift: When and How to Use It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 23:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/one-piece-luffys2.jpg" alt="The First ‘One Piece’ Season 2 Trailer is Full of Pirate Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-first-one-piece-season-2-trailer-is-full-of-pirate-action-2000641160" target="_blank">The First ‘One Piece’ Season 2 Trailer is Full of Pirate Action</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 02:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="The SEC Just Quietly Surrendered in Its Biggest Crypto Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 05:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
