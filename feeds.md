@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 11:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 12:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/zelenskyy-rejects-gifting-land-to-russia-ahead-of-trump-putin-meeting?traffic_source=rss" target="_blank">Zelenskyy rejects ‘gifting land’ to Russia ahead of Trump-Putin meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 11:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +93,20 @@
                 <span class="time">2025-08-10 04:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/russia-ukraine-war-list-of-key-events-day-1263?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,263</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 02:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer" target="_blank">The next big AI model is here</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6897948fbe3f878769d0cc2a/master/pass/signal-2025-08-06-073437.jpg" alt="A Special Diamond Is the Key to a Fully Open Source Quantum Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,15 +144,6 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-08-at-15-37-31-Encryption-Made-for-Police-and-Military-Radios-May-Be-Easily-Cracked-WIRED-500x500.png" alt="Encryption made for police and military radios may be easily cracked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/08/encryption-made-for-police-and-military-radios-may-be-easily-cracked/" target="_blank">Encryption made for police and military radios may be easily cracked</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-09 11:18</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
@@ -162,6 +157,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz2sjidijx0owi1f6itn.png" alt="Angular 20: Everything You Need to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kodmatrix/angular-20-everything-you-need-to-know-it-2f56" target="_blank">Angular 20: Everything You Need to Know It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 11:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/sanaipei001/part-10storytelling-with-data-3l7p" target="_blank">Part 10:Storytelling With Data</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 05:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl" target="_blank">7 Git Commands You Probably Don’t Know (But Should)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 05:00</span>
             </div>
         </div>
 </div>
@@ -294,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
