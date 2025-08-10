@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 13:10:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 14:01:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-MARK-RUTTE-20250810-ABC-JH_1754831290193_hpMain_4x3t_384.jpeg" alt="NATO Secretary General Rutte says Trump-Putin summit is about &#x27;testing Putin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/nato-secretary-general-rutte-trump-putin-summit-testing/story?id=124520882" target="_blank">NATO Secretary General Rutte says Trump-Putin summit is about &#x27;testing Putin&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-10 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/nagasaki-commemorates-atomic-bombing-80-years-on?traffic_source=rss" target="_blank">Nagasaki commemorates atomic bombing 80 years on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71b/live/ff769250-75d5-11f0-a975-cb151ca452f4.jpg" alt="Israel protesters intensify pressure against plan to expand Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4ged13jjglo?at_medium=RSS&at_campaign=rss" target="_blank">Israel protesters intensify pressure against plan to expand Gaza war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-10 11:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +92,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-ukraine-exchange-drone-attacks-amid-peace-talks/story?id=124520013" target="_blank">Russia and Ukraine exchange drone attacks amid peace talks maneuvers</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-10 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5487598/asylum-seekers" target="_blank">Asylum-seekers thought they were following the rules. Now some are told to start over</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-10 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/thousands-protest-plan-to-build-worlds-longest-bridge-from-sicily-to-italy?traffic_source=rss" target="_blank">Thousands protest plan to build world’s longest bridge from Sicily to Italy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 06:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc6/live/8f504ac0-7576-11f0-a975-cb151ca452f4.jpg" alt="Ukraine&#x27;s European allies say peace talks must include Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0e9py7e28xo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s European allies say peace talks must include Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-10 04:20</span>
             </div>
         </div>
 </div>
@@ -133,28 +127,28 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating" target="_blank">RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-09 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6896594ea27f0a0d3d8a0fa0/master/pass/I%20Tested%20Steam%20Mops%20in%20My%20Kitchen%20for%203%20Months.%20These%20Were%20My%20Favorites.png" alt="3 Best Steam Mops, Tested for Months (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-steam-mops/" target="_blank">3 Best Steam Mops, Tested for Months (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-09 13:32</span>
-            </div>
-        </div>
-<div class="story">
             <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
                 <span class="title"><a href="https://tech.slashdot.org/story/25/08/10/0626249/aol-finally-discontinues-its-dial-up-internet-access---after-34-years?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Hour of Code&#x27; Announces It&#x27;s Now Evolving Into &#x27;Hour of AI&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Hour of Code&#x27; Announces It&#x27;s Now Evolving Into &#x27;Hour of AI&#x27;</a></span>
+                <span class="feed">Slashdot</span>
+                
+            </div>
+        </div>
+<div class="story">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="SpaceX&#x27;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">SpaceX&#x27;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -168,9 +162,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l" target="_blank">Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://engineering.fyi/" target="_blank">Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-10 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j" target="_blank">📬 Automate Email Attachments to Telegram with Python + Render.com</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Debian-14-Loong64-LoongArch" target="_blank">Debian 14 Eyes LoongArch CPU Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-10 12:55</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +212,20 @@
                 <span class="time">2025-08-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/amazon-evs-vmware-migration/en/headerimage/generatedHeaderImage-1754562859751.jpg" alt="Amazon EVS Offers Enterprises a New Path for VMware Workload Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/amazon-evs-vmware-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EVS Offers Enterprises a New Path for VMware Workload Migration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mill-build.org/blog/14-bash-zsh-completion.html" target="_blank">Writing Your Own Simple Tab-Completions for Bash and Zsh</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-10 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f" target="_blank">The 10-Second Morning Habit That Helps Me Code With More Focus</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 07:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-just-dodged-an-8-billion-bullet-thanks-to-donald-trump-2000641188" target="_blank">Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 13:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/aura-triple-display-5.jpg" alt="This Monstrosity Gives Your Laptop Three Massive Monitors, but You’ll Hate Looking at It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +271,6 @@
                 <span class="time">2025-08-09 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/white-vision.jpg" alt="Terry Matalas Reveals New ‘Vision Quest’ Details" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/terry-matalas-reveals-new-vision-quest-details-2000641146" target="_blank">Terry Matalas Reveals New ‘Vision Quest’ Details</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-09 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
