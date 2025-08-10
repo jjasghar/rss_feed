@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 17:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 18:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/will-lebanon-succeed-in-disarming-hezbollah?traffic_source=rss" target="_blank">Will Lebanon succeed in disarming Hezbollah?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-jb-pritzker-says-redrawn-texas-map-violates-the-constitution-full-interview-244667461998" target="_blank">Gov. JB Pritzker says redrawn Texas map ‘violates the Constitution’: Full interview</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71b/live/ff769250-75d5-11f0-a975-cb151ca452f4.jpg" alt="Israel protesters intensify pressure against plan to expand Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4ged13jjglo?at_medium=RSS&at_campaign=rss" target="_blank">Israel protesters intensify pressure against plan to expand Gaza war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-10 11:53</span>
             </div>
         </div>
 </div>
@@ -175,12 +173,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Hatter-overview.jpg?resize=406%2C232&amp;ssl=1" alt="Give Your Ubuntu Desktop a Revamp with Hatter Icon Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/try-hatter-icon-theme-for-linux" target="_blank">Give Your Ubuntu Desktop a Revamp with Hatter Icon Set</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-10 16:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Hatter-overview.jpg?resize=406%2C232&amp;ssl=1" alt="Give Ubuntu More Personality with the Hatter Icon Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/try-hatter-icon-theme-for-linux" target="_blank">Give Ubuntu More Personality with the Hatter Icon Set</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-10 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html" target="_blank">AOL closes its dial up internet service</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-10 16:02</span>
             </div>
         </div>
 <div class="story">
@@ -201,29 +217,20 @@
                 <span class="time">2025-08-10 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fumagallilaura/na-era-da-ia-o-maior-erro-de-um-programador-e-nao-aprender-a-programar-5b8l" target="_blank">Na Era da IA, o Maior Erro de um Programador é Não Aprender a Programar</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://engineering.fyi/" target="_blank">Show HN: Engineering.fyi – Search across tech engineering blogs in one place</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-10 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/A-Tesla-Cybertruck-on-a-road.jpg" alt="Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/teslas-cybertruck-is-suddenly-sold-out-sort-of-2000641210" target="_blank">Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-1531040160.jpg" alt="The Great American EV Tax Credit Rush Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +276,6 @@
                 <span class="time">2025-08-10 02:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/bitcoin-photo.jpg" alt="The SEC Just Quietly Surrendered in Its Biggest Crypto Battle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-sec-just-quietly-surrendered-in-its-biggest-crypto-battle-2000641156" target="_blank">The SEC Just Quietly Surrendered in Its Biggest Crypto Battle</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-09 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
