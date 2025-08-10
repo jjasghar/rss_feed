@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 19:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 20:01:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497742/europe-trump-putin-alaska-ukraine-talks" target="_blank">European leaders urge for Ukraine to be included in Trump-Putin Alaska peace talks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-10 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e6/live/113a9b60-75fb-11f0-a447-5383befe7bd7.jpg" alt="Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,21 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250810-benjamin-netanyahu-se-1120a-2cfa41.jpg" alt="Netanyahu says starvation claims are exaggerated as he defends Gaza offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss" target="_blank">Ukraine says it hit oil refinery in Russia’s Saratov, Moscow says one dead</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/aug/10/prince-harry-considers-founding-new-charity-after-sentebale-dispute" target="_blank">Prince Harry considers founding new charity after Sentebale dispute</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-10 14:13</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/netanyahu-says-no-starvation-gaza-amid-backlash-rcna224129" target="_blank">Netanyahu says starvation claims are exaggerated as he defends Gaza offensive</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-10 15:24</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2" target="_blank">Towards more accountability of Raku programs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc1" target="_blank">Linux 6.17-rc1 Released With Many New Features But No Bcachefs Changes</a></span>
                 <span class="feed">Phoronix</span>
@@ -201,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-in-2025-what-should-you-learn-in-ai--3i91" target="_blank">Krish Naik: In 2025 What Should You Learn In AI ?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the" target="_blank">GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-10 15:06</span>
             </div>
         </div>
 </div>
@@ -290,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
