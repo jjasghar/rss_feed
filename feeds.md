@@ -1,35 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 02:43:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 03:30:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 02:43 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 03:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/russia-ukraine-war-list-of-key-events-day-1263?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,263</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754786560132_wnn_vhi_zelenskyy_trump_putin_meeting_250809_1920x1080-vjr6vm.jpg" alt="Zelenskyy rejects Trump land swap proposal for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-rejects-trump-land-swap-proposal-for-ukraine-244661829549" target="_blank">Zelenskyy rejects Trump land swap proposal for Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-10 00:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +104,6 @@
                 <span class="title"><a href="https://news.sky.com/story/white-house-considering-inviting-zelenskyy-to-trump-putin-meeting-in-alaska-reports-13409490" target="_blank">Trump &#x27;considering&#x27; whether to invite Zelenskyy to Putin meeting in Alaska</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-09 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-zelenskyy-mb-0950-fcf1e6.jpg" alt="White House is considering inviting Zelenskyy to Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/white-house-considering-inviting-zelenskyy-alaska-rcna224070" target="_blank">White House is considering inviting Zelenskyy to Alaska</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-09 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/09/g-s1-81907/texas-big-game-hunter-killed-african-buffalo" target="_blank">Texas big game hunter killed while stalking African Cape buffalo</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-09 21:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh" target="_blank">How to Use IAM Policies Like a Pro (With Examples) 🔐✨</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/co-op-games-linux/" target="_blank">15 Co-Op Games for Linux Steam Gamers in 2025</a></span>
                 <span class="feed">It's FOSS</span>
@@ -206,15 +222,6 @@
                 <span class="title"><a href="https://wuu73.org/blog/aiguide1.html" target="_blank">How I code with AI on a budget/free</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-09 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjv6x8wfqs55j2oqo7to3.png" alt="TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2" target="_blank">TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 21:47</span>
             </div>
         </div>
 </div>
@@ -277,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 02:43 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 03:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
