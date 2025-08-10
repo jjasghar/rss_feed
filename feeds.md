@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 18:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 19:01:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e6/live/113a9b60-75fb-11f0-a447-5383befe7bd7.jpg" alt="Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yll33v9gwo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu defends Gaza plans as Israel heavily criticised at UN Security Council</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-10 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/10/whats-the-fallout-from-a-peace-deal-between-azerbaijan-and-armenia?traffic_source=rss" target="_blank">What’s the fallout from a peace deal between Azerbaijan and Armenia?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/10/g-s1-69741/changing-world-order-series" target="_blank">A new NPR series looks at the forces changing the world order</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-10 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +94,20 @@
                 <span class="time">2025-08-10 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-MARK-RUTTE-20250810-ABC-JH_1754831290193_hpMain_4x3t_384.jpeg" alt="NATO Secretary General Rutte says Trump-Putin summit is about &#x27;testing Putin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/nato-secretary-general-rutte-trump-putin-summit-testing/story?id=124520882" target="_blank">NATO Secretary General Rutte says Trump-Putin summit is about &#x27;testing Putin&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-10 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/nagasaki-commemorates-atomic-bombing-80-years-on?traffic_source=rss" target="_blank">Nagasaki commemorates atomic bombing 80 years on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754830801530_mtp_full_pritzker_250810_1920x1080-ufezlk.jpg" alt="Gov. JB Pritzker says redrawn Texas map ‘violates the Constitution’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-jb-pritzker-says-redrawn-texas-map-violates-the-constitution-full-interview-244667461998" target="_blank">Gov. JB Pritzker says redrawn Texas map ‘violates the Constitution’: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/" target="_blank">The computer science dream has become a nightmare</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-10 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +151,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/08/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why/" target="_blank">NASA plans to build a nuclear reactor on the Moon—a space lawyer explains why</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-10 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6897948fbe3f878769d0cc2a/master/pass/signal-2025-08-06-073437.jpg" alt="A Special Diamond Is the Key to a Fully Open Source Quantum Sensor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/" target="_blank">A Special Diamond Is the Key to a Fully Open Source Quantum Sensor</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-09 18:40</span>
             </div>
         </div>
 </div>
@@ -211,10 +206,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae" target="_blank">Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 14:45</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the" target="_blank">GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-10 15:06</span>
             </div>
         </div>
 </div>
@@ -222,6 +217,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/cyclops-xmen.jpg" alt="James Mardsen’s Happy to Be Cyclops Again for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-mardsens-happy-to-be-cyclops-again-for-avengers-doomsday-2000641139" target="_blank">James Mardsen’s Happy to Be Cyclops Again for ‘Avengers: Doomsday’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/A-Tesla-Cybertruck-on-a-road.jpg" alt="Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +271,6 @@
                 <span class="time">2025-08-10 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/one-piece-luffys2.jpg" alt="The First ‘One Piece’ Season 2 Trailer is Full of Pirate Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-first-one-piece-season-2-trailer-is-full-of-pirate-action-2000641160" target="_blank">The First ‘One Piece’ Season 2 Trailer is Full of Pirate Action</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
