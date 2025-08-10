@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-09 23:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 00:05:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 09, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
                 <span class="title"><a href="https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story?id=124514600" target="_blank">What Ukraine and other European allies are saying after Trump-Putin meeting announced</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-09 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/9/al-hilal-sign-darwin-nunez-from-liverpool?traffic_source=rss" target="_blank">Al Hilal sign Darwin Nunez from Liverpool</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-09 22:53</span>
             </div>
         </div>
 <div class="story">
@@ -83,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Vance and Lammy host Ukraine talks ahead of US-Russia summit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-09 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss" target="_blank">Iran rejects planned transit corridor outlined in Armenia-Azerbaijan pact</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-09 18:15</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4" target="_blank">Understanding @MainActor in Swift: When and How to Use It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-09 23:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjv6x8wfqs55j2oqo7to3.png" alt="TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,29 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/aerospike-rust-client/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Rust Client Enables Building Safe, High-Performance Apps with Aerospike</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-09 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sanaipei001/part-6collecting-data-without-overcomplication-2g67" target="_blank">Part 6:Collecting Data Without Overcomplication</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 17:41</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html" target="_blank">Friday Squid Blogging: New Vulnerability in Squid HTTP Proxy Server</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-08 23:22</span>
             </div>
         </div>
 </div>
@@ -286,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
