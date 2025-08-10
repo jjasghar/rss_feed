@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 05:04:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 06:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 05:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -173,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sanaipei001/part-10storytelling-with-data-3l7p" target="_blank">Part 10:Storytelling With Data</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 05:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl" target="_blank">7 Git Commands You Probably Don’t Know (But Should)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 05:00</span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp" target="_blank">I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 02:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcggjcdc683qnrfrurnds.webp" alt="AI Governance: Why It Matters Now More Than Ever for Our Digital Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c" target="_blank">AI Governance: Why It Matters Now More Than Ever for Our Digital Future</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 00:59</span>
             </div>
         </div>
 </div>
@@ -292,8 +285,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 05:04 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
