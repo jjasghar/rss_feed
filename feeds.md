@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 00:05:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 01:30:10 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5497226/women-pastor-pete-hegseth-vote" target="_blank">Defense Secretary Pete Hegseth reposts video of pastors saying women shouldn&#x27;t vote</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-09 23:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-putin-6-rt-gmh-250807_1754574450600_hpMain_4x3t_384.jpg" alt="What Ukraine and other European allies are saying after Trump-Putin meeting announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-trump-zelenskyy-putin_6886829.jpg?20250414211955" alt="Trump &#x27;considering&#x27; whether to invite Zelenskyy to Putin meeting in Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/white-house-considering-inviting-zelenskyy-to-trump-putin-meeting-in-alaska-reports-13409490" target="_blank">Trump &#x27;considering&#x27; whether to invite Zelenskyy to Putin meeting in Alaska</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-09 22:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250718-zelenskyy-mb-0950-fcf1e6.jpg" alt="White House is considering inviting Zelenskyy to Alaska" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -78,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/09/g-s1-81907/texas-big-game-hunter-killed-african-buffalo" target="_blank">Texas big game hunter killed while stalking African Cape buffalo</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-09 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75cf/live/972dcbc0-755b-11f0-a20f-3b86f375586a.jpg" alt="Police arrest 474 at Palestine Action ban protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8de6rq37v5o?at_medium=RSS&at_campaign=rss" target="_blank">Police arrest 474 at Palestine Action ban protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c81/live/198c8750-7557-11f0-8071-1788c7e8ae0e.jpg" alt="Vance and Lammy host Ukraine talks ahead of US-Russia summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3dp119lk5xo?at_medium=RSS&at_campaign=rss" target="_blank">Vance and Lammy host Ukraine talks ahead of US-Russia summit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-09 19:48</span>
             </div>
         </div>
 </div>
@@ -163,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcggjcdc683qnrfrurnds.webp" alt="AI Governance: Why It Matters Now More Than Ever for Our Digital Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jay_all_day/ai-governance-why-it-matters-now-more-than-ever-for-our-digital-future-f5c" target="_blank">AI Governance: Why It Matters Now More Than Ever for Our Digital Future</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 00:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4" target="_blank">Understanding @MainActor in Swift: When and How to Use It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 23:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wuu73.org/blog/aiguide1.html" target="_blank">How I code with AI on a budget/free</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-09 22:27</span>
             </div>
         </div>
 <div class="story">
@@ -183,37 +207,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n" target="_blank">Refining Ideas &amp; Structuring the Plan #34</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 20:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/debian-13.jpg?resize=406%2C232&amp;ssl=1" alt="Debian 13 “Trixie” Released After 2 Years of Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/debian-13-trixie-released-with-2-years-worth-of-improvements" target="_blank">Debian 13 “Trixie” Released After 2 Years of Development</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-09 19:18</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Saves-Meta-Billions" target="_blank">Btrfs Has Saved Meta &quot;Billions Of Dollars&quot; In Infrastructure Costs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-09 21:47</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/user_10d6776b9ce140/local-mongodb-replica-set-cluster-for-real-time-container-apps-with-mongo-express-16bi" target="_blank">Local MongoDB Replica Set Cluster for Real-Time Container Apps (with Mongo Express)</a></span>
+                <span class="title"><a href="https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n" target="_blank">Refining Ideas &amp; Structuring the Plan #34</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/aerospike-rust-client/en/headerimage/aerospike-8-acid-1754759963207.jpeg" alt="New Rust Client Enables Building Safe, High-Performance Apps with Aerospike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/aerospike-rust-client/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">New Rust Client Enables Building Safe, High-Performance Apps with Aerospike</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-09 18:00</span>
+                <span class="time">2025-08-09 20:22</span>
             </div>
         </div>
 </div>
@@ -276,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
