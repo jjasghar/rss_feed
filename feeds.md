@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 07:01:34 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-10 08:01:40 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 07:01 UTC</div>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jackrosso85/the-10-second-morning-habit-that-helps-me-code-with-more-focus-3f8f" target="_blank">The 10-Second Morning Habit That Helps Me Code With More Focus</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 07:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/denizsafak/abogen" target="_blank">Abogen – Generate audiobooks from EPUBs, PDFs and text</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh" target="_blank">How to Use IAM Policies Like a Pro (With Examples) 🔐✨</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/co-op-games-linux/" target="_blank">15 Co-Op Games for Linux Steam Gamers in 2025</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-10 02:10</span>
             </div>
         </div>
 </div>
@@ -284,7 +283,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 07:01 UTC
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
