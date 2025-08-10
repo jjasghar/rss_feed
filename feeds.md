@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 15:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-10 16:01:33 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +89,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754830801530_mtp_full_pritzker_250810_1920x1080-ufezlk.jpg" alt="Gov. JB Pritzker says redrawn Texas map ‘violates the Constitution’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/gov-jb-pritzker-says-redrawn-texas-map-violates-the-constitution-full-interview-244667461998" target="_blank">Gov. JB Pritzker says redrawn Texas map ‘violates the Constitution’: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71b/live/ff769250-75d5-11f0-a975-cb151ca452f4.jpg" alt="Israel protesters intensify pressure against plan to expand Gaza war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4ged13jjglo?at_medium=RSS&at_campaign=rss" target="_blank">Israel protesters intensify pressure against plan to expand Gaza war</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-10 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/zelenskyy-rejects-gifting-land-to-russia-ahead-of-trump-putin-meeting?traffic_source=rss" target="_blank">Zelenskyy rejects ‘gifting land’ to Russia ahead of Trump-Putin meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 11:38</span>
             </div>
         </div>
 </div>
@@ -152,10 +157,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="A Huge $2 Billion &#x27;Solar + Storage&#x27; Project in California Powers Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://tech.slashdot.org/story/25/08/10/0626249/aol-finally-discontinues-its-dial-up-internet-access---after-34-years?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years</a></span>
+                <span class="title"><a href="https://hardware.slashdot.org/story/25/08/09/040219/a-huge-2-billion-solar--storage-project-in-california-powers-up?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">A Huge $2 Billion &#x27;Solar + Storage&#x27; Project in California Powers Up</a></span>
                 <span class="feed">Slashdot</span>
                 
             </div>
@@ -165,6 +170,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-in-2025-what-should-you-learn-in-ai--3i91" target="_blank">Krish Naik: In 2025 What Should You Learn In AI ?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +224,20 @@
                 <span class="time">2025-08-10 12:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvz2sjidijx0owi1f6itn.png" alt="Angular 20: Everything You Need to Know It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kodmatrix/angular-20-everything-you-need-to-know-it-2f56" target="_blank">Angular 20: Everything You Need to Know It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 11:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2211560521.jpg" alt="The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-world-will-enter-a-15-year-ai-dystopia-in-2027-former-google-exec-says-2000641195" target="_blank">The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,36 +283,13 @@
                 <span class="time">2025-08-09 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/elon-musk-gazing-at-ceiling-may-30-2025.jpg" alt="Elon Musk Turns His AI Chatbot Into a Male Fantasy Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-turns-his-ai-chatbot-into-a-male-fantasy-engine-2000641153" target="_blank">Elon Musk Turns His AI Chatbot Into a Male Fantasy Engine</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-09 19:15</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754596797-20250809.png" alt="Saturday Morning Breakfast Cereal - Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/good-7" target="_blank">Saturday Morning Breakfast Cereal - Good</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
