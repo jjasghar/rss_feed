@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 22:01:37 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-08-10 23:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss" target="_blank">Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Journalist killed in Israeli strike feared his own assassination - as IDF claims he was a &#x27;terrorist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Journalist killed in Israeli strike feared his own assassination - as IDF claims he was a &#x27;terrorist&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-10 22:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497905/netanyahu-israel-plan-gaza-united-nations" target="_blank">Netanyahu defends Israel&#x27;s plan to seize Gaza City, despite global condemnation</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-10 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/10/whats-the-fallout-from-a-peace-deal-between-azerbaijan-and-armenia?traffic_source=rss" target="_blank">What’s the fallout from a peace deal between Azerbaijan and Armenia?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-10 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/10/g-s1-69741/changing-world-order-series" target="_blank">A new NPR series looks at the forces changing the world order</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-10 18:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/will-lebanon-succeed-in-disarming-hezbollah?traffic_source=rss" target="_blank">Will Lebanon succeed in disarming Hezbollah?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250810-benjamin-netanyahu-se-1120a-2cfa41.jpg" alt="Netanyahu says starvation claims are exaggerated as he defends Gaza offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/middle-east/netanyahu-says-no-starvation-gaza-amid-backlash-rcna224129" target="_blank">Netanyahu says starvation claims are exaggerated as he defends Gaza offensive</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-10 15:24</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij" target="_blank">💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lizmat/towards-more-accountability-of-raku-programs-3g2" target="_blank">Towards more accountability of Raku programs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 19:41</span>
@@ -199,15 +213,6 @@
                 <span class="title"><a href="https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html" target="_blank">AOL closes its dial up internet service</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-10 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-in-2025-what-should-you-learn-in-ai--3i91" target="_blank">Krish Naik: In 2025 What Should You Learn In AI ?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 16:01</span>
             </div>
         </div>
 </div>
@@ -288,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
