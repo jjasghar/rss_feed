@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 16:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 17:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe" target="_blank">7 password managers to help keep your apps safe</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-10 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6897f641b74b028bc80928c8/master/pass/The%20Best%20Hearing%20Aids%20for%20Seniors.png" alt="The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -156,20 +160,29 @@
                 <span class="time">2025-08-09 18:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="A Huge $2 Billion &#x27;Solar + Storage&#x27; Project in California Powers Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://hardware.slashdot.org/story/25/08/09/040219/a-huge-2-billion-solar--storage-project-in-california-powers-up?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">A Huge $2 Billion &#x27;Solar + Storage&#x27; Project in California Powers Up</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc1" target="_blank">Linux 6.17-rc1 Released With Many New Features But No Bcachefs Changes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-10 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Hatter-overview.jpg?resize=406%2C232&amp;ssl=1" alt="Give Ubuntu More Personality with the Hatter Icon Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/try-hatter-icon-theme-for-linux" target="_blank">Give Ubuntu More Personality with the Hatter Icon Set</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-10 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,29 +219,20 @@
                 <span class="time">2025-08-10 13:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pavithranp12/automate-email-attachments-to-telegram-with-python-rendercom-3p7j" target="_blank">📬 Automate Email Attachments to Telegram with Python + Render.com</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-14-Loong64-LoongArch" target="_blank">Debian 14 Eyes LoongArch CPU Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-10 12:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-1531040160.jpg" alt="The Great American EV Tax Credit Rush Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-great-american-ev-tax-credit-rush-has-begun-2000641202" target="_blank">The Great American EV Tax Credit Rush Has Begun</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 16:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2211560521.jpg" alt="The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,13 +278,18 @@
                 <span class="time">2025-08-09 22:11</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sale_318822_article_image.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Your excuses for not reading are over — Headway Premium is just $48 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1754597272-20250810.png" alt="Saturday Morning Breakfast Cereal - Fermi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/09/your-excuses-for-not-reading-are-over-headway-premium-is-just-48-for-life.html" target="_blank">Your excuses for not reading are over — Headway Premium is just $48 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-09 21:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/fermi" target="_blank">Saturday Morning Breakfast Cereal - Fermi</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-10 15:20</span>
             </div>
         </div>
 </div>
@@ -288,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
