@@ -1,30 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 14:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 15:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/ukraine-says-it-hit-oil-refinery-in-russias-saratov-moscow-says-one-dead?traffic_source=rss" target="_blank">Ukraine says it hit oil refinery in Russia’s Saratov, Moscow says one dead</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 14:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/aug/10/prince-harry-considers-founding-new-charity-after-sentebale-dispute" target="_blank">Prince Harry considers founding new charity after Sentebale dispute</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-10 14:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-MARK-RUTTE-20250810-ABC-JH_1754831290193_hpMain_4x3t_384.jpeg" alt="NATO Secretary General Rutte says Trump-Putin summit is about &#x27;testing Putin&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,24 +101,6 @@
                 <span class="time">2025-08-10 11:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/10/two-boxers-die-from-brain-injuries-in-separate-bouts-in-japan?traffic_source=rss" target="_blank">Two boxers die from brain injuries in separate bouts in Japan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 10:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-drone-DB-250810_1754817932684_hpMain_4x3t_384.jpg" alt="Russia and Ukraine exchange drone attacks amid peace talks maneuvers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-ukraine-exchange-drone-attacks-amid-peace-talks/story?id=124520013" target="_blank">Russia and Ukraine exchange drone attacks amid peace talks maneuvers</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-10 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,10 +118,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/" target="_blank">After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer" target="_blank">The next big AI model is here</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-10 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/05/mmoonfarside-500x500.jpg" alt="NASA plans to build a nuclear reactor on the Moon—a space lawyer explains why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why/" target="_blank">NASA plans to build a nuclear reactor on the Moon—a space lawyer explains why</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-10 11:05</span>
             </div>
         </div>
 <div class="story">
@@ -135,29 +160,20 @@
                 
             </div>
         </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="&#x27;Hour of Code&#x27; Announces It&#x27;s Now Evolving Into &#x27;Hour of AI&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">&#x27;Hour of Code&#x27; Announces It&#x27;s Now Evolving Into &#x27;Hour of AI&#x27;</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
-<div class="story">
-            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="SpaceX&#x27;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-comments"></span>
-                <span class="title"><a href="https://science.slashdot.org/story/25/08/10/0038225/spacexs-crew-10-astronauts-return-to-earth-after-nearly-5-months-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">SpaceX&#x27;s Crew-10 Astronauts Return to Earth After Nearly 5 months in Space</a></span>
-                <span class="feed">Slashdot</span>
-                
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/garrett_yan_d4f2213af3329/cutting-aws-auto-scaling-costs-by-70-while-maintaining-9999-availability-53ae" target="_blank">Cutting AWS Auto Scaling Costs by 70% While Maintaining 99.99% Availability</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 14:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/kodmatrix/angular-20-everything-you-need-to-know-it-2f56" target="_blank">Angular 20: Everything You Need to Know It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-new-fortress-3b6a" target="_blank">The New Fortress</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 11:00</span>
             </div>
         </div>
 </div>
@@ -290,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
