@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 09:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-10 10:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-drone-DB-250810_1754817932684_hpMain_4x3t_384.jpg" alt="Russia and Ukraine exchange drone attacks amid peace talks maneuvers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-ukraine-exchange-drone-attacks-amid-peace-talks/story?id=124520013" target="_blank">Russia and Ukraine exchange drone attacks amid peace talks maneuvers</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-10 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5487598/asylum-seekers" target="_blank">Asylum-seekers thought they were following the rules. Now some are told to start over</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +103,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-rejects-trump-land-swap-proposal-for-ukraine-244661829549" target="_blank">Zelenskyy rejects Trump land swap proposal for Ukraine</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-10 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/09/nx-s1-5497226/women-pastor-pete-hegseth-vote" target="_blank">Defense Secretary Pete Hegseth reposts video of pastors saying women shouldn&#x27;t vote</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-09 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-putin-6-rt-gmh-250807_1754574450600_hpMain_4x3t_384.jpg" alt="What Ukraine and other European allies are saying after Trump-Putin meeting announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story?id=124514600" target="_blank">What Ukraine and other European allies are saying after Trump-Putin meeting announced</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-09 23:00</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/amazon-evs-vmware-migration/en/headerimage/generatedHeaderImage-1754562859751.jpg" alt="Amazon EVS Offers Enterprises a New Path for VMware Workload Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/amazon-evs-vmware-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EVS Offers Enterprises a New Path for VMware Workload Migration</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-10 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,20 +223,20 @@
                 <span class="time">2025-08-10 04:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh" target="_blank">How to Use IAM Policies Like a Pro (With Examples) 🔐✨</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 03:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/aura-triple-display-5.jpg" alt="This Monstrosity Gives Your Laptop Three Massive Monitors, but You’ll Hate Looking at It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-monstrosity-gives-your-laptop-three-massive-monitors-but-youll-hate-looking-at-it-2000626044" target="_blank">This Monstrosity Gives Your Laptop Three Massive Monitors, but You’ll Hate Looking at It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/one-piece-luffys2.jpg" alt="The First ‘One Piece’ Season 2 Trailer is Full of Pirate Action" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
