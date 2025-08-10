@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 03:30:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 04:15:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 1 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 03:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -174,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg" target="_blank">Adam Savage&#x27;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 04:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-use-iam-policies-like-a-pro-with-examples-pbh" target="_blank">How to Use IAM Policies Like a Pro (With Examples) 🔐✨</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 03:10</span>
@@ -213,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/arshtechpro/understanding-mainactor-in-swift-when-and-how-to-use-it-4ii4" target="_blank">Understanding @MainActor in Swift: When and How to Use It</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://wuu73.org/blog/aiguide1.html" target="_blank">How I code with AI on a budget/free</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-09 22:27</span>
             </div>
         </div>
 </div>
@@ -284,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 66 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 03:31 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
