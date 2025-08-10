@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 10:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-10 11:01:25 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/10/two-boxers-die-from-brain-injuries-in-separate-bouts-in-japan?traffic_source=rss" target="_blank">Two boxers die from brain injuries in separate bouts in Japan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-10 10:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-drone-DB-250810_1754817932684_hpMain_4x3t_384.jpg" alt="Russia and Ukraine exchange drone attacks amid peace talks maneuvers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/10/russia-ukraine-war-list-of-key-events-day-1263?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,263</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-10 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754786560132_wnn_vhi_zelenskyy_trump_putin_meeting_250809_1920x1080-vjr6vm.jpg" alt="Zelenskyy rejects Trump land swap proposal for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-rejects-trump-land-swap-proposal-for-ukraine-244661829549" target="_blank">Zelenskyy rejects Trump land swap proposal for Ukraine</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-10 00:42</span>
             </div>
         </div>
 </div>
@@ -156,12 +149,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/68966770c8079b4bd3aafb65/master/pass/court-data-breach-sec-1238143476.jpg" alt="The US Court Records System Has Been Hacked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://a.fsdn.com/sd/twitter_icon_large.png" alt="AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-court-records-system-hacked/" target="_blank">The US Court Records System Has Been Hacked</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-09 10:30</span>
+                <span class="fa fa-fw fa-comments"></span>
+                <span class="title"><a href="https://tech.slashdot.org/story/25/08/10/0626249/aol-finally-discontinues-its-dial-up-internet-access---after-34-years?utm_source=rss1.0mainlinkanon&utm_medium=feed" target="_blank">AOL Finally Discontinues Its Dial-Up Internet Access - After 34 Years</a></span>
+                <span class="feed">Slashdot</span>
+                
             </div>
         </div>
 </div>
@@ -169,6 +162,15 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-new-fortress-3b6a" target="_blank">The New Fortress</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/amazon-evs-vmware-migration/en/headerimage/generatedHeaderImage-1754562859751.jpg" alt="Amazon EVS Offers Enterprises a New Path for VMware Workload Migration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/devshefali/7-git-commands-you-probably-dont-know-but-should-3bnl" target="_blank">7 Git Commands You Probably Don’t Know (But Should)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-10 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maker_youtube/adam-savages-tested-the-time-adam-savage-got-into-it-with-an-ilm-supervisor-dkg" target="_blank">Adam Savage&#x27;s Tested: The Time Adam Savage &quot;Got Into It&quot; With an ILM Supervisor</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 04:02</span>
             </div>
         </div>
 </div>
@@ -301,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
