@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-10 01:30:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-10 02:43:26 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 10, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 10, 2025 - 02:43 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/co-op-games-linux/" target="_blank">15 Co-Op Games for Linux Steam Gamers in 2025</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-10 02:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maker_youtube/i-like-to-make-stuff-ive-finally-figured-out-aluminum-welding-38kp" target="_blank">I Like To Make Stuff: I’ve Finally Figured Out Aluminum Welding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-10 02:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcggjcdc683qnrfrurnds.webp" alt="AI Governance: Why It Matters Now More Than Ever for Our Digital Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/sumeetweb/travelmate-ai-real-time-ai-travel-planner-powered-by-redis-stack-4cn2" target="_blank">TravelMate AI: Real-Time AI Travel Planner Powered by Redis Stack</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-09 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Btrfs-Saves-Meta-Billions" target="_blank">Btrfs Has Saved Meta &quot;Billions Of Dollars&quot; In Infrastructure Costs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-09 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0xj0n1/refining-ideas-structuring-the-plan-34-295n" target="_blank">Refining Ideas &amp; Structuring the Plan #34</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-09 20:22</span>
             </div>
         </div>
 </div>
@@ -282,8 +277,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 02:43 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
