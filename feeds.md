@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 16:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 17:02:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 17:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/trump-to-deploy-national-guard-to-washington-dc?traffic_source=rss" target="_blank">Trump to deploy National Guard to Washington DC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +97,6 @@
                 <span class="time">2025-08-11 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250809-trump-ch-1014-ea1a23.jpg" alt="Trump considers deploying up to 1,000 National Guard to D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/live-updates-trump-address-washington-safety-monday-rcna224052" target="_blank">Trump considers deploying up to 1,000 National Guard to D.C.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-11 10:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,10 +105,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank">Reddit will block the Internet Archive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/11/electronic-arts-blocks-more-than-300000-attempts-to-cheat-after-launching-battlefield-6-beta/" target="_blank">Electronic Arts blocks more than 300,000 attempts to cheat after launching Battlefield 6 beta</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-11 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6899c07e0cee264e339be556/master/pass/Ford%20Universal%20EV%20Platform_16x9.gif" alt="Ford&#x27;s Answer to China: A Completely New Way of Making Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/" target="_blank">Ford&#x27;s Answer to China: A Completely New Way of Making Cars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-11 15:02</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +156,20 @@
                 <span class="time">2025-08-11 14:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview" target="_blank">Notion CEO Ivan Zhao wants you to demand better from your tools</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6897f79c0474fa004e0d3768/master/pass/The%20Best%20Invisible%20Hearing%20Aids.png" alt="The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-invisible-hearing-aids/" target="_blank">The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472" target="_blank">Understanding Object-Oriented Programming Features in JavaScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="time">2025-08-11 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/openai-gpt5-release/en/headerimage/generatedHeaderImage-1754747679645.jpg" alt="OpenAI’s GPT-5 Debuts with Commoditizing Costs and Higher Scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/openai-gpt5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI’s GPT-5 Debuts with Commoditizing Costs and Higher Scrutiny</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-11 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/WBGmovies.jpg" alt="Warner Bros. Is On A Box Office Hot Streak Unlike Anything We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wb-warner-bros-streak-weapons-box-office-record-opening-weekend-minecraft-2000616900" target="_blank">Warner Bros. Is On A Box Office Hot Streak Unlike Anything We’ve Seen Before</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Darth-Vader-Rogue-One.jpg" alt="The DHS Wants You to Forget That Anakin Skywalker Also Descended Into Fascism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-dhs-wants-you-to-forget-that-anakin-skywalker-also-descended-into-fascism-2000641374" target="_blank">The DHS Wants You to Forget That Anakin Skywalker Also Descended Into Fascism</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2CSXS3JPYBPGD4MMNJTJM8W/hero-image.jpg" alt="Scammers Are Targeting Facebook Users With This Phishing Scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/scammers-targeting-facebook-users-mailto-phishing?utm_medium=RSS" target="_blank">Scammers Are Targeting Facebook Users With This Phishing Scheme</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-11 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Prasad.jpg" alt="FDA Rehires Controversial Biologics Chief Just Days After Trump Fired Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/video-game-cases-loose-discs-bf6-resident-evil-persona-spider-man-news-2000616874" target="_blank">What The Hell Is Going On With Video Game Disc Cases?</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-11 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/12/Screenshot-2024-12-17-at-11.25.17 AM.jpg" alt="Pay-to-Play? Trump Slaps 15% “Export Tax” on Big Tech’s China AI Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-amd-nvidia-export-tax-2000641302" target="_blank">Pay-to-Play? Trump Slaps 15% “Export Tax” on Big Tech’s China AI Chips</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Broken-Arrow-Tank-Fire.jpg" alt="Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/broken-arrow-rts-campaign-how-long-to-beat-hltb-2000616860" target="_blank">Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-11 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K26A155WTRSYRD984WXX157C/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is &#x27;Ibiza Final Boss&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-who-is-ibiza-final-boss?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is &#x27;Ibiza Final Boss&#x27;?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-11 13:00</span>
             </div>
         </div>
 </div>
@@ -316,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 17:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
