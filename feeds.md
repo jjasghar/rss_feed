@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 11:01:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-11 12:02:15 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/g-s1-81981/up-first-newsletter-washington-dc-federal-agents-putin-trump-summit-israel-gaza" target="_blank">Trump vows to crack down on D.C. crime. And, Putin-Trump meeting to discuss end of war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 11:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250809-trump-ch-1014-ea1a23.jpg" alt="Trump considers deploying up to 1,000 National Guard to D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/live-updates-trump-address-washington-safety-monday-rcna224052" target="_blank">Trump considers deploying up to 1,000 National Guard to D.C.</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-11 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/DC-crime-feds-20250810-gt-jh_1754859381704_hpMain_4x3t_384.jpg" alt="Trump to hold news conference on crime in DC after threatening federal takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hold-news-conference-crime-dc-after-threatening/story?id=124528406" target="_blank">Trump to hold news conference on crime in DC after threatening federal takeover</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-11 10:12</span>
             </div>
         </div>
 <div class="story">
@@ -80,35 +97,35 @@
                 <span class="time">2025-08-11 07:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5495449/life-space-moon-ocean-hydrothermal-vents" target="_blank">Did life start on the ocean floor — and what does that mean for alien life?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/australia-to-recognise-palestinian-state-at-un-in-september?traffic_source=rss" target="_blank">Australia to recognise Palestinian state at UN in September</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 06:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/onepiece5-500x500-1754852138.jpg" alt="Netflix drops One Piece S2 teaser, renews for S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/netflix-drops-one-piece-s2-teaser-renews-for-s3/" target="_blank">Netflix drops One Piece S2 teaser, renews for S3</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-11 11:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Metapelite-photo-Whitehouse-500x500.jpg" alt="How old is the earliest trace of life on Earth?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/science/2025/08/how-old-is-the-earliest-trace-of-life-on-earth/" target="_blank">How old is the earliest trace of life on Earth?</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68980a005a4ac78474e61637/master/pass/The%20Best%20Tents%20for%20Camping%20in%20Any%20Weather.png" alt="7 Best Tents (2025), Tested: Backpacking, Family, and Ultralight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-camping-tents/" target="_blank">7 Best Tents (2025), Tested: Backpacking, Family, and Ultralight</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-08-11 11:00</span>
             </div>
         </div>
@@ -139,29 +156,29 @@
                 <span class="time">2025-08-11 07:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/" target="_blank">Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/" target="_blank">The computer science dream has become a nightmare</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-10 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/microservices-ai-systems/en/mediumimage/phil-cal%C3%A7ado-medium-1754401544039.jpeg" alt="Presentation: Key Lessons from Shipping AI Products Beyond the Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/microservices-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Key Lessons from Shipping AI Products Beyond the Hype</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-11 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553856&w=600" alt="The Immune System of Software: Can Biology Illuminate Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/immune-system-software-testing-biological-analogy" target="_blank">The Immune System of Software: Can Biology Illuminate Testing?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -192,28 +209,24 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices" target="_blank">A CISO’s guide to Application Security best practices</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-11 09:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://aarol.dev/posts/zig-simd-substr/" target="_blank">Faster substring search with SIMD in Zig</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 09:41</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vadym_info_polus/kickstarting-your-week-as-a-developer-5-micro-habits-that-actually-work-3opa" target="_blank">Kickstarting Your Week as a Developer: 5 Micro-Habits That Actually Work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90" target="_blank">HTTP Request Processing with Zero-Copy Optimization(0912)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 07:47</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html" target="_blank">Automatic License Plate Readers Are Coming to Schools</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-11 11:05</span>
             </div>
         </div>
 </div>
@@ -312,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
