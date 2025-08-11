@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 18:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-11 19:02:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 18:02 UTC</div>
+    <div class="newspaper-date">Monday, August 11, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc75/live/55382aa0-769e-11f0-a20f-3b86f375586a.jpg" alt="No plans to change passenger rules for new young drivers a &#x27;major oversight&#x27;, AA says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jpp3jwe32o?at_medium=RSS&at_campaign=rss" target="_blank">No plans to change passenger rules for new young drivers a &#x27;major oversight&#x27;, AA says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-11 14:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,20 +98,29 @@
                 <span class="time">2025-08-11 14:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5492207/epstein-maxwell-grand-jury-transcripts" target="_blank">Judge denies release of Ghislaine Maxwell grand jury transcripts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/" target="_blank">How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-11 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68951d3135bef90a603558d7/master/pass/Uncanny-Valley-OpenAI-Deal-US-Gov-Business-206807228.jpg" alt="WIRED Roundup: Unpacking OpenAI’s Government Partnership" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/" target="_blank">WIRED Roundup: Unpacking OpenAI’s Government Partnership</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-11 18:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/" target="_blank">Ford&#x27;s Answer to China: A Completely New Way of Making Cars</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-11 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/nvidia-unveils-new-cosmos-world-models-other-infra-for-physical-applications-of-ai/" target="_blank">Nvidia unveils new Cosmos world models, infra for robotics and physical uses</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china" target="_blank">US demands cut of Nvidia sales in order to ship AI chips to China</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-11 14:54</span>
             </div>
         </div>
 </div>
@@ -199,19 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/11/renewing-chat-on-stack-overflow/" target="_blank">Renewing Chat on Stack Overflow</a></span>
-                <span class="feed">Stack Overflow Blog</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/" target="_blank">Securing the supply chain at scale: Starting with 71 important open source projects</a></span>
+                <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-11 16:00</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553976&w=600" alt="Designing Resilient Systems: What Every Engineering Manager Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-resilient-systems-engineering-managers" target="_blank">Designing Resilient Systems: What Every Engineering Manager Should Know</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-11 15:00</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/11/renewing-chat-on-stack-overflow/" target="_blank">Renewing Chat on Stack Overflow</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-11 16:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/hand-washing.jpg" alt="Handsoaps Recalled Over Bacteria That Can Cause Sepsis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/handsoaps-recalled-over-bacteria-that-can-cause-sepsis-fda-rfk-2000641409" target="_blank">Handsoaps Recalled Over Bacteria That Can Cause Sepsis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2D2DNGR94D5P1JFW686W2VV/hero-image.png" alt="12 Terms You Should Always Negotiate Before Signing a Lease" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/terms-you-should-always-negotiate-before-signing-a-lease?utm_medium=RSS" target="_blank">12 Terms You Should Always Negotiate Before Signing a Lease</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-11 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/ooo.jpg" alt="In This Stunning Metroidvania, You’re Only Held Back By Your Own Imagination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/wb-warner-bros-streak-weapons-box-office-record-opening-weekend-minecraft-2000616900" target="_blank">Warner Bros. Is On A Box Office Hot Streak Unlike Anything We’ve Seen Before</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-11 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Darth-Vader-Rogue-One.jpg" alt="The DHS Wants You to Forget That Anakin Skywalker Also Descended Into Fascism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-dhs-wants-you-to-forget-that-anakin-skywalker-also-descended-into-fascism-2000641374" target="_blank">The DHS Wants You to Forget That Anakin Skywalker Also Descended Into Fascism</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2CSXS3JPYBPGD4MMNJTJM8W/hero-image.jpg" alt="Scammers Are Targeting Facebook Users With This Phishing Scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/scammers-targeting-facebook-users-mailto-phishing?utm_medium=RSS" target="_blank">Scammers Are Targeting Facebook Users With This Phishing Scheme</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-11 16:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
