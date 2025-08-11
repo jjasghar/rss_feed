@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 20:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 21:01:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/un-chief-condemns-assassination-of-al-jazeera-journalists?traffic_source=rss" target="_blank">UN chief condemns assassination of Al Jazeera journalists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 20:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Officials give updates after deadly steel plant explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sweida-syria_6988422.jpg?20250811191444" alt="&#x27;They told us they were the Syrian army&#x27;: CCTV shows hospital volunteer being shot dead at point-blank range" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/trump-to-deploy-national-guard-to-washington-dc?traffic_source=rss" target="_blank">Trump to deploy National Guard to Washington DC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/norway-wealth-fund-divests-stakes-in-several-israeli-companies?traffic_source=rss" target="_blank">Norway wealth fund divests from several Israeli companies due to Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 15:39</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/cctv-shows-men-in-combat-clothing-shooting-hospital-volunteer-at-point-blank-range-in-syria-13410285" target="_blank">&#x27;They told us they were the Syrian army&#x27;: CCTV shows hospital volunteer being shot dead at point-blank range</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-11 16:44</span>
             </div>
         </div>
 </div>
@@ -103,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/" target="_blank">iOS 26 beta 6 adds new ringtones, snappy app launches, and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-11 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,29 @@
                 <span class="time">2025-08-11 17:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank">Reddit will block the Internet Archive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-11 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553262&w=600" alt="AWS Step Functions IDE Extension: A Game Changer, but What’s Next?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-step-functions-ide-extension-a-game-changer-bu" target="_blank">AWS Step Functions IDE Extension: A Game Changer, but What’s Next?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-11 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Early-Testing" target="_blank">Early Linux 6.17 Tests Show Some AMD Strix Halo Performance Improvements &amp; Regressions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-11 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +217,6 @@
                 <span class="time">2025-08-11 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472" target="_blank">Understanding Object-Oriented Programming Features in JavaScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/kernel-paused.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 May Ship with an “Unstable” Linux Kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-25-10-unstable-kernel-possibility" target="_blank">Ubuntu 25.10 May Ship with an “Unstable” Linux Kernel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-11 16:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/legostarwr.jpg" alt="Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/death-star-lego-set-big-1000-expensive-leak-images-star-wars-2000616943" target="_blank">Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Untitled-design-4-1.jpg" alt="Meteorite Crashes Into Georgia Home, Turns Out to Be 20 Million Years Older Than Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meteorite-crashes-into-georgia-home-turns-out-to-be-20-million-years-older-than-earth-2000641545" target="_blank">Meteorite Crashes Into Georgia Home, Turns Out to Be 20 Million Years Older Than Earth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Sam-Altman.jpg" alt="As Fears About AI Grow, Sam Altman Says Gen-Z Are the ‘Luckiest Kids in History’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/terms-you-should-always-negotiate-before-signing-a-lease?utm_medium=RSS" target="_blank">12 Terms You Should Always Negotiate Before Signing a Lease</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-11 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ooo.jpg" alt="In This Stunning Metroidvania, You’re Only Held Back By Your Own Imagination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ooo-review-metroidvania-puzzle-platformer-nama-takahashi-2000616880" target="_blank">In This Stunning Metroidvania, You’re Only Held Back By Your Own Imagination</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/image-83-e1754933960662.png?fit=600%2C384&amp;quality=55&amp;ssl=1" alt="Claims OceanGate knew the Titan had delaminated and dove anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/11/claims-oceangate-knew-the-titan-had-delaminated-and-dove-anyways.html" target="_blank">Claims OceanGate knew the Titan had delaminated and dove anyway</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-11 17:41</span>
             </div>
         </div>
 </div>
@@ -326,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
