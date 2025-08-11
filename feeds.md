@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 05:06:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 06:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 05:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +63,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3256/live/ac3dd630-766a-11f0-a975-cb151ca452f4.jpg" alt="Over-70s face driving ban for failing eye tests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yllgezjk3o?at_medium=RSS&at_campaign=rss" target="_blank">Over-70s face driving ban for failing eye tests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-11 02:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -91,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss" target="_blank">Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-10 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754867957493_wnn_mhu_un_security_council_meets_250810_1920x1080-rxvfmn.jpg" alt="Netanyahu defends planned Gaza offensive as backlash grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netanyahu-defends-planned-gaza-offensive-as-backlash-grows-244676677514" target="_blank">Netanyahu defends planned Gaza offensive as backlash grows</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-10 23:19</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abraham_root/vertalk-supercharge-e-cormmerce-with-real-time-ai-calls-powered-by-redis-8-11ka" target="_blank">Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 06:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +214,6 @@
                 <span class="title"><a href="http://techno-fandom.org/~hobbit/cars/ev/offnet.html" target="_blank">Vanishing from Hyundai’s data network</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-11 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5cl2" target="_blank">Redact - Real-Time AI-Powered Prompt Security Platform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 01:09</span>
             </div>
         </div>
 </div>
@@ -307,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:06 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
