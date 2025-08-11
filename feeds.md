@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 04:16:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-11 05:06:44 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 04:16 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 05:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +55,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5497749/dc-trump-crackdown-crime" target="_blank">Federal agents spread out across D.C. streets amid Trump vow to crackdown on crime</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-11 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/washington-1-as-gmh-250806_1754486641660_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Possible activation of National Guard in DC by US military" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Possible activation of National Guard in DC by US military</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-11 02:51</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netanyahu-defends-planned-gaza-offensive-as-backlash-grows-244676677514" target="_blank">Netanyahu defends planned Gaza offensive as backlash grows</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-10 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/emory-2-abc-er-250808_1754689016803_hpMain_4x3t_384.jpg" alt="Suspected gunman in CDC shooting had grievance toward Covid vaccine: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/suspected-gunman-cdc-shooting-grievance-covid-vaccine-sources/story?id=124527819" target="_blank">Suspected gunman in CDC shooting had grievance toward Covid vaccine: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-10 23:06</span>
             </div>
         </div>
 </div>
@@ -172,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1" target="_blank">5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ndmckay/why-sam-altman-believes-gen-z-is-the-luckiest-generation-in-ai-era-gm0" target="_blank">Why Sam Altman Believes Gen Z is the Luckiest Generation in AI Era</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 04:00</span>
@@ -213,15 +220,6 @@
                 <span class="time">2025-08-11 01:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk" target="_blank">Tesla remotely deactivates rapper&#x27;s vehicle for singing about the Cybertruck</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-11 00:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -234,6 +232,15 @@
                 <span class="title"><a href="https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235" target="_blank">The Real Reason You Haven’t Been Replaced by AI Yet</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-10 22:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-3.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Massive price cut: Get Microsoft Office + Windows 11 for 86% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/10/massive-price-cut-get-microsoft-office-windows-11-for-86-off.html" target="_blank">Massive price cut: Get Microsoft Office + Windows 11 for 86% off</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-10 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,15 +279,6 @@
                 <span class="time">2025-08-10 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Windows-11-Pro-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Upgrade your OS for less than the cost of a pizza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/10/upgrade-your-os-for-less-than-the-cost-of-a-pizza.html" target="_blank">Upgrade your OS for less than the cost of a pizza</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:16 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 05:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
