@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 02:40:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 03:30:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 02:41 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 03:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -91,10 +96,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Israel kills journalist it claims was a Hamas &#x27;terrorist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Al Jazeera condemns &#x27;assassination&#x27; of its journalists in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Israel kills journalist it claims was a Hamas &#x27;terrorist&#x27;</a></span>
+                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Al Jazeera condemns &#x27;assassination&#x27; of its journalists in Gaza</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-10 22:29</span>
             </div>
@@ -164,12 +169,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-aug04-2025/en/headerimage/java-istock-image-01-1754857944940.jpg" alt="Java News Roundup: JDK 25-RC1, Spring AI, WildFly 37, Payara Platform, LangChain4j, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-aug04-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25-RC1, Spring AI, WildFly 37, Payara Platform, LangChain4j, Grails</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-11 02:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-secure-your-ec2-s3-rds-like-a-devops-engineer-2b28" target="_blank">How to Secure Your EC2, S3 &amp; RDS Like a DevOps Engineer 🔐🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://techno-fandom.org/~hobbit/cars/ev/offnet.html" target="_blank">Vanishing from Hyundai’s data network</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 01:55</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Vulkan-ProRes-RAW" target="_blank">FFmpeg Develops Vulkan Hardware Acceleration For Apple ProRes RAW Codec</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-11 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifa_ara_heya/from-rejection-to-revolution-the-engineering-brilliance-behind-whatsapp-1ij" target="_blank">💬 From Rejection to Revolution: The Engineering Brilliance Behind WhatsApp</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-10 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bernsteinbear.com/blog/compiling-a-lisp-12/" target="_blank">Compiling a Lisp: Lambda Lifting</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-10 22:35</span>
             </div>
         </div>
 </div>
@@ -304,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:41 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
