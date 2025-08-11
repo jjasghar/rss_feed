@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 22:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-11 23:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5499372/european-leaders-insist-ukraine-must-be-part-of-peace-talks" target="_blank">European Leaders Insist Ukraine Must be Part of Peace Talks</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 21:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,21 +88,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250811_1754923283197_hpMain_4x3t_384.jpg" alt="Trump puts DC police department under federal control, deploys National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754940117614_f_mo_dc_bowser_trump_crime_250811_1920x1080-0d985w.jpg" alt="Mayor Bowser says Trump&#x27;s plan for D.C. crime is &#x27;unsettling and unprecedented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hold-news-conference-crime-dc-after-threatening/story?id=124528406" target="_blank">Trump puts DC police department under federal control, deploys National Guard</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-11 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b8/live/3a406420-76fc-11f0-a975-cb151ca452f4.jpg" alt="UN condemns targeted Israeli attack that killed five Al Jazeera journalists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq688qz3rlro?at_medium=RSS&at_campaign=rss" target="_blank">UN condemns targeted Israeli attack that killed five Al Jazeera journalists</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-11 17:47</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/mayor-bowser-addresses-trump-plan-take-over-d-c-police-and-deploy-national-guard-244720709606" target="_blank">Mayor Bowser says Trump&#x27;s plan for D.C. crime is &#x27;unsettling and unprecedented&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-11 19:22</span>
             </div>
         </div>
 </div>
@@ -103,6 +101,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-500x500.jpg" alt="The GPT-5 rollout has been a big mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/08/the-gpt-5-rollout-has-been-a-big-mess/" target="_blank">The GPT-5 rollout has been a big mess</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-11 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake" target="_blank">That viral video of a ‘deactivated’ Tesla Cybertruck is a fake</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,24 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/" target="_blank">OpenAI Scrambles to Update GPT-5 After Users Revolt</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-11 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/how-founders-are-ditching-vc-norms-and-finding-capital-on-their-own-terms-at-techcrunch-disrupt-2025/" target="_blank">How founders are ditching VC norms and finding capital on their own terms at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68951d3135bef90a603558d7/master/pass/Uncanny-Valley-OpenAI-Deal-US-Gov-Business-206807228.jpg" alt="WIRED Roundup: Unpacking OpenAI’s Government Partnership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/" target="_blank">WIRED Roundup: Unpacking OpenAI’s Government Partnership</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 18:32</span>
             </div>
         </div>
 </div>
@@ -236,12 +234,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/john-davison-.jpg" alt="IGN Boss Leaving After Latest Round Of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972" target="_blank">IGN Boss Leaving After Latest Round Of Layoffs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 22:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters’ Tops the Billboard 100 With Huntr/x’s ‘Golden’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-tops-the-billboard-100-with-huntr-xs-golden-2000641599" target="_blank">‘KPop Demon Hunters’ Tops the Billboard 100 With Huntr/x’s ‘Golden’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 22:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/lady-gaga-tudum-netflix.jpg" alt="Is Lady Gaga’s ‘Wednesday’ Role Everything It Seems?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/is-lady-gagas-wednesday-role-everything-it-seems-2000641448" target="_blank">Is Lady Gaga’s ‘Wednesday’ Role Everything It Seems?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-11 21:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Apple-iPhone-15-Pro-Max-256GB-Blue-Titanium.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="The latest Apple iPhone without the wallet hangover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/11/the-latest-apple-iphone-without-the-wallet-hangover.html" target="_blank">The latest Apple iPhone without the wallet hangover</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-11 21:16</span>
             </div>
         </div>
 <div class="story">
@@ -260,33 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/death-star-lego-set-big-1000-expensive-leak-images-star-wars-2000616943" target="_blank">Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-11 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Untitled-design-4-1.jpg" alt="Meteorite Crashes Into Georgia Home, Turns Out to Be 20 Million Years Older Than Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meteorite-crashes-into-georgia-home-turns-out-to-be-20-million-years-older-than-earth-2000641545" target="_blank">Meteorite Crashes Into Georgia Home, Turns Out to Be 20 Million Years Older Than Earth</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Sam-Altman.jpg" alt="As Fears About AI Grow, Sam Altman Says Gen-Z Are the ‘Luckiest Kids in History’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/as-fears-about-ai-grow-sam-altman-says-gen-z-are-the-luckiest-kids-in-history-2000641410" target="_blank">As Fears About AI Grow, Sam Altman Says Gen-Z Are the ‘Luckiest Kids in History’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GZA1VXHYV0J95Y5C09JZD/hero-image.jpg" alt="Here&#x27;s Which Event Ticket Sites Have the Best Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-ticket-sites?utm_medium=RSS" target="_blank">Here&#x27;s Which Event Ticket Sites Have the Best Deals</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-11 19:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
