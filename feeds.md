@@ -1,42 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 14:02:28 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-11 15:01:53 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/us-judge-denies-request-to-unseal-records-in-ghislaine-maxwell-case?traffic_source=rss" target="_blank">US judge denies request to unseal records in Ghislaine Maxwell case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 14:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5492207/epstein-maxwell-grand-jury-transcripts" target="_blank">Judge denies release of Ghislaine Maxwell grand jury transcripts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 13:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,29 +101,38 @@
                 <span class="time">2025-08-11 10:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/11/japan-boxing-to-hold-emergency-meeting-following-fighters-deaths?traffic_source=rss" target="_blank">Japan boxing to hold emergency meeting following fighters’ deaths</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5471614/boston-public-library-harvard-ai" target="_blank">Boston Public Library aims to increase access to a vast historic archive using AI</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/nvidia-unveils-new-cosmos-world-models-other-infra-for-physical-applications-of-ai/" target="_blank">Nvidia unveils new Cosmos world models, infra for robotics and physical uses</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-11 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china" target="_blank">US demands cut of Nvidia sales in order to ship AI chips to China</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/688949abbcf4041ed1a4abf6/master/pass/Alien-Earth-Interview-Culture-AE_PBR_1604_0583r.jpg" alt="In &#x27;Alien: Earth&#x27;, the Future Is a Corporate Hellscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/" target="_blank">In &#x27;Alien: Earth&#x27;, the Future Is a Corporate Hellscape</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-11 14:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +160,29 @@
                 <span class="time">2025-08-11 11:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Metapelite-photo-Whitehouse-500x500.jpg" alt="How old is the earliest trace of life on Earth?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-old-is-the-earliest-trace-of-life-on-earth/" target="_blank">How old is the earliest trace of life on Earth?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68980a005a4ac78474e61637/master/pass/The%20Best%20Tents%20for%20Camping%20in%20Any%20Weather.png" alt="7 Best Tents (2025), Tested: Backpacking, Family, and Ultralight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-camping-tents/" target="_blank">7 Best Tents (2025), Tested: Backpacking, Family, and Ultralight</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68938b53cf126ee4ae6f30da/master/pass/fraude%20cient%C3%ADfico-2217660405.jpg" alt="The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/black-market-for-fraudulent-science-growing-faster-than-legitimate-research/" target="_blank">The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/11/renewing-chat-on-stack-overflow/" target="_blank">Renewing Chat on Stack Overflow</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Vulkan-Metal" target="_blank">LunarG Announces KosmicKrisp As Vulkan-On-Metal Mesa Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-11 14:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553940&w=600" alt="DSPy Framework: A Comprehensive Technical Guide With Executable Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,24 +219,6 @@
                 <span class="time">2025-08-11 12:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openssh.com/pq.html" target="_blank">OpenSSH Post-Quantum Cryptography</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-11 12:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/microservices-ai-systems/en/mediumimage/phil-cal%C3%A7ado-medium-1754401544039.jpeg" alt="Presentation: Key Lessons from Shipping AI Products Beyond the Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/microservices-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Key Lessons from Shipping AI Products Beyond the Hype</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-11 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/mornchjeck.jpg" alt="What The Hell Is Going On With Video Game Disc Cases?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/video-game-cases-loose-discs-bf6-resident-evil-persona-spider-man-news-2000616874" target="_blank">What The Hell Is Going On With Video Game Disc Cases?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 14:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/12/Screenshot-2024-12-17-at-11.25.17 AM.jpg" alt="Pay-to-Play? Trump Slaps 15% “Export Tax” on Big Tech’s China AI Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +292,6 @@
                 <span class="time">2025-08-11 12:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/CMF-by-Nothing-Phone-2-Pro-01.jpg" alt="CMF Phone 2 Pro Review: A Budget Phone With More Camera Than You Bargained For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cmf-phone-2-pro-review-a-budget-phone-with-more-camera-than-you-bargained-for-2000639773" target="_blank">CMF Phone 2 Pro Review: A Budget Phone With More Camera Than You Bargained For</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
