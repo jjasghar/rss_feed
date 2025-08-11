@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 09:03:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 10:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/11/japan-boxing-to-hold-emergency-meeting-following-fighters-deaths?traffic_source=rss" target="_blank">Japan boxing to hold emergency meeting following fighters’ deaths</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 09:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +104,20 @@
                 <span class="time">2025-08-11 04:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/washington-1-as-gmh-250806_1754486641660_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Possible activation of National Guard in DC by US military" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385" target="_blank">Trump admin live updates: Possible activation of National Guard in DC by US military</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-11 02:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68938b53cf126ee4ae6f30da/master/pass/fraude%20cient%C3%ADfico-2217660405.jpg" alt="The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/black-market-for-fraudulent-science-growing-faster-than-legitimate-research/" target="_blank">The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,38 @@
                 <span class="time">2025-08-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6897f641b74b028bc80928c8/master/pass/The%20Best%20Hearing%20Aids%20for%20Seniors.png" alt="The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hearing-aids-for-seniors/" target="_blank">The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-10 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/en/headerimage/header-1754687965690.jpg" alt="MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-11 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d" target="_blank">Electrical Measurements: Common Types, Tools, and Calculations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 09:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/a-cisos-guide-to-application-security-best-practices" target="_blank">A CISO’s guide to Application Security best practices</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-11 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh" target="_blank">Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abraham_root/vertalk-supercharge-e-cormmerce-with-real-time-ai-calls-powered-by-redis-8-11ka" target="_blank">Vertalk : Supercharge E-cormmerce with Real-Time AI Calls Powered by Redis 8</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://issues.chromium.org/issues/412578726" target="_blank">Google paid a $250K reward for a bug</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-11 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1" target="_blank">5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 05:00</span>
             </div>
         </div>
 </div>
@@ -312,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 88 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
