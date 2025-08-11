@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 12:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 13:13:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/how-israel-has-continually-targeted-journalists-during-gaza-war?traffic_source=rss" target="_blank">How Israel has continually targeted journalists during Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 13:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5471614/boston-public-library-harvard-ai" target="_blank">Boston Public Library aims to increase access to a vast historic archive using AI</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-11 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/11/can-rice-production-in-africa-keep-up-with-demand" target="_blank">Growing pains: can rice production in Africa keep up with demand?</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-11 07:21</span>
             </div>
         </div>
 </div>
@@ -162,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openssh.com/pq.html" target="_blank">OpenSSH Post-Quantum Cryptography</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 12:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/microservices-ai-systems/en/mediumimage/phil-cal%C3%A7ado-medium-1754401544039.jpeg" alt="Presentation: Key Lessons from Shipping AI Products Beyond the Hype" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +216,6 @@
                 <span class="time">2025-08-11 09:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://aarol.dev/posts/zig-simd-substr/" target="_blank">Faster substring search with SIMD in Zig</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-11 09:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/mcd.jpg" alt="McDonald’s Pokémon Promotion Ends In Utter Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843" target="_blank">McDonald’s Pokémon Promotion Ends In Utter Chaos</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/CMF-by-Nothing-Phone-2-Pro-01.jpg" alt="CMF Phone 2 Pro Review: A Budget Phone With More Camera Than You Bargained For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cmf-phone-2-pro-review-a-budget-phone-with-more-camera-than-you-bargained-for-2000639773" target="_blank">CMF Phone 2 Pro Review: A Budget Phone With More Camera Than You Bargained For</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2020/08/s1ycltn3wskgwwgl2a7g.jpg" alt="The Real Reason You Haven’t Been Replaced by AI Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/teslas-cybertruck-is-suddenly-sold-out-sort-of-2000641210" target="_blank">Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-10 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/GettyImages-1531040160.jpg" alt="The Great American EV Tax Credit Rush Has Begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-great-american-ev-tax-credit-rush-has-begun-2000641202" target="_blank">The Great American EV Tax Credit Rush Has Begun</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/GettyImages-2211560521.jpg" alt="The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-world-will-enter-a-15-year-ai-dystopia-in-2027-former-google-exec-says-2000641195" target="_blank">The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 15:45</span>
             </div>
         </div>
 </div>
@@ -325,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
