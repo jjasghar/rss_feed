@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 17:02:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-11 18:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 17:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250811_1754923283197_hpMain_4x3t_384.jpg" alt="Trump puts DC police department under federal control, deploys National Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-hold-news-conference-crime-dc-after-threatening/story?id=124528406" target="_blank">Trump puts DC police department under federal control, deploys National Guard</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-11 17:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/11/trump-expected-to-meet-with-intel-ceo-after-calling-for-his-ouster?traffic_source=rss" target="_blank">Trump expected to meet with Intel CEO after calling for his ouster</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 17:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +96,20 @@
                 <span class="time">2025-08-11 13:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/how-israel-has-continually-targeted-journalists-during-gaza-war?traffic_source=rss" target="_blank">How Israel has continually targeted journalists during Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/g-s1-81981/up-first-newsletter-washington-dc-federal-agents-putin-trump-summit-israel-gaza" target="_blank">Trump vows to crack down on D.C. crime. And, Putin-Trump meeting to discuss end of war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake" target="_blank">The viral video of a ‘deactivated’ Tesla Cybertruck is most likely fake</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 17:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +155,29 @@
                 <span class="time">2025-08-11 14:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/688949abbcf4041ed1a4abf6/master/pass/Alien-Earth-Interview-Culture-AE_PBR_1604_0583r.jpg" alt="In &#x27;Alien: Earth&#x27;, the Future Is a Corporate Hellscape" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/" target="_blank">In &#x27;Alien: Earth&#x27;, the Future Is a Corporate Hellscape</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 14:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2542955%2Ff05f9e99-169f-44c0-bd42-84eb2c3ca7f1.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/-5bjb" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18554002&w=600" alt="Data Mesh Security: How to Protect Decentralized Data Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-mesh-security-decentralized-data" target="_blank">Data Mesh Security: How to Protect Decentralized Data Architectures</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-11 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -168,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/lovestaco/understanding-object-oriented-programming-features-in-javascript-1472" target="_blank">Understanding Object-Oriented Programming Features in JavaScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/kernel-paused.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 May Ship with an “Unstable” Linux Kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-25-10-unstable-kernel-possibility" target="_blank">Ubuntu 25.10 May Ship with an “Unstable” Linux Kernel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-11 16:29</span>
             </div>
         </div>
 <div class="story">
@@ -186,33 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/designing-resilient-systems-engineering-managers" target="_blank">Designing Resilient Systems: What Every Engineering Manager Should Know</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-11 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KosmicKrisp-Vulkan-Metal" target="_blank">LunarG Announces KosmicKrisp As Vulkan-On-Metal Mesa Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-11 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553940&w=600" alt="DSPy Framework: A Comprehensive Technical Guide With Executable Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/dspy-framework-technical-guide" target="_blank">DSPy Framework: A Comprehensive Technical Guide With Executable Examples</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-4545p-efficiency" target="_blank">AMD EPYC 4545P Achieves 2.24x The Performance At Half The Power Of The First EPYC CPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-11 13:10</span>
             </div>
         </div>
 </div>
@@ -234,6 +233,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ooo.jpg" alt="In This Stunning Metroidvania, You’re Only Held Back By Your Own Imagination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ooo-review-metroidvania-puzzle-platformer-nama-takahashi-2000616880" target="_blank">In This Stunning Metroidvania, You’re Only Held Back By Your Own Imagination</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/09/image-83-e1754933960662.png?fit=600%2C384&amp;quality=55&amp;ssl=1" alt="Claims OceanGate knew the Titan had delaminated and dove anyway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/11/claims-oceangate-knew-the-titan-had-delaminated-and-dove-anyways.html" target="_blank">Claims OceanGate knew the Titan had delaminated and dove anyway</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-11 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J5XDE5D47DNGM134RP8S9FAT/hero-image.png" alt="Eight Apps I Use to Get a Ton of Free Stuff" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-apps-for-getting-free-stuff?utm_medium=RSS" target="_blank">Eight Apps I Use to Get a Ton of Free Stuff</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-11 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/WBGmovies.jpg" alt="Warner Bros. Is On A Box Office Hot Streak Unlike Anything We’ve Seen Before" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,38 +287,20 @@
                 <span class="time">2025-08-11 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Prasad.jpg" alt="FDA Rehires Controversial Biologics Chief Just Days After Trump Fired Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fda-rehires-controversial-biologics-chief-just-days-after-trump-fired-him-2000641313" target="_blank">FDA Rehires Controversial Biologics Chief Just Days After Trump Fired Him</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2CTN78HYM8HRKP1FTQH6ZWV/hero-image.png" alt="This Subscription-Free Smart Video Doorbell Is 20% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/tapo-d225-smart-video-doorbell-sale?utm_medium=RSS" target="_blank">This Subscription-Free Smart Video Doorbell Is 20% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-11 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/mornchjeck.jpg" alt="What The Hell Is Going On With Video Game Disc Cases?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/video-game-cases-loose-discs-bf6-resident-evil-persona-spider-man-news-2000616874" target="_blank">What The Hell Is Going On With Video Game Disc Cases?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-11 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754597412-20250811.png" alt="Saturday Morning Breakfast Cereal - Genera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/genera" target="_blank">Saturday Morning Breakfast Cereal - Genera</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 17:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
