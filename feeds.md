@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 10:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-11 11:01:46 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250809-trump-ch-1014-ea1a23.jpg" alt="Trump considers deploying up to 1,000 National Guard to D.C." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/live-blog/live-updates-trump-address-washington-safety-monday-rcna224052" target="_blank">Trump considers deploying up to 1,000 National Guard to D.C.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-11 10:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +98,20 @@
                 <span class="time">2025-08-11 06:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5497749/dc-trump-crackdown-crime" target="_blank">Federal agents spread out across D.C. streets amid Trump vow to crackdown on crime</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Metapelite-photo-Whitehouse-500x500.jpg" alt="How old is the earliest trace of life on Earth?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-old-is-the-earliest-trace-of-life-on-earth/" target="_blank">How old is the earliest trace of life on Earth?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-11 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68938b53cf126ee4ae6f30da/master/pass/fraude%20cient%C3%ADfico-2217660405.jpg" alt="The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,20 @@
                 <span class="time">2025-08-10 18:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe" target="_blank">7 password managers to help keep your apps safe</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-ACPI-CPU-Idle-Hybrid" target="_blank">Linux ACPI Idle Driver Being Improved For Hybrid CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-11 10:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/en/headerimage/header-1754687965690.jpg" alt="MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90" target="_blank">HTTP Request Processing with Zero-Copy Optimization(0912)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm09sfpgfpgn4xs5hf160.png" alt="Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/u11d/passing-body-data-in-strapi-webhooks-triggering-github-workflows-example-43nh" target="_blank">Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 07:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
