@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 03:30:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 04:16:28 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 03:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 04:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5497749/dc-trump-crackdown-crime" target="_blank">Federal agents spread out across D.C. streets amid Trump vow to crackdown on crime</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss" target="_blank">Al Jazeera condemns killing of its journalists by Israeli forces in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 00:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/suspected-gunman-cdc-shooting-grievance-covid-vaccine-sources/story?id=124527819" target="_blank">Suspected gunman in CDC shooting had grievance toward Covid vaccine: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-10 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/gaza-journalist-reports-on-israeli-attack-that-killed-al-jazeera-colleagues?traffic_source=rss" target="_blank">Gaza journalist reports on Israeli attack that killed Al Jazeera colleagues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 22:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Al Jazeera condemns &#x27;assassination&#x27; of its journalists in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Al Jazeera condemns &#x27;assassination&#x27; of its journalists in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-10 22:29</span>
             </div>
         </div>
 </div>
@@ -169,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ndmckay/why-sam-altman-believes-gen-z-is-the-luckiest-generation-in-ai-era-gm0" target="_blank">Why Sam Altman Believes Gen Z is the Luckiest Generation in AI Era</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/java-news-roundup-aug04-2025/en/headerimage/java-istock-image-01-1754857944940.jpg" alt="Java News Roundup: JDK 25-RC1, Spring AI, WildFly 37, Payara Platform, LangChain4j, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +220,6 @@
                 <span class="title"><a href="https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk" target="_blank">Tesla remotely deactivates rapper&#x27;s vehicle for singing about the Cybertruck</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-11 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Vulkan-ProRes-RAW" target="_blank">FFmpeg Develops Vulkan Hardware Acceleration For Apple ProRes RAW Codec</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-11 00:53</span>
             </div>
         </div>
 </div>
@@ -309,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
