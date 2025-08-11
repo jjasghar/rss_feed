@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 07:04:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 08:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 07:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/11/can-rice-production-in-africa-keep-up-with-demand" target="_blank">Growing pains: can rice production in Africa keep up with demand?</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-11 07:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5495449/life-space-moon-ocean-hydrothermal-vents" target="_blank">Did life start on the ocean floor — and what does that mean for alien life?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/australia-to-recognise-palestinian-state-at-un-in-september?traffic_source=rss" target="_blank">Australia to recognise Palestinian state at UN in September</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 06:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,38 +104,29 @@
                 <span class="time">2025-08-11 02:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss" target="_blank">Al Jazeera condemns killing of its journalists by Israeli forces in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497869/colorado-wildfires-meeker-lee-fire-california" target="_blank">Colorado wildfires burn more than 120,000 acres as firefighters await better weather</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss" target="_blank">Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-10 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/757194/aol-dial-up-is-dead" target="_blank">AOL is finally shutting down dial-up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 07:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/" target="_blank">Nigerian profitable food delivery Chowdeck lands $9M from Novastar, Y Combinator</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-11 07:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +163,20 @@
                 <span class="time">2025-08-10 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/10/after-researchers-unmasked-a-prolific-sms-scammer-a-new-operation-has-emerged-in-its-wake/" target="_blank">After researchers unmasked a prolific SMS scammer, a new operation has emerged in its wake</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-10 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer" target="_blank">The next big AI model is here</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-10 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/socket-use/http-request-processing-with-zero-copy-optimization0912-k90" target="_blank">HTTP Request Processing with Zero-Copy Optimization(0912)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 07:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm09sfpgfpgn4xs5hf160.png" alt="Passing Body Data in Strapi Webhooks: Triggering GitHub Workflows Example" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,6 +198,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://issues.chromium.org/issues/412578726" target="_blank">Google paid a $250K reward for a bug</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/canro91/5-things-every-new-coder-should-watch-ask-read-do-and-pass-on-2gc1" target="_blank">5 Things Every New Coder Should Watch, Ask, Read, Do, and Pass On</a></span>
                 <span class="feed">DEV Community</span>
@@ -193,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/ndmckay/why-sam-altman-believes-gen-z-is-the-luckiest-generation-in-ai-era-gm0" target="_blank">Why Sam Altman Believes Gen Z is the Luckiest Generation in AI Era</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-aug04-2025/en/headerimage/java-istock-image-01-1754857944940.jpg" alt="Java News Roundup: JDK 25-RC1, Spring AI, WildFly 37, Payara Platform, LangChain4j, Grails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-aug04-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25-RC1, Spring AI, WildFly 37, Payara Platform, LangChain4j, Grails</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-11 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-secure-your-ec2-s3-rds-like-a-devops-engineer-2b28" target="_blank">How to Secure Your EC2, S3 &amp; RDS Like a DevOps Engineer 🔐🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 02:21</span>
             </div>
         </div>
 </div>
@@ -278,6 +287,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/11/battlefeels" target="_blank">Battlefeels</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-11 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5632.png" alt="Sticker Shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -300,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
