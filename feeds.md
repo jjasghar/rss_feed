@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 13:13:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-11 14:02:28 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +112,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview" target="_blank">Notion CEO Ivan Zhao wants you to demand better from your tools</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6897f79c0474fa004e0d3768/master/pass/The%20Best%20Invisible%20Hearing%20Aids.png" alt="The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-invisible-hearing-aids/" target="_blank">The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-11 13:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/onepiece5-500x500-1754852138.jpg" alt="Netflix drops One Piece S2 teaser, renews for S3" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -139,29 +165,47 @@
                 <span class="time">2025-08-11 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757194/aol-dial-up-is-dead" target="_blank">AOL is finally shutting down dial-up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-11 07:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/nigeria-profitable-food-delivery-chowdeck-lands-9m-from-novastar-y-combinator/" target="_blank">Nigerian profitable food delivery Chowdeck lands $9M from Novastar, Y Combinator</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 07:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553940&w=600" alt="DSPy Framework: A Comprehensive Technical Guide With Executable Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/dspy-framework-technical-guide" target="_blank">DSPy Framework: A Comprehensive Technical Guide With Executable Examples</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-epyc-4545p-efficiency" target="_blank">AMD EPYC 4545P Achieves 2.24x The Performance At Half The Power Of The First EPYC CPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-11 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/openai-gpt5-release/en/headerimage/generatedHeaderImage-1754747679645.jpg" alt="OpenAI’s GPT-5 Debuts with Commoditizing Costs and Higher Scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/openai-gpt5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI’s GPT-5 Debuts with Commoditizing Costs and Higher Scrutiny</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-11 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/" target="_blank">Wikimedia Foundation Challenges UK Online Safety Act Regulations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 12:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,42 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/microservices-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Key Lessons from Shipping AI Products Beyond the Hype</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-11 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18553856&w=600" alt="The Immune System of Software: Can Biology Illuminate Testing?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/immune-system-software-testing-biological-analogy" target="_blank">The Immune System of Software: Can Biology Illuminate Testing?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-11 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-ACPI-CPU-Idle-Hybrid" target="_blank">Linux ACPI Idle Driver Being Improved For Hybrid CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-11 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/en/headerimage/header-1754687965690.jpg" alt="MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/mssql-vscode-copilot-color-codes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MSSQL Extension for VS Code 1.34.0 Deepens Copilot Agent Mode, Adds Colour‑Coded Connections</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-11 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/candice88771483/electrical-measurements-common-types-tools-and-calculations-2l8d" target="_blank">Electrical Measurements: Common Types, Tools, and Calculations</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 09:49</span>
             </div>
         </div>
 </div>
@@ -236,6 +244,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/12/Screenshot-2024-12-17-at-11.25.17 AM.jpg" alt="Pay-to-Play? Trump Slaps 15% “Export Tax” on Big Tech’s China AI Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-amd-nvidia-export-tax-2000641302" target="_blank">Pay-to-Play? Trump Slaps 15% “Export Tax” on Big Tech’s China AI Chips</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-11 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Broken-Arrow-Tank-Fire.jpg" alt="Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/broken-arrow-rts-campaign-how-long-to-beat-hltb-2000616860" target="_blank">Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-11 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K26A155WTRSYRD984WXX157C/hero-image.jpg" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is &#x27;Ibiza Final Boss&#x27;?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-who-is-ibiza-final-boss?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is &#x27;Ibiza Final Boss&#x27;?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-11 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ap.jpg?fit=1612%2C764&amp;quality=60&amp;ssl=1" alt="Australia to recognize Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/11/australia-to-recognize-palestinian-state.html" target="_blank">Australia to recognize Palestinian state</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-11 12:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/mcd.jpg" alt="McDonald’s Pokémon Promotion Ends In Utter Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -251,42 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/cmf-phone-2-pro-review-a-budget-phone-with-more-camera-than-you-bargained-for-2000639773" target="_blank">CMF Phone 2 Pro Review: A Budget Phone With More Camera Than You Bargained For</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-11 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2020/08/s1ycltn3wskgwwgl2a7g.jpg" alt="The Real Reason You Haven’t Been Replaced by AI Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235" target="_blank">The Real Reason You Haven’t Been Replaced by AI Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-3.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Massive price cut: Get Microsoft Office + Windows 11 for 86% off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/10/massive-price-cut-get-microsoft-office-windows-11-for-86-off.html" target="_blank">Massive price cut: Get Microsoft Office + Windows 11 for 86% off</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/cyclops-xmen.jpg" alt="James Mardsen’s Happy to Be Cyclops Again for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-mardsens-happy-to-be-cyclops-again-for-avengers-doomsday-2000641139" target="_blank">James Mardsen’s Happy to Be Cyclops Again for ‘Avengers: Doomsday’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/A-Tesla-Cybertruck-on-a-road.jpg" alt="Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/teslas-cybertruck-is-suddenly-sold-out-sort-of-2000641210" target="_blank">Tesla’s Cybertruck Is Suddenly Sold Out (Sort Of)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 17:52</span>
             </div>
         </div>
 </div>
@@ -326,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
