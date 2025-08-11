@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 00:05:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-11 01:29:52 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 11 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 11, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +51,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497869/colorado-wildfires-meeker-lee-fire-california" target="_blank">Colorado wildfires burn more than 120,000 acres as firefighters await better weather</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 00:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/10/israel-kills-anas-al-sharif-and-four-other-al-jazeera-journalists-in-gaza?traffic_source=rss" target="_blank">Israel kills Anas al-Sharif and four other Al Jazeera journalists in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-10 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754867957493_wnn_mhu_un_security_council_meets_250810_1920x1080-rxvfmn.jpg" alt="Netanyahu defends planned Gaza offensive as backlash grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/netanyahu-defends-planned-gaza-offensive-as-backlash-grows-244676677514" target="_blank">Netanyahu defends planned Gaza offensive as backlash grows</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-10 23:19</span>
             </div>
         </div>
 <div class="story">
@@ -78,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Journalist killed in Israeli strike feared his own assassination - as IDF claims he was a &#x27;terrorist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-sharif-gaza_6987707.jpg?20250810221948" alt="Israel kills journalist it claims was a Hamas &#x27;terrorist&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Journalist killed in Israeli strike feared his own assassination - as IDF claims he was a &#x27;terrorist&#x27;</a></span>
+                <span class="title"><a href="https://news.sky.com/story/journalist-killed-in-israeli-strike-feared-his-own-assassination-as-idf-claims-he-was-a-terrorist-13409945" target="_blank">Israel kills journalist it claims was a Hamas &#x27;terrorist&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-10 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497905/netanyahu-israel-plan-gaza-united-nations" target="_blank">Netanyahu defends Israel&#x27;s plan to seize Gaza City, despite global condemnation</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-10 22:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/10/nx-s1-5497742/europe-trump-putin-alaska-ukraine-talks" target="_blank">European leaders urge for Ukraine to be included in Trump-Putin Alaska peace talks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-10 19:15</span>
             </div>
         </div>
 </div>
@@ -109,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/" target="_blank">Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-11 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +161,38 @@
                 <span class="time">2025-08-10 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/05/mmoonfarside-500x500.jpg" alt="NASA plans to build a nuclear reactor on the Moon—a space lawyer explains why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why/" target="_blank">NASA plans to build a nuclear reactor on the Moon—a space lawyer explains why</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-10 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaishakhvipin/redact-real-time-ai-powered-prompt-security-platform-5cl2" target="_blank">Redact - Real-Time AI-Powered Prompt Security Platform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 01:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk" target="_blank">Tesla remotely deactivates rapper&#x27;s vehicle for singing about the Cybertruck</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-11 00:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Vulkan-ProRes-RAW" target="_blank">FFmpeg Develops Vulkan Hardware Acceleration For Apple ProRes RAW Codec</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-11 00:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,38 +220,20 @@
                 <span class="time">2025-08-10 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Hatter-overview.jpg?resize=406%2C232&amp;ssl=1" alt="Give Your Ubuntu Desktop a Revamp with Hatter Icon Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/try-hatter-icon-theme-for-linux" target="_blank">Give Your Ubuntu Desktop a Revamp with Hatter Icon Set</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-10 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Hatter-overview.jpg?resize=406%2C232&amp;ssl=1" alt="Give Ubuntu More Personality with the Hatter Icon Set" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/try-hatter-icon-theme-for-linux" target="_blank">Give Ubuntu More Personality with the Hatter Icon Set</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-10 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html" target="_blank">AOL closes its dial up internet service</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-10 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2020/08/s1ycltn3wskgwwgl2a7g.jpg" alt="The Real Reason You Haven’t Been Replaced by AI Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235" target="_blank">The Real Reason You Haven’t Been Replaced by AI Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-10 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/cyclops-xmen.jpg" alt="James Mardsen’s Happy to Be Cyclops Again for ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,20 +279,20 @@
                 <span class="time">2025-08-10 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-just-dodged-an-8-billion-bullet-thanks-to-donald-trump-2000641188" target="_blank">Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-10 13:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5632.png" alt="Sticker Shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5632" target="_blank">Sticker Shock</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-11 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1754597272-20250810.png" alt="Saturday Morning Breakfast Cereal - Fermi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
