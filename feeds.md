@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 12:02:09 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-12 13:11:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/12/israel-believes-any-journalist-reporting-on-gaza-must-be-hamas?traffic_source=rss" target="_blank">Israel believes “any journalist reporting on Gaza” must be Hamas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-12 12:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,20 +104,20 @@
                 <span class="time">2025-08-12 09:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250811-shopping-street-inflation-cs-657090.jpg" alt="Inflation report may show consumer prices rising" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/july-2025-inflation-prices-rising-tariffs-what-to-know-rcna224267" target="_blank">Inflation report may show consumer prices rising</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-12 09:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689a7b940efdfe44ba1eb64b/master/pass/Best%20Computer%20Speakers.png" alt="11 Best Computer Speakers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-computer-speakers/" target="_blank">11 Best Computer Speakers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/687a8668c537c576e07c5474/master/pass/gear_apple_eco_policies.jpg" alt="Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +163,47 @@
                 <span class="time">2025-08-12 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg" alt="High-severity WinRAR 0-day exploited for weeks by 2 groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/" target="_blank">High-severity WinRAR 0-day exploited for weeks by 2 groups</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-12 00:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/google-deepmind-aeneas/en/headerimage/generatedHeaderImage-1754655022642.jpg" alt="Google DeepMind Open Sources Aeneas, an AI Model for Analyzing Ancient Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/google-deepmind-aeneas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Open Sources Aeneas, an AI Model for Analyzing Ancient Texts</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-12 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/mint222.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Beta Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-mint-22-2-beta-whats-new" target="_blank">Linux Mint 22.2 Beta Released, This is What’s New</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-12 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-580.76.05-Linux" target="_blank">NVIDIA 580.76.05 Linux Driver Updates EGL Bits, Adds New MetaMode Attribute</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-12 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18554069&w=600" alt="Scoped Values: Revolutionizing Java Context Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scoped-values-revolutionizing-java-context-managem" target="_blank">Scoped Values: Revolutionizing Java Context Management</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-12 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -169,48 +214,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/vercel-ai-sdk/en/headerimage/generatedHeaderImage-1754943364006.jpg" alt="Vercel Releases AI Elements Library for React UI Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/vercel-ai-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Vercel Releases AI Elements Library for React UI Integration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-12 10:09</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/remejuan/how-to-build-teams-that-ask-questions-out-loud-2nie" target="_blank">How to Build Teams That Ask Questions Out Loud</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc" target="_blank">Truth About Data Engineering Myths in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/" target="_blank">AI isn’t stealing your job, it’s helping you find it</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-12 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4" target="_blank">The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 06:48</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.qodo.ai/blog/qodo-command-swe-bench-verified/" target="_blank">Qodo CLI agent scores 71.2% on SWE-bench Verified</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-12 11:05</span>
             </div>
         </div>
 </div>
@@ -232,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/GettyImages-2225268507.jpg" alt="RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/rfk-jr-posts-fishing-trip-pics-online-amidst-fallout-from-cdc-shooting-2000641604" target="_blank">RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-10.jpg" alt="Alienware 16 Area-51 Review: If Only the Display Was as Fantastic as the Mechanical Keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +295,6 @@
                 <span class="time">2025-08-11 22:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters’ Tops the Billboard 100 With Huntr/x’s ‘Golden’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-tops-the-billboard-100-with-huntr-xs-golden-2000641599" target="_blank">‘KPop Demon Hunters’ Tops the Billboard 100 With Huntr/x’s ‘Golden’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
