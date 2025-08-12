@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 20:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 21:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +59,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Trump considering a lawsuit against the Fed&#x27;s Powell</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-12 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5495621/state-department-human-rights-reports-slashed" target="_blank">State Department slashes its annual reports on human rights</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 17:46</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +106,38 @@
                 <span class="time">2025-08-12 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755015410158_now_daily_a_nobles_natguard_arrive_250812_1920x1080-n9u3q9.jpg" alt="National Guard troops arrive in D.C. after Trump&#x27;s &#x27;crime emergency&#x27; declaration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/national-guard-troops-arrive-in-d-c-after-trump-s-crime-emergency-declaration-244798533790" target="_blank">National Guard troops arrive in D.C. after Trump&#x27;s &#x27;crime emergency&#x27; declaration</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-12 16:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/12/russian-government-hackers-said-to-be-behind-us-federal-court-filing-system-hack-report/" target="_blank">Russian government hackers said to be behind US federal court filing system hack: Report</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/54713527732_186de729b2_k-500x500.jpg" alt="Space Force officials take secrecy to new heights ahead of key rocket launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/space-force-officials-take-secrecy-to-new-heights-ahead-of-key-rocket-launch/" target="_blank">Space Force officials take secrecy to new heights ahead of key rocket launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-12 20:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games" target="_blank">League of Legends is testing a new WASD control scheme, 16 years in</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-12 20:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/the_thinker-500x500.jpg" alt="Why it’s a mistake to ask chatbots about their mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,33 +165,6 @@
                 <span class="time">2025-08-12 19:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/12/match-to-pay-14m-to-the-ftc-due-to-false-advertising-and-other-deceptive-practices/" target="_blank">Match to pay $14M to the FTC due to false advertising and other deceptive practices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-500x500.jpg" alt="Perplexity offers more than twice its total valuation to buy Chrome from Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/perplexity-offers-more-than-twice-its-total-valuation-to-buy-chrome-from-google/" target="_blank">Perplexity offers more than twice its total valuation to buy Chrome from Google</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-12 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini" target="_blank">Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-12 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +174,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1" target="_blank">Beyond Automation: The Role of AI and Gen AI in Modern Software Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ussdlover/building-robust-form-validation-in-angular-with-custom-validators-2605" target="_blank">Building Robust Form Validation in Angular with Custom Validators</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-12 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/crossover.jpg?resize=406%2C232&amp;ssl=1" alt="CrossOver 25.1.0 Released with Microsoft Office Fixes on Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/crossover-25-1-0-released-office-gaming-fixes" target="_blank">CrossOver 25.1.0 Released with Microsoft Office Fixes on Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-12 19:20</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +222,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/google-jules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Jules, an Asynchronous Coding Agent Powered by Gemini 2.5</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-12 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1%2Ff451a206-11c8-4e3d-8936-143d0a7e65bb.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/-38nh" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CPU-Microcode-August-2025" target="_blank">Intel CPU Microcode Updates Released For Six High Severity Vulnerabilities</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 17:13</span>
             </div>
         </div>
 </div>
@@ -252,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/trump-h.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Trump transforms a simple question about National Guard deployment into an incoherent monologue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/12/trump-transforms-a-simple-question-about-national-guard-deployment-into-an-incoherent-monologue.html" target="_blank">Trump transforms a simple question about National Guard deployment into an incoherent monologue</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-12 19:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JY25W0KR3SPV4D8JE6BTYYPC/hero-image.png" alt="The Three Fitness Apps I Use Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -276,15 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/this-app-switcher-for-mac-is-way-faster-than-command-tab?utm_medium=RSS" target="_blank">This App Switcher for Mac Is Way Faster Than Command-Tab</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/FacebookShrimpJesus.jpg" alt="Jesus Christ! The Rise of AI for Talking to God" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jesus-christ-the-rise-of-ai-for-talking-to-god-2000641940" target="_blank">Jesus Christ! The Rise of AI for Talking to God</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 16:55</span>
             </div>
         </div>
 </div>
@@ -324,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
