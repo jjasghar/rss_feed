@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-11 23:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 00:05:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 11, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni" target="_blank">Trump taps conservative economist to lead statistics agency</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-11 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/gunman-kills-three-at-target-store-in-us-state-of-texas?traffic_source=rss" target="_blank">Gunman kills three at Target store in US state of Texas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-11 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +103,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Officials give updates after deadly steel plant explosion</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-11 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/funerals-held-for-assassinated-gaza-journalists?traffic_source=rss" target="_blank">Funerals held for assassinated Gaza journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1754940117614_f_mo_dc_bowser_trump_crime_250811_1920x1080-0d985w.jpg" alt="Mayor Bowser says Trump&#x27;s plan for D.C. crime is &#x27;unsettling and unprecedented&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/mayor-bowser-addresses-trump-plan-take-over-d-c-police-and-deploy-national-guard-244720709606" target="_blank">Mayor Bowser says Trump&#x27;s plan for D.C. crime is &#x27;unsettling and unprecedented&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-11 19:22</span>
             </div>
         </div>
 </div>
@@ -161,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyj9mxweuh166eflmu0n.png" alt="15 major concepts of Data Engineering." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ronny_mwenda_8b2e8cfe1fa9/15-major-concepts-of-data-engineering-3aik" target="_blank">15 major concepts of Data Engineering.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-11 23:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fil43oy9yyjeg5vpzvnmn.png" alt="WEP Encryption Explained: How It Worked and Why It Failed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +223,6 @@
                 <span class="time">2025-08-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2542955%2Ff05f9e99-169f-44c0-bd42-84eb2c3ca7f1.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/-5bjb" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 17:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2DDHY2ZDG3JZM4RX258XC9G/hero-image.png" alt="It&#x27;s About to Get Harder to Read Old Reddit Threads, and You Can Blame AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/its-about-to-get-harder-to-read-old-reddit-threads?utm_medium=RSS" target="_blank">It&#x27;s About to Get Harder to Read Old Reddit Threads, and You Can Blame AI</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/lady-gaga-tudum-netflix.jpg" alt="Is Lady Gaga’s ‘Wednesday’ Role Everything It Seems?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -276,15 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/11/an-idea-that-could-make-reading-subscription-content-affordable.html" target="_blank">An idea that could make reading subscription content affordable</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-11 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/legostarwr.jpg" alt="Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/death-star-lego-set-big-1000-expensive-leak-images-star-wars-2000616943" target="_blank">Here’s Our First Look At The Rumored $1,000 Lego Death Star Set Containing Over 9K Pieces</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-11 20:29</span>
             </div>
         </div>
 </div>
@@ -333,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
