@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 01:29:15 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-12 02:31:30 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/zelenskyy-says-putin-readying-for-new-offensive-in-ukraine-not-ceasefire?traffic_source=rss" target="_blank">Zelenskyy says Putin readying for ‘new offensive’ in Ukraine, not ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-12 02:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250811_1754923283197_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump signs 90-day extension for trade truce with China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Trump signs 90-day extension for trade truce with China</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-12 00:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e64/live/545d0f70-76f7-11f0-8071-1788c7e8ae0e.jpg" alt="Hot weather to peak amid water shortage fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czerrzdewzxo?at_medium=RSS&at_campaign=rss" target="_blank">Hot weather to peak amid water shortage fears</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-12 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,33 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5499372/european-leaders-insist-ukraine-must-be-part-of-peace-talks" target="_blank">European Leaders Insist Ukraine Must be Part of Peace Talks</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-11 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/11/un-chief-condemns-assassination-of-al-jazeera-journalists?traffic_source=rss" target="_blank">UN chief condemns assassination of Al Jazeera journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-250811_1754926928028_hpMain_4x3t_384.jpg" alt="What to know about DC Home Rule Act as Trump puts DC police under federal control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dc-home-rule-act-trump-puts-dc-police/story?id=124548993" target="_blank">What to know about DC Home Rule Act as Trump puts DC police under federal control</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-11 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Officials give updates after deadly steel plant explosion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Officials give updates after deadly steel plant explosion</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-11 19:56</span>
             </div>
         </div>
 </div>
@@ -157,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn" target="_blank">Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-LLM-Scaler-1.0" target="_blank">Intel Releases LLM-Scaler 1.0 As Part Of Project Battlematrix</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-12 00:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyj9mxweuh166eflmu0n.png" alt="15 major concepts of Data Engineering." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,24 +213,6 @@
                 <span class="title"><a href="https://dzone.com/articles/aws-step-functions-ide-extension-a-game-changer-bu" target="_blank">AWS Step Functions IDE Extension: A Game Changer, but What’s Next?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-11 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Early-Testing" target="_blank">Early Linux 6.17 Tests Show Some AMD Strix Halo Performance Improvements &amp; Regressions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-11 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/topjer/my-colleague-did-overtime-for-two-weeks-straight-here-is-what-i-told-him-2n3h" target="_blank">My colleague did overtime for two weeks straight, here is what I told him</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 19:47</span>
             </div>
         </div>
 </div>
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
