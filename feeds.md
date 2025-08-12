@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 11:01:41 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-12 12:02:09 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/12/g-s1-82200/up-first-newsletter-washington-dc-crime-crackdown-europe-trump-putin-ford-electric-vehicle-rollout" target="_blank">D.C. residents express concern over crime crackdown. And, Ford invests big in EVs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 11:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,21 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0a/live/6e5cfdd0-775c-11f0-89ee-73563f6604dd.jpg" alt="Ukraine&#x27;s borders must not be changed by force, EU leaders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250811-shopping-street-inflation-cs-657090.jpg" alt="Inflation report may show consumer prices rising" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyrlvwx9rgo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s borders must not be changed by force, EU leaders say</a></span>
-                <span class="feed">BBC News</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/july-2025-inflation-prices-rising-tariffs-what-to-know-rcna224267" target="_blank">Inflation report may show consumer prices rising</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-12 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/protests-held-worldwide-over-israels-murder-of-al-jazeera-gaza-journalists?traffic_source=rss" target="_blank">Protests held worldwide over Israel’s murder of Al Jazeera Gaza journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-12 08:35</span>
             </div>
         </div>
 </div>
@@ -165,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shifa_2/starting-my-backend-journey-dhl" target="_blank">Starting My Backend Journey:</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 11:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/vercel-ai-sdk/en/headerimage/generatedHeaderImage-1754943364006.jpg" alt="Vercel Releases AI Elements Library for React UI Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -209,15 +213,6 @@
                 <span class="time">2025-08-12 06:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/european-cloud-sovereignty/en/headerimage/generatedHeaderImage-1754671305282.jpg" alt="The European Cloud Dilemma: Innovation Versus Digital Sovereignty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/european-cloud-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The European Cloud Dilemma: Innovation Versus Digital Sovereignty</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-12 06:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +222,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/automatic-license-plate-readers-are-coming-to-schools.html" target="_blank">Automatic License Plate Readers Are Coming to Schools</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/the-incriminating-video-scam.html" target="_blank">The “Incriminating Video” Scam</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-11 11:05</span>
+                <span class="time">2025-08-12 11:01</span>
             </div>
         </div>
 </div>
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
