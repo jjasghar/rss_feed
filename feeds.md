@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 06:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-12 07:02:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Newegg Promo Code: 10% Off August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/newegg-promo-code/" target="_blank">Newegg Promo Code: 10% Off August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-12 05:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -156,15 +158,6 @@
                 <span class="time">2025-08-11 22:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats" target="_blank">Anthropic’s Claude chatbot can now remember your past conversations</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-11 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +170,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/" target="_blank">AI isn’t stealing your job, it’s helping you find it</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-12 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4" target="_blank">The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 06:48</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/jakarta-ee-12-consistency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jakarta EE 12 Will Focus on Consistency and Configuration</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-12 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.arxiv.org/pdf/2508.06471" target="_blank">GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-12 01:26</span>
             </div>
         </div>
 </div>
@@ -320,22 +313,13 @@
                 <span class="time">2025-08-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/11/battlefeels" target="_blank">Battlefeels</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-11 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
