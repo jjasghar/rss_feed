@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 07:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 08:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5498719/the-arduous-system-for-getting-aid-into-gaza" target="_blank">The arduous system for getting aid into Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/zelenskyy-says-putin-readying-for-new-offensive-in-ukraine-not-ceasefire?traffic_source=rss" target="_blank">Zelenskyy says Putin readying for ‘new offensive’ in Ukraine, not ceasefire</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-12 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-250811_1754923283197_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump signs 90-day extension for trade truce with China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Trump signs 90-day extension for trade truce with China</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-12 00:26</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prepzee/truth-about-data-engineering-myths-in-2025-3dkc" target="_blank">Truth About Data Engineering Myths in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/" target="_blank">AI isn’t stealing your job, it’s helping you find it</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -179,6 +186,15 @@
                 <span class="title"><a href="https://dev.to/andresjcorrea/the-journey-from-code-to-cpu-what-really-happens-when-you-hit-run-fe4" target="_blank">The Journey from Code to CPU: What Really Happens When You Hit Run? 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-12 06:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/european-cloud-sovereignty/en/headerimage/generatedHeaderImage-1754671305282.jpg" alt="The European Cloud Dilemma: Innovation Versus Digital Sovereignty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/european-cloud-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">The European Cloud Dilemma: Innovation Versus Digital Sovereignty</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-12 06:39</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/its-easy-to-access-resources-with-the-help-of-ai-but-getting-the-right-guidance-is-equally-3dnk" target="_blank">It&#x27;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-12 04:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ferryops/tambah-fitur-di-aplikasi-malah-bikin-bagian-lain-error-50hn" target="_blank">Tambah Fitur di Aplikasi Malah Bikin Bagian Lain Error?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/jakarta-ee-12-consistency/en/headerimage/java-istock-image-01-1754654923484.jpg" alt="Jakarta EE 12 Will Focus on Consistency and Configuration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/jakarta-ee-12-consistency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jakarta EE 12 Will Focus on Consistency and Configuration</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-12 02:30</span>
             </div>
         </div>
 </div>
@@ -318,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
