@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 04:06:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-12 05:02:14 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 04:06 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/australia-pm-says-israels-netanyahu-in-denial-over-suffering-in-gaza?traffic_source=rss" target="_blank">Australia PM says Israel’s Netanyahu ‘in denial’ over suffering in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-12 04:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2025-08-11 23:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/11/gunman-kills-three-at-target-store-in-us-state-of-texas?traffic_source=rss" target="_blank">Gunman kills three at Target store in US state of Texas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-11 22:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/" target="_blank">TDK backs Ultraviolette with $21M to take India-made electric motorcycles global</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 04:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2025-08-11 21:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/" target="_blank">iOS 26 beta 6 adds new ringtones, snappy app launches, and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/12/ai-isn-t-stealing-your-job-it-s-helping-you-find-it/" target="_blank">AI isn’t stealing your job, it’s helping you find it</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-12 07:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="It&#x27;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ronny_mwenda_8b2e8cfe1fa9/15-major-concepts-of-data-engineering-3aik" target="_blank">15 major concepts of Data Engineering.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 23:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/july25-training-promo/" target="_blank">Get your all-access pass to career greatness—use code: AUG25 to save 35% today!</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2025-08-11 22:12</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 04:06 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
