@@ -1,34 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 22:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 23:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +58,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss" target="_blank">US sanctions DR Congo armed group over illicit mining, ceasefire tested</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-12 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b682/live/34bc1750-77c5-11f0-a975-cb151ca452f4.jpg" alt="Zelensky rules out ceding Donbas region as Russians make fresh advance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g6qd3k2peo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky rules out ceding Donbas region as Russians make fresh advance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-12 21:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5500526/can-the-president-order-a-new-census-trump-congress" target="_blank">Trump official tells census workers Congress has final say over the count, not Trump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 21:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250812-washington-homeless-encampment-vl-1218p-878093.jpg" alt="Trump administration suggests displaced D.C. homeless people go to shelters, treatment or jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-dc-homeless-people-places-stay-jail-shelters-rcna224527" target="_blank">Trump administration suggests displaced D.C. homeless people go to shelters, treatment or jail</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-12 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss" target="_blank">UN says bid to help address turmoil in Haiti less than 10 percent funded</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-12 20:42</span>
@@ -62,47 +108,29 @@
                 <span class="time">2025-08-12 17:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5495621/state-department-human-rights-reports-slashed" target="_blank">State Department slashes its annual reports on human rights</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-12 17:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/trump-deploys-us-national-guard-to-dc-amid-crime-emergency-claims?traffic_source=rss" target="_blank">Trump deploys US National Guard to DC amid crime emergency claims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-12 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5500164/tropical-storm-erin-hurricane" target="_blank">Tropical Storm Erin could become the first Atlantic hurricane of the 2025 season</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02bc/live/1a0a6650-777a-11f0-b15a-09fa5f596b3a.jpg" alt="Israel bombards Gaza City as UK and allies demand action against &#x27;unfolding famine&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyj0dd0qj9o?at_medium=RSS&at_campaign=rss" target="_blank">Israel bombards Gaza City as UK and allies demand action against &#x27;unfolding famine&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-12 16:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689bc28453d8ba6e1f545f01/master/pass/AOL-Ending-Dial-Up-Gear-AP687183228394.jpg" alt="AOL Will Shut Down Dial-Up Internet Access in September" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/" target="_blank">AOL Will Shut Down Dial-Up Internet Access in September</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-12 22:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/12/stubhub-is-once-again-working-on-its-ipo-that-could-raise-1b/" target="_blank">StubHub is once again working on its IPO that could raise $1B</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +167,38 @@
                 <span class="time">2025-08-12 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-12 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/12/indian-fintech-paytm-wins-a-major-regulatory-battle-days-after-key-investor-exit/" target="_blank">Indian fintech Paytm wins a major regulatory battle days after key investor exit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 19:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tangerinetrain/api-calls-and-testing-2def" target="_blank">API calls and Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/nrposner/coding_club" target="_blank">An Introduction to Python-Rust Interop for Scientific Codebases</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-12 21:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-ASI-Lower-Overhead" target="_blank">Linux Address Space Isolation &quot;ASI&quot; Revived After Lowering 70% Performance Hit To 13%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-12 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,38 +226,20 @@
                 <span class="time">2025-08-12 19:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6" target="_blank">Machine learning</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557550&w=600" alt="Real-Time Recommendations Powered by Spanner, BigQuery, and Vector Embeddings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-recommendations-with-spanner-bigquery" target="_blank">Real-Time Recommendations Powered by Spanner, BigQuery, and Vector Embeddings</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/google-jules/en/headerimage/generatedHeaderImage-1755020265880.jpg" alt="Google Launches Jules, an Asynchronous Coding Agent Powered by Gemini 2.5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/google-jules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Jules, an Asynchronous Coding Agent Powered by Gemini 2.5</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-12 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/" target="_blank">Microsoft Patch Tuesday, August 2025 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-12 22:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/One-Piece-Miss-Sunday-Netflix.jpg" alt="Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflixs-one-piece-crew-rallies-around-charithra-chandran-after-racist-backlash-2000642170" target="_blank">Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2HBSA8C537JB6XGV1K2C13/hero-image.jpg" alt="Netflix Has Hidden Features and Secret Codes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/netflix-hidden-features?utm_medium=RSS" target="_blank">Netflix Has Hidden Features and Secret Codes</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2FMMZG3SD4HASA0SE2R694X/hero-image.png" alt="The Best Ways to Manage Your MacBook&#x27;s Battery Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +306,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/fitness-apps-i-use-every-day?utm_medium=RSS" target="_blank">The Three Fitness Apps I Use Every Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/An-ancient-Kodak-film-camera.-Andy-Meyers-Shutte.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="133 year-old Kodak, crushed by debt, warns it may go out of business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/12/133-year-old-kodak-crushed-by-debt-warns-it-may-go-out-of-business.html" target="_blank">133 year-old Kodak, crushed by debt, warns it may go out of business</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-12 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2FG344BASDVP19AM0ADGYFR/hero-image.png" alt="This App Switcher for Mac Is Way Faster Than Command-Tab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-app-switcher-for-mac-is-way-faster-than-command-tab?utm_medium=RSS" target="_blank">This App Switcher for Mac Is Way Faster Than Command-Tab</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-12 18:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
