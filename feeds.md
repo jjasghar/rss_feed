@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 13:11:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-12 14:01:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a7/live/f4edaad0-7779-11f0-b15a-09fa5f596b3a.jpg" alt="US woman convicted over failed assassination in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gj87jxg78o?at_medium=RSS&at_campaign=rss" target="_blank">US woman convicted over failed assassination in UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-12 13:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +97,29 @@
                 <span class="time">2025-08-12 09:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/12/psg-vs-tottenham-uefa-super-cup-teams-start-lineups?traffic_source=rss" target="_blank">PSG vs Tottenham: UEFA Super Cup – teams, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-12 09:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen" target="_blank">Trump screwed over Nvidia’s Chinese sales, then let them happen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/12/australian-court-finds-apple-google-abused-app-store-market-power/" target="_blank">Australian court finds Apple, Google abused app store market power</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689a7b940efdfe44ba1eb64b/master/pass/Best%20Computer%20Speakers.png" alt="11 Best Computer Speakers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +156,20 @@
                 <span class="time">2025-08-12 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/tdk-backs-ultraviolette-with-21m-to-take-india-made-electric-motorcycles-global/" target="_blank">TDK backs Ultraviolette with $21M to take India-made electric motorcycles global</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 04:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/" target="_blank">Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18555679&w=600" alt="Architecture Lessons from Two Digital Transformations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/digital-transformation-success-failure-lessons" target="_blank">Architecture Lessons from Two Digital Transformations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/google-deepmind-aeneas/en/headerimage/generatedHeaderImage-1754655022642.jpg" alt="Google DeepMind Open Sources Aeneas, an AI Model for Analyzing Ancient Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-08-12 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.qodo.ai/blog/qodo-command-swe-bench-verified/" target="_blank">Qodo CLI agent scores 71.2% on SWE-bench Verified</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-12 11:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/I-Robot-movie.jpg" alt="Alan Tudyk Wasn’t Part of ‘I, Robot’ Publicity for a Very Surprising Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alan-tudyk-i-robot-will-smith-2000641646" target="_blank">Alan Tudyk Wasn’t Part of ‘I, Robot’ Publicity for a Very Surprising Reason</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1WENMNM9SXFBBR8YRQC0DME/hero-image.png" alt="You Can Get This 2020 MacBook Pro With Microsoft Office on Sale for Just $420 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/2020-macbook-pro-microsoft-office-2021-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get This 2020 MacBook Pro With Microsoft Office on Sale for Just $420 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/GettyImages-2225268507.jpg" alt="RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,24 +288,6 @@
                 <span class="time">2025-08-12 01:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/cate-blanchett-netflix.jpg" alt="Cate Blanchett Doesn’t Know If Her ‘Squid Game’ Cameo Will Lead to More (But She’d Like it to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cate-blanchett-doesnt-know-if-her-squid-game-cameo-will-lead-to-more-but-shed-like-it-to-2000641517" target="_blank">Cate Blanchett Doesn’t Know If Her ‘Squid Game’ Cameo Will Lead to More (But She’d Like it to)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/john-davison-.jpg" alt="IGN Boss Leaving After Latest Round Of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972" target="_blank">IGN Boss Leaving After Latest Round Of Layoffs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-11 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
