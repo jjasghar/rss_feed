@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 02:31:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-12 03:23:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 03:23 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -235,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2020/11/nkfymakb0t5icflu8bxx.jpg" alt="Elon Musk Says Apple Is Rigging the App Store for ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/elon-musk-says-apple-is-rigging-the-app-store-for-chatgpt-2000641677" target="_blank">Elon Musk Says Apple Is Rigging the App Store for ChatGPT</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 03:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/FBI-e1754962308859.jpeg?fit=768%2C550&amp;quality=60&amp;ssl=1" alt="Federal agents in DC assaulted with sandwich, freedom fighter escapes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/11/federal-agents-in-dc-assaulted-with-sandwich-freedom-fighter-escapes.html" target="_blank">Federal agents in DC assaulted with sandwich, freedom fighter escapes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-12 01:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/cate-blanchett-netflix.jpg" alt="Cate Blanchett Doesn’t Know If Her ‘Squid Game’ Cameo Will Lead to More (But She’d Like it to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -270,29 +289,20 @@
                 <span class="time">2025-08-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/lady-gaga-tudum-netflix.jpg" alt="Is Lady Gaga’s ‘Wednesday’ Role Everything It Seems?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/is-lady-gagas-wednesday-role-everything-it-seems-2000641448" target="_blank">Is Lady Gaga’s ‘Wednesday’ Role Everything It Seems?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-11 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Apple-iPhone-15-Pro-Max-256GB-Blue-Titanium.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="The latest Apple iPhone without the wallet hangover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/11/the-latest-apple-iphone-without-the-wallet-hangover.html" target="_blank">The latest Apple iPhone without the wallet hangover</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-11 21:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5633.png" alt="Heart Of Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5633" target="_blank">Heart Of Gold</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-12 01:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1754597412-20250811.png" alt="Saturday Morning Breakfast Cereal - Genera" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:23 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
