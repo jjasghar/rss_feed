@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 16:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 17:02:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5500164/tropical-storm-erin-hurricane" target="_blank">Tropical Storm Erin could become the first Atlantic hurricane of the 2025 season</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nat-guard-4-ap-gmh-250812_1755011279155_hpMain_4x3t_384.jpg" alt="Trump admin live updates: National Guard troops arriving in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: National Guard troops arriving in DC</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-12 16:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +98,29 @@
                 <span class="time">2025-08-12 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/12/g-s1-82200/up-first-newsletter-washington-dc-crime-crackdown-europe-trump-putin-ford-electric-vehicle-rollout" target="_blank">D.C. residents express concern over crime crackdown. And, Ford invests big in EVs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-12 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/12/g-s1-82188/alaska-russia-us-putin-trump-summit" target="_blank">Alaska was once a full-fledged Russian colony. Now it&#x27;s hosting a U.S.-Russia summit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-12 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini" target="_blank">Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-12 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/kpopTOP-500x500.jpg" alt="They’re golden: Fictional band from K-Pop Demon Hunters tops the charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/theyre-golden-fictional-band-fromk-pop-demon-hunters-tops-the-charts/" target="_blank">They’re golden: Fictional band from K-Pop Demon Hunters tops the charts</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-12 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68911edf5cf36cc42819acb5/master/pass/pol_dhs_getty.jpg" alt="The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +157,6 @@
                 <span class="time">2025-08-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689a7b940efdfe44ba1eb64b/master/pass/Best%20Computer%20Speakers.png" alt="11 Best Computer Speakers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-computer-speakers/" target="_blank">11 Best Computer Speakers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/687a8668c537c576e07c5474/master/pass/gear_apple_eco_policies.jpg" alt="Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/" target="_blank">Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +165,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CrossOver-25.1-Released" target="_blank">CodeWeavers CrossOver 25.1 Improves The Stability Of Microsoft Office On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-12 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j" target="_blank">IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-12 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18555741&w=600" alt="Declarative Pipelines in Apache Spark 4.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-your-first-apache-spark-declarative-pipeline" target="_blank">Declarative Pipelines in Apache Spark 4.0</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!-Sp9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fbaccac-2d71-44fb-bbc4-4de12e939b92_1444x888.png" alt="What are Forward Deployed Engineers, and why are they so in demand?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers" target="_blank">What are Forward Deployed Engineers, and why are they so in demand?</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-12 15:25</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +214,6 @@
                 <span class="title"><a href="https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/" target="_blank">Why we open sourced our MCP server, and what it means for you</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-12 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-ai-max-arrow-lake" target="_blank">AMD Ryzen AI Max+ 395 With Framework Desktop vs. Intel Core Ultra 9 285K Linux Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 13:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18555679&w=600" alt="Architecture Lessons from Two Digital Transformations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/digital-transformation-success-failure-lessons" target="_blank">Architecture Lessons from Two Digital Transformations</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/google-deepmind-aeneas/en/headerimage/generatedHeaderImage-1754655022642.jpg" alt="Google DeepMind Open Sources Aeneas, an AI Model for Analyzing Ancient Texts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/google-deepmind-aeneas/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Open Sources Aeneas, an AI Model for Analyzing Ancient Texts</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-12 13:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/FacebookShrimpJesus.jpg" alt="Jesus Christ! The Rise of AI for Talking to God" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jesus-christ-the-rise-of-ai-for-talking-to-god-2000641940" target="_blank">Jesus Christ! The Rise of AI for Talking to God</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 16:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="If you want to stop a fascist takeover, we must act now: Here&#x27;s how" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,20 +289,20 @@
                 <span class="time">2025-08-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/GettyImages-2225268507.jpg" alt="RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rfk-jr-posts-fishing-trip-pics-online-amidst-fallout-from-cdc-shooting-2000641604" target="_blank">RFK Jr. Posts Fishing Trip Pics Online Amidst Fallout From CDC Shooting</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/12/battlefeels" target="_blank">Battlefeels</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-12 16:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5633.png" alt="Heart Of Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -309,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
