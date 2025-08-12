@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 15:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 16:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/08/12/g-s1-82221/medicaid-cuts-big-beautiful-bill-uninsured" target="_blank">The hidden costs of cutting Medicaid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-12 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755006918949_now_mnn_cpi_july_250812_1920x1080-dggqho.jpg" alt="Consumer price index for July shows inflation stayed steady" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +99,20 @@
                 <span class="time">2025-08-12 09:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-training-DB-250812_1754983437441_hpMain_4x3t_384.jpg" alt="Zelenskyy says Putin &#x27;definitely&#x27; not preparing to end war despite Trump summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-putin-preparing-end-war-despite-trump-summit/story?id=124567946" target="_blank">Zelenskyy says Putin &#x27;definitely&#x27; not preparing to end war despite Trump summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-12 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68911edf5cf36cc42819acb5/master/pass/pol_dhs_getty.jpg" alt="The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/trump-administration-dhs-white-house-deportations-meme/" target="_blank">The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-12 15:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689a48b3669b22c6f5bf4726/master/pass/Cloud%20vs.%20Local-%20What%E2%80%99s%20the%20Best%20for%20Security%20Camera%20Footage_.png" alt="Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-08-12 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757885/epic-apple-google-australia-judgment" target="_blank">Epic says Fortnite is coming back to iOS in Australia</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-12 09:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j" target="_blank">IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 16:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F54l2gi8uus5v2cy6k27k.jpg" alt="ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="time">2025-08-12 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/mint222.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Beta Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/linux-mint-22-2-beta-whats-new" target="_blank">Linux Mint 22.2 Beta Released, This is What’s New</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-12 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="If you want to stop a fascist takeover, we must act now: Here&#x27;s how" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/12/if-you-want-to-stop-a-fascist-takeover-we-must-act-now-heres-how.html" target="_blank">If you want to stop a fascist takeover, we must act now: Here&#x27;s how</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-12 15:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/LINK.jpg" alt="Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2025-08-12 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-10.jpg" alt="Alienware 16 Area-51 Review: If Only the Display Was as Fantastic as the Mechanical Keyboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alienware-16-area-51-review-if-only-the-display-was-as-fantastic-as-the-mechanical-keyboard-2000640678" target="_blank">Alienware 16 Area-51 Review: If Only the Display Was as Fantastic as the Mechanical Keyboard</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +304,13 @@
                 <span class="time">2025-08-12 01:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754597412-20250811.png" alt="Saturday Morning Breakfast Cereal - Genera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/genera" target="_blank">Saturday Morning Breakfast Cereal - Genera</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
